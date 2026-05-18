@@ -11,7 +11,7 @@ L'ONT est une traduction et reconstruction françaises du **corpus hébreu et ar
 
 **Périmètre du corpus :** L'ONT ne se limite pas à la Bible canonique — le "canon" est une construction tardive (IVe siècle et après) qui n'existait pas à l'époque de la rédaction des textes. Le projet travaille sur l'ensemble de la bibliothèque d'un Juif lettré du Second Temple : textes canoniques ET pseudépigraphiques. **Critère d'inclusion :** tout texte en hébreu ou araméen antique qui illumine le cosmos hébreu depuis l'intérieur — notamment 1 Khanokh, Jubilés (*Yovelim*), le *Sefar Gibbaraya*, et le corpus de Qumrân à substrat sémitique. **Critère d'exclusion :** tout texte qui a absorbé des catégories hellénistiques (grecques), même s'il est d'auteur juif — Philon d'Alexandrie, *Sagesse de Salomon*, 4 Maccabées. Le filtre n'est pas canonique, il est ontologique : est-ce que le texte pense en hébreu ou en grec ? La distinction canon/apocryphe n'existe pas dans l'ONT.
 
-**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparé — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) ; les **Ma'asim** (מַעֲשִׂים — les actes accomplis, de *asah*) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
+**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparé — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) ; les **Ma'asim HaShlichim** (מַעֲשֵׂי הַשְּׁלִיחִים — les actes des *shlichim*, de *shalach* : envoyés-mandatés) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
 
 **Référence académique principale :** John H. Walton — *The Lost World of Genesis One*. L'approche fonctionnelle-ontologique de l'hébreu biblique. Le paradigme du Temple cosmique proche-oriental.
 
@@ -76,7 +76,8 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**El Elyon**` — nom divin intraduisible introduit en Bereshit 14. *Elyon* de *alah* (monter, s'élever) : El le Souverain élevé au-dessus de tout. Même traitement qu'Elohim et YHWH. S'écrit en deux mots, les deux en gras : `**El Elyon**`. Lorsque combiné avec YHWH : `**YHWH** **El Elyon**`.
 - `**El Roï**` — nom divin intraduisible donné par Hagar en *Bereshit* 16:13. De *El* (אֵל) + *ro'i* (רֳאִי) de *ra'ah* (voir) : "El qui me voit", "El de la vision". Unique occurrence dans toute la Bible — donné par une servante étrangère à **YHWH** dans le désert. S'écrit en deux mots, les deux en gras : `**El Roï**`. Premier emploi en *Bereshit* 16:13.
 - `**Kohen**` / `**kohen**` et formes dérivées : `**kohanim**` (pluriel), `**kohen gadol**` (grand prêtre) — intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique) : l'intermédiaire fonctionnel hébreu qui maintient l'interface entre le domaine humain et le domaine divin dans l'ordre cosmique. Introduit en Bereshit 14:18 — Malki-tsedeq, **kohen** de **El Elyon**. Central dans tout Vayiqra.
-- `**mal'akh**` / `**mal'akhim**` (pluriel) — intraduisible. Non pas "ange" (catégorie grecque anachronique qui impose une nature céleste préétablie). L'envoyé-fonctionnaire — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Le texte hébreu maintient délibérément l'ambiguïté entre le **mal'akh** et **YHWH** lui-même — le **mal'akh** parle tantôt en son propre nom, tantôt comme **YHWH** directement. Formes : **mal'akh** (singulier), **mal'akhim** (pluriel). Combiné : `**mal'akh** **YHWH**`. Premier emploi en *Bereshit* 16:7.
+- `**mal'akh**` / `**mal'akhim**` (pluriel)
+- `**shaliach**` / `**shlichim**` (pluriel) — jamais "apôtre" — intraduisible. Non pas "ange" (catégorie grecque anachronique qui impose une nature céleste préétablie). L'envoyé-fonctionnaire — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Le texte hébreu maintient délibérément l'ambiguïté entre le **mal'akh** et **YHWH** lui-même — le **mal'akh** parle tantôt en son propre nom, tantôt comme **YHWH** directement. Formes : **mal'akh** (singulier), **mal'akhim** (pluriel). Combiné : `**mal'akh** **YHWH**`. Premier emploi en *Bereshit* 16:7.
 - `**emunah**` / `**Emunah**` — intraduisible. De *aman* (אָמַן) : être ferme, solide, fiable. Non pas "foi" (catégorie intellectuelle grecque) ni "croyance" : l'appui structural sur une réalité traitée comme fondation ferme — la fidélité active, la confiance engagée dans l'être. **Forme verbale :** *he'emin* (hiphil de *aman*) = verbe de la même racine qu'**emunah** — rendu en français par "**emuna**" (sans h, verbe construit depuis la même racine : Avram **emuna** en **YHWH**). La bizarrerie du français est intentionnelle : elle dit l'intraduisibilité du verbe hébreu. **L'absence du h est délibérée** : **emuna** (verbe) ≠ **emunah** (nom) — deux formes morphologiquement distinctes en hébreu, deux graphies distinctes dans l'ONT. Ne pas corriger. Introduit en *Bereshit* 15:6.
 - `**tsedaqah**` — intraduisible. Forme nominale de *tsedeq* (צֶדֶק) : l'état ou l'acte de juste-ordre cosmique. Non pas "justice" ni "droiture" au sens moral grec. En *Bereshit* 15:6, **YHWH** *impute* (*vayachshevehah* / חָשַׁב) l'**emunah** d'Avram comme **tsedaqah** — un acte de comptabilité fonctionnelle divine. Introduit en *Bereshit* 15:6.
 - `**tsadiq**` — intraduisible. Forme adjectivale de *tsedeq* : celui dont l'existence est structurellement alignée sur le juste-ordre fonctionnel. Non pas "juste" au sens moral grec. Premier emploi en *Bereshit* 6:9 — Noach, **ish** **tsadiq**.
@@ -153,25 +154,25 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 | Luc | *Luqas* | לוּקָס | Nom grec translittéré — dans les *Eduyot* |
 | Jean | *Bereshit ha-Yohanan* | בְּרֵאשִׁית הַיּוֹחָנָן | *Bereshit* de Yohanan — *besorah* cosmique-inaugurale, écho de *Bereshit* 1:1, séparée des *Eduyot* |
 
-**Répertoire des noms — Ma'asim et Machazeh :**
+**Répertoire des noms — Ma'asim HaShlichim et Machazeh :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Actes des apôtres | *Ma'asim* | מַעֲשִׂים | "les actes accomplis" — de *asah* |
+| Actes des apôtres | *Ma'asim HaShlichim* | מַעֲשֵׂי הַשְּׁלִיחִים | "les actes des envoyés-mandatés" — *shaliach* (שָׁלִיחַ) de *shalach* : l'envoyé mandaté — équivalent hébreu exact du grec *apostolos*. Pluriel : *shlichim* (שְׁלִיחִים). |
 | Apocalypse | *Machazeh Yohanan* | מַחֲזֵה יוֹחָנָן | *machazeh* = vision intérieure — même terme qu'en *Bereshit* 15:1 |
 
 **Répertoire des noms — Igerot (Lettres) :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Romains | *El HaRomiyim* | אֶל הָרוֹמִיִּים | Igerot de Saul |
-| 1-2 Corinthiens | *El HaQorintiyim* | אֶל הַקּוֹרִינְתִּיִּים | Igerot de Saul |
-| Galates | *El HaGalatiyim* | אֶל הַגָּלָטִיִּים | Igerot de Saul |
-| Éphésiens | *El HaEfesiyim* | אֶל הָאֶפֶסִיִּים | Igerot de Saul |
-| Philippiens | *El HaFilipiyim* | אֶל הַפִּילִיפִּיִּים | Igerot de Saul |
-| Colossiens | *El HaQolossiyim* | אֶל הַקּוֹלוֹסִּיִּים | Igerot de Saul |
-| 1-2 Thessaloniciens | *El HaTessaloniqiyim* | אֶל הַתֶּסָּלוֹנִיקִיִּים | Igerot de Saul |
-| 1-2 Timothée | *El Timotiyos* | אֶל טִימוֹתִיּוֹס | Igerot de Saul |
-| Tite | *El Titos* | אֶל טִיטוֹס | Igerot de Saul |
-| Philémon | *El Filemon* | אֶל פִּילֵמוֹן | Igerot de Saul |
+| Romains | *El HaRomiyim* | אֶל הָרוֹמִיִּים | Igerot de Shaul |
+| 1-2 Corinthiens | *El HaQorintiyim* | אֶל הַקּוֹרִינְתִּיִּים | Igerot de Shaul |
+| Galates | *El HaGalatiyim* | אֶל הַגָּלָטִיִּים | Igerot de Shaul |
+| Éphésiens | *El HaEfesiyim* | אֶל הָאֶפֶסִיִּים | Igerot de Shaul |
+| Philippiens | *El HaFilipiyim* | אֶל הַפִּילִיפִּיִּים | Igerot de Shaul |
+| Colossiens | *El HaQolossiyim* | אֶל הַקּוֹלוֹסִּיִּים | Igerot de Shaul |
+| 1-2 Thessaloniciens | *El HaTessaloniqiyim* | אֶל הַתֶּסָּלוֹנִיקִיִּים | Igerot de Shaul |
+| 1-2 Timothée | *El Timotiyos* | אֶל טִימוֹתִיּוֹס | Igerot de Shaul |
+| Tite | *El Titos* | אֶל טִיטוֹס | Igerot de Shaul |
+| Philémon | *El Filemon* | אֶל פִּילֵמוֹן | Igerot de Shaul |
 | Hébreux | *Igeret HaIvrim* | אִגֶּרֶת הָעִבְרִים | Anonyme — ancrée dans *Vayiqra* |
 | Jacques | *Igeret Ya'aqov* | יַעֲקֹב | "talon / il supplante" |
 | 1-2 Pierre | *Igerot Kefa* | כֵּיפָא | Araméen : "roc" |
@@ -252,6 +253,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | אֵל רֳאִי | *El Roï* | El Roï | Intraduisible. De *El* (אֵל) + *ro'i* (רֳאִי) de *ra'ah* (voir) : "El qui me voit", "El de la vision de moi". Nom divin unique dans toute la Bible — donné une seule fois, par Hagar, une servante égyptienne en fuite dans le désert. Première et unique occurrence en *Bereshit* 16:13. Laissé en hébreu. |
 | מַלְאַךְ | *mal'akh* | mal'akh | Intraduisible. Non pas "ange" (catégorie grecque anachronique). L'envoyé-fonctionnaire de **YHWH** — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Ambiguïté délibérée du texte : le **mal'akh** **YHWH** parle parfois en son propre nom, parfois comme **YHWH** lui-même. Pluriel : **mal'akhim**. Forme combinée : **mal'akh** **YHWH**. Premier emploi en *Bereshit* 16:7. |
 | קָנָה | *qanah* | fonder et maîtriser | Double dimension inséparable dans l'hébreu antique : créer/fonder ET acquérir/posséder. *Qoneh shamayim va'arets* = "fondateur et maître des Cieux et de la Terre" — formule du dieu suprême dans les textes proche-orientaux. |
+| שָׁלִיחַ | *shaliach* | **shaliach** | Intraduisible. De *shalach* (שָׁלַח) — envoyer, mandater. L'envoyé-mandaté : celui qui porte l'autorité de celui qui l'envoie et agit en son nom. Équivalent hébreu exact du grec *apostolos* — jamais "apôtre" dans l'ONT. Le *shaliach* est défini par sa mission, pas par son statut. Pluriel : *shlichim* (שְׁלִיחִים). Même logique fonctionnelle que *mal'akh* : défini par l'envoi, pas par la nature. |
 | דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim ahadim*). |
 
 ### 3.3 Créatures et catégories vivantes
@@ -490,10 +492,10 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 ***Yohanan* 1:1-18** — Le Prologue
 - *En archē ēn ho Logos* : lire *Logos* comme **davar** (Bereshit 1), non comme le *Logos* de Philon d'Alexandrie — décision terminologique capitale pour tout Yohanan
 
-***Ma'asim* 2** — La Pentecôte
+***Ma'asim HaShlichim* 2** — La Pentecôte
 - Le *ruach* sur les disciples : écho direct de *Bereshit* 1:2 et 2:7 — décision terminologique sur la continuité cosmique
 
-**Les *Igerot* de Saul** — *Tsedaqah* et *emunah*
+**Les *Igerot* de Shaul** — *Tsedaqah* et *emunah*
 - Toutes les traductions existantes rendent *tsedaqah* par "justice" ou "justification" (catégorie grecque *dikaiosyne*) — l'ONT maintient **tsedaqah** intraduisible. Décision terminologique à confirmer systématiquement.
 
 ***Igeret HaIvrim*** — Lettre aux Hébreux
