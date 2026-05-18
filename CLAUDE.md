@@ -11,7 +11,7 @@ L'ONT est une traduction et reconstruction françaises du **corpus hébreu et ar
 
 **Périmètre du corpus :** L'ONT ne se limite pas à la Bible canonique — le "canon" est une construction tardive (IVe siècle et après) qui n'existait pas à l'époque de la rédaction des textes. Le projet travaille sur l'ensemble de la bibliothèque d'un Juif lettré du Second Temple : textes canoniques ET pseudépigraphiques. **Critère d'inclusion :** tout texte en hébreu ou araméen antique qui illumine le cosmos hébreu depuis l'intérieur — notamment 1 Khanokh, Jubilés (*Yovelim*), le *Sefar Gibbaraya*, et le corpus de Qumrân à substrat sémitique. **Critère d'exclusion :** tout texte qui a absorbé des catégories hellénistiques (grecques), même s'il est d'auteur juif — Philon d'Alexandrie, *Sagesse de Salomon*, 4 Maccabées. Le filtre n'est pas canonique, il est ontologique : est-ce que le texte pense en hébreu ou en grec ? La distinction canon/apocryphe n'existe pas dans l'ONT.
 
-**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marc*, *Matthieu*, *Luc* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparé — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) ; les **Ma'asim** (מַעֲשִׂים — les actes accomplis, de *asah*) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
+**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparé — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) ; les **Ma'asim** (מַעֲשִׂים — les actes accomplis, de *asah*) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
 
 **Référence académique principale :** John H. Walton — *The Lost World of Genesis One*. L'approche fonctionnelle-ontologique de l'hébreu biblique. Le paradigme du Temple cosmique proche-oriental.
 
@@ -148,9 +148,9 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 **Répertoire des noms — Besorot (Évangiles) :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Marc | *Marqus* | מַרְקוּס | Première *besorah* rédigée — dans les *Eduyot* |
+| Marc | *Marqus* | מַרְקוּס | Première *besorah* rédigée — dans les *Eduyot*. Nom complet : *Yohanan Marqus* (יוֹחָנָן מַרְקוּס — *Ma'asim* 12:12) |
 | Matthieu | *Matityahu* | מַתִּתְיָהוּ | "don de YHWH" — dans les *Eduyot* |
-| Luc | *Luqas* | לוּקָס | Dans les *Eduyot* |
+| Luc | *Luqas* | לוּקָס | Nom grec translittéré — dans les *Eduyot* |
 | Jean | *Bereshit ha-Yohanan* | בְּרֵאשִׁית הַיּוֹחָנָן | *Bereshit* de Yohanan — *besorah* cosmique-inaugurale, écho de *Bereshit* 1:1, séparée des *Eduyot* |
 
 **Répertoire des noms — Ma'asim et Machazeh :**
