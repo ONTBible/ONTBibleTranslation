@@ -75,7 +75,5 @@
 
 ---
 
-*Termes à décider avant verrouillage :*
-- ***Rasha* (רָשָׁע) — l'opposé fonctionnel de **tsadiq** : celui dont l'existence est structurellement déviée de l'ordre juste. Non pas "méchant" au sens moral subjectif. La paire **tsadiq**/**rasha** est constitutive du droit divin hébraïque et de tout le corpus des Nevi'im. Traitement proposé : intraduisible (**rasha**) — décision à confirmer par l'auteur*
-- ***Chen* (חֵן) — la faveur dont l'initiative appartient au donneur, non au receveur. Traduit provisoirement "faveur" (v.3) avec glose. Traitement à confirmer — décision de le rendre intraduisible (**chen**) ou de le garder traduit*
-- **Ze'aqah* (זַעֲקָה) — le cri qui monte d'une situation d'injustice et appelle le **mishpat** divin. Racine de *tso'aq* / *za'aq* : cri de l'opprimé. Traduit "cri" avec niveau 3 dans cette unité. Décision de traitement à confirmer*
+*Terme à décider avant verrouillage :*
+- **Ze'aqah* (זַעֲקָה) — le cri qui monte d'une situation de dysfonction insupportable et appelle le **mishpat** divin. Racine *za'aq* / *tsa'aq* : cri de l'opprimé (écho de *Bereshit* 4:10 — le sang d'Hevel crie). Traduit "cri" avec niveau 3 dans cette unité. Intraduisible (**ze'aqah**) ou "cri" traduit ? Décision à confirmer*
