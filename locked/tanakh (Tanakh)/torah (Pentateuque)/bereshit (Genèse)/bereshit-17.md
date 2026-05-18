@@ -58,3 +58,16 @@
 ²⁶ En ce jour-là même furent circoncis Avraham et Ishma'el son fils.
 
 ²⁷ Et tous les hommes de sa maison — les nés dans la maison et les achetés à prix d'argent à des fils de l'étranger — furent circoncis avec lui.
+
+---
+
+*Bereshit 17 — Version 1.0 — verrouillée*
+*Décisions terminologiques propres à ce Bereshit 17 :*
+- ***El Shaddai* (אֵל שַׁדַּי) — intraduisible. Nouveau nom divin — accompagne les moments où **YHWH** accomplit l'impossible humain. Distinct d'**Elohim** (fonction cosmique), **YHWH** (nom personnel), **El Elyon** (souveraineté cosmique) et **El Roï** (vision). Premier emploi dans l'ONT*
+- ***Milah* (מִילָה) — intraduisible. L'inscription covenantale dans la chair — le signe de la **berith** gravé dans le corps. Non pas "circoncision" seul : la dimension de l'inscription covenantale permanente est constitutive du terme. Premier emploi dans l'ONT*
+- ***Orlah* (עָרְלָה) / **arel* (עָרֵל) — intraduisibles. Ce qui couvre la fonction avant qu'elle soit ouverte et consacrée. **Arel** : celui dont l'**orlah** n'a pas été ôtée. Portée métaphorique large : **orlah** du cœur (*Devarim* 10:16), des lèvres (*Shemot* 6:12), du fruit (*Vayiqra* 19:23). Premier emploi dans l'ONT*
+- ***Goyim* (גּוֹיִם) / **goy* (גּוֹי) — intraduisibles. Le peuple-nation constitué dans sa réalité territoriale, ethnique et politique. Présent depuis *Bereshit* 10 (passe rétroactive accomplie) ; terme actif de la promesse ici : *av hamon goyim* — père d'une multitude de **goyim** (v.4)*
+- *Avram → Avraham / Sarai → Sarah — reformulation des **Shem** covenantaux. *Av hamon* (père d'une multitude) inscrit dans Avraham ; *sarah* (souveraine) remplace le possessif particulier de Sarai. Non pas des changements administratifs : les **Shem** disent ce qu'ils sont dans l'ordre de la **berith***
+- *Tamim (תָּמִים) = "intègre" — entier, sans fissure interne. Cohérence avec Noach intègre (*tamim*) en *Bereshit* 6:9. Non pas perfection morale abstraite*
+- *Karet (כָּרֵת) = "retranché de son peuple" — coupure de la chaîne de transmission et exclusion de la communauté de la **berith**. Sanction la plus grave du droit divin hébraïque — dimension cosmique, non seulement sociale*
+- **Lihyot lekha l'Elohim* (לִהְיוֹת לְךָ לֵאלֹהִים) — formule covenantale (v.7) : **YHWH** s'engage à être l'**Elohim** d'Avraham. Le nom fonctionnel cosmique devient objet d'un engagement de relation personnelle. Traverse tout le corpus : *Shemot* 6:7, *Vayiqra* 26:12, *Yirmeyahu* 31:33*
