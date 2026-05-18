@@ -11,6 +11,8 @@ L'ONT est une traduction et reconstruction françaises du **corpus hébreu et ar
 
 **Périmètre du corpus :** L'ONT ne se limite pas à la Bible canonique — le "canon" est une construction tardive (IVe siècle et après) qui n'existait pas à l'époque de la rédaction des textes. Le projet travaille sur l'ensemble de la bibliothèque d'un Juif lettré du Second Temple : textes canoniques ET pseudépigraphiques. **Critère d'inclusion :** tout texte en hébreu ou araméen antique qui illumine le cosmos hébreu depuis l'intérieur — notamment 1 Khanokh, Jubilés (*Yovelim*), le *Sefar Gibbaraya*, et le corpus de Qumrân à substrat sémitique. **Critère d'exclusion :** tout texte qui a absorbé des catégories hellénistiques (grecques), même s'il est d'auteur juif — Philon d'Alexandrie, *Sagesse de Salomon*, 4 Maccabées. Le filtre n'est pas canonique, il est ontologique : est-ce que le texte pense en hébreu ou en grec ? La distinction canon/apocryphe n'existe pas dans l'ONT.
 
+**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marc*, *Matthieu*, *Luc* — trois témoins au sens de *Devarim* 19:15) et *Yohanan* (séparé — *besorah* cosmique, écho de *Bereshit* 1) ; les **Ma'asim** (מַעֲשִׂים — les actes accomplis, de *asah*) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
+
 **Référence académique principale :** John H. Walton — *The Lost World of Genesis One*. L'approche fonctionnelle-ontologique de l'hébreu biblique. Le paradigme du Temple cosmique proche-oriental.
 
 ---
@@ -142,6 +144,39 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 | Esdras | *Ezra* | עֶזְרָא |
 | Néhémie | *Nehemyah* | נְחֶמְיָה |
 | Chroniques (1-2) | *Divrei Hayamim* | דִּבְרֵי הַיָּמִים |
+
+**Répertoire des noms — Besorot (Évangiles) :**
+| Nom français | Translittération ONT | Hébreu | Notes |
+|---|---|---|---|
+| Marc | *Marqus* | מַרְקוּס | Première *besorah* rédigée — dans les *Eduyot* |
+| Matthieu | *Matityahu* | מַתִּתְיָהוּ | "don de YHWH" — dans les *Eduyot* |
+| Luc | *Luqas* | לוּקָס | Dans les *Eduyot* |
+| Jean | *Yohanan* | יוֹחָנָן | "YHWH est grâce" — *besorah* cosmique, séparée des *Eduyot* |
+
+**Répertoire des noms — Ma'asim et Machazeh :**
+| Nom français | Translittération ONT | Hébreu | Notes |
+|---|---|---|---|
+| Actes des apôtres | *Ma'asim* | מַעֲשִׂים | "les actes accomplis" — de *asah* |
+| Apocalypse | *Machazeh Yohanan* | מַחֲזֵה יוֹחָנָן | *machazeh* = vision intérieure — même terme qu'en *Bereshit* 15:1 |
+
+**Répertoire des noms — Igerot (Lettres) :**
+| Nom français | Translittération ONT | Hébreu | Notes |
+|---|---|---|---|
+| Romains | *El HaRomiyim* | אֶל הָרוֹמִיִּים | Igerot de Saul |
+| 1-2 Corinthiens | *El HaQorintiyim* | אֶל הַקּוֹרִינְתִּיִּים | Igerot de Saul |
+| Galates | *El HaGalatiyim* | אֶל הַגָּלָטִיִּים | Igerot de Saul |
+| Éphésiens | *El HaEfesiyim* | אֶל הָאֶפֶסִיִּים | Igerot de Saul |
+| Philippiens | *El HaFilipiyim* | אֶל הַפִּילִיפִּיִּים | Igerot de Saul |
+| Colossiens | *El HaQolossiyim* | אֶל הַקּוֹלוֹסִּיִּים | Igerot de Saul |
+| 1-2 Thessaloniciens | *El HaTessaloniqiyim* | אֶל הַתֶּסָּלוֹנִיקִיִּים | Igerot de Saul |
+| 1-2 Timothée | *El Timotiyos* | אֶל טִימוֹתִיּוֹס | Igerot de Saul |
+| Tite | *El Titos* | אֶל טִיטוֹס | Igerot de Saul |
+| Philémon | *El Filemon* | אֶל פִּילֵמוֹן | Igerot de Saul |
+| Hébreux | *Igeret HaIvrim* | אִגֶּרֶת הָעִבְרִים | Anonyme — ancrée dans *Vayiqra* |
+| Jacques | *Igeret Ya'aqov* | יַעֲקֹב | "talon / il supplante" |
+| 1-2 Pierre | *Igerot Kefa* | כֵּיפָא | Araméen : "roc" |
+| 1-3 Jean | *Igerot Yohanan* | יוֹחָנָן | |
+| Jude | *Igeret Yehudah* | יְהוּדָה | "celui qui est loué" |
 
 ---
 
@@ -450,6 +485,25 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 - Tout le vocabulaire du sacrifice comme système fonctionnel
 - *Kaphar* — l'expiation fonctionnelle
 
+### BRIT HADASHAH — PRIORITÉ ABSOLUE
+
+***Yohanan* 1:1-18** — Le Prologue
+- *En archē ēn ho Logos* : lire *Logos* comme **davar** (Bereshit 1), non comme le *Logos* de Philon d'Alexandrie — décision terminologique capitale pour tout Yohanan
+
+***Ma'asim* 2** — La Pentecôte
+- Le *ruach* sur les disciples : écho direct de *Bereshit* 1:2 et 2:7 — décision terminologique sur la continuité cosmique
+
+**Les *Igerot* de Saul** — *Tsedaqah* et *emunah*
+- Toutes les traductions existantes rendent *tsedaqah* par "justice" ou "justification" (catégorie grecque *dikaiosyne*) — l'ONT maintient **tsedaqah** intraduisible. Décision terminologique à confirmer systématiquement.
+
+***Igeret HaIvrim*** — Lettre aux Hébreux
+- Entièrement construite sur le système de *Vayiqra* — ne pas traiter avant que *Vayiqra* soit fondé
+- *Kaphar* / *kippurim* — l'expiation fonctionnelle au centre de l'argumentation
+
+***Machazeh Yohanan*** — Apocalypse
+- Dense en références à Yehezqel, Daniel et 1 Khanokh — ne pas traiter avant que ces textes soient au moins partiellement fondés dans l'ONT
+- Le Conseil Divin, les quatre vivants (*chayot*), la *kavod* de YHWH — vocabulaire déjà posé mais à réactiver dans ce registre
+
 ---
 
 ## 8. PASSAGES QUE CLAUDE CODE PEUT TRAITER EN AUTONOMIE
@@ -514,19 +568,20 @@ L'ONT est une restitution de ce que le texte hébreu disait à ses lecteurs orig
 
 Les Fondations verrouillées sont la référence stylistique et terminologique absolue de l'ONT. Consulter ces fichiers pour vérifier la cohérence de toute nouvelle traduction.
 
-- **Bereshit 1** (Genèse 1:1 — 2:3) → `locked/bereshit/bereshit-1.md` — référence fondatrice : toutes les conventions typographiques, le glossaire en action, les formules fixes. Toute traduction doit être cohérente avec elle.
-- **Bereshit 2** (Genèse 2:4-25) → `locked/bereshit/bereshit-2.md` — introduction de YHWH Elohim, *yatsar*, l'Eden comme Temple, *isha* / *ish*, *ezer kenegdo*, la *neshamah*.
-- **Bereshit 3** (Genèse 3) → `locked/bereshit/bereshit-3.md` — la rupture fonctionnelle, le *nachash*, les réorganisations cosmiques, *itsavon*, *arur*.
-- **Bereshit 4** (Genèse 4) → `locked/bereshit/bereshit-4.md` — Qayin et Hevel, *minchah*, *chattah*, *arur*, la ligne de Qayin.
-- **Bereshit 5** (Genèse 5) → `locked/bereshit/bereshit-5.md` — généalogie d'Adam à Noach, *toledot*, *hithalekh*, Khanokh.
-- **Bereshit 6** (Genèse 6) → `locked/bereshit/bereshit-6.md` — les Nephilim, la *berith* inaugurale, l'arche (*tevah*).
-- **Bereshit 7** (Genèse 7-8) → `locked/bereshit/bereshit-7.md` — le déluge, décréation et re-création, *tahor/lo tahor*, *olah*, *qallel*, *kavod*.
-- **Bereshit 8** (Genèse 8:20 — 9:17) → `locked/bereshit/bereshit-8.md` — la re-création, l'*olah* de Noach, la *berith* noachide, *adam* intraduisible à partir d'ici, *mabbul*, *olam*.
-- **Bereshit 9** (Genèse 9:18-29) → `locked/bereshit/bereshit-9.md` — l'incident de la vigne, *ish ha'adamah*, *galah*, *arur* sur Kena'an, dotations de Shem et Yaphet, *shakan* (ambiguïté du sujet maintenue).
-- **Bereshit 10** (Genèse 10:1-32) → `locked/bereshit/bereshit-10.md` — table des nations, *toledot* des fils de Noach, Nimrod (*gibor*, écho des Nephilim), *mamlakhah*, *lifnei YHWH* (ambiguïté maintenue), Ever / *ivri*, Peleg / *palag*.
-- **Bereshit 11** (Genèse 11:1-32) → `locked/bereshit/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terah, *aqarah* (stérilité de Sarai), Haran personne / Haran ville (homonymie délibérée).
-- **Bereshit 12** (Genèse 12:1-20) → `locked/bereshit/bereshit-12.md` — *lekh-lekha* (ambiguïté maintenue), promesse à Avraham, *vayera* (mode de la révélation aux patriarches), *zera* (premier emploi dans la promesse), *niverekhu* (passif ou réflexif — ambiguïté maintenue), descente en Égypte, *nega'im* (écho de Shemot).
-- **Bereshit 13** (Genèse 13:1-18) → `locked/bereshit/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh ba'arets*, Hevron comme premier ancrage durable.
-- **Bereshit 14** (Genèse 14:1-24) → `locked/bereshit/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **El Elyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim va'arets*, *ha-ivri* (double étymologie maintenue), *ba'alei berit*, *ma'aser* (ambiguïté du sujet maintenue), identification **YHWH**-**El Elyon** par Avram (v.22).
-- **Bereshit 15** (Genèse 15:1-21) → `locked/bereshit/bereshit-15.md` — *berith bein habetarim*, **emunah** (intraduisible — verbe *he'emin* rendu "**emuna**"), **tsedaqah** (premier emploi — forme nominale de *tsedeq*), **tsadiq** (déjà posé en Bereshit 6:9), *machazeh* (vision intérieure, distinct de *vayera*), *tardemah* (écho délibéré de Bereshit 2:21), *ger* (premier emploi — étranger résident sans droits), *avon* (premier emploi — torsion structurelle, distinct de *chata* et *ra*), *berith* unilatérale confirmée (seul **YHWH** passe entre les morceaux), prophétie de l'exil et ambiguïté 400 ans / quatrième génération maintenue.
+- **Bereshit 1** (Genèse 1:1 — 2:3) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-1.md` — référence fondatrice : toutes les conventions typographiques, le glossaire en action, les formules fixes. Toute traduction doit être cohérente avec elle.
+- **Bereshit 2** (Genèse 2:4-25) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-2.md` — introduction de YHWH Elohim, *yatsar*, l'Eden comme Temple, *isha* / *ish*, *ezer kenegdo*, la *neshamah*.
+- **Bereshit 3** (Genèse 3) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-3.md` — la rupture fonctionnelle, le *nachash*, les réorganisations cosmiques, *itsavon*, *arur*.
+- **Bereshit 4** (Genèse 4) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-4.md` — Qayin et Hevel, *minchah*, *chattah*, *arur*, la ligne de Qayin.
+- **Bereshit 5** (Genèse 5) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-5.md` — généalogie d'Adam à Noach, *toledot*, *hithalekh*, Khanokh.
+- **Bereshit 6** (Genèse 6) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-6.md` — les Nephilim, la *berith* inaugurale, l'arche (*tevah*).
+- **Bereshit 7** (Genèse 7-8) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-7.md` — le déluge, décréation et re-création, *tahor/lo tahor*, *olah*, *qallel*, *kavod*.
+- **Bereshit 8** (Genèse 8:20 — 9:17) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-8.md` — la re-création, l'*olah* de Noach, la *berith* noachide, *adam* intraduisible à partir d'ici, *mabbul*, *olam*.
+- **Bereshit 9** (Genèse 9:18-29) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-9.md` — l'incident de la vigne, *ish ha'adamah*, *galah*, *arur* sur Kena'an, dotations de Shem et Yaphet, *shakan* (ambiguïté du sujet maintenue).
+- **Bereshit 10** (Genèse 10:1-32) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-10.md` — table des nations, *toledot* des fils de Noach, Nimrod (*gibor*, écho des Nephilim), *mamlakhah*, *lifnei YHWH* (ambiguïté maintenue), Ever / *ivri*, Peleg / *palag*.
+- **Bereshit 11** (Genèse 11:1-32) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terah, *aqarah* (stérilité de Sarai), Haran personne / Haran ville (homonymie délibérée).
+- **Bereshit 12** (Genèse 12:1-20) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-12.md` — *lekh-lekha* (ambiguïté maintenue), promesse à Avraham, *vayera* (mode de la révélation aux patriarches), *zera* (premier emploi dans la promesse), *niverekhu* (passif ou réflexif — ambiguïté maintenue), descente en Égypte, *nega'im* (écho de Shemot).
+- **Bereshit 13** (Genèse 13:1-18) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh ba'arets*, Hevron comme premier ancrage durable.
+- **Bereshit 14** (Genèse 14:1-24) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **El Elyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim va'arets*, *ha-ivri* (double étymologie maintenue), *ba'alei berit*, *ma'aser* (ambiguïté du sujet maintenue), identification **YHWH**-**El Elyon** par Avram (v.22).
+- **Bereshit 15** (Genèse 15:1-21) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-15.md` — *berith bein habetarim*, **emunah** (intraduisible — verbe *he'emin* rendu "**emuna**"), **tsedaqah** (premier emploi — forme nominale de *tsedeq*), **tsadiq** (déjà posé en Bereshit 6:9), *machazeh* (vision intérieure, distinct de *vayera*), *tardemah* (écho délibéré de Bereshit 2:21), *ger* (premier emploi — étranger résident sans droits), *avon* (premier emploi — torsion structurelle, distinct de *chata* et *ra*), *berith* unilatérale confirmée (seul **YHWH** passe entre les morceaux), prophétie de l'exil et ambiguïté 400 ans / quatrième génération maintenue.
+- **Bereshit 16** (Genèse 16:1-16) → `locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-16.md` — **mal'akh** **YHWH** (premier emploi — intraduisible, ambiguïté délibérée entre le **mal'akh** et **YHWH** maintenue), **El Roï** (premier emploi — unique dans toute la Bible, donné par Hagar), Hagar (*ger* sans droits — première occurrence d'un personnage non-hébreu central), Ishma'el ("El entend"), Beer-lachai-roi, *shiphchah* vs *amah*, ambiguïté de *acharei ro'i* (v.13b — trois lectures maintenues sans résolution).
 
