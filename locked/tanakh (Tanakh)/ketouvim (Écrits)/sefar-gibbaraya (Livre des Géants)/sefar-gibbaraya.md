@@ -15,13 +15,13 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ---
 
-## Chapitre 1 — Lorsque les Veilleurs Quittèrent leur Garde
+## Chapitre 1 — Lorsque les **'irin** Quittèrent leur Garde
 
 ¹ Et il advint, dans les jours anciens, avant que le **mabbul** (*mabbul* / מַבּוּל) *[terme technique du déluge noachique — non pas simple inondation, mais dé-création temporaire par retour des eaux sur le domaine habitable]* ne monte sur la face de la Terre (*eretz* / אֶרֶץ) *[le domaine terrestre habitable, nommé et assigné]*, que les domaines n'étaient plus gardés selon leur distinction.
 
 ² Les Cieux (*shamayim* / שָׁמַיִם) *[le domaine d'en haut, lieu de la garde céleste et de la séparation avec les eaux supérieures]* avaient leur garde, et la Terre avait sa mesure ; les eaux d'en haut et les eaux d'en bas demeuraient chacune sous la limite qui lui avait été attribuée.
 
-³ Mais des Veilleurs (*'irin* / עִירִין) *[araméen : les éveillés, les gardiens célestes. Leur faute n'est pas d'être puissants, mais de quitter la garde qui définit leur fonction]* regardèrent depuis les hauteurs, et leur regard ne demeura pas dans la charge reçue.
+³ Mais des **'irin** (*'irin* / עִירִין) *[araméen : les éveillés, les gardiens célestes. Leur faute n'est pas d'être puissants, mais de quitter la garde qui définit leur fonction]* regardèrent depuis les hauteurs, et leur regard ne demeura pas dans la charge reçue.
 
 ⁴ Ils virent les filles de **l'Être façonné du sol** (*benot ha-adam* / בְּנוֹת הָאָדָם) *[l'humanité terrestre dans son ordre de génération, encore nommée par son lien au sol concret]*, et ils désirèrent franchir la séparation des domaines.
 
@@ -29,15 +29,15 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁷ Leur nombre fut grand, et le souvenir de leurs chefs fut transmis parmi les scribes.
 
-⁸ Shemikhazah (*Shemikhazah* / שמיחזה) *[chef des Veilleurs ; son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; Azazel (*Azazel* / עזאזל) *[figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; Baraqel (*Baraqel* / ברקאל) *[père de Mahaway]* fut compté parmi les pères de la génération de démesure.
+⁸ Shemikhazah (*Shemikhazah* / שמיחזה) *[*shemi* (שְׁמִי) : mon **shem** + *khazah* (חָזָה) : a vu — "Mon **shem** a vu" ; chef des **'irin**, son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; Azazel (*Azazel* / עזאזל) *[étymologie débattue — *az* (עַז) : fort, bouc + *el* (אֵל), ou de *azal* : s'en aller entièrement ; figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; Baraqel (*Baraqel* / ברקאל) *[*baraq* (בָּרָק) : éclair + *el* (אֵל) — "éclair d'El" ; père de Mahaway]* fut compté parmi les pères de la génération de démesure.
 
 ⁹ Ils descendirent vers la Terre, non comme **mal'akhim** mandatés, mais comme puissances qui quittent leur place. ¹⁰ Alors ils connurent des secrets (*razin* / רָזִין) *[araméen : mystères, secrets célestes. Le problème n'est pas le savoir en lui-même, mais sa transmission hors mandat]* qui n'avaient pas été remis aux fils de **l'Être façonné du sol**.
 
 ¹¹ Ils ouvrirent ce qui devait demeurer fermé, et ils livrèrent des savoirs sans mesure à ceux qui n'avaient pas reçu mandat pour les porter. ¹² Le savoir fut détaché du service ; la connaissance fut séparée de la garde ; l'art devint puissance de trouble.
 
-¹³ Et les Veilleurs prirent des **ishah** (*nashim* / נָשִׁים) *[pluriel de **ishah** : prise d'alliance et de génération par laquelle la frontière entre domaine céleste et domaine humain est franchie]* parmi les filles de **l'Être façonné du sol**, et l'union franchit la frontière entre le domaine céleste et le domaine terrestre.
+¹³ Et les **'irin** prirent des **ishah** (*nashim* / נָשִׁים) *[pluriel de **ishah** : prise d'alliance et de génération par laquelle la frontière entre domaine céleste et domaine humain est franchie]* parmi les filles de **l'Être façonné du sol**, et l'union franchit la frontière entre le domaine céleste et le domaine terrestre.
 
-¹⁴ De cette rupture naquirent les géants (*gibbaraya* / גבריא) *[araméen : les puissants, les géants ; êtres de démesure issus d'une frontière rompue]*. Leur **shem** (*shem* / שֵׁם) *[nom comme existence fonctionnelle, place lisible dans l'ordre]* fut connu sur la Terre, mais il fut connu comme un poids déplacé.
+¹⁴ De cette rupture naquirent les **gibbaraya** (*gibbaraya* / גבריא) *[araméen : les puissants, les démesurés — forme araméenne de *gibbor* (גִּבּוֹר) ; êtres nés d'un franchissement de la frontière entre domaine céleste et domaine terrestre]*. Leur **shem** (*shem* / שֵׁם) *[nom comme existence fonctionnelle, place lisible dans l'ordre]* fut connu sur la Terre, mais il fut connu comme un poids déplacé.
 
 ¹⁵ Ils n'étaient ni gardiens des Cieux, ni serviteurs de la Terre. ¹⁶ Ils se tinrent entre les domaines, et leur présence pesa sur toute chair (*kol besar* / כָּל־בָּשָׂר) *[toute chair vivante dans sa fragilité terrestre ; expression qui annonce la portée cosmique du jugement]*.
 
@@ -45,35 +45,35 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ### Notes philologiques
 
-- Les éléments attestés ou fortement appuyés par le cycle hénochien sont : Veilleurs, secrets, descente, union, génération des géants et corruption de la Terre.
+- Les éléments attestés ou fortement appuyés par le cycle hénochien sont : **'irin**, secrets, descente, union, génération des **gibbaraya** et corruption de la Terre.
 - Les formes araméennes (*'irin*, *razin*, *gibbaraya*, *qaddishin*) servent ici de niveau 3 utile ; elles ne prétendent pas restituer chaque ligne fragmentaire.
-- Le nombre de deux cents appartient au cycle traditionnel des Veilleurs ; il est laissé en note pour ne pas alourdir la voix narrative.
-- Shemikhazah, Azazel et Baraqel sont intégrés parce que le Livre des Géants présuppose le récit des Veilleurs, mais leur distribution exacte dans les fragments demeure lacunaire.
+- Le nombre de deux cents appartient au cycle traditionnel des **'irin** ; il est laissé en note pour ne pas alourdir la voix narrative.
+- Shemikhazah, Azazel et Baraqel sont intégrés parce que le Livre des Géants présuppose le récit des **'irin**, mais leur distribution exacte dans les fragments demeure lacunaire.
 - Le lien avec les Nephilim et les **gibborim** de *Bereshit* 6:4 est traité dans les parallèles bibliques.
 
 ### Notes ontologiques
 
-- La faute des Veilleurs est une sortie de domaine.
-- Les géants sont une anomalie de fonction : leur naissance rend visible une confusion des séparations créationnelles.
+- La faute des **'irin** est une sortie de domaine.
+- Les **gibbaraya** sont une anomalie de fonction : leur naissance rend visible une confusion des séparations créationnelles.
 - Le chaos est dissolution des distinctions, non absence de matière.
 
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 1 : création par distinctions.
 - *Bereshit* 6:1-4 : fils d'**Elohim** (*benei ha-elohim* / בְּנֵי הָאֱלֹהִים), filles de **l'Être façonné du sol** (*benot ha-adam* / בְּנוֹת הָאָדָם), Nephilim (*nephilim* / נְפִילִים) et puissants (*gibborim* / גִּבֹּרִים).
-- 1 *Khanokh* 6-8 : serment des Veilleurs et transmission des secrets.
+- 1 *Khanokh* 6-8 : serment des **'irin** et transmission des secrets.
 
 ---
 
 ## Chapitre 2 — La Terre Alourdie
 
-¹ Les géants (*gibbaraya* / גבריא) grandirent, et la Terre (*eretz* / אֶרֶץ) ne put les recevoir comme elle reçoit les vivants selon leur espèce (*lemin* / לְמִין) *[principe d'ordre : chaque vivant demeure dans sa limite et dans sa fonction]*.
+¹ Les **gibbaraya** (*gibbaraya* / גבריא) grandirent, et la Terre (*eretz* / אֶרֶץ) ne put les recevoir comme elle reçoit les vivants selon leur espèce (*lemin* / לְמִין) *[principe d'ordre : chaque vivant demeure dans sa limite et dans sa fonction]*.
 
 ² Ils prirent le fruit des arbres, le grain des champs, les bêtes du troupeau, les bêtes sauvages, les créatures ailées et les rampants. ³ Ils prirent aussi les grands vivants des eaux, et ce que la Terre produisait ne suffisait pas à leur bouche.
 
 ⁴ Ils mangèrent, et leur faim demeura. ⁵ Ils prirent encore, et leur prise ne reçut pas de limite. ⁶ L'abondance de la Terre fut changée en manque, parce qu'une bouche sans mesure était entrée dans l'ordre des vivants.
 
-⁷ Alors les géants étendirent la main contre les fils de **l'Être façonné du sol** (*ha-adam* / הָאָדָם). ⁸ Ils combattirent toute chair (*kol basar* / כָּל־בָּשָׂר), et le sang (*dam* / דָּם) *[le sang comme vie répandue hors de sa place ; lorsqu'il est versé, le sol devient témoin]* fut versé sur le sol concret (*adamah* / אֲדָמָה) *[la glaise habitable et cultivable, proche de **l'Être façonné du sol** par la racine]*.
+⁷ Alors les **gibbaraya** étendirent la main contre les fils de **l'Être façonné du sol** (*ha-adam* / הָאָדָם). ⁸ Ils combattirent toute chair (*kol basar* / כָּל־בָּשָׂר), et le sang (*dam* / דָּם) *[le sang comme vie répandue hors de sa place ; lorsqu'il est versé, le sol devient témoin]* fut versé sur le sol concret (*adamah* / אֲדָמָה) *[la glaise habitable et cultivable, proche de **l'Être façonné du sol** par la racine]*.
 
 ⁹ L'un d'eux formula sa propre mesure : "Avec la force de mon bras puissant, et avec la puissance de ma force, j'ai combattu toute chair." ¹⁰ Mais cette parole ne se conclut pas par victoire. ¹¹ Elle se retourne contre celui qui la prononce, car les maîtres de son jugement (*ba'alei dini* / בעלי דיני) *[ceux qui tiennent l'accusation et le jugement contre lui]* demeurent dans les Cieux et se tiennent parmi les saints.
 
@@ -81,7 +81,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ¹⁴ Et la plainte monta. ¹⁵ Elle monta depuis le sang, depuis les corps broyés, depuis les vivants dévorés, depuis les limites violées. ¹⁶ Elle monta non comme plainte d'une cité seulement, mais comme plainte de la Terre alourdie.
 
-¹⁷ Car la Terre avait reçu fonction d'habitation, non de dévoration. ¹⁸ Elle devait porter les vivants dans leurs domaines, non porter la trace d'une puissance qui consume tous les domaines. ¹⁹ Les géants furent donc plus qu'une menace parmi les hommes : ils furent une surcharge dans le tissu du monde.
+¹⁷ Car la Terre avait reçu fonction d'habitation, non de dévoration. ¹⁸ Elle devait porter les vivants dans leurs domaines, non porter la trace d'une puissance qui consume tous les domaines. ¹⁹ Les **gibbaraya** furent donc plus qu'une menace parmi les hommes : ils furent une surcharge dans le tissu du monde.
 
 ²⁰ La **kavod** (*kavod* / כָּבוֹד) *[pesanteur fonctionnelle, poids d'existence dans l'ordre]* de la Terre fut atteinte. Non parce que la Terre perdit toute fonction, mais parce qu'une pesanteur étrangère, non assignée, se posa sur elle.
 
@@ -93,7 +93,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ### Notes ontologiques
 
-- L'appétit des géants est une fonction sans limite.
+- L'appétit des **gibbaraya** est une fonction sans limite.
 - La violence atteint le sol, donc l'ordre d'habitation.
 - La **kavod** devient dysfonctionnelle lorsqu'un poids non attribué surcharge la Terre.
 
@@ -107,15 +107,15 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ## Chapitre 3 — Les Noms des Puissants
 
-¹ Voici les noms des géants : Ohyah (*Ohyah* / אוהיה) *[géant majeur lié aux songes]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[frère d'Ohyah]*, fils de Shemikhazah ; Mahaway (*Mahaway* / מהוי) *[messager des géants, envoyé vers Khanokh pour recevoir l'interprétation]*, fils de Baraqel ; Gilgamesh (*Gilgamesh* / גלגמיש) *[nom de mémoire mésopotamienne placé ici sous décret]* ; Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des géants]*.
+¹ Voici les noms des **gibbaraya** : Ohyah (*Ohyah* / אוהיה) *[étymologie incertaine — racine hébraïque non identifiable avec certitude dans les fragments ; géant majeur lié aux songes]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[étymologie incertaine — vocalisation Hahyah/Ahyah laissée ouverte par les manuscrits ; frère d'Ohyah]*, fils de Shemikhazah ; Mahaway (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** — envoyé vers Khanokh pour recevoir l'interprétation ; envoi venant d'en bas, sans mandat divin — inversion de la structure du **mal'akh** **YHWH**]*, fils de Baraqel ; Gilgamesh (*Gilgamesh* / גלגמיש) *[nom de mémoire mésopotamienne placé ici sous décret]* ; Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]*.
 
 ² Ces noms furent grands parmi les hommes, mais leur **shem** (*shem* / שֵׁם) ne les établit pas dans le **tsedeq** (*tsedeq* / צֶדֶק) *[ordre juste, conformité fonctionnelle au domaine assigné ; non pas justice abstraite grecque]*.
 
 ³ Ohyah était puissant parmi eux, et Hahyah/Ahyah son frère se tenait avec lui. ⁴ Mahaway était mobile entre les lieux, capable d'aller chercher réponse auprès de Khanokh lorsque les songes devinrent trop lourds.
 
-⁵ Gilgamesh fut nommé parmi eux, et avec lui Hobabish. ⁶ Ces noms venus de la mémoire des nations furent pris dans le récit des géants et soumis à une autre lecture. ⁷ Ils ne furent pas célébrés comme héros d'épopée, mais placés sous le décret de celui qui ordonne les domaines.
+⁵ Gilgamesh fut nommé parmi eux, et avec lui Hobabish. ⁶ Ces noms venus de la mémoire des nations furent pris dans le récit des **gibbaraya** et soumis à une autre lecture. ⁷ Ils ne furent pas célébrés comme héros d'épopée, mais placés sous le décret de celui qui ordonne les domaines.
 
-⁸ Les géants se réunissaient en assemblée (*kenishta* / כנישתא) *[assemblée de délibération ; ici pseudo-conseil des puissants, sans mandat royal légitime]*. ⁹ Ils parlaient comme ceux qui gouvernent, mais leur gouvernement n'avait pas été attribué. ¹⁰ Ils portaient des noms, mais leurs noms ne les inscrivaient pas dans l'ordre juste.
+⁸ Les **gibbaraya** se réunissaient en assemblée (*kenishta* / כנישתא) *[assemblée de délibération ; ici pseudo-conseil des puissants, sans mandat royal légitime]*. ⁹ Ils parlaient comme ceux qui gouvernent, mais leur gouvernement n'avait pas été attribué. ¹⁰ Ils portaient des noms, mais leurs noms ne les inscrivaient pas dans l'ordre juste.
 
 ¹¹ Alors leurs paroles commencèrent à changer. Auparavant, ils parlaient de force, de guerre et de prise ; puis ils parlèrent de songes (*chelmin* / חלמין) *[rêves porteurs de décret dans l'imaginaire apocalyptique araméen]*, de signes, d'eau, de feu, de tablettes et de noms effacés.
 
@@ -130,14 +130,14 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 ### Notes ontologiques
 
 - Le **shem** peut être mémoire de puissance sans être établissement dans l'ordre.
-- L'assemblée des géants imite le conseil, mais sans mandat.
+- L'assemblée des **gibbaraya** imite le conseil, mais sans mandat.
 - La vision limite la force : elle introduit un ordre que la puissance physique ne peut pas manipuler.
 
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 10:8-12 : Nimrod comme **gibor**.
 - *Daniel* 2 et 4 : songe, puissance, décret et interprétation.
-- 1 *Khanokh* 15-16 : impossibilité d'une place stable pour les géants.
+- 1 *Khanokh* 15-16 : impossibilité d'une place stable pour les **gibbaraya**.
 
 ---
 
@@ -166,7 +166,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 ### Notes ontologiques
 
 - Le jardin représente un ordre planté.
-- Les pousses grandes figurent la démesure des géants.
+- Les pousses grandes figurent la démesure des **gibbaraya**.
 - Le feu et les eaux ne sont pas spectacle : ils manifestent la visitation et la dé-création.
 
 ### Parallèles bibliques éventuels
@@ -189,9 +189,9 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ¹¹ Le songe ne disait pas encore ouvertement : Noach (*Noach* / נֹחַ) *[celui par qui une cessation et un apaisement sont annoncés dans la lignée de **l'Être façonné du sol**]* et ses trois fils. ¹² Mais il montrait qu'un reste serait gardé au milieu de l'effacement.
 
-¹³ Alors Ohyah et Hahyah/Ahyah entrèrent ensemble dans l'assemblée des géants. ¹⁴ Ils rapportèrent le jardin, les racines, les pousses, le feu, les eaux et la tablette lavée.
+¹³ Alors Ohyah et Hahyah/Ahyah entrèrent ensemble dans l'assemblée des **gibbaraya**. ¹⁴ Ils rapportèrent le jardin, les racines, les pousses, le feu, les eaux et la tablette lavée.
 
-¹⁵ Les géants dirent : "Ces visions concernent la mort de nos **Nefesh** (*nefesh* / נֶפֶשׁ) *[principe vital concret et incarné ; ici la vie des géants promise à la coupure]*, la fin de nos corps, et la coupure de notre **shem** depuis la Terre."
+¹⁵ Les **gibbaraya** dirent : "Ces visions concernent la mort de nos **Nefesh** (*nefesh* / נֶפֶשׁ) *[principe vital concret et incarné ; ici la vie des **gibbaraya** promise à la coupure]*, la fin de nos corps, et la coupure de notre **shem** depuis la Terre."
 
 ¹⁶ Ils ne comprenaient pas tout, mais ils comprenaient que l'eau n'était pas seulement eau. ¹⁷ Elle venait comme effacement d'une génération.
 
@@ -199,7 +199,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 - Le songe de la tablette plongée dans l'eau appartient au coeur des traditions du Livre des Géants.
 - La conservation d'un nom avec trois autres est interprétée à la lumière de Noach et de ses trois fils.
-- Le langage de la mort des **Nefesh** suit les préoccupations attestées dans les fragments sur la fin des géants.
+- Le langage de la mort des **Nefesh** suit les préoccupations attestées dans les fragments sur la fin des **gibbaraya**.
 
 ### Notes ontologiques
 
@@ -217,35 +217,35 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ## Chapitre 6 — Mahaway Devant Khanokh
 
-¹ Alors les géants appelèrent Mahaway (*Mahaway* / מהוי), fils de Baraqel (*Baraqel* / ברקאל). ² Ils lui dirent : "Va vers Khanokh (*Khanokh* / חֲנוֹךְ) *[celui qui marche avec **Elohim**, scribe du domaine céleste et médiateur perceptif]*. ³ Porte devant lui nos paroles, nos songes et notre trouble. ⁴ Qu'il nous fasse connaître le déchiffrement (*peshar* / פֵּשֶׁר) *[interprétation révélée du sens caché d'une vision ou d'un événement]*, car la vision est lourde et le sens nous dépasse."
+¹ Alors les **gibbaraya** appelèrent Mahaway (*Mahaway* / מהוי), fils de Baraqel (*Baraqel* / ברקאל). ² Ils lui dirent : "Va vers Khanokh (*Khanokh* / חֲנוֹךְ) *[*khanak* (חָנַךְ) : dédier, initier — "le dédicacé, l'initié" ; celui qui marche avec **Elohim**, scribe du domaine céleste et médiateur perceptif]*. ³ Porte devant lui nos paroles, nos songes et notre trouble. ⁴ Qu'il nous fasse connaître le déchiffrement (*peshar* / פֵּשֶׁר) *[interprétation révélée du sens caché d'une vision ou d'un événement]*, car la vision est lourde et le sens nous dépasse."
 
 ⁵ Mahaway sortit de l'assemblée. ⁶ Il traversa les régions sèches, les lieux de rocs et les espaces où le chemin se perd. ⁷ Il passa vers les montagnes, et son mouvement fut rapide. ⁸ Il alla jusqu'au lieu où Khanokh demeurait, loin de l'assemblée des violents.
 
 ⁹ Mahaway appela Khanokh. ¹⁰ Il ne l'appela pas comme on appelle un devin des nations, ni comme on cherche un faiseur de prodiges. ¹¹ Il l'appela comme scribe distinct (*safar parsha* / ספר פרשא) *[le scribe qui distingue, explique et rend lisible ce qui doit être transmis]*, car Khanokh reçoit les paroles, distingue les visions et écrit selon ce qui lui est montré.
 
-¹² Mahaway formula devant lui : "Les géants ont vu des songes. ¹³ Le jardin fut planté, puis feu et eau vinrent contre lui. ¹⁴ La tablette fut plongée dans l'eau, et les noms furent effacés, sauf un reste. ¹⁵ L'assemblée est troublée, car elle discerne que ces choses concernent sa fin."
+¹² Mahaway formula devant lui : "Les **gibbaraya** ont vu des songes. ¹³ Le jardin fut planté, puis feu et eau vinrent contre lui. ¹⁴ La tablette fut plongée dans l'eau, et les noms furent effacés, sauf un reste. ¹⁵ L'assemblée est troublée, car elle discerne que ces choses concernent sa fin."
 
 ¹⁶ Khanokh écouta. ¹⁷ Il ne se hâta pas vers l'assemblée pour flatter les puissants. ¹⁸ Il ne dit pas : "La force peut détourner ce qui est décrété." ¹⁹ Il se tint dans sa fonction de scribe et de témoin.
 
-²⁰ Alors Khanokh écrivit, non seulement pour les géants, mais pour Shemikhazah et tous ses compagnons. ²¹ Car les fils portaient la violence, mais les pères avaient franchi la garde.
+²⁰ Alors Khanokh écrivit, non seulement pour les **gibbaraya**, mais pour Shemikhazah et tous ses compagnons. ²¹ Car les fils portaient la violence, mais les pères avaient franchi la garde.
 
 ### Notes philologiques
 
-- Mahaway comme messager vers Khanokh est un motif central du Livre des Géants, attesté par les fragments et les versions manichéennes.
+- Mahaway comme **mal'akh** des **gibbaraya** vers Khanokh est un motif central du Livre des Géants, attesté par les fragments et les versions manichéennes.
 - Le déplacement est reconstruit : les détails topographiques ne sont pas conservés en continu.
 - L'expression araméenne *safar parsha* est conservée comme niveau 3 ; sa portée critique est réservée ici aux notes.
 - Khanokh est scribe et interprète ; il ne reçoit aucune fonction thaumaturgique.
 
 ### Notes ontologiques
 
-- La force des géants ne lit pas le décret.
+- La force des **gibbaraya** ne lit pas le décret.
 - Khanokh ne modifie pas le domaine céleste ; il transmet ce qui lui est donné à comprendre.
-- La transgression première demeure celle des Veilleurs.
+- La transgression première demeure celle des **'irin**.
 
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 5:24 : Khanokh marche avec **Elohim** (*elohim* / אֱלֹהִים).
-- 1 *Khanokh* 12-16 : Khanokh envoyé vers les Veilleurs.
+- 1 *Khanokh* 12-16 : Khanokh envoyé vers les **'irin**.
 - *Daniel* 2 : le songe requiert révélation.
 
 ---
@@ -262,7 +262,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁷ La plainte (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les oeuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
 
-⁹ Le décret est parvenu jusqu'à Rafa'el (*Rafa'el* / רָפָאֵל) *[**mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *Khanokh*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
+⁹ Le décret est parvenu jusqu'à Rafa'el (*Rafa'el* / רָפָאֵל) *[*rafa* (רָפָא) : guérir + *el* (אֵל) — "El guérit" ; **mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *Khanokh*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
 
 ¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
 
@@ -292,7 +292,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ## Chapitre 8 — La Crainte des Puissants
 
-¹ Mahaway (*Mahaway* / מהוי) *[messager des géants auprès de Khanokh]* revint vers l'assemblée des géants, portant la tablette de Khanokh (*Khanokh* / חֲנוֹךְ) *[scribe céleste qui transmet la sentence]*. ² Ohyah (*Ohyah* / אוהיה) *[géant majeur associé aux songes et à la réponse de l'assemblée]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[frère d'Ohyah, nom vocalisé diversement]*, Gilgamesh (*Gilgamesh* / גלגמיש) *[nom mésopotamien repris sous jugement apocalyptique]*, Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des géants]* et leurs compagnons se rassemblèrent autour de lui.
+¹ Mahaway (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** auprès de Khanokh]* revint vers l'assemblée des **gibbaraya**, portant la tablette de Khanokh (*Khanokh* / חֲנוֹךְ) *[scribe céleste qui transmet la sentence]*. ² Ohyah (*Ohyah* / אוהיה) *[géant majeur associé aux songes et à la réponse de l'assemblée]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[frère d'Ohyah, nom vocalisé diversement]*, Gilgamesh (*Gilgamesh* / גלגמיש) *[nom mésopotamien repris sous jugement apocalyptique]*, Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]* et leurs compagnons se rassemblèrent autour de lui.
 
 ³ La tablette fut lue devant eux. ⁴ Alors leur assemblée devint silencieuse. ⁵ Ceux qui avaient fait trembler les vallées furent troublés par des lignes.
 
@@ -304,50 +304,50 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ¹⁴ Ils voulaient des jours, mais les jours n'étaient plus donnés. ¹⁵ Ils voulaient un **shem**, mais leur **shem** devenait signe de jugement. ¹⁶ Ils voulaient que leurs fils demeurent, mais leurs fils étaient eux-mêmes la preuve que la limite avait été rompue.
 
-¹⁷ Alors l'assemblée des géants connut sa fin avant que les eaux ne viennent. ¹⁸ La mort de leur **Nefesh** fut annoncée dans la vision ; la chute de leur chair fut préparée dans le décret ; l'errance de leurs esprits *[souffles issus d'une naissance hors ordre, sans lieu stable parmi les morts ni parmi les vivants]* fut gardée pour les jours d'après.
+¹⁷ Alors l'assemblée des **gibbaraya** connut sa fin avant que les eaux ne viennent. ¹⁸ La mort de leur **Nefesh** fut annoncée dans la vision ; la chute de leur chair fut préparée dans le décret ; l'errance de leurs esprits *[souffles issus d'une naissance hors ordre, sans lieu stable parmi les morts ni parmi les vivants]* fut gardée pour les jours d'après.
 
 ### Notes philologiques
 
-- Le retour de Mahaway est reconstruit à partir du motif attesté du messager.
+- Le retour de Mahaway est reconstruit à partir du motif attesté du **mal'akh** envoyé.
 - Le contenu sur les accusateurs célestes reprend 4Q531 fragment 17.
 - Les esprits errants relèvent surtout de 1 *Khanokh* 15-16 et sont donc signalés comme expansion.
 - Le vocabulaire du décret (*din*) reprend la logique judiciaire des fragments ; le corps du texte n'en donne pas une restitution diplomatique.
 
 ### Notes ontologiques
 
-- Les géants sont vaincus par l'écriture avant d'être vaincus par les eaux.
+- Les **gibbaraya** sont vaincus par l'écriture avant d'être vaincus par les eaux.
 - Leur demande ne restaure pas la fonction perdue.
 - Les esprits errants sont trace d'une naissance hors distinction.
 
 ### Parallèles bibliques éventuels
 
 - *Daniel* 5 : le puissant troublé par l'écriture.
-- 1 *Khanokh* 13-14 : demande d'intercession des Veilleurs.
+- 1 *Khanokh* 13-14 : demande d'intercession des **'irin**.
 - *Bereshit* 6:3 : limite imposée aux jours de **l'Être façonné du sol**.
 
 ---
 
 ## Chapitre 9 — Le Décret sur les Pères et les Fils
 
-¹ Puis le décret fut établi concernant les pères et concernant les fils. ² Les Veilleurs qui avaient quitté leur garde seraient liés (*'asar* / אֲסַר) *[lier, retenir, empêcher le franchissement : correction négative d'un mouvement hors domaine]*.
+¹ Puis le décret fut établi concernant les pères et concernant les fils. ² Les **'irin** qui avaient quitté leur garde seraient liés (*'asar* / אֲסַר) *[lier, retenir, empêcher le franchissement : correction négative d'un mouvement hors domaine]*.
 
 ³ Ceux qui avaient franchi la frontière seraient retenus dans une limite qu'ils n'avaient pas choisie. ⁴ Leur mouvement deviendrait immobilité ; leur prise deviendrait captivité.
 
-⁵ Azazel (*Azazel* / עזאזל) *[figure du Veilleur déplacé vers le lieu de coupure]* serait envoyé vers le désert (*midbar* / מִדְבָּר) *[lieu hors culture et hors installation, espace de coupure]*, dans un lieu sans service et sans assemblée. ⁶ Shemikhazah (*Shemikhazah* / שמיחזה) *[chef parmi les Veilleurs et porteur de leur faute commune]* et ses compagnons seraient retenus jusqu'au temps fixé (*mo'ed* / מוֹעֵד) *[rendez-vous déterminé dans l'ordre du jugement]*.
+⁵ Azazel (*Azazel* / עזאזל) *[figure du Veilleur déplacé vers le lieu de coupure]* serait envoyé vers le désert (*midbar* / מִדְבָּר) *[lieu hors culture et hors installation, espace de coupure]*, dans un lieu sans service et sans assemblée. ⁶ Shemikhazah (*Shemikhazah* / שמיחזה) *[chef parmi les **'irin** et porteur de leur faute commune]* et ses compagnons seraient retenus jusqu'au temps fixé (*mo'ed* / מוֹעֵד) *[rendez-vous déterminé dans l'ordre du jugement]*.
 
-⁷ Quant aux géants, leurs fils, ils seraient livrés à leur propre violence. ⁸ Le bras qui avait frappé toute chair se tournerait contre le bras du compagnon. ⁹ Les puissants se heurteraient aux puissants, et leur grandeur deviendrait instrument de leur chute.
+⁷ Quant aux **gibbaraya**, leurs fils, ils seraient livrés à leur propre violence. ⁸ Le bras qui avait frappé toute chair se tournerait contre le bras du compagnon. ⁹ Les puissants se heurteraient aux puissants, et leur grandeur deviendrait instrument de leur chute.
 
 ¹⁰ Les montagnes ne les sauveraient pas, car les hauteurs appartiennent à celui qui distingue les domaines. ¹¹ Les vallées ne les cacheraient pas, car le sang avait déjà parlé depuis le sol. ¹² Les eaux ne les porteraient pas, car les eaux venaient laver leur **shem** de la surface ordonnée.
 
-¹³ Alors les géants tombèrent, les uns par les autres, les autres par le jugement qui venait. ¹⁴ Leur chair fut retirée de la Terre. ¹⁵ Mais leurs esprits, issus d'une naissance impossible, ne reçurent pas repos parmi les morts comme les fils de **l'Être façonné du sol**.
+¹³ Alors les **gibbaraya** tombèrent, les uns par les autres, les autres par le jugement qui venait. ¹⁴ Leur chair fut retirée de la Terre. ¹⁵ Mais leurs esprits, issus d'une naissance impossible, ne reçurent pas repos parmi les morts comme les fils de **l'Être façonné du sol**.
 
 ¹⁶ Et la Terre, qui avait été alourdie, attendit d'être lavée. ¹⁷ Non parce que les eaux seraient douces, mais parce que la confusion avait atteint le lieu même où les vivants devaient habiter.
 
 ### Notes philologiques
 
 - Le décret détaillé dépend surtout de 1 *Khanokh* 10, présupposé par le Livre des Géants.
-- Azazel et Shemikhazah sont intégrés par cohérence avec le cycle des Veilleurs.
-- Les esprits des géants viennent surtout de 1 *Khanokh* 15-16.
+- Azazel et Shemikhazah sont intégrés par cohérence avec le cycle des **'irin**.
+- Les esprits des **gibbaraya** viennent surtout de 1 *Khanokh* 15-16.
 
 ### Notes ontologiques
 
@@ -357,7 +357,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ### Parallèles bibliques éventuels
 
-- 1 *Khanokh* 10 : jugement des Veilleurs et destruction des géants.
+- 1 *Khanokh* 10 : jugement des **'irin** et destruction des **gibbaraya**.
 - 1 *Khanokh* 15-16 : origine des esprits mauvais.
 - *Bereshit* 6:13 : fin de toute chair violente.
 
@@ -373,7 +373,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁸ Noach (*Noach* / נֹחַ) *[celui par qui une cessation et un apaisement sont annoncés dans la lignée de **l'Être façonné du sol**]* fut gardé avec ses fils. ⁹ Il fut la racine vue dans le songe, et ses fils furent les trois rameaux. ¹⁰ Ils ne furent pas gardés comme trophée d'un combat, mais comme continuité minimale d'une Terre à réinstaller.
 
-¹¹ Les noms des violents furent comme signes sur la tablette plongée dans l'eau. ¹² Ils furent lavés de la surface où ils avaient pris sans mandat. ¹³ La chair des géants ne demeura pas, et leur puissance ne trouva pas lieu où se tenir.
+¹¹ Les noms des violents furent comme signes sur la tablette plongée dans l'eau. ¹² Ils furent lavés de la surface où ils avaient pris sans mandat. ¹³ La chair des **gibbaraya** ne demeura pas, et leur puissance ne trouva pas lieu où se tenir.
 
 ¹⁴ Alors le **mabbul** accomplit son oeuvre étrange : il défit pour rétablir. ¹⁵ Il recouvrit pour que la confusion soit arrêtée. ¹⁶ Il suspendit les distinctions visibles afin que les distinctions fonctionnelles puissent être réinstituées après le retrait des eaux.
 
@@ -403,7 +403,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 Cette section n'appartient pas au corps narratif reconstruit. Elle ne propose pas un chapitre final perdu. Elle décrit la manière dont le Livre des Géants contextualise son propre récit par les songes, l'écriture de Khanokh et le reclassement des noms héroïques.
 
-Le texte ne semble pas conserver une formule du type "jusqu'à ce jour". Son actualisation est plus indirecte : le récit montre que la crise des géants ne relève pas seulement d'un passé monstrueux, mais d'une rupture des domaines dont le **mabbul** doit arrêter les conséquences.
+Le texte ne semble pas conserver une formule du type "jusqu'à ce jour". Son actualisation est plus indirecte : le récit montre que la crise des **gibbaraya** ne relève pas seulement d'un passé monstrueux, mais d'une rupture des domaines dont le **mabbul** doit arrêter les conséquences.
 
 ### Bereshit amplifié
 
@@ -411,7 +411,7 @@ Le Livre des Géants ne commente pas *Bereshit* 6 depuis l'extérieur. Il déplo
 
 ### Songes et tablette
 
-Les songes ne sont pas des ornements narratifs. Le jardin, le feu, les eaux, la tablette et les noms effacés donnent au récit ses clés internes. Les géants voient leur fin avant de pouvoir la comprendre ; leur puissance ne produit pas l'interprétation.
+Les songes ne sont pas des ornements narratifs. Le jardin, le feu, les eaux, la tablette et les noms effacés donnent au récit ses clés internes. Les **gibbaraya** voient leur fin avant de pouvoir la comprendre ; leur puissance ne produit pas l'interprétation.
 
 ### Khanokh lecteur du décret
 
@@ -419,7 +419,7 @@ Mahaway envoyé vers Khanokh montre que le sens n'appartient pas aux puissants. 
 
 ### Gilgamesh reclassé
 
-Le texte ne dit pas explicitement : "voici d'où vient vraiment Gilgamesh". Mais en plaçant Gilgamesh (*Gilgamesh* / גלגמיש) et Hobabish (*Hobabish* / חובבש) parmi les géants soumis au jugement, il reclassifie la mémoire héroïque des nations. Ce que les nations peuvent élever comme **kavod** guerrière devient, dans ce cadre, mémoire de démesure antédiluvienne.
+Le texte ne dit pas explicitement : "voici d'où vient vraiment Gilgamesh". Mais en plaçant Gilgamesh (*Gilgamesh* / גלגמיש) et Hobabish (*Hobabish* / חובבש) parmi les **gibbaraya** soumis au jugement, il reclassifie la mémoire héroïque des nations. Ce que les nations peuvent élever comme **kavod** guerrière devient, dans ce cadre, mémoire de démesure antédiluvienne.
 
 ### Portée ontologique
 
@@ -434,7 +434,7 @@ La relecture interne du récit tient donc à ceci : la grandeur sans mandat n'es
 
 ### Parallèles bibliques éventuels
 
-- *Bereshit* 6:1-4 : noyau bref des Veilleurs, Nephilim et **gibborim**.
+- *Bereshit* 6:1-4 : noyau bref des **'irin**, Nephilim et **gibborim**.
 - *Bereshit* 6-9 : corruption, **mabbul**, re-création.
 - *Daniel* 7 : visions, tribunal céleste, livres ouverts.
 
@@ -450,14 +450,14 @@ Cette version verrouillée reprend la V3 après nettoyage du corps narratif. Ell
 
 ## Degré d'attestation par ensembles narratifs
 
-- Descente des Veilleurs, secrets, corruption : attesté par fragments et fortement soutenu par 1 *Khanokh*.
-- Noms des géants : attestés de manière fragmentaire et par traditions parallèles.
+- Descente des **'irin**, secrets, corruption : attesté par fragments et fortement soutenu par 1 *Khanokh*.
+- Noms des **gibbaraya** : attestés de manière fragmentaire et par traditions parallèles.
 - Violence et consommation : attestées par fragments et par 1 *Khanokh*.
 - Songes du jardin et de la tablette : attestés, mais leur distribution exacte entre rêveurs reste discutée.
-- Mahaway messager vers Khanokh : attesté comme motif central.
+- Mahaway **mal'akh** des **gibbaraya** vers Khanokh : attesté comme motif central.
 - Lettre de Khanokh : attestée en 4Q203, reconstruite ici de façon continue.
-- Décret détaillé contre Azazel, Shemikhazah et les géants : surtout 1 *Khanokh* 10.
-- Esprits errants issus des géants : surtout 1 *Khanokh* 15-16.
+- Décret détaillé contre Azazel, Shemikhazah et les **gibbaraya** : surtout 1 *Khanokh* 10.
+- Esprits errants issus des **gibbaraya** : surtout 1 *Khanokh* 15-16.
 - Lecture du **mabbul** comme dé-création temporaire : interprétation ONT à partir de *Bereshit* 6-8.
 
 ## Sources consultées pour cette version
@@ -466,4 +466,4 @@ Cette version verrouillée reprend la V3 après nettoyage du corps narratif. Ell
 - Discussion du rêve du jardin, de 4Q530, de 6Q8 et des parallèles manichéens : [A. Orlov, "The Flooded Arboretums"](https://www.marquette.edu/maqom/flood55.html).
 - Présentation et transcription araméenne secondaire de 4Q203, 4Q530-533 : [Book of Giants, Tianmu Anglican Church](https://tianmu.org/good-work-library/judean/dead-sea-scrolls/rewritten-scripture/book-of-giants).
 - Loren T. Stuckenbruck, "The Sequencing of Fragments Belonging to the Qumran Book of Giants", *Journal for the Study of the Pseudepigrapha* 16, 1997.
-- Józef Milik, *The Books of Enoch* ; George Nickelsburg, travaux sur 1 *Khanokh* ; Annette Yoshiko Reed, travaux sur les Veilleurs ; Matthew Goff, travaux sur Gilgamesh dans le Livre des Géants.
+- Józef Milik, *The Books of Enoch* ; George Nickelsburg, travaux sur 1 *Khanokh* ; Annette Yoshiko Reed, travaux sur les **'irin** ; Matthew Goff, travaux sur Gilgamesh dans le Livre des Géants.
