@@ -262,7 +262,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁷ La plainte (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les oeuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
 
-⁹ Le décret est parvenu jusqu'à Raphael (*Raphael* / רפאל) *[**mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *Khanokh*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
+⁹ Le décret est parvenu jusqu'à Rafa'el (*Rafa'el* / רָפָאֵל) *[**mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *Khanokh*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
 
 ¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
 
@@ -272,7 +272,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ### Notes philologiques
 
-- 4Q203 fragment 8 conserve une lettre de Khanokh à Shemikhazah et à ses compagnons : écriture de Khanokh, oeuvres, femmes, fils, corruption et Raphael. La formulation continue de cette lettre est reconstruite ; le corps narratif garde la voix antique, et le statut critique est signalé ici.
+- 4Q203 fragment 8 conserve une lettre de Khanokh à Shemikhazah et à ses compagnons : écriture de Khanokh, oeuvres, femmes, fils, corruption et Rafa'el. La formulation continue de cette lettre est reconstruite ; le corps narratif garde la voix antique, et le statut critique est signalé ici.
 - Les versets ²-⁹ suivent de près les composantes attestées, sans prétendre fournir une traduction ligne à ligne.
 - Les versets ¹⁰-¹⁹ sont une expansion contrôlée reliant la lettre aux songes et au décret du **mabbul**.
 
@@ -280,12 +280,12 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 - La lettre inscrit le jugement là où la tablette du songe montrait l'effacement.
 - Le dommage est structurel : il touche la Terre comme domaine habitable.
-- Raphael signale que le jugement vise aussi une restauration de l'ordre.
+- Rafa'el signale que le jugement vise aussi une restauration de l'ordre.
 
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 6:5-13 : corruption, violence, décret.
-- 1 *Khanokh* 10:4-15 : Raphael, Azazel, purification de la Terre.
+- 1 *Khanokh* 10:4-15 : Rafa'el, Azazel, purification de la Terre.
 - *Daniel* 5 : écriture qui annonce la fin d'un règne.
 
 ---
