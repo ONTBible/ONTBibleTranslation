@@ -31,7 +31,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁸ Shemikhazah (*Shemikhazah* / שמיחזה) *[chef des Veilleurs ; son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; Azazel (*Azazel* / עזאזל) *[figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; Baraqel (*Baraqel* / ברקאל) *[père de Mahaway]* fut compté parmi les pères de la génération de démesure.
 
-⁹ Ils descendirent vers la Terre, non comme messagers envoyés, mais comme puissances qui quittent leur place. ¹⁰ Alors ils connurent des secrets (*razin* / רָזִין) *[araméen : mystères, secrets célestes. Le problème n'est pas le savoir en lui-même, mais sa transmission hors mandat]* qui n'avaient pas été remis aux fils de **l'Être façonné du sol**.
+⁹ Ils descendirent vers la Terre, non comme **mal'akhim** mandatés, mais comme puissances qui quittent leur place. ¹⁰ Alors ils connurent des secrets (*razin* / רָזִין) *[araméen : mystères, secrets célestes. Le problème n'est pas le savoir en lui-même, mais sa transmission hors mandat]* qui n'avaient pas été remis aux fils de **l'Être façonné du sol**.
 
 ¹¹ Ils ouvrirent ce qui devait demeurer fermé, et ils livrèrent des savoirs sans mesure à ceux qui n'avaient pas reçu mandat pour les porter. ¹² Le savoir fut détaché du service ; la connaissance fut séparée de la garde ; l'art devint puissance de trouble.
 
@@ -262,7 +262,7 @@ Il est une reconstruction narrative philologiquement plausible. Les fragments at
 
 ⁷ La plainte (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les oeuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
 
-⁹ Le décret est parvenu jusqu'à Raphael (*Raphael* / רפאל) *[messager céleste associé au jugement et à la restauration de la Terre]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
+⁹ Le décret est parvenu jusqu'à Raphael (*Raphael* / רפאל) *[**mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *Khanokh*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
 
 ¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
 
