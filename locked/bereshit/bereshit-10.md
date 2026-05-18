@@ -1,0 +1,101 @@
+# Bereshit 10
+*(Genèse / בְּרֵאשִׁית 10:1-32)*
+
+---
+
+## Les toledot des fils de Noach
+
+¹ Et voici les engendrements (*toledot* / תּוֹלְדֹת) des fils de Noach (*Noach* / נֹחַ) — Shem (*Shem* / שֵׁם), Cham (*Cham* / חָם) et Yaphet (*Yaphet* / יֶפֶת) — et des fils leur furent engendrés après le **mabbul** (*mabbul* / מַבּוּל).
+
+## Les fils de Yaphet
+
+² Les fils de Yaphet : Gomer (*Gomer* / גֹּמֶר) *[de gamar : achever, compléter — les Cimmériens pour la géographie proche-orientale ancienne, peuples des steppes au septentrion du Caucase]*, Magog (*Magog* / מָגוֹג) *[territoire au-delà du Caucase — ici simplement un peuple parmi d'autres dans le registre des nations, sans la charge symbolique que lui donneront les textes prophétiques ultérieurs]*, Madai (*Madai* / מָדַי) *[les Mèdes — peuple iranien qui formera avec les Perses l'empire médoperse]*, Yavan (*Yavan* / יָוָן) *[les Ioniens — la Grèce. Yavan donnera son nom au grec dans toutes les langues sémitiques jusqu'à aujourd'hui : *Yunan* en arabe et en turc, *Yavan* en hébreu moderne]*, Tuval (*Tuval* / תּוּבָל) *[peuples d'Anatolie orientale, liés à Meshekh dans les textes prophétiques]*, Meshekh (*Meshekh* / מֶשֶׁךְ) *[peuples du Caucase — souvent associés à Tuval comme bloc géopolitique dans les textes ultérieurs]* et Tiras (*Tiras* / תִּירָס) *[probablement les Thraces ou les Tyrrhéniens de la Méditerranée orientale]*.
+
+³ Et les fils de Gomer : Ashkenaz (*Ashkenaz* / אַשְׁכְּנַז) *[peuples des steppes au septentrion de la mer Noire — le nom sera repris au Moyen Âge pour désigner les communautés juives d'Europe centrale et orientale, mais ici simplement un peuple dans la liste]*, Rifat (*Rifat* / רִיפַת) et Togarmah (*Togarmah* / תֹּגַרְמָה) *[identifié aux Arméniens dans les traditions rabbiniques — peuples d'Anatolie orientale]*.
+
+⁴ Et les fils de Yavan : Elisha (*Elisha* / אֱלִישָׁה) *[peut-être la Sicile ou Chypre — rivage accessible par la mer depuis la côte levantine]*, Tarshish (*Tarshish* / תַּרְשִׁישׁ) *[port lointain à l'extrémité occidentale de la Méditerranée — probablement l'Hispanie. La flotte de Tarshish sera le symbole du commerce maritime à longue distance dans tout l'ONT]*, Kitim (*Kitim* / כִּתִּים) *[Chypre — et dans les textes ultérieurs, les peuples des îles de la Méditerranée en général]* et Dodanim (*Dodanim* / דֹּדָנִים) *[peut-être les Dardaniens ou les Rhodiens — peuples insulaires de la mer Égée]*.
+
+⁵ De ces-là se dispersèrent (*nifredah* / נִפְרְדוּ) *[prd — se séparer, se diviser, ramifier depuis un point d'origine. Même racine que *vayipared* de Bereshit 2:10, où le fleuve du jardin se divisait en quatre bras. La dispersion des peuples reprend le mouvement de ramification inscrit dans la création elle-même : l'ordre cosmique se propage par ramification, non par homogénéisation]* les peuples des côtes (*iyei hagoyim* / אִיֵּי הַגּוֹיִם) *[iyei — les rivages, les îles, les terres accessibles par la mer. Hagoyim — les peuples dans leur dimension politique et territoriale : groupements humains définis par leur terre, leur langue et leur lignée commune]* dans leurs terres (*be'artsotam* / בְּאַרְצֹתָם), chacun selon sa langue (*leshono* / לִלְשֹׁנוֹ), selon leurs clans (*mishpehotam* / לְמִשְׁפְּחֹתָם), dans leurs peuples (*begoyeihem* / בְּגוֹיֵהֶם).
+
+## Les fils de Cham
+
+⁶ Et les fils de Cham : Koush (*Koush* / כּוּשׁ) *[la Nubie — territoire au midi de Mitsrayim, le long du fleuve]*, Mitsrayim (*Mitsrayim* / מִצְרַיִם) *[Mitsrayim — forme duelle inscrite dans le **Shem** lui-même : les deux Mitsrayim, Haute et Basse, unifiées sous une couronne double. Le duel *Mitsrayim* (deux Mitsrim) porte l'histoire géopolitique du pays dans sa morphologie]*, Put (*Put* / פּוּט) *[la Libye — territoire à l'occident de Mitsrayim]* et Kena'an (*Kena'an* / כְּנַעַן) *[Kena'an — pays frappé de dysfonctionnement par la prononciation de Noach en Bereshit 9:8. Sa présence dans la lignée de Cham ancre structurellement dans la liste des nations ce que la prononciation a posé dans l'ordre fonctionnel]*.
+
+⁷ Et les fils de Koush : Seva (*Seva* / סְבָא), Havila (*Havila* / חֲוִילָה) *[la même Havila qu'en Bereshit 2:11 — pays de l'or, à situer dans la péninsule arabique]*, Savta (*Savta* / סַבְתָּא), Ra'ama (*Ra'ama* / רַעְמָה) et Savtekha (*Savtekha* / סַבְתְּכָא). Et les fils de Ra'ama : Sheva (*Sheva* / שְׁבָא) *[le pays de Saba — les Sabéens d'Arabie du Sud, dont la reine viendra trouver Salomon dans *Melakhim*]* et Dedan (*Dedan* / דְּדָן) *[tribu d'Arabie centrale, mentionnée dans les textes prophétiques comme partenaire commercial]*.
+
+## Nimrod — le premier puissant
+
+⁸ Et Koush engendra Nimrod (*Nimrod* / נִמְרֹד) *[étymologie incertaine — peut-être de marad (מָרַד) : se rebeller, résister. Le texte ne commente pas le **Shem** — il laisse le récit établir le personnage]* — il fut l'inauguration du puissant (*hehel lihyot gibor* / הֵחֵל לִהְיוֹת גִּבֹּר) *[hehel — de halal : commencer, inaugurer — le même verbe qu'en Bereshit 9:20 pour Noach et la vigne, portant les deux résonances : commencer et peut-être profaner. Gibor — puissant, héroïque : une capacité de force et d'action qui dépasse l'ordinaire, non la sagesse ni la fidélité fonctionnelle — la puissance comme valeur propre. Les Nephilim de Bereshit 6:4 étaient déjà désignés comme "les puissants (*gibborim*) d'autrefois" — et ce même verset précisait "et aussi après" (*vegam aharei-khen* / וְגַם אַחֲרֵי-כֵן). Nimrod est la réalisation de ce "aussi après" : le premier gibor dans le monde postdiluvien, dans la lignée de Cham]* sur la Terre.
+
+⁹ Il fut un puissant à la chasse (*gibor tsayid* / גִּבֹּר צַיִד) *[tsayid — la chasse, l'acte de traquer et capturer. La portée fonctionnelle du terme s'étend à tout ce qu'on s'approprie par la force et la ruse — animaux et peut-être territoires]* face à **YHWH** (*lifnei YHWH* / לִפְנֵי יְהוָה) *[lifnei YHWH — littéralement "devant la face de **YHWH**" : expression délibérément ambiguë. Peut signifier "en présence de, avec l'approbation de" — ou au contraire "en défi de, contre". Le texte pose Nimrod dans un rapport à **YHWH** sans en qualifier la nature. Le lecteur est maintenu dans l'indécidabilité. Ce que la formule établit avec certitude : Nimrod agit sur un théâtre où **YHWH** est présent]*. C'est pourquoi il se dit : « Comme Nimrod, puissant à la chasse face à **YHWH** ».
+
+¹⁰ Et le commencement (*reshit* / רֵאשִׁית) *[reshit — le début, ce qui inaugure une série. Même mot que le premier mot de tout Bereshit : *bereshit* (au commencement). Ce qui commence avec Nimrod, c'est le règne humain organisé en entité politique — le *mamlakhah*]* de son domaine royal (*mamlakhto* / מַמְלַכְתּוֹ) *[mamlakhah — le domaine organisé sous un pouvoir royal : premier emploi du terme dans l'ONT. L'organisation politique humaine émerge ici, dans la lignée de Koush fils de Cham. Le royaume, comme concept, entre dans l'histoire avec Nimrod]* : Bavel (*Bavel* / בָּבֶל) *[Bavel — première ville du premier royaume humain, qui réapparaîtra en Bereshit 11 comme le lieu de la confusion des langues. La charge symbolique s'accumule — le texte ne l'anticipe pas encore explicitement]*, Erekh (*Erekh* / אֶרֶךְ) *[Uruk — l'une des premières cités sumériennes, dont les fouilles archéologiques confirment l'antiquité exceptionnelle]*, Akkad (*Akkad* / אַכַּד) *[la ville qui donnera son **Shem** à l'empire akkadien, premier empire sémitique de Shin'ar]* et Khalneh (*Khalneh* / כַּלְנֵה) — dans le pays de Shin'ar (*Shin'ar* / שִׁנְעָר) *[Shin'ar — la plaine de Shin'ar / Bavel. Ce même Shin'ar où les humains bâtiront la tour en Bereshit 11. La géographie du pouvoir humain est cohérente]*.
+
+¹¹ De ce pays, il sortit vers Assur (*Assur* / אַשּׁוּר) *[Assur — le territoire et la puissance d'Assur, mais aussi le dieu national assyrien et la ville capitale. Le sujet grammatical est délibérément ambigu : est-ce Nimrod qui sort vers Assur pour l'y bâtir, ou est-ce Assur (fils de Shem, v.22) qui bâtit ces villes ? L'hébreu laisse les deux lectures disponibles. Le texte ne cherche pas à les résoudre]* et bâtit Ninveh (*Ninveh* / נִינְוֵה) *[Ninveh — grande cité d'Assur, sur le Hiddeqel. Sa première mention dans l'ONT. Ville à laquelle **YHWH** enverra Yonah dans le livre qui porte son **Shem**]* et Rehovot-Ir (*Rehovot-Ir* / רְחֹבֹת עִיר) *[littéralement "les larges rues de la ville" — peut-être un quartier de Ninveh, ou une agglomération distincte]* et Kelah (*Kelah* / כֶּלַח).
+
+¹² Et Resen (*Resen* / רֶסֶן) entre Ninveh et Kelah — c'est la grande ville (*ha'ir hagdolah* / הָעִיר הַגְּדֹלָה) *[hagdolah — la grande. Le texte désigne "la grande ville" parmi les quatre sans préciser laquelle — ambiguïté qui pourrait désigner Ninveh par métonymie, ou l'ensemble comme complexe urbain unifié]*.
+
+## Les fils de Mitsrayim et de Kena'an
+
+¹³ Et Mitsrayim (*Mitsrayim* / מִצְרַיִם) engendra les Loudim (*Loudim* / לוּדִים) *[peuple d'Afrique du Nord — identification incertaine]*, les Anamim (*Anamim* / עֲנָמִים), les Lehabim (*Lehabim* / לְהָבִים) *[peut-être les Libyens de l'Antiquité]*, les Naftuhim (*Naftuhim* / נַפְתֻּחִים) *[peut-être le delta du Nil ou la Basse Égypte]*.
+
+¹⁴ Les Patrusim (*Patrusim* / פַּתְרֻסִים) *[Patros — la Haute Égypte]* et les Kasluhim (*Kasluhim* / כַּסְלֻחִים) *[peuple de la côte méditerranéenne orientale — de là sortirent les Pelishtim]* — de là sortirent les Pelishtim (*Pelishtim* / פְּלִשְׁתִּים) *[les Philistins — peuple de la plaine côtière de Kena'an, adversaires récurrents d'Israël dans les récits des *Shoftim* et *Shemuel*. Leur origine dans la lignée de Mitsrayim les inscrit dans la géographie politique de l'Égypte et de sa sphère d'influence]* — et les Kaftorim (*Kaftorim* / כַּפְתֹּרִים) *[Kaphtor — la Crète, ou les peuples de la mer égéenne]*.
+
+¹⁵ Et Kena'an (*Kena'an* / כְּנַעַן) engendra Tsidon (*Tsidon* / צִידֹן) *[Sidon — la grande cité phénicienne sur la côte. Tsidon est le fils premier-né de Kena'an : la Phénicie est l'aîné du monde cananéen]* son premier-né, et Het (*Het* / חֵת) *[les Hittites — Het est l'ancêtre éponymique des *beni Het* (fils de Het), avec lesquels Avraham négociera la sépulture de Sarah en Bereshit 23]*.
+
+¹⁶ Et les Yevousim (*Yevousim* / הַיְבוּסִי) *[les Yevousim — habitants de Yeroushalayim avant que David ne s'en empare dans *Shemuel*]*, les Emori (*Emori* / הָאֱמֹרִי) *[les Emori — peuple majeur de Kena'an et de Shin'ar, présents dans tout le récit d'Avraham à Yehoshua]*, les Girgashi (*Girgashi* / הַגִּרְגָּשִׁי),
+
+¹⁷ les Hivi (*Hivi* / הַחִוִּי), les Arqi (*Arqi* / הָעַרְקִי), les Sini (*Sini* / הַסִּינִי),
+
+¹⁸ les Arvadi (*Arvadi* / הָאַרְוָדִי) *[Arvad — île-cité phénicienne au large de la côte syrienne]*, les Tsemari (*Tsemari* / הַצְּמָרִי) et les Hamati (*Hamati* / הַחֲמָתִי) *[Hamat — ville sur l'Oronte en Syrie, repère géographique récurrent pour désigner la frontière septentrionale d'Israël dans les textes historiques]*. Et après, les clans des Kena'ani se dispersèrent (*vayafoutsu* / וַיָּפֻצוּ) *[puts — se disperser, s'éparpiller. Le mouvement d'essaimage des sous-peuples de Kena'an sur leur territoire — une dispersion interne au pays, distincte de la grande dispersion des nations de v.5 et v.32]*.
+
+¹⁹ Et la frontière (*gevul* / גְּבוּל) *[gevul — la limite, le territoire délimité. Premier emploi dans l'ONT pour une délimitation géopolitique. Que le territoire de Kena'an soit tracé avec précision ici n'est pas anodin : c'est ce territoire que **YHWH** promettra à Avraham. La carte est posée avant la promesse]* des Kena'ani allait de Tsidon, en direction de Gerar (*Gerar* / גְּרָר) *[ville au midi de Kena'an, sur la route de Mitsrayim — Avraham y séjournera en Bereshit 20]* jusqu'à Aza (*Aza* / עַזָּה) *[Gaza — carrefour entre Mitsrayim et Kena'an, présent dans l'histoire de la région de l'Antiquité jusqu'à aujourd'hui]*, et en direction de Sedom (*Sedom* / סְדֹם) *[Sedom — ville qui sera détruite en Bereshit 18-19. Sa présence dans la liste des frontières de Kena'an ancre géographiquement ce qui viendra]*, Amora (*Amora* / עֲמֹרָה) *[deuxième grande ville de la plaine, détruite avec Sedom en Bereshit 19]*, Adma (*Adma* / אַדְמָה) et Tsevoim (*Tsevoim* / צְבֹיִם) *[villes de la plaine du Yarden, anéanties avec Sedom]* jusqu'à Lesha (*Lesha* / לָשַׁע).
+
+²⁰ Ce sont là les fils de Cham — selon leurs clans (*mishpehotam* / מִשְׁפְּחֹתָם), selon leurs langues (*leshonotam* / לְשֹׁנֹתָם), dans leurs terres (*be'artsotam* / בְּאַרְצֹתָם), dans leurs peuples (*begoyeihem* / בְּגוֹיֵהֶם).
+
+## Les fils de Shem
+
+²¹ Et à Shem (*Shem* / שֵׁם) aussi des fils furent engendrés — lui, le père de tous les fils d'Ever (*Ever* / עֵבֶר) *[Ever — de *avar* (עָבַר) : traverser, passer d'un côté à l'autre. De son **Shem** descend le terme *ivri* — celui qui a traversé, celui qui vient de l'autre côté. Avraham sera appelé *ha-ivri* (l'Hébreu) en Bereshit 14. Ce verset pose la généalogie fonctionnelle de tout le peuple hébreu dans la lignée de Shem — Ever est le point de convergence entre la liste des nations et l'histoire particulière qui s'ouvre avec Avraham]*, le frère de Yaphet l'aîné (*ahi Yafet haggadol* / אֲחִי יֶפֶת הַגָּדוֹל) *[haggadol — grand, aîné. La construction hébraïque est structurellement ambiguë : haggadol peut qualifier Yaphet — "Shem, le frère de Yaphet-l'aîné" (Yaphet est l'aîné) — ou qualifier ahi — "Shem, le frère aîné de Yaphet" (Shem est l'aîné). Le listing systématique Shem-Cham-Yaphet dans tout Bereshit pourrait suggérer une primauté de Shem ; mais ce verset lui-même ne tranche pas. L'ordre de naissance des fils de Noach reste ouvert dans le texte — l'ambiguïté est dans la structure même de la phrase]*.
+
+²² Les fils de Shem : Elam (*Elam* / עֵילָם) *[l'Élam — empire antique à l'orient de Shin'ar, dans l'actuel Iran du midi-occident. Sa présence en tête de la liste de Shem souligne l'étendue orientale du monde sémitique]*, Assur (*Assur* / אַשּׁוּר) *[Assur — déjà apparu en v.11 dans un contexte ambigu. Ici clairement fils de Shem : deux traditions géographiques coexistent sans être harmonisées]*, Arpakhshad (*Arpakhshad* / אַרְפַּכְשַׁד) *[ancêtre direct de la lignée qui conduira à Avraham — la ligne généalogique centrale de l'ONT passe par lui]*, Loud (*Loud* / לוּד) *[le peuple de Loud, en Anatolie — à distinguer des Loudim fils de Mitsrayim en v.13]* et Aram (*Aram* / אֲרָם) *[Aram — les Araméens, dont la langue (l'araméen) deviendra la lingua franca de tout le Proche-Orient à partir de l'époque assyrienne]*.
+
+²³ Et les fils d'Aram : Oust (*Oust* / עוּץ) *[le pays d'Outs — c'est là qu'habite Iyov dans le livre qui porte son **Shem** : *ish hayah be'erets Outs* (un homme était dans le pays d'Outs)]*, Houl (*Houl* / חוּל), Geter (*Geter* / גֶּתֶר) et Mash (*Mash* / מַשׁ).
+
+²⁴ Et Arpakhshad engendra Shelah (*Shelah* / שֶׁלַח) *[de shalah : lancer, envoyer — nom porteur de mouvement orienté]*, et Shelah engendra Ever (*Ever* / עֵבֶר).
+
+²⁵ Et à Ever furent engendrés deux fils : le **Shem** du premier était Peleg (*Peleg* / פֶּלֶג) *[de *palag* (פָּלַג) : fendre en deux, diviser, creuser un canal. Son **Shem** anticipe l'événement : *car en ses jours la Terre fut divisée*. Le texte nomme avant de raconter — la division de Bereshit 11 est déjà inscrite dans ce **Shem**]* — car en ses jours la Terre fut divisée (*niflega ha'arets* / נִפְלְגָה הָאָרֶץ) *[palag — même racine que Peleg : le **Shem** nomme l'événement qui se produira dans sa génération. La division à Babel (Bereshit 11) est l'événement de référence. La Terre qui se divise, c'est l'humanité qui se fragmente en langues et en peuples distincts — le mouvement inverse de la *berith* qui unifie]* — et le **Shem** de son frère était Yoqtan (*Yoqtan* / יָקְטָן) *[de qatan : petit, moindre — mais de lui sortira une longue lignée de peuples arabes du Sud]*.
+
+²⁶ Et Yoqtan engendra Almodad (*Almodad* / אַלְמוֹדָד), Shelef (*Shelef* / שָׁלֶף), Hatsarmavet (*Hatsarmavet* / חֲצַרְמָוֶת) *[littéralement "cour de la mort" — **Shem** évocateur qui désigne un territoire de la péninsule arabique (l'actuel Hadramaout au Yémen)]* et Yerah (*Yerah* / יֶרַח) *[de *yerah* : la lune, le mois lunaire — **Shem** astronomique]*.
+
+²⁷ Et Hadoram (*Hadoram* / הֲדוֹרָם), Ousal (*Ousal* / אוּזָל) *[peut-être Sanaa — capitale actuelle du Yémen, dont le nom ancien pourrait être Auzal]*, Diqla (*Diqla* / דִּקְלָה) *[peut-être de *daqal* : le palmier-dattier — **Shem** végétal de la péninsule arabique]*.
+
+²⁸ Oval (*Oval* / עֹבָל), Avima'el (*Avima'el* / אֲבִימָאֵל) *[de *avi* (mon père) et *El* (**Elohim**) : "mon père est **Elohim**" — **Shem** de relation fonctionnelle avec **Elohim** inscrit dans la lignée de Shem]*, Sheva (*Sheva* / שְׁבָא) *[second Sheva dans la liste — le premier était fils de Ra'ama/Cham en v.7. Les mêmes **Shem** traversent les deux lignées sans se confondre : la géographie des peuples est plus enchevêtrée que les généalogies ne le laissent paraître]*.
+
+²⁹ Et Ofir (*Ofir* / אוֹפִיר) *[Ophir — le pays de l'or de légende, vers lequel Salomon enverra ses flottes dans *Melakhim*. Sa présence ici dans la lignée de Shem ancre géographiquement l'horizon lointain de la richesse royale]*, Havila (*Havila* / חֲוִילָה) *[troisième occurrence de ce **Shem** dans Bereshit 10 — après Havila fils de Koush (v.7). La répétition n'est pas une erreur : différentes communautés tribales peuvent porter des **Shem** proches selon des traditions distinctes]* et Yovav (*Yovav* / יוֹבָב). Tous ceux-là étaient les fils de Yoqtan.
+
+³⁰ Et leur établissement (*moshavam* / מוֹשָׁבָם) *[moshav — le lieu de séjour établi, la demeure fonctionnelle dans un territoire]* allait de Mesha (*Mesha* / מֵשָׁא) en direction de Sefar (*Sefar* / סְפָרָה), la montagne de l'Orient (*har haqedem* / הַר הַקֶּדֶם) *[haqedem — le côté du soleil levant, l'Orient. Les fils de Yoqtan occupent le flanc oriental de la péninsule arabique — les terres qui s'étendent vers le golfe Persique et l'océan Indien]*.
+
+³¹ Ce sont là les fils de Shem — selon leurs clans (*mishpehotam* / מִשְׁפְּחֹתָם), selon leurs langues (*leshonotam* / לְשֹׁנֹתָם), dans leurs terres (*be'artsotam* / בְּאַרְצֹתָם), dans leurs peuples (*begoyeihem* / בְּגוֹיֵהֶם).
+
+## Le bilan des nations
+
+³² Ce sont là les clans (*mishpehot* / מִשְׁפְּחֹת) des fils de Noach — selon leurs engendrements (*toledotam* / תּוֹלְדֹתָם), dans leurs peuples (*begoyeihem* / בְּגוֹיֵהֶם). Et de ces-là se dispersèrent (*nifredou* / נִפְרְדוּ) les peuples dans la Terre après le **mabbul** (*mabbul* / מַבּוּל) *[le texte boucle sur lui-même : ouvert en v.1 avec le **mabbul**, clos en v.32 avec le même **mabbul**. Le **mabbul** est le zéro historique — toute l'humanité issue de ces trois fils. Et le mouvement de dispersion, amorcé en v.5 pour Yaphet et en v.18 pour les Kena'ani, se généralise ici à l'ensemble des nations. Ce mouvement sera brusquement interrompu et puis relancé par la construction de la tour de Bavel en Bereshit 11 : le chapitre des nations pose la carte que le chapitre suivant va refermer sur elle-même]*.
+
+---
+
+*Bereshit 10 — Version 1.0 — verrouillée*
+*Décisions terminologiques propres à ce Bereshit 10 :*
+- *Goyim — "peuples" (groupements humains définis par territoire, langue et lignée)*
+- *Mishpahot — "clans"*
+- *Leshon — "langue"*
+- *Nifredah/nifredou — "se dispersèrent" (de prd : même racine que vayipared de Bereshit 2:10 — ramification depuis un point d'origine)*
+- *Gibor — "puissant" (capacité de force dépassant l'ordinaire)*
+- *Tsayid — "chasse" → "puissant à la chasse"*
+- *Lifnei YHWH — "face à **YHWH**" (ambiguïté maintenue : approbation ou tension)*
+- *Mamlakhah — "domaine royal" (premier emploi : Nimrod inaugure l'organisation politique)*
+- *Reshit — "commencement" (même mot que bereshit — la royauté commence avec Nimrod)*
+- *Ever — ancêtre des ivrim (Hébreux) — de avar : traverser. Son **Shem** fonde le terme *ivri* (Avraham en Bereshit 14)*
+- *Peleg — de palag (diviser) : son **Shem** anticipe la division des langues de Bereshit 11*
+- *Gevul — "frontière" (premier emploi pour délimiter Kena'an — la carte avant la promesse)*
+- *Moshav — "établissement" (lieu de séjour fonctionnel dans un territoire)*
+- *Bereshit 11 : Genèse 11:1-32 — la tour de Bavel et les toledot de Shem jusqu'à Avraham*

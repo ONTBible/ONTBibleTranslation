@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Affinity Publisher lock files
+*.af~lock~
+
+# Fichiers générés
+last-response.md
