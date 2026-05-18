@@ -104,7 +104,7 @@ Et il advint, et demeura conformément à ce qui avait été formulé (*vayehi k
 
 Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le Sixième Jour (*yom hashishi* / יוֹם הַשִּׁשִּׁי) *[avec l'article défini marqué en hébreu — non pas "un sixième jour" parmi d'autres, mais LE jour de l'accomplissement total]*.
 
-## Le Septième Jour - Le Couronnement
+## Le Septième Jour — L'Intronisation
 
 ³² Les Cieux et la Terre et toute leur légion (*tseva'am* / צְבָאָם) *[tseva — non pas une métaphore militaire : la totalité organisée et ordonnée de tout ce qui peuple et fait fonctionner le cosmos, dans sa multiplicité fonctionnelle accomplie]* atteignirent leur plénitude (*vayekhullu* / וַיְכֻלּוּ) *[kalah — non pas "ils furent terminés" comme une tâche qu'on barre d'une liste : ils atteignirent leur état d'accomplissement total. Chaque domaine habité, chaque fonction assignée, chaque rôle rempli]*.
 
