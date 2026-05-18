@@ -45,7 +45,7 @@
 
 ---
 
-*Bereshit 16 — Version 1.0 — en cours*
+*Bereshit 16 — Version 1.0 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 16 :*
 - ***mal'akh* (מַלְאַךְ) — intraduisible. L'envoyé-fonctionnaire de **YHWH** — non pas "ange". Ambiguïté délibérée entre le **mal'akh** et **YHWH** lui-même maintenue tout au long du récit. Forme combinée : **mal'akh** **YHWH**. Premier emploi dans l'ONT*
 - ***El Roï* (אֵל רֳאִי) — intraduisible. "El qui me voit", "El de la vision". Nom divin unique dans toute la Bible — donné par Hagar. Premier emploi dans l'ONT*
