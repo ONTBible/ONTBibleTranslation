@@ -9,7 +9,7 @@
 
 ² la Terre (*ha'aretz* / הָאָרֶץ) existait déjà, mais sans ordre ni fonction ni habitant (*tohu vavohu* / תֹהוּ וָבֹהוּ) *[un espace non nommé, non délimité, non assigné — présent matériellement mais inexistant fonctionnellement]*, et la face des eaux primordiales (*tehom* / תְהוֹם) *[l'océan sans fond, sans limite, sans bord — les eaux d'avant toute ordination sur lesquelles repose le cosmos]* était plongée dans les ténèbres (*choshekh* / חֹשֶׁךְ) *[l'absence de toute lumière — donc l'impossibilité de distinguer, de séparer, de nommer quoi que ce soit : la condition anti-fonctionnelle par excellence]*. Et le **Ruach** (*ruach* / רוּחַ) *[souffle, vent, esprit — trois dimensions inséparables en hébreu : une présence à la fois physiquement ressentie et intentionnellement agissante, impossible à réduire à un seul mot français]* d'**Elohim** (*elohim* / אֱלֹהִים) couvait (*merachefet* / מְרַחֶפֶת) *[comme l'aigle au-dessus de ses petits — une présence enveloppante qui prépare l'éclosion fonctionnelle du cosmos]* la face des eaux.
 
-## Jour Un — La Lumière
+## Jour-Un — La Lumière
 
 ³ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) *[une parole performative — qui en s'énonçant accomplit ce qu'elle énonce]* :
 « Qu'advienne la Lumière (*or* / אוֹר) *[non pas la lumière physique — mais l'Ordre lui-même : ce qui rend toute distinction, toute séparation, toute existence fonctionnelle possible]*. »
@@ -19,9 +19,9 @@ Et la Lumière advint.
 
 ⁵ **Elohim** (*elohim* / אֱלֹהִים) nomma (*vayiqra* / וַיִּקְרָא) *[nommer c'est l'acte souverain par excellence — faire entrer dans l'existence fonctionnelle, assigner un rôle et une identité dans le système ordonné]* la Lumière : **« Jour »** (*yom* / יוֹם) *[la période pendant laquelle l'Ordre est manifeste, le temps habitable et structuré]*. Et il nomma les Ténèbres : **« Nuit »** (*laylah* / לָיְלָה) *[la période pendant laquelle l'Ordre se retire — non pas dans le chaos, mais dans un rythme réglé et fonctionnel]*.
 
-Il y eut un soir (*erev* / עֶרֶב) *[le moment où les distinctions s'estompent — la frontière entre l'ordre manifeste et son retrait]*, puis un matin (*boqer* / בֹּקֶר) *[le moment où les distinctions redeviennent perceptibles — le retour de l'ordre manifeste]* — ce fut le Jour Un (*yom echad* / יוֹם אֶחָד) *[non pas "le premier jour" — mais le Jour Un, unique et fondateur qui pose le principe de tout ce qui suit : le rythme, la distinction, l'ordre]*.
+Il y eut un soir (*erev* / עֶרֶב) *[le moment où les distinctions s'estompent — la frontière entre l'ordre manifeste et son retrait]*, puis un matin (*boqer* / בֹּקֶר) *[le moment où les distinctions redeviennent perceptibles — le retour de l'ordre manifeste]* — ce fut le Jour Un (*yom echad* / יוֹם אֶחָד) *[non pas "le premier jour" — mais le Jour-Un, unique et fondateur qui pose le principe de tout ce qui suit : le rythme, la distinction, l'ordre]*.
 
-## Jour Deux — La Voûte
+## Deuxième Jour — La Voûte
 
 ⁶ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) :
 « Qu'advienne une Voûte (*raqia* / רָקִיעַ) *[non pas un dôme solide à la manière grecque — mais une surface délimitante tendue entre deux domaines aquatiques, comme un forgeron bat le métal pour l'étendre : ce qui a été aplati et étendu pour servir de frontière structurante entre les eaux d'en haut et les eaux d'en bas]* au milieu des eaux, et qu'elle soit séparatrice (*mavdil* / מַבְדִּיל) *[son existence se résume entièrement à sa fonction : elle n'est pas définie par ce qu'elle est, mais par ce qu'elle fait — séparer, distinguer, délimiter]* entre les eaux et les eaux. »
@@ -32,7 +32,7 @@ Il y eut un soir (*erev* / עֶרֶב) *[le moment où les distinctions s'estomp
 
 Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le deuxième jour (*yom sheni* / יוֹם שֵׁנִי).
 
-## Jour Trois — La Terre et la végétation
+## Troisième Jour  — La Terre et la végétation
 
 ⁹ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) :
 « Que les eaux (*mayim* / מַיִם) qui sont en dessous des Cieux se rassemblent (*yiqavu* / יִקָּווּ) *[non pas poussées de force — mais convoquées à occuper leur place fonctionnelle dans le système cosmique]* en un lieu unique (*maqom echad* / מָקוֹם אֶחָד) *[un espace fonctionnellement défini et singulier — leur place assignée dans l'ordre cosmique]*, et que le sol sec (*hayabashah* / הַיַּבָּשָׁה) *[qui existait déjà sous les eaux — non pas créé, mais révélé : rendu visible et donc discernable, nommable, habitable]* apparaisse. »
@@ -48,7 +48,7 @@ Et il advint, et demeura conformément à ce qui avait été formulé (*vayehi k
 
 ¹³ Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le troisième jour (*yom shelishi* / יוֹם שְׁלִישִׁי).
 
-## Jour Quatre — Les luminaires
+## Quatrième Jour — Les luminaires
 
 ¹⁴ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) :
 « Que des luminaires (*me'orot* / מְאֹרֹת) *[distincts de la Lumière du verset 3 qui est l'Ordre invisible lui-même — les luminaires en sont les incarnations visibles et instrumentales : l'Ordre s'était inauguré au jour 1 comme principe cosmique, les luminaires sont les instruments matériels par lesquels cet Ordre invisible se rend perceptible et mesurable dans le temps. C'est pourquoi il y a de la lumière au jour 1 et le soleil seulement au jour 4 — ce ne sont pas la même chose]* adviennent dans la Voûte, les Cieux (*raqia hashamayim* / רָקִיעַ הַשָּׁמַיִם) pour distinguer (*lehavdil* / לְהַבְדִּיל) le Jour de la Nuit, et qu'ils servent de signes (*le'otot* / לְאֹתֹת) *[des marqueurs fonctionnels qui communiquent l'ordre du temps, qui pointent vers une réalité plus grande qu'eux-mêmes]*, de temps fixés (*mo'adim* / מוֹעֲדִים) *[non pas les saisons météorologiques — mais les rendez-vous sacrés, les assemblées convoquées : le soleil et la lune sont des instruments liturgiques cosmiques qui gouvernent le calendrier sacré]*, et pour les jours (*yamim* / יָמִים) et les années (*shanim* / שָׁנִים) *[mérisme temporel — les deux extrémités de l'échelle du temps pour désigner sa totalité : les luminaires gouvernent le temps dans toutes ses dimensions]*. »
@@ -64,7 +64,7 @@ Et il advint, et demeura conformément à ce qui avait été formulé (*vayehi k
 
 ¹⁹ Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le quatrième jour (*yom revi'i* / יוֹם רְבִיעִי).
 
-## Jour Cinq — Les créatures des eaux et des airs
+## Cinquième Jour  — Les créatures des eaux et des airs
 
 ²⁰ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) :
 « Que les eaux pullulent (*yishretsu* / יִשְׁרְצוּ) *[comme au verset 11 avec la Terre — les eaux sont ici convoquées à leur fonction productrice : **Elohim** ne fabrique pas les créatures, il convoque les domaines à foisonner]* de **Nefesh** vivants (*nefesh chayah* / נֶפֶשׁ חַיָּה) *[non pas l'"âme" grecque — substance immatérielle distincte du corps. **Nefesh** désigne étymologiquement la gorge, le souffle, le principe vital concret et incarné : un être qui respire, qui désire, qui vit de façon pleinement physique]* qui grouillent (*sherets* / שֶׁרֶץ) *[une catégorie fonctionnelle propre au milieu aquatique — définie non par l'espèce mais par le mode d'existence : le grouillement dense et foisonnant de créatures dans un milieu dense]*, et que des créatures ailées (*of* / עוֹף) *[étymologiquement "ce qui vole" — définies non par leur nature mais par leur fonction : habiter et traverser l'espace entre la Terre et la Voûte]* volent au-dessus de la Terre sur la face (*al-pnei* / עַל-פְּנֵי) *[panim — non pas une simple surface neutre mais une surface orientée vers, en relation avec : les créatures ailées habitent l'espace qui fait face à la Voûte]* de la Voûte, les Cieux (*raqia hashamayim* / רְקִיעַ הַשָּׁמָיִם). »
@@ -76,7 +76,7 @@ Et il advint, et demeura conformément à ce qui avait été formulé (*vayehi k
 
 ²³ Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le cinquième jour (*yom chamishi* / יוֹם חֲמִישִׁי).
 
-## Jour Six — Le vivant terrestre et l'adam
+## Sixième Jour — Le vivant terrestre et l'adam
 
 ²⁴ **Elohim** (*elohim* / אֱלֹהִים) formula (*vayomer* / וַיֹּאמֶר) :
 « Que la Terre fasse émerger (*totse ha'aretz* / תּוֹצֵא הָאָרֶץ) *[comme au verset 12 — la Terre est convoquée à sa fonction productrice : les animaux terrestres émergent d'elle, ils en sont littéralement issus — des êtres de sol, enracinés dans le domaine qui les a produits]* des **Nefesh** vivants (*nefesh chayah* / נֶפֶשׁ חַיָּה) selon leur espèce : les grands quadrupèdes (*behemah* / בְּהֵמָה) *[catégorie définie par la taille et le mode de déplacement — et par contraste avec les bêtes sauvages, ce sont les animaux de l'espace proche de l'homme : les animaux domestiques et domesticables comme les bœufs, moutons, ânes et chèvres]*, les rampants (*remes* / רֶמֶשׂ) *[de ramas — se mouvoir au ras du sol : définis par leur mode de déplacement en contact direct avec la terre]*, et les bêtes sauvages (*chayto-eretz* / חַיְתוֹ-אֶרֶץ) *[chayah — la vitalité brute, la force animale non domestiquée : les grands animaux qui habitent les espaces sauvages hors de l'espace humain]*, chacune selon son espèce (*lemineha* / לְמִינָהּ). »
@@ -104,7 +104,7 @@ Et il advint, et demeura conformément à ce qui avait été formulé (*vayehi k
 
 Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le Sixième Jour (*yom hashishi* / יוֹם הַשִּׁשִּׁי) *[avec l'article défini marqué en hébreu — non pas "un sixième jour" parmi d'autres, mais LE jour de l'accomplissement total]*.
 
-## Le septième jour
+## Le Septième Jour - Le Couronnement
 
 ³² Les Cieux et la Terre et toute leur légion (*tseva'am* / צְבָאָם) *[tseva — non pas une métaphore militaire : la totalité organisée et ordonnée de tout ce qui peuple et fait fonctionner le cosmos, dans sa multiplicité fonctionnelle accomplie]* atteignirent leur plénitude (*vayekhullu* / וַיְכֻלּוּ) *[kalah — non pas "ils furent terminés" comme une tâche qu'on barre d'une liste : ils atteignirent leur état d'accomplissement total. Chaque domaine habité, chaque fonction assignée, chaque rôle rempli]*.
 
