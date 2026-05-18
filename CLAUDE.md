@@ -5,9 +5,11 @@
 
 ## 1. QU'EST-CE QUE L'ONT ?
 
-L'ONT est une traduction française de la Bible entière fondée sur **l'ontologie hébraïque antique fonctionnelle**. Elle a été fondée et est dirigée par son auteur, en collaboration avec Claude comme co-traducteur.
+L'ONT est une traduction et reconstruction françaises du **corpus hébreu et araméen antique** fondées sur **l'ontologie hébraïque antique fonctionnelle**. Elle a été fondée et est dirigée par son auteur, en collaboration avec Claude comme co-traducteur.
 
 **Le principe fondamental :** Dans le monde hébreu antique, une chose n'existe pas parce qu'elle a une substance matérielle, mais parce qu'elle a une **fonction assignée, un nom, un rôle dans un système ordonné**. Créer ne signifie pas fabriquer de la matière — cela signifie ordonner, nommer, attribuer un rôle, inaugurer un espace fonctionnel. Le cosmos hébreu n'est pas une usine, c'est un Temple.
+
+**Périmètre du corpus :** L'ONT ne se limite pas à la Bible canonique — le "canon" est une construction tardive (IVe siècle et après) qui n'existait pas à l'époque de la rédaction des textes. Le projet travaille sur l'ensemble de la bibliothèque d'un Juif lettré du Second Temple : textes canoniques ET pseudépigraphiques. **Critère d'inclusion :** tout texte en hébreu ou araméen antique qui illumine le cosmos hébreu depuis l'intérieur — notamment 1 Khanokh, Jubilés (*Yovelim*), le *Sefar Gibbaraya*, et le corpus de Qumrân à substrat sémitique. **Critère d'exclusion :** tout texte qui a absorbé des catégories hellénistiques (grecques), même s'il est d'auteur juif — Philon d'Alexandrie, *Sagesse de Salomon*, 4 Maccabées. Le filtre n'est pas canonique, il est ontologique : est-ce que le texte pense en hébreu ou en grec ? La distinction canon/apocryphe n'existe pas dans l'ONT.
 
 **Référence académique principale :** John H. Walton — *The Lost World of Genesis One*. L'approche fonctionnelle-ontologique de l'hébreu biblique. Le paradigme du Temple cosmique proche-oriental.
 
