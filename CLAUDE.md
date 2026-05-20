@@ -72,26 +72,26 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**L'Être façonné du sol**` / `**l'Être façonné du sol**` (Bereshit 1-7 seulement)
 - `**adam**` (Bereshit 8 et suivants)
 - `**mabbul**` — terme technique du déluge de Noach, utilisé sans traduction française dans le corps du texte à partir de Bereshit 8
-- `**Adonai**` — intraduisible. De *adon* (אָדוֹן) : le maître, le seigneur. *Adonai* = forme possessive "mon seigneur/maître". Titre de maîtrise souveraine absolue adressé à **YHWH**. Distinct d'**Elohim** (fonction cosmique) et de **YHWH** (nom personnel). Dans l'usage liturgique hébreu ultérieur, *Adonai* deviendra la substitution prononcée pour **YHWH** — mais dans les textes patriarcaux c'est un titre d'adresse directe. S'écrit seul ou combiné : `**Adonai** **YHWH**`. Premier emploi en *Bereshit* 15:2.
-- `**El Elyon**` — nom divin intraduisible introduit en Bereshit 14. *Elyon* de *alah* (monter, s'élever) : El le Souverain élevé au-dessus de tout. Même traitement qu'Elohim et YHWH. S'écrit en deux mots, les deux en gras : `**El Elyon**`. Lorsque combiné avec YHWH : `**YHWH** **El Elyon**`.
-- `**El Roï**` — nom divin intraduisible donné par Hagar en *Bereshit* 16:13. De *El* (אֵל) + *ro'i* (רֳאִי) de *ra'ah* (voir) : "El qui me voit", "El de la vision". Unique occurrence dans toute la Bible — donné par une servante étrangère à **YHWH** dans le désert. S'écrit en deux mots, les deux en gras : `**El Roï**`. Premier emploi en *Bereshit* 16:13.
-- `**Kohen**` / `**kohen**` et formes dérivées : `**kohanim**` (pluriel), `**kohen gadol**` (grand prêtre) — intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique) : l'intermédiaire fonctionnel hébreu qui maintient l'interface entre le domaine humain et le domaine divin dans l'ordre cosmique. Introduit en Bereshit 14:18 — Malki-tsedeq, **kohen** de **El Elyon**. Central dans tout Vayiqra.
-- `**mal'akh**` / `**mal'akhim**` (pluriel)
-- `**shaliach**` / `**shlichim**` (pluriel) — jamais "apôtre" — intraduisible. Non pas "ange" (catégorie grecque anachronique qui impose une nature céleste préétablie). L'envoyé-fonctionnaire — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Le texte hébreu maintient délibérément l'ambiguïté entre le **mal'akh** et **YHWH** lui-même — le **mal'akh** parle tantôt en son propre nom, tantôt comme **YHWH** directement. Formes : **mal'akh** (singulier), **mal'akhim** (pluriel). Combiné : `**mal'akh** **YHWH**`. Premier emploi en *Bereshit* 16:7.
-- `**emunah**` / `**Emunah**` — intraduisible. De *aman* (אָמַן) : être ferme, solide, fiable. Non pas "foi" (catégorie intellectuelle grecque) ni "croyance" : l'appui structural sur une réalité traitée comme fondation ferme — la fidélité active, la confiance engagée dans l'être. **Forme verbale :** *he'emin* (hiphil de *aman*) = verbe de la même racine qu'**emunah** — rendu en français par "**emuna**" (sans h, verbe construit depuis la même racine : Avram **emuna** en **YHWH**). La bizarrerie du français est intentionnelle : elle dit l'intraduisibilité du verbe hébreu. **L'absence du h est délibérée** : **emuna** (verbe) ≠ **emunah** (nom) — deux formes morphologiquement distinctes en hébreu, deux graphies distinctes dans l'ONT. Ne pas corriger. Introduit en *Bereshit* 15:6.
-- `**tsedaqah**` — intraduisible. Forme nominale de *tsedeq* (צֶדֶק) : l'état ou l'acte de juste-ordre cosmique. Non pas "justice" ni "droiture" au sens moral grec. En *Bereshit* 15:6, **YHWH** *impute* (*vayachshevehah* / חָשַׁב) l'**emunah** d'Avram comme **tsedaqah** — un acte de comptabilité fonctionnelle divine. Introduit en *Bereshit* 15:6.
-- `**tsadiq**` — intraduisible. Forme adjectivale de *tsedeq* : celui dont l'existence est structurellement alignée sur le juste-ordre fonctionnel. Non pas "juste" au sens moral grec. Premier emploi en *Bereshit* 6:9 — Noach, **ish** **tsadiq**.
-- `**rasha**` / `**resha'im**` (pluriel) — intraduisible. L'opposé fonctionnel de **tsadiq** : celui dont l'existence est structurellement déviée de l'ordre cosmique. Non pas "méchant" au sens moral subjectif. La paire **tsadiq**/**rasha** est constitutive du droit divin hébraïque et de tout le corpus des Nevi'im. Premier emploi en *Bereshit* 18:23.
-- `**tov**` / `**tov me'od**` — intraduisible. Ce qui est pleinement ajusté à sa destination dans l'ordre cosmique. *Tov me'od* = plénitude totale (utilisé une seule fois, Bereshit 1:31). Premier emploi en *Bereshit* 1:4.
-- `**ra**` et formes dérivées : `**ra'at**` (construit), `**ra'im**` (pluriel) — intraduisible. Opposé fonctionnel de **tov** : état de dysfonction structurelle. Non pas "le Mal" au sens moral grec. Premier emploi en *Bereshit* 2:9.
-- `**davar**` / `**devarim**` (pluriel) — intraduisible. De la racine *d-b-r* (דָּבָר) : la parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Formes : **davar** (singulier), **devarim** (pluriel). Dans la formule *devar YHWH* : "le **davar** de **YHWH**". Premier emploi en *Bereshit* 11:1 (*devarim ahadim*).
-- `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Terme technique du cycle hénochien pour les êtres célestes dont la fonction constitutive est l'éveil permanent et la garde des domaines. Jamais "Veilleurs" — la traduction française efface la dimension d'éveil continu qui définit leur être même. Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
-- `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Forme araméenne de *gibbor* (גִּבּוֹר) — les êtres nés d'un franchissement de la frontière entre domaine céleste et domaine terrestre. Jamais "géants" — la traduction française importe le sens grec de la hauteur physique, absent du terme hébraïque/araméen. Lien lexical direct avec les **gibborim** de *Bereshit* 6:4. Pluriel dans les textes araméens.
-- `**El Shaddai**` — nom divin intraduisible introduit en *Bereshit* 17:1. Étymologie débattue : de *shadad* (שָׁדַד) : être d'une puissance absolue ; ou de l'akkadien *šadu* : montagne — "El de la montagne" ; ou *she-dai* (שֶׁ-דַּי) : "Celui-qui-suffit". Ce nom apparaît aux moments où **YHWH** accomplit l'impossible humain — multiplication d'une lignée, naissance d'une **ishah** stérile âgée. S'écrit en deux mots, les deux en gras : `**El Shaddai**`. Même traitement qu'**El Elyon** et **El Roï**.
-- `**milah**` — intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" (terme latin qui perd la dimension fonctionnelle de l'inscription covenantale). Premier emploi en *Bereshit* 17.
-- `**goy**` / `**goyim**` (pluriel) — intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (catégorie abstraite) ni "les gentils" (catégorie religieuse tardive anachronique). Présent dès *Bereshit* 10 dans la table des nations (passe rétroactive à prévoir) ; terme actif de la promesse à Avraham dès *Bereshit* 17:4 (*av hamon goyim*).
-- `**orlah**` / `**arel**` (adjectif : celui qui a l'**orlah**) — intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**orlah** est le lieu du signe de la **berith** ; mais le terme a une portée plus large que l'anatomie : **orlah** du cœur (*Devarim* 10:16), **orlah** des lèvres (*Shemot* 6:12), **orlah** du fruit des trois premières années (*Vayiqra* 19:23). L'**orlah** est ce qui couvre la fonction avant qu'elle soit ouverte et consacrée. Premier emploi en *Bereshit* 17:11.
-- `**mishpat**` / `**mishpatim**` (pluriel) — intraduisible. De *shaphat* (שָׁפַט) : juger, rendre une décision. L'acte de jugement rendu dans l'ordre cosmique — la décision qui discerne et ordonne correctement les parties. Non pas "justice" au sens abstrait grec (*dikaiosyne*) : le **mishpat** est concret, situationnel, un acte de discernement dans une situation réelle. Inséparable de **tsedaqah** dans tout le corpus : *tsedaqah umishpat* — l'ordre-juste et le jugement-juste sont le couple constitutif du droit divin. Formes : **mishpat** (singulier), **mishpatim** (pluriel). Premier emploi dans l'ONT en *Bereshit* 18.
+- `**Adonai**` — s'écrit seul ou combiné : `**Adonai** **YHWH**`. Premier emploi *Bereshit* 15:2.
+- `**El Elyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **El Elyon**`. Premier emploi *Bereshit* 14.
+- `**El Roï**` — deux mots, les deux en gras. Premier emploi *Bereshit* 16:13.
+- `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
+- `**mal'akh**` / `**mal'akhim**` — combiné : `**mal'akh** **YHWH**`. Premier emploi *Bereshit* 16:7.
+- `**shaliach**` / `**shlichim**`
+- `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
+- `**tsedaqah**`. Premier emploi *Bereshit* 15:6.
+- `**tsadiq**`. Premier emploi *Bereshit* 6:9.
+- `**rasha**` / `**resha'im**`. Premier emploi *Bereshit* 18:23.
+- `**tov**` / `**tov me'od**`. Premier emploi *Bereshit* 1:4.
+- `**ra**` / `**ra'at**` / `**ra'im**`. Premier emploi *Bereshit* 2:9.
+- `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
+- `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
+- `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
+- `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
+- `**milah**`. Premier emploi *Bereshit* 17.
+- `**goy**` / `**goyim**`
+- `**orlah**` / `**arel**`
+- `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
@@ -323,16 +323,7 @@ Le texte hébreu démythologise systématiquement les cosmologies voisines (baby
 
 ### 4.4 Les mots intraduisibles
 
-Certains mots hébreux sont trop riches pour être traduits en français sans perte majeure. Ils sont laissés en hébreu dans le corps du texte, en **gras**, et expliqués dans les gloses. Mots intraduisibles identifiés :
-- **Ruach** (רוּחַ) — souffle/vent/esprit
-- **Nefesh** (נֶפֶשׁ) — principe vital concret
-- **Neshamah** (נְשָׁמָה) — souffle vital distinct du Ruach
-- **Ishah / Ish** (אִשָּׁה / אִישׁ) — alliance de l'être même (ishto = sa ishah ; eshet = ishah de ; neshei = pluriel)
-- **Shem** (שֵׁם) — l'acte d'existence fonctionnelle lui-même
-- **Kavod** (כָּבוֹד) — pesanteur fonctionnelle, densité dans l'ordre divin
-- **Tahor / lo tahor** (טָהוֹר / לֹא טָהוֹר) — pureté fonctionnelle rituelle
-- **Olah** (עֹלָה) — offrande ascendante
-- **Adam** (אָדָם) — à partir de *Bereshit* 8 : l'humanité dans son universalité légale et covenantale (Bereshit 1-7 : traduit "l'Être façonné du sol")
+Certains mots hébreux sont trop riches pour être traduits en français sans perte majeure. Ils sont laissés en hébreu dans le corps du texte, en **gras**, et expliqués dans les gloses. Liste complète des formes à baliser → section 2.5. Définitions complètes → section 3.
 
 ### 4.5 Le mérisme
 
