@@ -13,7 +13,7 @@
 
 ## La promesse de la descendance
 
-⁴ Et voici — le **davar** de **YHWH** fut vers lui en disant : « Cet homme n'héritera pas de toi (*lo yirashkha zeh* / לֹא יִירָשְׁךָ זֶה) — mais celui qui sortira de tes entrailles (*asher yetse mimmeekha* / אֲשֶׁר יֵצֵא מִמֵּעֶיךָ) *[mimme'ekha — de tes entrailles. *Me'im* (מֵעִים) : les organes intérieurs, le ventre profond. La promesse est précise et corporelle : pas un fils adopté, pas un héritier légal — un fils du corps d'Avram lui-même]* — c'est lui qui héritera de toi. »
+⁴ Et voici — le **davar** de **YHWH** fut vers lui en disant : « Celui-ci n'héritera pas de toi (*lo yirashkha zeh* / לֹא יִירָשְׁךָ זֶה) — mais celui qui sortira de tes entrailles (*asher yetse mimmeekha* / אֲשֶׁר יֵצֵא מִמֵּעֶיךָ) *[mimme'ekha — de tes entrailles. *Me'im* (מֵעִים) : les organes intérieurs, le ventre profond. La promesse est précise et corporelle : pas un fils adopté, pas un héritier légal — un fils du corps d'Avram lui-même]* — c'est lui qui héritera de toi. »
 
 ⁵ Et il le fit sortir dehors (*vayotse oto hachutsah* / וַיּוֹצֵא אֹתוֹ הַחוּצָה) *[vayotse oto hachutsah — il le fit sortir dehors. **YHWH** sort Avram de sa tente — le geste physique précède la parole. Le cosmos lui-même devient la preuve de la promesse]* et formula : « Lève donc les yeux vers les Cieux et compte les étoiles (*uffor hakokavim* / וּסְפֹר הַכּוֹכָבִים) *[uffor hakokavim — et compte les étoiles. *Safar* : compter ET raconter (même racine que *sefer*, livre). Le même verbe dit le dénombrement impossible et le récit qui ne s'arrête pas]* — si tu es capable de les compter. » Et il formula : « Ainsi sera ta descendance. »
 

@@ -49,7 +49,7 @@
 
 ²² Il cessa de parler avec lui (*vayekhal ledabber ito* / וַיְכַל לְדַבֵּר אִתּוֹ) — et **Elohim** monta (*vaya'al elohim me'al avraham* / וַיַּעַל אֱלֹהִים מֵעַל אַבְרָהָם) *[*alah* : monter — même racine qu'**El Elyon** (*elyon*) et que l'**olah**. Le retrait de la présence divine suit l'accomplissement de la parole : la **berith** a été formulée et posée, il n'y a rien à ajouter]*.
 
-²³ Ce jour-là même (*be'etsem hayom hazeh* / בְּעֶצֶם הַיּוֹם הַזֶּה) *[*be'etsem* — de *etsem* (עֶצֶם) : os, solidité — "en ce jour dans sa solidité". Formule d'insistance sur l'immédiateté et la totalité de l'accomplissement : pas d'écart entre la parole et l'acte d'Avraham]*, Avraham prit Ishma'el son fils et tous ceux qui étaient nés dans sa maison et tous ceux qui avaient été achetés à prix d'argent — tout mâle parmi les hommes de la maison d'Avraham — et il circoncit (*vayamol* / וַיָּמָל) la chair de leur **orlah** en ce jour-là même, comme **Elohim** lui avait formulé.
+²³ Ce jour-là même (*be'etsem hayom hazeh* / בְּעֶצֶם הַיּוֹם הַזֶּה) *[*be'etsem* — de *etsem* (עֶצֶם) : os, solidité — "en ce jour dans sa solidité". Formule d'insistance sur l'immédiateté et la totalité de l'accomplissement : pas d'écart entre la parole et l'acte d'Avraham]*, Avraham prit Ishma'el son fils et tous ceux qui étaient nés dans sa maison et tous ceux qui avaient été achetés à prix d'argent — tout mâle parmi les **ish** (*anshei* / אַנְשֵׁי) de la maison d'Avraham — et il circoncit (*vayamol* / וַיָּמָל) la chair de leur **orlah** en ce jour-là même, comme **Elohim** lui avait formulé.
 
 ²⁴ Avraham avait quatre-vingt-dix-neuf ans quand il circoncit la chair de son **orlah**.
 
@@ -57,7 +57,7 @@
 
 ²⁶ En ce jour-là même furent circoncis Avraham et Ishma'el son fils.
 
-²⁷ Et tous les hommes de sa maison — les nés dans la maison et les achetés à prix d'argent à des fils de l'étranger — furent circoncis avec lui.
+²⁷ Et tous les **ish** (*anshei* / אַנְשֵׁי) de sa maison — les nés dans la maison et les achetés à prix d'argent à des fils de l'étranger — furent circoncis avec lui.
 
 ---
 
