@@ -1,0 +1,732 @@
+ ▐▛███▜▌   Claude Code v2.1.128
+▝▜█████▛▘  Sonnet 4.6 · Claude Pro
+  ▘▘ ▝▝    ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/ONT
+
+ ⚠ Large CLAUDE.md will impact performance (60.9k chars > 40.0k) · /memory to edit
+
+✻ Conversation compacted (ctrl+o for history)
+
+  ⎿  Referenced file locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-10.md
+  ⎿  Read ../../../../../.claude/projects/-Users-gloiiire--Library-Mobile-Documents-iCloud-md-obsidian-Documents-ONT/memory/project_ont.md (71 lines)
+  ⎿  Referenced file in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshit-17.md
+  ⎿  Referenced file locked/tanakh (Tanakh)/ketouvim (Écrits)/sefar-gibbaraya (Livre des Géants)/sefar-gibbaraya.md
+  ⎿  Read ../../../../../.claude/projects/-Users-gloiiire--Library-Mobile-Documents-iCloud-md-obsidian-Documents-ONT/memory/feedback_git_commits.md (16 lines)
+  ⎿  Skills restored (update-config)
+
+⏺ Je lis les fichiers en parallèle.
+
+  Read 2 files (ctrl+o to expand)
+
+⏺ Je lis §2.5 de CLAUDE.md pour trouver la liste des intraduisibles.
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Je lis la fin d'un Bereshit verrouillé pour voir le format exact de la note.
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ J'ai tout ce qu'il faut. Je fais les quatre éditions en deux passes
+  parallèles.
+
+⏺ Update(CLAUDE.md)
+  ⎿  Error editing file
+
+⏺ Update(locked/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-17.md)
+  ⎿  Added 13 lines
+      58  ²⁶ En ce jour-là même furent circoncis Avraham et Ishma'el son 
+          fils.
+      59  
+      60  ²⁷ Et tous les hommes de sa maison — les nés dans la maison et 
+          les achetés à prix d'argent à des fils de l'étranger — furent c
+          irconcis avec lui.
+      61 +                                                               
+      62 +---                                                            
+      63 +                                                               
+      64 +*Bereshit 17 — Version 1.0 — verrouillée*                      
+      65 +*Décisions terminologiques propres à ce Bereshit 17 :*         
+      66 +- ***El Shaddai* (אֵל שַׁדַּי) — intraduisible. Nouveau nom div
+         +in — accompagne les moments où **YHWH** accomplit l'impossible 
+         +humain. Distinct d'**Elohim** (fonction cosmique), **YHWH** (no
+         +m personnel), **El Elyon** (souveraineté cosmique) et **El Roï*
+         +* (vision). Premier emploi dans l'ONT*                         
+      67 +- ***Milah* (מִילָה) — intraduisible. L'inscription covenantale
+         + dans la chair — le signe de la **berith** gravé dans le corps.
+         + Non pas "circoncision" seul : la dimension de l'inscription co
+         +venantale permanente est constitutive du terme. Premier emploi 
+         +dans l'ONT*                                                    
+      68 +- ***Orlah* (עָרְלָה) / **arel* (עָרֵל) — intraduisibles. Ce qu
+         +i couvre la fonction avant qu'elle soit ouverte et consacrée. *
+         +*Arel** : celui dont l'**orlah** n'a pas été ôtée. Portée métap
+         +horique large : **orlah** du cœur (*Devarim* 10:16), des lèvres
+         + (*Shemot* 6:12), du fruit (*Vayiqra* 19:23). Premier emploi da
+         +ns l'ONT*                                                      
+      69 +- ***Goyim* (גּוֹיִם) / **goy* (גּוֹי) — intraduisibles. Le peu
+         +ple-nation constitué dans sa réalité territoriale, ethnique et 
+         +politique. Présent depuis *Bereshit* 10 (passe rétroactive acco
+         +mplie) ; terme actif de la promesse ici : *av hamon goyim* — pè
+         +re d'une multitude de **goyim** (v.4)*                         
+      70 +- *Avram → Avraham / Sarai → Sarah — reformulation des **Shem**
+         + covenantaux. *Av hamon* (père d'une multitude) inscrit dans Av
+         +raham ; *sarah* (souveraine) remplace le possessif particulier 
+         +de Sarai. Non pas des changements administratifs : les **Shem**
+         + disent ce qu'ils sont dans l'ordre de la **berith***          
+      71 +- *Tamim (תָּמִים) = "intègre" — entier, sans fissure interne. 
+         +Cohérence avec Noach intègre (*tamim*) en *Bereshit* 6:9. Non p
+         +as perfection morale abstraite*                                
+      72 +- *Karet (כָּרֵת) = "retranché de son peuple" — coupure de la c
+         +haîne de transmission et exclusion de la communauté de la **ber
+         +ith**. Sanction la plus grave du droit divin hébraïque — dimens
+         +ion cosmique, non seulement sociale*                           
+      73 +- **Lihyot lekha l'Elohim* (לִהְיוֹת לְךָ לֵאלֹהִים) — formule 
+         +covenantale (v.7) : **YHWH** s'engage à être l'**Elohim** d'Avr
+         +aham. Le nom fonctionnel cosmique devient objet d'un engagement
+         + de relation personnelle. Traverse tout le corpus : *Shemot* 6:
+         +7, *Vayiqra* 26:12, *Yirmeyahu* 31:33*                         
+
+  Searched for 1 pattern, read 1 file (ctrl+o to expand)
+
+⏺ Update(CLAUDE.md)
+  ⎿  Added 1 line
+      90  - `**milah**` — intraduisible. De *mul* (מוּל) : circoncire. L'
+          acte par lequel le signe de la **berith** est incisé dans la ch
+          air. Non pas "circoncision" (terme latin qui perd la dimension 
+          fonctionnelle de l'inscription covenantale). Premier emploi en 
+          *Bereshit* 17.
+      91  - `**goy**` / `**goyim**` (pluriel) — intraduisible. Le peuple-
+          nation dans sa réalité territoriale, ethnique et politique cons
+          tituée. Non pas "les nations" (catégorie abstraite) ni "les gen
+          tils" (catégorie religieuse tardive anachronique). Présent dès 
+          *Bereshit* 10 dans la table des nations (passe rétroactive à pr
+          évoir) ; terme actif de la promesse à Avraham dès *Bereshit* 17
+          :4 (*av hamon goyim*).
+      92  - `**orlah**` / `**arel**` (adjectif : celui qui a l'**orlah**)
+           — intraduisible. De *aral* (עָרַל) : être couvert, non ouvert.
+           La chair de l'**orlah** est le lieu du signe de la **berith** 
+          ; mais le terme a une portée plus large que l'anatomie : **orla
+          h** du cœur (*Devarim* 10:16), **orlah** des lèvres (*Shemot* 6
+          :12), **orlah** du fruit des trois premières années (*Vayiqra* 
+          19:23). L'**orlah** est ce qui couvre la fonction avant qu'elle
+           soit ouverte et consacrée. Premier emploi en *Bereshit* 17:11.
+      93 +- `**mishpat**` / `**mishpatim**` (pluriel) — intraduisible. De
+         + *shaphat* (שָׁפַט) : juger, rendre une décision. L'acte de jug
+         +ement rendu dans l'ordre cosmique — la décision qui discerne et
+         + ordonne correctement les parties. Non pas "justice" au sens ab
+         +strait grec (*dikaiosyne*) : le **mishpat** est concret, situat
+         +ionnel, un acte de discernement dans une situation réelle. Insé
+         +parable de **tsedaqah** dans tout le corpus : *tsedaqah umishpa
+         +t* — l'ordre-juste et le jugement-juste sont le couple constitu
+         +tif du droit divin. Formes : **mishpat** (singulier), **mishpat
+         +im** (pluriel). Premier emploi dans l'ONT en *Bereshit* 18.    
+      94  
+      95  **Appliquer dès la rédaction** — ne pas attendre une passe sépa
+          rée.
+      96  
+
+⏺ Maintenant la ligne §3.2 et le miroir in-writing en parallèle.
+
+⏺ Update(CLAUDE.md)
+  ⎿  Added 1 line
+      266  | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל
+           ) : circoncire. L'acte par lequel le signe de la **berith** es
+           t incisé dans la chair. Non pas "circoncision" — le terme lati
+           n réduit l'acte à sa dimension physique et perd la dimension c
+           ovenantale de l'inscription. Premier emploi en *Bereshit* 17. 
+           |
+      267  | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | In
+           traduisible. Le peuple-nation dans sa réalité territoriale, et
+           hnique et politique constituée. Non pas "les nations" (abstrac
+           tion) ni "les gentils" (catégorie religieuse tardive). Présent
+            dès *Bereshit* 10 dans la table des nations ; terme actif de 
+           la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : p
+           ère d'une multitude de **goyim**). |
+      268  | עָרְלָה / עָרֵל | *orlah* / *arel* | **orlah** / **arel** | 
+           Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. L
+           a chair de l'**orlah** est le lieu du signe de la **berith** ;
+            mais le terme s'étend métaphoriquement : **orlah** du cœur (*
+           Devarim* 10:16), **orlah** des lèvres (*Shemot* 6:12), **orlah
+           ** du fruit (*Vayiqra* 19:23). **Arel** : celui qui a encore s
+           on **orlah**, dont la chair n'a pas reçu le signe. Premier emp
+           loi en *Bereshit* 17:11. |
+      269 +| מִשְׁפָּט | *mishpat* | **mishpat** | Intraduisible. De *sha
+          +phat* (שָׁפַט) : juger, rendre une décision. L'acte de jugemen
+          +t rendu dans l'ordre cosmique — la décision qui discerne et or
+          +donne correctement les parties. Non pas "justice" au sens abst
+          +rait grec (*dikaiosyne*) : le **mishpat** est concret, situati
+          +onnel. Inséparable de **tsedaqah** dans tout le corpus : *tsed
+          +aqah umishpat* — l'ordre-juste et le jugement-juste sont le co
+          +uple constitutif du droit divin hébraïque. Pluriel : **mishpat
+          +im**. Premier emploi en *Bereshit* 18. |                      
+      270  
+      271  ### 3.3 Créatures et catégories vivantes
+      272  
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-17.md)
+  ⎿  File must be read first
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-17.md)
+  ⎿  Added 13 lines
+      58  ²⁶ En ce jour-là même furent circoncis Avraham et Ishma'el son 
+          fils.
+      59  
+      60  ²⁷ Et tous les hommes de sa maison — les nés dans la maison et 
+          les achetés à prix d'argent à des fils de l'étranger — furent c
+          irconcis avec lui.
+      61 +                                                               
+      62 +---                                                            
+      63 +                                                               
+      64 +*Bereshit 17 — Version 1.0 — verrouillée*                      
+      65 +*Décisions terminologiques propres à ce Bereshit 17 :*         
+      66 +- ***El Shaddai* (אֵל שַׁדַּי) — intraduisible. Nouveau nom div
+         +in — accompagne les moments où **YHWH** accomplit l'impossible 
+         +humain. Distinct d'**Elohim** (fonction cosmique), **YHWH** (no
+         +m personnel), **El Elyon** (souveraineté cosmique) et **El Roï*
+         +* (vision). Premier emploi dans l'ONT*                         
+      67 +- ***Milah* (מִילָה) — intraduisible. L'inscription covenantale
+         + dans la chair — le signe de la **berith** gravé dans le corps.
+         + Non pas "circoncision" seul : la dimension de l'inscription co
+         +venantale permanente est constitutive du terme. Premier emploi 
+         +dans l'ONT*                                                    
+      68 +- ***Orlah* (עָרְלָה) / **arel* (עָרֵל) — intraduisibles. Ce qu
+         +i couvre la fonction avant qu'elle soit ouverte et consacrée. *
+         +*Arel** : celui dont l'**orlah** n'a pas été ôtée. Portée métap
+         +horique large : **orlah** du cœur (*Devarim* 10:16), des lèvres
+         + (*Shemot* 6:12), du fruit (*Vayiqra* 19:23). Premier emploi da
+         +ns l'ONT*                                                      
+      69 +- ***Goyim* (גּוֹיִם) / **goy* (גּוֹי) — intraduisibles. Le peu
+         +ple-nation constitué dans sa réalité territoriale, ethnique et 
+         +politique. Présent depuis *Bereshit* 10 (passe rétroactive acco
+         +mplie) ; terme actif de la promesse ici : *av hamon goyim* — pè
+         +re d'une multitude de **goyim** (v.4)*                         
+      70 +- *Avram → Avraham / Sarai → Sarah — reformulation des **Shem**
+         + covenantaux. *Av hamon* (père d'une multitude) inscrit dans Av
+         +raham ; *sarah* (souveraine) remplace le possessif particulier 
+         +de Sarai. Non pas des changements administratifs : les **Shem**
+         + disent ce qu'ils sont dans l'ordre de la **berith***          
+      71 +- *Tamim (תָּמִים) = "intègre" — entier, sans fissure interne. 
+         +Cohérence avec Noach intègre (*tamim*) en *Bereshit* 6:9. Non p
+         +as perfection morale abstraite*                                
+      72 +- *Karet (כָּרֵת) = "retranché de son peuple" — coupure de la c
+         +haîne de transmission et exclusion de la communauté de la **ber
+         +ith**. Sanction la plus grave du droit divin hébraïque — dimens
+         +ion cosmique, non seulement sociale*                           
+      73 +- **Lihyot lekha l'Elohim* (לִהְיוֹת לְךָ לֵאלֹהִים) — formule 
+         +covenantale (v.7) : **YHWH** s'engage à être l'**Elohim** d'Avr
+         +aham. Le nom fonctionnel cosmique devient objet d'un engagement
+         + de relation personnelle. Traverse tout le corpus : *Shemot* 6:
+         +7, *Vayiqra* 26:12, *Yirmeyahu* 31:33*                         
+
+⏺ Maintenant je rédige Bereshit 18. Je commence par vérifier le chemin du
+  fichier.
+
+  Listed 1 directory (ctrl+o to expand)
+
+⏺ Write(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+       (Genèse)/bereshit-18.md)  ⎿  Wrote 81 lines to in-writing/tanakh (Tanakh)/torah 
+     (Pentateuque)/bereshit (Genèse)/bereshit-18.md
+      2 *(Genèse / בְּרֵאשִׁית 18:1-33)*
+      4 ---
+      5 
+      7 ## L'Annonce de Yitshaq et le **Mishpat** de **YHWH**
+      8 ¹ **YHWH** se laissa voir (*vayera elav YHWH* / וַיֵּרָא אֵלָיו י
+        s : l'initiative appartient à **YHWH**, non à Avraham. Déjà en *B
+        nei mamre* / בְּאֵלֹנֵי מַמְרֵא) *[*elonei mamre* — les chênes-ve
+        rts ou térébinthes (אֵלוֹן) de Mamre. Des arbres à forte présence
+        'oracle et d'engagement covenantal. Mamre est l'espace d'Avraham 
+        depuis *Bereshit* 13:18. Première occurrence dans cette unité]
+     … +428 lines (ctrl+o to expand)
+
+⏺ Maintenant je commite les trois modifications : CLAUDE.md, Bereshit 17 (note),
+   Bereshit 18 (nouveau).
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git status)
+  ⎿  On branch main
+     Changes not staged for commit:
+       (use "git add <file>..." to update what will be committed)
+     … +14 lines (ctrl+o to expand)
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git add CLAUDE.md && git
+      commit -m "$(cat <<'EOF'
+      CLAUDE.md — **mishpat** int…)
+  ⎿  [main 1a4b8b9] CLAUDE.md — **mishpat** intraduisible
+      1 file changed, 2 insertions(+)
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git add "locked/tanakh
+      (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/bereshi…)
+  ⎿  [main 72b4c9d] Bereshit 17 — note terminologique
+      2 files changed, 26 insertions(+)
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git add "in-writing/tanakh
+      (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/ber…)
+  ⎿  [main eb45b5f] Bereshit 18 — en cours — *Bereshit* 18:1-33
+      1 file changed, 81 insertions(+)
+      create mode 100644 "in-writing/tanakh (Tanakh)/torah (Pentateuque)/be
+     reshit (Gen\303\250se)/bereshit-18.md"
+
+⏺ Maintenant je mets la mémoire à jour.
+
+  Recalled 1 memory, wrote 1 memory (ctrl+o to expand)
+
+⏺ Voici l'état des lieux :
+
+  Fait :
+  - CLAUDE.md — **mishpat** ajouté en §2.5 et §3.2 (glossaire)
+  - Bereshit 17 (locked + in-writing) — note terminologique ajoutée : El 
+  Shaddai, milah, orlah/arel, goyim, reformulation des Shem, tamim, karet,
+  lihyot lekha l'Elohim
+  - Bereshit 18 — première rédaction complète (33 versets, in-writing)
+
+  Bereshit 18 — points à valider avant verrouillage :
+
+  1. **rasha** (רָשָׁע) — l'opposé fonctionnel de tsadiq : celui dont
+  l'existence est de travers dans l'ordre cosmique. Proposé intraduisible — à
+  confirmer
+  2. **chen** (חֵן) — la faveur dont l'initiative appartient au donneur. Traduit
+   provisoirement "faveur" (v.3) — rendre intraduisible ou garder traduit ?
+  3. *ze'aqah* (זַעֲקָה) — le cri de l'opprimé qui appelle le mishpat divin
+  (vv.20-21). Traduit "cri" avec niveau 3 — même traitement ou intraduisible ?
+
+✻ Worked for 15m 8s
+
+❯ rasha intraduisible, chen ca depent jai une question est-ce que le            
+  propitiatoire est utiliser pour etre favorable ou etre propice ?              
+
+⏺ C'est une distinction importante. Voici la réponse :
+
+  Propitiatoire vient du latin propitiare — "rendre favorable", "se rendre
+  favorable à". C'est un acte : on fait quelque chose (l'aspersion du sang, le
+  kaphar) qui rend la divinité favorable. C'est dans le domaine de "rendre
+  propice" — l'acte humain qui retourne le visage divin.
+
+  "Être propice" = état externe, circonstanciel : le moment est propice, les
+  conditions sont favorables. Plus situationnel, moins personnel.
+
+  "Être favorable" = disposition active et personnelle : quelqu'un incline son
+  regard vers l'autre. C'est là que chen (חֵן) habite.
+
+  La distinction pour chen :
+  - Le propitiatoire (kapporet / Vayiqra) → l'acte qui crée la favorabilité de
+  YHWH en sens humain→divin
+  - Chen → la disposition spontanée du donneur, sans acte qui la précède ou la
+  produit — l'inclination libre du regard
+
+  Chen est donc "être favorable" (disposition interne du donneur vers le
+  receveur), pas "rendre propice" (acte qui retourne la situation). Ce qui
+  compte dans chen : l'initiative appartient au donneur seul, sans que le
+  receveur ait rien fait pour la mériter ou la provoquer.
+
+  Question pour décider : dans l'ONT, "faveur" rend bien "chen" en français
+  neutre. Mais si tu veux le laisser visible comme terme hébraïque porteur —
+  chen intraduisible. Le risque de "faveur" est qu'il est transparent au point
+  de disparaître ; le risque de chen intraduisible est d'alourdir des formules
+  très courantes comme "si j'ai trouvé chen à tes yeux". Qu'est-ce que tu
+  penches ?
+
+✻ Brewed for 56s
+
+❯ on garde faveur                                                               
+
+⏺ **rasha** confirmé intraduisible, **chen** → "faveur". Je mets à jour
+  CLAUDE.md et nettoie le bas de Bereshit 18.
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(CLAUDE.md)
+  ⎿  Added 1 line
+      81  - `**emunah**` / `**Emunah**` — intraduisible. De *aman* (אָמַן
+          ) : être ferme, solide, fiable. Non pas "foi" (catégorie intell
+          ectuelle grecque) ni "croyance" : l'appui structural sur une ré
+          alité traitée comme fondation ferme — la fidélité active, la co
+          nfiance engagée dans l'être. **Forme verbale :** *he'emin* (hip
+          hil de *aman*) = verbe de la même racine qu'**emunah** — rendu 
+          en français par "**emuna**" (sans h, verbe construit depuis la 
+          même racine : Avram **emuna** en **YHWH**). La bizarrerie du fr
+          ançais est intentionnelle : elle dit l'intraduisibilité du verb
+          e hébreu. **L'absence du h est délibérée** : **emuna** (verbe) 
+          ≠ **emunah** (nom) — deux formes morphologiquement distinctes e
+          n hébreu, deux graphies distinctes dans l'ONT. Ne pas corriger.
+           Introduit en *Bereshit* 15:6.
+      82  - `**tsedaqah**` — intraduisible. Forme nominale de *tsedeq* (צ
+          ֶדֶק) : l'état ou l'acte de juste-ordre cosmique. Non pas "just
+          ice" ni "droiture" au sens moral grec. En *Bereshit* 15:6, **YH
+          WH** *impute* (*vayachshevehah* / חָשַׁב) l'**emunah** d'Avram 
+          comme **tsedaqah** — un acte de comptabilité fonctionnelle divi
+          ne. Introduit en *Bereshit* 15:6.
+      83  - `**tsadiq**` — intraduisible. Forme adjectivale de *tsedeq* :
+           celui dont l'existence est structurellement alignée sur le jus
+          te-ordre fonctionnel. Non pas "juste" au sens moral grec. Premi
+          er emploi en *Bereshit* 6:9 — Noach, **ish** **tsadiq**.
+      84 +- `**rasha**` / `**resha'im**` (pluriel) — intraduisible. L'opp
+         +osé fonctionnel de **tsadiq** : celui dont l'existence est stru
+         +cturellement déviée de l'ordre cosmique. Non pas "méchant" au s
+         +ens moral subjectif. La paire **tsadiq**/**rasha** est constitu
+         +tive du droit divin hébraïque et de tout le corpus des Nevi'im.
+         + Premier emploi en *Bereshit* 18:23.                           
+      85  - `**tov**` / `**tov me'od**` — intraduisible. Ce qui est plein
+          ement ajusté à sa destination dans l'ordre cosmique. *Tov me'od
+          * = plénitude totale (utilisé une seule fois, Bereshit 1:31). P
+          remier emploi en *Bereshit* 1:4.
+      86  - `**ra**` et formes dérivées : `**ra'at**` (construit), `**ra'
+          im**` (pluriel) — intraduisible. Opposé fonctionnel de **tov** 
+          : état de dysfonction structurelle. Non pas "le Mal" au sens mo
+          ral grec. Premier emploi en *Bereshit* 2:9.
+      87  - `**davar**` / `**devarim**` (pluriel) — intraduisible. De la 
+          racine *d-b-r* (דָּבָר) : la parole ET la chose simultanément —
+           en hébreu antique, la parole et la réalité qu'elle désigne son
+          t le même mot. La distinction française parole/chose n'existe p
+          as : **davar** est à la fois l'événement et la parole qui le no
+          mme. Formes : **davar** (singulier), **devarim** (pluriel). Dan
+          s la formule *devar YHWH* : "le **davar** de **YHWH**". Premier
+           emploi en *Bereshit* 11:1 (*devarim ahadim*).
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(CLAUDE.md)
+  ⎿  Added 1 line
+      256  | מִזְבֵּחַ | *mizbeach* | autel | De *zavach* — égorger, sacr
+           ifier. Littéralement "le lieu d'égorgement". Traduit "autel" a
+           vec niveau 3 obligatoire à chaque première occurrence dans une
+            Fondation : **autel** (*mizbeach* / מִזְבֵּחַ). |
+      257  | כֹּהֵן | *kohen* | Kohen | Intraduisible. Non pas "prêtre" (
+           catégorie romaine/catholique anachronique qui réduit le terme 
+           à la fonction sacrificielle). Le **kohen** hébreu est l'interm
+           édiaire fonctionnel qui maintient l'interface entre le domaine
+            humain et le domaine divin — il tient les deux côtés ouverts 
+           l'un à l'autre. Pluriel : **kohanim**. Forme construite : *koh
+           en* de/de l'alliance. Premier emploi en *Bereshit* 14:18 — Mal
+           ki-tsedeq, **kohen** de **El Elyon**. Central dans tout Vayiqr
+           a. Laissé en hébreu. |
+      258  | צֶדֶק | *tsedeq* | tsedeq | Intraduisible. L'ordre juste cos
+           mique, la conformité structurelle au bon fonctionnement de la 
+           réalité. Non pas "justice" au sens moral grec (*dikaiosyne*). 
+           Trois formes intraduisibles issues de cette racine : **tsedeq*
+           * (le concept), **tsadiq** (l'adjectif : celui qui est dans l'
+           ordre juste — premier emploi Bereshit 6:9), **tsedaqah** (la f
+           orme nominale : l'état ou l'acte de juste-ordre — premier empl
+           oi Bereshit 15:6). |
+      259 +| רָשָׁע | *rasha* | **rasha** | Intraduisible. L'opposé fonct
+          +ionnel de **tsadiq** : celui dont l'existence est structurelle
+          +ment déviée de l'ordre cosmique. Non pas "méchant" au sens mor
+          +al subjectif — celui qui est de travers dans l'ordre fonctionn
+          +el. La paire **tsadiq**/**rasha** est constitutive du droit di
+          +vin hébraïque et de tout le corpus des Nevi'im. Pluriel : **re
+          +sha'im**. Premier emploi en *Bereshit* 18:23. |               
+      260  | אֲדֹנָי | *Adonai* | Adonai | Intraduisible. De *adon* (אָדו
+           ֹן) : le maître, le seigneur — *Adonai* = "mon seigneur/maître
+           ". Titre de maîtrise souveraine absolue adressé à **YHWH**. Di
+           stinct d'**Elohim** et de **YHWH**. Dans l'usage liturgique hé
+           breu, *Adonai* deviendra la substitution prononcée pour **YHWH
+           **. S'écrit seul ou combiné : **Adonai** **YHWH**. Premier emp
+           loi en *Bereshit* 15:2. |
+      261  | אֵל עֶלְיוֹן | *El Elyon* | El Elyon | Intraduisible. *Elyon
+           * de *alah* (עָלָה) : monter, s'élever — El le Souverain élevé
+           , l'El au sommet de l'ordre cosmique. Titre du dieu suprême da
+           ns les cosmologies proche-orientales voisines. En *Bereshit* 1
+           4, Malki-tsedeq l'emploie, Avram l'identifie à **YHWH** : **YH
+           WH El Elyon**. Laissé en hébreu. |
+      262  | אֵל רֳאִי | *El Roï* | El Roï | Intraduisible. De *El* (אֵל)
+            + *ro'i* (רֳאִי) de *ra'ah* (voir) : "El qui me voit", "El de
+            la vision de moi". Nom divin unique dans toute la Bible — don
+           né une seule fois, par Hagar, une servante égyptienne en fuite
+            dans le désert. Première et unique occurrence en *Bereshit* 1
+           6:13. Laissé en hébreu. |
+
+⏺ Maintenant je nettoie le bas de bereshit-18 en retirant rasha et chen des
+  termes à décider.
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuche)/bereshit
+        (Genèse)/bereshit-18.md)
+  ⎿  File not found
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-18.md)
+  ⎿  Error editing file
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-18.md)
+  ⎿  Added 2 lines, removed 4 lines
+      75  
+      76  ---
+      77  
+      78 -*Termes à décider avant verrouillage :*                        
+      79 -- ***Rasha* (רָשָׁע) — l'opposé fonctionnel de **tsadiq** : cel
+         -ui dont l'existence est structurellement déviée de l'ordre just
+         -e. Non pas "méchant" au sens moral subjectif. La paire **tsadiq
+         -**/**rasha** est constitutive du droit divin hébraïque et de to
+         -ut le corpus des Nevi'im. Traitement proposé : intraduisible (*
+         -*rasha**) — décision à confirmer par l'auteur*                 
+      80 -- ***Chen* (חֵן) — la faveur dont l'initiative appartient au do
+         -nneur, non au receveur. Traduit provisoirement "faveur" (v.3) a
+         -vec glose. Traitement à confirmer — décision de le rendre intra
+         -duisible (**chen**) ou de le garder traduit*                   
+      81 -- **Ze'aqah* (זַעֲקָה) — le cri qui monte d'une situation d'inj
+         -ustice et appelle le **mishpat** divin. Racine de *tso'aq* / *z
+         -a'aq* : cri de l'opprimé. Traduit "cri" avec niveau 3 dans cett
+         -e unité. Décision de traitement à confirmer*                   
+      78 +*Terme à décider avant verrouillage :*                         
+      79 +- **Ze'aqah* (זַעֲקָה) — le cri qui monte d'une situation de dy
+         +sfonction insupportable et appelle le **mishpat** divin. Racine
+         + *za'aq* / *tsa'aq* : cri de l'opprimé (écho de *Bereshit* 4:10
+         + — le sang d'Hevel crie). Traduit "cri" avec niveau 3 dans cett
+         +e unité. Intraduisible (**ze'aqah**) ou "cri" traduit ? Décisio
+         +n à confirmer*                                                 
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git add CLAUDE.md
+      "in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit (G…)
+  ⎿  [main a924aa4] CLAUDE.md — **rasha** intraduisible
+      2 files changed, 4 insertions(+), 4 deletions(-)
+
+⏺ Fait. Un dernier point à décider avant de verrouiller Bereshit 18 :
+
+  ze'aqah (זַעֲקָה) — le cri de l'opprimé qui monte vers YHWH et appelle son
+  mishpat. Ce terme est fonctionnellement chargé : c'est lui qui déclenche la
+  descente divine (v.21), et il revient partout dans les Nevi'im et dans le
+  cycle de l'Exode (ze'aqat bene yisra'el — Shemot 3:7). "Cri" en français est
+  transparent mais perd la dimension technique.
+
+  Intraduisible ze'aqah ou "cri" traduit ?
+✻ Cogitated for 1m 32s
+
+❯ ca depend , on parle là dun vrai cri ?                                        
+
+⏺ Oui et non — c'est précisément là l'intérêt du terme.
+
+  La ze'aqah en hébreu, c'est le cri des victimes qui montent vers l'autorité 
+  supérieure — une plainte au sens juridique fort, pas juste une exclamation. En
+   Bereshit 18:20, c'est vraisemblablement le cri de personnes réellement
+  opprimées à l'intérieur de Sedom, qui monte vers YHWH comme un appel au
+  mishpat.
+
+  La différence avec Bereshit 4:10 (le sang d'Hevel qui "crie") : là c'est
+  clairement métaphorique — du sang ne crie pas. Ici, c'est probablement un cri
+  réel de victimes réelles.
+
+  Mais le terme ze'aqah est aussi rigoureusement technique : c'est lui qui
+  déclenche la descente divine (v.21), et il reviendra comme terme fonctionnel
+  majeur en Shemot 3:7 ("j'ai entendu leur ze'aqah" — le cri d'Israël en
+  Mitsrayim). C'est le terme hébreu du recours judiciaire de l'opprimé vers
+  YHWH.
+
+  Donc :
+  - C'est un vrai cri de vraies victimes → "cri" traduit est juste
+  - Mais c'est aussi un terme technique qui portera tout le poids de Shemot 3 —
+  si on le laisse traduit ici, il faudra le garder traduit là aussi
+
+  Ma position : si Shemot 3:7 se lit bien avec "cri", alors "cri" partout. Si tu
+   sens que le terme mérite d'être rendu visible dans la longue durée du corpus
+  — ze'aqah intraduisible. La décision peut attendre Shemot 3.
+
+✻ Baked for 32s
+
+❯ laisse cri mais niveau 2 et 3                                                 
+
+⏺ Je lis le v.20 exact pour corriger le ze'aqah en gras (puisque traduit, il ne
+  doit pas être balisé) et nettoyer le bas de page.
+
+  Searched for 1 pattern (ctrl+o to expand)
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-18.md)
+  ⎿  Added 1 line, removed 1 line
+      45  
+      46  ¹⁹ Car je l'ai connu (*ki yedativ* / כִּי יְדַעְתִּיו) *[ki yed
+          ativ — "car je l'ai connu". *Yada* (יָדַע) : connaître de façon
+           totale et engagée — la connaissance covenantale. Non pas la co
+          nnaissance intellectuelle : **YHWH** a pris Avraham en compte, 
+          l'a intégré dans son projet, l'a reconnu. Même terme pour la co
+          nnaissance intime entre **ish** et **ishah** : *adam yada et ch
+          ava* (*Bereshit* 4:1)]* — pour qu'il ordonne (*lema'an asher ye
+          tsaveh* / לְמַעַן אֲשֶׁר יְצַוֶּה) *[yetsaveh — de *tsavah* (צָ
+          וָה) : commander, ordonner. L'autorité transmise vers le bas : 
+          Avraham n'est pas seulement bénéficiaire de la **berith** — il 
+          en est le transmetteur actif et responsable]* ses fils et sa ma
+          ison après lui — qu'ils gardent (*lishemor* / לִשְׁמֹר) la voie
+           de **YHWH** (*derekh YHWH* / דֶּרֶךְ יְהוָה) *[derekh YHWH — l
+          a voie de **YHWH** : la trajectoire fonctionnelle par laquelle 
+          **YHWH** ordonne et maintient le cosmos. Non pas une liste de p
+          réceptes moraux — une façon d'être dans le monde qui reflète et
+           transmet l'ordre que **YHWH** installe]* — en faisant **tsedaq
+          ah** et **mishpat** (*laasot tsedaqah umishpat* / לַעֲשׂוֹת צְד
+          ָקָה וּמִשְׁפָּט) *[**tsedaqah umishpat** — le couple inséparab
+          le du droit divin hébraïque. **Tsedaqah** : l'ordre-juste struc
+          tural (posé en *Bereshit* 15:6) — l'état de conformité fonction
+          nelle. **Mishpat** : le jugement-juste situationnel — la décisi
+          on concrète qui ordonne correctement les parties. Les deux sont
+           inséparables : la **tsedaqah** est le sol, le **mishpat** est 
+          l'acte qui en découle. Ce couple traversera tout le corpus des 
+          Nevi'im (*Yeshayahu* 1:27, *Amos* 5:24, *Mikha* 6:8) jusqu'à la
+           *Berit Hadashah*. Premier emploi de **mishpat** dans l'ONT]* —
+           afin que **YHWH** fasse venir sur Avraham ce qu'il lui a formu
+          lé (*lema'an havi YHWH al avraham et asher dibber alav* / לְמַע
+          ַן הָבִיא יְהוָה עַל-אַבְרָהָם אֵת אֲשֶׁר-דִּבֶּר עָלָיו) *[*as
+          her dibber alav* — ce qu'il a *formulé-adressé* sur lui (*dibbe
+          r* — piel de *davar* : parole relationnelle directe). La réalis
+          ation de la **berith** n'est pas automatique — elle passe par l
+          a transmission de la voie de **YHWH**. La **tsedaqah** et le **
+          mishpat** ne sont pas les conditions de la **berith** — ils son
+          t l'expression de la **berith** en acte]*."
+      47  
+      48 -²⁰ Et **YHWH** formula : "Le cri (*ze'aqat* / זַעֲקַת) *[ze'aqa
+         -h (זַעֲקָה) — le cri qui monte d'une situation de dysfonction i
+         -nsupportable. Non pas n'importe quelle plainte : le *za'aq* est
+         - le cri de l'opprimé, de la victime d'un ordre renversé — écho 
+         -de *Bereshit* 4:10 où le sang d'Hevel *crie* (*tso'eqim*) vers 
+         -**YHWH** depuis le sol. La **ze'aqah** appelle le **mishpat** d
+         -e **YHWH**]* de Sedom et Amorah (*Amorah* / עֲמֹרָה) *[Amorah —
+         - ville de la plaine du Yarden mentionnée aux côtés de Sedom. Pr
+         -emière occurrence dans cette unité. Le couple Sedom-Amorah devi
+         -endra dans tout le corpus prophétique la métaphore de la dysfon
+         -ction cosmique totale (*Yeshayahu* 1:9-10, *Amos* 4:11, *Yirmey
+         -ahu* 49:18)]* est grande (*rabbah* / רַבָּה) — et leur **chata'
+         -ah** est très lourde (*kavedu me'od* / כָּבְדָה מְאֹד) *[kavedu
+         - me'od — elle est très lourde. *Kavad* (כָּבֵד) — même racine q
+         -ue **kavod** (pesanteur fonctionnelle, densité dans l'ordre div
+         -in). Ici la pesanteur est celle de la dysfonction accumulée : l
+         -a **kavod** renversée, le poids de ce qui dévie et écrase]*.   
+      48 +²⁰ Et **YHWH** formula : "Le cri (*ze'aqah* / זַעֲקָה) *[*ze'aq
+         +ah* — de *za'aq* (זָעַק) : crier, en appeler à une autorité sup
+         +érieure. Non pas l'exclamation spontanée : le cri de l'opprimé 
+         +qui monte vers le juge, le recours judiciaire de celui qui n'a 
+         +plus aucun autre recours. Écho de *Bereshit* 4:10 (le sang d'He
+         +vel *crie* vers **YHWH** depuis le sol) et anticipation de *She
+         +mot* 3:7 (le cri d'Israël en Mitsrayim). La *ze'aqah* appelle l
+         +e **mishpat** de **YHWH** — c'est elle qui déclenche la descent
+         +e divine (v.21)]* de Sedom et Amorah (*Amorah* / עֲמֹרָה) *[Amo
+         +rah — ville de la plaine du Yarden mentionnée aux côtés de Sedo
+         +m. Première occurrence dans cette unité. Le couple Sedom-Amorah
+         + deviendra dans tout le corpus prophétique la métaphore de la d
+         +ysfonction cosmique totale (*Yeshayahu* 1:9-10, *Amos* 4:11, *Y
+         +irmeyahu* 49:18)]* est grande (*rabbah* / רַבָּה) — et leur **c
+         +hata'ah** est très lourde (*kavedu me'od* / כָּבְדָה מְאֹד) *[k
+         +avedu me'od — elle est très lourde. *Kavad* (כָּבֵד) — même rac
+         +ine que **kavod** (pesanteur fonctionnelle, densité dans l'ordr
+         +e divin). Ici la pesanteur est celle de la dysfonction accumulé
+         +e : la **kavod** renversée, le poids de ce qui dévie et écrase]
+         +*.                                                             
+      49  
+      50  ²¹ Je descends (*erada-na* / אֵרְדָה-נָּא) *[*yarad* : descendr
+          e — **YHWH** descend pour examiner directement. Même structure 
+          qu'en *Bereshit* 11:7 (descente à Bavel). Non pas que **YHWH** 
+          soit limité dans sa vision — mais que le **mishpat** divin proc
+          ède par descente et examen direct, non par verdict à distance. 
+          La forme *na* (נָא) : délibération résolue, nuance d'intention 
+          engagée]* pour voir — s'ils ont tout accompli (*asu kalah* / עָ
+          שׂוּ כָלָה) *[asu kalah — "ils ont fait selon la totalité". *Ka
+          lah* de *kalah* (כָּלָה) : accomplissement complet, totalité ac
+          hevée. La question de **YHWH** : est-ce que la réalité correspo
+          nd entièrement à ce que le cri dit ? Le **mishpat** est fondé s
+          ur la vision complète, non sur les rapports partiels]* selon le
+           cri qui est venu vers moi — et sinon, je le saurai."
+      51  
+
+⏺ Update(in-writing/tanakh (Tanakh)/torah (Pentateuque)/bereshit
+        (Genèse)/bereshit-18.md)
+  ⎿  Removed 2 lines
+      75  
+      76  ---
+      77  
+      78 -*Terme à décider avant verrouillage :*                         
+      79 -- **Ze'aqah* (זַעֲקָה) — le cri qui monte d'une situation de dy
+         -sfonction insupportable et appelle le **mishpat** divin. Racine
+         - *za'aq* / *tsa'aq* : cri de l'opprimé (écho de *Bereshit* 4:10
+         - — le sang d'Hevel crie). Traduit "cri" avec niveau 3 dans cett
+         -e unité. Intraduisible (**ze'aqah**) ou "cri" traduit ? Décisio
+         -n à confirmer*                                                 
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git add "in-writing/tanakh
+      (Tanakh)/torah (Pentateuque)/bereshit (Genèse)/ber…)
+  ⎿  [main 66e3541] Bereshit 18 — *ze'aqah* : cri traduit, niveau 2+3
+      1 file changed, 1 insertion(+), 3 deletions(-)
+
+⏺ Bereshit 18 est prêt à verrouiller. Toutes les décisions sont actées :
+
+  - **rasha** — intraduisible ✓
+  - **mishpat** — intraduisible ✓
+  - chen → "faveur" traduit ✓
+  - ze'aqah → "cri" traduit, niveau 2 + 3 ✓
+
+  Tu veux que je verrouille, ou tu veux relire le brouillon d'abord ?
+
+✻ Worked for 45s
+
+※ recap: Traduction ONT de Bereshit 18 terminée, toutes les décisions actées. Prochaine action : relire ou verrouiller Bereshit 18.
+
+❯ faveur aussi niveay 2  et 3                                                   
+
+⏺ Je vérifie ce que j'ai à v.3 pour chen avant d'éditer.
+
+  Searched for 1 pattern (ctrl+o to expand)
+
+⏺ C'est déjà en place au v.3 :
+
+  faveur (*chen* / חֵן) *[*chen* — de *chanan* (חָנַן) : se pencher vers, être 
+  gracieux envers. La faveur dont l'initiative appartient au donneur, non au 
+  receveur. *Chen* dit l'espace que le regard bienveillant ouvre — sans 
+  catégorie de mérite]*
+
+  Niveau 3 (chen / חֵן) ✓ et niveau 2 (glose) ✓ — déjà dans le brouillon. Rien à
+   modifier.
+
+  Tu veux relire avant de verrouiller, ou on verrouille directement ?
+
+✻ Cogitated for 21s
+
+※ recap: Traduction ONT du corpus hébreu antique. Bereshit 18 est rédigé et prêt à verrouiller. Prochaine action : confirmer le verrouillage.
+
+❯ mmmh je vais relire mais avant je veux qua partir de mtn on utilise une       
+  nouvelle branch par livre genre peutetre feature/<book name> ou <book name>   
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git branch -a && git log
+      --oneline -5)
+  ⎿  * main
+     66e3541 Bereshit 18 — *ze'aqah* : cri traduit, niveau 2+3
+     a924aa4 CLAUDE.md — **rasha** intraduisible
+     … +3 lines (ctrl+o to expand)
+
+⏺ Je crée la branche et bascule dessus.
+
+⏺ Bash(cd "/Users/gloiiire_/Library/Mobile
+      Documents/iCloud~md~obsidian/Documents/ONT" && git checkout -b
+      feature/bereshit && git branch -a)
+  ⎿  Switched to a new branch 'feature/bereshit'
+     * feature/bereshit
+       main
+
+⏺ On est sur feature/bereshit. Je mets à jour la convention en mémoire.
+
+  Wrote 1 memory (ctrl+o to expand)
+
+⏺ Branche feature/bereshit active. Tous les commits Bereshit à partir de
+  maintenant y vont — CLAUDE.md inclus tant qu'on travaille sur Bereshit. Merge
+  vers main quand Bereshit sera complet.
+
+  Tu veux relire le brouillon de Bereshit 18 maintenant ?
+
+✻ Crunched for 36s
+
+❯ /recap                                                                        
+  ⎿  Projet ONT — traduction française du corpus hébreu antique. Bereshit 18 est rédigé et prêt à verrouiller sur la branche feature/bereshit. Prochaine action : relire avec l'auteur puis verrouiller.
+❯ /usage 
+  ⎿  Stats dialog dismissed
+
+❯ /memory 
+  ⎿  Cancelled memory editing
+
+❯ /export                                                                       
+  ⎿  Conversation copied to clipboard
+
+❯ /memory 
+  ⎿  Cancelled memory editing
