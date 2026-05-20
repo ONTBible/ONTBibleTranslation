@@ -64,7 +64,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Nefesh**` / `**nefesh**`
 - `**Neshamah**` / `**neshamah**`
 - `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**`
-- `**ish**` / `**Ish**`
+- `**ish**` / `**Ish**` et formes dérivées : `**anashim**` (pluriel absolu), `**anshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
 - `**Shem**` quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
 - `**Tahor**` / `**tahor**` / `**lo tahor**`
