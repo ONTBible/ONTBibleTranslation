@@ -612,7 +612,131 @@ L'ONT est une restitution de ce que le texte hébreu disait à ses lecteurs orig
 
 ---
 
-## 11. FONDATIONS DE RÉFÉRENCE
+## 11. ORDRE CANONIQUE DES LIVRES DANS CHAQUE MODE
+
+L'IDE trie les dossiers alphabétiquement — ce n'est pas l'ordre de l'ONT. L'ordre ci-dessous est l'ordre fonctionnel à respecter pour toute navigation, référence et publication. Jamais alphabétique.
+
+**Principe général :** Torah et Nevi'im Rishonim = narration chronologique (le récit se suit). Nevi'im Aharonim = arc thématique/émotionnel (jugement → vision → consolation). Ketouvim = liturgique et fonctionnel. Nistarot = arc théologique de l'entrée vers la profondeur.
+
+---
+
+### Kenesset — Torah (la Fondation)
+
+1. *Bereshit* (Genèse)
+2. *Shemot* (Exode)
+3. *Vayiqra* (Lévitique)
+4. *Bemidbar* (Nombres)
+5. *Devarim* (Deutéronome)
+6. *Yovelim* (Jubilés) — corpus étendu, appended après les cinq
+
+---
+
+### Kenesset — Nevi'im (Prophètes)
+
+**Nevi'im Rishonim** (Anciens — narration chronologique) :
+
+1. *Yehoshua* (Josué)
+2. *Shoftim* (Juges)
+3. *Shemuel* (Samuel)
+4. *Melakhim* (Rois)
+
+**Nevi'im Aharonim** (Derniers — arc émotionnel : destruction → vision → consolation) :
+
+5. *Yirmeyahu* (Jérémie)
+6. *Ekha* (Lamentations) — attaché à Yirmeyahu, lien historique direct
+7. *Yehezqel* (Ézéchiel)
+8. *Yeshayahu* (Ésaïe) — placé en dernier malgré son antériorité historique : se clôt par la consolation
+
+**Trei Asar** (les Douze — arc de la crise assyrienne à la clôture prophétique) :
+
+9. *Hoshea* · *Yoel* · *Amos* · *Ovadyah* · *Yonah* · *Mikhah* · *Nahum* · *Havaquq* · *Tsefanyah* · *Haggai* · *Zekharyah* · *Malakhi*
+
+---
+
+### Kenesset — Ketouvim (Écrits)
+
+**Poésie et sagesse :**
+
+1. *Tehilim* (Psaumes)
+2. *Mishlei* (Proverbes)
+3. *Iyov* (Job)
+
+**Cinq Megillot** (ordre liturgique des fêtes) :
+
+4. *Shir Hashirim* — Pessa'h
+5. *Ruth* — Shavouot
+6. *Ekha* — Ticha BeAv *(hors ONT : placé en Nevi'im — voir ci-dessus)*
+7. *Qohelet* — Soukkot
+8. *Esther* — Pourim
+
+**Récits historiques tardifs :**
+
+9. *Ezra-Nehemyah*
+10. *Divrei Hayamim* — en dernier : son dernier verset ouvre sur le retour (décret de Cyrus)
+
+**Corpus étendu :**
+
+11. *Toledot Adam ve-Chavah* (Vie d'Adam et Ève) — cas limite à réévaluer
+12. *Sefar Gibbaraya* (Livre des Géants)
+
+---
+
+### Kenesset — Nistarot (les Réalités voilées)
+
+Arc théologique : porte d'entrée accessible → profondeur architecturale croissante.
+
+1. *Daniel* — porte d'entrée : récits narratifs (ch. 1-6) puis visions (ch. 7-12)
+2. *1 Khanokh* — architecture céleste, calendrier cosmique, Fils de l'Homme
+3. *Chazon Avraham* (Apocalypse d'Abraham) — ascension et vision du Conseil divin
+4. *Tsava'at Lévi* (Testament de Lévi) — sacerdoce céleste, intronisation
+5. *Chazon Ezra* (2 Ezra) — ch. 3-14 uniquement
+6. *Chazon Barukh* (Apocalypse de Baruch) — réponse à la destruction, temps eschatologique
+
+---
+
+### Berit Hadashah — Besorot (la Fondation — Évangiles)
+
+**Eduyot** (trois témoins — ordre de rédaction) :
+
+1. *Marqus* — première *besorah* rédigée
+2. *Matityahu*
+3. *Luqas*
+
+**Séparée :**
+
+4. *Bereshit ha-Yohanan* — *besorah* cosmique-inaugurale, écho de *Bereshit* 1
+
+---
+
+### Berit Hadashah — Nevi'im (Prophètes) — Igerot
+
+**Igerot de Shaul** (ordre canonique traditionnel) :
+
+1. *El HaRomiyim* · *El HaQorintiyim* (×2) · *El HaGalatiyim* · *El HaEfesiyim* · *El HaFilipiyim* · *El HaQolossiyim* · *El HaTessaloniqiyim* (×2) · *El Timotiyos* (×2) · *El Titos* · *El Filemon*
+
+**Igerot anonymes et catholiques :**
+
+2. *Igeret HaIvrim*
+3. *Igeret Ya'aqov*
+4. *Igerot Kefa* (×2)
+5. *Igerot Yohanan* (×3)
+6. *Igeret Yehudah*
+
+---
+
+### Berit Hadashah — Ketouvim (Écrits) — Gevurot ha-Neviim
+
+1. *Gevurot ha-Neviim* — texte unique, pas de subdivision interne
+
+---
+
+### Berit Hadashah — Nistarot (les Réalités voilées) — Machazeh Yohanan
+
+1. *Machazeh Yohanan* — texte unique
+
+---
+
+## 12. FONDATIONS DE RÉFÉRENCE
 
 Les Fondations verrouillées sont la référence stylistique et terminologique absolue de l'ONT. Consulter ces fichiers pour vérifier la cohérence de toute nouvelle traduction.
 
