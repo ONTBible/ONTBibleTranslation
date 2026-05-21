@@ -38,7 +38,20 @@ Le corpus est structuré en quatre catégories fonctionnelles. Ce ne sont pas de
 
 **Terminologie ONT pour les textes de vision :** *chazon* (חָזוֹן — vision prophétique reçue, terme natif du Second Temple : Daniel 7:1, 8:1 ; titres de Yeshayahu, Ovadyah, Nahum, Havaquq) pour tous les textes de vision SAUF le *Machazeh Yohanan* qui garde *machazeh* (מַחֲזֵה) — décision délibérée pour créer l'écho avec *Bereshit* 15:1 (*bamachazeh*) : la vision inaugurale de la *berith* et la vision finale du cosmos racheté dans la même modalité. Ne pas utiliser *giluy* (hébreu rabbinique tardif, calque du grec *apokalypsis*) — le terme natif est *chazon*.
 
-**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*. Quatre sections : les **Besorot** (בְּשׂוֹרוֹת — *besorah* : annonce royale d'un acte accompli), subdivisées en **Eduyot** (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparé — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) ; les **Ma'asim HaShlichim** (מַעֲשֵׂי הַשְּׁלִיחִים — les actes des *shlichim*, de *shalach* : envoyés-mandatés) ; les **Igerot** (אִגְּרוֹת — lettres adressées, *devarim* fonctionnels) ; le **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh).
+**Extension *Berit Hadashah* :** L'ONT inclut également la *Berit Hadashah* (בְּרִית חֲדָשָׁה) — titre tiré de *Yirmeyahu* 31:31, non pas le "Nouveau Testament" de la tradition latine tardive. Le même critère ontologique s'applique : lus à travers le prisme de l'ontologie hébraïque antique fonctionnelle, ces textes font apparaître la même structure cosmique hébraïque — *davar* performatif, *berith*, *tsedaqah*, *ruach*, *kavod*.
+
+**Structure fonctionnelle de la *Berit Hadashah* — quatre modes parallèles à la Kenesset :**
+
+| Mode | Corpus *Berit Hadashah* | Fonction parallèle |
+|---|---|---|
+| **Torah** | **Besorot** (בְּשׂוֹרוֹת) — *besorah* : annonce royale d'un acte accompli. Subdivisées en *Eduyot* (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparée — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) | Institue qui est Yeshua — fondation cosmique, *davar* inaugurale |
+| **Nevi'im** | **Igerot** (אִגְּרוֹת) — lettres adressées, *devarim* fonctionnels | Confrontation covenantale depuis la position du *mishpat* — lecture de l'alignement/désalignement des communautés dans la *berith* |
+| **Ketouvim** | **Gevurot ha-Neviim** (גְּבוּרוֹת הַנְּבִיאִים) — les *gevurot* de **YHWH** accomplies *à travers* ses *neviim* | Chronique narrative des actes de puissance de **YHWH** dans l'histoire — mode expérientiel et testimonial |
+| **Nistarot** | **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן) — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh | Traversée architecturale — les structures invisibles derrière l'histoire, le cosmos racheté |
+
+**Note terminologique — *navi* / *shaliach* : une seule réalité fonctionnelle.** Tout *navi* authentique est structurellement un *shaliach* et tout *shaliach* accomplit la fonction du *navi* — ils ne sont pas deux catégories analytiquement distinctes. La décomposition *navi* / *shaliach* / *evangeliste* / *pasteur* / *enseignant* (Éphésiens 4:11) est une décompression grecque d'une réalité hébraïque unifiée. Ne jamais traiter ces termes comme des fonctions mutuellement exclusives dans l'ONT.
+
+**Pourquoi *Gevurot ha-Neviim* et non *Ma'asim HaShlichim*.** *Gevurot* (de *gavar* גָּבַר — être puissant, l'emporter) : les actes de puissance de **YHWH** — **YHWH** est le sujet grammatical, les *neviim* sont l'instrument. *Ma'asim* (de *asah* — faire) avec *ha-shlichim* (les envoyés) : les actes des *shlichim* — les humains comme sujets grammaticaux. La première formulation est hébraïque-fonctionnelle (*gevurot* appartient au vocabulaire de la puissance divine dans les *Tehilim* et les *Nevi'im*) ; la seconde importe la catégorie grecque de l'*apostolos* comme agent autonome.
 
 **Référence académique principale :** John H. Walton — *The Lost World of Genesis One*. L'approche fonctionnelle-ontologique de l'hébreu biblique. Le paradigme du Temple cosmique proche-oriental.
 
@@ -185,15 +198,15 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 **Répertoire des noms — Besorot (Évangiles) :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Marc | *Marqus* | מַרְקוּס | Première *besorah* rédigée — dans les *Eduyot*. Nom complet : *Yohanan Marqus* (יוֹחָנָן מַרְקוּס — *Ma'asim* 12:12) |
+| Marc | *Marqus* | מַרְקוּס | Première *besorah* rédigée — dans les *Eduyot*. Nom complet : *Yohanan Marqus* (יוֹחָנָן מַרְקוּס — *Gevurot* 12:12) |
 | Matthieu | *Matityahu* | מַתִּתְיָהוּ | "don de YHWH" — dans les *Eduyot* |
 | Luc | *Luqas* | לוּקָס | Nom grec translittéré — dans les *Eduyot* |
 | Jean | *Bereshit ha-Yohanan* | בְּרֵאשִׁית הַיּוֹחָנָן | *Bereshit* de Yohanan — *besorah* cosmique-inaugurale, écho de *Bereshit* 1:1, séparée des *Eduyot* |
 
-**Répertoire des noms — Ma'asim HaShlichim et Machazeh :**
+**Répertoire des noms — Gevurot ha-Neviim et Machazeh :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Actes des apôtres | *Ma'asim HaShlichim* | מַעֲשֵׂי הַשְּׁלִיחִים | "les actes des envoyés-mandatés" — *shaliach* (שָׁלִיחַ) de *shalach* : l'envoyé mandaté — équivalent hébreu exact du grec *apostolos*. Pluriel : *shlichim* (שְׁלִיחִים). |
+| Actes des apôtres | *Gevurot ha-Neviim* | גְּבוּרוֹת הַנְּבִיאִים | "les *gevurot* (actes de puissance) de **YHWH** à travers ses *neviim*" — de *gavar* (גָּבַר) : être puissant, l'emporter. **YHWH** sujet grammatical, *neviim* instrument. Jamais *Ma'asim HaShlichim* (importait la catégorie grecque *apostolos* comme agent autonome). |
 | Apocalypse | *Machazeh Yohanan* | מַחֲזֵה יוֹחָנָן | *machazeh* = vision intérieure — même terme qu'en *Bereshit* 15:1 |
 
 **Répertoire des noms — Igerot (Lettres) :**
@@ -525,7 +538,7 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 ***Yohanan* 1:1-18** — Le Prologue
 - *En archē ēn ho Logos* : lire *Logos* comme **davar** (Bereshit 1), non comme le *Logos* de Philon d'Alexandrie — décision terminologique capitale pour tout Yohanan
 
-***Ma'asim HaShlichim* 2** — La Pentecôte
+***Gevurot ha-Neviim* 2** — La Pentecôte
 - Le *ruach* sur les disciples : écho direct de *Bereshit* 1:2 et 2:7 — décision terminologique sur la continuité cosmique
 
 **Les *Igerot* de Shaul** — *Tsedaqah* et *emunah*
