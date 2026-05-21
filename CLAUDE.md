@@ -129,6 +129,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 | Ézéchiel | *Yehezqel* | יְחֶזְקֵאל |
 | Osée | *Hoshea* | הוֹשֵׁעַ |
 | Joël | *Yoel* | יוֹאֵל |
+| Amos | *Amos* | עָמוֹס |
 | Abdias | *Ovadyah* | עֹבַדְיָה |
 | Jonas | *Yonah* | יוֹנָה |
 | Michée | *Mikhah* | מִיכָה |
