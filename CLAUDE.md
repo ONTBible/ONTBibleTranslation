@@ -125,7 +125,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 | Rois (1-2) | *Melakhim* | מְלָכִים |
 | Ésaïe | *Yeshayahu* | יְשַׁעְיָהוּ |
 | Jérémie | *Yirmeyahu* | יִרְמְיָהוּ |
-| Lamentations | *Ekha* | אֵיכָה |
+| Lamentations | *Ekha* | אֵיכָה | Décision ONT : placé en Nevi'im après *Yirmeyahu* (lien fonctionnel et historique direct), et non dans les Ketouvim — le regroupement des Megillot est rabbinique post-70 CE, pas Second Temple |
 | Ézéchiel | *Yehezqel* | יְחֶזְקֵאל |
 | Osée | *Hoshea* | הוֹשֵׁעַ |
 | Joël | *Yoel* | יוֹאֵל |
