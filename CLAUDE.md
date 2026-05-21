@@ -89,7 +89,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
 - `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
 - `**milah**`. Premier emploi *Bereshit* 17.
-- `**goy**` / `**goyim**`
+- `**goy**` / `**goyim**` — forme construite : *goyei* → toujours **goyim**, jamais "nations"
 - `**orlah**` / `**arel**`
 - `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
 
