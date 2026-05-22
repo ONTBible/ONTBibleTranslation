@@ -112,6 +112,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**L'Être façonné du sol**` / `**l'Être façonné du sol**` (Bereshit 1-7 seulement)
 - `**adam**` (Bereshit 8 et suivants)
 - `**mabbul**` — terme technique du déluge de Noach, utilisé sans traduction française dans le corps du texte à partir de Bereshit 8
+- `**nacham**`. Premier emploi *Bereshit* 5:29.
 - `**Adonai**` — s'écrit seul ou combiné : `**Adonai** **YHWH**`. Premier emploi *Bereshit* 15:2.
 - `**El Elyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **El Elyon**`. Premier emploi *Bereshit* 14.
 - `**El Roï**` — deux mots, les deux en gras. Premier emploi *Bereshit* 16:13.
@@ -132,6 +133,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**goy**` / `**goyim**` — forme construite : *goyei* → toujours **goyim**, jamais "nations"
 - `**orlah**` / `**arel**`
 - `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
+- `**shofet**` / `**shoftim**`. Premier emploi *Bereshit* 18:25.
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
@@ -310,6 +312,8 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
 | עָרְלָה / עָרֵל | *orlah* / *arel* | **orlah** / **arel** | Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**orlah** est le lieu du signe de la **berith** ; mais le terme s'étend métaphoriquement : **orlah** du cœur (*Devarim* 10:16), **orlah** des lèvres (*Shemot* 6:12), **orlah** du fruit (*Vayiqra* 19:23). **Arel** : celui qui a encore son **orlah**, dont la chair n'a pas reçu le signe. Premier emploi en *Bereshit* 17:11. |
 | מִשְׁפָּט | *mishpat* | **mishpat** | Intraduisible. De *shaphat* (שָׁפַט) : juger, rendre une décision. L'acte de jugement rendu dans l'ordre cosmique — la décision qui discerne et ordonne correctement les parties. Non pas "justice" au sens abstrait grec (*dikaiosyne*) : le **mishpat** est concret, situationnel. Inséparable de **tsedaqah** dans tout le corpus : *tsedaqah umishpat* — l'ordre-juste et le jugement-juste sont le couple constitutif du droit divin hébraïque. Pluriel : **mishpatim**. Premier emploi en *Bereshit* 18. |
+| נָחַם | *nacham* | **nacham** | Intraduisible. Deux dimensions indissociables : être saisi au fond des entrailles — une émotion viscérale qui ébranle la totalité de l'être — ET reconsidérer depuis cet endroit affecté. Non pas un simple chagrin ni un simple changement d'avis. Même racine : le **shem** de Noach (*Bereshit* 5:29 — *yenachameinu* : "il nous **nacham**era") et la consolation prophétique (*Yeshayahu* 40:1 — *nachamu nachamu ami*). Appliqué à **YHWH** en *Bereshit* 6:6 — le texte ne l'atténue pas. Premier emploi *Bereshit* 5:29. |
+| שֹׁפֵט | *shofet* | **shofet** | Intraduisible. De *shaphat* (שָׁפַט) — même racine que **mishpat**. Celui qui exerce le **mishpat** dans une situation concrète : non pas le magistrat de tribunal (catégorie juridique moderne), mais celui qui rétablit l'ordre fonctionnel, qui discerne et ordonne. *Shofet kol ha'arets* ("le **shofet** de toute la Terre") — titre de souveraineté cosmique universelle de **YHWH** en *Bereshit* 18:25. Le titre du livre *Shoftim* résonne directement : les **shoftim** d'Israël sont ceux qui exercent le **mishpat** de **YHWH** dans l'histoire concrète. Pluriel : **shoftim**. Premier emploi en *Bereshit* 18:25. |
 
 ### 3.3 Créatures et catégories vivantes
 
