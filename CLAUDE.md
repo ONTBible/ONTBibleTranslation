@@ -616,7 +616,7 @@ L'ONT est une restitution de ce que le texte hébreu disait à ses lecteurs orig
 
 L'IDE trie les dossiers alphabétiquement — ce n'est pas l'ordre de l'ONT. L'ordre ci-dessous est l'ordre fonctionnel à respecter pour toute navigation, référence et publication. Jamais alphabétique.
 
-**Principe général :** Torah et Nevi'im Rishonim = narration chronologique (le récit se suit). Nevi'im Aharonim = arc thématique/émotionnel (jugement → vision → consolation). Ketouvim = liturgique et fonctionnel. Nistarot = arc théologique de l'entrée vers la profondeur.
+**Principe général :** Torah et Nevi'im Rishonim = narration chronologique (le récit se suit). Nevi'im Aharonim = arc thématique/émotionnel (jugement → vision → consolation). Ketouvim = liturgique et fonctionnel. Nistarot = chronologie narrative des visionnaires (antédiluvien → patriarcal → exil → destruction), clôture sur la restauration eschatologique.
 
 ---
 
@@ -683,14 +683,16 @@ L'IDE trie les dossiers alphabétiquement — ce n'est pas l'ordre de l'ONT. L'o
 
 ### Kenesset — Nistarot (les Réalités voilées)
 
-Arc théologique : porte d'entrée accessible → profondeur architecturale croissante.
+Ordre : chronologie narrative du visionnaire (quand le personnage est censé avoir vécu), clôture sur la restauration eschatologique.
 
-1. *Daniel* — porte d'entrée : récits narratifs (ch. 1-6) puis visions (ch. 7-12)
-2. *1 Khanokh* — architecture céleste, calendrier cosmique, Fils de l'Homme
-3. *Chazon Avraham* (Apocalypse d'Abraham) — ascension et vision du Conseil divin
-4. *Tsava'at Lévi* (Testament de Lévi) — sacerdoce céleste, intronisation
-5. *Chazon Ezra* (2 Ezra) — ch. 3-14 uniquement
-6. *Chazon Barukh* (Apocalypse de Baruch) — réponse à la destruction, temps eschatologique
+**Note sur *Tsava'at Lévi* :** placement provisoire en Nistarot — à réévaluer après lecture. Le Document araméen de Lévi (Qumrân) contient une vision et une instruction angélique sur le sacerdoce cosmique (→ Nistarot), mais aussi une instruction patriarcale à ses fils qui pourrait le rattacher aux Ketouvim. Décision suspendue.
+
+1. *1 Khanokh* — antédiluvien (7e génération d'Adam) ; architecture céleste, calendrier cosmique, Fils de l'Homme
+2. *Chazon Avraham* (Apocalypse d'Abraham) — patriarcal ; ascension et vision du Conseil divin
+3. *Tsava'at Lévi* (Testament de Lévi araméen de Qumrân) — patriarcal (fils de Ya'aqov) ; vision sacerdotale, intronisation *(placement provisoire)*
+4. *Daniel* — exil babylonien (~600-535 av. EC) ; porte narrative puis visions architecturales (ch. 7-12)
+5. *Chazon Ezra* (2 Ezra) — ch. 3-14 uniquement ; lamentation et questionnement post-destruction
+6. *Chazon Barukh* (Apocalypse de Baruch) — réponse à la destruction, consolation et restauration eschatologique — **mot final des Nistarot**
 
 ---
 
@@ -710,17 +712,38 @@ Arc théologique : porte d'entrée accessible → profondeur architecturale croi
 
 ### Berit Hadashah — Nevi'im (Prophètes) — Igerot
 
-**Igerot de Shaul** (ordre canonique traditionnel) :
+Structurées selon la fracture du **Ḥurban** (חורבן) — la destruction du Second Temple (70 EC) — comme pivot herméneutique. Deux mondes : le monde du *Bayit* vivant, puis le monde post-destruction en reconstruction.
 
-1. *El HaRomiyim* · *El HaQorintiyim* (×2) · *El HaGalatiyim* · *El HaEfesiyim* · *El HaFilipiyim* · *El HaQolossiyim* · *El HaTessaloniqiyim* (×2) · *El Timotiyos* (×2) · *El Titos* · *El Filemon*
+---
 
-**Igerot anonymes et catholiques :**
+**Igerot *lifnei haḤurban*** — monde du Bayit vivant (49-61) :
 
-2. *Igeret HaIvrim*
-3. *Igeret Ya'aqov*
-4. *Igerot Kefa* (×2)
-5. *Igerot Yohanan* (×3)
-6. *Igeret Yehudah*
+49. *El HaRomiyim* (~57 EC)
+50. *El HaQorintiyim alef* (~54 EC)
+51. *El HaQorintiyim bet* (~57 EC)
+52. *El HaGalatiyim* (~49-55 EC)
+53. *El HaEfesiyim* (~60-62 EC) *(authent. paulinienne probable ; deutéro-paulinienne ~80-90 EC possible — flaggé)*
+54. *El HaFilipiyim* (~60-62 EC)
+55. *El HaQolossiyim* (~60-62 EC) *(même statut qu'Éphésiens — flaggé)*
+56. *El HaTessaloniqiyim alef* (~50 EC)
+57. *El HaTessaloniqiyim bet* (~51 EC)
+58. *El Filemon* (~60-62 EC)
+59. *Igeret Ya'aqov* (~45-62 EC) — la plus hébraïque, sagesse fonctionnelle
+60. *Igeret Kefa alef* (~60-64 EC)
+61. *Igeret HaIvrim* (~60-70 EC) — **dernier mot du Bayit vivant** : méditation sur le système lévitique en présent, Temple encore debout
+
+---
+
+**Igerot *aḥarei haḤurban*** — monde post-destruction (62-69) :
+
+62. *El Timotiyos alef* (~90-110 EC) *(Pastorale — deutéro-paulinienne, reconstruction institutionnelle)*
+63. *El Timotiyos bet* (~90-110 EC)
+64. *El Titos* (~90-110 EC)
+65. *Igeret Yohanan alef* (~85-100 EC)
+66. *Igeret Yohanan bet* (~90-100 EC)
+67. *Igeret Yohanan gimel* (~90-100 EC)
+68. *Igeret Kefa bet* (~80-125 EC) — paire avec Yehudah (matériau commun)
+69. *Igeret Yehudah* (~65-100 EC) — **mot final des Igerot**
 
 ---
 
