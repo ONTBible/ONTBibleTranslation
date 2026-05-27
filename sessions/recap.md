@@ -1,5 +1,5 @@
-
-❯ /recap
-  ⎿  Projet ONT — traduction française du corpus hébreu antique. Bereshit 18 est rédigé
-      et prêt à verrouiller sur la branche feature/bereshit. Prochaine action : relire
-     avec l'auteur puis verrouiller.
+ /recap
+  ⎿  Traduction de la Kenesset (ONT) — enrichissement de Bereshit 9-10 avec le
+     cadre ontologique des trois fils de Noach, maintenant committé. Prochaine
+     étape : rédiger la préface où ce cadre Shem/Cham/Yaphet peut être
+     développé pleinement.
