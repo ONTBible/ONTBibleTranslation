@@ -134,6 +134,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**orlah**` / `**arel**`
 - `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
 - `**shofet**` / `**shoftim**`. Premier emploi *Bereshit* 18:25.
+- `**olam**` — intraduisible : de la racine "caché, dissimulé" — la limite temporelle que le regard humain ne peut pas discerner. **Règle de rendu en corps de texte : translittérer le construit en entier** — `**berith-olam**`, `**akhuzat-olam**`, `**ledorot-olam**`, `**ad-olam**`, `**le'olam**`, `**me'olam**`. Premier emploi *Bereshit* 3:22 (*vechai le'olam*).
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
@@ -286,7 +287,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מְלַאכָה | *melakhah* | œuvre architecturale | Travail qualifié de l'architecte. Même mot pour la construction du Tabernacle. |
 | קָדוֹשׁ | *qadosh* | consacré / sacré | Mis à part fonctionnellement pour le domaine divin. Non pas "moralement pur". |
 | בְּרִית | *berith* | alliance | Structure fonctionnelle d'engagement. Développé en Bereshit 8 : ici unilatérale — Elohim seul s'engage, Noach n'est pas invité à promettre. Non pas un contrat bilatéral mais une déclaration souveraine de fidélité permanente. Meqim (qum : faire se tenir) et non karat (couper) — l'alliance se tient debout par la parole d'Elohim seul. |
-| עוֹלָם | *olam* | sans limite discernable | De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. *Berit olam* = alliance sans limite discernable. *Ledorot olam* = à travers toutes les chaînes de générations sans limite discernable. |
+| עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. **Règle de rendu en corps de texte : translittérer le construit en entier.** *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *mo'ed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
 | חַטָּאת | *chattah* | la déviation | Forme nominale de *chata* — l'acte de déviation lui-même, personnifié en *Bereshit* 4:7 comme une présence qui rôde. Jamais "le péché" (catégorie morale grecque). |
