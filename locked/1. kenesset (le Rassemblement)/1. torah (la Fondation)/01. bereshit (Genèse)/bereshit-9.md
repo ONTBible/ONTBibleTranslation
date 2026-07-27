@@ -32,7 +32,7 @@ serviteur (*eved* / עֶבֶד) des serviteurs (*avadim* / עֲבָדִים) *[e
 et que Kena'an soit serviteur pour lui. »
 
 ¹⁰ « Qu'**Elohim** élargisse (*yaft* / יַפְתְּ) *[yaft Elohim le-Yefet — jeu de mots intraduisible : le verbe yaft (élargir, étendre) résonne avec le **Shem** Yaphet. La dotation de Yaphet est inscrite dans son **Shem** même — son nom porte en lui sa destinée fonctionnelle]* Yaphet (*Yaphet* / יֶפֶת) —
-et qu'il demeure (*veyishkon* / וְיִשְׁכֹּן) *[shakan — habiter, s'établir, demeurer en un lieu — même racine que mishkan (la Demeure sacrée, le Tabernacle). Le sujet grammatical est délibérément ambigu : Yaphet ou **Elohim** ? Si c'est **Elohim** qui shakan dans les tentes de Shem, le verset anticipe toute la théologie de la Présence divine qui culminera dans le mishkan — **Elohim** demeurant dans la lignée sémitique. Si c'est Yaphet, il s'étend mais partage l'espace de Shem sans en être. Le texte ne tranche pas]* dans les tentes de Shem *[be'ohalei Shem — dans les tentes de Shem. *Ohel* : la tente — espace habitable, provisoire et vivant. Yaphet est appelé à y demeurer, non à la remplacer. La distinction est fonctionnelle : habiter dans l'espace de Shem, c'est recevoir ce que Shem a reçu sans en modifier la structure. Ce verset est programmatique pour tout *Bereshit* 10 : les trois fils se déploient depuis trois modalités distinctes de présence dans le monde — Shem comme lignée du **Shem** de **YHWH**, Cham comme fécondité vitale de la *adamah*, Yaphet comme expansion et élargissement. L'humanité post-diluvienne n'est pas fragmentée — elle se déploie organiquement depuis une souche commune]* —
+et qu'il demeure (*veyishkon* / וְיִשְׁכֹּן) *[shakan — habiter, s'établir, demeurer en un lieu — même racine que mishkan (la Demeure sacrée, le Tabernacle). Le sujet grammatical est délibérément ambigu : Yaphet ou **Elohim** ? Si c'est **Elohim** qui shakan dans les tentes de Shem, le verset anticipe toute la théologie de la Présence divine qui culminera dans le mishkan — **Elohim** demeurant dans la lignée sémitique. Si c'est Yaphet, il s'étend mais partage l'espace de Shem sans en être. Le texte ne tranche pas]* dans les tentes de Shem *[be'ohalei Shem — dans les tentes de Shem. *Ohel* : la tente — espace habitable, provisoire et vivant. Yaphet est appelé à y demeurer, non à la remplacer. La distinction est fonctionnelle : habiter dans l'espace de Shem, c'est recevoir ce que Shem a reçu sans en modifier la structure. Ce verset est programmatique pour tout *Bereshit* 10 : les trois fils se déploient depuis trois modalités distinctes de présence dans le monde — Shem comme lignée du **Shem** de **YHWH**, Cham comme fécondité vitale de la *adamah*, Yaphet comme expansion et élargissement. L'humanité post-diluvienne n'est pas fragmentée — elle se déploie organiquement depuis une souche commune. Mais la dotation d'expansion porte en elle sa propre épreuve : *demeurer dans les tentes de Shem sans en modifier la structure* est le mandat droit ; l'inverser, c'est s'étendre non pour servir la structure de Shem mais pour la recouvrir. Le texte bénit — mais l'histoire dira l'inversion : l'élargissement de Yaphet (*yaft*), accompli dans la lignée de Yavan la Grèce (*Bereshit* 10:2), deviendra le filtre hellénistique qui absorbe l'ontologie hébraïque au lieu de l'habiter. C'est ce recouvrement que l'ONT existe pour dé-couvrir (§1 — le critère d'exclusion des catégories grecques)]* —
 et que Kena'an soit serviteur pour lui. »
 
 ## Fin des jours de Noach
@@ -43,7 +43,7 @@ et que Kena'an soit serviteur pour lui. »
 
 ---
 
-*Bereshit 9 — Version 1.0 — verrouillée*
+*Bereshit 9 — Version 1.1 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 9 :*
 - *Ish ha'adamah — "l'**Ish** de la *adamah*" — Noach s'établit dans la relation à la *adamah* que Lamekh avait espérée*
 - *Galah — "se découvrir" (de galah : mettre à nu / aller en exil — deux sens d'une seule racine)*
@@ -54,4 +54,5 @@ et que Kena'an soit serviteur pour lui. »
 - *Barukh dirigé vers YHWH — "acclamé soit" : acclamation de la **kavod** divine, non dotation humaine (l'être humain ne dote pas YHWH)*
 - *Shakan — "demeurer" — même racine que mishkan : ambiguïté du sujet en v.10 maintenue délibérément*
 - *Vayamot — refrain de Bereshit 5 revenant pour clore le cycle de Noach*
+- *Dotation de Yaphet (v.10) — le mandat « demeurer dans les tentes de Shem sans en modifier la structure » ET son inversion historique en Yavan/la Grèce : le filtre hellénistique qui recouvre l'ontologie hébraïque, que l'ONT existe pour dé-couvrir (§1). Fil mandat → inversion, posé aussi en Bereshit 10 (glose de Yavan). Version 1.1 — enrichissement*
 - *Bereshit 10 : Genèse 10:1-32 — la table des nations (toledot de Shem, Cham, Yaphet)*
