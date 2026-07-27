@@ -236,6 +236,26 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 | 1-3 Jean | *Igerot Yohanan* | יוֹחָנָן | |
 | Jude | *Igeret Yehudah* | יְהוּדָה | "celui qui est loué" |
 
+### 2.7 La feuille d'introduction
+
+Chaque livre s'ouvre par une **feuille d'introduction** qui porte, une fois en amont, tout le cadre (situation, question du livre, comment lire, motifs, plan) — au lieu de le répéter en gloses page après page. L'introduction est la voix du projet (dense) ; le corps garde la voix vécue et ses gloses restent légères. Sections types : **Titre & Shem · Régime d'auteur · Thème · Date d'émergence · Date de consignation · Contexte historique · But · Comment lire · Vue d'ensemble · Caractéristiques particulières · Échos dans la Berit Hadashah · Plan · Repères.** Fichier `*-0-intro.md` à côté du livre. Inaugurée avec *Toledot Adam ve-Chavah*.
+
+### 2.8 Les use cases d'annotation
+
+Opérationnalise §2.1 : chaque terme du glossaire reçoit **un** use case — une combinaison fixe des trois niveaux, appliquée mécaniquement.
+
+| UC | Type | Niveau 3 (hébreu) |
+|---|---|---|
+| **UC0** | Noms divins — hébreu/gras, jamais traduits ; glose fondatrice une fois dans tout le corpus | généreux |
+| **UC1** | Intraduisible — le mot reste hébreu (gras) | 1re occ. |
+| **UC2** | Noyau *(traduit, hébreu persistant)* — *shamayim*/Cieux, *eretz*/Terre, *adamah*/sol concret… | **≥ 1×/chapitre** (régime b) |
+| **UC3** | Traduit standard *(le défaut)* — *chata*/dévier, *tselem*/représentant fonctionnel… | 1re occ., puis nu |
+| **UC4** | Nom propre | 1re occ. + identification sur 5 occ. (§4.12) |
+| **UC5** | Glose seule — structure (mérisme, chiasme, ambiguïté, silence) | — |
+| **UC6** | Français simple — mot ordinaire hors glossaire | — |
+
+Règle : le gras **est** la translittération exacte (apostrophes comprises : **She'ol**, **mal'akh**), jamais une francisation.
+
 ---
 
 ## 3. TERMINOLOGIE FIXÉE — GLOSSAIRE COMPLET
@@ -463,6 +483,23 @@ Certains nombres hébreux sont des **unités fonctionnelles**, non des durées p
 **Cette règle s'applique** : au corps du texte (niveau 1), aux gloses (niveau 2), et aux notes de bas de section. Elle vaut pour les expressions prépositionnelles ("au septentrion de", "à l'orient de", "à l'occident de") comme pour les emplois nominaux ("le septentrion", "le midi", "vers l'orient").
 
 **Raison :** Nord/sud/est/ouest sont des termes modernes qui jettent une note anachronique dans le registre de l'ONT. Septentrion/midi/orient/occident sont les formes littéraires classiques, cohérentes avec la gravité et l'ancienneté du texte.
+
+### 4.14 La datation à plusieurs niveaux
+
+Dater un texte par son seul manuscrit est l'erreur de l'historien moderne. L'ONT est une histoire **ontologico-fonctionnelle** : elle distingue **trois dates**.
+- **Date d'émergence** — quand la *réalité* est entrée dans le monde. Datable depuis l'intérieur du réel (p. ex. « dès le Jardin d'Eden »), non une métaphore.
+- **Date de transmission** — quand la vérité circulait, vivante et courante à une époque, avant sa fixation.
+- **Date de consignation** — quand le témoin que nous tenons a été mis par écrit.
+
+Les trois découlent du modèle **déclin → recouvrement** : la réalité est ancienne, l'écrit est tardif — un fragment recouvré. Le moderne colle tout sur la consignation et croit avoir daté le texte.
+
+### 4.15 Le régime d'auteur
+
+La notion antique d'auteur est **fonctionnelle**, non moderne-individuelle. Deux régimes :
+- **Auteur attesté et de sa main** — identifiable, il a réellement produit le texte (ex. les *Igerot* de Shaul).
+- **Auteur qui restitue** — le nom marque la *provenance et l'autorité* d'une vérité, non le scribe physique. Ce n'est pas une fraude : écrire sous un nom révéré déclare que la vérité appartient à ce courant.
+
+Ainsi la Torah est mosaïque par **autorité**, non par chaque trait de plume : *Devarim* 34 raconte la mort de Moshe, et *Bava Batra* 14b-15a le reconnaît depuis toujours (Yehoshua écrivit les derniers versets). Le régime d'auteur nomme *à qui la vérité appartient*, pas seulement *quelle main a tenu le calame*.
 
 ---
 
