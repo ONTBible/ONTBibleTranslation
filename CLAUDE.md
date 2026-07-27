@@ -143,6 +143,8 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
+**Polices hébraïques — dossier `utilities/`.** Les polices pour composer le script hébreu (niveau 3) et le rendre dans Affinity Publisher vivent dans `utilities/` à la racine du dépôt : **SBL Hebrew** (`SBL_Hbrw.ttf`) et **Ezra SIL** (`EzraSIL2.51/`) — hébreu biblique avec voyelles et cantillation (*te'amim*) ; **Taamey Frank CLM** (projet Culmus) — hébreu avec *te'amim* ; **Frank Ruhl Libre** — hébreu moderne (fonte variable + statiques). Toutes sous licence libre (OFL). Ce sont les **assets typographiques** du projet, suivis dans le dépôt pour la composition — non distribués au lecteur (cf. principe de distribution : seuls l'intro et les chapitres du slot voyagent).
+
 ### 2.6 Les noms des livres bibliques
 
 **Règle pour le texte ONT et les noms de fichiers :** Les noms des livres bibliques sont toujours donnés dans leur forme hébraïque translittérée. Ces noms sont intraduisibles : leur titre hébreu est le vrai titre, souvent issu du premier mot du livre. Cette règle vaut aussi pour les noms de fichiers (ex. `bereshit-1.md`, pas `genese-1.md`).
