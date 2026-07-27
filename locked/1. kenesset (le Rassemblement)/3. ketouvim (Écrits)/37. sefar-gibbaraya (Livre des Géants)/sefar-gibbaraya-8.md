@@ -5,7 +5,7 @@
 
 ## La crainte des puissants
 
-¹ Mahaway (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** auprès de Khanokh]* revint vers l'assemblée des **gibbaraya**, portant la tablette de Khanokh (*Khanokh* / חֲנוֹךְ) *[scribe céleste qui transmet la sentence]*. ² Ohyah (*Ohyah* / אוהיה) *[géant majeur associé aux songes et à la réponse de l'assemblée]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[frère d'Ohyah, nom vocalisé diversement]*, Gilgamesh (*Gilgamesh* / גלגמיש) *[nom mésopotamien repris sous jugement apocalyptique]*, Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]* et leurs compagnons se rassemblèrent autour de lui.
+¹ Mahaway (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** auprès de Khanokh]* revint vers l'assemblée des **gibbaraya**, portant la tablette de Khanokh (*Khanokh* / חֲנוֹךְ) *[scribe céleste qui transmet la sentence]*. ² Ohyah (*Ohyah* / אוהיה) *[géant majeur associé aux songes et à la réponse de l'assemblée]*, Hahyah/Ahyah (*Hahyah/Ahyah* / ההיה) *[frère d'Ohyah, nom vocalisé diversement]*, Gilgamesh (*Gilgamesh* / גלגמיש) *[le héros que les **goyim** chantent dans leur épopée — ici remis à sa place réelle, parmi les **gibbaraya**. Car ce que les nations élèvent en héros, la Torah le nomme déjà : les **gibborim** / Nephilim de* Bereshit *6:4, « les puissants d'autrefois, les hommes du **shem** » (*anshei ha-shem* / אַנְשֵׁי הַשֵּׁם). Le nom que les nations exaltent est un **shem** de démesure, non d'ordre]*, Hobabish (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]* et leurs compagnons se rassemblèrent autour de lui.
 
 ³ La tablette fut lue devant eux. ⁴ Alors leur assemblée devint silencieuse. ⁵ Ceux qui avaient fait trembler les vallées furent troublés par des lignes.
 
