@@ -23,7 +23,7 @@
 
 ### Notes philologiques
 
-- Le songe de la tablette plongée dans l'eau appartient au coeur des traditions du Livre des Géants.
+- Le songe de la tablette plongée dans l'eau appartient au cœur des traditions du Livre des Géants.
 - La conservation d'un nom avec trois autres est interprétée à la lumière de Noach et de ses trois fils.
 - Le langage de la mort des **Nefesh** suit les préoccupations attestées dans les fragments sur la fin des **gibbaraya**.
 

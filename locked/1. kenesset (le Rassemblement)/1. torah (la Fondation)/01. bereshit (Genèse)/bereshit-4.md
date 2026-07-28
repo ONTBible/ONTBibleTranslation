@@ -72,7 +72,7 @@ Car j'ai tué un **ish** (*ish* / אִישׁ) pour ma blessure (*lepits'i* / ל�
 et un jeune homme (*yeled* / יֶלֶד) *[yeled — jeune homme. Non pas un égal en combat : un plus jeune. La disproportion est dans le texte lui-même]* pour ma meurtrissure (*lechaburati* / לְחַבֻּרָתִי) *[chaborah — la contusion, l'ecchymose. Deux blessures légères justifient deux meurtres : l'escalade de la violence dans la lignée de Qayin atteint ici sa formulation explicite]*.
 
 ²⁴ Car Qayin sera vengé sept fois (*shiv'atayim* / שִׁבְעָתַיִם),
-et Lamekh soixante-dix-sept fois (*shiv'im veshiv'ah* / שִׁבְעִים וְשִׁבְעָה) *[de 7 à 77 : la vengeance s'auto-amplifie dans la logique humaine hors de **YHWH**. Ce que **YHWH** avait établi comme limite protective — venger Qayin sept fois — Lamekh le transforme en principe d'escalade illimitée. C'est la logique de la civilisation de Qayin portée à son terme] ».
+et Lamekh soixante-dix-sept fois (*shiv'im veshiv'ah* / שִׁבְעִים וְשִׁבְעָה) *[de 7 à 77 : la vengeance s'auto-amplifie dans la logique humaine hors de **YHWH**. Ce que **YHWH** avait établi comme limite protective — venger Qayin sept fois — Lamekh le transforme en principe d'escalade illimitée. C'est la logique de la civilisation de Qayin portée à son terme]* ».
 
 ## Shet et l'invocation du nom de YHWH
 

@@ -49,7 +49,7 @@
 
 ¹⁹ le Qénite (*Qeni* / הַקֵּינִי) *[Qeni — de *qin* (lance, forgeron). Peuple nomade de la région désertique entre Kena'an et Mitsrayim]*, le Qenizzite (*Qenizi* / הַקְּנִזִּי), le Qadmonite (*Qadmoni* / הַקַּדְמֹנִי) *[Qadmoni — "l'Oriental", le peuple de l'orient]* —
 
-²⁰ le Hittite (*Hitti* / הַחִתִּי) *[Hitti — les Hittites : peuple majeur de l'Anatolie et du nord de Kena'an. Grande puissance de l'Âge du Bronze]*, le Perizzite (*Perizi* / הַפְּרִזִּי) *[Perizi — déjà posé en Bereshit 13:7 : le peuple des campagnes non murées]*, les Refaim (*Refaim* / הָרְפָאִים) *[Refaim — déjà posés en Bereshit 14:5 : les peuples anciens de stature redoutable]* —
+²⁰ le Hittite (*Hitti* / הַחִתִּי) *[Hitti — les Hittites : peuple majeur de l'Anatolie et du septentrion de Kena'an. Grande puissance de l'Âge du Bronze]*, le Perizzite (*Perizi* / הַפְּרִזִּי) *[Perizi — déjà posé en Bereshit 13:7 : le peuple des campagnes non murées]*, les Refaim (*Refaim* / הָרְפָאִים) *[Refaim — déjà posés en Bereshit 14:5 : les peuples anciens de stature redoutable]* —
 
 ²¹ le Amorite (*Emori* / הָאֱמֹרִי), le Kena'ani (*Kena'ani* / הַכְּנַעֲנִי), le Guirgashite (*Girgashi* / הַגִּרְגָּשִׁי) *[Girgashi — peuple de Kena'an peu documenté dans les sources extérieures — présent dans plusieurs listes des peuples de Kena'an]* et le Yevousite (*Yevousi* / הַיְבוּסִי) *[Yevousi — les Jébusites : peuple de Yerushalaim, dont ils tenaient la forteresse avant que David ne la prenne. Leur présence dans la liste ancre géographiquement la promesse : Yerushalaim est dans le cœur du territoire promis]*. »
 

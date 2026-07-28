@@ -15,7 +15,7 @@
 
 ¹¹ Les noms des violents furent comme signes sur la tablette plongée dans l'eau. ¹² Ils furent lavés de la surface où ils avaient pris sans mandat. ¹³ La chair des **gibbaraya** ne demeura pas, et leur puissance ne trouva pas lieu où se tenir.
 
-¹⁴ Alors le **mabbul** accomplit son oeuvre étrange : il défit pour rétablir. ¹⁵ Il recouvrit pour que la confusion soit arrêtée. ¹⁶ Il suspendit les distinctions visibles afin que les distinctions fonctionnelles puissent être réinstituées après le retrait des eaux.
+¹⁴ Alors le **mabbul** accomplit son œuvre étrange : il défit pour rétablir. ¹⁵ Il recouvrit pour que la confusion soit arrêtée. ¹⁶ Il suspendit les distinctions visibles afin que les distinctions fonctionnelles puissent être réinstituées après le retrait des eaux.
 
 ¹⁷ Et lorsque les eaux se retireraient, la Terre ne serait pas neuve comme si rien n'avait été. ¹⁸ Elle porterait mémoire du jugement. ¹⁹ Mais elle recevrait de nouveau lieu, respiration, limite, semence, service et alliance (*berith* / בְּרִית) *[structure fonctionnelle d'engagement par laquelle l'ordre est établi et maintenu]*.
 
