@@ -144,9 +144,37 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
-**`**...**` est EXCLUSIVEMENT réservé aux intraduisibles** — jamais pour l'emphase (mettre en valeur une phrase, un mot ordinaire ou un titre), **y compris dans les feuilles d'introduction et les notes** : le gras déclencherait à tort le style « Transliteration » d'Affinity au copier-coller. Pour l'emphase, utiliser l'italique `*...*`.
+**`**...**` est EXCLUSIVEMENT réservé aux intraduisibles** — jamais pour l'emphase (mettre en valeur une phrase, un mot ordinaire ou un titre), **y compris dans les feuilles d'introduction et les notes** : le gras déclencherait à tort le style « Transliteration » d'Affinity au copier-coller, et l'app afficherait le mot en or, touchable, ouvrant une fiche de lexique vide. Pour l'emphase ordinaire, utiliser l'italique `*...*` ; pour un **terme important**, voir §2.5 bis.
 
-**Polices hébraïques — dossier `utilities/`.** Les polices pour composer le script hébreu (niveau 3) et le rendre dans Affinity Publisher vivent dans `utilities/` à la racine du dépôt : **SBL Hebrew** (`SBL_Hbrw.ttf`) et **Ezra SIL** (`EzraSIL2.51/`) — hébreu biblique avec voyelles et cantillation (*te'amim*) ; **Taamey Frank CLM** (projet Culmus) — hébreu avec *te'amim* ; **Frank Ruhl Libre** — hébreu moderne (fonte variable + statiques). Toutes sous licence libre (OFL). Ce sont les **assets typographiques** du projet, suivis dans le dépôt pour la composition — non distribués au lecteur (cf. principe de distribution : seuls l'intro et les chapitres du slot voyagent).
+**Polices hébraïques — dossier `utilities/`.** Les polices pour composer le script hébreu (niveau 3) et le rendre dans Affinity Publisher vivent dans `utilities/` à la racine du dépôt : **SBL Hebrew** (`SBL_Hbrw.ttf`) et **Ezra SIL** (`EzraSIL2.51/`) — hébreu biblique avec voyelles et cantillation (*te'amim*) ; **Taamey Frank CLM** (projet Culmus) — hébreu avec *te'amim* ; **Frank Ruhl Libre** — hébreu moderne (fonte variable + statiques). **Attention aux licences** : Ezra SIL et Frank Ruhl Libre sont sous OFL, donc redistribuables — ce sont les deux que La Bible ONT embarque. SBL Hebrew relève d'un EULA propriétaire et Taamey Frank CLM d'une GPL dont l'exception ne couvre que les documents composés, pas un binaire : ces deux-là restent réservées à la composition Affinity et ne doivent jamais entrer dans une app ni dans un site. Ce sont les **assets typographiques** du projet, suivis dans le dépôt pour la composition — non distribués au lecteur (cf. principe de distribution : seuls l'intro et les chapitres du slot voyagent).
+
+### 2.5 bis Marquage des termes importants — `==...==`
+
+**Règle :** un mot qu'on veut mettre en relief **sans en faire un intraduisible** s'écrit `==mot==`.
+
+C'est le surlignage natif d'Obsidian : il se voit en écrivant, et il n'était employé nulle part ailleurs dans le vault.
+
+**Pourquoi cette troisième marque existe.** Le gras était détourné pour insister — `**« Jour »**`, `**Candidat intraduisible**`, `**Sarah**`. Or `**...**` veut dire « intraduisible », et rien d'autre. Le pipeline allait alors chercher une fiche de glossaire qui n'existait pas, et l'app affichait ces mots en or et touchables, promettant une explication qu'elle n'avait pas. L'intention était juste ; il lui manquait sa propre marque.
+
+**Ce que chaque marque produit dans La Bible ONT :**
+
+| écriture | rendu dans l'app | touchable |
+|---|---|---|
+| texte nu | encre | non |
+| `==mot==` | **bordeaux clair `#862742`**, semi-gras | non |
+| `**mot**` | **or**, semi-gras | **oui** → fiche de lexique |
+| `*mot*` | italique | non |
+
+**Quand employer `==...==` :**
+
+- un mot français que le texte nomme solennellement — `==« Jour »==`, `==« Nuit »==`, `==« Cieux »==` ;
+- un nom propre dont le verset explique l'étymologie — `==Chavah==`, `==Noach==`, `==Sarah==` (§4.12 interdit de les baliser comme intraduisibles) ;
+- une métadonnée d'apparat critique — `==premier emploi dans l'ONT==`, `==Candidat intraduisible==`.
+
+**Quand ne PAS l'employer :** pour un vrai terme hébreu. Celui-là mérite une entrée de glossaire (§2.5 / §3) et donc `**...**`. Le marquer `==...==` reviendrait à priver le lecteur de sa fiche.
+
+**Côté Affinity :** `==...==` ne déclenche aucun style au copier-coller. Un style de caractère dédié reste à créer si l'édition imprimée doit distinguer ce niveau.
+
 
 ### 2.6 Les noms des livres bibliques
 
@@ -703,3 +731,39 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 - **Bereshit 17** (Genèse 17:1-27) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-17.md` — **El Shaddai** (premier emploi — accompagne les moments où **YHWH** accomplit l'impossible humain), **milah** (premier emploi — l'inscription covenantale dans la chair), **orlah** / **arel** (premier emploi — portée métaphorique large : cœur, lèvres, fruit), **goyim** / **goy** (actif dans la promesse : *av hamon goyim*), Avram → Avraham / Sarai → Sarah (reformulation des **Shem** covenantaux : possessif particulier → souverain universel), *tamim* = "intègre" (cohérence avec Noach en *Bereshit* 6:9), *karet* (retranchement du peuple — sanction la plus grave du droit divin), formule covenantale *lihyot lekha l'Elohim* (v.7 — le nom cosmique comme engagement de relation personnelle).
 - **Bereshit 18** (Genèse 18:1-33) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-18.md` — **mishpat** / **mishpatim** (premier emploi — l'acte de jugement concret dans l'ordre cosmique ; *tsedaqah umishpat* posé en v.19), **rasha** / **resha'im** (premier emploi — opposé fonctionnel de **tsadiq**, paire constitutive du droit divin hébraïque), **shofet** / **shoftim** (premier emploi — même racine que **mishpat** ; *shofet kol ha'arets* titre de souveraineté cosmique universelle ; écho vers le livre *Shoftim*), ambiguïté des trois **ish** maintenue (jamais nommés **mal'akhim** dans ce texte — titre donné seulement en *Bereshit* 19:1), *ze'aqah* (cri judiciaire de l'opprimé — déclenche la descente du **mishpat**), intercession 50→10 (Avraham demande un **mishpat** complet, non sa suspension).
 
+---
+
+## 13. CHANTIERS OUVERTS — À TRANCHER PAR L'AUTEUR
+
+*Relevé par le pipeline de La Bible ONT (`/Volumes/Workspace/Projectground/Doneground/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
+
+### 13.1 Neuf termes balisés sans entrée de glossaire
+
+Chacun est actuellement écrit `**...**`, donc **déclaré intraduisible** — mais absent du §3. Conséquence dans l'app : le mot s'affiche en or, le lecteur le touche, et il n'y a pas de fiche.
+
+Pour chacun, **deux issues et deux seulement** :
+
+- **A —** c'est un vrai intraduisible : lui écrire une entrée au §2.5 et au §3, il garde `**...**` ;
+- **B —** ce n'est pas un intraduisible : le passer en `==...==` (§2.5 bis), il devient un *terme important*.
+
+| terme | occurrences | premier emploi | remarque |
+|---|---|---|---|
+| `tsadiqim` | 9 | *Bereshit* 18:24 | pluriel de **tsadiq**, déjà au §3 — sans doute une forme dérivée à rattacher |
+| `tsedaqah umishpat` | 1 | *Bereshit* 18:19 | construit de deux termes déjà au §3 |
+| `chata'ah` | 1 | *Bereshit* 18:20 | proche de *chattah* (Bereshit 4) |
+| `nashim` | 1 | *Bereshit* 6:2 | pluriel d'*ishah* |
+| `shiphchah` | 1 | *Bereshit* 16 | déjà discuté dans la note de Bereshit 16, jamais fixé au §3 |
+| `Tov vara` | 1 | *Bereshit* 2:6 | **tov** est au §3, *ra* non |
+| `gibborim` | 1 | *Sefar Gibbaraya* 8:2 | pluriel de `gibor` |
+| `gibor` | 1 | *Sefar Gibbaraya* 3:36 | singulier — une seule entrée pour les deux |
+| `shaliachim` | 2 | *Sefar Gibbaraya* intro | **le §2.5 donne `shlichim`** — deux orthographes du même mot dans le corpus |
+
+`tsadiqim` est le plus rentable : neuf occurrences, et le terme est déjà au glossaire au singulier.
+
+### 13.2 Vingt-deux marqueurs déséquilibrés
+
+Des `**` ouverts sans être refermés, dans les pieds de page de *Bereshit* 15 à 19. Le pipeline les recolle silencieusement, mais le rendu Affinity et le rendu de l'app peuvent diverger. `dist/report.md` les localise à la ligne.
+
+### 13.3 Déjà fait — ne pas refaire
+
+Onze balises `**...**` posées pour insister, et non pour déclarer un intraduisible, ont été converties en `==...==` le 12 août 2026 : `« Jour »`, `« Nuit »`, `« Cieux »`, `« Mers »`, `« Terre »` (*Bereshit* 1), `Chavah` (3:20), `Noach` (5:29), `Sarah` (17:15), et trois métadonnées d'apparat dans *Bereshit* 19.
