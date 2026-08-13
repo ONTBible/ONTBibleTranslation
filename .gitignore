@@ -1,11 +1,16 @@
-# macOS
 .DS_Store
+.trash/
 
-# Obsidian
-.obsidian/
+# L'état de l'espace de travail Obsidian change à chaque ouverture de panneau.
+# Les *réglages* du vault, eux, méritent d'être versionnés.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
-# Affinity Publisher lock files
-*.af~lock~
+# SBL Hebrew relève d'un EULA propriétaire : la committer, c'est la
+# redistribuer. Elle reste sur le disque pour composer dans Affinity, mais ne
+# quitte pas cette machine. Ezra SIL, Frank Ruhl Libre et Taamey Frank CLM
+# sont sous licences libres et restent versionnées (cf. CLAUDE.md §2.5).
+utilities/SBL_Hbrw.ttf
 
-# Fichiers générés
-last-response.md
+# Verrous Affinity — transitoires, ils n'existent que pendant l'édition.
+*~lock~
