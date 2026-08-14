@@ -1,0 +1,114 @@
+# Une correction du vault part en ligne toute seule.
+#
+# ## Ce qui manquait
+#
+# Le vault est la **source** de la traduction. Le corpus, lui, est un produit :
+# ni le site ni l'app ne le portent dans leur dépôt, chacun le régénère depuis
+# ce vault au moment où il se construit. C'est la bonne architecture, et elle
+# avait un trou.
+#
+# Corriger un verset ici ne changeait rien nulle part. Le site en ligne gardait
+# l'ancienne leçon, et l'app aussi, jusqu'à ce que quelqu'un pousse un commit
+# sans rapport dans l'un des deux autres dépôts. La correction existait,
+# publiée, signée — et invisible.
+#
+# Ce workflow ferme ça : le vault bouge, les deux chaînes partent.
+#
+# ## Pourquoi un jeton, alors que rien d'autre ici n'en demande
+#
+# `secrets.GITHUB_TOKEN` ne vaut que pour **ce** dépôt. Déclencher un workflow
+# chez un voisin demande un droit sur le voisin, et GitHub n'en prête aucun
+# d'office — c'est ce qui empêche un dépôt d'en piloter un autre par accident.
+#
+# Il faut donc un jeton **fin**, créé une fois, limité à deux dépôts et à une
+# seule permission :
+#
+#     https://github.com/settings/personal-access-tokens
+#
+#     Repository access : ONTBible/ONTBibleWebapp et ONTBible/ONTBibleApp
+#     Permissions       : Actions → Read and write   (et rien d'autre)
+#
+# Puis, dans ce dépôt-ci :
+#
+#     Settings → Secrets and variables → Actions → New repository secret
+#     Nom : DECLENCHEUR
+#
+# Ce jeton ne peut que **lancer** des workflows. Il ne lit aucun code, n'écrit
+# aucun commit, ne touche à aucun secret. Et il ne donne aucun accès à AWS :
+# les droits de déploiement viennent d'OIDC, du côté du dépôt déclenché, et
+# sont épinglés à sa branche `main`.
+#
+# ## Ce que ça coûte, et où le couper
+#
+# Le site : quelques minutes sur un runner Linux, gratuit dans les quotas.
+#
+# L'app : un build macOS, dix fois plus cher en minutes, et **un numéro de
+# build consommé, livré aux testeurs**. Une virgule corrigée dans un brouillon
+# leur enverra donc une notification. Si ça devient bruyant, retirer l'étape
+# « L'app » ci-dessous : le site continuera seul.
+
+name: Propager
+
+on:
+  push:
+    branches: [main]
+    # Seulement ce que le pipeline lit vraiment. Les valeurs viennent de ses
+    # constantes — `pipeline/src/config.rs` : `TREES`, `SKELETON`, `REFERENCE`.
+    # Un fichier Affinity, une note de session, un paratexte ne produisent pas
+    # une ligne de corpus, et n'ont donc pas à déclencher deux constructions.
+    #
+    # Le revers est une **duplication** : si le pipeline se met à lire un
+    # dossier de plus, cette liste ne le saura pas, et la correction ne partira
+    # pas. C'est le seul endroit du projet où une valeur du pipeline est
+    # recopiée, et c'est un compromis assumé — GitHub n'accepte pas de filtre
+    # calculé. À vérifier au prochain dossier ajouté.
+    paths:
+      - "locked/**"
+      - "brouillons/**"
+      - "in-writing/**"
+      - "CLAUDE.md"
+      - ".github/workflows/propager.yml"
+  workflow_dispatch:
+
+# Cinq corrections poussées coup sur coup ne doivent pas lancer cinq
+# déploiements. Le dernier annule ceux qui attendent : chacun reconstruit tout
+# le corpus depuis le vault, donc le dernier suffit et contient les autres.
+concurrency:
+  group: propager
+  cancel-in-progress: true
+
+jobs:
+  propager:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Sans le jeton, `gh` échouerait sur une erreur d'authentification qui ne
+      # dirait pas ce qui manque. On le dit nous-mêmes, et en premier.
+      - name: Le jeton est là
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::Le secret DECLENCHEUR manque. Voir l'en-tête de ce fichier."
+            exit 1
+          fi
+
+      - name: Le site
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          gh workflow run deployer.yml --repo ONTBible/ONTBibleWebapp --ref main
+          echo "→ https://github.com/ONTBible/ONTBibleWebapp/actions/workflows/deployer.yml"
+
+      # L'app reconstruit elle aussi le corpus depuis ce vault — elle clone
+      # `ONTBibleTranslation` et lance le pipeline avant de compiler. Une
+      # livraison TestFlight porte donc la correction jusqu'aux testeurs.
+      #
+      # L'App Store, lui, ne bouge pas : `testflight.yml` ne soumet à la revue
+      # que sur demande explicite.
+      - name: L'app
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          gh workflow run testflight.yml --repo ONTBible/ONTBibleApp --ref main
+          echo "→ https://github.com/ONTBible/ONTBibleApp/actions/workflows/testflight.yml"
