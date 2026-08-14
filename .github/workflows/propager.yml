@@ -82,9 +82,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Sans le jeton, `gh` échouerait sur une erreur d'authentification qui ne
-      # dirait pas ce qui manque. On le dit nous-mêmes, et en premier.
-      - name: Le jeton est là
+      # Le jeton est éprouvé pour de bon, et pas seulement compté.
+      #
+      # Trois pannes se ressemblent et ne se disent pas : le secret absent, le
+      # jeton **expiré** — un jeton fin dure un an au plus, et il s'éteint sans
+      # prévenir — et le jeton créé avec la mauvaise permission ou le mauvais
+      # propriétaire, cas le plus courant : un jeton dont le *resource owner*
+      # est le compte personnel plutôt que l'organisation ne reçoit qu'un accès
+      # en lecture aux dépôts publics.
+      #
+      # Dans les trois cas, `gh workflow run` rendrait une erreur qui parle
+      # d'authentification sans nommer laquelle. On pose donc la question à
+      # l'API, sur le droit exact dont on a besoin, et on l'écrit en clair.
+      - name: Le jeton peut déclencher
         env:
           GH_TOKEN: ${{ secrets.DECLENCHEUR }}
         run: |
@@ -92,6 +102,24 @@ jobs:
             echo "::error::Le secret DECLENCHEUR manque. Voir l'en-tête de ce fichier."
             exit 1
           fi
+          # On interroge l'API **des Actions** de chaque dépôt. C'est le droit
+          # qu'on demande, et c'est donc lui qu'il faut éprouver — `permissions`
+          # sur le dépôt refléterait le rôle de la personne qui a créé le jeton,
+          # pas les droits du jeton, et un propriétaire d'organisation y
+          # passerait toujours.
+          #
+          # Ça prouve la lecture. L'écriture, seul un déclenchement la prouve —
+          # c'est l'étape suivante. Mais les trois pannes muettes sont écartées
+          # ici, donc un échec plus bas ne pourra plus être qu'un défaut de
+          # permission en écriture, ce qui se lit enfin.
+          for depot in ONTBible/ONTBibleWebapp ONTBible/ONTBibleApp; do
+            if ! gh api "repos/$depot/actions/workflows" --jq '.total_count' >/dev/null 2>&1; then
+              echo "::error::Le jeton ne voit pas les workflows de $depot."
+              echo "::error::Vérifier : resource owner = ONTBible (et non le compte personnel),"
+              echo "::error::permission Actions = Read and write, dépôt bien coché, jeton non expiré."
+              exit 1
+            fi
+          done
 
       - name: Le site
         env:
