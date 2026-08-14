@@ -1,0 +1,83 @@
+# Éprouve le vault avant qu'il ne devienne du corpus.
+#
+# ## Ce que ça attrape
+#
+# Le vault est du markdown écrit à la main. Le pipeline en tire un corpus, et
+# il est strict : un slot absent de `corpus-order.md`, un renvoi qui ne pointe
+# rien, un balisage de niveau mal fermé, un intraduisible sans fiche — chacune
+# de ces choses l'arrête.
+#
+# Jusqu'ici, rien ne le lui demandait avant la fusion. Une unité mal formée
+# passait dans `main`, et la panne ne se voyait qu'au déploiement du site, dans
+# un autre dépôt, sous un message qui parlait de Rust plutôt que du verset en
+# cause. Depuis que `propager.yml` existe, elle se verrait dans **deux**
+# déploiements à la fois.
+#
+# Ce job pose la question au bon moment : le corpus se construit-il à partir de
+# ce que cette pull request écrit ?
+#
+# ## Il ne publie rien
+#
+# Pas de secret, pas de droit, aucun déploiement. Il construit le corpus dans
+# l'espace de travail du job et le jette. La seule chose qu'il produise est un
+# verdict.
+
+name: Éprouver
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: eprouver-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  eprouver:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Le vault tel que cette pull request le laisse, et le pipeline qui le
+      # lit. Côte à côte, comme sur un poste : le pipeline attend le vault dans
+      # `ONT_VAULT`.
+      - name: Le vault
+        uses: actions/checkout@v4
+        with:
+          path: ONTBibleTranslation
+
+      - name: Le pipeline
+        uses: actions/checkout@v4
+        with:
+          repository: ONTBible/ONTBibleApp
+          path: ONTBibleApp
+
+      - name: Rust
+        run: rustup toolchain install stable --profile minimal
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: ONTBibleApp/pipeline
+
+      # Le pipeline s'arrête sur la première incohérence, et son message nomme
+      # le fichier. C'est lui le test : il n'y a rien à écrire à côté.
+      - name: Le corpus se construit
+        working-directory: ONTBibleApp
+        env:
+          ONT_VAULT: ${{ github.workspace }}/ONTBibleTranslation
+        # `--bin` explicite. La caisse du pipeline en porte deux depuis que le
+        # schéma engendre les liaisons Swift, et `cargo run` sans `--bin` refuse
+        # alors de choisir — la vérification s'arrêterait ici, sur une erreur
+        # qui ne parle pas du vault.
+        run: cargo run --manifest-path pipeline/Cargo.toml --bin ont-pipeline --release --quiet
+
+      # Ce que la traduction pèse après cette pull request. Le chiffre n'est pas
+      # un contrôle — c'est ce qu'on lit en diagonale pour voir qu'une unité a
+      # bien été prise en compte, ou qu'aucune n'a disparu par accident.
+      - name: Ce que ça donne
+        working-directory: ONTBibleApp
+        run: |
+          echo "── manifest.json ──"
+          head -c 600 dist/manifest.json; echo
+          echo "── livres produits ──"
+          ls dist/books | wc -l
