@@ -112,13 +112,45 @@ jobs:
           # c'est l'étape suivante. Mais les trois pannes muettes sont écartées
           # ici, donc un échec plus bas ne pourra plus être qu'un défaut de
           # permission en écriture, ce qui se lit enfin.
+          #
+          # La réponse de l'API est **rendue**, et ce n'est pas un détail. Une
+          # première version l'avalait dans `2>/dev/null` : elle annonçait que
+          # le jeton ne voyait pas le dépôt, sans dire pourquoi. Or les causes
+          # sont distinctes, et le code HTTP les sépare — corriger la mauvaise
+          # coûte un aller-retour dans les réglages de GitHub à chaque essai.
           for depot in ONTBible/ONTBibleWebapp ONTBible/ONTBibleApp; do
-            if ! gh api "repos/$depot/actions/workflows" --jq '.total_count' >/dev/null 2>&1; then
-              echo "::error::Le jeton ne voit pas les workflows de $depot."
-              echo "::error::Vérifier : resource owner = ONTBible (et non le compte personnel),"
-              echo "::error::permission Actions = Read and write, dépôt bien coché, jeton non expiré."
-              exit 1
+            if reponse=$(gh api "repos/$depot/actions/workflows" --jq '.total_count' 2>&1); then
+              echo "  $depot : $reponse workflows visibles"
+              continue
             fi
+
+            echo "::error::Le jeton ne voit pas les workflows de $depot."
+            echo "::error::Réponse de l'API : $reponse"
+
+            case "$reponse" in
+              *401*|*"Bad credentials"*)
+                echo "::error::401 — le jeton est invalide ou expiré. En regénérer un."
+                ;;
+              *403*)
+                echo "::error::403 — le jeton est reconnu mais n'a pas le droit."
+                echo "::error::Permissions du jeton → Repository permissions → Actions : Read and write."
+                ;;
+              *404*|*"Not Found"*)
+                # Le 404 est le plus trompeur des trois : GitHub ne distingue
+                # pas « ce dépôt n'existe pas » de « ton jeton n'a pas le droit
+                # de savoir qu'il existe ». Sur une organisation, la cause la
+                # plus fréquente n'est pas la permission mais l'**approbation**.
+                echo "::error::404 — GitHub ne distingue pas « absent » de « interdit »."
+                echo "::error::Sur une organisation, trois causes, dans cet ordre de fréquence :"
+                echo "::error::  1. le jeton attend une approbation —"
+                echo "::error::     ONTBible → Settings → Third-party Access → Personal access tokens"
+                echo "::error::     → Pending requests. L'approuver."
+                echo "::error::  2. l'organisation interdit les jetons fins — même écran, Settings."
+                echo "::error::  3. resource owner = le compte personnel au lieu de ONTBible,"
+                echo "::error::     ou le dépôt n'est pas coché dans la liste du jeton."
+                ;;
+            esac
+            exit 1
           done
 
       - name: Le site
