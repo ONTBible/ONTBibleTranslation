@@ -139,9 +139,14 @@ les unités verrouillées.
 | `corpus-order.md` | la numérotation globale 01-70, l'ordre par mode |
 | `paratexte.md` | préface, note linguistique, glossaire imprimé — à construire |
 | `context/` | l'auteur, les notes de travail d'un livre |
-| `af/` | la maquette **Affinity Publisher** — l'édition papier, 20,3 × 19,3 cm |
 | `utilities/` | les fontes hébraïques |
 | `sessions/` | les transcriptions de sessions de traduction |
+
+**La maquette Affinity n'est pas dans le dépôt.** Le document de composition de
+l'édition papier — 20,3 × 19,3 cm, double page, double colonne — vit sur le
+disque de l'auteur, sous `af/`, ignoré par git. Douze méga de binaires opaques
+que git ne sait ni différencier ni fusionner n'avaient rien à faire dans un
+dépôt qui porte du texte : la mise en page est un aval du texte, pas une source.
 
 **Les fontes sont versionnées, sauf une.** Ezra SIL, Frank Ruhl Libre et Taamey
 Frank CLM sont sous licence libre et vivent dans le dépôt — c'est ce qui permet

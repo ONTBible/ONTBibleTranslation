@@ -14,3 +14,14 @@ utilities/SBL_Hbrw.ttf
 
 # Verrous Affinity — transitoires, ils n'existent que pendant l'édition.
 *~lock~
+
+# La maquette Affinity ne voyage plus dans le dépôt. C'étaient douze méga de
+# binaires opaques — le document de composition, ses exports, les photos de
+# travail — que git ne sait ni différencier ni fusionner : chaque
+# enregistrement pesait son poids entier, et personne n'a jamais pu lire un
+# diff. Le dépôt porte le *texte* et ses conventions ; la mise en page est un
+# aval, et elle vit sur le disque de l'auteur.
+#
+# Les fichiers restent en place, simplement plus suivis. L'historique, lui,
+# garde les versions déjà committées.
+af/
