@@ -1,6 +1,22 @@
 # ONT — ONTOLOGIE NOUVELLE TRADUCTION
 ## DOCUMENT DE RÉFÉRENCE COMPLET POUR LA TRADUCTION AUTONOME
 
+> ## À faire à la fin de **chaque** travail, sans exception
+>
+> Ce dépôt est l'un des **trois** d'un même projet — avec `ONTBibleApp` (le
+> pipeline, la liseuse iOS, le backend) et `ONTBibleWebapp` (`ontbible.com`).
+> Ils sont côte à côte : `~/ONTBible/<dépôt>`.
+>
+> Avant de dire qu'un travail est fini, **lire [`SYNCHRONISATION.md`](SYNCHRONISATION.md)
+> et appliquer sa règle** : demander ce que ce travail change pour les deux
+> autres dépôts, le porter chez eux dans la même session, et inscrire la ligne
+> au journal.
+>
+> Ce dépôt est **la source de tout le reste**. Le pipeline de `ONTBibleApp` lit
+> le vault et en écrit `dist/`, que la liseuse embarque et que le site compile.
+> Renommer un livre, changer une structure de fichier ou une convention de
+> balisage se répercute donc jusqu'à l'App Store — et rien ici ne le signale.
+
 ---
 
 ## 1. QU'EST-CE QUE L'ONT ?
@@ -735,7 +751,7 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 
 ## 13. CHANTIERS OUVERTS — À TRANCHER PAR L'AUTEUR
 
-*Relevé par le pipeline de La Bible ONT (`/Volumes/Workspace/Projectground/Doneground/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
+*Relevé par le pipeline de La Bible ONT (`/Users/gloiiire_/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
 
 ### 13.1 Neuf termes balisés sans entrée de glossaire
 
