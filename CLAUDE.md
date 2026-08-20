@@ -162,7 +162,14 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Nephilim**` — intraduisible : les êtres nés du franchissement des domaines (נְפִילִים). De *napal* (נָפַל) : tomber. **L'ambiguïté est maintenue** — ceux qui sont tombés, ceux qui font tomber, les êtres de la chute : le texte ne tranche pas, la traduction non plus. Jamais « géants » (la Septante a lu *gigantes*, et vingt siècles d'imagerie ont suivi ; le mot ne dit pas la taille). La majuscule est celle d'une catégorie d'êtres, non d'un peuple : c'est un pluriel sans singulier attesté dans le corpus. Premier emploi *Bereshit* 6:4.
 - `**gibbor**` / `**gibborim**` — intraduisible : le puissant, celui dont la force brute fait le poids (גִּבֹּר). De *gabar* (גָּבַר) : l'emporter, prévaloir. Non « héros » (catégorie grecque de l'excellence) ni « vaillant » (vertu morale) : le **gibbor** pèse par sa capacité de contrainte, jamais par la sagesse ni par la fidélité. Le corpus écrit aussi `**gibor**` — deux orthographes du même mot, les deux retombent sur cette entrée. Équivalent araméen : **gibbaraya**, qui donne son titre au *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4.
 
-#### Les six **ruachim** de *Yeshayahu* 11:2-3
+- `**navi**` / `**neviim**` — intraduisible : celui que **YHWH** envoie porter son **davar** dans le temps visible (נָבִיא). Jamais « prophète » au sens courant — devin, annonceur d'avenir : le **navi** ne prédit pas d'abord, il **lit l'alliance dans l'histoire** et prononce le **mishpat** sur ce qu'il y voit. Sa fonction est celle du **shaliach** (§2.6, note terminologique) : une seule réalité, que le grec a décomposée. Pluriel **neviim** ; forme construite dans *Gevurot ha-Neviim*, nom ONT du n° 44.
+- `**qodesh**` — intraduisible : l'état d'être mis à part pour un office (קֹדֶשׁ). Jamais « sainteté » — l'hébreu ne nomme pas une perfection morale mais une **assignation**. Forme adjectivale déjà fixée au §3 : **qadosh**.
+- `**Ruach ha-Qodesh**` — intraduisible : la **Ruach** en tant qu'elle met à part (רוּחַ הַקֹּדֶשׁ). Jamais « le Saint-Esprit » (§4.7). **Capitalisée comme Ruach, Nefesh et Neshamah** — les intraduisibles majeurs portent la majuscule, et le composé la garde sur ses deux termes pleins : `Ruach ha-Qodesh`, jamais `ruach ha-qodesh`. Les trois mots en gras d'un seul tenant, l'article compris. C'est elle qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités ci-dessous.
+
+**Les six ruachim de *Yeshayahu* 11:2-3.** *(Pas de titre `####` ici : le
+pipeline découpe le document à chaque titre, et un sous-titre fermerait le §2.5
+— les formes déclarées en dessous deviendraient invisibles à la jointure, sans
+que rien ne le signale. `gevurot` l'a été.)*
 
 Le passage pose une **ruach** unique — celle de **YHWH** — et six capacités
 qu'elle porte, appariées trois par trois : `**chokhmah**` et `**binah**`,
@@ -181,7 +188,7 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
 - `**chokhmah**` — intraduisible : la compétence qui fait aboutir (חָכְמָה). Non « sagesse » (contemplation, catégorie grecque) : la **chokhmah** est **opératoire**. C'est elle dont Betsalel est rempli pour bâtir le Mishkan, elle qu'ont le tisserand, le marin, le forgeron. Elle ajuste une chose à sa destination — l'opération dont **tov** est le résultat. Locus définitif *Yeshayahu* 11:2.
 - `**binah**` — intraduisible : le discernement qui **sépare entre** (בִּינָה). De *bin*, apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **Elohim** sépare en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Locus définitif *Yeshayahu* 11:2.
 - `**etsah**` — intraduisible : le dessein arrêté (עֵצָה). De *ya'ats* (יָעַץ) — délibérer, résoudre. Non « conseil » au sens d'un avis qu'on donne et qu'on peut ne pas suivre : l'**etsah** est le plan qu'on a **résolu** de tenir. C'est le terme du Conseil Divin. Locus définitif *Yeshayahu* 11:2.
-- `**gevurah**` — intraduisible : la capacité d'accomplir (גְּבוּרָה). De *gabar* (גָּבַר) — l'emporter, prévaloir ; même racine que **gibbor**, et c'est la distinction à tenir : le **gibbor** est celui qui pèse, la **gevurah** est le pouvoir de faire aboutir. Non « force » (physique) ni « puissance » (domination). Pluriel **gevurot** : les actes où elle se manifeste — d'où *Gevurot ha-Neviim*, le nom ONT du n° 44. Locus définitif *Yeshayahu* 11:2.
+- `**gevurah**` / `**gevurot**` — intraduisible : la capacité d'accomplir (גְּבוּרָה). De *gabar* (גָּבַר) — l'emporter, prévaloir ; même racine que **gibbor**, et c'est la distinction à tenir : le **gibbor** est celui qui pèse, la **gevurah** est le pouvoir de faire aboutir. Non « force » (physique) ni « puissance » (domination). Pluriel `**gevurot**` : les actes où elle se manifeste — d'où *Gevurot ha-Neviim*, le nom ONT du n° 44. Locus définitif *Yeshayahu* 11:2.
 - `**da'at**` — intraduisible : le connaître par participation (דַּעַת). De *yada* (יָדַע). Non « connaissance » (un regard extérieur posé sur un objet) : la **da'at** suppose d'être **à l'intérieur** de ce que l'on connaît — d'où son emploi pour l'union conjugale en *Bereshit* 4:1. C'est la **da'at** de l'arbre de *Bereshit* 2:9 (*etz hada'at tov vara*). Locus définitif *Yeshayahu* 11:2.
 - `**yirah**` / `**yirat YHWH**` — intraduisible : la reconnaissance de sa place devant ce qui dépasse (יִרְאָה). De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect, c'est une **posture** : se tenir au rang qui est le sien devant **YHWH**. Même logique fonctionnelle qu'**emunah** et **teshuvah**. *Yeshayahu* 11:3 la scelle par un jeu de racines que la traduction perd : *vaharicho* (וַהֲרִיחוֹ) — « il respirera » — vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Locus définitif *Yeshayahu* 11:3.
 
@@ -278,6 +285,34 @@ paragraphes. Pas de titre intermédiaire, pas de liste, pas de citation :
 rien dire**. Une fiche faite de paragraphes, en revanche, voyage par la mise à
 jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
 ni revue Apple.
+
+**Le critère : la fiche doit agir dans les six ruachim.** Ce n'est ni
+l'exactitude ni la densité qui font une fiche — c'est qu'elle opère selon les
+six capacités de *Yeshayahu* 11:2-3, qui sont aussi bien la règle d'écriture que
+l'objet du corpus.
+
+| | ce que la fiche doit faire |
+|---|---|
+| **chokhmah** | **aboutir**. Elle est opératoire : de l'érudition qui ne produit pas de compréhension a raté son office. |
+| **binah** | **séparer entre**. Trancher ce que le mot français confond — « sagesse » d'avec habileté, « crainte » d'avec posture. |
+| **etsah** | tenir un **dessein arrêté**. Une fiche va quelque part ; ce n'est pas un commentaire qui vagabonde. |
+| **gevurah** | **mener jusqu'au bout**. Pas de demi-explication laissée au lecteur. |
+| **da'at** | **faire connaître du dedans** — la centrale. |
+| **yirah** | **se tenir à son rang**. Ne pas inventer, ne pas dépasser ce que le texte porte. |
+
+**La da'at commande tout le reste.** Elle est le connaître par participation,
+qui suppose d'être *à l'intérieur* de ce que l'on connaît — et c'est exactement
+ce qu'une fiche doit produire : faire **voyager le lecteur à l'intérieur de
+l'époque**, non lui décrire l'époque du dehors. Une fiche qui explique depuis
+notre monde — « l'hébreu ne dit pas X mais Y » — le laisse spectateur : elle
+donne de l'information, pas de la connaissance.
+
+En pratique : **écrire la scène plutôt que la proposition.** Mettre le lecteur
+là où l'on se tenait — l'atelier du Mishkan, la porte de la ville, le poids
+d'une pierre dans la main. Le contraste avec le français vient *ensuite* et sert
+la scène ; il ne la remplace pas. Ne jamais écrire « dans l'ontologie hébraïque,
+exister c'est occuper une fonction » : montrer une chose qui n'existe pas encore
+faute d'emploi, et laisser le lecteur le voir.
 
 **Le balisage y vaut comme partout ailleurs** : `**terme**` pour un
 intraduisible — il devient un lien vers sa fiche, et c'est ainsi que les fiches
@@ -457,6 +492,9 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | רַע | *ra* | **ra** | Intraduisible. Opposé fonctionnel de **tov** — ce qui rate sa destination, ce qui s'écarte de l'ordre cosmique. Non pas "le Mal" au sens moral grec. Formes : *ra* (adjectif/nom), *ra'at* (construit : "le ra de"), *ra'im* (pluriel). |
 | מְלַאכָה | *melakhah* | œuvre architecturale | Travail qualifié de l'architecte. Même mot pour la construction du Tabernacle. |
 | קָדוֹשׁ | *qadosh* | consacré / sacré | Mis à part fonctionnellement pour le domaine divin. Non pas "moralement pur". |
+| נָבִיא | *navi* | **navi** | Intraduisible. Celui que **YHWH** envoie porter son **davar** dans le temps visible. De la racine *nava* — être appelé, porter la parole d'un autre. Non « prophète » au sens que le français a pris : un devin, quelqu'un qui annonce l'avenir. Le **navi** annonce parfois, mais ce n'est pas sa fonction — sa fonction est de **lire l'alliance dans l'histoire** et de prononcer le **mishpat** sur ce qu'il y voit : où le peuple, le roi, le Temple sont alignés ou désalignés. Il regarde le présent avant le futur. Sa réalité fonctionnelle est celle du **shaliach**, l'envoyé : le grec les a décomposés en fonctions distinctes (§2.6, note terminologique), l'hébreu n'en connaît qu'une. Pluriel **neviim** — d'où *Gevurot ha-Neviim*, nom ONT du n° 44 : les **gevurot** de **YHWH** accomplies *à travers* ses **neviim**, où **YHWH** est le sujet et le **navi** l'instrument. Laissé en hébreu. |
+| קֹדֶשׁ | *qodesh* | **qodesh** | Intraduisible. La forme nominale de **qadosh** : non pas la qualité d'être pur, mais **l'état d'être mis à part pour un office**. De la racine *qadash* — séparer, réserver. Un ustensile devient **qodesh** quand il cesse d'être disponible pour l'usage ordinaire ; un temps devient **qodesh** quand il est retiré du compte des jours utiles. Rien n'est **qodesh** par nature : tout l'est par assignation. Le mot appartient donc à la même famille d'opérations que **binah** — séparer entre —, et c'est ce qui le rend intraduisible : « sainteté » en français nomme une perfection morale, là où l'hébreu nomme une **mise à part fonctionnelle**. Laissé en hébreu. |
+| רוּחַ הַקֹּדֶשׁ | *Ruach ha-Qodesh* | **Ruach ha-Qodesh** | Intraduisible. La **Ruach** en tant qu'elle **met à part** — non « le Saint-Esprit » (formule chargée de dix-sept siècles de dogmatique trinitaire, §4.7), non « souffle sacré » (qui en ferait une qualité au lieu d'une opération). L'article *ha-* porte tout le sens : ce n'est pas une **Ruach** parmi d'autres, c'est **la** **Ruach**, celle de **YHWH**, désignée par ce qu'elle fait — elle sépare, assigne, consacre à un office. C'est la même **Ruach** qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités : **chokhmah**, **binah**, **etsah**, **gevurah**, **da'at** et **yirat YHWH**. Formes attestées dans le corpus hébreu : *Tehilim* 51:13, *Yeshayahu* 63:10-11. Traitement définitif réservé à son locus. Laissée en hébreu. |
 | בְּרִית | *berith* | alliance | Structure fonctionnelle d'engagement. Développé en Bereshit 8 : ici unilatérale — Elohim seul s'engage, Noach n'est pas invité à promettre. Non pas un contrat bilatéral mais une déclaration souveraine de fidélité permanente. Meqim (qum : faire se tenir) et non karat (couper) — l'alliance se tient debout par la parole d'Elohim seul. |
 | חֶסֶד | *chesed* | **chesed** | Intraduisible. La fidélité loyale envers celui à qui l'on est lié par une **berith** : tenir parole et agir pour son bien, dans la durée. Non pas "bonté" (trop faible — rate la loyauté engagée), ni "grâce" (catégorie théologique tardive de la faveur imméritée — importée, §4.7), ni "miséricorde" (le **chesed** est *dû* à l'intérieur d'un lien, non simple pitié). S'étend de la fidélité de **YHWH** envers les siens (*chasdo* — qui « dure **le'olam** », *Tehilim* 136) jusqu'à la loyauté entre humains liés (Ruth envers Naomi). Premier emploi en *Bereshit* 19:19 — le **chesed** qui garde le **Nefesh** de Lot. Même logique relationnelle qu'**emunah** : une posture de fidélité, non un sentiment. Traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 (*rav chesed*) et *Ruth*. Laissé en hébreu. |
 | עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. **Règle de rendu en corps de texte : translittérer le construit en entier.** *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
