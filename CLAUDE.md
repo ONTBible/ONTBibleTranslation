@@ -228,6 +228,42 @@ pour qui découvre passe avant la sobriété de la page.
 **Côté Affinity :** `==...==` ne déclenche aucun style au copier-coller. Un style de caractère dédié reste à créer si l'édition imprimée doit distinguer ce niveau.
 
 
+### 2.5 ter Les fiches de lexique — `lexique/<lemme>.md`
+
+**Règle :** l'explication qu'un lecteur reçoit en touchant un mot d'or ne
+s'écrit pas ici, mais dans `lexique/`, un fichier par terme, nommé par son
+lemme — `lexique/chesed.md`.
+
+**Pourquoi une seconde source.** Ce document est écrit *pour le traducteur* :
+ses entrées consignent un arbitrage — pourquoi **Elohim** reste en hébreu, ce
+que « grâce » raterait de **chesed**. Le lecteur du 21ᵉ siècle qui touche le mot
+n'a pas cette question. Il en a une autre, à laquelle rien ne répondait : ce que
+le mot voulait dire pour qui l'écrivait. La fiche d'**Elohim** tenait en deux
+phrases, celle de **YHWH** était la plus courte des cent cinq.
+
+Ce n'est pas une source de vérité dédoublée : **une seule source par *fait***.
+Le §3 garde l'hébreu, les formes, le rendu fixé et la règle de balisage ;
+`lexique/` ne porte que l'explication, et remplace la définition quand elle
+existe.
+
+**La forme : des paragraphes, et rien d'autre.** Le titre `# Elohim` sert de
+repère dans Obsidian, le pipeline l'ignore ; les lignes vides séparent les
+paragraphes. Pas de titre intermédiaire, pas de liste, pas de citation :
+`TermSheet.swift` ne rend que les paragraphes et **laisse tomber le reste sans
+rien dire**. Une fiche faite de paragraphes, en revanche, voyage par la mise à
+jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
+ni revue Apple.
+
+**Le balisage y vaut comme partout ailleurs** : `**terme**` pour un
+intraduisible — il devient un lien vers sa fiche, et c'est ainsi que les fiches
+se tiennent entre elles —, `==...==` pour l'accentuation, `*italique*` pour une
+translittération. Le gras d'insistance reste interdit ici comme dans le corps :
+il promettrait une fiche qui n'existe pas.
+
+**Ce qui n'est pas trouvé est dit.** Une fiche dont le nom ne retombe sur aucun
+lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
+« Fiches sans entrée de glossaire », plutôt que de la laisser tomber.
+
 ### 2.6 Les noms des livres bibliques
 
 **Règle pour le texte ONT et les noms de fichiers :** Les noms des livres bibliques sont toujours donnés dans leur forme hébraïque translittérée. Ces noms sont intraduisibles : leur titre hébreu est le vrai titre, souvent issu du premier mot du livre. Cette règle vaut aussi pour les noms de fichiers (ex. `bereshit-1.md`, pas `genese-1.md`).
