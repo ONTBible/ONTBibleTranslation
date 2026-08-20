@@ -166,3 +166,39 @@ suffit seul. Ni la CI ni le déploiement ne sont touchés.
 **Ce qui traverse :** le corpus grossit à chaque livre. Ce sursis tombera vers
 le cinquième ou sixième, et la réponse sera alors de compresser les JSON
 embarqués — décision qui appartient au site, mais que le vault déclenche.
+
+### 20 août 2026 — le lexique du lecteur sort de `CLAUDE.md`
+
+**Source : le vault.** Les fiches d'intraduisibles étaient engendrées depuis
+`ONTBibleTranslation/CLAUDE.md`, qui est une *référence de traduction* : le
+lecteur qui touchait un mot d'or recevait l'arbitrage du traducteur — deux
+phrases pour **Elohim**, 238 octets pour **YHWH**, trois lignes de médiane.
+L'explication au lecteur vit désormais dans **`lexique/<lemme>.md`** (§2.5 ter).
+
+**Pour l'app :** `pipeline/src/reference.rs` lit ce dossier et **recouvre le
+champ `definition`**. Rien ne change au schéma — les fiches passent donc par
+`CorpusUpdater` et atteignent les apps **déjà installées**, sans revue Apple.
+
+**Contrainte à connaître avant d'écrire une fiche :** `TermSheet.swift` ne rend
+que `Block::Para` et **laisse tomber le reste sans rien dire**. Un titre ou une
+liste dans une fiche disparaît chez le lecteur, en silence. Des paragraphes,
+donc — jusqu'à ce que la vue sache rendre le reste.
+
+**Pour le site :** il embarque `dist/` à la compilation ; les fiches denses
+arrivent au prochain déploiement, sans rien à changer chez lui.
+
+### 20 août 2026 — le relevé des noms propres avait trois trous
+
+**Source : le vault.** `marquer-les-noms-propres.py` annonçait « 0 marque à
+poser » alors que quatre-vingts occurrences étaient nues : il ne voyait le nom
+que par son niveau 3 capitalisé. Il a désormais une seconde source — le mot
+capitalisé collé au niveau 3 — et **il nomme ce qu'il écarte**, parce qu'un
+relevé muet sur ses refus se lit comme une couverture complète.
+
+**Deux arbitrages d'auteur reportés partout :** les gentilés sont des noms
+propres, sans exception ; **Nephilim** passe en intraduisible — l'or supplante
+le bordeaux — et sa fiche reste à écrire.
+
+**Pour l'app et le site : rien à changer.** La chaîne a été vérifiée de bout en
+bout — `pipeline/src/inline.rs:325` → `ONTTextRenderer.swift:242` →
+`ONTBibleWebapp/src/interface/design/verset.rs:135`.
