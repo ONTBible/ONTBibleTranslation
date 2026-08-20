@@ -86,4 +86,4 @@
 - *Veyenenu — "il n'était plus" (refus délibéré du refrain vayamot pour ==Khanokh== — le silence est l'information)*
 - *Prénoms hébreux : ==Qenan==, ==Mahalalel==, ==Yered==, ==Khanokh==, ==Metoushelach==, ==Lamekh==, ==Noach==, Shem, ==Cham==, ==Yaphet==*
 - *==Noach== — de nuach (repos fonctionnel) / yenachameinu — de nacham (consoler) : jeu de mots intraduisible noté en crochet*
-- *Bereshit 6 : commence avec *Bereshit* 6:1 — le passage des **Nephilim** est PRIORITÉ HAUTE, à traiter avec l'auteur avant d'écrire*
+- *Bereshit 6 : commence avec *Bereshit* 6:1 — le passage des **Nephilim** a été traité avec l'auteur, le chapitre est écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal maintenue, « géants » écarté (§2.5, §3.3)*
