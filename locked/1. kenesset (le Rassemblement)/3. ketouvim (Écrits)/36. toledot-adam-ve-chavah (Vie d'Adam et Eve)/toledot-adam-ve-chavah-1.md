@@ -5,7 +5,7 @@
 
 ## L'expulsion et le monde alourdi
 
-¹ Et il advint, au jour où **YHWH** **Elohim** (*YHWH Elohim* / יְהוָה אֱלֹהִים) renvoya Adam (*Adam* / אָדָם) *[du sol concret (*adamah* / אֲדָמָה) dont il fut façonné — l'être et le sol partagent la racine]* et Chavah (*Chavah* / חַוָּה) *[de *chayah* : vivre — la mère de tout vivant]* du Jardin (*gan* / גַּן) d'Eden (*eden* / עֵדֶן) *[région d'abondance, à l'orient — le domaine royal d'**Elohim** sur la Terre]*, qu'il établit à l'orient du Jardin les Kheruvim (*hakheruvim* / הַכְּרֻבִים) *[gardiens du seuil entre le domaine divin et le domaine humain]* et la flamme de l'épée tournoyante, pour garder le chemin de l'arbre de la Vie.
+¹ Et il advint, au jour où **YHWH** **Elohim** (*YHWH Elohim* / יְהוָה אֱלֹהִים) renvoya Adam (*Adam* / אָדָם) *[du sol concret (*adamah* / אֲדָמָה) dont il fut façonné — l'être et le sol partagent la racine]* et ==Chavah== (*Chavah* / חַוָּה) *[de *chayah* : vivre — la mère de tout vivant]* du Jardin (*gan* / גַּן) d'Eden (*eden* / עֵדֶן) *[région d'abondance, à l'orient — le domaine royal d'**Elohim** sur la Terre]*, qu'il établit à l'orient du Jardin les ==Kheruvim== (*hakheruvim* / הַכְּרֻבִים) *[gardiens du seuil entre le domaine divin et le domaine humain]* et la flamme de l'épée tournoyante, pour garder le chemin de l'arbre de la Vie.
 
 ² Et Adam et sa **ishah** (*ishah* / אִשָּׁה) *[celle qui fut édifiée pour lui faire face — « os de mes os » (*Bereshit* 2)]* se tinrent hors du Jardin, et la porte ne se rouvrit pas derrière eux.
 

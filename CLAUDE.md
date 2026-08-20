@@ -185,9 +185,43 @@ C'est le surlignage natif d'Obsidian : il se voit en écrivant, et il n'était e
 
 **Quand employer `==...==` :**
 
+- **tout nom propre, à chacune de ses occurrences** — voir la règle généralisée ci-dessous ;
 - un mot français que le texte nomme solennellement — `==« Jour »==`, `==« Nuit »==`, `==« Cieux »==` ;
-- un nom propre dont le verset explique l'étymologie — `==Chavah==`, `==Noach==`, `==Sarah==` (§4.12 interdit de les baliser comme intraduisibles) ;
 - une métadonnée d'apparat critique — `==premier emploi dans l'ONT==`, `==Candidat intraduisible==`.
+
+#### La règle des noms propres est généralisée — 19 août 2026
+
+Elle ne visait que « un nom propre dont le verset explique l'étymologie ». Elle
+vise maintenant **tout nom propre, partout, à toutes ses occurrences** — corps
+du texte **et** gloses.
+
+**Pourquoi.** Un lecteur qui arrive sans rien savoir ne distingue pas Mitsrayim
+d'un mot ordinaire, et le §4.12 lui refuse la forme française. Sans marque, le
+texte se lit comme une suite de mots opaques dont rien ne dit lesquels sont des
+personnes et des lieux. La couleur le lui dit sans traduire.
+
+**Rien à changer en aval.** Le pipeline lit déjà `==…==`, l'app le rend en
+bordeaux (`#862742` clair / `#D87994` sombre) et le site aussi. Le vault est le
+seul dépôt touché — c'est ce qui a fait retenir `==` plutôt qu'une quatrième
+marque à faire descendre dans trois dépôts.
+
+**La marche à suivre :** `./scripts/marquer-les-noms-propres.py`. Il relève les
+noms par leur niveau 3 capitalisé — donc il suit le §4.12 au lieu d'une liste
+tenue à la main —, saute les zones protégées (`**…**`, `(*…* / …)`, `==…==`
+déjà posés, titres, pied de version) et il est **idempotent** : à relancer après
+chaque chapitre écrit, sans réfléchir.
+
+**Deux noms lui échappent, et c'est délibéré.** `Shem` et `Adam` sont tantôt
+noms propres, tantôt intraduisibles — le fils de Noach et l'acte d'existence ;
+le personnage de *Toledot* et le générique de *Bereshit* 8+. La casse ne les
+sépare pas, et 126 occurrences nues mélangent les deux sens. Les marquer en
+masse donnerait du bordeaux à des intraduisibles, c'est-à-dire l'inverse de ce
+que la marque veut dire. **C'est un arbitrage verset par verset, réservé à
+l'auteur** ; le script les compte et le rappelle à chaque exécution.
+
+**Un effet à connaître.** Sur un chapitre patriarcal, « Avraham » paraît jusqu'à
+186 fois : la page devient très colorée. C'est un choix assumé — la lisibilité
+pour qui découvre passe avant la sobriété de la page.
 
 **Quand ne PAS l'employer :** pour un vrai terme hébreu. Celui-là mérite une entrée de glossaire (§2.5 / §3) et donc `**...**`. Le marquer `==...==` reviendrait à priver le lecteur de sa fiche.
 
