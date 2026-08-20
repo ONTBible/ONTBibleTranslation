@@ -161,14 +161,36 @@ jobs:
           echo "→ https://github.com/ONTBible/ONTBibleWebapp/actions/workflows/deployer.yml"
 
       # L'app reconstruit elle aussi le corpus depuis ce vault — elle clone
-      # `ONTBibleTranslation` et lance le pipeline avant de compiler. Une
-      # livraison TestFlight porte donc la correction jusqu'aux testeurs.
+      # `ONTBibleTranslation` et lance le pipeline avant de compiler.
       #
-      # L'App Store, lui, ne bouge pas : `testflight.yml` ne soumet à la revue
-      # que sur demande explicite.
+      # ## Ce que cette étape apporte encore, depuis que le corpus voyage
+      #
+      # Moins qu'avant, et il faut le dire. Le corpus **sort du bundle** : le
+      # déploiement du site ci-dessus publie `ontbible.com/corpus/`, et
+      # `CorpusUpdater` le sert aux apps **déjà installées** en quelques
+      # minutes. Une correction de verset atteint donc les lecteurs sans
+      # qu'aucun build ne soit lancé ici.
+      #
+      # Ce que ce build refait, c'est le corpus **embarqué** — celui qu'une
+      # installation neuve lit avant d'avoir vu le réseau. Il vaut d'être tenu
+      # à jour, mais il ne presse pas.
+      #
+      # `canal: interne` — jamais la revue de l'App Store, jamais le groupe
+      # externe. Une virgule corrigée dans un brouillon ne doit pas notifier
+      # des testeurs invités, et encore moins partir chez Apple.
+      #
+      # **Si le bruit devient gênant, supprimer cette étape** : la ligne
+      # au-dessus suffit à mettre les lecteurs à jour.
       - name: L'app
         env:
           GH_TOKEN: ${{ secrets.DECLENCHEUR }}
         run: |
-          gh workflow run testflight.yml --repo ONTBible/ONTBibleApp --ref main
-          echo "→ https://github.com/ONTBible/ONTBibleApp/actions/workflows/testflight.yml"
+          # `livraison.yml`, et non `testflight.yml` : le fichier a été renommé
+          # côté app, et ce nom-ci est resté. GitHub résolvait alors l'ancienne
+          # entrée — un fantôme de l'API — et refusait le déclenchement avec
+          # « Workflow does not have 'workflow_dispatch' trigger », qui ne
+          # nomme pas la vraie cause. Les propagations du 19 août ont échoué
+          # là-dessus, après avoir lancé le site : la correction partait en
+          # ligne, et le journal restait rouge.
+          gh workflow run livraison.yml --repo ONTBible/ONTBibleApp --ref main -f canal=interne
+          echo "→ https://github.com/ONTBible/ONTBibleApp/actions/workflows/livraison.yml"
