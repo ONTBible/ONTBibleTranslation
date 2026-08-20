@@ -159,6 +159,8 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**ha-satan**` — intraduisible : l'accusateur, la *fonction* d'accusation du Conseil Divin (הַשָּׂטָן). L'article « ha- » marque la fonction — jamais un nom propre ni un dieu rival. Traitement définitif à *Iyov*. Premier emploi *Toledot Adam ve-Chavah*.
 - `**tevilah**` — intraduisible : l'immersion de retour, passer par les eaux pour se retourner vers la source (טְבִילָה). Non « baptême » ni simple « bain ». Premier emploi *Toledot Adam ve-Chavah*.
 - `**merkavah**` — intraduisible : le trône-char de **YHWH** **Elohim** vu en vision (מֶרְכָּבָה). Non « chariot » ordinaire. Premier emploi en corps de texte : *Toledot Adam ve-Chavah*.
+- `**Nephilim**` — intraduisible : les êtres nés du franchissement des domaines (נְפִילִים). De *napal* (נָפַל) : tomber. **L'ambiguïté est maintenue** — ceux qui sont tombés, ceux qui font tomber, les êtres de la chute : le texte ne tranche pas, la traduction non plus. Jamais « géants » (la Septante a lu *gigantes*, et vingt siècles d'imagerie ont suivi ; le mot ne dit pas la taille). La majuscule est celle d'une catégorie d'êtres, non d'un peuple : c'est un pluriel sans singulier attesté dans le corpus. Premier emploi *Bereshit* 6:4.
+- `**gibbor**` / `**gibborim**` — intraduisible : le puissant, celui dont la force brute fait le poids (גִּבֹּר). De *gabar* (גָּבַר) : l'emporter, prévaloir. Non « héros » (catégorie grecque de l'excellence) ni « vaillant » (vertu morale) : le **gibbor** pèse par sa capacité de contrainte, jamais par la sagesse ni par la fidélité. Le corpus écrit aussi `**gibor**` — deux orthographes du même mot, les deux retombent sur cette entrée. Équivalent araméen : **gibbaraya**, qui donne son titre au *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4.
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
@@ -479,6 +481,8 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | בְּהֵמָה | *behemah* | grands quadrupèdes | Les animaux de l'espace proche de l'homme — domestiques et domesticables. |
 | רֶמֶשׂ | *remes* | rampants | De *ramas* — se mouvoir au ras du sol. |
 | חַיָּה | *chayah* | bêtes sauvages | La vitalité brute, la force animale non domestiquée. |
+| נְפִילִים | *nephilim* | **Nephilim** | Intraduisible. De *napal* (נָפַל) — tomber. Ceux qui sont tombés, ceux qui font tomber, ou les êtres de la chute : **l'ambiguïté est délibérément maintenue**, le texte ne tranche pas. Jamais « géants » — la Septante a lu *gigantes* et l'imagerie a suivi, mais le mot ne dit rien de la taille. Ce sont des êtres **sans identité fonctionnelle** : ni gardiens des Cieux ni serviteurs de la Terre, un poids déplacé entre les domaines que le franchissement de *Bereshit* 6:1-4 a produit. Leur écho traverse le corpus — les **gibborim** du même verset, les ==Refaim== de *Bereshit* 14, ==Nimrod== « inauguration du **gibbor** » en *Bereshit* 10:8, et tout le *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4. Laissé en hébreu. |
+| גִּבֹּר | *gibbor* | **gibbor** | Intraduisible. De *gabar* (גָּבַר) — l'emporter, prévaloir. Celui dont la force brute fait le poids dans l'ordre des hommes. Non « héros » (l'excellence grecque) ni « vaillant » (vertu morale) : le **gibbor** ne pèse ni par la sagesse ni par la fidélité, seulement par sa capacité de contrainte. Pluriel **gibborim** ; le corpus écrit aussi *gibor*. Équivalent araméen **gibbaraya**, titre du livre n° 37. *Bereshit* 6:4 les nomme *anshei ha-shem* — « les hommes du **Shem** » : leur renom est un **Shem** de démesure, non d'ordre, et c'est ce que le *Sefar Gibbaraya* retourne en plaçant ==Gilgamesh== parmi eux. Premier emploi *Bereshit* 6:4. Laissé en hébreu. |
 
 ### 3.4 Les formes verbales hébraïques (*binyanim*)
 
@@ -696,7 +700,6 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 
 ***Bereshit* 6-9** — Le déluge
 - *Berith* — l'alliance comme structure fonctionnelle
-- *Nephilim* — décision de traduction
 - La géographie fonctionnelle du déluge
 
 ***Bereshit* 12, 15, 17** — Avraham
@@ -825,7 +828,7 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 
 *Relevé par le pipeline de La Bible ONT (`/Users/gloiiire_/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
 
-### 13.1 Neuf termes balisés sans entrée de glossaire
+### 13.1 Six termes balisés sans entrée de glossaire
 
 Chacun est actuellement écrit `**...**`, donc **déclaré intraduisible** — mais absent du §3. Conséquence dans l'app : le mot s'affiche en or, le lecteur le touche, et il n'y a pas de fiche.
 
@@ -842,11 +845,16 @@ Pour chacun, **deux issues et deux seulement** :
 | `nashim` | 1 | *Bereshit* 6:2 | pluriel d'*ishah* |
 | `shiphchah` | 1 | *Bereshit* 16 | déjà discuté dans la note de Bereshit 16, jamais fixé au §3 |
 | `Tov vara` | 1 | *Bereshit* 2:6 | **tov** est au §3, *ra* non |
-| `gibborim` | 1 | *Sefar Gibbaraya* 8:2 | pluriel de `gibor` |
-| `gibor` | 1 | *Sefar Gibbaraya* 3:36 | singulier — une seule entrée pour les deux |
 | `shaliachim` | 2 | *Sefar Gibbaraya* intro | **le §2.5 donne `shlichim`** — deux orthographes du même mot dans le corpus |
 
 `tsadiqim` est le plus rentable : neuf occurrences, et le terme est déjà au glossaire au singulier.
+
+**Réglé le 20 août 2026 — `Nephilim`, `gibbor` / `gibborim` / `gibor`.** Issue A
+pour les trois : ce sont de vrais intraduisibles, désormais au §2.5 et au §3.3.
+*Nephilim* n'était pas dans cette liste — il était nu dans le texte, donc muet.
+La décision de traduction que le §6 gardait en priorité haute est prise, et elle
+ne fait qu'inscrire ce que la glose de *Bereshit* 6:4 tenait déjà : l'ambiguïté
+de *napal* est maintenue, et « géants » est écarté.
 
 ### 13.2 Vingt-deux marqueurs déséquilibrés
 
