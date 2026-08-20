@@ -25,3 +25,6 @@ utilities/SBL_Hbrw.ttf
 # Les fichiers restent en place, simplement plus suivis. L'historique, lui,
 # garde les versions déjà committées.
 af/
+
+# Le cache de bytecode Python du script de balisage.
+__pycache__/

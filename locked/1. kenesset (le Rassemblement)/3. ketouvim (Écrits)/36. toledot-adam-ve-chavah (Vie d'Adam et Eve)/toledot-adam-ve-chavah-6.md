@@ -5,7 +5,7 @@
 
 ## Le témoignage de Chavah
 
-¹ Quand ils furent revenus, et qu'Adam vit qu'il n'y avait pas de remède, Chavah se tint au milieu de ses enfants, et elle dit : « Écoutez-moi, mes enfants, et je vous dirai comment nous avons dévié, et ce que nous avons perdu — afin que vous le sachiez, et vos fils après vous.
+¹ Quand ils furent revenus, et qu'Adam vit qu'il n'y avait pas de remède, ==Chavah== se tint au milieu de ses enfants, et elle dit : « Écoutez-moi, mes enfants, et je vous dirai comment nous avons dévié, et ce que nous avons perdu — afin que vous le sachiez, et vos fils après vous.
 
 ² Aux jours du Jardin, votre père et moi étions revêtus de la **kavod** (*kavod* / כָּבוֹד) *[la densité, le poids fonctionnel d'existence — nous en étions revêtus comme d'un vêtement de lumière]*, et nous ne connaissions pas la nudité ; car il n'y avait entre nous et **YHWH** **Elohim** (*YHWH Elohim* / יְהוָה אֱלֹהִים) aucun écart, et nous marchions devant sa face sans nous détourner.
 
@@ -27,7 +27,7 @@
 
 ²² Alors **YHWH** **Elohim** réordonna nos vies : au serpent, de ramper ; à moi, la douleur (*itsavon* / עִצָּבוֹן) *[la douleur qui traverse désormais la génération et le travail]* dans l'enfantement ; à votre père, la sueur, et l'épine, et le retour au sol concret.
 
-²³ Et **YHWH** **Elohim** ne nous laissa pas nus comme nous l'étions devenus : il nous fit des enveloppes de peau (*kotnot or* / כָּתְנוֹת עוֹר) *[or : la peau, la dépouille — ce que le texte dit sans le commenter : qu'une créature dut mourir pour nous couvrir]*, et il nous en revêtit. ²⁴ Nous qui avions porté la **kavod** comme un vêtement, nous fûmes revêtus de la peau des bêtes ; et à ce vêtement même nous connûmes ce que nous avions perdu. ²⁵ Et il nous renvoya du Jardin, pour servir le sol concret d'où votre père avait été pris ; et il établit les Kheruvim pour garder le chemin de l'arbre de la Vie.
+²³ Et **YHWH** **Elohim** ne nous laissa pas nus comme nous l'étions devenus : il nous fit des enveloppes de peau (*kotnot or* / כָּתְנוֹת עוֹר) *[or : la peau, la dépouille — ce que le texte dit sans le commenter : qu'une créature dut mourir pour nous couvrir]*, et il nous en revêtit. ²⁴ Nous qui avions porté la **kavod** comme un vêtement, nous fûmes revêtus de la peau des bêtes ; et à ce vêtement même nous connûmes ce que nous avions perdu. ²⁵ Et il nous renvoya du Jardin, pour servir le sol concret d'où votre père avait été pris ; et il établit les ==Kheruvim== pour garder le chemin de l'arbre de la Vie.
 
 ²⁶ Voilà, mes enfants, pourquoi votre père retourne aujourd'hui au sol concret, et pourquoi la mort est entrée parmi nous. ²⁷ Ne dites pas dans vos cœurs : c'est **Elohim** qui a manqué envers nous. Car **Elohim** ne nous a pas retiré sa face ; c'est nous qui avons quitté l'ordre où nous étions **tov**, et qui avons voulu juger nous-mêmes ce que lui seul ordonne. »
 
