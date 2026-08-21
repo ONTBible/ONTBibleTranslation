@@ -62,11 +62,18 @@ on:
     # pas. C'est le seul endroit du projet où une valeur du pipeline est
     # recopiée, et c'est un compromis assumé — GitHub n'accepte pas de filtre
     # calculé. À vérifier au prochain dossier ajouté.
+    #
+    # C'est arrivé, le 20 août 2026. `lexique/` a été ajouté au pipeline
+    # (`config.rs`, constante `LEXIQUE`) et cette liste ne l'a pas su : une
+    # fiche corrigée seule ne partait pas en ligne. Le défaut n'a pas été vu
+    # tout de suite parce que les premières fiches arrivaient avec une
+    # modification de `CLAUDE.md`, qui déclenchait à leur place.
     paths:
       - "locked/**"
       - "brouillons/**"
       - "in-writing/**"
       - "CLAUDE.md"
+      - "lexique/**"
       - ".github/workflows/propager.yml"
   workflow_dispatch:
 
