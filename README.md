@@ -72,7 +72,7 @@ dans ce dialecte de markdown et pas dans un autre. Un parseur générique
 |---|---|---|
 | texte ordinaire | 1 | le corps de la traduction — ce que l'hébreu dit |
 | `**chesed**` | 1 | **intraduisible** — le mot n'est pas traduit, il est posé |
-| `==« Jour »==` | 1 | **terme important** — on insiste, on ne promet rien |
+| `==« Jour »==` | 1 | **accentuation** — on insiste, on ne promet rien |
 | `*[glose]*` | 2 | l'implicite hébreu rendu explicite — la voix du projet |
 | `(*chasdo* / חַסְדּוֹ)` | 3 | translittération **et** hébreu, toujours les deux |
 

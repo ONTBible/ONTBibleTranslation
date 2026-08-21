@@ -194,11 +194,11 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
-**`**...**` est EXCLUSIVEMENT réservé aux intraduisibles** — jamais pour l'emphase (mettre en valeur une phrase, un mot ordinaire ou un titre), **y compris dans les feuilles d'introduction et les notes** : le gras déclencherait à tort le style « Transliteration » d'Affinity au copier-coller, et l'app afficherait le mot en or, touchable, ouvrant une fiche de lexique vide. Pour l'emphase ordinaire, utiliser l'italique `*...*` ; pour un **terme important**, voir §2.5 bis.
+**`**...**` est EXCLUSIVEMENT réservé aux intraduisibles** — jamais pour l'emphase (mettre en valeur une phrase, un mot ordinaire ou un titre), **y compris dans les feuilles d'introduction et les notes** : le gras déclencherait à tort le style « Transliteration » d'Affinity au copier-coller, et l'app afficherait le mot en or, touchable, ouvrant une fiche de lexique vide. Pour l'emphase ordinaire, utiliser l'italique `*...*` ; pour une **accentuation**, voir §2.5 bis.
 
 **Polices hébraïques — dossier `utilities/`.** Les polices pour composer le script hébreu (niveau 3) et le rendre dans Affinity Publisher vivent dans `utilities/` à la racine du dépôt : **SBL Hebrew** (`SBL_Hbrw.ttf`) et **Ezra SIL** (`EzraSIL2.51/`) — hébreu biblique avec voyelles et cantillation (*te'amim*) ; **Taamey Frank CLM** (projet Culmus) — hébreu avec *te'amim* ; **Frank Ruhl Libre** — hébreu moderne (fonte variable + statiques). **Attention aux licences** : Ezra SIL et Frank Ruhl Libre sont sous OFL, donc redistribuables — ce sont les deux que La Bible ONT embarque. SBL Hebrew relève d'un EULA propriétaire et Taamey Frank CLM d'une GPL dont l'exception ne couvre que les documents composés, pas un binaire : ces deux-là restent réservées à la composition Affinity et ne doivent jamais entrer dans une app ni dans un site. Ce sont les **assets typographiques** du projet, suivis dans le dépôt pour la composition — non distribués au lecteur (cf. principe de distribution : seuls l'intro et les chapitres du slot voyagent).
 
-### 2.5 bis Marquage des termes importants — `==...==`
+### 2.5 bis Marquage des accentuations — `==...==`
 
 **Règle :** un mot qu'on veut mettre en relief **sans en faire un intraduisible** s'écrit `==mot==`.
 
@@ -902,7 +902,7 @@ Chacun est actuellement écrit `**...**`, donc **déclaré intraduisible** — m
 Pour chacun, **deux issues et deux seulement** :
 
 - **A —** c'est un vrai intraduisible : lui écrire une entrée au §2.5 et au §3, il garde `**...**` ;
-- **B —** ce n'est pas un intraduisible : le passer en `==...==` (§2.5 bis), il devient un *terme important*.
+- **B —** ce n'est pas un intraduisible : le passer en `==...==` (§2.5 bis), il devient une *accentuation*.
 
 | terme | occurrences | premier emploi | remarque |
 |---|---|---|---|
