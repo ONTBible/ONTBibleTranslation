@@ -8,7 +8,7 @@ le verset explique l'étymologie ». La règle est **généralisée** : tout nom
 propre porte la marque, à **toutes** ses occurrences, corps du texte et gloses
 comprises.
 
-Rien à changer en aval : le pipeline lit déjà `==…==` comme un terme important,
+Rien à changer en aval : le pipeline lit déjà `==…==` comme une accentuation,
 l'app le rend en bordeaux (`#862742` clair / `#D87994` sombre) et le site
 aussi. Le vault est le seul dépôt touché.
 
