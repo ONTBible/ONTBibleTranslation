@@ -24,9 +24,26 @@
 
 name: Éprouver
 
+# **Toute** pull request, et non les seules qui visent `main`.
+#
+# La restriction `branches: [main]` laisse passer une PR sans aucune
+# vérification : un travail qui dépend d'un autre encore en revue se base sur
+# **sa** branche, donc la PR ne vise pas `main` et le job ne s'arme pas. GitHub
+# affiche « no checks », et rien ne le signale — une absence de vérification ne
+# ressemble pas à un échec. On lit « aucune erreur » là où il faut lire « rien
+# n'a été essayé ».
+#
+# Le défaut a été trouvé dans le dépôt du site, où il avait laissé passer une
+# PR entière ; il était identique ici. Et le vault est le pire endroit pour
+# l'avoir : une unité mal formée qui arrive dans `main` par la base d'une autre
+# branche casse **deux** déploiements, dans deux dépôts, sous un message qui
+# parle de Rust plutôt que du verset en cause.
+#
+# Élargir ne coûte que quelques minutes de CI. Et ça n'ouvre rien : ce job n'a
+# ni secret ni droit, il construit le corpus dans son espace de travail et le
+# jette.
 on:
   pull_request:
-    branches: [main]
   workflow_dispatch:
 
 concurrency:
