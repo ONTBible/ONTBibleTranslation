@@ -69,6 +69,85 @@ jobs:
           repository: ONTBible/ONTBibleApp
           path: ONTBibleApp
 
+      # Ce que le pipeline lit, et ce que la propagation surveille.
+      #
+      # `propager.yml` filtre sur une liste de chemins recopiée à la main
+      # depuis les constantes du pipeline — `TREES`, `SKELETON`, `REFERENCE`,
+      # `LEXIQUE` de `pipeline/src/config.rs`. GitHub n'accepte pas de filtre
+      # calculé, donc la duplication est inévitable.
+      #
+      # Ce qui ne l'est pas, c'est qu'elle dérive en silence. **C'est arrivé le
+      # 20 août 2026** : `lexique/` a été ajouté au pipeline et la liste ne l'a
+      # pas su. Une fiche corrigée seule ne partait plus en ligne — et le
+      # défaut est resté invisible parce que les premières fiches arrivaient
+      # avec une modification de `CLAUDE.md`, qui déclenchait à leur place.
+      #
+      # Une valeur recopiée qu'aucun contrôle ne rapproche de sa source finit
+      # toujours par diverger. Ce pas la rapproche.
+      - name: La propagation suit ce que le pipeline lit
+        run: |
+          python3 - <<'CONTROLE'
+          import re, sys, pathlib
+
+          config = pathlib.Path("ONTBibleApp/pipeline/src/config.rs").read_text()
+          workflow = pathlib.Path(
+              "ONTBibleTranslation/.github/workflows/propager.yml"
+          ).read_text()
+
+          # Les dossiers du vault que le pipeline ouvre, tirés de ses constantes.
+          #
+          # `TREES` est ciblée par son nom, et non par la forme de ses tuples :
+          # `config.rs` en porte d'autres — les titres d'affichage des corpus
+          # et des modes — qu'un relevé par la forme ramasserait aussi. Le
+          # contrôle annoncerait alors « Kenesset » et « Torah » comme des
+          # dossiers manquants. Éprouvé avant d'être livré.
+          vault = pathlib.Path("ONTBibleTranslation")
+          lus = set()
+
+          trees = re.search(r"TREES[^=]*=\s*\[(.*?)\];", config, re.S)
+          if trees:
+              lus.update(re.findall(r'"[^"]+",\s*"([^"]+)"', trees.group(1)))
+
+          # Toute constante de chaîne dont la valeur **existe dans le vault**.
+          #
+          # Pas une liste de noms — `SKELETON`, `REFERENCE`, `LEXIQUE` — parce
+          # qu'une liste de noms est exactement le défaut qu'on corrige : elle
+          # ne connaîtrait pas la constante suivante. C'est le disque qui
+          # tranche, donc une constante ajoutée demain est vue sans que
+          # personne n'y pense.
+          for valeur in re.findall(r'pub const [A-Z_]+: &str = "([^"]+)"', config):
+              if (vault / valeur).exists():
+                  lus.add(valeur)
+
+          if not lus:
+              sys.exit("aucune constante relevée — le relevé est cassé, pas le filtre")
+
+          # Les chemins que la propagation surveille.
+          bloc = re.search(r'paths:\n((?:\s*-\s*"[^"]+"\n)+)', workflow)
+          if not bloc:
+              sys.exit("propager.yml n'a plus de bloc « paths »")
+          surveilles = set(re.findall(r'"([^"]+)"', bloc.group(1)))
+
+          def couvert(cible: str) -> bool:
+              return any(
+                  c == cible or c == f"{cible}/**" or c.rstrip("/*") == cible
+                  for c in surveilles
+              )
+
+          manquants = sorted(c for c in lus if not couvert(c))
+          if manquants:
+              print("::error::Le pipeline lit des chemins que la propagation ne surveille pas :")
+              for c in manquants:
+                  print(f"::error::  {c}")
+              print("::error::Une correction qui ne touche qu'eux ne partirait pas en ligne.")
+              print("::error::Ajouter ces chemins au bloc « paths » de propager.yml.")
+              sys.exit(1)
+
+          print(f"{len(lus)} chemins lus par le pipeline, tous surveillés :")
+          for c in sorted(lus):
+              print(f"  {c}")
+          CONTROLE
+
       - name: Rust
         run: rustup toolchain install stable --profile minimal
 
