@@ -383,6 +383,12 @@ lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
 | Esdras | *Ezra* | עֶזְרָא |
 | Néhémie | *Nehemyah* | נְחֶמְיָה |
 | Chroniques (1-2) | *Divrei Hayamim* | דִּבְרֵי הַיָּמִים |
+| Esdras-Néhémie | *Ezra Nehemyah* | עֶזְרָא נְחֶמְיָה |
+| Jubilés | *Yovelim* | יוֹבְלִים |
+| 1 Hénoch | *Khanokh* | חֲנוֹךְ |
+| Testament de Lévi | *Tsava'at Levi* | צַוָּאַת לֵוִי |
+| 2 Ezra | *Chazon Ezra* | חֲזוֹן עֶזְרָא |
+| Apocalypse de Baruch | *Chazon Barukh* | חֲזוֹן בָּרוּךְ |
 
 **Répertoire des noms — Besorot (Évangiles) :**
 | Nom français | Translittération ONT | Hébreu | Notes |
@@ -412,10 +418,10 @@ lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
 | Tite | *El Titos* | אֶל טִיטוֹס | Igerot de Shaul |
 | Philémon | *El Filemon* | אֶל פִּילֵמוֹן | Igerot de Shaul |
 | Hébreux | *Igeret HaIvrim* | אִגֶּרֶת הָעִבְרִים | Anonyme — ancrée dans *Vayiqra* |
-| Jacques | *Igeret Ya'aqov* | יַעֲקֹב | "talon / il supplante" |
-| 1-2 Pierre | *Igerot Kefa* | כֵּיפָא | Araméen : "roc" |
-| 1-3 Jean | *Igerot Yohanan* | יוֹחָנָן | |
-| Jude | *Igeret Yehudah* | יְהוּדָה | "celui qui est loué" |
+| Jacques | *Igeret Ya'aqov* | אִגֶּרֶת יַעֲקֹב | *Ya'aqov* (יַעֲקֹב) — "talon / il supplante" |
+| 1-2 Pierre | *Igeret Kefa* | אִגֶּרֶת כֵּיפָא | *Kefa* (כֵּיפָא) — araméen : "roc". Le rang se déduit : א׳, ב׳ |
+| 1-3 Jean | *Igeret Yohanan* | אִגֶּרֶת יוֹחָנָן | *Yohanan* (יוֹחָנָן). Le rang se déduit : א׳, ב׳, ג׳ |
+| Jude | *Igeret Yehudah* | אִגֶּרֶת יְהוּדָה | *Yehudah* (יְהוּדָה) — "celui qui est loué" |
 
 ### 2.7 La feuille d'introduction
 
