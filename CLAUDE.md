@@ -147,6 +147,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
 - `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
+- `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un **blanc** laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc **mille ans avant** les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
 - `**milah**`. Premier emploi *Bereshit* 17.
 - `**goy**` / `**goyim**` — forme construite : *goyei* → toujours **goyim**, jamais "nations"
