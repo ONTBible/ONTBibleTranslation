@@ -928,6 +928,25 @@ zéro ne dit pas que tout va bien, il dit que *ce qu'il comptait* est à zéro. 
 qu'il ne compte pas reste invisible, et l'aplomb du rapport ne distingue pas les
 deux. ==Lire la sortie construite, pas seulement le rapport qui la résume.==
 
+**Et ce n'est pas le même défaut que le « BUILD SUCCESSFUL » de l'entrée
+précédente — c'est un cran plus bas.** Là, la sortie survivait à une mesure qui
+n'avait pas eu lieu : il n'y avait rien derrière. Ici la mesure a bien eu lieu,
+les compteurs ont réellement compté, et ==le zéro était vrai==. C'est la
+*question* qui était à côté.
+
+La différence est pratique, pas philosophique : le premier cas se répare en
+**ajoutant une mesure**, le second ne se répare qu'en **changeant la question**.
+Aucune insistance sur la rigueur n'y mène — il fallait ouvrir la sortie et lire
+les formes une par une, c'est-à-dire faire à la main ce que le contrôle existe
+pour éviter.
+
+**La cause profonde a un nom, et elle ressortira ailleurs :** ==un langage qui
+n'a pas de citation ne peut pas distinguer *montrer* de *dire*.== Le §2.5 déclare
+ses formes entre accents graves ; il n'a donc aucun moyen d'écrire « voici à quoi
+ressemble une déclaration » sans écrire « ceci en est une ». Ce n'était pas une
+maladresse de rédaction mais une propriété du format, et tout document qui se
+lit lui-même comme configuration porte le même défaut.
+
 #### Le même motif, une fois de plus, sur le relevé qui ouvrait le chantier
 
 Le §13 annonçait « vingt-deux marqueurs déséquilibrés » dans les pieds de
