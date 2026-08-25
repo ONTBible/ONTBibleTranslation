@@ -121,7 +121,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Ruach**` / `**ruach**`
 - `**Nefesh**` / `**nefesh**`
 - `**Neshamah**` / `**neshamah**`
-- `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**`
+- `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
 - `**ish**` / `**Ish**` et formes dérivées : `**anashim**` (pluriel absolu), `**anshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
 - `**Shem**` quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
@@ -137,12 +137,13 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
 - `**mal'akh**` / `**mal'akhim**` — combiné : `**mal'akh** **YHWH**`. Premier emploi *Bereshit* 16:7.
 - `**shaliach**` / `**shlichim**`
+- `**shiphchah**` — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
 - `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
-- `**tsedaqah**`. Premier emploi *Bereshit* 15:6.
-- `**tsadiq**`. Premier emploi *Bereshit* 6:9.
+- `**tsedaqah**` — construit apparié : `**tsedaqah umishpat**`, le couple constitutif du droit divin (comme `**yirat YHWH**` sous **yirah**). Premier emploi *Bereshit* 15:6.
+- `**tsadiq**` / `**tsadiqim**`. Premier emploi *Bereshit* 6:9.
 - `**rasha**` / `**resha'im**`. Premier emploi *Bereshit* 18:23.
 - `**chesed**`. Premier emploi *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth*.
-- `**tov**` / `**tov me'od**`. Premier emploi *Bereshit* 1:4.
+- `**tov**` / `**tov me'od**` / `**tov vara**` / `**Tov vara**` — le construit de l'arbre (*etz hada'at tov vara*, *Bereshit* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Bereshit* 1:4.
 - `**ra**` / `**ra'at**` / `**ra'im**`. Premier emploi *Bereshit* 2:9.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
 - `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
@@ -554,6 +555,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מַלְאַךְ | *mal'akh* | mal'akh | Intraduisible. Non pas "ange" (catégorie grecque anachronique). L'envoyé-fonctionnaire de **YHWH** — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Ambiguïté délibérée du texte : le **mal'akh** **YHWH** parle parfois en son propre nom, parfois comme **YHWH** lui-même. Pluriel : **mal'akhim**. Forme combinée : **mal'akh** **YHWH**. Premier emploi en *Bereshit* 16:7. **Mal'akhim nommés** : quand un envoyé céleste porte un nom (Mikha'el — premier de l'ONT, *Toledot Adam ve-Chavah* ; Rafa'el — *Sefar Gibbaraya*), c'est un **nom propre** (sans gras, niveau 3 + glose à la première occurrence, §4.12), non un intraduisible — il garde la fonction de **mal'akh**. Tout nouvel être céleste nommé se décide avec l'auteur (règle des termes chargés). |
 | קָנָה | *qanah* | fonder et maîtriser | Double dimension inséparable dans l'hébreu antique : créer/fonder ET acquérir/posséder. *Qoneh shamayim va'arets* = "fondateur et maître des Cieux et de la Terre" — formule du dieu suprême dans les textes proche-orientaux. |
 | שָׁלִיחַ | *shaliach* | **shaliach** | Intraduisible. De *shalach* (שָׁלַח) — envoyer, mandater. L'envoyé-mandaté : celui qui porte l'autorité de celui qui l'envoie et agit en son nom. Équivalent hébreu exact du grec *apostolos* — jamais "apôtre" dans l'ONT. Le *shaliach* est défini par sa mission, pas par son statut. Pluriel : *shlichim* (שְׁלִיחִים). Même logique fonctionnelle que *mal'akh* : défini par l'envoi, pas par la nature. |
+| שִׁפְחָה | *shiphchah* | **shiphchah** | Intraduisible. La servante attachée à la sphère d'une **ishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shiphchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais **à qui l'on est attaché**. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Bereshit* 16:1. Laissée en hébreu. |
 | דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim ahadim*). |
 | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" — le terme latin réduit l'acte à sa dimension physique et perd la dimension covenantale de l'inscription. Premier emploi en *Bereshit* 17. |
 | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |

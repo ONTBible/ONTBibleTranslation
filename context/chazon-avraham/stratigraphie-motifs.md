@@ -289,7 +289,7 @@ Noter aussi : la structure du ch. 25 est celle de Yehezqel 8-11 — *l'abominati
 
 **Verdict : DISTORSION → ÉCARTÉE.** Retirée du corps, tenue en note d'apparat comme fait de transmission.
 
-**Et il faut dire pourquoi avec exactitude, car le motif du rejet n'est pas confessionnel.** L'ONT n'écarte pas un texte parce qu'il est chrétien — il inclut toute la *Berit Hadashah* (§1), et il tient les **shaliachim** de Yeshua pour des témoins corroborants (*Sefar Gibbaraya*, section *Échos*). Trois raisons, toutes internes :
+**Et il faut dire pourquoi avec exactitude, car le motif du rejet n'est pas confessionnel.** L'ONT n'écarte pas un texte parce qu'il est chrétien — il inclut toute la *Berit Hadashah* (§1), et il tient les **shlichim** de Yeshua pour des témoins corroborants (*Sefar Gibbaraya*, section *Échos*). Trois raisons, toutes internes :
 
 1. **C'est une greffe sur un témoin, pas une couche du texte.** Le livre est copié dans une compilation chrétienne (la *Paleja*) pendant mille ans ; le passage est le seul du livre qui n'ait aucune racine hébraïque et aucune attestation parallèle. Ce n'est pas une strate de composition, c'est une **addition de transmission** — le même statut que les ch. 1-2 et 15-16 de *Chazon Ezra*, que le CLAUDE.md §1 exclut déjà nommément pour la même raison.
 2. **Elle contredit la logique interne du livre.** Le ch. 22 vient d'assigner les deux lots ; faire sortir la figure décisive **du côté gauche**, celui des **goyim**, défait l'assignation que le livre entier construit. Une addition qui casse la structure de son hôte se signale d'elle-même.

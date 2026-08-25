@@ -70,9 +70,9 @@ Le fait décisif : *ce livre est attesté en araméen à Qumrân*. La reconstruc
 
 ## Échos dans la Berit Hadashah
 
-*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* Les **shaliachim** de Yeshua tenaient la tradition des **'irin** pour *réelle* : *Kefa* dit les envoyés qui ont dévié « livrés aux liens » dans l'attente du **mishpat** (2 Kefa 2:4) ; *Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » (Yehudah 6) — c'est mot pour mot la *sortie de garde* des **'irin** — et il *cite nommément Khanokh* (Yehudah 14-15). Là, la *Berit Hadashah* ne projette rien : elle *corrobore* que la transgression des gardiens est un réel recouvré, et que le courant hénochien portait une vérité, non une fable.
+*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* Les **shlichim** de Yeshua tenaient la tradition des **'irin** pour *réelle* : *Kefa* dit les envoyés qui ont dévié « livrés aux liens » dans l'attente du **mishpat** (2 Kefa 2:4) ; *Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » (Yehudah 6) — c'est mot pour mot la *sortie de garde* des **'irin** — et il *cite nommément Khanokh* (Yehudah 14-15). Là, la *Berit Hadashah* ne projette rien : elle *corrobore* que la transgression des gardiens est un réel recouvré, et que le courant hénochien portait une vérité, non une fable.
 
-De même, les esprits sans repos issus des **gibbaraya** (1 *==Khanokh==* 15-16 ; ce livre, ch. 8-9) sous-tendent le substrat que les *Besorot* présupposent quand Yeshua rencontre des esprits qui n'ont pas de lieu (*Marqus* 5:9-13). Ce sont des *résonances de corpus* : légitimes ici, dans l'introduction ; le corps, lui, parle depuis *les jours anciens*, non depuis les **shaliachim**.
+De même, les esprits sans repos issus des **gibbaraya** (1 *==Khanokh==* 15-16 ; ce livre, ch. 8-9) sous-tendent le substrat que les *Besorot* présupposent quand Yeshua rencontre des esprits qui n'ont pas de lieu (*Marqus* 5:9-13). Ce sont des *résonances de corpus* : légitimes ici, dans l'introduction ; le corps, lui, parle depuis *les jours anciens*, non depuis les **shlichim**.
 
 ## Plan
 
