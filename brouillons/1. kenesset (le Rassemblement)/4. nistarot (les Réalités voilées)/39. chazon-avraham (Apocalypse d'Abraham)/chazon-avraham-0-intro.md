@@ -136,7 +136,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 - **merkavah**, **mal'akh**, **mishpat**, **berith**, **goyim**, **tsedaqah**, **Shem** — *tous déjà posés*. Ce livre n'introduit ==aucun intraduisible neuf== : il réactive un vocabulaire acquis dans un registre nouveau.
 - *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ophanim* (les roues), *tardemah* (déjà posé, *Bereshit* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
 - Noms propres déjà dans le corpus : ==Avraham==, ==Terah==, Nachor, ==Haran== (*Bereshit* 11-12, verrouillés). Adam et ==Chavah== au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
-- *Fondations parallèles* : ***Bereshit* 15** avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 (==Terah==, *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Khanokh==* 8-10 ; *Yovelim* 11-12.
+- *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 (==Terah==, *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Khanokh==* 8-10 ; *Yovelim* 11-12.
 
 ## Sources à consulter
 
@@ -145,7 +145,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 - G. H. Box & J. I. Landsman, *The Apocalypse of Abraham* (1918) — première traduction anglaise de référence ; datée, mais elle a posé le dossier.
 - R. Rubinkiewicz, dans Charlesworth, *The Old Testament Pseudepigrapha*, vol. 1.
 - Andrei Orlov, travaux sur ==Yaho'el==, ==Azazel== et les traditions de la **merkavah**.
-- ***Yovelim* 11-12** — témoin du corpus ONT lui-même (n° 06), meilleur appui du premier versant.
+- ==*Yovelim* 11-12== — témoin du corpus ONT lui-même (n° 06), meilleur appui du premier versant.
 
 *Le dossier de filtrage motif par motif vit dans `context/chazon-avraham/stratigraphie-motifs.md` — seize motifs, le mapping complet, et les six décisions réservées à l'auteur.*
 

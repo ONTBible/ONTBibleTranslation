@@ -99,6 +99,10 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 
 **Exemple appliqué :** *Bereshit* 2:1-3 appartient fonctionnellement à la Fondation 1 (*Bereshit* 1) — c'est le couronnement du récit d'orchestration cosmique, pas le début d'un nouveau récit.
 
+**Le mot « chapitre » devient faux, et c'est pourquoi les liseuses offrent les deux registres.** Décision de l'auteur du 25 août 2026 : *quand une **parashah** ne recouvre pas les mêmes chapitres que les traductions habituelles, c'est « **parashah** » le mot juste.* Nommer « Chapitre 7 » une unité qui couvre *Bereshit* 7 et 8 n'est pas une approximation de confort — c'est un intitulé qui ment sur ce que le lecteur a sous les yeux, et qui l'enverra chercher dans sa Bible un découpage que l'ONT n'a pas.
+
+Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préférence de registre. C'est une **béquille** : « Chapitre » permet d'avancer avant de savoir, et cesse d'être exact dès que l'unité s'écarte du découpage reçu. La fiche `lexique/parashah.md` porte l'explication que le lecteur reçoit ; la présente règle porte celle qui engage le traducteur.
+
 ### 2.4 Formules fixes
 
 **Formule d'accomplissement :** "Et il advint, et demeura conformément à ce qui avait été formulé" (*vayehi khen* / וַיְהִי-כֵן)
@@ -139,7 +143,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**shaliach**` / `**shlichim**`
 - `**shiphchah**` — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
 - `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
-- `**tsedaqah**` — construit apparié : `**tsedaqah umishpat**`, le couple constitutif du droit divin (comme `**yirat YHWH**` sous **yirah**). Premier emploi *Bereshit* 15:6.
+- `**tsedaqah**` / `**tsedaqah umishpat**` — le construit apparié, couple constitutif du droit divin, déclaré ici comme **yirat YHWH** l'est sous **yirah**. Premier emploi *Bereshit* 15:6.
 - `**tsadiq**` / `**tsadiqim**`. Premier emploi *Bereshit* 6:9.
 - `**rasha**` / `**resha'im**`. Premier emploi *Bereshit* 18:23.
 - `**chesed**`. Premier emploi *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth*.
@@ -925,30 +929,29 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 
 ---
 
-## 13. CHANTIERS OUVERTS — À TRANCHER PAR L'AUTEUR
+## 13. CHANTIERS DE BALISAGE — CE QUI A ÉTÉ TRANCHÉ
 
 *Relevé par le pipeline de La Bible ONT (`/Users/gloiiire_/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
 
-### 13.1 Six termes balisés sans entrée de glossaire
+**Aucun chantier n'est ouvert au 25 août 2026.** Cette section garde ce qui a été tranché et pourquoi — y compris quand le relevé qui ouvrait le chantier s'est révélé faux. Quand le pipeline en signalera de nouveaux, les ajouter ici sous la même forme : le terme, l'issue, et ce que la décision a coûté ou révélé.
 
-Chacun est actuellement écrit `**...**`, donc **déclaré intraduisible** — mais absent du §3. Conséquence dans l'app : le mot s'affiche en or, le lecteur le touche, et il n'y a pas de fiche.
+### 13.1 Les sept termes — soldés le 25 août 2026
 
-Pour chacun, **deux issues et deux seulement** :
+Sept termes étaient écrits `**...**`, donc **déclarés intraduisibles**, sans entrée au §3 : dans l'app, le mot s'affichait en or, le lecteur le touchait, et il n'y avait pas de fiche. Les sept sont réglés.
 
-- **A —** c'est un vrai intraduisible : lui écrire une entrée au §2.5 et au §3, il garde `**...**` ;
-- **B —** ce n'est pas un intraduisible : le passer en `==...==` (§2.5 bis), il devient une *accentuation*.
+| terme | issue |
+|---|---|
+| `tsadiqim` | forme dérivée de **tsadiq** — rattachée à sa puce, retombe sur `lexique/tsadiq.md` |
+| `nashim` | forme dérivée d'**ishah** (pluriel absolu, à côté de `neshei`) |
+| `tsedaqah umishpat` | construit apparié, déclaré sous **tsedaqah** comme **yirat YHWH** sous **yirah** |
+| `Tov vara` | construit de l'arbre (*Bereshit* 2:9), déclaré sous **tov** — les deux graphies, il ouvre parfois la phrase |
+| `shaliachim` | **faute d'orthographe**, pas un arbitrage : le §2.5 fixe `shlichim`. Deux occurrences corrigées |
+| `chata'ah` | issue A, et elle a entraîné **toute la famille** : voir ci-dessous |
+| `shiphchah` | issue A — entrée au §2.5 et au §3.2, fiche écrite. Voir ci-dessous |
 
-| terme | occurrences | premier emploi | remarque |
-|---|---|---|---|
-| `tsadiqim` | 9 | *Bereshit* 18:24 | pluriel de **tsadiq**, déjà au §3 — sans doute une forme dérivée à rattacher |
-| `tsedaqah umishpat` | 1 | *Bereshit* 18:19 | construit de deux termes déjà au §3 |
-| `chata'ah` | 1 | *Bereshit* 18:20 | proche de *chattah* (Bereshit 4) |
-| `nashim` | 1 | *Bereshit* 6:2 | pluriel d'*ishah* |
-| `shiphchah` | 1 | *Bereshit* 16 | déjà discuté dans la note de Bereshit 16, jamais fixé au §3 |
-| `Tov vara` | 1 | *Bereshit* 2:6 | **tov** est au §3, *ra* non |
-| `shaliachim` | 2 | *Sefar Gibbaraya* intro | **le §2.5 donne `shlichim`** — deux orthographes du même mot dans le corpus |
+**La question posée sur `shiphchah` était incomplète, et il faut le noter.** Le §13 le donnait pour une occurrence isolée dans un titre. En ouvrant le chapitre, le pied verrouillé de *Bereshit* 16 portait la décision **inverse** — « traduit "servante" avec niveau 3 » — et le corps s'y tenait sur huit occurrences. Le titre contredisait son propre chapitre. L'auteur a maintenu l'intraduisible en connaissance de la reprise que cela demandait. *Un relevé qui compte les balises ne voit pas les décisions déjà prises autour d'elles.*
 
-`tsadiqim` est le plus rentable : neuf occurrences, et le terme est déjà au glossaire au singulier.
+**`chata'ah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattah* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chata** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
 
 **Réglé le 20 août 2026 — `Nephilim`, `gibbor` / `gibborim` / `gibor`.** Issue A
 pour les trois : ce sont de vrais intraduisibles, désormais au §2.5 et au §3.3.
@@ -957,9 +960,20 @@ La décision de traduction que le §6 gardait en priorité haute est prise, et e
 ne fait qu'inscrire ce que la glose de *Bereshit* 6:4 tenait déjà : l'ambiguïté
 de *napal* est maintenue, et « géants » est écarté.
 
-### 13.2 Vingt-deux marqueurs déséquilibrés
+### 13.2 Les « vingt-deux marqueurs déséquilibrés » n'existaient pas
 
-Des `**` ouverts sans être refermés, dans les pieds de page de *Bereshit* 15 à 19. Le pipeline les recolle silencieusement, mais le rendu Affinity et le rendu de l'app peuvent diverger. `dist/report.md` les localise à la ligne.
+Cette section annonçait vingt-deux `**` ouverts sans être refermés dans les pieds de *Bereshit* 15 à 19. **Le compte était faux, et la façon dont il l'était vaut mieux que le compte.**
+
+Il était relevé **par ligne**. Or un `**...**` enjambe légitimement un retour à la ligne : un paragraphe dont le gras s'ouvre à la fin d'une ligne et se ferme au début de la suivante donne deux lignes « impaires » et n'a aucun défaut. Mesuré **par paragraphe** — l'unité réelle du balisage —, il en restait ==deux==, non vingt-deux.
+
+Les deux étaient réels, et corrigés le 25 août :
+
+- *Bereshit* 16 — `**Avertissement : ` ouvrait un gras d'emphase jamais fermé, dans une puce déjà en italique. Le §2.5 interdit le gras d'insistance partout, notes comprises : passé en `==Avertissement==` ;
+- *Bereshit* 17 — ses huit puces s'écrivaient `***Terme*`, un gras ouvert autour d'une italique et jamais refermé, plus un `**arel*` malformé. Normalisées sur la convention de *Bereshit* 16 : tête de puce en `==...==`, la marque d'apparat du §2.5 bis.
+
+Le balayage a ensuite été repassé sur **tout** `locked/`, `brouillons/` et `in-writing/`, et non sur les seuls *Bereshit* 15-19 que cette section regardait : zéro paragraphe déséquilibré.
+
+**Ce qui reste instructif ici n'est pas le compte, c'est l'instrument.** Un relevé par ligne produit un nombre bien formé, aligné, crédible — et il mesurait autre chose que la question posée. C'est le motif que le journal de `SYNCHRONISATION.md` a nommé le même jour : *le format de sortie survit à l'absence de mesure*, et *un instrument se valide sur un cas dont on connaît la réponse, jamais sur celui qu'on étudie*.
 
 ### 13.3 Déjà fait — ne pas refaire
 
