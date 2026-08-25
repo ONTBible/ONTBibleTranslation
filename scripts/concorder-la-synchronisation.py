@@ -192,14 +192,19 @@ class Copie:
         return ", ".join(remarques) or f"origin/{self.branche}"
 
 
-def expliquer(reference: Copie, ecartee: Copie) -> None:
-    """Dire par les titres ce que l'empreinte a seulement signalé."""
-    a, b = titres(reference.foi), titres(ecartee.foi)
-    lignes_a, lignes_b = reference.foi.splitlines(), ecartee.foi.splitlines()
+def expliquer(temoin: Copie, ecartee: Copie) -> None:
+    """Dire par les titres ce que l'empreinte a seulement signalé.
+
+    Le premier argument est un **point de vue**, pas une autorité : quand les
+    dépôts divergent, il n'y a pas de référence, et l'écart doit bien se montrer
+    depuis quelque part. L'en-tête nomme les deux côtés pour cette raison.
+    """
+    a, b = titres(temoin.foi), titres(ecartee.foi)
+    lignes_a, lignes_b = temoin.foi.splitlines(), ecartee.foi.splitlines()
     seuls_ici = [t for t in b if t not in a]
     manquants = [t for t in a if t not in b]
 
-    print(f"  ── {ecartee.nom} vs {reference.nom}")
+    print(f"  ── {ecartee.nom} vs {temoin.nom}")
     if not seuls_ici and not manquants:
         # L'angle mort des titres, nommé plutôt que tu.
         ecart = len(lignes_b) - len(lignes_a)
@@ -213,6 +218,49 @@ def expliquer(reference: Copie, ecartee: Copie) -> None:
     for t in seuls_ici:
         print(f"     seul {ecartee.nom} porte :\n         {t}")
     print()
+
+
+def divergence(votants: list[Copie]) -> int:
+    """Les dépôts ne s'accordent pas : dire qui porte quoi, sans élire personne.
+
+    C'est le cas que le décompte majoritaire rendait faux. Pendant une **fenêtre
+    de propagation** — une entrée portée dans un dépôt et pas encore dans les
+    autres —, le dépôt en avance est minoritaire, donc la majorité est l'ancienne
+    version. Le rapport désignait alors le retard comme référence, et sa dernière
+    ligne proposait d'y figer la racine.
+
+    Le remède n'est pas un meilleur décompte : il n'y a **rien à décompter**. Un
+    contrôle qui ne peut pas trancher doit le dire, pas voter.
+    """
+    lots: dict[str, list[Copie]] = {}
+    for c in votants:
+        lots.setdefault(empreinte(c.foi), []).append(c)
+    # Le plus tenu d'abord, puis le nom : deux exécutions disent la même chose.
+    ordonnes = sorted(lots.values(), key=lambda g: (-len(g), g[0].nom))
+
+    print(f"\n{len(ordonnes)} versions chez les dépôts — ils divergent.")
+    print("**Aucune référence** : tant qu'ils diffèrent, aucun ne fait autorité.\n")
+    for lot in ordonnes:
+        print(
+            f"  {empreinte(lot[0].foi)}  {len(lot[0].foi.splitlines()):>4} lignes   "
+            f"{', '.join(c.nom for c in lot)}"
+        )
+    print()
+
+    # Un écart se montre depuis quelque part — mais ce point de vue n'élit rien.
+    # L'en-tête « X vs Y » nomme les deux côtés, et « seul X porte » se lit dans
+    # les deux sens.
+    temoin = ordonnes[0][0]
+    for lot in ordonnes[1:]:
+        expliquer(temoin, lot[0])
+
+    print("Porter ce qui manque dans chaque dépôt, par une branche et une PR.")
+    print("Jamais l'inverse : recopier depuis la racine impose son retard aux")
+    print("autres — c'est ce qui a effacé la section du worktree le 25 août.")
+    print()
+    print("La racine s'alignera quand les dépôts concorderont, pas avant :")
+    print("--aligner-la-racine refuse de s'exécuter tant qu'ils divergent.")
+    return 1
 
 
 def rapporter(copies: list[Copie]) -> int:
@@ -232,31 +280,24 @@ def rapporter(copies: list[Copie]) -> int:
         print(f"\nLes {len(copies)} exemplaires concordent.")
         return 0
 
-    # La référence est le contenu que portent le plus de copies **versionnées**.
-    # La racine ne pèse jamais : voir l'en-tête. À égalité, le nom tranche, pour
-    # que deux exécutions disent la même chose.
-    def poids(c: Copie) -> tuple[int, int, str]:
-        tenue = sum(1 for a in votants if empreinte(a.foi) == empreinte(c.foi))
-        return (tenue, 1 if c.depot else 0, c.nom)
-
-    reference = max(juges, key=poids)
-    if not reference.depot:
+    if not votants:
         print("\nAucune copie versionnée — rien qui fasse autorité.")
         return 1
 
-    versions = len({empreinte(c.foi) for c in juges})
-    print(f"\n{versions} versions différentes. Référence retenue : {reference.nom}.\n")
+    # **Les dépôts d'abord.** Tant qu'ils ne s'accordent pas entre eux, il n'y a
+    # pas de référence à retenir — et en nommer une quand même est déjà le
+    # mensonge, parce que la ligne rendue a l'apparence d'un verdict.
+    if len({empreinte(c.foi) for c in votants}) > 1:
+        return divergence(votants)
+
+    # Les dépôts concordent : leur contenu fait autorité, et l'écart restant est
+    # celui de la racine. C'est le cas nominal, le seul où aligner a un sens.
+    reference = votants[0]
+    print("\nLes dépôts concordent. Seule la racine s'écarte.\n")
     for c in juges:
         if empreinte(c.foi) != empreinte(reference.foi):
             expliquer(reference, c)
 
-    depots_ecartes = [
-        c for c in votants if empreinte(c.foi) != empreinte(reference.foi)
-    ]
-    if depots_ecartes:
-        print("Porter ce qui manque dans chaque dépôt, par une branche et une PR.")
-        print("Jamais l'inverse : recopier depuis la racine impose son retard aux")
-        print("autres — c'est ce qui a effacé la section du worktree le 25 août.")
     print(f"La racine s'aligne en dernier : --aligner-la-racine {reference.nom}")
     return 1
 
