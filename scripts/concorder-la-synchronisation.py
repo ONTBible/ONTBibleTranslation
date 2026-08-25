@@ -206,10 +206,34 @@ def expliquer(temoin: Copie, ecartee: Copie) -> None:
 
     print(f"  ── {ecartee.nom} vs {temoin.nom}")
     if not seuls_ici and not manquants:
-        # L'angle mort des titres, nommé plutôt que tu.
+        # Mêmes titres — mais « mêmes » de deux façons très différentes, et le
+        # contrôle disait la mauvaise. La comparaison ci-dessus est **ensembliste**
+        # (`t not in a`) : elle ne voit pas l'ordre. Deux copies portant les mêmes
+        # entrées de journal **dans un ordre différent** lui paraissaient donc
+        # avoir « un paragraphe réécrit », avec un écart de zéro ligne — un
+        # diagnostic faux, sur un écart réel.
+        #
+        # Le cas n'est pas théorique. Il se produit dès que deux PR portant
+        # chacune une entrée fusionnent dans un ordre différent selon les
+        # dépôts : chaque copie est en ordre d'insertion **chez elle**, et les
+        # trois divergent sans que personne n'ait rien écrit de travers.
+        if a != b:
+            print("     mêmes titres, **ordre différent** — aucune entrée n'est")
+            print("     perdue, elles ne se suivent pas dans le même ordre. C'est")
+            print("     ce qui arrive quand deux PR de journal fusionnent dans un")
+            print("     ordre différent d'un dépôt à l'autre : chacune est en")
+            print("     ordre d'insertion chez elle, et les copies divergent.")
+            for rang, (x, y) in enumerate(zip(a, b), 1):
+                if x != y:
+                    print(f"     à partir du {rang}ᵉ titre :")
+                    print(f"         {temoin.nom} → {x}")
+                    print(f"         {ecartee.nom} → {y}")
+                    break
+            print()
+            return
         ecart = len(lignes_b) - len(lignes_a)
-        print("     mêmes titres, texte différent — le changement est **dans** une")
-        print("     section, non dans leur liste : un paragraphe ajouté, retiré ou")
+        print("     mêmes titres, même ordre, texte différent — le changement est")
+        print("     **dans** une section : un paragraphe ajouté, retiré ou")
         print(f"     réécrit. ({ecart:+d} ligne{'s' if abs(ecart) > 1 else ''})")
         print()
         return
