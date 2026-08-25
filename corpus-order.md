@@ -140,27 +140,27 @@ Conteneur : `44. eduyot` (numéro de son premier livre).
 
 Structurées selon la fracture du **Ḥurban** (חורבן) — destruction du Second Temple (70 EC) — comme pivot herméneutique.
 
-### Igerot *lifnei haḤurban* — monde du Bayit vivant (49-61)
+### Igerot *lifnei ha-Ḥurban* — monde du Bayit vivant (49-61)
 
 Conteneur : `49. igerot-lifnei-hahurban`
 
 | # | Livre | Date approx. | Note |
 |---|---|---|---|
-| 49 | *El HaRomiyim* (Romains) | ~57 EC | |
-| 50 | *El HaQorintiyim alef* (1 Corinthiens) | ~54 EC | |
-| 51 | *El HaQorintiyim bet* (2 Corinthiens) | ~57 EC | |
-| 52 | *El HaGalatiyim* (Galates) | ~49-55 EC | |
-| 53 | *El HaEfesiyim* (Éphésiens) | ~60-62 EC | Authent. paulinienne probable ; deutéro-paulinienne ~80-90 EC possible — flaggé |
-| 54 | *El HaFilipiyim* (Philippiens) | ~60-62 EC | |
-| 55 | *El HaQolossiyim* (Colossiens) | ~60-62 EC | Même statut qu'Éphésiens — flaggé |
-| 56 | *El HaTessaloniqiyim alef* (1 Thessaloniciens) | ~50 EC | |
-| 57 | *El HaTessaloniqiyim bet* (2 Thessaloniciens) | ~51 EC | |
+| 49 | *El ha-Romiyim* (Romains) | ~57 EC | |
+| 50 | *El ha-Qorintiyim alef* (1 Corinthiens) | ~54 EC | |
+| 51 | *El ha-Qorintiyim bet* (2 Corinthiens) | ~57 EC | |
+| 52 | *El ha-Galatiyim* (Galates) | ~49-55 EC | |
+| 53 | *El ha-Efesiyim* (Éphésiens) | ~60-62 EC | Authent. paulinienne probable ; deutéro-paulinienne ~80-90 EC possible — flaggé |
+| 54 | *El ha-Filipiyim* (Philippiens) | ~60-62 EC | |
+| 55 | *El ha-Qolossiyim* (Colossiens) | ~60-62 EC | Même statut qu'Éphésiens — flaggé |
+| 56 | *El ha-Tessaloniqiyim alef* (1 Thessaloniciens) | ~50 EC | |
+| 57 | *El ha-Tessaloniqiyim bet* (2 Thessaloniciens) | ~51 EC | |
 | 58 | *El Filemon* (Philémon) | ~60-62 EC | |
 | 59 | *Igeret Ya'aqov* (Lettre de Ya'aqov) | ~45-62 EC | La plus hébraïque — sagesse fonctionnelle |
 | 60 | *Igeret Kefa alef* (1 Kefa) | ~60-64 EC | |
-| 61 | *Igeret HaIvrim* (Lettre aux Hébreux) | ~60-70 EC | **Dernier mot du Bayit vivant** — méditation sur le système lévitique en présent |
+| 61 | *Igeret ha-Ivrim* (Lettre aux Hébreux) | ~60-70 EC | **Dernier mot du Bayit vivant** — méditation sur le système lévitique en présent |
 
-### Igerot *aḥarei haḤurban* — monde post-destruction (62-69)
+### Igerot *aḥarei ha-Ḥurban* — monde post-destruction (62-69)
 
 Conteneur : `62. igerot-aharei-hahurban`
 
