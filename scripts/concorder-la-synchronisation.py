@@ -56,6 +56,23 @@ Seuls, les titres laisseraient passer deux copies aux mêmes sections et au text
 différent — une phrase de la règle réécrite d'un côté. Le contrôle le nomme
 quand il l'aperçoit, plutôt que de laisser croire que tout va bien.
 
+## Il balaie, il ne tient pas de liste — et c'est la seule façon d'être exhaustif
+
+Une liste en dur des trois dépôts paraît plus sûre. Elle ne l'est pas : elle
+manque **les worktrees**, et depuis qu'ils sont la règle il y en a toujours
+plusieurs. Une première version de ce contrôle, écrite ailleurs avec une liste
+de quatre chemins, annonçait « les trois dépôts concordent » à un moment où les
+deux pièges qu'on était en train de documenter n'existaient **que** dans des
+worktrees. Un contrôle qui rassure sur son angle mort est pire que pas de
+contrôle.
+
+Et le balayage n'est pas seulement plus large : il est **complet**. Le site
+dépend du pipeline de l'app par un chemin relatif — `../ONTBibleApp/pipeline` —,
+donc un worktree monté ailleurs ne compile pas : `cargo metadata` échoue avant
+tout le reste. Tout arbre de travail utilisable est donc, par construction, un
+voisin des autres sous `~/ONTBible/`. Ce que ce contrôle ne voit pas en balayant
+ce dossier n'existe pas.
+
 ## Ce qu'il lit
 
 Pour chaque dépôt, **deux états**, parce qu'ils ne répondent pas à la même
