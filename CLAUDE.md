@@ -335,6 +335,29 @@ lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
 
 **Format dans le corps du texte et les renvois :** *Bereshit* 7:2 — toujours la translittération
 
+**L'article défini s'écrit `ha-`, minuscule et lié.** *El ha-Qolossiyim*,
+*Igeret ha-Ivrim*, *Gevurot ha-Neviim*, *Bereshit ha-Yohanan*, *Ruach
+ha-Qodesh*, *ha-satan*, *benei ha-adam*. Jamais `Ha` collé en majuscule, jamais
+`ha` collé sans trait d'union.
+
+**Pourquoi la règle est écrite ici plutôt que sue.** Elle ne l'était pas, et le
+corpus a porté trois conventions à la fois jusqu'au 25 août 2026 : `ha-` partout
+où l'ONT forge un nom, `Ha` collé pour les seules *Igerot* — la forme même de
+*Ma'asim HaShlichim*, que le §2.6 cite pour la rejeter —, et `ha` collé pour les
+conteneurs du Ḥurban. Personne ne l'avait vu parce que chaque liste était
+cohérente avec elle-même.
+
+L'article n'est pas une partie du nom : c'est un morphème qui s'y attache. Le
+trait d'union le montre, la majuscule le déguise en syllabe. Et la minuscule
+tient l'ordre de lecture : le regard trouve d'abord *Qolossiyim*, le nom, et non
+un *HaQolossiyim* qui n'existe dans aucune langue.
+
+**La règle vaut pour les identifiants aussi** — dossiers, fichiers, slugs :
+`el-ha-qolossiyim`, `igeret-ha-ivrim`, `igerot-lifnei-ha-hurban`. Ce sont eux
+que les URL du site et les positions de lecture porteront ; les aligner coûtait
+un renommage tant que les livres étaient vides, et deviendra une rupture le jour
+où ils seront écrits.
+
 **Logique :** Le nom hébreu est le nom réel de la section. Le nom français (Genèse, Exode...) sert uniquement de repère pour que le lecteur occidental s'y retrouve dans sa Bible traditionnelle — il apparaît en sous-titre, jamais comme désignation principale.
 
 **Répertoire des noms hébraïques — Torah :**
@@ -408,17 +431,17 @@ lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
 **Répertoire des noms — Igerot (Lettres) :**
 | Nom français | Translittération ONT | Hébreu | Notes |
 |---|---|---|---|
-| Romains | *El HaRomiyim* | אֶל הָרוֹמִיִּים | Igerot de Shaul |
-| 1-2 Corinthiens | *El HaQorintiyim* | אֶל הַקּוֹרִינְתִּיִּים | Igerot de Shaul |
-| Galates | *El HaGalatiyim* | אֶל הַגָּלָטִיִּים | Igerot de Shaul |
-| Éphésiens | *El HaEfesiyim* | אֶל הָאֶפֶסִיִּים | Igerot de Shaul |
-| Philippiens | *El HaFilipiyim* | אֶל הַפִּילִיפִּיִּים | Igerot de Shaul |
-| Colossiens | *El HaQolossiyim* | אֶל הַקּוֹלוֹסִּיִּים | Igerot de Shaul |
-| 1-2 Thessaloniciens | *El HaTessaloniqiyim* | אֶל הַתֶּסָּלוֹנִיקִיִּים | Igerot de Shaul |
+| Romains | *El ha-Romiyim* | אֶל הָרוֹמִיִּים | Igerot de Shaul |
+| 1-2 Corinthiens | *El ha-Qorintiyim* | אֶל הַקּוֹרִינְתִּיִּים | Igerot de Shaul |
+| Galates | *El ha-Galatiyim* | אֶל הַגָּלָטִיִּים | Igerot de Shaul |
+| Éphésiens | *El ha-Efesiyim* | אֶל הָאֶפֶסִיִּים | Igerot de Shaul |
+| Philippiens | *El ha-Filipiyim* | אֶל הַפִּילִיפִּיִּים | Igerot de Shaul |
+| Colossiens | *El ha-Qolossiyim* | אֶל הַקּוֹלוֹסִּיִּים | Igerot de Shaul |
+| 1-2 Thessaloniciens | *El ha-Tessaloniqiyim* | אֶל הַתֶּסָּלוֹנִיקִיִּים | Igerot de Shaul |
 | 1-2 Timothée | *El Timotiyos* | אֶל טִימוֹתִיּוֹס | Igerot de Shaul |
 | Tite | *El Titos* | אֶל טִיטוֹס | Igerot de Shaul |
 | Philémon | *El Filemon* | אֶל פִּילֵמוֹן | Igerot de Shaul |
-| Hébreux | *Igeret HaIvrim* | אִגֶּרֶת הָעִבְרִים | Anonyme — ancrée dans *Vayiqra* |
+| Hébreux | *Igeret ha-Ivrim* | אִגֶּרֶת הָעִבְרִים | Anonyme — ancrée dans *Vayiqra* |
 | Jacques | *Igeret Ya'aqov* | אִגֶּרֶת יַעֲקֹב | *Ya'aqov* (יַעֲקֹב) — "talon / il supplante" |
 | 1-2 Pierre | *Igeret Kefa* | אִגֶּרֶת כֵּיפָא | *Kefa* (כֵּיפָא) — araméen : "roc". Le rang se déduit : א׳, ב׳ |
 | 1-3 Jean | *Igeret Yohanan* | אִגֶּרֶת יוֹחָנָן | *Yohanan* (יוֹחָנָן). Le rang se déduit : א׳, ב׳, ג׳ |
@@ -795,7 +818,7 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 **Les *Igerot* de Shaul** — *Tsedaqah* et *emunah*
 - Toutes les traductions existantes rendent *tsedaqah* par "justice" ou "justification" (catégorie grecque *dikaiosyne*) — l'ONT maintient **tsedaqah** intraduisible. Décision terminologique à confirmer systématiquement.
 
-***Igeret HaIvrim*** — Lettre aux Hébreux
+***Igeret ha-Ivrim*** — Lettre aux Hébreux
 - Entièrement construite sur le système de *Vayiqra* — ne pas traiter avant que *Vayiqra* soit fondé
 - *Kaphar* / *kippurim* — l'expiation fonctionnelle au centre de l'argumentation
 
