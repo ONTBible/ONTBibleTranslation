@@ -145,6 +145,8 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**chesed**`. Premier emploi *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth*.
 - `**tov**` / `**tov me'od**` / `**tov vara**` / `**Tov vara**` — le construit de l'arbre (*etz hada'at tov vara*, *Bereshit* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Bereshit* 1:4.
 - `**ra**` / `**ra'at**` / `**ra'im**`. Premier emploi *Bereshit* 2:9.
+- `**chata**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **ra** — **chata** est l'acte, **ra** est l'état. Premier emploi *Bereshit* 4:7.
+- `**chattah**` / `**chata'ah**` / `**chata'im**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
 - `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
@@ -461,7 +463,7 @@ Opérationnalise §2.1 : chaque terme du glossaire reçoit **un** use case — u
 | **UC0** | Noms divins — hébreu/gras, jamais traduits ; glose fondatrice une fois dans tout le corpus | généreux |
 | **UC1** | Intraduisible — le mot reste hébreu (gras) | 1re occ. |
 | **UC2** | Noyau *(traduit, hébreu persistant)* — *shamayim*/Cieux, *eretz*/Terre, *adamah*/sol concret… | **≥ 1×/chapitre** (régime b) |
-| **UC3** | Traduit standard *(le défaut)* — *chata*/dévier, *tselem*/représentant fonctionnel… | 1re occ., puis nu |
+| **UC3** | Traduit standard *(le défaut)* — *tselem*/représentant fonctionnel, *banah*/édifia… | 1re occ., puis nu |
 | **UC4** | Nom propre | 1re occ. + identification sur 5 occ. (§4.12) |
 | **UC5** | Glose seule — structure (mérisme, chiasme, ambiguïté, silence) | — |
 | **UC6** | Français simple — mot ordinaire hors glossaire | — |
@@ -496,7 +498,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מָשַׁל | *mashal* | gouverner | Gouvernance fonctionnelle sur un domaine temporel. |
 | עָבַד | *avad* | servir | Service sacerdotal — les lévites *avad* le Tabernacle, les prêtres *avad* le Temple. L'adam dans le Jardin est un prêtre, pas un agriculteur. |
 | בָּנָה | *banah* | édifia | Bâtir, construire — terme de l'architecte. Distinct de *yatsar* (potier). La femme est érigée comme on construit un temple ou une ville. |
-| חָטָא | *chata* | dévier | L'acte de déviation fonctionnelle — étymologiquement rater sa cible, manquer sa marque. Distinct de *ra* (état dysfonctionnel) : *chata* est l'acte, *ra* est l'état. |
+| חָטָא | *chata* | **chata** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chata** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **ra**, qui est l'état dysfonctionnel : **chata** est ==l'acte==, **ra** est ==l'état==. Les formes nominales suivent — **chattah**, **chata'ah**, **chata'im**. Laissé en hébreu. |
 
 ### 3.2 Noms et concepts fondamentaux
 
@@ -531,7 +533,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *mo'ed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
-| חַטָּאת | *chattah* | la déviation | Forme nominale de *chata* — l'acte de déviation lui-même, personnifié en *Bereshit* 4:7 comme une présence qui rôde. Jamais "le péché" (catégorie morale grecque). |
+| חַטָּאת | *chattah* | **chattah** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattah** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattah**, **chata'ah** (*Bereshit* 18:20), **chata'im** (le pluriel adjectival, *Bereshit* 13:13). Laissée en hébreu. |
 | מִנְחָה | *minchah* | tribut | Geste du vassal vers son suzerain — non pas encore un terme sacrificiel technique. Apporter un tribut c'est reconnaître une autorité supérieure. |
 | אָרוּר | *arur* | frappé de dysfonctionnement | Opposé de *barakh* (doter) — non pas l'absence de dotation, mais sa perversion. La dotation demeure mais devient dysfonctionnelle. Le serpent continue de se mouvoir, l'adamah continue de produire, Qayin continue de vivre : mais tout cela est atteint dans sa fonction. |
 | קַלֵּל | *qallel* | retirer de sa kavod | De *qalal* — alléger, réduire le poids fonctionnel. Non pas supprimer totalement : l'adamah conserve de la kavod après *Bereshit* 3, elle fonctionne encore. *Qallel* allège — il ne vide pas. Opposé exact de *barakh* (doter, alourdir de capacité). Première occurrence *Bereshit* 8:21 — YHWH promet de ne plus en retirer davantage. |
