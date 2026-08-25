@@ -37,7 +37,10 @@ D'où deux conséquences, qui sont l'essentiel de ce fichier :
   contre deux dépôts à jour, puis désigne le contenu périmé comme référence.
   C'est exactement l'erreur qu'un premier relevé a commise le 25 août ;
 - **elle s'aligne en dernier**, depuis un dépôt nommé — `--aligner-la-racine`.
-  Le sens est dans l'argument, il ne se devine plus.
+  Le sens est dans l'argument, il ne se devine plus. Et la commande **refuse de
+  s'exécuter** tant que les dépôts ne concordent pas entre eux : tant qu'ils
+  diffèrent, aucun ne fait autorité, et aligner sur l'un reviendrait à trancher
+  entre eux par un vote — ce que la majorité fait mal pendant une propagation.
 
 ## L'octet décide, les titres expliquent
 
@@ -297,6 +300,37 @@ def main() -> int:
         if source is None:
             connus = ", ".join(c.nom for c in copies if c.vote)
             print(f"✗  « {voulue} » n'est pas un dépôt lisible. Au choix : {connus}")
+            return 1
+
+        # **On refuse d'aligner tant que les dépôts ne s'accordent pas entre
+        # eux.** Ce n'est pas une prudence, c'est un refus.
+        #
+        # Le décompte majoritaire est juste contre une racine périmée, et faux
+        # pendant une **fenêtre de propagation** : le dépôt qui vient de
+        # recevoir une entrée est minoritaire à un contre deux, et la majorité
+        # est alors l'ancienne version. Le rapport désignait donc le retard
+        # comme référence, et suggérait de figer la racine dessus.
+        #
+        # Il s'en expliquait en dessous, en listant qui porte quoi. Mais une
+        # note qui annule une commande n'est lue que par ceux qui n'en avaient
+        # pas besoin : le cas à couvrir est celui où l'on copie la ligne
+        # suggérée sans descendre plus bas.
+        #
+        # La parade n'est donc pas un meilleur décompte — c'est un instrument
+        # qui **refuse de répondre à une question qu'il ne peut pas trancher**.
+        votants = [c for c in copies if c.vote]
+        if len({empreinte(c.foi) for c in votants}) > 1:
+            print("✗  Les dépôts ne concordent pas encore entre eux — rien n'est aligné.")
+            print()
+            for c in votants:
+                print(f"     {c.nom:<22} {empreinte(c.foi)}  {len(c.foi.splitlines()):>4} lignes")
+            print()
+            print("   La racine s'aligne **en dernier**, sur un état déjà établi. Tant")
+            print("   qu'ils diffèrent, aucun d'eux ne fait autorité : l'aligner sur")
+            print("   l'un reviendrait à trancher entre eux par un vote, et c'est")
+            print("   exactement ce que la majorité fait mal pendant une propagation.")
+            print()
+            print("   Porter ce qui manque dans chaque dépôt, puis relancer.")
             return 1
         (base / FICHIER).write_text(source.foi, encoding="utf-8")
         print(
