@@ -66,12 +66,16 @@ deux pièges qu'on était en train de documenter n'existaient **que** dans des
 worktrees. Un contrôle qui rassure sur son angle mort est pire que pas de
 contrôle.
 
-Et le balayage n'est pas seulement plus large : il est **complet**. Le site
-dépend du pipeline de l'app par un chemin relatif — `../ONTBibleApp/pipeline` —,
-donc un worktree monté ailleurs ne compile pas : `cargo metadata` échoue avant
-tout le reste. Tout arbre de travail utilisable est donc, par construction, un
-voisin des autres sous `~/ONTBible/`. Ce que ce contrôle ne voit pas en balayant
-ce dossier n'existe pas.
+Et le balayage n'est pas seulement plus large : il est **complet**, et ça se
+démontre. Le site dépend du pipeline de l'app par un chemin relatif —
+`../ONTBibleApp/pipeline` —, donc un worktree monté hors de `~/ONTBible/` ne
+compile pas : `cargo metadata` échoue avant tout le reste. Tout arbre de travail
+utilisable est donc, par construction, un voisin des autres sous ce dossier.
+
+D'où la propriété, qui n'est plus une heuristique : **ce que le balayage ne voit
+pas ne compile pas, donc n'existe pas comme exemplaire de travail**. Un worktree
+posé ailleurs n'est pas un exemplaire qu'on rate — c'est un exemplaire dont
+personne ne peut se servir.
 
 ## Ce qu'il lit
 
