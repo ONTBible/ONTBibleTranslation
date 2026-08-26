@@ -99,6 +99,10 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 
 **Exemple appliqué :** *Bereshit* 2:1-3 appartient fonctionnellement à la Fondation 1 (*Bereshit* 1) — c'est le couronnement du récit d'orchestration cosmique, pas le début d'un nouveau récit.
 
+**Le mot « chapitre » devient faux, et c'est pourquoi les liseuses offrent les deux registres.** Décision de l'auteur du 25 août 2026 : *quand une **parashah** ne recouvre pas les mêmes chapitres que les traductions habituelles, c'est « **parashah** » le mot juste.* Nommer « Chapitre 7 » une unité qui couvre *Bereshit* 7 et 8 n'est pas une approximation de confort — c'est un intitulé qui ment sur ce que le lecteur a sous les yeux, et qui l'enverra chercher dans sa Bible un découpage que l'ONT n'a pas.
+
+Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préférence de registre. C'est une **béquille** : « Chapitre » permet d'avancer avant de savoir, et cesse d'être exact dès que l'unité s'écarte du découpage reçu. La fiche `lexique/parashah.md` porte l'explication que le lecteur reçoit ; la présente règle porte celle qui engage le traducteur.
+
 ### 2.4 Formules fixes
 
 **Formule d'accomplissement :** "Et il advint, et demeura conformément à ce qui avait été formulé" (*vayehi khen* / וַיְהִי-כֵן)
@@ -121,7 +125,7 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Ruach**` / `**ruach**`
 - `**Nefesh**` / `**nefesh**`
 - `**Neshamah**` / `**neshamah**`
-- `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**`
+- `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
 - `**ish**` / `**Ish**` et formes dérivées : `**anashim**` (pluriel absolu), `**anshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
 - `**Shem**` quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
@@ -137,13 +141,16 @@ Les chapitres de l'ONT sont des **unités fonctionnelles** — un bloc se clôt 
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
 - `**mal'akh**` / `**mal'akhim**` — combiné : `**mal'akh** **YHWH**`. Premier emploi *Bereshit* 16:7.
 - `**shaliach**` / `**shlichim**`
+- `**shiphchah**` — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
 - `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
-- `**tsedaqah**`. Premier emploi *Bereshit* 15:6.
-- `**tsadiq**`. Premier emploi *Bereshit* 6:9.
+- `**tsedaqah**` / `**tsedaqah umishpat**` — le construit apparié, couple constitutif du droit divin, déclaré ici comme **yirat YHWH** l'est sous **yirah**. Premier emploi *Bereshit* 15:6.
+- `**tsadiq**` / `**tsadiqim**`. Premier emploi *Bereshit* 6:9.
 - `**rasha**` / `**resha'im**`. Premier emploi *Bereshit* 18:23.
 - `**chesed**`. Premier emploi *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth*.
-- `**tov**` / `**tov me'od**`. Premier emploi *Bereshit* 1:4.
+- `**tov**` / `**tov me'od**` / `**tov vara**` / `**Tov vara**` — le construit de l'arbre (*etz hada'at tov vara*, *Bereshit* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Bereshit* 1:4.
 - `**ra**` / `**ra'at**` / `**ra'im**`. Premier emploi *Bereshit* 2:9.
+- `**chata**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **ra** — **chata** est l'acte, **ra** est l'état. Premier emploi *Bereshit* 4:7.
+- `**chattah**` / `**chata'ah**` / `**chata'im**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
 - `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
@@ -460,7 +467,7 @@ Opérationnalise §2.1 : chaque terme du glossaire reçoit **un** use case — u
 | **UC0** | Noms divins — hébreu/gras, jamais traduits ; glose fondatrice une fois dans tout le corpus | généreux |
 | **UC1** | Intraduisible — le mot reste hébreu (gras) | 1re occ. |
 | **UC2** | Noyau *(traduit, hébreu persistant)* — *shamayim*/Cieux, *eretz*/Terre, *adamah*/sol concret… | **≥ 1×/chapitre** (régime b) |
-| **UC3** | Traduit standard *(le défaut)* — *chata*/dévier, *tselem*/représentant fonctionnel… | 1re occ., puis nu |
+| **UC3** | Traduit standard *(le défaut)* — *tselem*/représentant fonctionnel, *banah*/édifia… | 1re occ., puis nu |
 | **UC4** | Nom propre | 1re occ. + identification sur 5 occ. (§4.12) |
 | **UC5** | Glose seule — structure (mérisme, chiasme, ambiguïté, silence) | — |
 | **UC6** | Français simple — mot ordinaire hors glossaire | — |
@@ -495,7 +502,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מָשַׁל | *mashal* | gouverner | Gouvernance fonctionnelle sur un domaine temporel. |
 | עָבַד | *avad* | servir | Service sacerdotal — les lévites *avad* le Tabernacle, les prêtres *avad* le Temple. L'adam dans le Jardin est un prêtre, pas un agriculteur. |
 | בָּנָה | *banah* | édifia | Bâtir, construire — terme de l'architecte. Distinct de *yatsar* (potier). La femme est érigée comme on construit un temple ou une ville. |
-| חָטָא | *chata* | dévier | L'acte de déviation fonctionnelle — étymologiquement rater sa cible, manquer sa marque. Distinct de *ra* (état dysfonctionnel) : *chata* est l'acte, *ra* est l'état. |
+| חָטָא | *chata* | **chata** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chata** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **ra**, qui est l'état dysfonctionnel : **chata** est ==l'acte==, **ra** est ==l'état==. Les formes nominales suivent — **chattah**, **chata'ah**, **chata'im**. Laissé en hébreu. |
 
 ### 3.2 Noms et concepts fondamentaux
 
@@ -530,7 +537,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *mo'ed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
-| חַטָּאת | *chattah* | la déviation | Forme nominale de *chata* — l'acte de déviation lui-même, personnifié en *Bereshit* 4:7 comme une présence qui rôde. Jamais "le péché" (catégorie morale grecque). |
+| חַטָּאת | *chattah* | **chattah** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattah** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattah**, **chata'ah** (*Bereshit* 18:20), **chata'im** (le pluriel adjectival, *Bereshit* 13:13). Laissée en hébreu. |
 | מִנְחָה | *minchah* | tribut | Geste du vassal vers son suzerain — non pas encore un terme sacrificiel technique. Apporter un tribut c'est reconnaître une autorité supérieure. |
 | אָרוּר | *arur* | frappé de dysfonctionnement | Opposé de *barakh* (doter) — non pas l'absence de dotation, mais sa perversion. La dotation demeure mais devient dysfonctionnelle. Le serpent continue de se mouvoir, l'adamah continue de produire, Qayin continue de vivre : mais tout cela est atteint dans sa fonction. |
 | קַלֵּל | *qallel* | retirer de sa kavod | De *qalal* — alléger, réduire le poids fonctionnel. Non pas supprimer totalement : l'adamah conserve de la kavod après *Bereshit* 3, elle fonctionne encore. *Qallel* allège — il ne vide pas. Opposé exact de *barakh* (doter, alourdir de capacité). Première occurrence *Bereshit* 8:21 — YHWH promet de ne plus en retirer davantage. |
@@ -554,6 +561,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מַלְאַךְ | *mal'akh* | mal'akh | Intraduisible. Non pas "ange" (catégorie grecque anachronique). L'envoyé-fonctionnaire de **YHWH** — de la racine *la'akh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Ambiguïté délibérée du texte : le **mal'akh** **YHWH** parle parfois en son propre nom, parfois comme **YHWH** lui-même. Pluriel : **mal'akhim**. Forme combinée : **mal'akh** **YHWH**. Premier emploi en *Bereshit* 16:7. **Mal'akhim nommés** : quand un envoyé céleste porte un nom (Mikha'el — premier de l'ONT, *Toledot Adam ve-Chavah* ; Rafa'el — *Sefar Gibbaraya*), c'est un **nom propre** (sans gras, niveau 3 + glose à la première occurrence, §4.12), non un intraduisible — il garde la fonction de **mal'akh**. Tout nouvel être céleste nommé se décide avec l'auteur (règle des termes chargés). |
 | קָנָה | *qanah* | fonder et maîtriser | Double dimension inséparable dans l'hébreu antique : créer/fonder ET acquérir/posséder. *Qoneh shamayim va'arets* = "fondateur et maître des Cieux et de la Terre" — formule du dieu suprême dans les textes proche-orientaux. |
 | שָׁלִיחַ | *shaliach* | **shaliach** | Intraduisible. De *shalach* (שָׁלַח) — envoyer, mandater. L'envoyé-mandaté : celui qui porte l'autorité de celui qui l'envoie et agit en son nom. Équivalent hébreu exact du grec *apostolos* — jamais "apôtre" dans l'ONT. Le *shaliach* est défini par sa mission, pas par son statut. Pluriel : *shlichim* (שְׁלִיחִים). Même logique fonctionnelle que *mal'akh* : défini par l'envoi, pas par la nature. |
+| שִׁפְחָה | *shiphchah* | **shiphchah** | Intraduisible. La servante attachée à la sphère d'une **ishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shiphchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais **à qui l'on est attaché**. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Bereshit* 16:1. Laissée en hébreu. |
 | דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim ahadim*). |
 | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" — le terme latin réduit l'acte à sa dimension physique et perd la dimension covenantale de l'inscription. Premier emploi en *Bereshit* 17. |
 | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
@@ -921,30 +929,29 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 
 ---
 
-## 13. CHANTIERS OUVERTS — À TRANCHER PAR L'AUTEUR
+## 13. CHANTIERS DE BALISAGE — CE QUI A ÉTÉ TRANCHÉ
 
 *Relevé par le pipeline de La Bible ONT (`/Users/gloiiire_/ONTBible/ONTBibleApp`), qui contrôle à chaque construction que tout `**terme**` a bien son entrée de glossaire. Le rapport complet vit dans `dist/report.md` de ce dépôt.*
 
-### 13.1 Six termes balisés sans entrée de glossaire
+**Aucun chantier n'est ouvert au 25 août 2026.** Cette section garde ce qui a été tranché et pourquoi — y compris quand le relevé qui ouvrait le chantier s'est révélé faux. Quand le pipeline en signalera de nouveaux, les ajouter ici sous la même forme : le terme, l'issue, et ce que la décision a coûté ou révélé.
 
-Chacun est actuellement écrit `**...**`, donc **déclaré intraduisible** — mais absent du §3. Conséquence dans l'app : le mot s'affiche en or, le lecteur le touche, et il n'y a pas de fiche.
+### 13.1 Les sept termes — soldés le 25 août 2026
 
-Pour chacun, **deux issues et deux seulement** :
+Sept termes étaient écrits `**...**`, donc **déclarés intraduisibles**, sans entrée au §3 : dans l'app, le mot s'affichait en or, le lecteur le touchait, et il n'y avait pas de fiche. Les sept sont réglés.
 
-- **A —** c'est un vrai intraduisible : lui écrire une entrée au §2.5 et au §3, il garde `**...**` ;
-- **B —** ce n'est pas un intraduisible : le passer en `==...==` (§2.5 bis), il devient une *accentuation*.
+| terme | issue |
+|---|---|
+| `tsadiqim` | forme dérivée de **tsadiq** — rattachée à sa puce, retombe sur `lexique/tsadiq.md` |
+| `nashim` | forme dérivée d'**ishah** (pluriel absolu, à côté de `neshei`) |
+| `tsedaqah umishpat` | construit apparié, déclaré sous **tsedaqah** comme **yirat YHWH** sous **yirah** |
+| `Tov vara` | construit de l'arbre (*Bereshit* 2:9), déclaré sous **tov** — les deux graphies, il ouvre parfois la phrase |
+| `shaliachim` | **faute d'orthographe**, pas un arbitrage : le §2.5 fixe `shlichim`. Deux occurrences corrigées |
+| `chata'ah` | issue A, et elle a entraîné **toute la famille** : voir ci-dessous |
+| `shiphchah` | issue A — entrée au §2.5 et au §3.2, fiche écrite. Voir ci-dessous |
 
-| terme | occurrences | premier emploi | remarque |
-|---|---|---|---|
-| `tsadiqim` | 9 | *Bereshit* 18:24 | pluriel de **tsadiq**, déjà au §3 — sans doute une forme dérivée à rattacher |
-| `tsedaqah umishpat` | 1 | *Bereshit* 18:19 | construit de deux termes déjà au §3 |
-| `chata'ah` | 1 | *Bereshit* 18:20 | proche de *chattah* (Bereshit 4) |
-| `nashim` | 1 | *Bereshit* 6:2 | pluriel d'*ishah* |
-| `shiphchah` | 1 | *Bereshit* 16 | déjà discuté dans la note de Bereshit 16, jamais fixé au §3 |
-| `Tov vara` | 1 | *Bereshit* 2:6 | **tov** est au §3, *ra* non |
-| `shaliachim` | 2 | *Sefar Gibbaraya* intro | **le §2.5 donne `shlichim`** — deux orthographes du même mot dans le corpus |
+**La question posée sur `shiphchah` était incomplète, et il faut le noter.** Le §13 le donnait pour une occurrence isolée dans un titre. En ouvrant le chapitre, le pied verrouillé de *Bereshit* 16 portait la décision **inverse** — « traduit "servante" avec niveau 3 » — et le corps s'y tenait sur huit occurrences. Le titre contredisait son propre chapitre. L'auteur a maintenu l'intraduisible en connaissance de la reprise que cela demandait. *Un relevé qui compte les balises ne voit pas les décisions déjà prises autour d'elles.*
 
-`tsadiqim` est le plus rentable : neuf occurrences, et le terme est déjà au glossaire au singulier.
+**`chata'ah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattah* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chata** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
 
 **Réglé le 20 août 2026 — `Nephilim`, `gibbor` / `gibborim` / `gibor`.** Issue A
 pour les trois : ce sont de vrais intraduisibles, désormais au §2.5 et au §3.3.
@@ -953,9 +960,20 @@ La décision de traduction que le §6 gardait en priorité haute est prise, et e
 ne fait qu'inscrire ce que la glose de *Bereshit* 6:4 tenait déjà : l'ambiguïté
 de *napal* est maintenue, et « géants » est écarté.
 
-### 13.2 Vingt-deux marqueurs déséquilibrés
+### 13.2 Les « vingt-deux marqueurs déséquilibrés » n'existaient pas
 
-Des `**` ouverts sans être refermés, dans les pieds de page de *Bereshit* 15 à 19. Le pipeline les recolle silencieusement, mais le rendu Affinity et le rendu de l'app peuvent diverger. `dist/report.md` les localise à la ligne.
+Cette section annonçait vingt-deux `**` ouverts sans être refermés dans les pieds de *Bereshit* 15 à 19. **Le compte était faux, et la façon dont il l'était vaut mieux que le compte.**
+
+Il était relevé **par ligne**. Or un `**...**` enjambe légitimement un retour à la ligne : un paragraphe dont le gras s'ouvre à la fin d'une ligne et se ferme au début de la suivante donne deux lignes « impaires » et n'a aucun défaut. Mesuré **par paragraphe** — l'unité réelle du balisage —, il en restait ==deux==, non vingt-deux.
+
+Les deux étaient réels, et corrigés le 25 août :
+
+- *Bereshit* 16 — `**Avertissement : ` ouvrait un gras d'emphase jamais fermé, dans une puce déjà en italique. Le §2.5 interdit le gras d'insistance partout, notes comprises : passé en `==Avertissement==` ;
+- *Bereshit* 17 — ses huit puces s'écrivaient `***Terme*`, un gras ouvert autour d'une italique et jamais refermé, plus un `**arel*` malformé. Normalisées sur la convention de *Bereshit* 16 : tête de puce en `==...==`, la marque d'apparat du §2.5 bis.
+
+Le balayage a ensuite été repassé sur **tout** `locked/`, `brouillons/` et `in-writing/`, et non sur les seuls *Bereshit* 15-19 que cette section regardait : zéro paragraphe déséquilibré.
+
+**Ce qui reste instructif ici n'est pas le compte, c'est l'instrument.** Un relevé par ligne produit un nombre bien formé, aligné, crédible — et il mesurait autre chose que la question posée. C'est le motif que le journal de `SYNCHRONISATION.md` a nommé le même jour : *le format de sortie survit à l'absence de mesure*, et *un instrument se valide sur un cas dont on connaît la réponse, jamais sur celui qu'on étudie*.
 
 ### 13.3 Déjà fait — ne pas refaire
 
