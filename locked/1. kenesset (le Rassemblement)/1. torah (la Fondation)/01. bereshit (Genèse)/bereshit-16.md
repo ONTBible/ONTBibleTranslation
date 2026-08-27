@@ -47,8 +47,8 @@
 
 *Bereshit 16 — Version 1.0 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 16 :*
-- ***mal'akh* (מַלְאַךְ) — intraduisible. L'envoyé-fonctionnaire de **YHWH** — non pas "ange". Ambiguïté délibérée entre le **mal'akh** et **YHWH** lui-même maintenue tout au long du récit. Forme combinée : **mal'akh** **YHWH**. Premier emploi dans l'ONT*
-- ***El Roï* (אֵל רֳאִי) — intraduisible. "El qui me voit", "El de la vision". Nom divin unique dans toute la Bible — donné par ==Hagar==. Premier emploi dans l'ONT*
+- ***mal'akh** (מַלְאַךְ) — intraduisible. L'envoyé-fonctionnaire de **YHWH** — non pas "ange". Ambiguïté délibérée entre le **mal'akh** et **YHWH** lui-même maintenue tout au long du récit. Forme combinée : **mal'akh** **YHWH**. Premier emploi dans l'ONT*
+- ***El Roï** (אֵל רֳאִי) — intraduisible. "El qui me voit", "El de la vision". Nom divin unique dans toute la Bible — donné par ==Hagar==. Premier emploi dans l'ONT*
 - *==Beer-lachai-roi== (בְּאֵר לַחַי רֹאִי) — "le puits du Vivant qui me voit". Porte le **Shem** de la rencontre avec **El Roï***
 - *==Ishma'el== (יִשְׁמָעֵאל) — "El entend". **Shem** théophore construit sur *shama* (entendre). Premier emploi dans l'ONT*
 - *==Shiphchah== (שִׁפְחָה) — intraduisible. La servante attachée à la sphère d'une **ishah**, qui peut être donnée en **ishah** seconde pour engendrer au nom de la maîtresse. Distincte de l'*amah*, servante d'un **ish**. « Servante » nomme un emploi ; la **shiphchah** est une position dans une maison, et c'est cette position que le récit met en mouvement. Décision révisée le 25 août 2026 — le chapitre la traduisait, son titre la balisait : le §2.5 et le §3.2 tranchent pour l'hébreu*
