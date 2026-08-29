@@ -21,9 +21,9 @@
 
 ### Notes philologiques
 
-- Le décret détaillé dépend surtout de 1 *==Khanokh==* 10, présupposé par le Livre des Géants.
+- Le décret détaillé dépend surtout de 1 *==Chanokh==* 10, présupposé par le Livre des Géants.
 - ==Azazel== et ==Shemikhazah== sont intégrés par cohérence avec le cycle des **'irin**.
-- Les esprits des **gibbaraya** viennent surtout de 1 *==Khanokh==* 15-16.
+- Les esprits des **gibbaraya** viennent surtout de 1 *==Chanokh==* 15-16.
 
 ### Notes ontologiques
 
@@ -33,8 +33,8 @@
 
 ### Parallèles bibliques éventuels
 
-- 1 *==Khanokh==* 10 : jugement des **'irin** et destruction des **gibbaraya**.
-- 1 *==Khanokh==* 15-16 : origine des esprits mauvais.
+- 1 *==Chanokh==* 10 : jugement des **'irin** et destruction des **gibbaraya**.
+- 1 *==Chanokh==* 15-16 : origine des esprits mauvais.
 - *Bereshit* 6:13 : fin de toute chair violente.
 
 ---

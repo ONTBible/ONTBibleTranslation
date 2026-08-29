@@ -108,7 +108,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 
 | # | Livre | Ancrage narratif | Note |
 |---|---|---|---|
-| 38 | *1 Khanokh* (1 Hénoch) | Antédiluvien — 7e génération d'Adam | Architecture céleste, calendrier cosmique, Fils de l'Homme |
+| 38 | *1 Chanokh* (1 Hénoch) | Antédiluvien — 7e génération d'Adam | Architecture céleste, calendrier cosmique, Fils de l'Homme |
 | 39 | *Chazon Avraham* (Apocalypse d'Abraham) | Patriarcal (~2000 av. EC) | Ascension et vision du Conseil divin |
 | 40 | *Tsava'at Lévi* (Testament de Lévi araméen de Qumrân) | Patriarcal — fils de Ya'aqov | **Placement provisoire** — voir note ci-dessous |
 | 41 | *Daniel* | Exil babylonien (~600-535 av. EC) | Porte narrative (ch. 1-6) puis visions (ch. 7-12) |

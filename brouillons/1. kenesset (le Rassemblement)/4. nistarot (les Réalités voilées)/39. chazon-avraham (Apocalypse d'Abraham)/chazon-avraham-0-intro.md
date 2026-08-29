@@ -76,7 +76,7 @@ Le livre a deux versants, et une charnière nette.
 | *L'échelle du discernement* | on ne prouve pas El, on discerne qui assigne les fonctions | *Bereshit* 1:14-18 (démythologisation des luminaires) |
 | Le sacrifice comme véhicule | la **berith** des morceaux n'est pas le cadre du livre : elle en est l'armature | *Bereshit* 15 (verrouillé) |
 | ==Yaho'el==, le **mal'akh** qui porte le **Shem** | l'envoyé en qui le Nom habite — sa fonction *est* son **Shem** | *Shemot* 23:20-21 ; *Bereshit* 16 (ambiguïté déjà maintenue) |
-| *==Azazel==, l'oiseau impur* | le rapace anonyme de *Bereshit* 15:11, identifié ; défini par son lot, non par une nature | *Bereshit* 15:11 ; 1 *==Khanokh==* 8-10 ; *Vayiqra* 16 |
+| *==Azazel==, l'oiseau impur* | le rapace anonyme de *Bereshit* 15:11, identifié ; défini par son lot, non par une nature | *Bereshit* 15:11 ; 1 *==Chanokh==* 8-10 ; *Vayiqra* 16 |
 | Le vêtement échangé | la **kavod** est un vêtement fonctionnel : ce qu'on quitte, un autre le reçoit | *Toledot* (kavod d'Adam) ; 1QS 4:22-23 ; CD 3:20 |
 | *Les oiseaux non divisés* | la Torah dit qu'il ne les divisa pas, sans dire pourquoi — ici ils portent | *Bereshit* 15:10 |
 | Le chant à la place de la prosternation | le support du geste ayant disparu, la fonction migre vers la voix | *Yeshayahu* 6:3 ; 4Q400-407 (Cantiques du sabbat) |
@@ -136,7 +136,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 - **merkavah**, **mal'akh**, **mishpat**, **berith**, **goyim**, **tsedaqah**, **Shem** — *tous déjà posés*. Ce livre n'introduit ==aucun intraduisible neuf== : il réactive un vocabulaire acquis dans un registre nouveau.
 - *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ophanim* (les roues), *tardemah* (déjà posé, *Bereshit* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
 - Noms propres déjà dans le corpus : ==Avraham==, ==Terah==, Nachor, ==Haran== (*Bereshit* 11-12, verrouillés). Adam et ==Chavah== au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
-- *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 (==Terah==, *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Khanokh==* 8-10 ; *Yovelim* 11-12.
+- *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 (==Terah==, *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Chanokh==* 8-10 ; *Yovelim* 11-12.
 
 ## Sources à consulter
 
