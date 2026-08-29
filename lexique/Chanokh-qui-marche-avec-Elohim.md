@@ -50,6 +50,18 @@ Ce n'est donc pas une fraude, et il faut le dire clairement pour ne pas lire ces
 
 Que la tradition hénochienne ait été *courante* dans le judaïsme du Second Temple, et centrale à Qumrân, dit le reste : il n'était pas une curiosité marginale. Il était ==l'autorité de son époque sur ce que le regard ordinaire ne traverse pas==.
 
+## Ce que la Berit Hadashah en fait
+
+Il y a un fait que le corpus relève et qui pèse lourd : ==les **shlichim** de Yeshua tenaient cette tradition pour réelle==.
+
+*Igeret Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » — c'est ==mot pour mot la sortie de garde des **'irin**==. Et quelques versets plus loin, il ==cite nommément Chanokh== et sa prophétie.
+
+Ce n'est pas une allusion littéraire. Une lettre de la *Berit Hadashah* cite comme **davar** prophétique un texte du courant hénochien, et son auteur suppose que ses lecteurs le connaissent.
+
+Il faut lire ce que ça produit dans le bon sens, et le vault le formule ainsi : la *Berit Hadashah* ==ne projette rien — elle corrobore==. Elle atteste que la transgression des gardiens est un réel recouvré, et que le courant hénochien portait ==une vérité, non une fable==.
+
+C'est pourquoi ce **Shem** ne se lit pas comme celui d'un personnage secondaire de généalogie. Depuis *Bereshit* 5 jusqu'aux *Igerot*, en passant par le *Sefar Gibbaraya* et tout le cycle qui porte son nom, il est ==l'autorité de l'ère d'avant le **mabbul** sur ce que le regard ordinaire ne traverse pas==.
+
 ## Voir aussi
 
 Le même **Shem**, porté par un autre : [[Chanokh-fils-de-Qayin]] — le fils du banni, dont le père donne le nom à la première ville du monde. Le corpus relève lui-même les deux ==Chanokh== dans les deux lignées, et en tire que *l'humanité reste une, même divisée*.
@@ -59,3 +71,5 @@ Sa lignée : [[Metoushelach]] son fils, qui vivra plus longtemps que quiconque, 
 Le verbe qu'il inaugure : *halakh* reviendra pour [[Noach]], qui *cheminait* aussi avec **Elohim**, et Avraham s'entendra dire de cheminer devant **El Shaddai**. Ils sont trois, et il est le premier.
 
 Le monde où il exerce : les **'irin**, les **gibbaraya**, ==Shemikhazah==, ==Mahaway==, et le **mabbul** qu'il annonce.
+
+Ce qui reste à écrire : le livre de *Chanokh* lui-même (n° 38 du corpus) et l'*Igeret Yehudah* qui le cite. Cette fiche s'enrichira quand ils seront là — elle repose aujourd'hui sur ce que les livres déjà écrits en disent.

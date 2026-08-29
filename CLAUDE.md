@@ -636,6 +636,29 @@ nom veut dire, qui le porte et quelle fonction il tient, ce que le récit fait d
 son sens, et — pour un lieu — où il se trouve et ce qu'il pèse dans le monde du
 texte. Jamais l'article d'encyclopédie : la scène, comme partout ailleurs.
 
+#### Une fiche de Shem n'est jamais finie
+
+**Quand un livre est écrit, il faut repasser sur les fiches de ses Shemot.**
+C'est un chantier récurrent, pas une passe unique, et il faut l'inscrire ici
+parce que rien d'autre ne le rappellera.
+
+La raison est dans la nature de la couche. Une fiche d'intraduisible porte un
+mot, et un mot ne change pas quand le corpus grandit. Une fiche de **Shem**
+porte ==une personne ou un lieu==, et une personne gagne un rôle chaque fois
+qu'un nouveau livre la fait paraître.
+
+Le cas de ==Chanokh== le montre. Sa fiche repose aujourd'hui sur quatre livres :
+*Bereshit* 5 lui donne six versets, le *Sefar Gibbaraya* le montre en fonction —
+scribe, médiateur, celui qui prononce le décret —, et l'intro de ce même livre
+relève que l'*Igeret Yehudah* le ==cite nommément==. Le jour où 1 *Chanokh*
+(n° 38) et l'*Igeret Yehudah* (n° 68) seront écrits, la fiche devra être reprise :
+le personnage n'aura pas changé, mais ce que le corpus en dit, oui.
+
+**D'où la règle d'écriture :** une fiche de **Shem** se termine en disant ==sur
+quoi elle repose et ce qui reste à venir==. Elle ne prétend pas être complète —
+elle déclare son assise. Un lecteur qui la touche dans deux ans doit pouvoir
+voir qu'elle a été reprise, et pourquoi.
+
 #### Ce que la couche ne prend pas
 
 - **Les homographes restent à l'auteur.** `Shem` le fils de Noach est un
