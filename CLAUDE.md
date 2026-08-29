@@ -635,6 +635,19 @@ faible du site==.
 Il emploie donc `#BA8C6C` — même teinte à 24,4°, même saturation, clarté
 relevée de 47,1 % à 57,6 % : 6,51:1 sur sa nuit, 6,04:1 sur sa surface.
 
+**Et l'app l'a rejoint, par sa propre mesure.** Le relevé du site l'a fait
+regarder le bon chiffre : `#AA7550` tenait AA à 4,66 sur son thème sombre, et
+==aurait été le marquage le plus faible de ses thèmes sombres==, quand son or y
+donne 9,80 et son bordeaux 6,15. Or son `ONTColors.swift` écrit du bordeaux
+qu'il a été remonté à *« 6,1:1 — au-delà du seuil AA »*. ==Le projet s'est donc
+donné un standard plus haut qu'AA, écrit nulle part et tenu partout.==
+
+Le Shem s'y range : `#BA8C6C` des deux côtés, 6,12 sur sombre et 6,51 sur
+mystique — à hauteur du bordeaux. Les deux dépôts ont convergé sur la même
+valeur ==sans se la copier==, chacun l'ayant dérivée de son propre fond. C'est ce
+que la règle prédisait, et le fait qu'ils tombent au même endroit ne la contredit
+pas : ==leurs fonds sombres se ressemblent, leurs fonds clairs non==.
+
 Ce n'est pas une divergence à réduire, c'est ==la bonne façon de faire==. Le
 précédent existe déjà avec `mystique`, dont le site est la référence et l'app la
 transposition. Ce qui doit être commun est ==la teinte et le nom de la couche== ;
