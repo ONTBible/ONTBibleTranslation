@@ -220,48 +220,45 @@ C'est le surlignage natif d'Obsidian : il se voit en écrivant, et il n'était e
 |---|---|---|
 | texte nu | encre | non |
 | `==mot==` | **bordeaux clair `#862742`**, semi-gras | non |
+| `[[Nom]]` | **terre brûlée `#603518`**, semi-gras — §2.10 | **oui** → fiche de **Shem** |
 | `**mot**` | **or**, semi-gras | **oui** → fiche de lexique |
 | `*mot*` | italique | non |
 
 **Quand employer `==...==` :**
 
-- **tout nom propre, à chacune de ses occurrences** — voir la règle généralisée ci-dessous ;
+- ~~tout nom propre~~ — **plus depuis le 29 août 2026** : les noms propres relèvent du §2.10, la couche des **Shemot**, et s'écrivent `[[Nom]]` ;
 - un mot français que le texte nomme solennellement — `==« Jour »==`, `==« Nuit »==`, `==« Cieux »==` ;
 - une métadonnée d'apparat critique — `==premier emploi dans l'ONT==`, `==Candidat intraduisible==`.
 
-#### La règle des noms propres est généralisée — 19 août 2026
+#### Les noms propres ont quitté cette marque — 29 août 2026
 
-Elle ne visait que « un nom propre dont le verset explique l'étymologie ». Elle
-vise maintenant **tout nom propre, partout, à toutes ses occurrences** — corps
-du texte **et** gloses.
+**Ils relèvent désormais du §2.10**, la couche des **Shemot**, et s'écrivent
+`[[Nom]]` en terre brûlée. Ce qui suit est l'histoire de la règle, gardée parce
+qu'elle explique pourquoi la couche existe.
 
-**Pourquoi.** Un lecteur qui arrive sans rien savoir ne distingue pas Mitsrayim
-d'un mot ordinaire, et le §4.12 lui refuse la forme française. Sans marque, le
-texte se lit comme une suite de mots opaques dont rien ne dit lesquels sont des
-personnes et des lieux. La couleur le lui dit sans traduire.
+Le 19 août, la règle avait été généralisée : de « un nom propre dont le verset
+explique l'étymologie » à **tout nom propre, partout, à toutes ses
+occurrences**. Le motif tenait : un lecteur qui arrive sans rien savoir ne
+distingue pas Mitsrayim d'un mot ordinaire, et le §4.12 lui refuse la forme
+française. Sans marque, le texte se lit comme une suite de mots opaques dont
+rien ne dit lesquels sont des personnes et des lieux.
 
-**Rien à changer en aval.** Le pipeline lit déjà `==…==`, l'app le rend en
-bordeaux (`#862742` clair / `#D87994` sombre) et le site aussi. Le vault est le
-seul dépôt touché — c'est ce qui a fait retenir `==` plutôt qu'une quatrième
-marque à faire descendre dans trois dépôts.
+**Ce qui manquait, et que le 29 août a corrigé.** La couleur disait « ceci est
+une personne, un lieu » — et s'arrêtait là. Le lecteur voyait qu'il y avait
+quelque chose, sans pouvoir l'atteindre. Or un **Shem** *porte* : ==Avraham==
+est « père d'une multitude », ==Peleg== le partage. La marque signalait un sens
+sans jamais le donner.
 
-**La marche à suivre :** `./scripts/marquer-les-noms-propres.py`. Il relève les
-noms par leur niveau 3 capitalisé — donc il suit le §4.12 au lieu d'une liste
-tenue à la main —, saute les zones protégées (`**…**`, `(*…* / …)`, `==…==`
-déjà posés, titres, pied de version) et il est **idempotent** : à relancer après
-chaque chapitre écrit, sans réfléchir.
+**Deux noms lui échappaient, et ils échappent encore à la nouvelle couche.**
+`Shem` et `Adam` sont tantôt noms propres, tantôt intraduisibles — le fils de
+Noach et l'acte d'existence ; le personnage de *Toledot* et le générique de
+*Bereshit* 8+. La casse ne les sépare pas. C'est un arbitrage verset par verset,
+réservé à l'auteur.
 
-**Deux noms lui échappent, et c'est délibéré.** `Shem` et `Adam` sont tantôt
-noms propres, tantôt intraduisibles — le fils de Noach et l'acte d'existence ;
-le personnage de *Toledot* et le générique de *Bereshit* 8+. La casse ne les
-sépare pas, et 126 occurrences nues mélangent les deux sens. Les marquer en
-masse donnerait du bordeaux à des intraduisibles, c'est-à-dire l'inverse de ce
-que la marque veut dire. **C'est un arbitrage verset par verset, réservé à
-l'auteur** ; le script les compte et le rappelle à chaque exécution.
-
-**Un effet à connaître.** Sur un chapitre patriarcal, « Avraham » paraît jusqu'à
-186 fois : la page devient très colorée. C'est un choix assumé — la lisibilité
-pour qui découvre passe avant la sobriété de la page.
+**Un effet à connaître, qui vaut pour la couche des Shemot.** Sur un chapitre
+patriarcal, « Avraham » paraît jusqu'à 186 fois : la page devient très colorée.
+C'est un choix assumé — la lisibilité pour qui découvre passe avant la sobriété
+de la page.
 
 **Quand ne PAS l'employer :** pour un vrai terme hébreu. Celui-là mérite une entrée de glossaire (§2.5 / §3) et donc `**...**`. Le marquer `==...==` reviendrait à priver le lecteur de sa fiche.
 
@@ -544,6 +541,94 @@ voyelle qui précède. Le corpus suivait donc la langue sans que ce soit écrit.
 contagion de « Hénoch ». 115 occurrences, et les dossiers `38. khanokh` des deux
 arborescences renommés : le livre n'étant pas encore écrit, le renommage était
 gratuit, exactement le moment que le §2.6 décrit pour les identifiants.
+
+
+### 2.10 Les Shemot — la troisième couche, `[[Nom]]`
+
+**Décision de l'auteur du 29 août 2026.** Les noms propres reçoivent leur propre
+couche : ils deviennent **touchables** et portent chacun une fiche, aussi tenue
+que celle d'un intraduisible — sans devenir des intraduisibles.
+
+**Pourquoi ils ne sont pas des intraduisibles.** `**chesed**` reste en hébreu
+parce que « bonté » rate quelque chose : le mot est *intraduisible*. `Avraham`
+n'est pas intraduisible, il est **non traduit** — le §4.12 l'impose déjà, et
+pour une autre raison. Confondre les deux ferait promettre au lecteur une fiche
+de concept là où il y a un **Shem**.
+
+**Pourquoi ils méritent mieux que l'accentuation.** Le bordeaux dit « ceci est
+une personne, un lieu » et s'arrête là. Or un **Shem** *porte* — ==Avraham== est
+« père d'une multitude », ==Chavah== « la vivante », ==Peleg== le partage,
+==Bavel== la confusion. Le §3.2 le dit du **Shem** lui-même : *l'acte d'existence
+fonctionnelle*, et *nommer c'est faire entrer dans l'ordre*. Une couche qui ne
+contient que des Shemot mérite le nom de la chose qu'elle contient.
+
+#### La marque
+
+`[[Nom]]` — le lien natif d'Obsidian.
+
+Il a été retenu sur trois faits, non sur le goût :
+
+- il **se voit en écrivant**, comme `==…==` ; c'est le critère qui avait fait
+  écarter une marque inventée ;
+- le pipeline le **reconnaissait déjà** (`inline.rs`, étape 4 de sa grammaire) et
+  le corpus n'en comptait **aucun emploi** — rien à migrer ;
+- et il travaille pour le traducteur : `lexique/<Nom>.md` étant une vraie note,
+  `[[Avraham]]` devient ==cliquable dans Obsidian même==. On touche le nom dans
+  l'éditeur, on arrive sur la fiche. Aucune autre marque ne fait ça.
+
+#### Ce que chaque marque produit dans La Bible ONT
+
+| écriture | rendu | touchable |
+|---|---|---|
+| texte nu | encre | non |
+| `==mot==` | bordeaux `#862742` / `#D87994` | non |
+| `[[Nom]]` | **terre brûlée `#603518` / `#A3704D`** | **oui** → fiche de **Shem** |
+| `**mot**` | or, semi-gras | **oui** → fiche de lexique |
+| `*mot*` | italique | non |
+
+#### La couleur, et pourquoi celle-là
+
+Le design system raisonne en écart perceptuel **CIE Lab**, avec un plancher
+déclaré : *sous ΔE 25, une couleur ne se distingue plus de façon fiable dans un
+texte courant.* La terre brûlée tient les trois écarts —
+
+    ΔE 34 de l'or profond · ΔE 33 du bordeaux · ΔE 29 de l'encre
+
+**Un vieil or aurait été plus beau, et il était impossible.** L'espace chaud est
+déjà occupé : l'or tient le jaune-brun, le bordeaux le rouge, et tout vieil or
+tombe entre les deux — bronze à ΔE 11 de l'or, brun doré à 17, cuivre à 20. Le
+lecteur ne saurait plus si un mot doré est un concept ou un nom. La terre brûlée
+est le ==seul ton chaud qui s'en sorte==, et elle y arrive en descendant assez
+bas pour frôler l'encre.
+
+Sur fond sombre elle remonte à `#A3704D`, à teinte constante — même logique que
+le bordeaux qui devient `#D87994`, et pour la même raison : elle disparaîtrait
+dans le noir.
+
+#### Les fiches
+
+Elles vivent dans `lexique/`, comme celles des intraduisibles, et suivent
+**exactement** le §2.5 ter : des paragraphes et rien d'autre, et le critère des
+six **ruachim** — faire voyager le lecteur *à l'intérieur* de l'époque plutôt que
+lui décrire l'époque du dehors.
+
+Ce qu'une fiche de **Shem** doit porter, quand le corpus le donne : ce que le
+nom veut dire, qui le porte et quelle fonction il tient, ce que le récit fait de
+son sens, et — pour un lieu — où il se trouve et ce qu'il pèse dans le monde du
+texte. Jamais l'article d'encyclopédie : la scène, comme partout ailleurs.
+
+#### Ce que la couche ne prend pas
+
+- **Les homographes restent à l'auteur.** `Shem` le fils de Noach est un
+  **Shem** ; `**Shem**` l'acte d'existence est un intraduisible. Même mot, deux
+  couches. La casse ne les sépare pas — c'est un arbitrage verset par verset,
+  déjà signalé au §2.5 bis pour `Adam`.
+- **Le niveau 3 ne double pas la marque.** Dans `(*Chanokh* / חֲנוֹךְ)`, le nom
+  est déjà porté ; on ne le remarque pas.
+- **`==…==` garde tout le reste** : les mots que le texte nomme solennellement
+  (`==« Jour »==`), et les métadonnées d'apparat (`==premier emploi dans
+  l'ONT==`). L'accentuation ne disparaît pas, elle cesse seulement de servir aux
+  noms propres.
 
 ---
 
