@@ -2,7 +2,7 @@
 
 ## Le Shem
 
-L'étymologie est débattue, et les deux lectures disponibles sont très différentes.
+Le nom s'écrit (*Metoushelach* / מְתוּשֶׁלַח), et son étymologie est débattue — les deux lectures disponibles sont très différentes.
 
 *Methu* est l'homme, au sens ancien qu'on ne retrouve que dans les noms composés. La seconde part se lit soit *shelach* — ==l'arme, le trait qu'on lance== —, soit comme une forme de *shalach*, envoyer : d'où ==quand il mourra, cela viendra==.
 

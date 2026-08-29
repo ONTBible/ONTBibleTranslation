@@ -4,7 +4,7 @@
 
 L'étymologie est incertaine. On y a entendu la chaleur, ou une racine liée aux terres du midi — les deux restent des conjectures, et l'ONT ne tranche pas ce que l'hébreu laisse ouvert.
 
-Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yaphet]].
+Le nom s'écrit (*Cham* / חָם). Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yaphet]].
 
 ## Le fils qui voit
 
