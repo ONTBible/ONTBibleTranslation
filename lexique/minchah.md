@@ -1,6 +1,6 @@
 # minchah
 
-Un petit roi apporte des présents à un roi plus grand. Ce n'est pas un cadeau — c'est ==la reconnaissance d'une autorité supérieure==, et tout le monde le comprend ainsi : celui qui apporte reconnaît celui qui reçoit. Le mot pour ce geste est ==minchah==.
+Un petit roi apporte des présents à un roi plus grand. Ce n'est pas un cadeau — c'est ==la reconnaissance d'une autorité supérieure==, et tout le monde le comprend ainsi : celui qui apporte reconnaît celui qui reçoit. Le mot pour ce geste est ==minchah== (*minchah* / מִנְחָה).
 
 C'est le vocabulaire du ==vassal envers son suzerain==, et il est courant dans tout le Proche-Orient. On envoie une ==minchah== quand on veut dire qu'on ne conteste pas le rang de l'autre. La refuser, ou refuser de l'apporter, est une déclaration.
 

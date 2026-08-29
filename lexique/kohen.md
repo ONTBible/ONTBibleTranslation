@@ -1,6 +1,6 @@
 # Kohen
 
-Deux domaines, et entre eux une frontière qui ne se franchit pas comme on veut. En haut, ce qui est mis à part ; en bas, l'usage ordinaire des jours. Il faut pourtant que les deux communiquent — qu'on puisse porter quelque chose de là-bas vers ici, et d'ici vers là-bas. Celui qui tient ce passage ouvert s'appelle un ==kohen==.
+Deux domaines, et entre eux une frontière qui ne se franchit pas comme on veut. En haut, ce qui est mis à part ; en bas, l'usage ordinaire des jours. Il faut pourtant que les deux communiquent — qu'on puisse porter quelque chose de là-bas vers ici, et d'ici vers là-bas. Celui qui tient ce passage ouvert s'appelle un ==kohen== (*kohen* / כֹּהֵן).
 
 Voilà sa fonction, et elle est ==positionnelle== avant d'être rituelle : il se tient à l'interface. Ce qu'il fait des mains — offrir, brûler, asperger, bénir — découle de l'endroit où il se tient, et non l'inverse.
 

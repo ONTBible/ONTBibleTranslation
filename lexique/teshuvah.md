@@ -1,6 +1,6 @@
 # teshuvah
 
-Un homme marche sur une route. Il s'arrête, il fait demi-tour, il repart dans l'autre sens. Voilà l'image entière, et le mot ne dit rien de plus : la racine *shuv* veut dire ==revenir==, et la ==teshuvah== est le retour.
+Un homme marche sur une route. Il s'arrête, il fait demi-tour, il repart dans l'autre sens. Voilà l'image entière, et le mot ne dit rien de plus : la racine *shuv* veut dire ==revenir==, et la ==teshuvah== (*teshuvah* / תְּשׁוּבָה) est le retour.
 
 Rien d'intérieur là-dedans. C'est un mouvement, et il se voit — on peut le constater de l'extérieur, comme on constate qu'un homme qui allait vers le nord va maintenant vers le sud.
 

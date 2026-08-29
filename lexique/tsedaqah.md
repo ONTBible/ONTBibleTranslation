@@ -1,6 +1,6 @@
 # tsedaqah
 
-Un fléau de balance, deux plateaux, des poids de pierre dans un sac. Le marchand pose ses poids, le client regarde. Si les poids sont exacts, la balance est *tsedeq* — ajustée, conforme. De cette famille vient la ==tsedaqah==, et il faut partir de là pour ne pas la manquer.
+Un fléau de balance, deux plateaux, des poids de pierre dans un sac. Le marchand pose ses poids, le client regarde. Si les poids sont exacts, la balance est *tsedeq* — ajustée, conforme. De cette famille vient la ==tsedaqah== (*tsedaqah* / צְדָקָה), et il faut partir de là pour ne pas la manquer.
 
 Elle ne désigne pas une vertu qu'on posséderait. Notre justice est une qualité morale ou une institution ; la ==tsedaqah== est ==l'état d'un monde où chaque chose est à son rang== — où les poids sont justes, où l'orphelin n'est pas dépouillé, où la parole donnée tient, où le champ rend ce qu'il doit rendre.
 

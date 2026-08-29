@@ -1,6 +1,6 @@
 # ra
 
-Une lame qui ne coupe plus. Une terre qui ne porte pas. Un puits qui donne une eau qu'on ne peut pas boire. L'hébreu a un mot pour cet état, et c'est ==ra==. Il ne dit pas que la chose est méchante : il dit qu'==elle rate ce pour quoi elle est==.
+Une lame qui ne coupe plus. Une terre qui ne porte pas. Un puits qui donne une eau qu'on ne peut pas boire. L'hébreu a un mot pour cet état, et c'est ==ra== (*ra* / רַע). Il ne dit pas que la chose est méchante : il dit qu'==elle rate ce pour quoi elle est==.
 
 C'est l'exact envers de **tov**, et il faut les tenir ensemble ou on ne comprend ni l'un ni l'autre. Si **tov** constate qu'une chose est ajustée à sa destination, ==ra== constate qu'elle s'en écarte. Le couple n'est pas moral, il est ==fonctionnel== — deux verdicts sur un ajustement, comme on dit d'un mur qu'il est d'aplomb ou de travers.
 

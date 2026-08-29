@@ -1,6 +1,6 @@
 # tsadiq
 
-Un mur peut être droit ou de travers. Une balance peut être juste ou fausse. Un chemin peut mener où il annonce, ou pas. L'hébreu a une famille de mots pour cet état de conformité — la racine *tsedeq* — et le ==tsadiq== est celui dont l'existence, prise dans son entier, ==tient droit==.
+Un mur peut être droit ou de travers. Une balance peut être juste ou fausse. Un chemin peut mener où il annonce, ou pas. L'hébreu a une famille de mots pour cet état de conformité — la racine *tsedeq* — et le ==tsadiq== (*tsadiq* / צַדִּיק) est celui dont l'existence, prise dans son entier, ==tient droit==.
 
 Non pas celui qui ne commet pas de fautes. Notre « juste » a glissé vers la perfection morale : l'homme irréprochable, celui qui n'a rien à se reprocher, et l'on mesure sa valeur à un compte de manquements. Le ==tsadiq== ne se mesure pas ainsi. Il est ==structurellement aligné== — en juste rapport avec **YHWH**, avec les autres, avec lui-même et avec la place qu'il occupe. C'est un aplomb, pas un casier.
 

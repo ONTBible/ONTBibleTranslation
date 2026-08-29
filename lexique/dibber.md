@@ -4,7 +4,7 @@ Deux verbes pour parler, et le corpus ne les emploie jamais l'un pour l'autre.
 
 **Amar** est la parole qui institue : *que la lumière soit*. Elle n'a pas besoin de destinataire — elle pose ce qu'elle nomme, et l'ONT la rend par ==formuler==.
 
-==Dibber== est autre chose. C'est la parole ==adressée à quelqu'un== — de la même racine que le **davar**, mais dans sa dimension de rencontre. Elle suppose un vis-à-vis, et l'ONT la rend par ==parler== pour que la distinction se voie en français.
+==Dibber== (*Dibber* / דִּבֶּר) est autre chose. C'est la parole ==adressée à quelqu'un== — de la même racine que le **davar**, mais dans sa dimension de rencontre. Elle suppose un vis-à-vis, et l'ONT la rend par ==parler== pour que la distinction se voie en français.
 
 L'écart n'est pas mince. Un dieu qui **amar** ordonne le monde depuis une souveraineté sans visage. Un dieu qui ==dibber== ==s'adresse== — il y a un interlocuteur, une relation, quelqu'un qui peut répondre ou se taire. Le passage de l'un à l'autre est exactement celui que le corpus fait entre son premier et son second chapitre : **Elohim** formule, puis **YHWH** **Elohim** parle à un homme qu'il vient de façonner de ses mains.
 

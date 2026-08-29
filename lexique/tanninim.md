@@ -1,6 +1,6 @@
 # tanninim
 
-Cinquième jour. Les eaux grouillent, les oiseaux volent — et le texte s'arrête soudain pour signaler que **Elohim** **bara** les grands ==tanninim==. C'est le seul groupe d'animaux qui reçoive cette mention, et le seul pour lequel le verbe **bara** revient dans ce chapitre.
+Cinquième jour. Les eaux grouillent, les oiseaux volent — et le texte s'arrête soudain pour signaler que **Elohim** **bara** les grands ==tanninim== (*tanninim* / תַּנִּינִם). C'est le seul groupe d'animaux qui reçoive cette mention, et le seul pour lequel le verbe **bara** revient dans ce chapitre.
 
 Il faut savoir ce que le mot évoquait, sinon on passe à côté. Le ==tannin== est ==le monstre marin== — le serpent des eaux, celui qui, dans les cosmologies de toute la région, est une ==divinité du chaos== que le dieu créateur doit affronter et vaincre. Chez les voisins, le monde commence par ce combat : on fend la bête, et de son corps on fait le ciel et la terre.
 

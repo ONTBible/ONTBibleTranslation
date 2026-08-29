@@ -1,6 +1,6 @@
 # tahor
 
-Un homme s'approche du sanctuaire. Avant d'entrer, il faut savoir s'il peut — et la question n'est pas de savoir s'il est propre ni s'il a bien agi. La question est : ==son état permet-il ce contact ?== S'il le permet, il est ==tahor==. Sinon il est *tamé*, et il attendra.
+Un homme s'approche du sanctuaire. Avant d'entrer, il faut savoir s'il peut — et la question n'est pas de savoir s'il est propre ni s'il a bien agi. La question est : ==son état permet-il ce contact ?== S'il le permet, il est ==tahor== (*tahor* / טָהוֹר). Sinon il est *tamé*, et il attendra.
 
 Retiens que rien ici ne relève de la morale ni de l'hygiène. Un homme qui vient d'enterrer son père est *tamé* — et il a fait exactement ce qu'il devait faire. Une femme qui vient d'accoucher l'est aussi. Toucher un mort, donner la vie, guérir d'une maladie : ces états ne sont ni des fautes ni des saletés. Ce sont ==des situations qui rendent le contact impossible pour un temps==.
 

@@ -1,6 +1,6 @@
 # goyim
 
-Une table, au chapitre dix. Soixante-dix noms, rangés par lignée : les fils de ==Yaphet==, ceux de ==Cham==, ceux de ==Shem==, chacun ==selon sa langue, selon sa famille, dans son territoire==. Ce ne sont pas des tribus flottantes ni des catégories d'esprit. Ce sont des peuples avec une langue, un sol et une organisation — et c'est cela, des ==goyim==.
+Une table, au chapitre dix. Soixante-dix noms, rangés par lignée : les fils de ==Yaphet==, ceux de ==Cham==, ceux de ==Shem==, chacun ==selon sa langue, selon sa famille, dans son territoire==. Ce ne sont pas des tribus flottantes ni des catégories d'esprit. Ce sont des peuples avec une langue, un sol et une organisation — et c'est cela, des ==goyim== (*goyim* / גּוֹיִם).
 
 Le mot est concret. Il désigne ==le peuple-nation constitué== : un territoire, une descendance, une manière de parler, un pouvoir qui tient. Rien d'abstrait, rien de religieux.
 

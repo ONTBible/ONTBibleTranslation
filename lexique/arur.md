@@ -1,6 +1,6 @@
 # arur
 
-Le serpent est ==arur==, et pourtant il continue de se mouvoir. L'*adamah* est ==arur==, et elle continue de produire. ==Qayin== est ==arur==, et il fonde une ville. Tiens ces trois faits ensemble, et l'idée de malédiction s'effondre — parce qu'aucun d'eux n'a rien perdu.
+Le serpent est ==arur== (*arur* / אָרוּר), et pourtant il continue de se mouvoir. L'*adamah* est ==arur==, et elle continue de produire. ==Qayin== est ==arur==, et il fonde une ville. Tiens ces trois faits ensemble, et l'idée de malédiction s'effondre — parce qu'aucun d'eux n'a rien perdu.
 
 C'est le point le plus contre-intuitif du mot, et le plus important : ==arur== n'est ==pas l'absence de dotation==. C'est sa ==perversion==. Ce qui a été **barakh** reçoit une capacité active ; ce qui est ==arur== la garde, et elle se met à fonctionner de travers.
 

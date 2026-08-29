@@ -1,6 +1,6 @@
 # rasha
 
-Un mur qui penche. Il tient encore, on passe dessous tous les jours, et pourtant il n'est plus d'aplomb. Quelque chose, dans son assise, s'est déplacé. L'hébreu appelle ==rasha== l'homme dont l'existence est ainsi — non pas écroulée, ==déviée==.
+Un mur qui penche. Il tient encore, on passe dessous tous les jours, et pourtant il n'est plus d'aplomb. Quelque chose, dans son assise, s'est déplacé. L'hébreu appelle ==rasha== (*rasha* / רָשָׁע) l'homme dont l'existence est ainsi — non pas écroulée, ==déviée==.
 
 Il est l'exact envers du **tsadiq**, et la paire est constitutive : là où le **tsadiq** tient l'axe, le ==rasha== s'en écarte. Ni l'un ni l'autre ne se mesure à un compte de fautes. On mesure ==un alignement==.
 

@@ -1,6 +1,6 @@
 # davar
 
-Un homme dit à un autre : *j'ai un ==davar== à te dire*. Le second comprend qu'il va entendre une parole. Le même mot, deux lignes plus loin, désigne l'affaire dont il est question — le fait, la chose survenue. Et le texte ne signale aucun changement de sens, parce qu'il n'y en a pas.
+Un homme dit à un autre : *j'ai un ==davar== (*davar* / דָּבָר) à te dire*. Le second comprend qu'il va entendre une parole. Le même mot, deux lignes plus loin, désigne l'affaire dont il est question — le fait, la chose survenue. Et le texte ne signale aucun changement de sens, parce qu'il n'y en a pas.
 
 C'est ce qu'il faut accepter pour entrer dans cette langue : ==la parole et la réalité qu'elle nomme portent le même nom==. Non par pauvreté de vocabulaire — l'hébreu a des mots pour dire *chose* autrement quand il le veut — mais parce que la coupure entre ce qui est dit et ce qui est ne va pas de soi. Elle nous paraît évidente ; elle est un héritage, et il est grec.
 

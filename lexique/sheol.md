@@ -1,6 +1,6 @@
 # She'ol
 
-On descend. C'est le premier mot à retenir : dans cette langue, on ne « va » pas chez les morts, on ==descend== — et le lieu où l'on descend s'appelle ==She'ol==.
+On descend. C'est le premier mot à retenir : dans cette langue, on ne « va » pas chez les morts, on ==descend== — et le lieu où l'on descend s'appelle ==She'ol== (*She'ol* / שְׁאוֹל).
 
 Il est sous la Terre, comme les eaux d'en bas. On y est couché. On s'y tait. Le corpus le décrit par des privations plutôt que par des tourments : là, on ne loue plus, on ne se souvient plus, on ne fait plus rien. Ce n'est pas un lieu de peine — c'est ==un lieu d'arrêt==.
 

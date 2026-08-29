@@ -1,6 +1,6 @@
 # mashal
 
-Au quatrième jour, les luminaires sont installés — et le texte dit pourquoi : pour ==mashal== sur le jour et sur la nuit, et pour séparer la lumière de l'obscurité. Le verbe désigne ==une gouvernance exercée sur un domaine==.
+Au quatrième jour, les luminaires sont installés — et le texte dit pourquoi : pour ==mashal== (*mashal* / מָשַׁל) sur le jour et sur la nuit, et pour séparer la lumière de l'obscurité. Le verbe désigne ==une gouvernance exercée sur un domaine==.
 
 Il faut mesurer ce que cette phrase fait, dans le monde où elle est écrite. Le soleil et la lune sont des dieux majeurs, partout autour — on leur bâtit des temples, on date les règnes par eux, on les consulte. Le texte hébreu ne les nomme même pas : il dit *le grand luminaire* et *le petit luminaire*, comme on dirait la grande lampe et la petite. Et il leur assigne un travail — ==des horloges==, chargées de marquer les *moadim*, les rendez-vous.
 

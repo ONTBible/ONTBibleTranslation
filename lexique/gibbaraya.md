@@ -2,7 +2,7 @@
 
 Le mot n'est pas hébreu. Il est araméen, et cela seul dit déjà quelque chose : la langue que parlaient les gens ordinaires du Proche-Orient sous les grands empires, celle des contrats, des lettres et des récits qu'on se racontait vraiment. C'est dans cette langue-là qu'un livre entier a été écrit sur ces êtres, et c'est en fragments de cette langue qu'on l'a retrouvé dans les grottes de ==Qumrân==.
 
-==Gibbaraya== est le pluriel araméen de ce que l'hébreu appelle **gibborim** — les puissants, ceux qui pèsent. Le titre du livre n° 37, *Sefar ==Gibbaraya==*, le porte.
+==Gibbaraya== (*Gibbaraya* / גבריא) est le pluriel araméen de ce que l'hébreu appelle **gibborim** — les puissants, ceux qui pèsent. Le titre du livre n° 37, *Sefar ==Gibbaraya==*, le porte.
 
 On le traduit « Livre des Géants », et ce n'est qu'un pont pour le lecteur français. Le mot ne dit rien d'une taille. Il dit ==une démesure de poids== — des êtres dont la présence fait plier ce qui les entoure, sans qu'aucune fonction leur soit assignée nulle part. C'est le prolongement direct des quatre versets où *Bereshit* les nomme **Nephilim** et **gibborim** avant de passer à autre chose.
 

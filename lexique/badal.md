@@ -1,6 +1,6 @@
 # badal
 
-Le verbe revient cinq fois dans la première page, et il fait à lui seul presque tout le travail. **Elohim** ==badal== la lumière d'avec l'obscurité, les eaux d'en haut d'avec les eaux d'en bas, le jour d'avec la nuit. Séparer — non pas éloigner, mais ==poser une limite entre deux choses==, de sorte que chacune tienne d'un côté.
+Le verbe revient cinq fois dans la première page, et il fait à lui seul presque tout le travail. **Elohim** ==badal== (*badal* / בָּדַל) la lumière d'avec l'obscurité, les eaux d'en haut d'avec les eaux d'en bas, le jour d'avec la nuit. Séparer — non pas éloigner, mais ==poser une limite entre deux choses==, de sorte que chacune tienne d'un côté.
 
 Il faut voir que c'est là ==l'acte créateur principal==. On attend une production, quelque chose qui sort du néant ; ce que le texte montre, c'est une distribution. Rien n'est ajouté au monde : des frontières sont tracées, et de chaque côté quelque chose commence à exister — parce qu'exister, ici, c'est occuper une place, et qu'une place est d'abord une limite.
 

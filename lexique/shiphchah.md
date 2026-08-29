@@ -1,6 +1,6 @@
 # shiphchah
 
-Une maison de tentes, quelque part entre ==Kena'an== et le désert. Il y a la maîtresse, il y a son **ish**, il y a les bêtes, et il y a une femme dont tout le monde sait à qui elle tient. Pas *pour qui elle travaille* — ==à qui elle est attachée==. Si on demandait à quelqu'un de cette maison ce qu'elle fait, la question tomberait à côté ; on répondrait de quelle sphère elle relève. Cette femme est une ==shiphchah==.
+Une maison de tentes, quelque part entre ==Kena'an== et le désert. Il y a la maîtresse, il y a son **ish**, il y a les bêtes, et il y a une femme dont tout le monde sait à qui elle tient. Pas *pour qui elle travaille* — ==à qui elle est attachée==. Si on demandait à quelqu'un de cette maison ce qu'elle fait, la question tomberait à côté ; on répondrait de quelle sphère elle relève. Cette femme est une ==shiphchah== (*shiphchah* / שִׁפְחָה).
 
 Le mot ne nomme donc pas un emploi. Il nomme ==une position dans une maison== : la **shiphchah** appartient à la sphère de sa maîtresse, comme une chose appartient à un domaine plutôt qu'à un propriétaire.
 

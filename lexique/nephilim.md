@@ -4,7 +4,7 @@ Il y a, dans un village, des places pour tout le monde. Le forgeron a la sienne,
 
 Élargis maintenant cela à la taille du monde. En haut, un domaine avec ses habitants et leurs charges ; en bas, un autre, avec les siennes ; et entre les deux, une frontière qui n'est pas un décor mais ce qui rend le tout habitable. Tout le premier chapitre n'a fait que ça : séparer, délimiter, assigner.
 
-C'est cette frontière que quatre versets, au seuil du **mabbul**, racontent franchie. Des fils d'**Elohim** prennent des filles humaines ; de cette union naissent les ==Nephilim==. Puis le texte passe à autre chose — quatre versets pour dire pourquoi le monde va être défait, et pas un mot de plus.
+C'est cette frontière que quatre versets, au seuil du **mabbul**, racontent franchie. Des fils d'**Elohim** prennent des filles humaines ; de cette union naissent les ==Nephilim== (*Nephilim* / נְפִילִים). Puis le texte passe à autre chose — quatre versets pour dire pourquoi le monde va être défait, et pas un mot de plus.
 
 Ce que sont ces êtres, tu le sais déjà depuis le village : ==ni gardiens des Cieux ni serviteurs de la Terre==. Un poids déplacé entre les domaines. Aucun office ne les attend nulle part. Leur monstruosité n'a rien de physique — elle est là, dans ce qu'ils n'ont pas : ==aucune place où être==.
 

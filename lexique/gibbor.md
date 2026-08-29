@@ -2,7 +2,7 @@
 
 On l'entend arriver avant de le voir. Les voix baissent, les enfants rentrent, quelqu'un calcule déjà ce qu'il faudra donner pour qu'il passe son chemin. Il ne prendra peut-être rien — la question n'est pas là. Le fait est qu'il ==pèse==, et que le village s'organise autour de ce poids.
 
-Voilà le ==gibbor==. La racine est *gabar* : l'emporter, prévaloir. Non pas la force du bras, qui n'est qu'un moyen : ==la capacité de faire plier une situation==.
+Voilà le ==gibbor== (*gibbor* / גִּבֹּר). La racine est *gabar* : l'emporter, prévaloir. Non pas la force du bras, qui n'est qu'un moyen : ==la capacité de faire plier une situation==.
 
 Ce que le français appelle « héros » manque cela de deux façons. Le héros grec est un homme d'excellence, tendu vers une grandeur qu'on chante ; le vaillant français est un homme de vertu. Le ==gibbor==, lui, n'est ni l'un ni l'autre — il est ==ce qui compte dans le rapport de force==, sans qu'aucune qualité morale entre en ligne. Le texte le constate comme on constate le temps qu'il fait.
 

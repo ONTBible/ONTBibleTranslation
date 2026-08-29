@@ -2,7 +2,7 @@
 
 Un roi de ce temps-là ne peut pas être partout. Son empire s'étend sur des semaines de marche, et la plupart de ses sujets ne verront jamais son visage. Alors il fait dresser ==une statue== dans les provinces lointaines — à l'entrée d'une ville, dans un temple, au bord d'une route. Cette statue n'est pas un ornement, et personne ne la confond avec un portrait de famille : elle ==signifie que le roi gouverne ici==. On lui rend les honneurs qu'on lui rendrait à lui. La renverser est un acte de guerre.
 
-Le mot pour cette statue est ==tselem==. Et c'est ce mot que le texte emploie pour dire ce qu'est un être humain.
+Le mot pour cette statue est ==tselem== (*tselem* / צֶלֶם). Et c'est ce mot que le texte emploie pour dire ce qu'est un être humain.
 
 Mesure ce que cela déplace. Nous entendons « à l'image de Dieu » et nous cherchons aussitôt une ==ressemblance== : quelque chose en nous qui lui ressemblerait — la raison, la conscience, l'amour, l'âme. Toute cette recherche est hors sujet. Un ==tselem== ne ressemble pas au roi : il ==le représente==. Ce n'est pas une qualité intérieure, c'est ==une charge en poste==.
 

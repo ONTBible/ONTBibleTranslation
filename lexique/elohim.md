@@ -4,7 +4,7 @@ Imagine qu'on te fasse visiter un bâtiment vide. Les murs sont montés, les sal
 
 Garde cette image : c'est avec elle qu'on peut lire la première page.
 
-Elle ne raconte pas la fabrication d'une matière. Aucune matière première n'y est jamais mentionnée — pas une fois, et personne dans le texte ne s'en étonne, parce que la question « d'où vient l'étoffe du monde » est une question grecque posée mille ans plus tard. Ce que fait ==Elohim== est autre chose : il ==sépare==, il ==délimite==, il ==nomme==, il ==assigne==. Le premier jour ne fabrique pas de la lumière : il institue l'alternance du jour et de la nuit, c'est-à-dire le temps. Le verbe dont ==Elohim== est le sujet exclusif, **bara**, ne veut pas dire produire — il veut dire ==inaugurer dans l'existence fonctionnelle==, comme on ouvre un bâtiment en distribuant ses clés.
+Elle ne raconte pas la fabrication d'une matière. Aucune matière première n'y est jamais mentionnée — pas une fois, et personne dans le texte ne s'en étonne, parce que la question « d'où vient l'étoffe du monde » est une question grecque posée mille ans plus tard. Ce que fait ==Elohim== (*Elohim* / אֱלֹהִים) est autre chose : il ==sépare==, il ==délimite==, il ==nomme==, il ==assigne==. Le premier jour ne fabrique pas de la lumière : il institue l'alternance du jour et de la nuit, c'est-à-dire le temps. Le verbe dont ==Elohim== est le sujet exclusif, **bara**, ne veut pas dire produire — il veut dire ==inaugurer dans l'existence fonctionnelle==, comme on ouvre un bâtiment en distribuant ses clés.
 
 Et à chaque étape, la même formule tombe : ==Elohim== examina, et **tov**. Ni « c'était beau » ni « c'était bien » — cela ==tient son office==. Un outil est **tov** quand il coupe.
 

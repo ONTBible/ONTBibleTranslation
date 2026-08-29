@@ -2,7 +2,7 @@
 
 Deux femmes se présentent devant le roi. Elles habitent la même maison, elles ont accouché à trois jours d'intervalle, un des enfants est mort dans la nuit. Chacune dit que le vivant est le sien. Il n'y a pas de témoin, pas de preuve, rien que deux paroles qui se contredisent mot pour mot.
 
-Ce que ==Shlomo== avait demandé pour gouverner, quelques chapitres plus tôt, ce n'était ni la richesse ni la longue vie : c'était ==un cœur qui écoute, pour discerner entre le tov et le ra==. Entre. Le mot hébreu pour « entre » est *bein*, et c'est de lui qu'est faite la ==binah==.
+Ce que ==Shlomo== avait demandé pour gouverner, quelques chapitres plus tôt, ce n'était ni la richesse ni la longue vie : c'était ==un cœur qui écoute, pour discerner entre le tov et le ra==. Entre. Le mot hébreu pour « entre » est *bein*, et c'est de lui qu'est faite la ==binah== (*binah* / בִּינָה).
 
 Voilà ce que le mot désigne, et pourquoi « intelligence » le manque. Notre intelligence saisit : elle absorbe un contenu, elle fait entrer dans l'esprit. La ==binah== ne saisit rien — elle ==trace une frontière==. Elle sait où finit ceci et où commence cela. Devant deux paroles identiques, elle ne cherche pas à comprendre davantage : elle cherche par où les séparer.
 

@@ -1,6 +1,6 @@
 # mishpat
 
-La porte d'une ville, le matin. C'est là que les anciens s'assoient, sur les bancs de pierre, dans le passage où tout le monde entre et sort. Deux hommes se présentent avec une affaire de champ, de bête perdue, de dette. On écoute, on regarde, on tranche — devant tout le monde, sur place, dans le cas précis qui est posé. Ce qui sort de là s'appelle un ==mishpat==.
+La porte d'une ville, le matin. C'est là que les anciens s'assoient, sur les bancs de pierre, dans le passage où tout le monde entre et sort. Deux hommes se présentent avec une affaire de champ, de bête perdue, de dette. On écoute, on regarde, on tranche — devant tout le monde, sur place, dans le cas précis qui est posé. Ce qui sort de là s'appelle un ==mishpat== (*mishpat* / מִשְׁפָּט).
 
 Il n'y a ni tribunal, ni code, ni robe. Il y a une porte, des anciens et une situation concrète. Garde-le en tête : c'est ce qui sépare le mot de tout ce que nous mettons dessous.
 

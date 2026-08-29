@@ -1,6 +1,6 @@
 # adamah
 
-Ce n'est ni la planète, ni le territoire, ni le paysage. L'==adamah== est ==la terre qu'on retourne== — la glaise sous l'ongle, celle qui colle aux mains, celle dont on tire du pain à condition d'y passer ses journées.
+Ce n'est ni la planète, ni le territoire, ni le paysage. L'==adamah== (*adamah* / אֲדָמָה) est ==la terre qu'on retourne== — la glaise sous l'ongle, celle qui colle aux mains, celle dont on tire du pain à condition d'y passer ses journées.
 
 L'hébreu a d'autres mots pour le reste. *Erets* dit le pays, le territoire, ce qu'un peuple habite et ce qu'un roi gouverne. L'==adamah== est plus petite et plus concrète : c'est le sol, à portée de bêche.
 

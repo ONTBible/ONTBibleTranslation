@@ -1,6 +1,6 @@
 # tov
 
-Un homme prend une lame et l'essaie sur une branche. Elle coupe net. Il dit : ==tov==. Il ne dit pas qu'elle est belle, ni qu'elle est bonne au sens où l'on parle d'un homme bon. Il dit qu'==elle fait ce pour quoi elle est==.
+Un homme prend une lame et l'essaie sur une branche. Elle coupe net. Il dit : ==tov== (*tov* / טוֹב). Il ne dit pas qu'elle est belle, ni qu'elle est bonne au sens où l'on parle d'un homme bon. Il dit qu'==elle fait ce pour quoi elle est==.
 
 Garde ce geste, parce que c'est lui qui revient sept fois dans la première page.
 

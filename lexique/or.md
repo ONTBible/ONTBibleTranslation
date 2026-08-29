@@ -1,6 +1,6 @@
 # or
 
-Le premier mot que **Elohim** prononce fait paraître la ==or==. Et le lecteur moderne bute aussitôt sur une objection : les luminaires — soleil, lune, étoiles — ne sont installés qu'au quatrième jour. D'où viendrait donc cette lumière-là ?
+Le premier mot que **Elohim** prononce fait paraître la ==or== (*or* / אוֹר). Et le lecteur moderne bute aussitôt sur une objection : les luminaires — soleil, lune, étoiles — ne sont installés qu'au quatrième jour. D'où viendrait donc cette lumière-là ?
 
 L'objection tombe dès qu'on cesse de chercher un phénomène physique. Ce qui est institué au premier jour n'est pas un rayonnement : c'est ==ce qui rend toute distinction possible==. Là où il n'y a que du *choshekh*, on ne peut rien séparer de rien — non parce qu'il fait sombre, mais parce qu'aucun bord n'apparaît. La ==or== est ce par quoi il y a des bords.
 

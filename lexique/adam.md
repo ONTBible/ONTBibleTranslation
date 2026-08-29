@@ -1,6 +1,6 @@
 # adam
 
-Le mot pour « sol » est *adamah* — la terre travaillée, celle qu'on retourne, pas le territoire ni la planète. Le mot pour l'être humain est ==adam==. Une lettre d'écart, et personne dans cette langue ne peut prononcer l'un sans entendre l'autre.
+Le mot pour « sol » est *adamah* — la terre travaillée, celle qu'on retourne, pas le territoire ni la planète. Le mot pour l'être humain est ==adam== (*adam* / אָדָם). Une lettre d'écart, et personne dans cette langue ne peut prononcer l'un sans entendre l'autre.
 
 C'est pourquoi l'ONT n'écrit pas « l'homme », qui n'entend rien, mais ==l'Être façonné du sol== — une périphrase, oui, et elle rend visible ce que le français efface : quand le texte dit que **YHWH** **Elohim** le façonna de la poussière du sol concret, il ne donne pas une origine matérielle, il donne ==une parenté==. L'==adam== et l'*adamah* sont faits l'un pour l'autre. Il est le jardinier de ce dont il est tiré.
 

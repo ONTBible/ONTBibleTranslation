@@ -2,7 +2,7 @@
 
 Un verbe si courant qu'on ne le regarde plus : donner. Mais l'hébreu s'en sert là où le français emploierait *placer*, *poser*, *installer* — et cette extension dit ce que le mot fait.
 
-==Natan== est ==un acte de placement précis et intentionnel==. On ne lâche pas une chose entre les mains de quelqu'un : on la ==met à un endroit==, pour qu'elle y tienne un rôle.
+==Natan== (*Natan* / נָתַן) est ==un acte de placement précis et intentionnel==. On ne lâche pas une chose entre les mains de quelqu'un : on la ==met à un endroit==, pour qu'elle y tienne un rôle.
 
 Le premier chapitre le montre bien. **Elohim** ==natan== les luminaires dans le **raqia** — il ne les offre à personne, il les ==installe== à leur poste, pour qu'ils gouvernent le jour et la nuit. Le même verbe qu'on emploierait pour poser une pierre dans un mur.
 

@@ -2,7 +2,7 @@
 
 La forme adjectivale de ce que le **qodesh** nomme : ce qui ==a été mis à part pour un office==. Un ustensile, un jour, un lieu, un homme — le mot dit toujours la même chose, et jamais une qualité intrinsèque.
 
-Il faut y insister parce que le mot français rend l'inverse. « Saint » désigne chez nous quelqu'un de moralement supérieur : on est saint par ce qu'on est devenu, par vertu accumulée, et l'Église en dresse des listes. Rien de tel ici. Est ==qadosh== ce qui a été ==retiré de l'usage ordinaire== — ni meilleur, ni plus pur : ==assigné ailleurs==.
+Il faut y insister parce que le mot français rend l'inverse. « Saint » désigne chez nous quelqu'un de moralement supérieur : on est saint par ce qu'on est devenu, par vertu accumulée, et l'Église en dresse des listes. Rien de tel ici. Est ==qadosh== (*qadosh* / קָדוֹשׁ) ce qui a été ==retiré de l'usage ordinaire== — ni meilleur, ni plus pur : ==assigné ailleurs==.
 
 Ce qui explique que le corpus applique le mot à des choses qui n'ont pas de vertu du tout. Des pinces, des bassines, de l'huile, un morceau de terrain, un jour de la semaine. Une pince ==qadosh== n'est pas une pince exemplaire : c'est une pince qui ne sert plus à autre chose.
 

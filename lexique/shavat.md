@@ -1,6 +1,6 @@
 # shavat
 
-Le septième jour, **Elohim** ==shavat==. On traduit « il se reposa », et l'image qui vient est celle de quelqu'un qui souffle après l'effort — d'où la question que tout le monde se pose un jour : celui qui ordonne le monde serait-il fatigué ?
+Le septième jour, **Elohim** ==shavat== (*shavat* / שָׁבַת). On traduit « il se reposa », et l'image qui vient est celle de quelqu'un qui souffle après l'effort — d'où la question que tout le monde se pose un jour : celui qui ordonne le monde serait-il fatigué ?
 
 La question vient du mot français, pas du texte. ==Shavat== ne dit rien de la fatigue. Il dit ==cesser== — et cesser parce que ==l'ouvrage est accompli==, non parce que les forces manquent. Un ouvrier qui pose ses outils au soir n'est pas dans le même état qu'un ouvrier qui abandonne.
 
