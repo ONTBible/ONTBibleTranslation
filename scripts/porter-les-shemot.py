@@ -53,6 +53,37 @@ HOMONYMES = {
 APPARAT = ("Candidat", "Premier", "Avertissement", "Décision", "Version")
 
 
+def lemmes_du_glossaire() -> set[str]:
+    """Les intraduisibles déjà déclarés — ils ne sont jamais des Shemot.
+
+    Les pieds de page portent leurs décisions terminologiques en têtes de puce
+    accentuées : `==El Shaddai==`, `==Milah==`, `==Orlah==`, `==Karet==`. Ce
+    sont des **intraduisibles** ou des rendus, pas des noms propres — mais ils
+    commencent par une capitale, et un script qui ne regarde que la casse les
+    convertit. C'est arrivé deux fois, sur *Bereshit* 16 et 17.
+
+    La parade n'est pas une liste à tenir à la main, qui se périmerait : c'est
+    de **demander au glossaire**. Un mot qui a déjà une entrée au §3 relève de
+    la couche des intraduisibles, et le §2.10 dit que les deux couches ne se
+    recouvrent pas.
+    """
+    # **La source est le §2.5, pas le dossier `lexique/`.** Celui-ci contient
+    # désormais les deux couches — les fiches d'intraduisibles *et* celles des
+    # Shemot —, et l'interroger reviendrait à exclure tous les noms propres,
+    # c'est-à-dire exactement ce qu'on veut convertir. Éprouvé : `==Noach==`
+    # cessait d'être converti dès que sa fiche existait.
+    claude = Path(__file__).resolve().parent.parent / "CLAUDE.md"
+    if not claude.exists():
+        return set()
+    texte = claude.read_text(encoding="utf-8")
+    connus = set()
+    for m in re.finditer(r"`\*\*([^*`]+)\*\*`", texte):
+        forme = m.group(1).strip().lower()
+        connus.add(forme)
+        connus.add(forme.replace("'", ""))
+    return connus
+
+
 def zones_protegees(texte: str) -> list[tuple[int, int]]:
     """Les intervalles où la conversion ne doit pas entrer."""
     zones = []
@@ -81,6 +112,7 @@ def zones_protegees(texte: str) -> list[tuple[int, int]]:
 def porter(chemin: Path, homonymes: dict[str, str] | None = None) -> int:
     texte = chemin.read_text(encoding="utf-8")
     table = {**HOMONYMES, **(homonymes or {})}
+    glossaire = lemmes_du_glossaire()
     protege = zones_protegees(texte)
 
     def dans_zone(i: int) -> bool:
@@ -92,10 +124,26 @@ def porter(chemin: Path, homonymes: dict[str, str] | None = None) -> int:
         nom = m.group(1)
         if not nom[:1].isupper() or nom.startswith(APPARAT) or nom.startswith(("«", "*")):
             continue
+        # Un intraduisible déjà déclaré n'est pas un Shem — voir ci-dessus.
+        if nom.lower() in glossaire or nom.lower().replace("'", "") in glossaire:
+            continue
         if dans_zone(m.start()):
             continue
         cible = table.get(nom)
         lien = f"[[{cible}|{nom}]]" if cible else f"[[{nom}]]"
+        # **Deux collisions de balisage à refuser.** Un lien collé à un `*`
+        # produit une séquence que le tokeniseur lit autrement :
+        #
+        #   `*[[Nom]] …*`  →  `*[` ouvre une **glose**, jamais refermée ;
+        #   `*… [[Nom]]*`  →  `]]*` se lit `]*`, une glose se **ferme** ici.
+        #
+        # Les deux cassent la ligne entière, et le contrôle ne les voit qu'après
+        # coup. Constaté deux fois — `bereshit-9.md` puis
+        # `toledot-adam-ve-chavah-0-intro.md`, où un nom ouvrait une italique.
+        avant = texte[m.start() - 1 : m.start()]
+        apres = texte[m.end() : m.end() + 1]
+        if avant == "*" or apres == "*":
+            continue
         texte = texte[: m.start()] + lien + texte[m.end() :]
         faits += 1
 
