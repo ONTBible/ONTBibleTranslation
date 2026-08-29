@@ -16,7 +16,7 @@ Le corpus le range dans ce qu'il appelle ==les grandes puissances de civilisatio
 
 C'est par lui que le corpus introduit un homme qui pèsera longtemps.
 
-De ==Koush== sort ==Nimrod==, dont *Bereshit* 10 dit qu'il ==commença d'être un **gibbor** sur la Terre== — et le texte emploie là le mot des démesurés d'avant le **mabbul**. Il fonde ==Bavel== et ==Nineve==, c'est-à-dire ==les deux capitales qui broieront Israël==.
+De ==Koush== sort ==Nimrod==, dont *Bereshit* 10 dit qu'il ==commença d'être un **gibbor** sur la Terre== — et le texte emploie là le mot des démesurés d'avant le **mabbul**. Il fonde ==Bavel== et ==Ninveh==, c'est-à-dire ==les deux capitales qui broieront Israël==.
 
 Le corpus construit donc, par cette filiation, ==le pont entre la démesure d'avant le **mabbul** et les empires de l'histoire==. Ce qui pesait par la force avant les eaux repèse après elles, et cette fois il a des villes.
 
@@ -24,6 +24,6 @@ Le corpus construit donc, par cette filiation, ==le pont entre la démesure d'av
 
 Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kena'an]] ses frères.
 
-Ce qui sort de lui : ==Nimrod==, les **gibborim**, ==Bavel== et ==Nineve==.
+Ce qui sort de lui : ==Nimrod==, les **gibborim**, ==Bavel== et ==Ninveh==.
 
 Ce qui reste à écrire : la table des nations de *Bereshit* 10 est écrite ; cette fiche s'enrichira quand la couche y sera portée.

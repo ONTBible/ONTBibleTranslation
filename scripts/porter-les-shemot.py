@@ -41,6 +41,11 @@ HOMONYMES = {
     "Shem": "Shem-fils-de-Noach",
     "Mechouyaël": "Mechouyael",
     "Metoushaël": "Metoushael",
+    # Un même porteur, deux **Shem** — la reformulation covenantale de
+    # *Bereshit* 17. Les deux mènent à la même fiche, qui raconte le passage.
+    "Sarai": "Sarai",
+    "Sarah": "Sarai",
+    "Avram": "Avraham",
 }
 
 # Un nom propre commence par une capitale. Ce qui suit est de l'apparat, pas un
@@ -60,8 +65,14 @@ def zones_protegees(texte: str) -> list[tuple[int, int]]:
     # glose entière et protège des noms qui, eux, doivent être convertis : le
     # §2.10 s'applique dans les gloses. Une translittération ne contient donc ni
     # crochet, ni `[`, et reste courte.
+    #
+    # Et l'ouverture ne doit pas non plus suivre un `]` : le `*` qui **ferme**
+    # une glose — `]*` — se laisse sinon apparier avec le `*` suivant, et tout
+    # ce qui les sépare passe pour une italique. Sur `bereshit-10.md`, où chaque
+    # nom est suivi d'un niveau 3, ce seul oubli a protégé **72 occurrences**
+    # sur 409 — silencieusement, puisqu'un nom non converti ne lève rien.
     zones += [(m.start(), m.end())
-              for m in re.finditer(r"(?<!\*)\*(?!\[)[^*\n\[\]]{1,40}\*(?!\*)", texte)]
+              for m in re.finditer(r"(?<![*\]])\*(?!\[)[^*\n\[\]]{1,40}\*(?!\*)", texte)]
     # les intraduisibles
     zones += [(m.start(), m.end()) for m in re.finditer(r"\*\*[^*\n]+\*\*", texte)]
     return zones
