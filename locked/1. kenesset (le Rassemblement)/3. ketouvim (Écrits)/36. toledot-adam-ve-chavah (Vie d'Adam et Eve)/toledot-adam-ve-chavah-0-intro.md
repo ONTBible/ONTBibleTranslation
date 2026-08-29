@@ -62,7 +62,7 @@ Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade 
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
 | La **kavod** perdue | la nudité découverte n'est pas celle du corps mais le dépouillement de la gloire fonctionnelle | *kol kevod Adam* — Qumrân (1QS 4:22-23 ; CD 3:20 ; 1QHᵃ 4:14-15) ; 4Q504 ; Ben Sira 49:16 |
-| *Rupture → mort* | la mort entrée par la **chattah** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Yovelim* 4:29-30 |
+| *Rupture → mort* | la mort entrée par la **chattat** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Yovelim* 4:29-30 |
 | *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Yovelim* 8:19 (==Eden== = Saint des Saints) ; 4:29 |
 | *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**adam** dé-glorifié — le négatif de *radah* | *Bereshit* 1:26-28 |
 | *La transmission* | ==Shet== garde la mémoire de la gloire perdue | Josèphe, *Ant.* 1.70-71 |
@@ -75,7 +75,7 @@ Le motif de la **kavod** perdue est le centre de gravité : retrouvé verbatim e
 
 Une convergence, elle, est plus qu'un écho : Shaul dit que *l'accusateur se transfigure en envoyé de lumière* (*El HaQorintiyim* — 2 Co 11:14) — exactement la seconde approche de **ha-satan**, et il en tire peut-être de cette tradition même. Là, la résonance ne projette rien : elle *corrobore* un réel que le livre porte — ce pourquoi ce motif, lui, entre au corps. De même, la *Berit Hadashah* re-corrobore d'autres réels qu'un premier filtrage avait coupés à tort : *==Mikha'el== ministre à la sépulture d'un juste* (Yehudah 9 ; Luqas 16:22), l'*immersion de retour* (Yohanan, Marqus 1:4), la *vision du char* (2 Co 12 ; Ez 1).
 
-Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que l'antique serpent est **ha-satan** (*Machazeh Yohanan* — Rev 12:9). C'est une reconnaissance *seconde* : dans le témoignage de ==Chavah== — la vérité primordiale — le serpent reste la créature, car la **chattah** est *humaine* ; l'identifier à un dieu rival déplacerait la faute hors de l'humain (dualisme). Cette reconnaissance demeure donc ici, aux Échos, non dans la voix primordiale.
+Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que l'antique serpent est **ha-satan** (*Machazeh Yohanan* — Rev 12:9). C'est une reconnaissance *seconde* : dans le témoignage de ==Chavah== — la vérité primordiale — le serpent reste la créature, car la **chattat** est *humaine* ; l'identifier à un dieu rival déplacerait la faute hors de l'humain (dualisme). Cette reconnaissance demeure donc ici, aux Échos, non dans la voix primordiale.
 
 ## Plan
 

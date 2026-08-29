@@ -6,7 +6,7 @@ Il faut mesurer ce que cette phrase fait, dans le monde où elle est écrite. Le
 
 Ce sont donc des fonctionnaires. Ils ==mashal== parce qu'on leur a délégué un domaine, exactement comme l'homme **radah** sur le vivant : une autorité ==reçue==, bornée, et qui rend compte.
 
-Le même verbe reparaît alors dans une phrase beaucoup plus sombre, et c'est le même sens qui la porte. **YHWH** dit à ==Qayin== que la **chattah** est tapie à sa porte, qu'elle le désire — et que lui doit la ==mashal==. Non pas résister à une tentation, non pas être vertueux : ==gouverner son domaine==. Ce qui est couché à l'entrée relève de sa charge, comme la nuit relève de la lune.
+Le même verbe reparaît alors dans une phrase beaucoup plus sombre, et c'est le même sens qui la porte. **YHWH** dit à ==Qayin== que la **chattat** est tapie à sa porte, qu'elle le désire — et que lui doit la ==mashal==. Non pas résister à une tentation, non pas être vertueux : ==gouverner son domaine==. Ce qui est couché à l'entrée relève de sa charge, comme la nuit relève de la lune.
 
 C'est aussi ce verbe qu'entend ==Chavah== dans ce qui lui est dit après la fracture : l'**Ish** ==mashal== sur elle. Le mot est le même que pour les luminaires et pour ==Qayin== — une gouvernance. Le texte constate ce qui vient de se défaire dans le vis-à-vis : ce qui était *kenegdo*, en face, devient un rapport de domaine.
 
