@@ -582,7 +582,7 @@ Il a été retenu sur trois faits, non sur le goût :
 |---|---|---|
 | texte nu | encre | non |
 | `==mot==` | bordeaux `#862742` / `#D87994` | non |
-| `[[Nom]]` | **terre brûlée `#603518` / `#A3704D`** | **oui** → fiche de **Shem** |
+| `[[Nom]]` | **terre brûlée `#603518` / `#AA7550`** | **oui** → fiche de **Shem** |
 | `**mot**` | or, semi-gras | **oui** → fiche de lexique |
 | `*mot*` | italique | non |
 
@@ -601,9 +601,28 @@ lecteur ne saurait plus si un mot doré est un concept ou un nom. La terre brûl
 est le ==seul ton chaud qui s'en sorte==, et elle y arrive en descendant assez
 bas pour frôler l'encre.
 
-Sur fond sombre elle remonte à `#A3704D`, à teinte constante — même logique que
+Sur fond sombre elle remonte à `#AA7550`, à teinte constante — même logique que
 le bordeaux qui devient `#D87994`, et pour la même raison : elle disparaîtrait
 dans le noir.
+
+**Deux exigences distinctes, et il faut les deux.** Le ΔE mesure l'écart *entre
+marquages* — que l'or, le bordeaux et la terre brûlée ne se confondent pas. Le
+**contraste** mesure l'écart *au fond* — que le mot se lise. Une couleur peut
+tenir la première et manquer la seconde.
+
+C'est arrivé ici : la première valeur de nuit proposée, `#A3704D`, tenait ses
+trois ΔE et ne donnait que ==4,34:1== sur le thème sombre, sous le seuil AA du
+WCAG. Relevé par la session iOS, qui a le jeton de fond que le vault n'a pas.
+`#AA7550` donne 4,68:1 sur sombre et 4,95:1 sur mystique, tous les ΔE restant
+au-dessus du plancher.
+
+Contrastes des deux valeurs, sur les fonds où chacune sert :
+
+    #603518   parchemin 9,57:1   clair 10,40:1
+    #AA7550   sombre     4,68:1   mystique 4,95:1
+
+Et une couleur ne se juge que sur **les fonds où elle sert** : mesurer la valeur
+de nuit sur le parchemin ne veut rien dire, elle n'y paraît jamais.
 
 #### Les fiches
 
