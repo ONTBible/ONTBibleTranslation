@@ -641,6 +641,20 @@ transposition. Ce qui doit être commun est ==la teinte et le nom de la couche==
 la valeur se remesure sur chaque fond, et une valeur juste ici n'a aucune raison
 de l'être ailleurs.
 
+**Et la règle se démontre, elle ne s'affirme pas.** Le site a dérivé sa valeur
+==en partant de la mauvaise== — je lui avais transmis `#A3704D`, écartée deux
+jours plus tôt. Mise en teinte, sa dérivation tombe pourtant sur la ligne de la
+valeur courante :
+
+    #AA7550   l'app     teinte 24,7°   saturation 36,0 %   clarté 49,0 %
+    #BA8C6C   le site   teinte 24,6°   saturation 36,1 %   clarté 57,6 %
+
+Teinte et saturation identiques ==au dixième== ; seule la clarté bouge. Ce n'est
+donc pas une autre couleur : c'est la même, ==avec la clarté remesurée sur le
+fond d'arrivée==. La teinte a traversé intacte alors même que la valeur
+transmise était fausse — ce que la règle prédisait, et qui se vérifie ici par le
+calcul plutôt que par l'accord entre sessions.
+
 **Et le gravier était que rien ne mesurait les couleurs.** Les feuilles de style
 écrivaient leurs ratios ==en commentaire==, et aucun contrôle ne les relisait.
 Le site a posé
