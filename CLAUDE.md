@@ -624,6 +624,30 @@ Contrastes des deux valeurs, sur les fonds où chacune sert :
 Et une couleur ne se juge que sur **les fonds où elle sert** : mesurer la valeur
 de nuit sur le parchemin ne veut rien dire, elle n'y paraît jamais.
 
+**La valeur n'est pas commune entre les dépôts — seul le nom l'est.** C'est le
+site qui l'a établi, en refusant de reprendre `#AA7550` sans la mesurer : sa
+nuit est une aubergine `#18090D`, et sa surface de verset désigné `#261016`.
+Sur celle-ci, `#AA7550` donne ==4,60:1== — au-dessus du seuil AA, mais très en
+dessous du plancher que le site s'est fixé, ==6,5:1==, qui est celui de son
+`encre-douce` et de son `accentuation`. Le Shem y serait ==la couleur la plus
+faible du site==.
+
+Il emploie donc `#BA8C6C` — même teinte à 24,4°, même saturation, clarté
+relevée de 47,1 % à 57,6 % : 6,51:1 sur sa nuit, 6,04:1 sur sa surface.
+
+Ce n'est pas une divergence à réduire, c'est ==la bonne façon de faire==. Le
+précédent existe déjà avec `mystique`, dont le site est la référence et l'app la
+transposition. Ce qui doit être commun est ==la teinte et le nom de la couche== ;
+la valeur se remesure sur chaque fond, et une valeur juste ici n'a aucune raison
+de l'être ailleurs.
+
+**Et le gravier était que rien ne mesurait les couleurs.** Les feuilles de style
+écrivaient leurs ratios ==en commentaire==, et aucun contrôle ne les relisait.
+Le site a posé
+`aucune_couleur_de_texte_ne_descend_sous_le_plancher_de_la_rampe`, éprouvée en
+la faisant échouer sur la valeur fautive — un instrument validé sur un cas dont
+on connaît la réponse.
+
 #### Les fiches
 
 Elles vivent dans `lexique/`, comme celles des intraduisibles, et suivent
