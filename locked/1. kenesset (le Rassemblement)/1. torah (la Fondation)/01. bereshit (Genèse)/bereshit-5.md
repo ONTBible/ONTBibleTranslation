@@ -41,21 +41,21 @@
 
 ¹⁷ Tous les jours de ==Mahalalel== furent huit cent quatre-vingt-quinze ans — et il mourut.
 
-¹⁸ ==Yered== (*Yered* / יֶרֶד) vécut cent soixante-deux ans et engendra ==Khanokh== (*Khanokh* / חֲנוֹךְ) *[==Khanokh== — inaugurer, consacrer. Même nom que le fils de ==Qayin== en Bereshit 4. Deux ==Khanokh== dans les deux lignées — celui-ci sera le seul de toute la Bible à ne pas mourir]*.
+¹⁸ ==Yered== (*Yered* / יֶרֶד) vécut cent soixante-deux ans et engendra ==Chanokh== (*Chanokh* / חֲנוֹךְ) *[==Chanokh== — inaugurer, consacrer. Même nom que le fils de ==Qayin== en Bereshit 4. Deux ==Chanokh== dans les deux lignées — celui-ci sera le seul de toute la Bible à ne pas mourir]*.
 
-¹⁹ Après avoir engendré ==Khanokh==, ==Yered== vécut huit cents ans et engendra des fils et des filles.
+¹⁹ Après avoir engendré ==Chanokh==, ==Yered== vécut huit cents ans et engendra des fils et des filles.
 
 ²⁰ Tous les jours de ==Yered== furent neuf cent soixante-deux ans — et il mourut.
 
-## Khanokh — celui qui cheminait avec Elohim
+## Chanokh — celui qui cheminait avec Elohim
 
-²¹ ==Khanokh== (*Khanokh* / חֲנוֹךְ) vécut soixante-cinq ans et engendra ==Metoushelach== (*Metoushelach* / מְתוּשֶׁלַח) *[==Metoushelach== — étymologie débattue : "homme de l'épée" ou "quand il mourra, cela viendra". Il sera l'être humain au plus grand âge de toute la Bible : neuf cent soixante-neuf ans]*.
+²¹ ==Chanokh== (*Chanokh* / חֲנוֹךְ) vécut soixante-cinq ans et engendra ==Metoushelach== (*Metoushelach* / מְתוּשֶׁלַח) *[==Metoushelach== — étymologie débattue : "homme de l'épée" ou "quand il mourra, cela viendra". Il sera l'être humain au plus grand âge de toute la Bible : neuf cent soixante-neuf ans]*.
 
-²² Et ==Khanokh== cheminait (*vayithalekh* / וַיִּתְהַלֵּךְ) *[hithalekh — hitpael de halakh (marcher) : non pas un acte ponctuel mais un mode d'existence continu et réciproque. Cheminer avec quelqu'un c'est partager le même chemin dans la durée — une relation vécue pas à pas. Ce seul verbe brise le rythme de la généalogie]* avec **Elohim** (*et-ha'elohim* / אֶת-הָאֱלֹהִים) après avoir engendré ==Metoushelach==, trois cents ans — et il engendra des fils et des filles.
+²² Et ==Chanokh== cheminait (*vayithalekh* / וַיִּתְהַלֵּךְ) *[hithalekh — hitpael de halakh (marcher) : non pas un acte ponctuel mais un mode d'existence continu et réciproque. Cheminer avec quelqu'un c'est partager le même chemin dans la durée — une relation vécue pas à pas. Ce seul verbe brise le rythme de la généalogie]* avec **Elohim** (*et-ha'elohim* / אֶת-הָאֱלֹהִים) après avoir engendré ==Metoushelach==, trois cents ans — et il engendra des fils et des filles.
 
-²³ Tous les jours de ==Khanokh== furent trois cent soixante-cinq ans.
+²³ Tous les jours de ==Chanokh== furent trois cent soixante-cinq ans.
 
-²⁴ Et ==Khanokh== cheminait avec **Elohim** — et il n'était plus (*veyenenu* / וְאֵינֶנּוּ) *[veyenenu — littéralement "et il n'est pas là". Le texte refuse délibérément le refrain vayamot : ==Khanokh== ne meurt pas. Il est simplement absent. Le silence sur la modalité de sa disparition est lui-même l'information — le texte n'interprète pas, il constate]*, car **Elohim** l'avait pris (*ki-laqach oto Elohim* / כִּי-לָקַח אֹתוֹ אֱלֹהִים) *[laqach — prendre, emporter. **Elohim** est le sujet actif : c'est lui qui prend ==Khanokh==. ==Khanokh== avait cheminé avec **Elohim** — **Elohim** a cheminé avec lui jusqu'à la fin du chemin, et l'a emporté]*.
+²⁴ Et ==Chanokh== cheminait avec **Elohim** — et il n'était plus (*veyenenu* / וְאֵינֶנּוּ) *[veyenenu — littéralement "et il n'est pas là". Le texte refuse délibérément le refrain vayamot : ==Chanokh== ne meurt pas. Il est simplement absent. Le silence sur la modalité de sa disparition est lui-même l'information — le texte n'interprète pas, il constate]*, car **Elohim** l'avait pris (*ki-laqach oto Elohim* / כִּי-לָקַח אֹתוֹ אֱלֹהִים) *[laqach — prendre, emporter. **Elohim** est le sujet actif : c'est lui qui prend ==Chanokh==. ==Chanokh== avait cheminé avec **Elohim** — **Elohim** a cheminé avec lui jusqu'à la fin du chemin, et l'a emporté]*.
 
 ## Metoushelach, Lamekh et la naissance de Noach
 
@@ -81,9 +81,9 @@
 *Bereshit 5 — Version 1.0 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 5 :*
 - *Toledot — "engendrements" (de yalad : ce qui sort d'un être et le prolonge dans le temps — marqueur structurel de *Bereshit*)*
-- *Vayamot — "et il mourut" (refrain de Bereshit 5 — présent pour chaque vie sauf ==Khanokh==)*
+- *Vayamot — "et il mourut" (refrain de Bereshit 5 — présent pour chaque vie sauf ==Chanokh==)*
 - *Hithalekh — "cheminait" (hitpael : mode d'existence continu avec **Elohim**, non acte ponctuel)*
-- *Veyenenu — "il n'était plus" (refus délibéré du refrain vayamot pour ==Khanokh== — le silence est l'information)*
-- *Prénoms hébreux : ==Qenan==, ==Mahalalel==, ==Yered==, ==Khanokh==, ==Metoushelach==, ==Lamekh==, ==Noach==, Shem, ==Cham==, ==Yaphet==*
+- *Veyenenu — "il n'était plus" (refus délibéré du refrain vayamot pour ==Chanokh== — le silence est l'information)*
+- *Prénoms hébreux : ==Qenan==, ==Mahalalel==, ==Yered==, ==Chanokh==, ==Metoushelach==, ==Lamekh==, ==Noach==, Shem, ==Cham==, ==Yaphet==*
 - *==Noach== — de nuach (repos fonctionnel) / yenachameinu — de nacham (consoler) : jeu de mots intraduisible noté en crochet*
 - *Bereshit 6 : commence avec *Bereshit* 6:1 — le passage des **Nephilim** a été traité avec l'auteur, le chapitre est écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal maintenue, « géants » écarté (§2.5, §3.3)*

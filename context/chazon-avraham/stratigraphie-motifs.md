@@ -157,11 +157,11 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 **Triangulation :**
 - ***Bereshit* 15:11** (ONT verrouillé) — *« le rapace descendit sur les corps, et Avram le chassa »*. Le livre **identifie** le rapace anonyme de la Torah. Toute la scène est une exégèse de ce demi-verset.
-- **1 *Khanokh* 8-10** — Azazel, chef des **'irin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
+- **1 *Chanokh* 8-10** — Azazel, chef des **'irin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
 - ***Vayiqra* 16:8-10, 26** — le lot pour Azazel, le bouc envoyé au désert. **Non encore traité dans l'ONT.**
 - ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **'irin**, sans gras.
 
-**Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Khanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **mal'akh** est défini par son envoi et non par sa nature (§3).
+**Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Chanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **mal'akh** est défini par son envoi et non par sa nature (§3).
 
 **Statut du nom — décision d'auteur, voir §D.2.**
 
@@ -220,7 +220,7 @@ Noter pour le rendu : c'est une **montée corporelle**, portée, dans un véhicu
 
 **Scène :** El fait regarder Avraham sous le firmament où il se tient ; les étendues sont décrites, échelonnées, avec ce qui les peuple.
 
-**Triangulation :** **2 *Khanokh*** ; ***Tsava'at Lévi*** (n° 40 du corpus ONT) ; **2 Co 12:2** (« le troisième ciel ») — la pluralité des cieux est **attestée** dans le Second Temple, et Shaul la tient pour acquise.
+**Triangulation :** **2 *Chanokh*** ; ***Tsava'at Lévi*** (n° 40 du corpus ONT) ; **2 Co 12:2** (« le troisième ciel ») — la pluralité des cieux est **attestée** dans le Second Temple, et Shaul la tient pour acquise.
 
 **Verdict : TRACE POSSIBLE — en tension à documenter.** La difficulté n'est pas l'authenticité mais la **cohérence interne du corpus** : le CLAUDE.md §6 fixe une cosmologie à quatre niveaux (**She'ol** / Terre / espace habitable / Voûte / eaux supérieures) tirée de *Bereshit* 1 et 7:11. Les sept firmaments sont une **élaboration ultérieure** de cette même structure, non une contradiction — mais le §6 ne les prévoit pas.
 
@@ -252,7 +252,7 @@ Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux
 - ***Bereshit* 3** (ONT **verrouillé**) — le *nachash* y est **la plus rusée des bêtes du champ**, traité **fonctionnellement**. C'est une décision prise et verrouillée.
 - ***Toledot Adam ve-Chavah*, Motif 3** (ONT verrouillé) — verdict explicite : *« Décision structurante : ne pas faire du serpent un Satan dans le corps. »*
 - ***Toledot*, ré-audit par la Berit Hadashah** — la ligne « serpent = **ha-satan** » y est laissée **« à trancher avec l'auteur »**, corroborée par *Machazeh Yohanan* 12:9 (« l'antique serpent »), mais en tension avec *Bereshit* 3.
-- **1 *Khanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **'irin**, non celui d'Eden.
+- **1 *Chanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **'irin**, non celui d'Eden.
 
 **Verdict : LE CARREFOUR — décision d'auteur, deuxième présentation (§D.3).**
 
@@ -285,7 +285,7 @@ Noter aussi : la structure du ch. 25 est celle de Yehezqel 8-11 — *l'abominati
 
 **Scène :** dans le tableau, un homme sort du côté **gauche** — celui des **goyim** — ; des membres du peuple de droite l'adorent, d'autres l'insultent et le frappent ; puis certains d'entre les **goyim** le suivent.
 
-**Triangulation :** aucune. Le passage n'a **aucun** parallèle juif ancien, ni à Qumrân, ni chez Khanokh, ni dans les autres *chazonot*. Les éditeurs successifs du livre — Box, Rubinkiewicz, Kulik — le tiennent unanimement pour une **interpolation chrétienne**, et Rubinkiewicz en a détaillé la couture.
+**Triangulation :** aucune. Le passage n'a **aucun** parallèle juif ancien, ni à Qumrân, ni chez Chanokh, ni dans les autres *chazonot*. Les éditeurs successifs du livre — Box, Rubinkiewicz, Kulik — le tiennent unanimement pour une **interpolation chrétienne**, et Rubinkiewicz en a détaillé la couture.
 
 **Verdict : DISTORSION → ÉCARTÉE.** Retirée du corps, tenue en note d'apparat comme fait de transmission.
 
@@ -303,7 +303,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien i
 
 **Scène :** dix plaies décrétées sur les **goyim** à la fin des temps ; puis El envoie son élu, au son de la trompette, et rassemble son peuple ; ceux qui ont outragé sont brûlés par le feu d'Azazel.
 
-**Triangulation :** ***Shemot* 7-12** — les dix plaies sur Mitsrayim : la grille est empruntée, explicitement. ***Yeshayahu* 27:13** — le grand *shofar* qui rassemble les dispersés. **Daniel 12:1-3**. **1 *Khanokh* 10** — le feu où Azazel est jeté ; ici il en devient l'instrument.
+**Triangulation :** ***Shemot* 7-12** — les dix plaies sur Mitsrayim : la grille est empruntée, explicitement. ***Yeshayahu* 27:13** — le grand *shofar* qui rassemble les dispersés. **Daniel 12:1-3**. **1 *Chanokh* 10** — le feu où Azazel est jeté ; ici il en devient l'instrument.
 
 **Verdict : NOYAU ANCIEN.** Rien de neuf à décider : le vocabulaire est celui du corpus. La numérotation en dix est une reprise **structurelle** de *Shemot* — à signaler en glose comme reprise, non comme prédiction chiffrée.
 
@@ -356,7 +356,7 @@ Rien de ce qui suit n'entre au texte sans arbitrage. Classé par poids.
 
 **D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **'irin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
 
-**D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsava'at Lévi*, 2 *Khanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Khanokh* (n° 38) — autant la traiter une fois.
+**D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsava'at Lévi*, 2 *Chanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Chanokh* (n° 38) — autant la traiter une fois.
 
 **D.5 — Le registre poétique (ch. 17).** Le chant est le premier morceau franchement poétique que l'ONT rencontrerait, or §7 réserve l'établissement des conventions poétiques au premier *Tehilim* traité avec l'auteur. Deux voies : ouvrir le registre ici, ou rendre le chant en prose scandée en attendant. Une décision prise ici engagera *Tehilim*, *Iyov* et *Shir Hashirim*.
 
@@ -386,7 +386,7 @@ Formulation proposée pour la feuille d'introduction : *traduit et non reconstru
 
 Le dossier est bâti sur une connaissance de seconde main du texte slavon et de son dossier savant. Trois niveaux de fiabilité à distinguer :
 
-- **Solide** — la structure du livre, la chaîne de transmission, l'armature de *Bereshit* 15, le statut interpolé du ch. 29, les parallèles avec Yehezqel, Daniel, 1 *Khanokh* et *Yovelim*.
+- **Solide** — la structure du livre, la chaîne de transmission, l'armature de *Bereshit* 15, le statut interpolé du ch. 29, les parallèles avec Yehezqel, Daniel, 1 *Chanokh* et *Yovelim*.
 - **À vérifier à la source** — la numérotation des chapitres et versets, qui **varie d'une édition à l'autre** ; les formulations exactes citées ici, qui sont des paraphrases et non des citations ; le vocabulaire slavon du §C, dont les formes doivent être contrôlées sur une édition.
 - **À établir** — la question de savoir si le slavon porte *duši* au ch. 22 (Motif 11 bis), dont dépend un point de rendu.
 

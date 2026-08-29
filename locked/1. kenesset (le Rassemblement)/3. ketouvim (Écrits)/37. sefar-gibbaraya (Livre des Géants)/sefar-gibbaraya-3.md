@@ -5,11 +5,11 @@
 
 ## Les noms des puissants
 
-¹ Voici les noms des **gibbaraya** : ==Ohyah== (*Ohyah* / אוהיה) *[étymologie incertaine — racine hébraïque non identifiable avec certitude dans les fragments ; géant majeur lié aux songes]*, ==Hahyah==/==Ahyah== (*Hahyah/Ahyah* / ההיה) *[étymologie incertaine — vocalisation ==Hahyah==/==Ahyah== laissée ouverte par les manuscrits ; frère d'Ohyah]*, fils de ==Shemikhazah== *[chef des **'irin** (ch. 1)]* ; ==Mahaway== (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** — envoyé vers ==Khanokh== pour recevoir l'interprétation ; envoi venant d'en bas, sans mandat divin — inversion de la structure du **mal'akh** **YHWH**]*, fils de ==Baraqel== *[l'un des **'irin**, père de ==Mahaway==]* ; ==Gilgamesh== (*Gilgamesh* / גלגמיש) *[nom de mémoire mésopotamienne placé ici sous décret]* ; ==Hobabish== (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]*.
+¹ Voici les noms des **gibbaraya** : ==Ohyah== (*Ohyah* / אוהיה) *[étymologie incertaine — racine hébraïque non identifiable avec certitude dans les fragments ; géant majeur lié aux songes]*, ==Hahyah==/==Ahyah== (*Hahyah/Ahyah* / ההיה) *[étymologie incertaine — vocalisation ==Hahyah==/==Ahyah== laissée ouverte par les manuscrits ; frère d'Ohyah]*, fils de ==Shemikhazah== *[chef des **'irin** (ch. 1)]* ; ==Mahaway== (*Mahaway* / מהוי) *[**mal'akh** des **gibbaraya** — envoyé vers ==Chanokh== pour recevoir l'interprétation ; envoi venant d'en bas, sans mandat divin — inversion de la structure du **mal'akh** **YHWH**]*, fils de ==Baraqel== *[l'un des **'irin**, père de ==Mahaway==]* ; ==Gilgamesh== (*Gilgamesh* / גלגמיש) *[nom de mémoire mésopotamienne placé ici sous décret]* ; ==Hobabish== (*Hobabish* / חובבש) *[nom étranger intégré à la mémoire des **gibbaraya**]*.
 
 ² Ces noms furent grands parmi les hommes, mais leur **shem** (*shem* / שֵׁם) ne les établit pas dans le **tsedeq** (*tsedeq* / צֶדֶק) *[ordre juste, conformité fonctionnelle au domaine assigné ; non pas justice abstraite grecque]*.
 
-³ ==Ohyah== était puissant parmi eux, et ==Hahyah==/==Ahyah== son frère se tenait avec lui. ⁴ ==Mahaway== était mobile entre les lieux, capable d'aller chercher réponse auprès de ==Khanokh== lorsque les songes devinrent trop lourds.
+³ ==Ohyah== était puissant parmi eux, et ==Hahyah==/==Ahyah== son frère se tenait avec lui. ⁴ ==Mahaway== était mobile entre les lieux, capable d'aller chercher réponse auprès de ==Chanokh== lorsque les songes devinrent trop lourds.
 
 ⁵ ==Gilgamesh== fut nommé parmi eux, et avec lui ==Hobabish==. ⁶ Ces noms venus de la mémoire des nations furent pris dans le récit des **gibbaraya** et soumis à une autre lecture. ⁷ Ils ne furent pas célébrés comme héros d'épopée, mais placés sous le décret de celui qui ordonne les domaines.
 
@@ -35,7 +35,7 @@
 
 - *Bereshit* 10:8-12 : ==Nimrod== comme **gibor**.
 - *Daniel* 2 et 4 : songe, puissance, décret et interprétation.
-- 1 *==Khanokh==* 15-16 : impossibilité d'une place stable pour les **gibbaraya**.
+- 1 *==Chanokh==* 15-16 : impossibilité d'une place stable pour les **gibbaraya**.
 
 ---
 
