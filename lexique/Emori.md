@@ -18,6 +18,6 @@ Le corpus refuse ainsi de faire de la dépossession un droit du sang. ==Elle est
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousim]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
 
 Où le corpus les reprend : *Bereshit* 14 comme alliés, *Bereshit* 15 pour la mesure de leur *avon*.

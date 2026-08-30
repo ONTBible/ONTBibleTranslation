@@ -1,4 +1,4 @@
-# Périzzi
+# Perizi
 
 ## Le Shem
 

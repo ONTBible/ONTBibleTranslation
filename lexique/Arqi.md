@@ -14,4 +14,4 @@ Ce n'est pas une généalogie de familles, c'est ==une carte du littoral== écri
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousim]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].

@@ -32,4 +32,4 @@ Sa maison : [[Tsillah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Na'
 
 Son ancêtre, dont il porte le **Shem** : [[Qayin]].
 
-Ce que son métal touche : le **chamas** qui remplira la Terre, et les **gibborim** dont la force fera le poids avant le **mabbul**.
+Ce que son métal touche : le *chamas* qui remplira la Terre, et les **gibborim** dont la force fera le poids avant le **mabbul**.

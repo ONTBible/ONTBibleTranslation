@@ -14,4 +14,4 @@ Elle ferme donc, au septentrion, la portion de liste que [[Tsidon]] ouvrait au m
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousim]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].

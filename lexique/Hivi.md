@@ -16,6 +16,6 @@ Le corpus ne moralise ni l'un ni l'autre. Il enregistre ==une constante== : ce p
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousim]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
 
 Où le corpus les reprend : *Yehoshua* 9, et *Bereshit* 34.

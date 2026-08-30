@@ -39,4 +39,4 @@ Le même **Shem**, porté par un autre : le [[Lamekh-fils-de-Metoushelach]] de l
 
 Sa maison : [[Metoushael]] son père, [[Ada]] et [[Tsillah]] ses **ishah**, et leurs quatre enfants.
 
-Ce que son chant touche : le signe posé sur [[Qayin]], et le **chamas** qui remplira la Terre avant le **mabbul**.
+Ce que son chant touche : le signe posé sur [[Qayin]], et le *chamas* qui remplira la Terre avant le **mabbul**.

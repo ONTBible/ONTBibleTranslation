@@ -16,7 +16,7 @@ Elle enfante et dit (*qaniti ish et-YHWH* / קָנִיתִי אִישׁ אֶת־
 
 Puis elle perd ses deux fils le même jour — l'un tué, l'autre banni au pays de l'errance. Et elle enfante encore, et nomme [[Shet]] en disant qu'**Elohim** lui a ==posé== une autre semence à la place de [[Hevel]].
 
-Regardez ce que les deux noms disent l'un après l'autre. Le premier porte ce qu'**elle** a fait — j'ai obtenu. Le second porte ce qu'**Elohim** a fait — il a posé. Entre les deux il y a eu un meurtre, et sa façon de nommer a changé.
+Regardez ce que les deux noms disent l'un après l'autre. Le premier porte ce qu'==elle== a fait — j'ai obtenu. Le second porte ce qu'**Elohim** a fait — il a posé. Entre les deux il y a eu un meurtre, et sa façon de nommer a changé.
 
 ## Son propre livre
 
@@ -26,7 +26,7 @@ Il relève la seule question que *Bereshit* 3 laisse ouverte en refermant la por
 
 Elle n'y est pas un personnage secondaire. Elle part avec [[Shet]] vers l'orient, jusqu'à la porte du Jardin, chercher le remède. Une **chayah** se jette sur son fils et le mord, et c'est elle qui crie contre la bête : ==comment ta bouche s'est-elle ouverte contre celui qu'**Elohim** a fait pour le représenter ?== — elle invoque le **tselem**, le mandat de représentant, contre l'animal qui l'attaque.
 
-Et c'est elle qui **témoigne**. Elle dit comment le **nachash** les a fait sortir de leur trajectoire, comment ils furent dénudés de la **kavod**. Dans un livre qui restitue, la parole qui porte est la sienne.
+Et c'est elle qui ==témoigne==. Elle dit comment le *nachash* les a fait sortir de leur trajectoire, comment ils furent dénudés de la **kavod**. Dans un livre qui restitue, la parole qui porte est la sienne.
 
 ## Voir aussi
 

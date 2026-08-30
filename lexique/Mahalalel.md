@@ -4,7 +4,7 @@
 
 Un nom composé, et transparent : (*Mahalalel* / מַהֲלַלְאֵל) — *hallel*, la louange, et ==El==. ==La louange d'**Elohim**==.
 
-C'est la même racine que le mot qu'on emploie encore aujourd'hui pour ouvrir un chant — *halleluyah*, louez **Yah**. Le **Shem** ne décrit donc ni un trait de caractère ni un acte : il ==inscrit une orientation== dans le nom même de l'homme.
+C'est la même racine que le mot qu'on emploie encore aujourd'hui pour ouvrir un chant — *halleluyah*, louez *Yah*. Le **Shem** ne décrit donc ni un trait de caractère ni un acte : il ==inscrit une orientation== dans le nom même de l'homme.
 
 ## Où le corpus le place
 

@@ -14,7 +14,7 @@ Il est l'un des **'irin**, dans le récit de la sortie de garde.
 
 Et son **Shem** ==porte plus loin que ce récit==. Le rituel de *Vayiqra* 16 enverra un bouc ==pour Azazel== dans le désert, chargé de ce que le camp ne peut pas garder — et le mot y est le même.
 
-Le corpus ne relie pas explicitement le **'ir** et le rituel. Mais ==les deux disent le même geste== : ce qui ne peut pas rester à l'intérieur est envoyé au-dehors, et le désert reçoit ce que l'ordre expulse.
+Le corpus ne relie pas explicitement le *'ir* et le rituel. Mais ==les deux disent le même geste== : ce qui ne peut pas rester à l'intérieur est envoyé au-dehors, et le désert reçoit ce que l'ordre expulse.
 
 La règle de l'ONT est de ne pas fabriquer ce lien. On relève que ==le même mot sert deux fois==, et on le laisse travailler.
 
