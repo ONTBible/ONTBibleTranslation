@@ -101,6 +101,19 @@ jobs:
       # Dans les trois cas, `gh workflow run` rendrait une erreur qui parle
       # d'authentification sans nommer laquelle. On pose donc la question à
       # l'API, sur le droit exact dont on a besoin, et on l'écrit en clair.
+      # `L'arrivée` lit la date du dernier commit pour savoir ce que la chaîne
+      # doit publier. Sans dépôt, `git log` rend 128 et l'étape meurt avant sa
+      # première mesure — c'est ce qui est arrivé le 30 août, à sa toute
+      # première exécution : la garde avait été éprouvée sur trois cas de
+      # comparaison, jamais dans l'environnement où elle tourne.
+      #
+      # Les trois autres étapes n'appellent que l'API et n'en ont pas besoin ;
+      # c'est pour ça qu'aucun checkout n'existait. `fetch-depth: 1` suffit —
+      # on ne lit qu'un commit.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
       - name: Le jeton peut déclencher
         env:
           GH_TOKEN: ${{ secrets.DECLENCHEUR }}
