@@ -1,0 +1,639 @@
+{
+  "avertissement": "Forme neutre, classée par référence biblique. Ne connaît ni les parashiot ni la numérotation interne des unités ONT — la jointure est au pipeline.",
+  "sources": {
+    "he-wlc": {
+      "nom": "Westminster Leningrad Codex + Open Scriptures Hebrew Bible",
+      "langue": "he",
+      "texte": {
+        "oeuvre": "Westminster Leningrad Codex",
+        "licence": "domaine public"
+      },
+      "analyse": {
+        "champ": "oshb",
+        "oeuvre": "Open Scriptures Hebrew Bible",
+        "licence": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "copyleft": false
+      },
+      "attribution": "Texte : Westminster Leningrad Codex (domaine public). Lemmes et morphologie : Open Scriptures Hebrew Bible, CC BY 4.0.",
+      "commit_amont": "3d15126fb1ef74867fc1434be1942e837932691f",
+      "depot_amont": "https://github.com/openscriptures/morphhb.git",
+      "totaux": {
+        "livres": 39,
+        "versets": 23213,
+        "mots": 305507
+      },
+      "livres": {
+        "Gen": {
+          "ont": 1,
+          "slug": "bereshit",
+          "versets": 1533,
+          "mots": 20612
+        },
+        "Exod": {
+          "ont": 2,
+          "slug": "shemot",
+          "versets": 1213,
+          "mots": 16713
+        },
+        "Lev": {
+          "ont": 3,
+          "slug": "vayiqra",
+          "versets": 859,
+          "mots": 11950
+        },
+        "Num": {
+          "ont": 4,
+          "slug": "bemidbar",
+          "versets": 1289,
+          "mots": 16413
+        },
+        "Deut": {
+          "ont": 5,
+          "slug": "devarim",
+          "versets": 959,
+          "mots": 14294
+        },
+        "Josh": {
+          "ont": 7,
+          "slug": "yehoshua",
+          "versets": 658,
+          "mots": 10051
+        },
+        "Judg": {
+          "ont": 8,
+          "slug": "shoftim",
+          "versets": 618,
+          "mots": 9885
+        },
+        "1Sam": {
+          "ont": 9,
+          "slug": "shemuel",
+          "versets": 811,
+          "mots": 13264
+        },
+        "2Sam": {
+          "ont": 9,
+          "slug": "shemuel",
+          "versets": 695,
+          "mots": 11039
+        },
+        "1Kgs": {
+          "ont": 10,
+          "slug": "melakhim",
+          "versets": 817,
+          "mots": 13140
+        },
+        "2Kgs": {
+          "ont": 10,
+          "slug": "melakhim",
+          "versets": 719,
+          "mots": 12281
+        },
+        "Jer": {
+          "ont": 11,
+          "slug": "yirmeyahu",
+          "versets": 1364,
+          "mots": 21836
+        },
+        "Lam": {
+          "ont": 12,
+          "slug": "ekha",
+          "versets": 154,
+          "mots": 1542
+        },
+        "Ezek": {
+          "ont": 13,
+          "slug": "yehezqel",
+          "versets": 1273,
+          "mots": 18730
+        },
+        "Isa": {
+          "ont": 14,
+          "slug": "yeshayahu",
+          "versets": 1291,
+          "mots": 16932
+        },
+        "Hos": {
+          "ont": 15,
+          "slug": "hoshea",
+          "versets": 197,
+          "mots": 2381
+        },
+        "Joel": {
+          "ont": 16,
+          "slug": "yoel",
+          "versets": 73,
+          "mots": 957
+        },
+        "Amos": {
+          "ont": 17,
+          "slug": "amos",
+          "versets": 146,
+          "mots": 2042
+        },
+        "Obad": {
+          "ont": 18,
+          "slug": "ovadyah",
+          "versets": 21,
+          "mots": 291
+        },
+        "Jonah": {
+          "ont": 19,
+          "slug": "yonah",
+          "versets": 48,
+          "mots": 688
+        },
+        "Mic": {
+          "ont": 20,
+          "slug": "mikhah",
+          "versets": 105,
+          "mots": 1396
+        },
+        "Nah": {
+          "ont": 21,
+          "slug": "nahum",
+          "versets": 47,
+          "mots": 558
+        },
+        "Hab": {
+          "ont": 22,
+          "slug": "havaquq",
+          "versets": 56,
+          "mots": 671
+        },
+        "Zeph": {
+          "ont": 23,
+          "slug": "tsefanyah",
+          "versets": 53,
+          "mots": 767
+        },
+        "Hag": {
+          "ont": 24,
+          "slug": "haggai",
+          "versets": 38,
+          "mots": 600
+        },
+        "Zech": {
+          "ont": 25,
+          "slug": "zekharyah",
+          "versets": 211,
+          "mots": 3128
+        },
+        "Mal": {
+          "ont": 26,
+          "slug": "malakhi",
+          "versets": 55,
+          "mots": 876
+        },
+        "Ps": {
+          "ont": 27,
+          "slug": "tehilim",
+          "versets": 2527,
+          "mots": 19587
+        },
+        "Prov": {
+          "ont": 28,
+          "slug": "mishlei",
+          "versets": 915,
+          "mots": 6915
+        },
+        "Job": {
+          "ont": 29,
+          "slug": "iyov",
+          "versets": 1070,
+          "mots": 8343
+        },
+        "Song": {
+          "ont": 30,
+          "slug": "shir-hashirim",
+          "versets": 117,
+          "mots": 1251
+        },
+        "Ruth": {
+          "ont": 31,
+          "slug": "ruth",
+          "versets": 85,
+          "mots": 1294
+        },
+        "Eccl": {
+          "ont": 32,
+          "slug": "qohelet",
+          "versets": 222,
+          "mots": 2987
+        },
+        "Esth": {
+          "ont": 33,
+          "slug": "esther",
+          "versets": 167,
+          "mots": 3045
+        },
+        "Ezra": {
+          "ont": 34,
+          "slug": "ezra-nehemyah",
+          "versets": 280,
+          "mots": 3754
+        },
+        "Neh": {
+          "ont": 34,
+          "slug": "ezra-nehemyah",
+          "versets": 405,
+          "mots": 5312
+        },
+        "1Chr": {
+          "ont": 35,
+          "slug": "divrei-hayamim",
+          "versets": 943,
+          "mots": 10747
+        },
+        "2Chr": {
+          "ont": 35,
+          "slug": "divrei-hayamim",
+          "versets": 822,
+          "mots": 13316
+        },
+        "Dan": {
+          "ont": 41,
+          "slug": "daniel",
+          "versets": 357,
+          "mots": 5919
+        }
+      }
+    },
+    "grc-sblgnt": {
+      "nom": "SBL Greek New Testament + MorphGNT",
+      "langue": "grc",
+      "texte": {
+        "oeuvre": "SBL Greek New Testament",
+        "licence": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "reserve": "ne peut pas être vendu seul"
+      },
+      "analyse": {
+        "champ": "mgnt",
+        "oeuvre": "MorphGNT",
+        "licence": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "copyleft": true
+      },
+      "attribution": "Texte : SBL Greek New Testament, © Society of Biblical Literature et Logos Bible Software, CC BY 4.0. Analyse morphologique : MorphGNT, CC BY-SA 3.0.",
+      "commit_amont": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+      "depot_amont": "https://github.com/morphgnt/sblgnt.git",
+      "totaux": {
+        "livres": 27,
+        "versets": 7927,
+        "mots": 137554
+      },
+      "livres": {
+        "Mk": {
+          "ont": 44,
+          "slug": "marqus",
+          "versets": 673,
+          "mots": 11286
+        },
+        "Mt": {
+          "ont": 45,
+          "slug": "matityahu",
+          "versets": 1068,
+          "mots": 18329
+        },
+        "Lk": {
+          "ont": 46,
+          "slug": "luqas",
+          "versets": 1149,
+          "mots": 19446
+        },
+        "Jn": {
+          "ont": 47,
+          "slug": "bereshit-ha-yohanan",
+          "versets": 866,
+          "mots": 15438
+        },
+        "Ac": {
+          "ont": 48,
+          "slug": "gevurot-ha-neviim",
+          "versets": 1002,
+          "mots": 18412
+        },
+        "Ro": {
+          "ont": 49,
+          "slug": "el-ha-romiyim",
+          "versets": 430,
+          "mots": 7055
+        },
+        "1Co": {
+          "ont": 50,
+          "slug": "el-ha-qorintiyim-alef",
+          "versets": 437,
+          "mots": 6812
+        },
+        "2Co": {
+          "ont": 51,
+          "slug": "el-ha-qorintiyim-bet",
+          "versets": 256,
+          "mots": 4473
+        },
+        "Ga": {
+          "ont": 52,
+          "slug": "el-ha-galatiyim",
+          "versets": 149,
+          "mots": 2226
+        },
+        "Eph": {
+          "ont": 53,
+          "slug": "el-ha-efesiyim",
+          "versets": 155,
+          "mots": 2416
+        },
+        "Php": {
+          "ont": 54,
+          "slug": "el-ha-filipiyim",
+          "versets": 104,
+          "mots": 1626
+        },
+        "Col": {
+          "ont": 55,
+          "slug": "el-ha-qolossiyim",
+          "versets": 95,
+          "mots": 1580
+        },
+        "1Th": {
+          "ont": 56,
+          "slug": "el-ha-tessaloniqiyim-alef",
+          "versets": 89,
+          "mots": 1473
+        },
+        "2Th": {
+          "ont": 57,
+          "slug": "el-ha-tessaloniqiyim-bet",
+          "versets": 47,
+          "mots": 820
+        },
+        "Phm": {
+          "ont": 58,
+          "slug": "el-filemon",
+          "versets": 25,
+          "mots": 334
+        },
+        "Jas": {
+          "ont": 59,
+          "slug": "igeret-yaaqov",
+          "versets": 108,
+          "mots": 1739
+        },
+        "1Pe": {
+          "ont": 60,
+          "slug": "igeret-kefa-alef",
+          "versets": 105,
+          "mots": 1678
+        },
+        "Heb": {
+          "ont": 61,
+          "slug": "igeret-ha-ivrim",
+          "versets": 303,
+          "mots": 4935
+        },
+        "1Ti": {
+          "ont": 62,
+          "slug": "el-timotiyos-alef",
+          "versets": 113,
+          "mots": 1591
+        },
+        "2Ti": {
+          "ont": 63,
+          "slug": "el-timotiyos-bet",
+          "versets": 83,
+          "mots": 1235
+        },
+        "Tit": {
+          "ont": 64,
+          "slug": "el-titos",
+          "versets": 46,
+          "mots": 659
+        },
+        "1Jn": {
+          "ont": 65,
+          "slug": "igeret-yohanan-alef",
+          "versets": 105,
+          "mots": 2137
+        },
+        "2Jn": {
+          "ont": 66,
+          "slug": "igeret-yohanan-bet",
+          "versets": 13,
+          "mots": 245
+        },
+        "3Jn": {
+          "ont": 67,
+          "slug": "igeret-yohanan-gimel",
+          "versets": 15,
+          "mots": 219
+        },
+        "2Pe": {
+          "ont": 68,
+          "slug": "igeret-kefa-bet",
+          "versets": 61,
+          "mots": 1098
+        },
+        "Jud": {
+          "ont": 69,
+          "slug": "igeret-yehudah",
+          "versets": 25,
+          "mots": 459
+        },
+        "Re": {
+          "ont": 70,
+          "slug": "machazeh-yohanan",
+          "versets": 405,
+          "mots": 9833
+        }
+      }
+    },
+    "grc-byz": {
+      "nom": "The New Testament in the Original Greek: Byzantine Textform (Robinson-Pierpont)",
+      "langue": "grc",
+      "texte": {
+        "oeuvre": "Robinson-Pierpont Byzantine Textform, RP2018",
+        "licence": "domaine public"
+      },
+      "analyse": {
+        "champ": null,
+        "oeuvre": "Robinson-Pierpont (analyse et Strong)",
+        "licence": "domaine public",
+        "copyleft": false
+      },
+      "attribution": "Robinson-Pierpont Byzantine Textform (RP2018), domaine public.",
+      "commit_amont": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+      "depot_amont": "https://github.com/byztxt/byzantine-majority-text.git",
+      "totaux": {
+        "livres": 27,
+        "versets": 7953,
+        "mots": 140149
+      },
+      "livres": {
+        "Mk": {
+          "ont": 44,
+          "slug": "marqus",
+          "versets": 678,
+          "mots": 11618
+        },
+        "Mt": {
+          "ont": 45,
+          "slug": "matityahu",
+          "versets": 1071,
+          "mots": 18742
+        },
+        "Lk": {
+          "ont": 46,
+          "slug": "luqas",
+          "versets": 1150,
+          "mots": 19878
+        },
+        "Jn": {
+          "ont": 47,
+          "slug": "bereshit-ha-yohanan",
+          "versets": 879,
+          "mots": 15892
+        },
+        "Ac": {
+          "ont": 48,
+          "slug": "gevurot-ha-neviim",
+          "versets": 1004,
+          "mots": 18671
+        },
+        "Ro": {
+          "ont": 49,
+          "slug": "el-ha-romiyim",
+          "versets": 433,
+          "mots": 7210
+        },
+        "1Co": {
+          "ont": 50,
+          "slug": "el-ha-qorintiyim-alef",
+          "versets": 437,
+          "mots": 6926
+        },
+        "2Co": {
+          "ont": 51,
+          "slug": "el-ha-qorintiyim-bet",
+          "versets": 257,
+          "mots": 4507
+        },
+        "Ga": {
+          "ont": 52,
+          "slug": "el-ha-galatiyim",
+          "versets": 149,
+          "mots": 2252
+        },
+        "Eph": {
+          "ont": 53,
+          "slug": "el-ha-efesiyim",
+          "versets": 155,
+          "mots": 2459
+        },
+        "Php": {
+          "ont": 54,
+          "slug": "el-ha-filipiyim",
+          "versets": 104,
+          "mots": 1641
+        },
+        "Col": {
+          "ont": 55,
+          "slug": "el-ha-qolossiyim",
+          "versets": 95,
+          "mots": 1614
+        },
+        "1Th": {
+          "ont": 56,
+          "slug": "el-ha-tessaloniqiyim-alef",
+          "versets": 89,
+          "mots": 1497
+        },
+        "2Th": {
+          "ont": 57,
+          "slug": "el-ha-tessaloniqiyim-bet",
+          "versets": 47,
+          "mots": 833
+        },
+        "Phm": {
+          "ont": 58,
+          "slug": "el-filemon",
+          "versets": 25,
+          "mots": 340
+        },
+        "Jas": {
+          "ont": 59,
+          "slug": "igeret-yaaqov",
+          "versets": 108,
+          "mots": 1760
+        },
+        "1Pe": {
+          "ont": 60,
+          "slug": "igeret-kefa-alef",
+          "versets": 105,
+          "mots": 1719
+        },
+        "Heb": {
+          "ont": 61,
+          "slug": "igeret-ha-ivrim",
+          "versets": 303,
+          "mots": 4987
+        },
+        "1Ti": {
+          "ont": 62,
+          "slug": "el-timotiyos-alef",
+          "versets": 113,
+          "mots": 1621
+        },
+        "2Ti": {
+          "ont": 63,
+          "slug": "el-timotiyos-bet",
+          "versets": 83,
+          "mots": 1251
+        },
+        "Tit": {
+          "ont": 64,
+          "slug": "el-titos",
+          "versets": 46,
+          "mots": 664
+        },
+        "1Jn": {
+          "ont": 65,
+          "slug": "igeret-yohanan-alef",
+          "versets": 105,
+          "mots": 2151
+        },
+        "2Jn": {
+          "ont": 66,
+          "slug": "igeret-yohanan-bet",
+          "versets": 13,
+          "mots": 249
+        },
+        "3Jn": {
+          "ont": 67,
+          "slug": "igeret-yohanan-gimel",
+          "versets": 14,
+          "mots": 217
+        },
+        "2Pe": {
+          "ont": 68,
+          "slug": "igeret-kefa-bet",
+          "versets": 61,
+          "mots": 1103
+        },
+        "Jud": {
+          "ont": 69,
+          "slug": "igeret-yehudah",
+          "versets": 25,
+          "mots": 450
+        },
+        "Re": {
+          "ont": 70,
+          "slug": "machazeh-yohanan",
+          "versets": 404,
+          "mots": 9897
+        }
+      }
+    }
+  }
+}
