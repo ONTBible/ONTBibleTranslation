@@ -14,7 +14,7 @@ Le verbe employé pour lui est ==celui d'un commencement==, et il revient deux f
 
 Il ==commença d'être un **gibbor** sur la Terre== — et le mot est celui des démesurés d'avant le **mabbul**, ceux dont la force faisait le poids. Le corpus rebranche donc, par ce seul mot, ==la démesure d'avant les eaux sur l'histoire d'après==.
 
-Puis vient l'autre commencement : *le **reshit** de son domaine royal fut ==Bavel==*. Le mot est celui qui ouvre tout le corpus — *bereshit*. Ce qui commence ici, c'est ==le règne humain organisé en entité politique==, le *mamlakhah*, dont c'est le premier emploi dans l'ONT.
+Puis vient l'autre commencement : *le *reshit* de son domaine royal fut ==Bavel==*. Le mot est celui qui ouvre tout le corpus — *bereshit*. Ce qui commence ici, c'est ==le règne humain organisé en entité politique==, le *mamlakhah*, dont c'est le premier emploi dans l'ONT.
 
 Un homme est donc le point où ==la force brute devient un État==.
 

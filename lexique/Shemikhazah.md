@@ -10,7 +10,7 @@ Un nom composé et transparent : *shemi* (*shemi* / שְׁמִי) — ==mon **Sh
 
 Il est ==le chef des **'irin**==, ceux qui ont quitté leur garde.
 
-Et son **Shem** ==porte la mémoire de la transgression collective==. C'est là ce qu'il faut voir : dans un corpus où *khazah* est le verbe de la vision prophétique — celui du **machazeh**, celui du **chazon** —, ==le chef de ceux qui ont franchi le domaine s'appelle *ce que mon nom a vu*==.
+Et son **Shem** ==porte la mémoire de la transgression collective==. C'est là ce qu'il faut voir : dans un corpus où *khazah* est le verbe de la vision prophétique — celui du *machazeh*, celui du *chazon* —, ==le chef de ceux qui ont franchi le domaine s'appelle *ce que mon nom a vu*==.
 
 La faculté est la même. ==Voir ce qui est voilé== peut se recevoir ou se prendre, et la différence n'est pas dans l'acte mais dans le mandat.
 

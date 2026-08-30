@@ -14,7 +14,7 @@ Ce qui vaut d'être vu, c'est ==la situation== dans laquelle le livre les place.
 
 Ils voient un jardin, une tablette lavée. Ils ne savent pas ce que ça veut dire. Et ils ==cherchent quelqu'un pour le leur dire==.
 
-C'est ce qui rapproche ce livre d'*Iyov* plutôt que de *Daniel*, et c'est pourquoi le §1 le range dans les **Ketouvim** : ==mode expérientiel, pas architectural==. Des êtres pris dans un drame cosmique qui cherchent à interpréter leurs propres rêves.
+C'est ce qui rapproche ce livre d'*Iyov* plutôt que de *Daniel*, et c'est pourquoi le §1 le range dans les *Ketouvim* : ==mode expérientiel, pas architectural==. Des êtres pris dans un drame cosmique qui cherchent à interpréter leurs propres rêves.
 
 ## Voir aussi
 

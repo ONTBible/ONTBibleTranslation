@@ -1,4 +1,4 @@
-# Ishma'el
+# Yishma'el
 
 ## Le Shem
 
@@ -8,7 +8,7 @@ C'est un **Shem** théophore, et il est donné avant la naissance : ==l'existenc
 
 ## Ce que le corpus en fait
 
-Le nom est prononcé par le **mal'akh**, dans le désert, à une [[Hagar]] en fuite : *tu appelleras son **Shem** ==Ishma'el==, car **YHWH** a entendu ton affliction*.
+Le nom est prononcé par le **mal'akh**, dans le désert, à une [[Hagar]] en fuite : *tu appelleras son **Shem** ==Yishma'el==, car **YHWH** a entendu ton affliction*.
 
 Regardez ce que ça pose. Ce n'est pas la mère qui nomme, comme [[Chavah]] le fit pour [[Qayin]]. C'est ==l'envoyé==, et il explique le nom par ==ce que **YHWH** a déjà fait==.
 

@@ -2,7 +2,7 @@
 
 ## Le Shem
 
-Un troupeau change de main. L'homme qui le reçoit ne l'a pas fabriqué, il ne l'a pas trouvé — il l'a **obtenu**, et désormais il en répond. C'est le geste que dit *qanah* (*qanah* / קָנָה) : ==passer de ne pas avoir à avoir==, et se trouver lié à ce qu'on tient.
+Un troupeau change de main. L'homme qui le reçoit ne l'a pas fabriqué, il ne l'a pas trouvé — il l'a ==obtenu==, et désormais il en répond. C'est le geste que dit *qanah* (*qanah* / קָנָה) : ==passer de ne pas avoir à avoir==, et se trouver lié à ce qu'on tient.
 
 Le verbe ne dit ni l'achat ni la propriété au sens où nous l'entendons. Le français « acquérir » évoque une transaction, un bien qui entre dans un patrimoine ; l'hébreu pense plus large et plus engageant. *Qanah* sert pour le bétail qu'on obtient, pour le champ qu'on reprend, ==et pour ce que **YHWH** fait quand il se constitue un peuple==. Le même verbe dit la main qui se referme sur une chose et la souveraineté qui s'établit sur elle.
 
@@ -14,11 +14,11 @@ Voilà ce qu'un **Shem** bâti sur cette racine met sur les épaules de qui le p
 
 Une femme vient d'enfanter, la première fois que cela arrive. Elle sort du Jardin depuis peu, elle a entendu ce qui a été dit de la douleur, et elle tient un enfant vivant dans les bras.
 
-Ce qu'elle fait alors est un acte, pas une émotion : **elle nomme**. Elle dit (*qaniti ish et-YHWH* / קָנִיתִי אִישׁ אֶת־יְהוָה) — j'ai obtenu un **ish** avec **YHWH** — et le **Shem** qu'elle pose sort du verbe même de sa phrase.
+Ce qu'elle fait alors est un acte, pas une émotion : ==elle nomme==. Elle dit (*qaniti ish et-YHWH* / קָנִיתִי אִישׁ אֶת־יְהוָה) — j'ai obtenu un **ish** avec **YHWH** — et le **Shem** qu'elle pose sort du verbe même de sa phrase.
 
 C'est presque unique dans le corpus. Ailleurs un **Shem** est donné et le texte laisse le lecteur en chercher le sens ; ici ==la nomination et son explication tombent dans le même souffle==. La mère dit ce qu'elle a fait, et l'enfant s'appellera de ce qu'elle a dit.
 
-Il faut entendre ce que la phrase ose. Hors du Jardin, après la rupture, elle déclare avoir obtenu **avec YHWH** — la préposition est difficile et l'hébreu la laisse trouble, mais dans toutes ses lectures elle affirme que ==l'ordre continue de produire==. Le premier acte humain après la sentence est une acquisition, et elle est nommée devant **YHWH**.
+Il faut entendre ce que la phrase ose. Hors du Jardin, après la rupture, elle déclare avoir obtenu ==avec YHWH== — la préposition est difficile et l'hébreu la laisse trouble, mais dans toutes ses lectures elle affirme que ==l'ordre continue de produire==. Le premier acte humain après la sentence est une acquisition, et elle est nommée devant **YHWH**.
 
 ## Ce que le récit fait de son Shem
 
@@ -34,7 +34,7 @@ Le texte ne moralise nulle part. Il laisse le nom et le destin se contredire, et
 
 La suite est ce que le récit a de plus étrange, et il faut la lire sans l'adoucir.
 
-Cet homme sans prise **bâtit une ville** — la première du monde — et lui donne le **Shem** de son fils [[Chanokh-fils-de-Qayin|Chanokh]], qui veut dire *inauguration*. Celui qui ne peut plus tenir la terre pose ==ce qui ne bouge pas== et l'appelle du nom de la mise en service.
+Cet homme sans prise ==bâtit une ville== — la première du monde — et lui donne le **Shem** de son fils [[Chanokh-fils-de-Qayin|Chanokh]], qui veut dire *inauguration*. Celui qui ne peut plus tenir la terre pose ==ce qui ne bouge pas== et l'appelle du nom de la mise en service.
 
 Et sa lignée donne au monde trois choses que le corpus nomme ensemble : la tente et les troupeaux par [[Yaval]], la lyre et la flûte par [[Youval]], le bronze et le fer par [[Tuval-Qayin]] — dont le **Shem** porte encore le sien, sept générations plus bas.
 

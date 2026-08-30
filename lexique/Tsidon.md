@@ -16,4 +16,4 @@ Le corpus ne choisit pas. Il garde les deux, comme il garde que la culture humai
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousim]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].

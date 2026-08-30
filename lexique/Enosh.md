@@ -14,7 +14,7 @@ Les deux sont vrais du même être. L'un dit ce qu'il a reçu à tenir, l'autre 
 
 Regardez où le texte le place, parce que tout est là.
 
-Le fils de [[Shet]] s'appelle ==Enosh==, et c'est **en son temps** qu'on commença d'invoquer le **Shem** de **YHWH**.
+Le fils de [[Shet]] s'appelle ==Enosh==, et c'est ==en son temps== qu'on commença d'invoquer le **Shem** de **YHWH**.
 
 L'invocation n'apparaît pas au moment du mandat royal, ni au moment de la puissance. Elle apparaît ==au moment où l'humain se nomme lui-même *le fragile*==.
 

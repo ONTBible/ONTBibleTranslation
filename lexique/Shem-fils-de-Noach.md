@@ -2,7 +2,7 @@
 
 ## Le Shem, et la difficulté qu'il pose
 
-Son nom **est** le mot **Shem** (*shem* / שֵׁם) — l'intraduisible que le corpus emploie partout ailleurs pour dire ==l'acte d'existence fonctionnelle==, ce par quoi une chose entre dans l'ordre en étant nommée.
+Son nom ==est== le mot **Shem** (*shem* / שֵׁם) — l'intraduisible que le corpus emploie partout ailleurs pour dire ==l'acte d'existence fonctionnelle==, ce par quoi une chose entre dans l'ordre en étant nommée.
 
 C'est le seul cas du corpus où un homme porte pour nom ==le mot même de la nomination==. Et ça crée une difficulté qui n'est pas résolue mécaniquement : dans le texte hébreu, rien ne distingue le fils de [[Noach]] du concept. La casse ne les sépare pas, le contexte seul le fait — et c'est pourquoi le marquage de ce mot dans le corps du texte reste ==un arbitrage verset par verset, réservé à l'auteur==.
 

@@ -16,7 +16,7 @@ Le nom est donc ==une attente formulée à voix haute==, dans un monde où le so
 
 Le corpus le présente au moment le plus noir. La Terre est remplie de *chamas*, toute chair a corrompu sa voie, et **YHWH** est **nacham** d'avoir fait l'**adam** — saisi aux entrailles, et reconsidérant depuis cet endroit.
 
-Puis vient une phrase qui retourne tout : ==mais **Noach** trouva grâce aux yeux de **YHWH**==.
+Puis vient une phrase qui retourne tout : ==mais ==Noach== trouva grâce aux yeux de **YHWH**==.
 
 Le texte ne dit pas qu'il l'a méritée. Il dit qu'il l'a ==trouvée==, et l'ordre des mots compte : la grâce précède ce qu'on apprend ensuite de lui — qu'il était **tsadiq**, intègre dans ses générations, et qu'il ==cheminait avec **Elohim**==.
 
