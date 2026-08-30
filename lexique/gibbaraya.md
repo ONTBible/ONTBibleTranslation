@@ -6,7 +6,7 @@ Le mot n'est pas hébreu. Il est araméen, et cela seul dit déjà quelque chose
 
 On le traduit « Livre des Géants », et ce n'est qu'un pont pour le lecteur français. Le mot ne dit rien d'une taille. Il dit ==une démesure de poids== — des êtres dont la présence fait plier ce qui les entoure, sans qu'aucune fonction leur soit assignée nulle part. C'est le prolongement direct des quatre versets où *Bereshit* les nomme **Nephilim** et **gibborim** avant de passer à autre chose.
 
-Le livre relève précisément ce que la Torah avait laissé serré. Il leur donne des noms — ==Ohyah==, ==Hahyah==, ==Mahaway== —, une faim, des songes qui les terrifient, une assemblée, une tablette qu'on va chercher auprès de ==Khanokh==, et une sentence. Ce que quatre versets tenaient en énigme devient une scène.
+Le livre relève précisément ce que la Torah avait laissé serré. Il leur donne des noms — ==Ohyah==, ==Hahyah==, ==Mahaway== —, une faim, des songes qui les terrifient, une assemblée, une tablette qu'on va chercher auprès de ==Chanokh==, et une sentence. Ce que quatre versets tenaient en énigme devient une scène.
 
 Et il fait une chose que personne n'attend. Parmi les ==gibbaraya== soumis au jugement, il place ==Gilgamesh== — le héros de l'épopée que tout le Proche-Orient chantait, celui dont les rois se réclamaient. Ce n'est pas une curiosité d'érudit : c'est un ==reclassement==. Ce que les **goyim** élèvent en **kavod** guerrière, le texte le range parmi la démesure d'avant les eaux. Leur renom est un **Shem**, oui — mais un ==Shem== de démesure, non d'ordre.
 

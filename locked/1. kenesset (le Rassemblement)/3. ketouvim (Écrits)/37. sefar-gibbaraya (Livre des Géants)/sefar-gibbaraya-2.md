@@ -39,7 +39,7 @@
 
 - *Bereshit* 4:10 : le sang qui crie depuis le sol.
 - *Bereshit* 6:11-13 : la Terre remplie de violence.
-- 1 *==Khanokh==* 7-9 : dévoration, sang et plainte.
+- 1 *==Chanokh==* 7-9 : dévoration, sang et plainte.
 
 ---
 

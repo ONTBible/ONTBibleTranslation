@@ -52,7 +52,7 @@ Le corpus est structuré en quatre catégories fonctionnelles. Ce ne sont pas de
 
 *Torah* (mode d'institution) — corpus étendu : *Yovelim* (Jubilés) — retelling normatif et législatif de Bereshit-Shemot ; les tablettes célestes et le médiateur angélique sont des dispositifs d'autorité Torah-niveau, non un contenu de traversée architecturale. Yovelim institue et ordonne — il emprunte l'épistémologie Nistarot sans en être.
 
-*Nistarot* (mode de traversée architecturale) : *Daniel*, *1 Khanokh*, *Chazon Avraham* (Apocalypse d'Abraham), *Chazon Ezra* (2 Ezra — ch. 3-14 uniquement ; ch. 1-2 et 15-16 sont des additions chrétiennes hellénisées exclues), *Chazon Barukh* (Apocalypse de Baruch — syriaque, original hébreu probable), *Tsava'at Lévi* (Testament de Lévi araméen de Qumrân — pas les Testaments des 12 Patriarches dans leur ensemble, trop christianisés).
+*Nistarot* (mode de traversée architecturale) : *Daniel*, *1 Chanokh*, *Chazon Avraham* (Apocalypse d'Abraham), *Chazon Ezra* (2 Ezra — ch. 3-14 uniquement ; ch. 1-2 et 15-16 sont des additions chrétiennes hellénisées exclues), *Chazon Barukh* (Apocalypse de Baruch — syriaque, original hébreu probable), *Tsava'at Lévi* (Testament de Lévi araméen de Qumrân — pas les Testaments des 12 Patriarches dans leur ensemble, trop christianisés).
 
 **Terminologie ONT pour les textes de vision :** *chazon* (חָזוֹן — vision prophétique reçue, terme natif du Second Temple : Daniel 7:1, 8:1 ; titres de Yeshayahu, Ovadyah, Nahum, Havaquq) pour tous les textes de vision SAUF le *Machazeh Yohanan* qui garde *machazeh* (מַחֲזֵה) — décision délibérée pour créer l'écho avec *Bereshit* 15:1 (*bamachazeh*) : la vision inaugurale de la *berith* et la vision finale du cosmos racheté dans la même modalité. Ne pas utiliser *giluy* (hébreu rabbinique tardif, calque du grec *apokalypsis*) — le terme natif est *chazon*.
 
@@ -65,7 +65,7 @@ Le corpus est structuré en quatre catégories fonctionnelles. Ce ne sont pas de
 | **Besorot** (la Fondation — Évangiles) | **Besorot** (בְּשׂוֹרוֹת) — *besorah* : annonce royale d'un acte accompli. Subdivisées en *Eduyot* (*Marqus*, *Matityahu*, *Luqas* — trois témoins au sens de *Devarim* 19:15) et *Bereshit ha-Yohanan* (séparée — *besorah* cosmique-inaugurale, écho de *Bereshit* 1) | Institue qui est Yeshua — fondation cosmique, *davar* inaugurale |
 | **Nevi'im** | **Igerot** (אִגְּרוֹת) — lettres adressées, *devarim* fonctionnels | Confrontation covenantale depuis la position du *mishpat* — lecture de l'alignement/désalignement des communautés dans la *berith* |
 | **Ketouvim** | **Gevurot ha-Neviim** (גְּבוּרוֹת הַנְּבִיאִים) — les *gevurot* de **YHWH** accomplies *à travers* ses *neviim* | Chronique narrative des actes de puissance de **YHWH** dans l'histoire — mode expérientiel et testimonial |
-| **Nistarot** | **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן) — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Khanokh | Traversée architecturale — les structures invisibles derrière l'histoire, le cosmos racheté |
+| **Nistarot** | **Machazeh Yohanan** (מַחֲזֵה יוֹחָנָן) — même terme qu'en *Bereshit* 15:1, dans la lignée de Yehezqel, Daniel et 1 Chanokh | Traversée architecturale — les structures invisibles derrière l'histoire, le cosmos racheté |
 
 **Note terminologique — *navi* / *shaliach* : une seule réalité fonctionnelle.** Tout *navi* authentique est structurellement un *shaliach* et tout *shaliach* accomplit la fonction du *navi* — ils ne sont pas deux catégories analytiquement distinctes. La décomposition *navi* / *shaliach* / *evangeliste* / *pasteur* / *enseignant* (Éphésiens 4:11) est une décompression grecque d'une réalité hébraïque unifiée. Ne jamais traiter ces termes comme des fonctions mutuellement exclusives dans l'ONT.
 
@@ -150,9 +150,9 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**tov**` / `**tov me'od**` / `**tov vara**` / `**Tov vara**` — le construit de l'arbre (*etz hada'at tov vara*, *Bereshit* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Bereshit* 1:4.
 - `**ra**` / `**ra'at**` / `**ra'im**`. Premier emploi *Bereshit* 2:9.
 - `**chata**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **ra** — **chata** est l'acte, **ra** est l'état. Premier emploi *Bereshit* 4:7.
-- `**chattah**` / `**chata'ah**` / `**chata'im**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
+- `**chattat**` / `**chata'ah**` / `**chata'im**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
-- `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Khanokh*).
+- `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Chanokh*).
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un **blanc** laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc **mille ans avant** les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
@@ -416,7 +416,7 @@ où ils seront écrits.
 | Chroniques (1-2) | *Divrei Hayamim* | דִּבְרֵי הַיָּמִים |
 | Esdras-Néhémie | *Ezra Nehemyah* | עֶזְרָא נְחֶמְיָה |
 | Jubilés | *Yovelim* | יוֹבְלִים |
-| 1 Hénoch | *Khanokh* | חֲנוֹךְ |
+| 1 Hénoch | *Chanokh* | חֲנוֹךְ |
 | Testament de Lévi | *Tsava'at Levi* | צַוָּאַת לֵוִי |
 | 2 Ezra | *Chazon Ezra* | חֲזוֹן עֶזְרָא |
 | Apocalypse de Baruch | *Chazon Barukh* | חֲזוֹן בָּרוּךְ |
@@ -474,6 +474,77 @@ Opérationnalise §2.1 : chaque terme du glossaire reçoit **un** use case — u
 
 Règle : le gras **est** la translittération exacte (apostrophes comprises : **She'ol**, **mal'akh**), jamais une francisation.
 
+
+### 2.9 Comment s'écrit une translittération
+
+Les sections précédentes disent **où** placer une translittération et **comment
+la baliser**. Aucune ne disait **comment l'écrire** — et le corpus l'écrivait
+pourtant d'une seule façon depuis le début, sans que rien ne la fixe.
+
+**Pourquoi l'écrire maintenant.** C'est l'état exact où se trouvait la règle de
+l'article avant le 25 août 2026 : le vault portait alors trois conventions à la
+fois, et personne ne l'avait vu *parce que chaque liste était cohérente avec
+elle-même*. Une pratique non écrite ne se compare à rien ; elle ne peut donc pas
+diverger visiblement. Ce qui suit ne change aucune ligne du corpus — c'est le
+relevé de ce qu'il fait déjà, rendu opposable.
+
+#### Les consonnes
+
+| lettre | rendu | exemples du corpus |
+|---|---|---|
+| **ח** *het* | `ch` | **chesed**, **chokhmah**, **chattat**, *choshekh*, *chayah* |
+| **כ** *kaf* (avec dagesh) | `k` | *kavod*, *kohen*, *kavash* |
+| **כ / ךְ** *khaf* (sans dagesh) | `kh` | cho**kh**mah, choshe**kh**, mela**kh**ah, Chano**kh** |
+| **ק** *qof* | `q` | *qadosh*, *qodesh*, *qara*, *qanah* |
+| **ט** *tet* | `t` | **tov**, **tevilah** |
+| **ת** *tav* | `t` | *tohu*, *tehom*, **teshuvah** |
+| **צ** *tsade* | `ts` | *tselem*, **tsedeq** |
+| **שׁ** *shin* | `sh` | *shamayim*, **Shem**, **shaliach** |
+
+Deux distinctions portent tout le système, et il faut les tenir :
+
+- `ch` et `kh` ne sont **pas** deux graphies du même son — ils rendent deux
+  lettres différentes, ==le het et le khaf==. Écrire « khata » pour חָטָא mettrait
+  à la place du het le signe réservé au khaf ;
+- `k` et `q` séparent de même le ==kaf== du ==qof==, ce qui garde *kohen* (כֹּהֵן)
+  distinct de *qodesh* (קֹדֶשׁ).
+
+En revanche `t` rend indifféremment le **tet** et le **tav** : la distinction
+existe en hébreu, l'ONT ne la porte pas, et l'hébreu de niveau 3 la rétablit
+pour qui la cherche.
+
+#### L'alef et le ayin — l'apostrophe ne marque que le milieu
+
+**Au milieu d'un mot, une apostrophe.** L'alef et le ayin y gardent leur coup de
+glotte et coupent la syllabe : **mal'akh**, **She'ol**, **chata'ah**,
+**tov me'od**, *ma'aser*, *ze'aqah*, *ra'at*.
+
+**Au début et à la fin, rien.** *Elohim* (אֱלֹהִים), *eretz* (אֶרֶץ), **olam**
+(עוֹלָם), *asah* (עָשָׂה), **etsah** (עֵצָה), **orlah** (עָרְלָה) ne portent pas
+d'apostrophe initiale ; *bara* (בָּרָא), *qara* (קָרָא), **chata** (חָטָא) n'en
+portent pas de finale.
+
+Ce n'est pas une commodité, c'est la phonétique : ==l'alef finale est
+quiescente== — elle ne se prononce pas, elle sert de support graphique à la
+voyelle qui précède. Le corpus suivait donc la langue sans que ce soit écrit.
+
+#### Ce que cette règle ne tranche pas encore
+
+- **`**'irin**` porte une apostrophe initiale** (עִירִין), seul de tout le
+  corpus à en porter une. Sa propre fiche s'appelle pourtant `lexique/irin.md`,
+  sans apostrophe : le terme et son fichier ne s'accordent déjà pas. C'est de
+  l'araméen, et l'écart est peut-être délibéré — ==à trancher par l'auteur==.
+- Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
+  selon l'oreille, sans système déclaré, et rien n'a encore divergé.
+
+#### Une divergence relevée et corrigée
+
+**`Khanokh` → `Chanokh`**, le 29 août 2026. חֲנוֹךְ commence par un **het**, donc
+`Ch` — le seul mot du corpus qui écrivait le het en `kh`, sans doute par
+contagion de « Hénoch ». 115 occurrences, et les dossiers `38. khanokh` des deux
+arborescences renommés : le livre n'étant pas encore écrit, le renommage était
+gratuit, exactement le moment que le §2.6 décrit pour les identifiants.
+
 ---
 
 ## 3. TERMINOLOGIE FIXÉE — GLOSSAIRE COMPLET
@@ -502,7 +573,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מָשַׁל | *mashal* | gouverner | Gouvernance fonctionnelle sur un domaine temporel. |
 | עָבַד | *avad* | servir | Service sacerdotal — les lévites *avad* le Tabernacle, les prêtres *avad* le Temple. L'adam dans le Jardin est un prêtre, pas un agriculteur. |
 | בָּנָה | *banah* | édifia | Bâtir, construire — terme de l'architecte. Distinct de *yatsar* (potier). La femme est érigée comme on construit un temple ou une ville. |
-| חָטָא | *chata* | **chata** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chata** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **ra**, qui est l'état dysfonctionnel : **chata** est ==l'acte==, **ra** est ==l'état==. Les formes nominales suivent — **chattah**, **chata'ah**, **chata'im**. Laissé en hébreu. |
+| חָטָא | *chata* | **chata** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chata** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **ra**, qui est l'état dysfonctionnel : **chata** est ==l'acte==, **ra** est ==l'état==. Les formes nominales suivent — **chattat**, **chata'ah**, **chata'im**. Laissé en hébreu. |
 
 ### 3.2 Noms et concepts fondamentaux
 
@@ -537,7 +608,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *mo'ed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
-| חַטָּאת | *chattah* | **chattah** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattah** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattah**, **chata'ah** (*Bereshit* 18:20), **chata'im** (le pluriel adjectival, *Bereshit* 13:13). Laissée en hébreu. |
+| חַטָּאת | *chattat* | **chattat** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattat** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattat**, **chata'ah** (*Bereshit* 18:20), **chata'im** (le pluriel adjectival, *Bereshit* 13:13). ==Attention à la finale== : חַטָּאת se termine par un ==tav==, donc **chattat** — le corpus a longtemps écrit « chattah », qui est l'habit de l'autre mot, חַטָּאָה, finale en ==he==. Les deux existent en hébreu biblique et l'ONT emploie les deux : **chattat** en *Bereshit* 4:7, **chata'ah** en *Bereshit* 18:20. Corrigé le 28 août 2026. Laissée en hébreu. |
 | מִנְחָה | *minchah* | tribut | Geste du vassal vers son suzerain — non pas encore un terme sacrificiel technique. Apporter un tribut c'est reconnaître une autorité supérieure. |
 | אָרוּר | *arur* | frappé de dysfonctionnement | Opposé de *barakh* (doter) — non pas l'absence de dotation, mais sa perversion. La dotation demeure mais devient dysfonctionnelle. Le serpent continue de se mouvoir, l'adamah continue de produire, Qayin continue de vivre : mais tout cela est atteint dans sa fonction. |
 | קַלֵּל | *qallel* | retirer de sa kavod | De *qalal* — alléger, réduire le poids fonctionnel. Non pas supprimer totalement : l'adamah conserve de la kavod après *Bereshit* 3, elle fonctionne encore. *Qallel* allège — il ne vide pas. Opposé exact de *barakh* (doter, alourdir de capacité). Première occurrence *Bereshit* 8:21 — YHWH promet de ne plus en retirer davantage. |
@@ -831,7 +902,7 @@ Ces passages introduisent des concepts nouveaux majeurs ou des décisions qui en
 - *Kaphar* / *kippurim* — l'expiation fonctionnelle au centre de l'argumentation
 
 ***Machazeh Yohanan*** — Apocalypse
-- Dense en références à Yehezqel, Daniel et 1 Khanokh — ne pas traiter avant que ces textes soient au moins partiellement fondés dans l'ONT
+- Dense en références à Yehezqel, Daniel et 1 Chanokh — ne pas traiter avant que ces textes soient au moins partiellement fondés dans l'ONT
 - Le Conseil Divin, les quatre vivants (*chayot*), la *kavod* de YHWH — vocabulaire déjà posé mais à réactiver dans ce registre
 
 ---
@@ -911,8 +982,8 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 - **Bereshit 1** (Genèse 1:1 — 2:3) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-1.md` — référence fondatrice : toutes les conventions typographiques, le glossaire en action, les formules fixes. Toute traduction doit être cohérente avec elle.
 - **Bereshit 2** (Genèse 2:4-25) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-2.md` — introduction de YHWH Elohim, *yatsar*, l'Eden comme Temple, *isha* / *ish*, *ezer kenegdo*, la *neshamah*.
 - **Bereshit 3** (Genèse 3) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-3.md` — la rupture fonctionnelle, le *nachash*, les réorganisations cosmiques, *itsavon*, *arur*.
-- **Bereshit 4** (Genèse 4) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-4.md` — Qayin et Hevel, *minchah*, *chattah*, *arur*, la ligne de Qayin.
-- **Bereshit 5** (Genèse 5) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` — généalogie d'Adam à Noach, *toledot*, *hithalekh*, Khanokh.
+- **Bereshit 4** (Genèse 4) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-4.md` — Qayin et Hevel, *minchah*, *chattat*, *arur*, la ligne de Qayin.
+- **Bereshit 5** (Genèse 5) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` — généalogie d'Adam à Noach, *toledot*, *hithalekh*, Chanokh.
 - **Bereshit 6** (Genèse 6) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-6.md` — les Nephilim, la *berith* inaugurale, l'arche (*tevah*).
 - **Bereshit 7** (Genèse 7-8) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-7.md` — le déluge, décréation et re-création, *tahor/lo tahor*, *olah*, *qallel*, *kavod*.
 - **Bereshit 8** (Genèse 9:1-17) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-8.md` — la re-création après le *mabbul*, la *berith* noachide, *adam* intraduisible à partir d'ici, *olam*. (L'*olah* de Noach, Gn 8:20, est traitée en Bereshit 7, qui couvre Gn 7-8.)
@@ -951,7 +1022,7 @@ Sept termes étaient écrits `**...**`, donc **déclarés intraduisibles**, sans
 
 **La question posée sur `shiphchah` était incomplète, et il faut le noter.** Le §13 le donnait pour une occurrence isolée dans un titre. En ouvrant le chapitre, le pied verrouillé de *Bereshit* 16 portait la décision **inverse** — « traduit "servante" avec niveau 3 » — et le corps s'y tenait sur huit occurrences. Le titre contredisait son propre chapitre. L'auteur a maintenu l'intraduisible en connaissance de la reprise que cela demandait. *Un relevé qui compte les balises ne voit pas les décisions déjà prises autour d'elles.*
 
-**`chata'ah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattah* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chata** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
+**`chata'ah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattat* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chata** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
 
 **Réglé le 20 août 2026 — `Nephilim`, `gibbor` / `gibborim` / `gibor`.** Issue A
 pour les trois : ce sont de vrais intraduisibles, désormais au §2.5 et au §3.3.

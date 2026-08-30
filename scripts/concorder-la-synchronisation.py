@@ -91,6 +91,22 @@ question :
 - le fichier **sur le disque**, qui est ce qu'une session lit *maintenant* — et
   qui peut être une branche en cours, ou un worktree sur une autre branche.
 
+## Le verdict dit ce qu'il a mesuré
+
+Il compare le **publié**, et sa conclusion doit le rappeler — sans quoi elle
+promet plus que la mesure.
+
+« Les 7 exemplaires concordent » n'était pas faux : les exemplaires publiés
+concordaient. Mais le tableau, juste au-dessus, signalait trois copies en
+`disque ≠ origin/…` — trois sessions avec du travail commité et non poussé. La
+phrase répondait à une question plus étroite que celle qu'on croit poser, et
+c'est ce qui la rend piégeuse : ==un verdict exact sur une question qu'on n'avait
+pas posée== se relit moins bien qu'une erreur.
+
+La conclusion distingue donc les deux, et nomme les copies concernées. Le
+contrôle rend toujours `0` — un travail en cours n'est pas une divergence, c'est
+du travail en cours.
+
 ## Ce qu'il ne fait pas
 
 Aligner deux dépôts. C'est un geste de dépôt : ça passe par une branche et une
@@ -301,7 +317,32 @@ def rapporter(copies: list[Copie]) -> int:
     juges = votants + [c for c in copies if not c.depot]
 
     if len({empreinte(c.foi) for c in juges}) == 1:
-        print(f"\nLes {len(copies)} exemplaires concordent.")
+        # **Le verdict dit ce qu'il a mesuré, et pas plus.**
+        #
+        # Ce qui est comparé est le **publié** — c'est le bon choix entre dépôts,
+        # puisque c'est lui que la personne suivante recevra. Mais « les N
+        # exemplaires concordent » se lit comme « tout est aligné », et ce n'est
+        # pas la même phrase : une copie peut porter sur son disque un travail
+        # commité et non poussé, que le contrôle ne regarde pas.
+        #
+        # La phrase courte n'était pas fausse — elle répondait à une question
+        # plus étroite que celle qu'on croit poser. Le tableau ci-dessus portait
+        # déjà l'information, en `disque ≠ origin/…` ; il manquait qu'elle
+        # survive jusqu'à la conclusion, seule ligne que beaucoup liront.
+        en_cours = [c for c in copies if c.depot and c.publie is not None
+                    and empreinte(c.publie) != empreinte(c.disque)]
+        if not en_cours:
+            print(f"\nLes {len(copies)} exemplaires concordent.")
+            return 0
+        print(f"\nLes {len(copies)} exemplaires **publiés** concordent.")
+        print(
+            f"Mais {len(en_cours)} porte{'nt' if len(en_cours) > 1 else ''} "
+            f"sur le disque un travail qui n'est pas publié — le contrôle ne le"
+        )
+        print("compare pas, et il n'entre donc pas dans ce verdict :")
+        for c in en_cours:
+            sur = (git(c.dossier, "rev-parse", "--abbrev-ref", "HEAD") or "?").strip()
+            print(f"     {c.nom:<22} sur {sur}")
         return 0
 
     if not votants:

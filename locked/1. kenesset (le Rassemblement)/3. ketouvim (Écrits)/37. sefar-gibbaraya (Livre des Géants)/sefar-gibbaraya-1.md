@@ -49,7 +49,7 @@
 
 - *Bereshit* 1 : création par distinctions.
 - *Bereshit* 6:1-4 : fils d'**Elohim** (*benei ha-elohim* / בְּנֵי הָאֱלֹהִים), filles de **l'Être façonné du sol** (*benot ha-adam* / בְּנוֹת הָאָדָם), **Nephilim** (*nephilim* / נְפִילִים) et puissants (*gibborim* / גִּבֹּרִים).
-- 1 *==Khanokh==* 6-8 : serment des **'irin** et transmission des secrets.
+- 1 *==Chanokh==* 6-8 : serment des **'irin** et transmission des secrets.
 
 ---
 

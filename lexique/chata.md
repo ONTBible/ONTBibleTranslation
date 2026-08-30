@@ -8,6 +8,6 @@ Ce qui change ce qu'on croit lire. Notre « péché » est une transgression : u
 
 C'est pourquoi le mot appartient à la même famille que **tov** et **ra**. Le **tov** constate qu'une chose est ajustée à sa destination ; le **ra** constate qu'elle s'en écarte ; ==chata== nomme ==l'acte== par lequel l'écart se produit. Trois mots pour un seul système, et aucun n'est moral.
 
-La forme nominale, **chattah**, désigne cet acte lui-même — et le corpus lui donne un visage inquiétant dès sa première apparition. **YHWH** avertit ==Qayin== que la **chattah** est ==tapie à la porte==, qu'elle le désire, et qu'il doit la gouverner. Le mot est celui d'un fauve couché à l'entrée. Ce n'est pas une abstraction morale qu'on transgresse : c'est ==quelque chose qui attend et qu'il faut tenir==.
+La forme nominale, **chattat**, désigne cet acte lui-même — et le corpus lui donne un visage inquiétant dès sa première apparition. **YHWH** avertit ==Qayin== que la **chattat** est ==tapie à la porte==, qu'elle le désire, et qu'il doit la gouverner. Le mot est celui d'un fauve couché à l'entrée. Ce n'est pas une abstraction morale qu'on transgresse : c'est ==quelque chose qui attend et qu'il faut tenir==.
 
 Et le remède qu'annonce le corpus n'est pas un paiement mais un demi-tour : la **teshuvah**, revenir sur la trajectoire quittée. Ce qui a dévié se redresse.
