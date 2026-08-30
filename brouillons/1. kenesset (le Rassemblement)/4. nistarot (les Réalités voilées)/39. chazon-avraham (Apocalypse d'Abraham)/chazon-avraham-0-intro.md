@@ -103,7 +103,7 @@ Enfin le *Machazeh Yohanan* (n° 70), qui occupe dans la *Berit Hadashah* le mod
 
 ## Plan
 
-*Découpage en unités ONT proposé.* Les chapitres slavons sont indiqués entre parenthèses à titre de repère critique ; l'ONT suit l'unité fonctionnelle, non la division du manuscrit (§2.3).
+*Découpage en **parashiot** proposé.* Les chapitres slavons sont indiqués entre parenthèses à titre de repère critique ; l'ONT suit la fonction accomplie, non la division du manuscrit (§2.3).
 
 *La maison de ==Terah== :* ① l'atelier, la pierre brisée et le bois consumé (sl. 1-4) → ② l'échelle du discernement (sl. 5-7) → ③ la voix, la sortie, le feu sur la maison (sl. 8).
 
@@ -113,7 +113,7 @@ Enfin le *Machazeh Yohanan* (n° 70), qui occupe dans la *Berit Hadashah* le mod
 
 *Le tableau :* ⑨ les étendues, et les étoiles à compter (sl. 19-20) → ⑩ l'image du monde, les deux lots, le Jardin, le meurtre (sl. 21-24) → ⑪ le sanctuaire, l'idole de la jalousie, le Temple brûlé, « combien de temps ? » (sl. 25-28) → ⑫ les dix plaies, le rassemblement, la quatrième génération (sl. 30-32).
 
-*Le chapitre slavon 29 ne reçoit pas d'unité ONT — voir ci-dessous. Le manque dans la numérotation est délibéré et se lit.*
+*Le chapitre slavon 29 ne reçoit pas de **parashah** — voir ci-dessous. Le manque dans la numérotation est délibéré et se lit.*
 
 ## Ce qui n'entre pas au corps
 
