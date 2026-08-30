@@ -1,6 +1,6 @@
 # qanah
 
-Un mot qui tient deux choses que le français sépare, et qui ne les tient pas par confusion : ==fonder== et ==posséder==. Celui qui a fait une chose en est le maître ; celui qui en est le maître l'a faite. L'hébreu ne voit pas là deux idées.
+Un mot qui tient deux choses que le français sépare, et qui ne les tient pas par confusion : ==fonder== et ==posséder== — et le mot qui les tient ensemble est *qanah* (*qanah* / קָנָה). Celui qui a fait une chose en est le maître ; celui qui en est le maître l'a faite. L'hébreu ne voit pas là deux idées.
 
 D'où la difficulté de la formule que ==Malki-tsedeq== prononce sur ==Avram== : **El Elyon**, ==qoneh== des Cieux et de la **eretz**. Traduire par « créateur » perd la maîtrise ; traduire par « possesseur » perd la fondation. Il faut les deux : ==celui qui les a fondés et qui les tient==.
 

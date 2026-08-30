@@ -1,6 +1,6 @@
 # ra'ah
 
-Sept fois dans le premier chapitre, **Elohim** ==ra'ah==. On traduit « il vit », et le lecteur imagine un regard admiratif posé sur un beau paysage.
+Sept fois dans le premier chapitre, **Elohim** ==ra'ah== (*ra'ah* / רָאָה). On traduit « il vit », et le lecteur imagine un regard admiratif posé sur un beau paysage.
 
 Le verbe travaille autrement. C'est ==le regard du maître d'œuvre== — celui qui parcourt le chantier à la fin de la journée, qui vérifie un aplomb, qui met la main sur un joint. On ne contemple pas : ==on inspecte==.
 

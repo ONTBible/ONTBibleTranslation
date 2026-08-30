@@ -2,7 +2,7 @@
 
 Un homme au bord d'un fleuve, dans un pays qui n'est pas le sien, parmi des déportés. Le ciel s'ouvre, et ce qu'il voit, il met un chapitre entier à essayer de le dire : des vivants à quatre faces, des roues dans des roues pleines d'yeux, une étendue comme du cristal, et au-dessus une forme d'homme sur quelque chose qui ressemble à un trône. Il n'affirme presque rien — il écrit *comme*, *une sorte de*, *l'aspect de*.
 
-Ce qu'il a vu porte un nom : ==merkavah==. La racine *rakhav* veut dire monter, chevaucher, prendre place sur un attelage.
+Ce qu'il a vu porte un nom : ==merkavah== (*merkavah* / מֶרְכָּבָה). La racine *rakhav* veut dire monter, chevaucher, prendre place sur un attelage.
 
 Il ne faut pourtant pas y voir un chariot. Notre mot dit un véhicule, quelque chose qu'on utilise pour se déplacer, un objet. La ==merkavah== est ==le trône qui se meut== — le siège du gouvernement du monde, et le fait qu'il se déplace est l'information principale. Un trône qui bouge est un trône qui n'est pas attaché à un lieu.
 

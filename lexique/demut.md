@@ -4,7 +4,7 @@ Le mot vient à côté de **tselem**, dans la même phrase, et l'on croit d'ordi
 
 **Tselem** dit la fonction : la statue du roi dressée dans une province, qui n'est pas un portrait mais ==une charge en poste==. Le mot pourrait s'arrêter là, et l'on aurait un représentant sans qualité — un fonctionnaire qui gouverne au nom d'un autre en faisant n'importe quoi.
 
-==Demut== ferme cette porte. Il dit la ==conformité à la manière d'être== de celui qu'on représente : non pas une ressemblance de traits, mais ==une ressemblance de façon==. Un représentant qui gouvernerait autrement que son roi trahit sa fonction, même s'il occupe correctement son poste.
+==Demut== (*Demut* / דְּמוּת) ferme cette porte. Il dit la ==conformité à la manière d'être== de celui qu'on représente : non pas une ressemblance de traits, mais ==une ressemblance de façon==. Un représentant qui gouvernerait autrement que son roi trahit sa fonction, même s'il occupe correctement son poste.
 
 C'est donc l'inverse de ce qu'on cherche d'ordinaire dans cette phrase. On y cherche ce qui, en nous, ressemblerait à **Elohim** — la raison, la conscience, la liberté, l'âme —, et l'on part en quête d'une qualité intérieure. Le mot ne parle pas de l'intérieur. Il parle de ==la manière dont on exerce une charge==.
 

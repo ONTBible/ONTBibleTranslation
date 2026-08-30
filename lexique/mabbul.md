@@ -2,7 +2,7 @@
 
 Le mot n'apparaît nulle part ailleurs dans toute la Bible hébraïque. Il est réservé à un seul événement, celui des jours de ==Noach==, et cette exclusivité est déjà une information : ce qui arrive là n'est comparable à rien d'autre.
 
-Ce n'est donc pas une inondation. L'hébreu a des mots pour l'eau qui monte — *nahar* pour le fleuve, *mayim* pour les eaux — et il ne les emploie pas ici. Le ==mabbul== est autre chose, et pour le voir il faut se souvenir de comment le monde a été monté.
+Ce n'est donc pas une inondation. L'hébreu a des mots pour l'eau qui monte — *nahar* pour le fleuve, *mayim* pour les eaux — et il ne les emploie pas ici. Le ==mabbul== (*mabbul* / מַבּוּל) est autre chose, et pour le voir il faut se souvenir de comment le monde a été monté.
 
 Au commencement, tout est eau : le *tehom*, l'abîme sans forme, où rien n'a de place parce que rien n'a de bord. Puis **Elohim** sépare. Il met une voûte au milieu des eaux et repousse les unes en haut, les autres en bas ; il rassemble celles d'en bas pour que le sec paraisse. Le monde habitable n'est pas fabriqué : il est ==dégagé==, comme on assèche un terrain. Ce qui le tient n'est pas un mur, c'est ==une séparation maintenue==.
 

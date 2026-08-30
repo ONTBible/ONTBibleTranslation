@@ -2,7 +2,7 @@
 
 Un fauve couché à l'entrée d'une maison. Il ne bondit pas encore. Il attend, et l'on sait qu'il attend, et l'on sait aussi qu'entrer ou sortir demandera de compter avec lui.
 
-C'est l'image que le corpus emploie la première fois qu'il nomme la ==chattat==. ==Qayin== a le visage tombé, son offrande n'a pas été regardée, et **YHWH** lui parle avant qu'il ait rien fait : ==la chattat est tapie à la porte ; vers toi est son désir, et toi tu dois la gouverner==.
+C'est l'image que le corpus emploie la première fois qu'il nomme la ==chattat== (*chattat* / חַטָּאת). ==Qayin== a le visage tombé, son offrande n'a pas été regardée, et **YHWH** lui parle avant qu'il ait rien fait : ==la chattat est tapie à la porte ; vers toi est son désir, et toi tu dois la gouverner==.
 
 Retiens que rien n'est encore arrivé. Personne n'a été frappé, aucune règle n'a été enfreinte. Ce que le texte décrit, c'est ==un état de la situation== : quelque chose est là, disponible, orienté vers lui — et il a la charge de le tenir.
 

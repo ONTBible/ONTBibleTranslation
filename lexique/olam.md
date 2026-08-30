@@ -1,6 +1,6 @@
 # olam
 
-Monte sur une colline et regarde au loin. Il y a un point où la vue s'arrête — non parce que le monde s'arrête, mais parce que ton œil ne va pas plus loin. Ce qui est au-delà existe ; tu ne le vois pas. L'hébreu a un mot pour cette limite-là, et c'est ==olam==.
+Monte sur une colline et regarde au loin. Il y a un point où la vue s'arrête — non parce que le monde s'arrête, mais parce que ton œil ne va pas plus loin. Ce qui est au-delà existe ; tu ne le vois pas. L'hébreu a un mot pour cette limite-là, et c'est ==olam== (*olam* / עוֹלָם).
 
 La racine dit *caché, dissimulé*. Le mot ne désigne donc pas une quantité de temps, mais ==un horizon qui se dérobe== — le point où le regard humain cesse de porter. En amont comme en aval : ce qui vient d'avant qu'on puisse se souvenir, ce qui va au-delà de ce qu'on peut prévoir.
 

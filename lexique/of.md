@@ -1,6 +1,6 @@
 # of
 
-Le mot vient du verbe qui veut dire ==voler==. Un ==of== est littéralement *ce qui vole* — et le corpus en fait la catégorie des habitants du domaine aérien.
+Le mot vient du verbe qui veut dire ==voler==. Un ==of== (*of* / עוֹף) est littéralement *ce qui vole* — et le corpus en fait la catégorie des habitants du domaine aérien.
 
 Ce n'est donc pas « les oiseaux ». Notre mot désigne une classe d'animaux, définie par des plumes et un bec ; le ==of== est défini par ==ce qu'il fait== et ==où il le fait==. Ce qui traverse l'air relève de cette catégorie, plumes ou non — et les listes du corpus y rangent des choses qu'un naturaliste séparerait.
 

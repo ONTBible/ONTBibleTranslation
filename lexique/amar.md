@@ -1,6 +1,6 @@
 # amar
 
-Le verbe le plus fréquent du corpus, et celui dont la traduction décide de tout le reste. **Elohim** ==amar== : que la lumière soit. Nous écrivons *dit*, et le mot français fait aussitôt de la parole un ==compte rendu== — quelqu'un énonce quelque chose, et la chose se produit ensuite, ailleurs, par un autre moyen.
+Le verbe le plus fréquent du corpus, et celui dont la traduction décide de tout le reste. **Elohim** ==amar== (*amar* / אָמַר) : que la lumière soit. Nous écrivons *dit*, et le mot français fait aussitôt de la parole un ==compte rendu== — quelqu'un énonce quelque chose, et la chose se produit ensuite, ailleurs, par un autre moyen.
 
 Ce n'est pas ce que le texte montre. Il n'y a pas deux moments. La parole ==est== l'événement — elle ne le précède pas et ne le décrit pas : elle l'accomplit en s'énonçant. C'est pourquoi l'ONT ne traduit jamais *vayomer* par « dit », mais par ==formula== : un mot qui garde l'idée d'une parole ==qui pose== ce qu'elle nomme.
 

@@ -2,7 +2,7 @@
 
 Le premier chapitre ne montre jamais **Elohim** en train de toucher quoi que ce soit. Il formule, et cela est. Les vivants paraissent par familles, la Terre les fait sortir, tout est ordonné à distance.
 
-Puis, au chapitre suivant, quelqu'un s'agenouille dans la terre. Il pétrit. Il approche son visage — et il ==souffle dans des narines==. C'est le geste le plus proche de tout le corpus, et le mot pour ce qu'il transmet est ==Neshamah==.
+Puis, au chapitre suivant, quelqu'un s'agenouille dans la terre. Il pétrit. Il approche son visage — et il ==souffle dans des narines==. C'est le geste le plus proche de tout le corpus, et le mot pour ce qu'il transmet est ==Neshamah== (*Neshamah* / נְשָׁמָה).
 
 Il faut mesurer ce que le texte fait là. Les bêtes, les oiseaux, les poissons sont des **Nefesh** vivants dans les mêmes termes que l'adam — le texte le dit deux fois, aux versets 20 et 24. La vie ne le distingue pas. Ce qu'il reçoit et qu'ils ne reçoivent pas, c'est ce souffle-ci, donné ==bouche contre narines==, sans intermédiaire.
 

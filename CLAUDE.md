@@ -220,48 +220,45 @@ C'est le surlignage natif d'Obsidian : il se voit en écrivant, et il n'était e
 |---|---|---|
 | texte nu | encre | non |
 | `==mot==` | **bordeaux clair `#862742`**, semi-gras | non |
+| `[[Nom]]` | **terre brûlée `#603518`**, semi-gras — §2.10 | **oui** → fiche de **Shem** |
 | `**mot**` | **or**, semi-gras | **oui** → fiche de lexique |
 | `*mot*` | italique | non |
 
 **Quand employer `==...==` :**
 
-- **tout nom propre, à chacune de ses occurrences** — voir la règle généralisée ci-dessous ;
+- ~~tout nom propre~~ — **plus depuis le 29 août 2026** : les noms propres relèvent du §2.10, la couche des **Shemot**, et s'écrivent `[[Nom]]` ;
 - un mot français que le texte nomme solennellement — `==« Jour »==`, `==« Nuit »==`, `==« Cieux »==` ;
 - une métadonnée d'apparat critique — `==premier emploi dans l'ONT==`, `==Candidat intraduisible==`.
 
-#### La règle des noms propres est généralisée — 19 août 2026
+#### Les noms propres ont quitté cette marque — 29 août 2026
 
-Elle ne visait que « un nom propre dont le verset explique l'étymologie ». Elle
-vise maintenant **tout nom propre, partout, à toutes ses occurrences** — corps
-du texte **et** gloses.
+**Ils relèvent désormais du §2.10**, la couche des **Shemot**, et s'écrivent
+`[[Nom]]` en terre brûlée. Ce qui suit est l'histoire de la règle, gardée parce
+qu'elle explique pourquoi la couche existe.
 
-**Pourquoi.** Un lecteur qui arrive sans rien savoir ne distingue pas Mitsrayim
-d'un mot ordinaire, et le §4.12 lui refuse la forme française. Sans marque, le
-texte se lit comme une suite de mots opaques dont rien ne dit lesquels sont des
-personnes et des lieux. La couleur le lui dit sans traduire.
+Le 19 août, la règle avait été généralisée : de « un nom propre dont le verset
+explique l'étymologie » à **tout nom propre, partout, à toutes ses
+occurrences**. Le motif tenait : un lecteur qui arrive sans rien savoir ne
+distingue pas Mitsrayim d'un mot ordinaire, et le §4.12 lui refuse la forme
+française. Sans marque, le texte se lit comme une suite de mots opaques dont
+rien ne dit lesquels sont des personnes et des lieux.
 
-**Rien à changer en aval.** Le pipeline lit déjà `==…==`, l'app le rend en
-bordeaux (`#862742` clair / `#D87994` sombre) et le site aussi. Le vault est le
-seul dépôt touché — c'est ce qui a fait retenir `==` plutôt qu'une quatrième
-marque à faire descendre dans trois dépôts.
+**Ce qui manquait, et que le 29 août a corrigé.** La couleur disait « ceci est
+une personne, un lieu » — et s'arrêtait là. Le lecteur voyait qu'il y avait
+quelque chose, sans pouvoir l'atteindre. Or un **Shem** *porte* : ==Avraham==
+est « père d'une multitude », ==Peleg== le partage. La marque signalait un sens
+sans jamais le donner.
 
-**La marche à suivre :** `./scripts/marquer-les-noms-propres.py`. Il relève les
-noms par leur niveau 3 capitalisé — donc il suit le §4.12 au lieu d'une liste
-tenue à la main —, saute les zones protégées (`**…**`, `(*…* / …)`, `==…==`
-déjà posés, titres, pied de version) et il est **idempotent** : à relancer après
-chaque chapitre écrit, sans réfléchir.
+**Deux noms lui échappaient, et ils échappent encore à la nouvelle couche.**
+`Shem` et `Adam` sont tantôt noms propres, tantôt intraduisibles — le fils de
+Noach et l'acte d'existence ; le personnage de *Toledot* et le générique de
+*Bereshit* 8+. La casse ne les sépare pas. C'est un arbitrage verset par verset,
+réservé à l'auteur.
 
-**Deux noms lui échappent, et c'est délibéré.** `Shem` et `Adam` sont tantôt
-noms propres, tantôt intraduisibles — le fils de Noach et l'acte d'existence ;
-le personnage de *Toledot* et le générique de *Bereshit* 8+. La casse ne les
-sépare pas, et 126 occurrences nues mélangent les deux sens. Les marquer en
-masse donnerait du bordeaux à des intraduisibles, c'est-à-dire l'inverse de ce
-que la marque veut dire. **C'est un arbitrage verset par verset, réservé à
-l'auteur** ; le script les compte et le rappelle à chaque exécution.
-
-**Un effet à connaître.** Sur un chapitre patriarcal, « Avraham » paraît jusqu'à
-186 fois : la page devient très colorée. C'est un choix assumé — la lisibilité
-pour qui découvre passe avant la sobriété de la page.
+**Un effet à connaître, qui vaut pour la couche des Shemot.** Sur un chapitre
+patriarcal, « Avraham » paraît jusqu'à 186 fois : la page devient très colorée.
+C'est un choix assumé — la lisibilité pour qui découvre passe avant la sobriété
+de la page.
 
 **Quand ne PAS l'employer :** pour un vrai terme hébreu. Celui-là mérite une entrée de glossaire (§2.5 / §3) et donc `**...**`. Le marquer `==...==` reviendrait à priver le lecteur de sa fiche.
 
@@ -286,11 +283,24 @@ Le §3 garde l'hébreu, les formes, le rendu fixé et la règle de balisage ;
 `lexique/` ne porte que l'explication, et remplace la définition quand elle
 existe.
 
-**La forme : des paragraphes, et rien d'autre.** Le titre `# Elohim` sert de
-repère dans Obsidian, le pipeline l'ignore ; les lignes vides séparent les
-paragraphes. Pas de titre intermédiaire, pas de liste, pas de citation :
-`TermSheet.swift` ne rend que les paragraphes et **laisse tomber le reste sans
-rien dire**. Une fiche faite de paragraphes, en revanche, voyage par la mise à
+**La forme : les titres intermédiaires sont permis depuis le 30 août 2026.** Le
+titre `# Elohim` sert de repère dans Obsidian, le pipeline l'ignore ; les lignes
+vides séparent les paragraphes. Une fiche peut porter des sous-titres `##`, des
+listes, des citations et des filets — `BlocDeFiche.swift` les rend tous, et il
+est partagé par la feuille d'un intraduisible et celle d'un **Shem**.
+
+**Ce que la règle disait avant, et pourquoi elle a changé.** Elle imposait
+« des paragraphes et rien d'autre », parce que la feuille ne rendait en effet
+que les paragraphes et **laissait tomber le reste sans rien dire**. Le pipeline
+jetait les titres avant même de les émettre : deux silences en série, et celui
+qui écrivait la fiche ne pouvait pas savoir lequel des deux l'avait mangée.
+
+Les deux sont réparés côté app. La contrainte tombe donc, et elle devait
+tomber : une fiche porte trois mouvements — la racine dans les six **ruachim**,
+le porteur, les renvois —, et sans leurs titres ils arrivent collés en un seul
+flot.
+
+Ce qui ne change pas : une fiche faite de blocs de texte voyage par la mise à
 jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
 ni revue Apple.
 
@@ -545,6 +555,187 @@ contagion de « Hénoch ». 115 occurrences, et les dossiers `38. khanokh` des d
 arborescences renommés : le livre n'étant pas encore écrit, le renommage était
 gratuit, exactement le moment que le §2.6 décrit pour les identifiants.
 
+
+### 2.10 Les Shemot — la troisième couche, `[[Nom]]`
+
+**Décision de l'auteur du 29 août 2026.** Les noms propres reçoivent leur propre
+couche : ils deviennent **touchables** et portent chacun une fiche, aussi tenue
+que celle d'un intraduisible — sans devenir des intraduisibles.
+
+**Pourquoi ils ne sont pas des intraduisibles.** `**chesed**` reste en hébreu
+parce que « bonté » rate quelque chose : le mot est *intraduisible*. `Avraham`
+n'est pas intraduisible, il est **non traduit** — le §4.12 l'impose déjà, et
+pour une autre raison. Confondre les deux ferait promettre au lecteur une fiche
+de concept là où il y a un **Shem**.
+
+**Pourquoi ils méritent mieux que l'accentuation.** Le bordeaux dit « ceci est
+une personne, un lieu » et s'arrête là. Or un **Shem** *porte* — ==Avraham== est
+« père d'une multitude », ==Chavah== « la vivante », ==Peleg== le partage,
+==Bavel== la confusion. Le §3.2 le dit du **Shem** lui-même : *l'acte d'existence
+fonctionnelle*, et *nommer c'est faire entrer dans l'ordre*. Une couche qui ne
+contient que des Shemot mérite le nom de la chose qu'elle contient.
+
+#### La marque
+
+`[[Nom]]` — le lien natif d'Obsidian.
+
+Il a été retenu sur trois faits, non sur le goût :
+
+- il **se voit en écrivant**, comme `==…==` ; c'est le critère qui avait fait
+  écarter une marque inventée ;
+- le pipeline le **reconnaissait déjà** (`inline.rs`, étape 4 de sa grammaire) et
+  le corpus n'en comptait **aucun emploi** — rien à migrer ;
+- et il travaille pour le traducteur : `lexique/<Nom>.md` étant une vraie note,
+  `[[Avraham]]` devient ==cliquable dans Obsidian même==. On touche le nom dans
+  l'éditeur, on arrive sur la fiche. Aucune autre marque ne fait ça.
+
+#### Ce que chaque marque produit dans La Bible ONT
+
+| écriture | rendu | touchable |
+|---|---|---|
+| texte nu | encre | non |
+| `==mot==` | bordeaux `#862742` / `#D87994` | non |
+| `[[Nom]]` | **terre brûlée `#603518` / `#AA7550`** | **oui** → fiche de **Shem** |
+| `**mot**` | or, semi-gras | **oui** → fiche de lexique |
+| `*mot*` | italique | non |
+
+#### La couleur, et pourquoi celle-là
+
+Le design system raisonne en écart perceptuel **CIE Lab**, avec un plancher
+déclaré : *sous ΔE 25, une couleur ne se distingue plus de façon fiable dans un
+texte courant.* La terre brûlée tient les trois écarts —
+
+    ΔE 34 de l'or profond · ΔE 33 du bordeaux · ΔE 29 de l'encre
+
+**Un vieil or aurait été plus beau, et il était impossible.** L'espace chaud est
+déjà occupé : l'or tient le jaune-brun, le bordeaux le rouge, et tout vieil or
+tombe entre les deux — bronze à ΔE 11 de l'or, brun doré à 17, cuivre à 20. Le
+lecteur ne saurait plus si un mot doré est un concept ou un nom. La terre brûlée
+est le ==seul ton chaud qui s'en sorte==, et elle y arrive en descendant assez
+bas pour frôler l'encre.
+
+Sur fond sombre elle remonte à `#AA7550`, à teinte constante — même logique que
+le bordeaux qui devient `#D87994`, et pour la même raison : elle disparaîtrait
+dans le noir.
+
+**Deux exigences distinctes, et il faut les deux.** Le ΔE mesure l'écart *entre
+marquages* — que l'or, le bordeaux et la terre brûlée ne se confondent pas. Le
+**contraste** mesure l'écart *au fond* — que le mot se lise. Une couleur peut
+tenir la première et manquer la seconde.
+
+C'est arrivé ici : la première valeur de nuit proposée, `#A3704D`, tenait ses
+trois ΔE et ne donnait que ==4,34:1== sur le thème sombre, sous le seuil AA du
+WCAG. Relevé par la session iOS, qui a le jeton de fond que le vault n'a pas.
+`#AA7550` donne 4,68:1 sur sombre et 4,95:1 sur mystique, tous les ΔE restant
+au-dessus du plancher.
+
+Contrastes des deux valeurs, sur les fonds où chacune sert :
+
+    #603518   parchemin 9,57:1   clair 10,40:1
+    #AA7550   sombre     4,68:1   mystique 4,95:1
+
+Et une couleur ne se juge que sur **les fonds où elle sert** : mesurer la valeur
+de nuit sur le parchemin ne veut rien dire, elle n'y paraît jamais.
+
+**La valeur n'est pas commune entre les dépôts — seul le nom l'est.** C'est le
+site qui l'a établi, en refusant de reprendre `#AA7550` sans la mesurer : sa
+nuit est une aubergine `#18090D`, et sa surface de verset désigné `#261016`.
+Sur celle-ci, `#AA7550` donne ==4,60:1== — au-dessus du seuil AA, mais très en
+dessous du plancher que le site s'est fixé, ==6,5:1==, qui est celui de son
+`encre-douce` et de son `accentuation`. Le Shem y serait ==la couleur la plus
+faible du site==.
+
+Il emploie donc `#BA8C6C` — même teinte à 24,4°, même saturation, clarté
+relevée de 47,1 % à 57,6 % : 6,51:1 sur sa nuit, 6,04:1 sur sa surface.
+
+**Et l'app l'a rejoint, par sa propre mesure.** Le relevé du site l'a fait
+regarder le bon chiffre : `#AA7550` tenait AA à 4,66 sur son thème sombre, et
+==aurait été le marquage le plus faible de ses thèmes sombres==, quand son or y
+donne 9,80 et son bordeaux 6,15. Or son `ONTColors.swift` écrit du bordeaux
+qu'il a été remonté à *« 6,1:1 — au-delà du seuil AA »*. ==Le projet s'est donc
+donné un standard plus haut qu'AA, écrit nulle part et tenu partout.==
+
+Le Shem s'y range : `#BA8C6C` des deux côtés, 6,12 sur sombre et 6,51 sur
+mystique — à hauteur du bordeaux. Les deux dépôts ont convergé sur la même
+valeur ==sans se la copier==, chacun l'ayant dérivée de son propre fond. C'est ce
+que la règle prédisait, et le fait qu'ils tombent au même endroit ne la contredit
+pas : ==leurs fonds sombres se ressemblent, leurs fonds clairs non==.
+
+Ce n'est pas une divergence à réduire, c'est ==la bonne façon de faire==. Le
+précédent existe déjà avec `mystique`, dont le site est la référence et l'app la
+transposition. Ce qui doit être commun est ==la teinte et le nom de la couche== ;
+la valeur se remesure sur chaque fond, et une valeur juste ici n'a aucune raison
+de l'être ailleurs.
+
+**Et la règle se démontre, elle ne s'affirme pas.** Le site a dérivé sa valeur
+==en partant de la mauvaise== — je lui avais transmis `#A3704D`, écartée deux
+jours plus tôt. Mise en teinte, sa dérivation tombe pourtant sur la ligne de la
+valeur courante :
+
+    #AA7550   l'app     teinte 24,7°   saturation 36,0 %   clarté 49,0 %
+    #BA8C6C   le site   teinte 24,6°   saturation 36,1 %   clarté 57,6 %
+
+Teinte et saturation identiques ==au dixième== ; seule la clarté bouge. Ce n'est
+donc pas une autre couleur : c'est la même, ==avec la clarté remesurée sur le
+fond d'arrivée==. La teinte a traversé intacte alors même que la valeur
+transmise était fausse — ce que la règle prédisait, et qui se vérifie ici par le
+calcul plutôt que par l'accord entre sessions.
+
+**Et le gravier était que rien ne mesurait les couleurs.** Les feuilles de style
+écrivaient leurs ratios ==en commentaire==, et aucun contrôle ne les relisait.
+Le site a posé
+`aucune_couleur_de_texte_ne_descend_sous_le_plancher_de_la_rampe`, éprouvée en
+la faisant échouer sur la valeur fautive — un instrument validé sur un cas dont
+on connaît la réponse.
+
+#### Les fiches
+
+Elles vivent dans `lexique/`, comme celles des intraduisibles, et suivent
+**exactement** le §2.5 ter : sa forme — titres intermédiaires compris — et le critère des
+six **ruachim** — faire voyager le lecteur *à l'intérieur* de l'époque plutôt que
+lui décrire l'époque du dehors.
+
+Ce qu'une fiche de **Shem** doit porter, quand le corpus le donne : ce que le
+nom veut dire, qui le porte et quelle fonction il tient, ce que le récit fait de
+son sens, et — pour un lieu — où il se trouve et ce qu'il pèse dans le monde du
+texte. Jamais l'article d'encyclopédie : la scène, comme partout ailleurs.
+
+#### Une fiche de Shem n'est jamais finie
+
+**Quand un livre est écrit, il faut repasser sur les fiches de ses Shemot.**
+C'est un chantier récurrent, pas une passe unique, et il faut l'inscrire ici
+parce que rien d'autre ne le rappellera.
+
+La raison est dans la nature de la couche. Une fiche d'intraduisible porte un
+mot, et un mot ne change pas quand le corpus grandit. Une fiche de **Shem**
+porte ==une personne ou un lieu==, et une personne gagne un rôle chaque fois
+qu'un nouveau livre la fait paraître.
+
+Le cas de ==Chanokh== le montre. Sa fiche repose aujourd'hui sur quatre livres :
+*Bereshit* 5 lui donne six versets, le *Sefar Gibbaraya* le montre en fonction —
+scribe, médiateur, celui qui prononce le décret —, et l'intro de ce même livre
+relève que l'*Igeret Yehudah* le ==cite nommément==. Le jour où 1 *Chanokh*
+(n° 38) et l'*Igeret Yehudah* (n° 68) seront écrits, la fiche devra être reprise :
+le personnage n'aura pas changé, mais ce que le corpus en dit, oui.
+
+**D'où la règle d'écriture :** une fiche de **Shem** se termine en disant ==sur
+quoi elle repose et ce qui reste à venir==. Elle ne prétend pas être complète —
+elle déclare son assise. Un lecteur qui la touche dans deux ans doit pouvoir
+voir qu'elle a été reprise, et pourquoi.
+
+#### Ce que la couche ne prend pas
+
+- **Les homographes restent à l'auteur.** `Shem` le fils de Noach est un
+  **Shem** ; `**Shem**` l'acte d'existence est un intraduisible. Même mot, deux
+  couches. La casse ne les sépare pas — c'est un arbitrage verset par verset,
+  déjà signalé au §2.5 bis pour `Adam`.
+- **Le niveau 3 ne double pas la marque.** Dans `(*Chanokh* / חֲנוֹךְ)`, le nom
+  est déjà porté ; on ne le remarque pas.
+- **`==…==` garde tout le reste** : les mots que le texte nomme solennellement
+  (`==« Jour »==`), et les métadonnées d'apparat (`==premier emploi dans
+  l'ONT==`). L'accentuation ne disparaît pas, elle cesse seulement de servir aux
+  noms propres.
+
 ---
 
 ## 3. TERMINOLOGIE FIXÉE — GLOSSAIRE COMPLET
@@ -604,6 +795,11 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | קֹדֶשׁ | *qodesh* | **qodesh** | Intraduisible. La forme nominale de **qadosh** : non pas la qualité d'être pur, mais ==l'état d'être mis à part pour un office==. De la racine *qadash* — séparer, réserver. Un ustensile devient **qodesh** quand il cesse d'être disponible pour l'usage ordinaire ; un temps devient **qodesh** quand il est retiré du compte des jours utiles. Rien n'est **qodesh** par nature : tout l'est par assignation. Le mot appartient donc à la même famille d'opérations que **binah** — séparer entre —, et c'est ce qui le rend intraduisible : « sainteté » en français nomme une perfection morale, là où l'hébreu nomme une ==mise à part fonctionnelle==. Laissé en hébreu. |
 | רוּחַ הַקֹּדֶשׁ | *Ruach ha-Qodesh* | **Ruach ha-Qodesh** | Intraduisible. La **Ruach** en tant qu'elle ==met à part== — non « le Saint-Esprit » (formule chargée de dix-sept siècles de dogmatique trinitaire, §4.7), non « souffle sacré » (qui en ferait une qualité au lieu d'une opération). L'article *ha-* porte tout le sens : ce n'est pas une **Ruach** parmi d'autres, c'est ==la== **Ruach**, celle de **YHWH**, désignée par ce qu'elle fait — elle sépare, assigne, consacre à un office. C'est la même **Ruach** qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités : **chokhmah**, **binah**, **etsah**, **gevurah**, **da'at** et **yirat YHWH**. Formes attestées dans le corpus hébreu : *Tehilim* 51:13, *Yeshayahu* 63:10-11. Traitement définitif réservé à son locus. Laissée en hébreu. |
 | בְּרִית | *berith* | alliance | Structure fonctionnelle d'engagement. Développé en Bereshit 8 : ici unilatérale — Elohim seul s'engage, Noach n'est pas invité à promettre. Non pas un contrat bilatéral mais une déclaration souveraine de fidélité permanente. Meqim (qum : faire se tenir) et non karat (couper) — l'alliance se tient debout par la parole d'Elohim seul. |
+| נְשָׁמָה | *neshamah* | **Neshamah** | Intraduisible. Le souffle qu'**Elohim** insuffle dans les narines de **l'Être façonné du sol** — *vayipach be'apav nishmat chayim*. À ne pas confondre avec la **Ruach**, qui est aussi le vent et l'esprit, ni avec le **Nefesh**, que les animaux ont également. La **Neshamah** est ==ce qui est donné de bouche à narines==, dans un geste de proximité que le corpus ne répète pour aucune autre créature. Non « l'âme » (catégorie grecque : une part détachable qui survit au corps). Premier emploi *Bereshit* 2:7. Laissée en hébreu. |
+| אֱמוּנָה | *emunah* | **emunah** | Intraduisible. De *aman* (אָמַן) — être ferme, porter, tenir bon ; le mot dont vient *amen*. ==Ce sur quoi on peut poser son poids.== Non « la foi » au sens d'une opinion tenue pour vraie : l'**emunah** n'est pas un contenu de croyance mais ==une posture d'appui==. Le verbe est un hiphil — *he'emin*, traiter comme ferme, s'appuyer sur —, que l'ONT rend **emuna** (sans h, délibéré). Même logique fonctionnelle que **teshuvah** et **yirah** : une manière de se tenir, non un sentiment. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
+| צַדִּיק | *tsadiq* | **tsadiq** | Intraduisible. Forme adjectivale de **tsedeq** : ==celui qui est ajusté à l'ordre juste==. Non « le juste » au sens moral — la **tsedaqah** n'est pas une vertu de caractère mais ==une conformité structurelle==, et le corpus le montre en appelant **tsadiq** un Noach qui finira ivre sous sa tente. Opposé fonctionnel : **rasha**, celui qui est de travers. La paire est constitutive du droit divin hébraïque. Pluriel **tsadiqim**. Premier emploi *Bereshit* 6:9. Laissé en hébreu. |
+| צְדָקָה | *tsedaqah* | **tsedaqah** | Intraduisible. Forme nominale de **tsedeq** : ==l'état ou l'acte d'être ajusté à l'ordre==. Jamais « justice » (*dikaiosyne*, catégorie grecque) ni « justification » (catégorie théologique tardive) — deux rendus que toutes les traductions existantes emploient et que l'ONT refuse. Inséparable du **mishpat** : *tsedaqah umishpat*, l'ordre-juste et le jugement-juste, sont le couple du droit divin. C'est elle qui est ==comptée== à Avraham en *Bereshit* 15:6, non gagnée par lui. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
+| מַבּוּל | *mabbul* | **mabbul** | Intraduisible. Le terme technique des eaux de *Bereshit* 6-9, et de nulle part ailleurs dans la Torah — le corpus ne l'emploie pour aucune autre inondation. Non « le déluge » (mot latin banalisé, appliqué à toute crue) : le **mabbul** est ==une dé-création temporaire==, le retour des eaux d'en haut et d'en bas sur un monde dont les écluses se rouvrent. Ce que *Bereshit* 1 avait séparé se remêle, puis la **Ruach** repasse sur les eaux comme au commencement. Premier emploi *Bereshit* 6:17. Laissé en hébreu. |
 | חֶסֶד | *chesed* | **chesed** | Intraduisible. La fidélité loyale envers celui à qui l'on est lié par une **berith** : tenir parole et agir pour son bien, dans la durée. Non pas "bonté" (trop faible — rate la loyauté engagée), ni "grâce" (catégorie théologique tardive de la faveur imméritée — importée, §4.7), ni "miséricorde" (le **chesed** est *dû* à l'intérieur d'un lien, non simple pitié). S'étend de la fidélité de **YHWH** envers les siens (*chasdo* — qui « dure **le'olam** », *Tehilim* 136) jusqu'à la loyauté entre humains liés (Ruth envers Naomi). Premier emploi en *Bereshit* 19:19 — le **chesed** qui garde le **Nefesh** de Lot. Même logique relationnelle qu'**emunah** : une posture de fidélité, non un sentiment. Traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 (*rav chesed*) et *Ruth*. Laissé en hébreu. |
 | עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |

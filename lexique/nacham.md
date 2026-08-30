@@ -1,6 +1,6 @@
 # nacham
 
-Un homme apprend une nouvelle et le coup le prend au ventre. Ce n'est pas une pensée qui change, c'est quelque chose qui se retourne au-dedans — et c'est de là, de cet endroit remué, qu'il va voir les choses autrement. L'hébreu tient les deux moments dans un seul mot, et c'est ==nacham==.
+Un homme apprend une nouvelle et le coup le prend au ventre. Ce n'est pas une pensée qui change, c'est quelque chose qui se retourne au-dedans — et c'est de là, de cet endroit remué, qu'il va voir les choses autrement. L'hébreu tient les deux moments dans un seul mot, et c'est ==nacham== (*nacham* / נָחַם).
 
 Deux dimensions, inséparables : ==être saisi aux entrailles==, et ==reconsidérer depuis là==. Ni un chagrin qui reste un chagrin, ni un changement d'avis qui serait affaire de raisonnement. Les deux, dans cet ordre, l'un causant l'autre.
 

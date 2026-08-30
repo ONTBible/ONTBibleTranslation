@@ -1,6 +1,6 @@
 # remes
 
-Le verbe *ramas* dit ==se mouvoir au ras du sol== — ramper, grouiller, glisser. Le ==remes== est ce qui se déplace ainsi : non pas une espèce, mais ==une manière d'occuper l'espace==.
+Le verbe *ramas* dit ==se mouvoir au ras du sol== — ramper, grouiller, glisser. Le ==remes== (*remes* / רֶמֶשׂ) est ce qui se déplace ainsi : non pas une espèce, mais ==une manière d'occuper l'espace==.
 
 C'est ce qu'il faut tenir pour lire les listes du sixième jour sans les prendre pour de la zoologie approximative. Le texte range le vivant terrestre en trois selon son rapport à l'espace habité : la **behemah** qu'on mène, la **chayah** du dehors qu'on ne mène pas, et le ==remes== — ce qui circule ==en dessous==, entre les pieds, dans les interstices.
 

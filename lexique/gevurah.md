@@ -2,7 +2,7 @@
 
 Deux hommes entrent dans un village. Le premier est un **gibbor** : on s'écarte, on baisse la voix, on compte ce qu'il faudra donner pour qu'il passe son chemin. Le second a bâti le puits où tout le monde vient boire depuis trente ans. Le premier ==pèse==. Le second a ==fait aboutir==. Les deux mots viennent de la même racine, *gabar* — l'emporter, prévaloir —, et tout le corpus tient dans l'écart entre eux.
 
-Le **gibbor** est celui qui pèse ; la ==gevurah== est ce qui mène à terme. Une personne d'un côté, une capacité de l'autre.
+Le **gibbor** est celui qui pèse ; la ==gevurah== (*gevurah* / גְּבוּרָה) est ce qui mène à terme. Une personne d'un côté, une capacité de l'autre.
 
 Ni « force » ni « puissance » ne le disent. Notre force est physique, notre puissance est une domination : l'une et l'autre se mesurent à ce qu'elles peuvent écraser. La ==gevurah== se mesure ailleurs — ==à ce qui est achevé quand elle a agi==. C'est la différence entre un bras et un bras qui construit.
 

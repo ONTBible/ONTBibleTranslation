@@ -2,7 +2,7 @@
 
 Un homme de quatre-vingt-dix-neuf ans. Une promesse qui ne s'est pas réalisée depuis vingt-quatre ans qu'elle a été faite. Et un signe qui lui est demandé — non pas un serment, non pas un autel, non pas un monument : une incision, dans sa propre chair, à l'endroit par où la descendance passe.
 
-C'est cela, la ==milah==. La racine *moul* veut dire couper, et le mot désigne ==l'acte== — le geste d'incision par lequel le signe de la **berith** entre dans le corps.
+C'est cela, la ==milah== (*milah* / מִילָה). La racine *moul* veut dire couper, et le mot désigne ==l'acte== — le geste d'incision par lequel le signe de la **berith** entre dans le corps.
 
 Le choix de l'endroit n'est pas une pudeur du texte : c'est tout le sens. Ce qui est promis à ==Avraham==, c'est une descendance. Le signe est donc posé ==là où la descendance passe== — sur l'organe de la transmission, et non sur le front, la main ou l'oreille. L'alliance ne se range pas dans un coffre ; elle est marquée sur ce qui va la porter plus loin que celui qui la reçoit.
 

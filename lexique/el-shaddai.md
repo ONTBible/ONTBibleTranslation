@@ -8,6 +8,6 @@ Ce qui est sûr, c'est ==où le nom paraît==. Il accompagne les moments où l'i
 
 Ce qui donne du prix à la troisième lecture, même incertaine : ==celui qui suffit==. Non pas celui qui peut tout dans l'absolu — celui ==dont il n'est pas besoin d'autre chose== quand plus rien de disponible ne suffit.
 
-Le nom fonctionne comme les autres composés avec *El*. **El Elyon**, celui qui est au-dessus, quand la souveraineté est en cause. **El Roï**, celui qui me voit, quand quelqu'un que personne ne compte est vu. ==El Shaddai==, quand l'impossible cède. Ce ne sont pas des dieux différents ni des attributs empilés : ce sont ==les faces sous lesquelles il est rencontré==, et chacune est nommée là où elle se rencontre.
+Le nom fonctionne comme les autres composés avec *El*. **El Elyon**, celui qui est au-dessus, quand la souveraineté est en cause. **El Roï**, celui qui me voit, quand quelqu'un que personne ne compte est vu. ==El Shaddai== (*El Shaddai* / אֵל שַׁדַּי), quand l'impossible cède. Ce ne sont pas des dieux différents ni des attributs empilés : ce sont ==les faces sous lesquelles il est rencontré==, et chacune est nommée là où elle se rencontre.
 
 Le corpus le laisse en hébreu. « Le Tout-Puissant » traduit une des trois pistes en écartant les deux autres, et fait un superlatif abstrait là où l'hébreu nomme une rencontre datée.

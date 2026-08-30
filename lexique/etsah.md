@@ -1,6 +1,6 @@
 # etsah
 
-Un roi en fuite descend la vallée, ses hommes derrière lui, et l'on vient lui dire que son conseiller le plus écouté est passé à son fils révolté. Le roi ne répond pas qu'il perd un allié. Il dit : ==fais tourner en folie l'etsah d'Achitofel==. Et le texte, qui n'a pas l'habitude des compliments, ajoute que l'==etsah== de cet homme, en ce temps-là, valait ==comme si l'on consultait le davar d'Elohim==.
+Un roi en fuite descend la vallée, ses hommes derrière lui, et l'on vient lui dire que son conseiller le plus écouté est passé à son fils révolté. Le roi ne répond pas qu'il perd un allié. Il dit : ==fais tourner en folie l'etsah d'Achitofel==. Et le texte, qui n'a pas l'habitude des compliments, ajoute que l'==etsah== (*etsah* / עֵצָה) de cet homme, en ce temps-là, valait ==comme si l'on consultait le davar d'Elohim==.
 
 Un avis ne vaut pas qu'on prie contre lui. Ce qui se joue là n'est pas une opinion parmi d'autres : c'est ==un plan arrêté==, qui va s'exécuter, et dont chacun sait qu'il porte.
 

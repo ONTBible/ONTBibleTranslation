@@ -2,7 +2,7 @@
 
 Le mot vient de *zavach* — ==égorger==. Littéralement : le lieu où l'on égorge. On traduit par « autel », et le mot français a pris avec le temps quelque chose de paisible : une table, des fleurs, un lieu de recueillement.
 
-Il faut effacer cette image. Un ==mizbeach== est une construction de pierres brutes, en plein air, avec du sang qui coule le long des faces et un feu qui brûle. On y tue des bêtes. L'odeur, la chaleur, le bruit — tout ce que la traduction a lissé était là.
+Il faut effacer cette image. Un ==mizbeach== (*mizbeach* / מִזְבֵּחַ) est une construction de pierres brutes, en plein air, avec du sang qui coule le long des faces et un feu qui brûle. On y tue des bêtes. L'odeur, la chaleur, le bruit — tout ce que la traduction a lissé était là.
 
 C'est pourquoi l'ONT rend le mot par « autel », mais impose son niveau 3 à chaque première occurrence : le lecteur doit voir le mot hébreu et savoir d'où il vient, sinon il lit une table.
 

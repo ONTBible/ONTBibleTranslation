@@ -1,6 +1,6 @@
 # kanaf
 
-L'aile — mais le mot dit d'abord ==ce qui permet d'habiter le domaine aérien==. Comme partout dans ce chapitre, l'organe est nommé par sa fonction : la ==kanaf== est ce par quoi le **of** occupe l'espace qui lui est assigné.
+L'aile — mais le mot dit d'abord ==ce qui permet d'habiter le domaine aérien==. Comme partout dans ce chapitre, l'organe est nommé par sa fonction : la ==kanaf== (*kanaf* / כָּנָף) est ce par quoi le **of** occupe l'espace qui lui est assigné.
 
 Le mot glisse ensuite vers tout ce qui, d'un objet, ==s'étend et couvre==. La ==kanaf== d'un vêtement est son pan, le bord qui retombe et qu'on peut rabattre sur quelqu'un. Les ==kanfei== de la terre sont ses extrémités, là où elle s'étend jusqu'à s'arrêter.
 

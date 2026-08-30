@@ -1,6 +1,6 @@
 # raqia
 
-Lève les yeux par temps clair. Le bleu paraît solide, tendu, comme une surface — et ce n'est pas une naïveté d'ancien : c'est ce qu'on voit. L'hébreu appelle ==raqia== cette surface, et le verbe dont le mot vient, *raqa*, désigne ==le métal qu'on martèle pour l'étendre en feuille==.
+Lève les yeux par temps clair. Le bleu paraît solide, tendu, comme une surface — et ce n'est pas une naïveté d'ancien : c'est ce qu'on voit. L'hébreu appelle ==raqia== (*raqia* / רָקִיעַ) cette surface, et le verbe dont le mot vient, *raqa*, désigne ==le métal qu'on martèle pour l'étendre en feuille==.
 
 Ce que le texte décrit n'est donc pas l'atmosphère. C'est ==une surface délimitante==, martelée entre les eaux d'en haut et les eaux d'en bas. Sa fonction est dans sa définition même : *séparer les eaux d'avec les eaux*. Elle ne produit rien, elle ==tient== — c'est un mur porteur.
 

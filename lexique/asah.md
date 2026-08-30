@@ -1,6 +1,6 @@
 # asah
 
-Trois verbes se partagent le premier chapitre, et le texte ne les confond jamais. **Bara** inaugure une existence fonctionnelle, et **Elohim** en est le sujet exclusif. *Yatsar* façonne, comme un potier, avec une matière qu'on nomme. ==Asah== ==réalise concrètement== — c'est le verbe de l'exécution, celui qui met en place ce qui a été décidé.
+Trois verbes se partagent le premier chapitre, et le texte ne les confond jamais. **Bara** inaugure une existence fonctionnelle, et **Elohim** en est le sujet exclusif. *Yatsar* façonne, comme un potier, avec une matière qu'on nomme. ==Asah== (*Asah* / עָשָׂה) ==réalise concrètement== — c'est le verbe de l'exécution, celui qui met en place ce qui a été décidé.
 
 Compte-les, et la structure apparaît. **Bara** revient trois fois seulement : au commencement, pour les vivants des eaux et du ciel, pour l'adam. Trois seuils, trois entrées d'un type d'être nouveau. Tout le reste du travail se fait par ==asah== et par *badal* — réaliser et séparer.
 

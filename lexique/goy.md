@@ -1,6 +1,6 @@
 # goy
 
-Le singulier de **goyim**, et il faut le prendre au sérieux comme singulier : un ==goy== est ==un peuple précis== — celui-ci, avec sa langue, son sol, ses rois — et non « un païen ».
+Le singulier de **goyim**, et il faut le prendre au sérieux comme singulier : un ==goy== (*goy* / גּוֹי) est ==un peuple précis== — celui-ci, avec sa langue, son sol, ses rois — et non « un païen ».
 
 La table du chapitre dix les compte un par un, soixante-dix, chacun ==selon sa langue, selon sa famille, dans son territoire==. Rien de religieux là-dedans. Un ==goy== est une réalité politique et géographique constituée : des gens qui parlent pareil, occupent un espace et s'organisent.
 

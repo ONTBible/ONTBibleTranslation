@@ -2,7 +2,7 @@
 
 Un potier a deux jarres identiques sur une étagère. Il en prend une, la met de côté, et dit : celle-ci ne servira plus à l'eau. Rien n'a changé dans l'argile — ni la couleur, ni la forme, ni la qualité. Ce qui a changé, c'est ==ce à quoi elle est disponible==.
 
-L'état de cette jarre, c'est le ==qodesh==. Non pas une pureté, non pas une perfection : ==l'état d'être mis à part pour un office==. Rien n'est ==qodesh== par nature ; tout l'est par assignation, et la même jarre, remise en circulation, redevient une jarre.
+L'état de cette jarre, c'est le ==qodesh== (*qodesh* / קֹדֶשׁ). Non pas une pureté, non pas une perfection : ==l'état d'être mis à part pour un office==. Rien n'est ==qodesh== par nature ; tout l'est par assignation, et la même jarre, remise en circulation, redevient une jarre.
 
 Voilà pourquoi « sainteté » ne peut pas servir. Le mot français dit une perfection morale — un homme saint est un homme meilleur —, et il fait chercher dans les choses une qualité qui n'y est pas. L'hébreu ne parle jamais de qualité : il parle de ==destination==, et donc de disponibilité.
 

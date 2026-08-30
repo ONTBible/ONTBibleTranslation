@@ -11,7 +11,7 @@
 
 ⁵ Ce qui avait été séparé au commencement fut recouvert. ⁶ Les hauteurs perdirent leur hauteur, les chemins perdirent leur chemin, les limites visibles furent lavées. ⁷ La Terre redevint pour un temps espace sans distinction habitable, non parce que l'ordre premier était mauvais, mais parce que la violence avait rendu l'habitation impossible.
 
-⁸ ==Noach== (*Noach* / נֹחַ) *[celui par qui une cessation et un apaisement sont annoncés dans la lignée de **l'Être façonné du sol**]* fut gardé avec ses fils. ⁹ Il fut la racine vue dans le songe, et ses fils furent les trois rameaux. ¹⁰ Ils ne furent pas gardés comme trophée d'un combat, mais comme continuité minimale d'une Terre à réinstaller.
+⁸ [[Noach]] (*Noach* / נֹחַ) *[celui par qui une cessation et un apaisement sont annoncés dans la lignée de **l'Être façonné du sol**]* fut gardé avec ses fils. ⁹ Il fut la racine vue dans le songe, et ses fils furent les trois rameaux. ¹⁰ Ils ne furent pas gardés comme trophée d'un combat, mais comme continuité minimale d'une Terre à réinstaller.
 
 ¹¹ Les noms des violents furent comme signes sur la tablette plongée dans l'eau. ¹² Ils furent lavés de la surface où ils avaient pris sans mandat. ¹³ La chair des **gibbaraya** ne demeura pas, et leur puissance ne trouva pas lieu où se tenir.
 
@@ -22,13 +22,13 @@
 ### Notes philologiques
 
 - Le Livre des Géants anticipe le **mabbul** par visions et interprétations ; le récit détaillé appartient à *Bereshit* 7-8.
-- L'identification de ==Noach== à la racine gardée est soutenue par 6Q8 et par les traditions parallèles.
+- L'identification de [[Noach]] à la racine gardée est soutenue par 6Q8 et par les traditions parallèles.
 - La lecture du **mabbul** comme dé-création temporaire est une synthèse ONT.
 
 ### Notes ontologiques
 
 - Les eaux suspendent les séparations visibles parce que les séparations fonctionnelles ont été violées.
-- ==Noach== est continuité ordonnée, non héros autonome.
+- [[Noach]] est continuité ordonnée, non héros autonome.
 - Le retrait des eaux permet une re-création fonctionnelle.
 
 ### Parallèles bibliques éventuels

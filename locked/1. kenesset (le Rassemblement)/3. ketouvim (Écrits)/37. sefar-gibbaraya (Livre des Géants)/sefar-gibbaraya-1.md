@@ -17,7 +17,7 @@
 
 ⁷ Leur nombre fut grand, et le souvenir de leurs chefs fut transmis parmi les scribes.
 
-⁸ ==Shemikhazah== (*Shemikhazah* / שמיחזה) *[*shemi* (שְׁמִי) : mon **shem** + *khazah* (חָזָה) : a vu — "Mon **shem** a vu" ; chef des **'irin**, son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; ==Azazel== (*Azazel* / עזאזל) *[étymologie débattue — *az* (עַז) : fort, bouc + *el* (אֵל), ou de *azal* : s'en aller entièrement ; figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; ==Baraqel== (*Baraqel* / ברקאל) *[*baraq* (בָּרָק) : éclair + *el* (אֵל) — "éclair d'El" ; père de ==Mahaway==]* fut compté parmi les pères de la génération de démesure.
+⁸ [[Shemikhazah]] (*Shemikhazah* / שמיחזה) *[*shemi* (שְׁמִי) : mon **shem** + *khazah* (חָזָה) : a vu — "Mon **shem** a vu" ; chef des **'irin**, son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; [[Azazel]] (*Azazel* / עזאזל) *[étymologie débattue — *az* (עַז) : fort, bouc + *el* (אֵל), ou de *azal* : s'en aller entièrement ; figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; [[Baraqel]] (*Baraqel* / ברקאל) *[*baraq* (בָּרָק) : éclair + *el* (אֵל) — "éclair d'El" ; père de [[Mahaway]]]* fut compté parmi les pères de la génération de démesure.
 
 ⁹ Ils descendirent vers la Terre, non comme **mal'akhim** mandatés, mais comme puissances qui quittent leur place. ¹⁰ Alors ils connurent des secrets (*razin* / רָזִין) *[araméen : mystères, secrets célestes. Le problème n'est pas le savoir en lui-même, mais sa transmission hors mandat]* qui n'avaient pas été remis aux fils de **l'Être façonné du sol**.
 
@@ -36,7 +36,7 @@
 - Les éléments attestés ou fortement appuyés par le cycle hénochien sont : **'irin**, secrets, descente, union, génération des **gibbaraya** et corruption de la Terre.
 - Les formes araméennes (*'irin*, *razin*, *gibbaraya*, *qaddishin*) servent ici de niveau 3 utile ; elles ne prétendent pas restituer chaque ligne fragmentaire.
 - Le nombre de deux cents appartient au cycle traditionnel des **'irin** ; il est laissé en note pour ne pas alourdir la voix narrative.
-- ==Shemikhazah==, ==Azazel== et ==Baraqel== sont intégrés parce que le Livre des Géants présuppose le récit des **'irin**, mais leur distribution exacte dans les fragments demeure lacunaire.
+- [[Shemikhazah]], [[Azazel]] et [[Baraqel]] sont intégrés parce que le Livre des Géants présuppose le récit des **'irin**, mais leur distribution exacte dans les fragments demeure lacunaire.
 - Le lien avec les **Nephilim** et les **gibborim** de *Bereshit* 6:4 est traité dans les parallèles bibliques.
 
 ### Notes ontologiques

@@ -1,6 +1,6 @@
 # chesed
 
-Deux hommes ont conclu une **berith**. Des années passent. L'un tombe, l'autre pouvait ne rien faire — personne ne le lui aurait reproché, l'affaire était vieille. Il vient quand même, il paie, il tient. Ce qu'il a fait là s'appelle ==chesed==.
+Deux hommes ont conclu une **berith**. Des années passent. L'un tombe, l'autre pouvait ne rien faire — personne ne le lui aurait reproché, l'affaire était vieille. Il vient quand même, il paie, il tient. Ce qu'il a fait là s'appelle ==chesed== (*chesed* / חֶסֶד).
 
 Le mot ne dit ni la gentillesse ni la générosité. Il dit ==la fidélité à l'intérieur d'un lien== — tenir parole et agir pour le bien de l'autre, dans la durée, parce qu'on est lié à lui.
 

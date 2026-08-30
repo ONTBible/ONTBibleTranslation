@@ -4,7 +4,7 @@ Deux verbes, deux façons de faire un être humain, et le texte prend soin de ne
 
 Pour l'adam : *yatsar*, le verbe du potier. On pétrit, on modèle, on donne forme à une matière molle avec les mains. Le mot est celui de l'artisan penché sur son tour.
 
-Pour celle qui vient ensuite : ==banah==. Et ==banah==, c'est ==le verbe de l'architecte== — on bâtit une maison, un mur, une ville, un temple. On ne modèle pas : on ==édifie==, avec un plan, en assemblant, pour que cela tienne debout et serve.
+Pour celle qui vient ensuite : ==banah== (*banah* / בָּנָה). Et ==banah==, c'est ==le verbe de l'architecte== — on bâtit une maison, un mur, une ville, un temple. On ne modèle pas : on ==édifie==, avec un plan, en assemblant, pour que cela tienne debout et serve.
 
 La différence n'est pas un ornement de style. On pétrit une matière ; on ==bâtit une structure==. Ce que le texte dit en changeant de verbe, c'est que ce qui est fait là n'est pas une seconde fournée de la même pâte : c'est une construction, avec une destination.
 

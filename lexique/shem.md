@@ -2,7 +2,7 @@
 
 Le grand poème babylonien de la création s'ouvre ainsi : *lorsque, en haut, le ciel n'était pas encore nommé, et qu'en bas la terre ferme ne portait pas de nom*. Un lecteur d'aujourd'hui y voit une formule poétique pour dire « au commencement ». Le scribe qui l'écrivait disait autre chose, et très exactement : ==rien n'existait, parce que rien n'était nommé==.
 
-C'est le monde dans lequel le corpus hébreu est écrit, et il faut y entrer pour lire ce mot. Un ==Shem== n'est pas une étiquette collée sur une chose déjà là. C'est ce qui fait qu'elle est là — sa place assignée, son office, son entrée dans l'ordre.
+C'est le monde dans lequel le corpus hébreu est écrit, et il faut y entrer pour lire ce mot. Un ==Shem== (*Shem* / שֵׁם) n'est pas une étiquette collée sur une chose déjà là. C'est ce qui fait qu'elle est là — sa place assignée, son office, son entrée dans l'ordre.
 
 Regarde alors la première page autrement. **Elohim** sépare la lumière de l'obscurité, puis il ==appelle== la lumière jour et l'obscurité nuit. Ce second geste n'est pas une commodité de vocabulaire : c'est l'achèvement du premier. Séparer trace la frontière ; nommer installe ce qu'elle délimite dans son emploi.
 

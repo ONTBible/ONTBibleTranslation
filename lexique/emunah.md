@@ -1,6 +1,6 @@
 # emunah
 
-Un enfant porté sur le bras d'une nourrice. Un poteau planté qui tient la tente contre le vent. Une main qu'on relève, et qui reste levée parce qu'un autre la soutient. Ces trois images viennent de la même racine que ==emunah==, et elles disent toutes la même chose : ==ce qui tient bon, et sur quoi on peut s'appuyer==.
+Un enfant porté sur le bras d'une nourrice. Un poteau planté qui tient la tente contre le vent. Une main qu'on relève, et qui reste levée parce qu'un autre la soutient. Ces trois images viennent de la même racine que ==emunah== (*emunah* / אֱמוּנָה), et elles disent toutes la même chose : ==ce qui tient bon, et sur quoi on peut s'appuyer==.
 
 Ce n'est donc pas ce que nous appelons la foi. Notre foi est une adhésion de l'esprit : croire que quelque chose est vrai sans pouvoir le prouver, un contenu qu'on tient pour tel. L'==emunah== ne dit rien d'un contenu. Elle dit ==une fidélité qui dure== — un appui qui ne cède pas quand on met du poids dessus.
 

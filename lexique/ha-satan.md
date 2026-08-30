@@ -2,7 +2,7 @@
 
 Une assemblée. Ceux qui servent se présentent devant celui qui gouverne, et parmi eux il y en a un dont la charge est de ==relever ce qui ne va pas==. Il examine, il objecte, il met en cause. Rien dans la scène n'indique qu'il soit un ennemi : il est à sa place, dans le Conseil, et il fait ce pour quoi il est là.
 
-Le mot pour cela est ==satan== — de la racine qui veut dire accuser, s'opposer, se dresser en travers. Et le corpus l'écrit presque toujours avec l'article : ==ha==-==satan==, ==l'==accusateur. Cet article change tout, et il est facile à ne pas voir.
+Le mot pour cela est ==satan== — de la racine qui veut dire accuser, s'opposer, se dresser en travers. Et le corpus l'écrit presque toujours avec l'article : ==ha==-==satan== (*ha-satan* / הַשָּׂטָן), ==l'==accusateur. Cet article change tout, et il est facile à ne pas voir.
 
 Un article défini ne se met pas devant un nom propre. On ne dit pas « le Pierre ». S'il est là, c'est que le mot désigne ==une fonction==, pas quelqu'un : l'accusateur, celui qui tient ce rôle-là — comme on dirait le procureur, le greffier, le veilleur.
 

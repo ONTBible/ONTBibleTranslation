@@ -1,6 +1,6 @@
 # orlah
 
-Un fruit qu'on ne cueille pas encore. Un arbre planté depuis trois ans dont on laisse le fruit sur la branche : le corpus l'appelle ==orlah==, et le mot ne parle pas de saleté. Il parle de ce qui est ==encore couvert, pas encore ouvert== — la racine dit exactement cela.
+Un fruit qu'on ne cueille pas encore. Un arbre planté depuis trois ans dont on laisse le fruit sur la branche : le corpus l'appelle ==orlah== (*orlah* / עָרְלָה), et le mot ne parle pas de saleté. Il parle de ce qui est ==encore couvert, pas encore ouvert== — la racine dit exactement cela.
 
 Le geste porte d'abord sur la chair. Le signe de la **berith** avec ==Avraham== est inscrit là, dans le corps, à l'endroit par où la descendance passe — et c'est précisément le point : l'alliance ne se signe pas sur une tablette qu'on peut ranger, elle se marque sur ce qui va transmettre. Celui qui n'a pas reçu le signe est **arel** — encore couvert.
 

@@ -1,6 +1,6 @@
 # berith
 
-Deux hommes s'engagent l'un envers l'autre. On amène des bêtes, on les fend en deux dans la longueur, on dispose les moitiés face à face, et l'on passe entre les morceaux. Le geste ne demande pas d'explication : celui qui passe là dit, sans un mot, *que je devienne comme ces bêtes si je ne tiens pas*. C'est ainsi qu'on ==coupe== une ==berith== — le verbe hébreu est *karat*, couper, et il n'a jamais été remplacé.
+Deux hommes s'engagent l'un envers l'autre. On amène des bêtes, on les fend en deux dans la longueur, on dispose les moitiés face à face, et l'on passe entre les morceaux. Le geste ne demande pas d'explication : celui qui passe là dit, sans un mot, *que je devienne comme ces bêtes si je ne tiens pas*. C'est ainsi qu'on ==coupe== une ==berith== (*berith* / בְּרִית) — le verbe hébreu est *karat*, couper, et il n'a jamais été remplacé.
 
 Retiens la scène, parce qu'elle éclaire ce que le corpus en fait.
 

@@ -2,7 +2,7 @@
 
 Une servante égyptienne, enceinte, en fuite. Sa maîtresse l'a maltraitée, elle a pris la route du désert, et elle n'a nulle part où aller — retourner en ==Mitsrayim== est impossible, rester ici l'est aussi. Elle s'arrête près d'une source, sur le chemin de Shur. Elle n'a ni statut, ni protection, ni recours : dans le droit de ce monde-là, elle est un bien.
 
-C'est à elle que le **mal'akh** de **YHWH** parle. Pas à ==Avram==, qui a la promesse. Pas à ==Saraï==, qui a la maison. À ==Hagar==, dans le désert.
+C'est à elle que le **mal'akh** de **YHWH** parle, et c'est elle qui nommera **El Roï** (*El Roï* / אֵל רֳאִי). Pas à ==Avram==, qui a la promesse. Pas à ==Saraï==, qui a la maison. À ==Hagar==, dans le désert.
 
 Et c'est elle qui fait alors une chose que personne d'autre ne fait dans toute la Bible hébraïque : ==elle donne un nom à YHWH==. ==Tu es El Roï== — El qui me voit. Aucun patriarche n'a fait cela, aucun **navi**, aucun roi. Le seul nom divin donné par un être humain vient d'une esclave étrangère au bord d'un puits.
 
