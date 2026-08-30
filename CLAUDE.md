@@ -1012,7 +1012,40 @@ Point capital pour tout le reste de la Bible :
 
 ## 6. LA STRUCTURE COSMOLOGIQUE HÉBRAÏQUE
 
-Pour comprendre et traduire correctement tout le texte :
+Pour comprendre et traduire correctement tout le texte.
+
+### 6.1 Ce que décrit cette section — et ce qu'elle ne décrit pas
+
+**Le cosmos est un Temple.** Le §1 le pose comme principe fondateur : *le cosmos
+hébreu n'est pas une usine, c'est un Temple*. Ce qui suit décrit donc ==les zones
+d'un édifice==, non les étages d'un immeuble — et la différence commande tout le
+reste.
+
+Un étage se compte. Une zone de Temple, non : elle se définit par ==ce qu'on y
+accède à faire==, et par ce qu'il faut être pour y tenir. Le parvis, le Lieu
+Saint et le Saint des Saints ne sont pas trois hauteurs, ce sont trois régimes
+de proximité.
+
+**Ce qui gradue les zones est le kavod.** Le §3.2 le donne : de *kaved* (כָּבֵד),
+==être lourd, peser==. La **kavod** de **YHWH** est la densité de sa présence.
+La structure cosmique est donc ==un gradient de densité==, et non une distance.
+
+**Pourquoi ce gradient est structurellement nécessaire.** *Shemot* 33:20 en donne
+la raison sans détour : *l'homme ne peut me voir et vivre*. Un contact non
+médiatisé entre des réalités d'intensité radicalement différente ==détruit ce qui
+est le moins dense==. La stratification n'est donc pas une hiérarchie de dignité
+— catégorie grecque —, c'est ==une architecture de médiation== : ce qui rend la
+relation possible sans destruction.
+
+**Le raqia fait pour le cosmos ce que le parokhet fait pour le Bayit.** Ce n'est
+pas une cloison entre deux pièces : c'est ==une interface qui gère une transition
+de densité==. Même fonction, deux échelles — parce que c'est le même édifice.
+
+L'homologie n'est pas une image, et elle est ==déjà dans le corpus verrouillé== :
+la table des motifs de *Toledot Adam ve-Chavah* inscrit ==Eden = Saint des
+Saints== d'après *Yovelim* 8:19.
+
+### 6.2 Les zones
 
 **En bas** — la Terre (*eretz*) — le sol habitable, posé sur les eaux primordiales souterraines (*tehom*). Plus bas encore, le **She'ol** — le domaine des morts dans le silence et l'attente, où descend tout mort (introduit en *Toledot Adam ve-Chavah*).
 
@@ -1026,6 +1059,54 @@ Pour comprendre et traduire correctement tout le texte :
 - Les luminaires (*me'orot*) gouvernent le temps — les domaines temporels
 - L'être humain (*adam*) gouverne le vivant — les domaines vivants
 - Ensemble ils couvrent la totalité de la gouvernance cosmique déléguée par Elohim
+
+### 6.3 Ce que le gradient commande au traducteur
+
+**On ne compte pas les Cieux.** Certains textes du Second Temple étagent le
+**shamayim** et le chiffrent — trois, sept. ==Le chiffre n'entre pas au corps de
+l'ONT.== Ce n'est pas un doute sur l'authenticité du témoin : c'est que le
+compte est une ==spatialisation== — sept planètes, sept degrés de ziggurat —, et
+que le §4.7 interdit d'importer une cosmologie extérieure. Rendre « le septième
+firmament » installerait un modèle d'==ascension par échelons==, qui est
+précisément la catégorie que le projet filtre.
+
+**En revanche l'étagement lui-même se rend**, et pleinement : les zones, ce qui
+les peuple, ce qu'il faut pour y tenir. C'est le gradient de **kavod**, et il est
+hébreu. ==On rend ce que la zone fait, non le rang qu'elle occupe.==
+
+**La médiation est descendante.** **YHWH** descend et *prend* — il n'y a pas
+d'échelle à gravir. Le corpus l'a déjà tranché une fois : dans *Toledot*, c'est
+la **merkavah** qui vient et Adam qui est emporté. Quand un texte paraît raconter
+une montée, ==regarder qui agit== : dans le *Chazon Avraham*, Avraham tombe sans
+souffle, un **mal'akh** est *envoyé* pour le relever, et les oiseaux entiers sont
+le *véhicule* de la montée. Il ne gravit rien — il est porté. La forme est
+ascensionnelle, la structure reste descendante, et c'est la structure qu'on rend.
+
+**Un point signalé, non tranché.** *Shemey ha-shamayim* — « les Cieux des Cieux »
+(*Devarim* 10:14 ; *1 Melakhim* 8:27) — a la forme du superlatif sémitique par
+récursion, comme *Qodesh ha-Qodashim* et *Shir Hashirim* : non pas un Ciel de
+plus au-dessus des Cieux, mais ==le shamayim à son degré irréductible==. L'usage
+appuie fortement cette lecture — en *1 Melakhim* 8:27 la phrase sert à dire que
+même l'extrême ne peut contenir **YHWH**, ce qui est un argument de transcendance
+et non de cartographie. Mais d'autres traditions y lisent une région distincte.
+Le §4.11 s'applique : ==on restitue l'ambiguïté, on ne la résout pas==.
+
+### 6.4 Pourquoi cette section a été réécrite — 30 août 2026
+
+Elle ne portait que les zones, décrites ==dans l'espace== : en bas, au milieu,
+au-dessus. Rien de faux, et rien qui dise de quel édifice ce sont les parties.
+Le §1 déclarait le Temple ; le §6 en énumérait le mobilier sans nommer le
+bâtiment.
+
+Personne ne l'avait vu parce que ==aucun texte écrit jusque-là n'avait eu à
+traverser le gradient==. Le *Chazon Avraham* est le premier, et il n'a pas créé
+le problème : il l'a rendu visible.
+
+C'est la forme exacte du §2.9 — une chose que le projet savait, appliquait, et
+n'avait jamais écrite, donc que rien ne pouvait contredire visiblement. Et c'est
+aussi la forme de l'erreur qui l'a précédée : la question avait d'abord été posée
+en ==« combien de cieux ? »==, c'est-à-dire déjà en escalier. Une question qui
+compte porte sa réponse grecque dans sa formulation.
 
 ---
 

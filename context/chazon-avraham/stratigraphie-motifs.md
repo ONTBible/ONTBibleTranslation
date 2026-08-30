@@ -346,7 +346,66 @@ Rendu : **olam** au corps, avec la règle de translittération du construit (§3
 
 ---
 
-## §D — Décisions à porter à l'auteur (§7)
+## §D — Décisions portées à l'auteur (§7) — **rendues le 30 août 2026**
+
+Les six sont tranchées. Le libellé d'origine est conservé sous chaque verdict :
+il dit ce qui était en jeu, et une décision sans sa question ne se relit pas.
+
+| | décision |
+|---|---|
+| **régime (§E)** | **traduction filtrée**, non reconstruction — la recommandation du filtrage est retenue |
+| **D.1 Yaho'el** | **nom propre** (UC4) : sans gras, niveau 3 et glose à la première occurrence. Le précédent de Mikha'el et Rafa'el vaut ; un statut d'intraduisible aurait été rétroactif |
+| **D.2 Azazel** | **nom propre**, comme déjà posé dans le *Sefar Gibbaraya* verrouillé. Traitement définitif réservé à son locus légal, *Vayiqra* 16 — précédent **chesed** |
+| **D.3 Azazel en Eden** | **rendre la scène telle que le tableau la montre, gloser, ne rien trancher.** *Bereshit* 3 reste verrouillé avec le *nachash* fonctionnel ; §4.11 |
+| **D.4 les firmaments** | **la stratification entre, le chiffre n'entre pas** — et le §6 est réécrit. Voir ci-dessous |
+| **D.5 registre poétique** | **prose scandée**, en attendant que le premier *Tehilim* fixe les conventions avec l'auteur (§7) |
+| **D.6 « l'Innommable »** | **restituer YHWH.** La baseline du projet est explicite — *l'ONT est une restitution du corpus hébreu antique, ce n'est pas une traduction* |
+
+### D.4 — la question était mal posée, et c'est ce qui l'a résolue
+
+Elle demandait si le §6 devait s'étendre à sept cieux. **Compter, c'était déjà
+penser en escalier.**
+
+L'appui invoqué ne tenait pas, vérification faite :
+
+- **2 Co 12:2 dit « le troisième ciel »** — il atteste la *pluralité*, jamais le
+  chiffre sept ;
+- **2 *Chanokh* n'est pas dans le corpus ONT** (seul *1 Chanokh*, n° 38), et ne
+  survit qu'en **slavon** — la même chaîne que ce livre-ci : le même témoin
+  parlant deux fois, non deux témoins ;
+- ***Tsava'at Lévi* est le document araméen de Qumrân**, le §1 excluant les
+  Testaments grecs. Les fragments araméens montrent Lévi voyant *les portes des
+  cieux* — un pluriel sans compte. Le décompte appartient à la recension grecque
+  écartée, où les manuscrits varient eux-mêmes entre trois et sept.
+
+**Ce que l'ONT tenait déjà et n'avait pas mobilisé :** le §1 déclare que le
+cosmos *est un Temple*, et le corpus verrouillé l'applique — *Toledot* inscrit
+*Eden = Saint des Saints* d'après *Yovelim* 8:19. L'étagement n'est donc pas une
+pluralité spatiale à admettre ou refuser : c'est un **gradient de kavod**, où le
+*raqia* fait pour le cosmos ce que le *parokhet* fait pour le Bayit.
+
+**Conséquence :** la stratification se rend par ce que chaque zone fait ; le
+chiffre reste dehors comme spatialisation babylonienne (§4.7). Et le §6 a été
+réécrit — il décrivait le mobilier sans nommer l'édifice.
+
+**Ce que le livre a révélé sans le créer.** Aucun texte écrit jusqu'ici n'avait
+eu à *traverser* le gradient ; l'écart entre le §1 et le §6 était donc
+invisible. Forme exacte du §2.9.
+
+### La montée n'en est pas une — et le motif 10 le portait déjà
+
+Le corpus tranche la médiation dans le sens descendant : **YHWH** descend et
+*prend*. Ce livre ne le contredit pas, et sa propre stratigraphie l'établissait
+sans en tirer la conséquence : Avraham **tombe, sans souffle en lui** (ch. 10) ;
+un **mal'akh** est **envoyé pour le relever** ; les oiseaux entiers deviennent
+le **véhicule** de la montée (ch. 15).
+
+Il ne gravit rien. Il est porté. ==La forme est ascensionnelle, la structure
+reste descendante== — et c'est la structure qu'on rend.
+
+---
+
+### Le libellé d'origine des six décisions
 
 Rien de ce qui suit n'entre au texte sans arbitrage. Classé par poids.
 
