@@ -91,7 +91,7 @@ Ces conventions sont **immuables** et s'appliquent à tout l'ONT sans exception.
 
 Exposants : ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ¹⁰ ¹¹ ¹² ¹³ ¹⁴ ¹⁵ ¹⁶ ¹⁷ ¹⁸ ¹⁹ ²⁰ ²¹ ²² ²³ ²⁴ ²⁵ ²⁶ ²⁷ ²⁸ ²⁹ ³⁰ ³¹ ³² ³³ ³⁴
 
-**Règle absolue — numérotation interne :** Chaque unité ONT (Bereshit N, Shemot N, etc.) repart toujours de ¹, quel que soit le numéro de verset biblique auquel elle commence. Si une unité ONT couvre Genèse 9:18-29, ses versets sont numérotés ¹ à ¹² — jamais ¹⁸ à ²⁹. De même, si un nouveau chapitre biblique commence au milieu d'une unité ONT, sa numérotation repart de ¹ à ce moment-là. Les numéros de versets bibliques ne sont jamais transposés dans l'ONT — ils figurent uniquement dans le sous-titre de référence *(Genèse / בְּרֵאשִׁית X:X-X)*.
+**Règle absolue — numérotation interne :** Chaque **parashah** (Bereshit N, Shemot N, etc.) repart toujours de ¹, quel que soit le numéro de verset biblique auquel elle commence. Si une **parashah** couvre Genèse 9:18-29, ses versets sont numérotés ¹ à ¹² — jamais ¹⁸ à ²⁹. De même, si un nouveau chapitre biblique commence au milieu d'une **parashah**, sa numérotation repart de ¹ à ce moment-là. Les numéros de versets bibliques ne sont jamais transposés dans l'ONT — ils figurent uniquement dans le sous-titre de référence *(Genèse / בְּרֵאשִׁית X:X-X)*.
 
 ### 2.3 Structure des chapitres
 
@@ -882,6 +882,29 @@ Le lecteur occidental ne possède pas les réalités hébraïques en tête. Les 
 
 **Règle absolue :** On n'invente jamais — on explicite seulement dans les gloses.
 
+**Le sens du transport — décision de l'auteur du 30 août 2026.** *La restitution
+ramène le monde antique vers le lecteur, jamais l'inverse.* Que le lecteur se
+trouve porté à l'intérieur de l'époque est ==l'effet recherché==, et il est
+glorieux quand il advient ; mais ce n'est pas le point de départ, et on ne peut
+pas l'exiger de lui pour qu'il comprenne la page.
+
+**Ce que cette règle décide en pratique : la densité de glose.** Elle se mesure
+sur le lecteur qui arrive ==sans rien==, non sur celui qui sait déjà — et c'est
+tout le piège, car ==celui qui écrit a fini par savoir==. À force de fréquenter
+ce monde, l'implicite cesse de se voir : on le lit sans le remarquer, donc on ne
+le glose pas, et l'on croit avoir été sobre quand on a été muet.
+
+**D'où la contre-mesure, et elle est arithmétique.** La référence est *Bereshit*
+4, verrouillé : ==2,69 gloses par verset== dans le corps. Une **parashah** qui
+tombe très en dessous n'est pas plus sobre — elle a laissé l'implicite implicite.
+Compter avant de clore coûte une commande, et c'est le seul contrôle qui ne
+dépende pas de ce que le traducteur a fini par trouver évident.
+
+*Le niveau 3 obéit à une autre logique et peut légitimement être plus rare* —
+dans un livre qui ne nous parvient dans aucune langue qui soit la sienne, on
+s'abstient là où la chaîne ne donne rien (§4.14). ==La glose n'a pas cette
+excuse== : expliciter ne demande pas d'hébreu.
+
 ### 4.2 La traduction vs le commentaire
 
 Le corps du texte contient uniquement ce que l'hébreu dit directement. Les gloses contiennent l'explicitation du champ sémantique. Les deux sont distincts visuellement et fonctionnellement.
@@ -958,7 +981,7 @@ Certains nombres hébreux sont des **unités fonctionnelles**, non des durées p
 - **Cette règle s'applique aussi aux noms géographiques :** Sedom (jamais Sodome), Amorah (jamais Gomorrhe), Yarden (jamais Jourdain), Hevron (jamais Hébron), Mitsrayim (jamais Égypte dans les renvois géographiques), Kena'an (jamais Canaan), etc. **Ethnonymes de même** : *Mitsri* (masc.) / *Mitsrit* (fém.) / *Mitsrim* (pl.) — jamais « Égyptien(ne) » (ex. « Hagar la Mitsrit », *Bereshit* 16 ; « les Mitsrim », *Bereshit* 12). Pour l'emploi **adjectival** (langue, culture, architecture d'un peuple), utiliser « de Mitsrayim » (ex. « fortifications de Mitsrayim », « titre royal de Mitsrayim »).
 - **La règle vaut dans le corps du texte ET dans les gloses** — ne jamais écrire la forme française même dans une glose d'explication.
 - Raison : les noms hébreux sont sémantiquement chargés — leur étymologie est partie intégrante du texte. Traduire le nom en efface le sens.
-- **Règle absolue — niveau 2 ET niveau 3 obligatoires :** À la première occurrence de chaque nom propre dans chaque unité ONT, le nom doit porter à la fois son niveau 3 (translittération / הָעִבְרִית) ET sa glose (expliquant l'étymologie et la signification fonctionnelle du Shem). Exemple : Yaphet (*Yaphet* / יֶפֶת) *[de pata : étendre, élargir — son Shem porte la dotation que Noach lui formulera]*. Les occurrences suivantes du même nom dans la même unité n'ont pas besoin de répéter la glose — le nom seul suffit.
+- **Règle absolue — niveau 2 ET niveau 3 obligatoires :** À la première occurrence de chaque nom propre dans chaque **parashah**, le nom doit porter à la fois son niveau 3 (translittération / הָעִבְרִית) ET sa glose (expliquant l'étymologie et la signification fonctionnelle du Shem). Exemple : Yaphet (*Yaphet* / יֶפֶת) *[de pata : étendre, élargir — son Shem porte la dotation que Noach lui formulera]*. Les occurrences suivantes du même nom dans la même unité n'ont pas besoin de répéter la glose — le nom seul suffit.
 - **Règle des cinq premières occurrences — lieux ET personnages :** Pour tout nom propre (lieu, ville, région, mais aussi personnage) apparaissant pour la première fois dans l'ONT, maintenir une brève glose d'identification dans les cinq premières occurrences à travers tout l'ONT (pas seulement dans l'unité). Pour un lieu : identifier le contexte géographique. Pour un personnage : rappeler brièvement qui il est et son rôle fonctionnel. Passé les cinq occurrences, le nom seul suffit — le lecteur connaît. Exemple appliqué pour les lieux : Bereshit 10. Exemple appliqué pour les personnages : Nimrod identifié à chaque réapparition dans ses cinq premières occurrences comme *[Nimrod — le *gibor* de Bereshit 10, fondateur de Bavel et Nineve]*.
 
 ### 4.13 Les orientations cardinales — registre littéraire classique
@@ -1012,7 +1035,40 @@ Point capital pour tout le reste de la Bible :
 
 ## 6. LA STRUCTURE COSMOLOGIQUE HÉBRAÏQUE
 
-Pour comprendre et traduire correctement tout le texte :
+Pour comprendre et traduire correctement tout le texte.
+
+### 6.1 Ce que décrit cette section — et ce qu'elle ne décrit pas
+
+**Le cosmos est un Temple.** Le §1 le pose comme principe fondateur : *le cosmos
+hébreu n'est pas une usine, c'est un Temple*. Ce qui suit décrit donc ==les zones
+d'un édifice==, non les étages d'un immeuble — et la différence commande tout le
+reste.
+
+Un étage se compte. Une zone de Temple, non : elle se définit par ==ce qu'on y
+accède à faire==, et par ce qu'il faut être pour y tenir. Le parvis, le Lieu
+Saint et le Saint des Saints ne sont pas trois hauteurs, ce sont trois régimes
+de proximité.
+
+**Ce qui gradue les zones est le kavod.** Le §3.2 le donne : de *kaved* (כָּבֵד),
+==être lourd, peser==. La **kavod** de **YHWH** est la densité de sa présence.
+La structure cosmique est donc ==un gradient de densité==, et non une distance.
+
+**Pourquoi ce gradient est structurellement nécessaire.** *Shemot* 33:20 en donne
+la raison sans détour : *l'homme ne peut me voir et vivre*. Un contact non
+médiatisé entre des réalités d'intensité radicalement différente ==détruit ce qui
+est le moins dense==. La stratification n'est donc pas une hiérarchie de dignité
+— catégorie grecque —, c'est ==une architecture de médiation== : ce qui rend la
+relation possible sans destruction.
+
+**Le raqia fait pour le cosmos ce que le parokhet fait pour le Bayit.** Ce n'est
+pas une cloison entre deux pièces : c'est ==une interface qui gère une transition
+de densité==. Même fonction, deux échelles — parce que c'est le même édifice.
+
+L'homologie n'est pas une image, et elle est ==déjà dans le corpus verrouillé== :
+la table des motifs de *Toledot Adam ve-Chavah* inscrit ==Eden = Saint des
+Saints== d'après *Yovelim* 8:19.
+
+### 6.2 Les zones
 
 **En bas** — la Terre (*eretz*) — le sol habitable, posé sur les eaux primordiales souterraines (*tehom*). Plus bas encore, le **She'ol** — le domaine des morts dans le silence et l'attente, où descend tout mort (introduit en *Toledot Adam ve-Chavah*).
 
@@ -1026,6 +1082,54 @@ Pour comprendre et traduire correctement tout le texte :
 - Les luminaires (*me'orot*) gouvernent le temps — les domaines temporels
 - L'être humain (*adam*) gouverne le vivant — les domaines vivants
 - Ensemble ils couvrent la totalité de la gouvernance cosmique déléguée par Elohim
+
+### 6.3 Ce que le gradient commande au traducteur
+
+**On ne compte pas les Cieux.** Certains textes du Second Temple étagent le
+**shamayim** et le chiffrent — trois, sept. ==Le chiffre n'entre pas au corps de
+l'ONT.== Ce n'est pas un doute sur l'authenticité du témoin : c'est que le
+compte est une ==spatialisation== — sept planètes, sept degrés de ziggurat —, et
+que le §4.7 interdit d'importer une cosmologie extérieure. Rendre « le septième
+firmament » installerait un modèle d'==ascension par échelons==, qui est
+précisément la catégorie que le projet filtre.
+
+**En revanche l'étagement lui-même se rend**, et pleinement : les zones, ce qui
+les peuple, ce qu'il faut pour y tenir. C'est le gradient de **kavod**, et il est
+hébreu. ==On rend ce que la zone fait, non le rang qu'elle occupe.==
+
+**La médiation est descendante.** **YHWH** descend et *prend* — il n'y a pas
+d'échelle à gravir. Le corpus l'a déjà tranché une fois : dans *Toledot*, c'est
+la **merkavah** qui vient et Adam qui est emporté. Quand un texte paraît raconter
+une montée, ==regarder qui agit== : dans le *Chazon Avraham*, Avraham tombe sans
+souffle, un **mal'akh** est *envoyé* pour le relever, et les oiseaux entiers sont
+le *véhicule* de la montée. Il ne gravit rien — il est porté. La forme est
+ascensionnelle, la structure reste descendante, et c'est la structure qu'on rend.
+
+**Un point signalé, non tranché.** *Shemey ha-shamayim* — « les Cieux des Cieux »
+(*Devarim* 10:14 ; *1 Melakhim* 8:27) — a la forme du superlatif sémitique par
+récursion, comme *Qodesh ha-Qodashim* et *Shir Hashirim* : non pas un Ciel de
+plus au-dessus des Cieux, mais ==le shamayim à son degré irréductible==. L'usage
+appuie fortement cette lecture — en *1 Melakhim* 8:27 la phrase sert à dire que
+même l'extrême ne peut contenir **YHWH**, ce qui est un argument de transcendance
+et non de cartographie. Mais d'autres traditions y lisent une région distincte.
+Le §4.11 s'applique : ==on restitue l'ambiguïté, on ne la résout pas==.
+
+### 6.4 Pourquoi cette section a été réécrite — 30 août 2026
+
+Elle ne portait que les zones, décrites ==dans l'espace== : en bas, au milieu,
+au-dessus. Rien de faux, et rien qui dise de quel édifice ce sont les parties.
+Le §1 déclarait le Temple ; le §6 en énumérait le mobilier sans nommer le
+bâtiment.
+
+Personne ne l'avait vu parce que ==aucun texte écrit jusque-là n'avait eu à
+traverser le gradient==. Le *Chazon Avraham* est le premier, et il n'a pas créé
+le problème : il l'a rendu visible.
+
+C'est la forme exacte du §2.9 — une chose que le projet savait, appliquait, et
+n'avait jamais écrite, donc que rien ne pouvait contredire visiblement. Et c'est
+aussi la forme de l'erreur qui l'a précédée : la question avait d'abord été posée
+en ==« combien de cieux ? »==, c'est-à-dire déjà en escalier. Une question qui
+compte porte sa réponse grecque dans sa formulation.
 
 ---
 
