@@ -283,11 +283,24 @@ Le §3 garde l'hébreu, les formes, le rendu fixé et la règle de balisage ;
 `lexique/` ne porte que l'explication, et remplace la définition quand elle
 existe.
 
-**La forme : des paragraphes, et rien d'autre.** Le titre `# Elohim` sert de
-repère dans Obsidian, le pipeline l'ignore ; les lignes vides séparent les
-paragraphes. Pas de titre intermédiaire, pas de liste, pas de citation :
-`TermSheet.swift` ne rend que les paragraphes et **laisse tomber le reste sans
-rien dire**. Une fiche faite de paragraphes, en revanche, voyage par la mise à
+**La forme : les titres intermédiaires sont permis depuis le 30 août 2026.** Le
+titre `# Elohim` sert de repère dans Obsidian, le pipeline l'ignore ; les lignes
+vides séparent les paragraphes. Une fiche peut porter des sous-titres `##`, des
+listes, des citations et des filets — `BlocDeFiche.swift` les rend tous, et il
+est partagé par la feuille d'un intraduisible et celle d'un **Shem**.
+
+**Ce que la règle disait avant, et pourquoi elle a changé.** Elle imposait
+« des paragraphes et rien d'autre », parce que la feuille ne rendait en effet
+que les paragraphes et **laissait tomber le reste sans rien dire**. Le pipeline
+jetait les titres avant même de les émettre : deux silences en série, et celui
+qui écrivait la fiche ne pouvait pas savoir lequel des deux l'avait mangée.
+
+Les deux sont réparés côté app. La contrainte tombe donc, et elle devait
+tomber : une fiche porte trois mouvements — la racine dans les six **ruachim**,
+le porteur, les renvois —, et sans leurs titres ils arrivent collés en un seul
+flot.
+
+Ce qui ne change pas : une fiche faite de blocs de texte voyage par la mise à
 jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
 ni revue Apple.
 
@@ -678,7 +691,7 @@ on connaît la réponse.
 #### Les fiches
 
 Elles vivent dans `lexique/`, comme celles des intraduisibles, et suivent
-**exactement** le §2.5 ter : des paragraphes et rien d'autre, et le critère des
+**exactement** le §2.5 ter : sa forme — titres intermédiaires compris — et le critère des
 six **ruachim** — faire voyager le lecteur *à l'intérieur* de l'époque plutôt que
 lui décrire l'époque du dehors.
 
