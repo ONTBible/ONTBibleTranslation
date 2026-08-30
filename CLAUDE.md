@@ -882,6 +882,29 @@ Le lecteur occidental ne possède pas les réalités hébraïques en tête. Les 
 
 **Règle absolue :** On n'invente jamais — on explicite seulement dans les gloses.
 
+**Le sens du transport — décision de l'auteur du 30 août 2026.** *La restitution
+ramène le monde antique vers le lecteur, jamais l'inverse.* Que le lecteur se
+trouve porté à l'intérieur de l'époque est ==l'effet recherché==, et il est
+glorieux quand il advient ; mais ce n'est pas le point de départ, et on ne peut
+pas l'exiger de lui pour qu'il comprenne la page.
+
+**Ce que cette règle décide en pratique : la densité de glose.** Elle se mesure
+sur le lecteur qui arrive ==sans rien==, non sur celui qui sait déjà — et c'est
+tout le piège, car ==celui qui écrit a fini par savoir==. À force de fréquenter
+ce monde, l'implicite cesse de se voir : on le lit sans le remarquer, donc on ne
+le glose pas, et l'on croit avoir été sobre quand on a été muet.
+
+**D'où la contre-mesure, et elle est arithmétique.** La référence est *Bereshit*
+4, verrouillé : ==2,69 gloses par verset== dans le corps. Une **parashah** qui
+tombe très en dessous n'est pas plus sobre — elle a laissé l'implicite implicite.
+Compter avant de clore coûte une commande, et c'est le seul contrôle qui ne
+dépende pas de ce que le traducteur a fini par trouver évident.
+
+*Le niveau 3 obéit à une autre logique et peut légitimement être plus rare* —
+dans un livre qui ne nous parvient dans aucune langue qui soit la sienne, on
+s'abstient là où la chaîne ne donne rien (§4.14). ==La glose n'a pas cette
+excuse== : expliciter ne demande pas d'hébreu.
+
 ### 4.2 La traduction vs le commentaire
 
 Le corps du texte contient uniquement ce que l'hébreu dit directement. Les gloses contiennent l'explicitation du champ sémantique. Les deux sont distincts visuellement et fonctionnellement.
