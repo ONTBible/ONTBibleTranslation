@@ -8,7 +8,7 @@ Le personnage s'écrit הָרָן ; la ville de [[Haran]] s'écrit חָרָן. =
 
 ## Ce que le corpus en fait
 
-Il meurt ==avant son père==, à Ur des [[Chaldéens]], et le corpus s'arrête sur ce fait.
+Il meurt ==avant son père==, à Ur des [[Kasdim]], et le corpus s'arrête sur ce fait.
 
 Dans ce monde, l'ordre est que le fils enterre le père. ==Haran est le premier du corpus à mourir avant le sien== — *bifnei Terah aviv*, en présence de son père, ou devant lui : l'hébreu laisse les deux lectures.
 
