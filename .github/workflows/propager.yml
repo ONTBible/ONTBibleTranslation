@@ -201,3 +201,85 @@ jobs:
           # ligne, et le journal restait rouge.
           gh workflow run livraison.yml --repo ONTBible/ONTBibleApp --ref main -f canal=interne
           echo "→ https://github.com/ONTBible/ONTBibleApp/actions/workflows/livraison.yml"
+
+      # ── Vérifier que le texte est arrivé, et non que l'ordre est parti ─────
+      #
+      # ## Le trou que cette étape ferme
+      #
+      # Les deux étapes ci-dessus **déclenchent et oublient**. Elles rendent
+      # vert dès que GitHub accepte l'ordre, et ne peuvent rien savoir de ce
+      # qui se passe ensuite : ni qu'un déploiement a échoué, ni qu'il a
+      # réussi sans rien publier.
+      #
+      # Le 30 août 2026, `deployer.yml` du site est tombé **six heures durant**
+      # sans que personne l'apprenne. Trois défauts s'y étaient accumulés — un
+      # bras de `match` manquant, une estampille jamais posée, une garde qui
+      # bloquait tout le site au lieu de la seule publication. Chacun a
+      # parfaitement joué son rôle : chacun a refusé de publier plutôt que de
+      # publier faux. **Aucun n'a rien dit à personne.** L'auteur l'a découvert
+      # en demandant pourquoi son texte n'arrivait pas.
+      #
+      # ## Pourquoi contrôler l'arrivée plutôt que les maillons
+      #
+      # On pourrait surveiller chaque étape de la chaîne. On ne le fait pas :
+      # une garde par maillon ne couvre que les ruptures qu'on a prévues, et
+      # les trois du 30 août étaient toutes imprévues.
+      #
+      # `ontbible.com/corpus/manifeste.json` est **l'état final observable** —
+      # ce qu'un lecteur télécharge. Le vérifier attrape d'un coup toutes les
+      # ruptures, y compris celles qu'on n'a pas imaginées, et ne demande de
+      # connaître aucun rouage intermédiaire.
+      #
+      # ## Pourquoi on peut prédire la valeur exacte
+      #
+      # Le site estampille le corpus avec la date du dernier commit du vault —
+      # `config::genere()` du pipeline, alimenté par `ONT_GENERE`. Ce commit,
+      # c'est celui qui vient de déclencher ce job. On sait donc **exactement**
+      # ce que la chaîne doit publier, et on n'a pas à se contenter d'un « ça a
+      # bougé » qui ne prouve pas que c'est notre texte qui est passé.
+      #
+      # ## Trois pièges, tous rencontrés le 30 août
+      #
+      # 1. **`format-local` avec `TZ=UTC`, jamais `--date=format:`.** Ce dernier
+      #    rend l'heure locale et lui colle un `Z` : la forme reste
+      #    irréprochable et la valeur ment de l'écart au méridien. Aucune garde
+      #    de la chaîne ne lit la forme assez finement pour le voir.
+      # 2. **`>=`, jamais `==`.** Si une seconde fusion double celle-ci pendant
+      #    l'attente, le site publiera une estampille *plus récente* que la
+      #    nôtre. Le texte est passé ; exiger l'égalité ferait rougir à tort.
+      #    La comparaison de chaînes suffit — le format est ordonnable.
+      # 3. **Contourner le cache.** `/corpus/` est servi par CloudFront avec
+      #    `max-age=300`. Une lecture sans paramètre variable rend jusqu'à cinq
+      #    minutes de retard, et cette étape conclurait à une panne. Le 30 août
+      #    j'ai failli annoncer un quatrième défaut pour cette seule raison.
+      - name: L'arrivée
+        run: |
+          set -euo pipefail
+          attendu="$(TZ=UTC git log -1 --date=format-local:%Y-%m-%dT%H:%M:%SZ --format=%cd)"
+          echo "estampille attendue : $attendu"
+
+          limite=$((SECONDS + 1800))
+          while [ "$SECONDS" -lt "$limite" ]; do
+            publie="$(curl -fsS --max-time 30 \
+              "https://ontbible.com/corpus/manifeste.json?t=$RANDOM$SECONDS" \
+              | python3 -c 'import json,sys; print(json.load(sys.stdin).get("genere",""))' \
+              2>/dev/null || echo "")"
+
+            if [ -n "$publie" ] && [ ! "$publie" \< "$attendu" ]; then
+              echo "→ arrivé : $publie"
+              exit 0
+            fi
+            echo "   publié : ${publie:-—} — on attend"
+            sleep 30
+          done
+
+          echo "::error::Le corpus n'est pas arrivé aux lecteurs en trente minutes."
+          echo "::error::Attendu au moins : $attendu"
+          echo "::error::Publié à l'instant : ${publie:-aucune estampille}"
+          echo "::error::La chaîne est rompue **après** ce dépôt. Regarder, dans l'ordre :"
+          echo "::error::  1. https://github.com/ONTBible/ONTBibleWebapp/actions/workflows/deployer.yml"
+          echo "::error::  2. l'étape « Le corpus pour l'app » de ce déploiement — elle refuse"
+          echo "::error::     délibérément un corpus indatable, et son message dit quoi remplir."
+          echo "::error::  3. https://ontbible.com/corpus/manifeste.json — si le champ genere"
+          echo "::error::     est vide, c'est ONT_GENERE qui manque à l'appelant du pipeline."
+          exit 1
