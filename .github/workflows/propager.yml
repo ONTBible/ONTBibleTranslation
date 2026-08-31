@@ -180,40 +180,64 @@ jobs:
           gh workflow run deployer.yml --repo ONTBible/ONTBibleWebapp --ref main
           echo "→ https://github.com/ONTBible/ONTBibleWebapp/actions/workflows/deployer.yml"
 
-      # L'app reconstruit elle aussi le corpus depuis ce vault — elle clone
-      # `ONTBibleTranslation` et lance le pipeline avant de compiler.
+      # ── Pourquoi il n'y a plus de déclenchement de l'app ici ──────────
       #
-      # ## Ce que cette étape apporte encore, depuis que le corpus voyage
+      # Il y en avait un : chaque publication du vault lançait `livraison.yml`
+      # sur `ONTBibleApp`, canal interne. Retiré le 31 août 2026, sur décision
+      # de l'auteur, et la question qui l'a amenée mérite d'être citée :
       #
-      # Moins qu'avant, et il faut le dire. Le corpus **sort du bundle** : le
-      # déploiement du site ci-dessus publie `ontbible.com/corpus/`, et
-      # `CorpusUpdater` le sert aux apps **déjà installées** en quelques
-      # minutes. Une correction de verset atteint donc les lecteurs sans
-      # qu'aucun build ne soit lancé ici.
+      #   « pourquoi c'est nécessaire de faire un nouveau build ?
+      #     je croyais que l'app téléchargeait depuis le site ? »
       #
-      # Ce que ce build refait, c'est le corpus **embarqué** — celui qu'une
-      # installation neuve lit avant d'avoir vu le réseau. Il vaut d'être tenu
-      # à jour, mais il ne presse pas.
+      # Elle télécharge. `ONTData/Remote/CorpusUpdater.swift` le porte en tête :
+      # publié sur `ontbible.com/corpus/`, le corpus atteint les lecteurs **en
+      # quelques minutes**, sans compilation, sans envoi à Apple, sans revue.
+      # Le déploiement du site déclenché juste au-dessus suffit donc à mettre
+      # tout le monde à jour.
       #
-      # `canal: interne` — jamais la revue de l'App Store, jamais le groupe
-      # externe. Une virgule corrigée dans un brouillon ne doit pas notifier
-      # des testeurs invités, et encore moins partir chez Apple.
+      # ## Ce que le build rafraîchissait quand même
       #
-      # **Si le bruit devient gênant, supprimer cette étape** : la ligne
-      # au-dessus suffit à mettre les lecteurs à jour.
-      - name: L'app
-        env:
-          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
-        run: |
-          # `livraison.yml`, et non `testflight.yml` : le fichier a été renommé
-          # côté app, et ce nom-ci est resté. GitHub résolvait alors l'ancienne
-          # entrée — un fantôme de l'API — et refusait le déclenchement avec
-          # « Workflow does not have 'workflow_dispatch' trigger », qui ne
-          # nomme pas la vraie cause. Les propagations du 19 août ont échoué
-          # là-dessus, après avoir lancé le site : la correction partait en
-          # ligne, et le journal restait rouge.
-          gh workflow run livraison.yml --repo ONTBible/ONTBibleApp --ref main -f canal=interne
-          echo "→ https://github.com/ONTBible/ONTBibleApp/actions/workflows/livraison.yml"
+      # Le corpus vit **aussi** dans le bundle, comme socle : ce qu'une
+      # installation neuve lit avant d'avoir vu le réseau une première fois. Le
+      # téléchargement le recouvre ensuite, fichier par fichier.
+      #
+      # ## Ce qu'on échange, et c'est le vrai libellé de cette décision
+      #
+      # Pas « on retire un déclenchement inutile ». **On échange la fraîcheur
+      # du socle hors ligne contre une place de quota**, et voici pourquoi ce
+      # n'était pas le bon prix.
+      #
+      # Apple limite les téléversements par application, par plateforme et par
+      # jour. Ce bloc en consommait **deux** — un iOS, un macOS — à chaque
+      # publication d'une **parashah**. Le 31 août la limite est tombée et a
+      # bloqué une promotion vers les testeurs :
+      #
+      #     Upload limit reached. Please wait 1 day and try again.
+      #
+      # En face, ce qu'on perd est borné : un lecteur qui installe l'app et lit
+      # **hors ligne** verra un socle daté de la dernière compilation, jusqu'à
+      # sa première connexion. Et les livraisons de code arrivent de toute
+      # façon — elles reconstruisent le corpus au passage. Le socle se
+      # rafraîchit seul, simplement moins souvent.
+      #
+      # ## Ce que personne ne pouvait voir depuis un seul dépôt
+      #
+      # Le vault croyait devoir reconstruire l'app, parce que **rien ici ne
+      # disait que l'app savait se mettre à jour seule depuis le site**. La
+      # capacité était écrite dans `CorpusUpdater.swift`, deux dépôts plus
+      # loin, et ce workflow avait été écrit avant elle sans être relu après.
+      #
+      # ## Et une seconde raison, découverte en retirant
+      #
+      # `ONTBibleApp` a renommé ses branches le 31 août — `main` → `app-store`,
+      # `staging` → `beta-test`, plus une `device` en tête. Le `--ref main` de
+      # ce bloc visait donc **une branche disparue**, et chaque propagation
+      # aurait échoué sur une cible inexistante. Le retrait règle les deux.
+      #
+      # Recompté sur place avant d'écrire ceci : les douze dernières courses de
+      # `livraison.yml` sont toutes des `push` sur `dev` ou `staging`. **Aucun
+      # `workflow_dispatch`**, donc aucune venue d'ici. Le mécanisme était réel
+      # et n'avait pas encore tiré.
 
       # ── Vérifier que le texte est arrivé, et non que l'ordre est parti ─────
       #
