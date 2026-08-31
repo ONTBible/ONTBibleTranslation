@@ -13,7 +13,7 @@
 
 ⁷ Ils vinrent à la porte du Jardin, là où se tenaient les [[Kheruvim]] et la flamme de l'épée tournoyante ; ⁸ et ils tombèrent la face contre terre, et supplièrent longtemps pour Adam.
 
-⁹ Alors [[Mikha'el]] (*Mikha'el* / מִיכָאֵל) *[« qui est comme El ? » — le **mal'akh** (*mal'akh* / מַלְאָךְ) posté à la garde : l'envoyé-mandaté de **YHWH**]* se tint à la porte et dit : ¹⁰ « [[Shet]], homme d'**Elohim**, ne te fatigue pas à supplier pour l'onction de l'arbre de la Vie : elle ne sera pas donnée maintenant. Le chemin demeure gardé jusqu'au temps fixé (*mo'ed* / מוֹעֵד). ¹¹ Retourne vers ton père : le terme de sa mesure est venu, et cela aussi est dans l'ordre. »
+⁹ Alors [[Mikha'el]] (*Mikha'el* / מִיכָאֵל) *[« qui est comme **El** ? » — le **mal'akh** (*mal'akh* / מַלְאָךְ) posté à la garde : l'envoyé-mandaté de **YHWH**]* se tint à la porte et dit : ¹⁰ « [[Shet]], homme d'**Elohim**, ne te fatigue pas à supplier pour l'onction de l'arbre de la Vie : elle ne sera pas donnée maintenant. Le chemin demeure gardé jusqu'au temps fixé (*mo'ed* / מוֹעֵד). ¹¹ Retourne vers ton père : le terme de sa mesure est venu, et cela aussi est dans l'ordre. »
 
 ¹² Et ils s'en retournèrent les mains vides, et le chemin de l'arbre de la Vie demeura gardé derrière eux.
 

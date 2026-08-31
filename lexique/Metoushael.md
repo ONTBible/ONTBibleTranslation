@@ -2,13 +2,13 @@
 
 ## Le Shem
 
-Second nom de la lignée à porter ==El==, juste après [[Mechouyael]]. Le nom s'écrit (*Metoushaël* / מְתוּשָׁאֵל) et se décompose en *methu* — l'homme, au sens ancien qu'on ne retrouve plus que dans les noms composés — et *shaël*, ==demandé==.
+Second nom de la lignée à porter ==**El**==, juste après [[Mechouyael]]. Le nom s'écrit (*Metoushaël* / מְתוּשָׁאֵל) et se décompose en *methu* — l'homme, au sens ancien qu'on ne retrouve plus que dans les noms composés — et *shaël*, ==demandé==.
 
 ==L'homme demandé d'El==, ou l'homme d'El. Un **Shem** qui dit qu'on l'a réclamé, ou qu'on le tient de quelqu'un — dans les deux cas, ==que son existence vient d'ailleurs que de ses parents==.
 
 La racine *shaal*, demander, est la même que celle du nom que l'auteur de l'ONT porte en interne : celui qui interroge jusqu'à ce que le réel rende ce qu'il cache.
 
-## La seconde génération qui porte El
+## La seconde génération qui porte **El**
 
 Cinquième dans la ligne de [[Qayin]]. Il engendre [[Lamekh-fils-de-Metoushael]], et la lignée s'achève sur lui.
 

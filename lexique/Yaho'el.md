@@ -2,7 +2,7 @@
 
 ## Le Shem
 
-Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==El==.
+Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==**El**==.
 
 C'est ce qui le distingue de tous les autres envoyés nommés : ==il porte le Nom lui-même==.
 

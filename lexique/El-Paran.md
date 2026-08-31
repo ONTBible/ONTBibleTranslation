@@ -4,7 +4,7 @@
 
 *El* peut être ici ==le grand arbre== — comme dans *elon* — ou le nom divin. ==Paran== est le désert au midi.
 
-==Le térébinthe de Paran==, ou ==El de Paran== : le corpus ne tranche pas.
+==Le térébinthe de Paran==, ou ==**El** de Paran== : le corpus ne tranche pas.
 
 ## Ce que le corpus en fait
 
