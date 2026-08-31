@@ -108,7 +108,35 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 
 **Triangulation :** ***Yovelim* 12:12-14** — Abram met le feu à la maison d'idoles ; Haran y périt. ***Bereshit* 11:28** (ONT verrouillé) — « Haran mourut *sur la face de* Terah son père, dans le pays de sa naissance » : une mort prématurée, en présence du père, que le texte ne s'explique pas. ***Bereshit* 12:1** (ONT verrouillé) — *lekh-lekha*, « va-t'en de la maison de ton père ».
 
-**Verdict : NOYAU ANCIEN.** Et une observation qui vaut pour la feuille d'introduction : ce livre lit *Bereshit* 11:28 comme une **question laissée ouverte** et y répond. C'est le geste même de la Kenesset — l'amplification qui relève ce que le texte a contracté, exactement comme *Sefar Gibbaraya* relève *Bereshit* 6:1-4. Le ch. 8 fait charnière : il enchaîne directement sur le *lekh-lekha* de *Bereshit* 12, déjà verrouillé.
+**Verdict : NOYAU ANCIEN.**
+
+> ⚠️ **Correction du 1ᵉʳ septembre 2026 — vérifiée sur les manuscrits.** Ce
+> paragraphe affirmait que ce livre « lit *Bereshit* 11:28 comme une question
+> laissée ouverte et y répond », c'est-à-dire qu'il expliquerait la mort de
+> **Haran**. **C'est faux du texte de base.**
+>
+> Le **Codex Sylvester**, le plus ancien des six témoins slavons, ne nomme pas
+> Haran : le feu y prend **Terah**, sa maison et tout ce qu'elle contient,
+> « jusqu'au sol, quarante coudées ». La légende où Haran périt en sauvant les
+> idoles est une **insertion** de trois manuscrits tardifs — A, K, R — absente
+> du Sylvester (Box 1918, note au ch. VIII).
+>
+> Et cette insertion **harmonise** : elle comble le silence de *Bereshit* 11:28
+> et rejoint *Yovelim* 12:12-14. C'est une couche de copiste, du genre exact que
+> le filtre de ce livre écarte.
+>
+> La vraie tension n'est donc pas avec le silence sur Haran, mais **frontale
+> avec *Bereshit* 11:32**, qui fait mourir Terah bien plus tard à Haran la
+> ville. Décision de l'auteur : **restituer le témoin, gloser la divergence**,
+> ne pas harmoniser — on ne corrige pas un témoin sur la foi d'un autre. Rendu
+> dans la **parashah** ③.
+>
+> *Ce que cet écart enseigne :* la stratigraphie avait été écrite sur une
+> traduction sans son apparat. Une note de bas de page d'édition critique
+> disait, en une ligne, que le motif reposait sur des manuscrits interpolés.
+
+Et une observation qui vaut pour la feuille d'introduction : ce livre déploie ce
+que *Bereshit* contracte. C'est le geste même de la Kenesset — l'amplification qui relève ce que le texte a contracté, exactement comme *Sefar Gibbaraya* relève *Bereshit* 6:1-4. Le ch. 8 fait charnière : il enchaîne directement sur le *lekh-lekha* de *Bereshit* 12, déjà verrouillé.
 
 ---
 

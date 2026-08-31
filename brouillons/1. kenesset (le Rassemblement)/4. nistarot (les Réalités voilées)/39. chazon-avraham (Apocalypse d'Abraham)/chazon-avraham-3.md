@@ -23,21 +23,21 @@
 
 ## Le feu
 
-¹³ que le feu (*esh* / אֵשׁ) descendit *[il ==descend==, comme la voix. Toute cette **parashah** est faite de choses qui viennent d'en haut, après deux **parashiot** où l'enfant essayait de remonter]*, ¹⁴ et il mangea (*akal* / אָכַל) *[le feu « mange » en hébreu — verbe ordinaire, non métaphore. Le même qu'à la **parashah** ①, où le feu avait mangé ==Barisat==, le dieu de bois posé pour le garder. ==Ce qui avait consumé un dieu consume maintenant la maison qui les fabriquait==]* la maison et tout ce qui était dedans *[le témoin ne nomme pas qui périt, et cette **parashah** ne le nomme pas non plus — ==délibérément==. *Bereshit* 11 tient deux faits qui ne s'accordent pas d'eux-mêmes avec cette scène ; voir la note de bas de **parashah**]*.
+¹³ que le feu (*esh* / אֵשׁ) descendit *[il ==descend==, comme la voix. Toute cette **parashah** est faite de choses qui viennent d'en haut, après deux **parashiot** où l'enfant essayait de remonter]*, ¹⁴ et il mangea (*akal* / אָכַל) *[le feu « mange » en hébreu — verbe ordinaire, non métaphore. Le même qu'à la **parashah** ①, où le feu avait mangé ==Barisat==, le dieu de bois posé pour le garder. ==Ce qui avait consumé un dieu consume maintenant la maison qui les fabriquait==]* [[Terah]] mon père, et sa maison, et tout ce qui était dedans *[le témoin le plus ancien nomme celui qui périt, et l'ONT le rend — ==il ne corrige pas un témoin sur la foi d'un autre== (§4.11). Ce que *Bereshit* 11:32 dit par ailleurs de la fin de [[Terah]] est une tension réelle, et elle est portée en note plutôt qu'effacée ici]*, ¹⁵ jusqu'au sol, quarante coudées *[==quarante== — unité fonctionnelle hébraïque de la transformation (§4.10) : la durée ou la mesure qu'il faut pour qu'une réalité change d'état. Elle ne dit pas une profondeur d'arpenteur mais ==l'achèvement d'un défaire==. Ce n'est pas la maison qui brûle, c'est le sol sous elle qui cesse d'être un lieu]*.
 
-¹⁵ Et il n'en resta rien qui se tînt debout (*qum* / קוּם) *[se tenir debout, et par là ==tenir==. Le verbe de la **berith** que **YHWH** *meqim*, fait se tenir. À la **parashah** ①, [[Terah]] avait dû s'y reprendre pour faire tenir un dieu tombé ; ici plus rien ne tient, et personne ne recommence]*.
+¹⁶ Et il n'en resta rien qui se tînt debout (*qum* / קוּם) *[se tenir debout, et par là ==tenir==. Le verbe de la **berith** que **YHWH** *meqim*, fait se tenir. À la **parashah** ①, [[Terah]] avait dû s'y reprendre pour faire tenir un dieu tombé ; ici plus rien ne tient, et personne ne recommence]*.
 
-¹⁶ Et moi je me tenais dehors, et je regardais (*ra'ah* / רָאָה) *[le regard qui examine et constate — celui d'**Elohim** inspectant son ouvrage en *Bereshit* 1. C'est le troisième constat de ce jeune homme, et le dernier de l'atelier]*.
+¹⁷ Et moi je me tenais dehors, et je regardais (*ra'ah* / רָאָה) *[le regard qui examine et constate — celui d'**Elohim** inspectant son ouvrage en *Bereshit* 1. C'est le troisième constat de ce jeune homme, et le dernier de l'atelier]*.
 
 ## Ce que je compris, et ce que je ne compris pas
 
-¹⁷ Et je compris ceci : ¹⁸ que ce qui ne tenait pas sa charge ne tiendrait pas non plus devant le feu *[la conclusion des trois **parashiot** en une phrase, et elle est fonctionnelle jusqu'au bout : ==ce qui n'a pas de fonction n'a pas de résistance==. La pierre qu'on répare, le bois qu'on remplace, la maison qui les abrite — rien de tout cela ne portait quoi que ce soit]*.
+¹⁸ Et je compris ceci : ¹⁹ que ce qui ne tenait pas sa charge ne tiendrait pas non plus devant le feu *[la conclusion des trois **parashiot** en une phrase, et elle est fonctionnelle jusqu'au bout : ==ce qui n'a pas de fonction n'a pas de résistance==. La pierre qu'on répare, le bois qu'on remplace, la maison qui les abrite — rien de tout cela ne portait quoi que ce soit]*.
 
-¹⁹ Et je compris que celui qui m'avait parlé n'était pas de la maison *[il ne fait pas partie de l'inventaire. C'est le point que l'échelle de la **parashah** ② avait établi par élimination : celui qui assigne n'est pas parmi les assignés]*.
+²⁰ Et je compris que celui qui m'avait parlé n'était pas de la maison *[il ne fait pas partie de l'inventaire. C'est le point que l'échelle de la **parashah** ② avait établi par élimination : celui qui assigne n'est pas parmi les assignés]*.
 
-²⁰ Mais son **Shem**, je ne le savais pas encore *[et il faut laisser cet aveu tel quel : ==la voix n'a pas donné son nom==. Elle a dit *me voici*, ce qui est une présence et non une identité. Ce que le corpus fera de cette question a son lieu, et ce n'est pas ce livre]*.
+²¹ Mais son **Shem**, je ne le savais pas encore *[et il faut laisser cet aveu tel quel : ==la voix n'a pas donné son nom==. Elle a dit *me voici*, ce qui est une présence et non une identité. Ce que le corpus fera de cette question a son lieu, et ce n'est pas ce livre]*.
 
-²¹ Et je ne retournai pas *[la dernière phrase de la maison de [[Terah]], et elle tient en cinq mots. ==Pas de deuil, pas de justification, pas un regard en arrière== — le récit ferme l'atelier comme on ferme une porte. Ce qui commence au verset suivant est un autre monde, et la **parashah** ④ y entrera par les cinq animaux de *Bereshit* 15]*.
+²² Et je ne retournai pas *[la dernière phrase de la maison de [[Terah]], et elle tient en cinq mots. ==Pas de deuil, pas de justification, pas un regard en arrière== — le récit ferme l'atelier comme on ferme une porte. Ce qui commence au verset suivant est un autre monde, et la **parashah** ④ y entrera par les cinq animaux de *Bereshit* 15]*.
 
 ---
 
@@ -51,7 +51,19 @@
 
 - *==Le feu qui avait déjà mangé.== Le même verbe *akal* revient de la **parashah** ①, où le feu avait mangé ==Barisat==, le dieu de bois qu'on avait posé pour le garder. ==Ce qui a consumé un dieu consume la maison qui les fabriquait== : le récit n'a pas besoin de le dire, il lui suffit de reprendre le mot.*
 
-- *==Une tension à porter à l'auteur, et je ne la tranche pas.== Le témoin fait périr la maison ==et ce qu'elle contient==. Or *Bereshit* 11 est verrouillé sur deux faits : [[Haran]] meurt à [[Ur Kasdim]], du vivant de son père, ==et le texte n'explique jamais pourquoi== ; et [[Terah]] meurt bien plus tard, à [[Haran]] la ville, âgé de deux cent cinq ans. ==Ce livre est-il en train de répondre au silence sur [[Haran]], ou de contredire la mort de [[Terah]] ?== Le *Yovelim* 12:12-14 — livre n° 06 du corpus — fait périr [[Haran]] dans un incendie de la maison d'idoles, ce qui pencherait pour la première lecture. ==Cette **parashah** rend la scène sans nommer qui périt==, parce que le témoin slavon doit être relu de près avant qu'on écrive un nom que *Bereshit* interdit ou confirme. ==À trancher avec l'auteur== avant validation.*
+- *==Le feu prend Terah, et c'est le témoin ancien qui le dit.== La question s'est posée en écrivant, et elle a été tranchée sur les manuscrits plutôt que sur la vraisemblance.*
+
+    *Le ==Codex Sylvester== — le plus ancien des six témoins slavons, celui que la feuille d'introduction identifie comme tel — porte : « il brûla ==lui== et sa maison, et tout ce qui était dans sa maison, jusqu'au sol, quarante coudées ». Le pronom vise [[Terah]], et le texte ne l'atténue pas.*
+
+    *==Et la version où [[Haran]] périt est une insertion.== Trois manuscrits tardifs — A, K, R — ajoutent à cet endroit précis la légende d'[[Avraham]] incendiant le temple d'idoles, son frère avec. Elle est ==absente du Sylvester==. C'est donc une couche de copiste, et une couche qui ==harmonise== : elle vient combler le silence de *Bereshit* 11:28 sur la mort de [[Haran]], et rejoindre *Yovelim* 12:12-14. Exactement le genre d'ajout que le filtre de ce livre écarte.*
+
+    *Il faut en tirer la conséquence pour la stratigraphie : la lecture selon laquelle ce livre ==répondrait== au silence de *Bereshit* sur [[Haran]] ==repose sur les manuscrits interpolés, non sur le texte de base==. Le témoin ancien ne parle pas de [[Haran]].*
+
+- *==La divergence avec Bereshit 11:32, restituée et non résolue.== *Bereshit* est verrouillé : [[Terah]] meurt à [[Haran]] la ville, âgé de deux cent cinq ans. Ce livre le fait périr à [[Ur Kasdim]], dans le feu. ==Les deux ne s'accordent pas, et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026.*
+
+    *La raison tient en une phrase : ==on ne corrige pas un témoin sur la foi d'un autre==. Écarter le motif reviendrait à réécrire ce livre d'après la Torah, ce que l'ONT ne fait nulle part ailleurs ; l'harmoniser reviendrait à faire ce que les copistes de A, K et R ont fait, et que nous venons d'écarter.*
+
+    *Le §4.14 donne de quoi tenir les deux sans les confondre. Ce livre ne fait pas de chronologie — il dit ==ce que la maison est devenue==, et il le dit depuis une consignation postérieure au Ḥurban, portant une tradition et non un registre. La Torah dit où et quand [[Terah]] meurt ; ce témoin-ci dit ce que le feu a pris. Le lecteur reçoit les deux, et l'apparat lui dit qu'ils divergent.*
 
 - *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *ra'ah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaph* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
 

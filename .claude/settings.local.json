@@ -3,7 +3,8 @@
     "allow": [
       "Bash",
       "Skill(update-config)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:archive.org)"
     ]
   }
 }
