@@ -29,7 +29,7 @@
 
 ¹¹ Tous les jours d'Enosh furent neuf cent cinq ans — et il mourut.
 
-¹² [[Qenan]] (*Qenan* / קֵינָן) vécut soixante-dix ans et engendra [[Mahalalel]] (*Mahalalel* / מַהֲלַלְאֵל) *[[[Mahalalel]] — de hallel (louange) et El (**Elohim**) : "la louange d'**Elohim**". Un nom de relation fonctionnelle avec **Elohim** inscrit dans la lignée de [[Shet]]]*.
+¹² [[Qenan]] (*Qenan* / קֵינָן) vécut soixante-dix ans et engendra [[Mahalalel]] (*Mahalalel* / מַהֲלַלְאֵל) *[[[Mahalalel]] — de hallel (louange) et **El** (**Elohim**) : "la louange d'**Elohim**". Un nom de relation fonctionnelle avec **Elohim** inscrit dans la lignée de [[Shet]]]*.
 
 ¹³ Après avoir engendré [[Mahalalel]], [[Qenan]] vécut huit cent quarante ans et engendra des fils et des filles.
 

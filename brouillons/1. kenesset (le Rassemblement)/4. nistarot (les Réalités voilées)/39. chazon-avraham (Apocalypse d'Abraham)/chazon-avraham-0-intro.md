@@ -73,7 +73,7 @@ Le livre a deux versants, et une charnière nette.
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
 | L'atelier de [[Terah]] | l'idole est une œuvre de main qui ne se sauve pas elle-même | *Yovelim* 11-12 ; Josèphe, *Ant.* 1.155 ; *Bereshit* 11 |
-| *L'échelle du discernement* | on ne prouve pas El, on discerne qui assigne les fonctions | *Bereshit* 1:14-18 (démythologisation des luminaires) |
+| *L'échelle du discernement* | on ne prouve pas **El**, on discerne qui assigne les fonctions | *Bereshit* 1:14-18 (démythologisation des luminaires) |
 | Le sacrifice comme véhicule | la **berith** des morceaux n'est pas le cadre du livre : elle en est l'armature | *Bereshit* 15 (verrouillé) |
 | [[Yaho'el]], le **mal'akh** qui porte le **Shem** | l'envoyé en qui le Nom habite — sa fonction *est* son **Shem** | *Shemot* 23:20-21 ; *Bereshit* 16 (ambiguïté déjà maintenue) |
 | *==Azazel==, l'oiseau impur* | le rapace anonyme de *Bereshit* 15:11, identifié ; défini par son lot, non par une nature | *Bereshit* 15:11 ; 1 *==Chanokh==* 8-10 ; *Vayiqra* 16 |
@@ -129,7 +129,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 
 ## Repères
 
-- [[Yaho'el]] (*Yaho'el* / יַהוֹאֵל) — ==nom propre== (non balisé), **mal'akh** envoyé relever [[Avraham]]. Son **Shem** compose YHW et El : il *dit* sa fonction — l'envoyé en qui le Nom habite (*Shemot* 23:21). Niveau 3 et glose à la première occurrence. ==Statut arrêté avec l'auteur avant rédaction du corps== ; précédents : ==Mikha'el== (*Toledot*), ==Rafa'el== (*Sefar Gibbaraya*).
+- [[Yaho'el]] (*Yaho'el* / יַהוֹאֵל) — ==nom propre== (non balisé), **mal'akh** envoyé relever [[Avraham]]. Son **Shem** compose YHW et **El** : il *dit* sa fonction — l'envoyé en qui le Nom habite (*Shemot* 23:21). Niveau 3 et glose à la première occurrence. ==Statut arrêté avec l'auteur avant rédaction du corps== ; précédents : ==Mikha'el== (*Toledot*), ==Rafa'el== (*Sefar Gibbaraya*).
 - [[Azazel]] (*Azazel* / עֲזָאזֵל) — ==nom propre== (non balisé), déjà nommé dans le corpus (*Sefar Gibbaraya*, parmi les **'irin**). Ici il parle : il vient en oiseau impur sur les corps de la **berith**, et son lot est ==la terre==. Défini par son domaine assigné, non par une nature — même logique fonctionnelle que le **mal'akh**. Traitement définitif réservé à son locus légal, *Vayiqra* 16.
 - **olam** (*olam* / עוֹלָם) — *intraduisible déjà posé* (§3, premier emploi *Bereshit* 3:22). Restitué sous le slavon *vekъ* là où les traductions donnent « âges » ou « siècle ». Le livre s'ouvre sur la promesse de les montrer et se referme sur « une heure de l'**olam** ».
 - **kavod** (*kavod* / כָּבוֹד) — *intraduisible déjà posé*. Pièce maîtresse du livre sous la forme du ==vêtement== : ce qu'un être du domaine haut a quitté est mis en réserve pour [[Avraham]]. Même ontologie que la **kavod** d'Adam (*Toledot*), et même logique **kavod** / *qalal* que *Bereshit* 7-8.

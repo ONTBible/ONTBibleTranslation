@@ -15,7 +15,7 @@
 
 ⁷ La plainte (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les œuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
 
-⁹ Le décret est parvenu jusqu'à [[Rafa'el]] (*Rafa'el* / רָפָאֵל) *[*rafa* (רָפָא) : guérir + *el* (אֵל) — "El guérit" ; **mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *==Chanokh==*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
+⁹ Le décret est parvenu jusqu'à [[Rafa'el]] (*Rafa'el* / רָפָאֵל) *[*rafa* (רָפָא) : guérir + *el* (אֵל) — "**El** guérit" ; **mal'akh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *==Chanokh==*, l'un des quatre **mal'akhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
 
 ¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
 

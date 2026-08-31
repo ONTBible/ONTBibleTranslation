@@ -2,7 +2,7 @@
 
 ## Le Shem
 
-De *avi* — ==mon père== — et d'==El==. ==Mon père est **Elohim**==.
+De *avi* — ==mon père== — et d'==**El**==. ==Mon père est **Elohim**==.
 
 ## Ce que le corpus en fait
 
