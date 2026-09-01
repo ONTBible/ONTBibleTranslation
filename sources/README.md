@@ -9,7 +9,7 @@ de l'ONT se lit **contre** un texte qu'elle n'a pas choisi.
 
 ---
 
-## Les quatre témoins
+## Les cinq témoins
 
 | dossier | témoin | texte | analyse |
 |---|---|---|---|
@@ -17,8 +17,9 @@ de l'ONT se lit **contre** un texte qu'elle n'a pas choisi.
 | `grc-sblgnt/` | SBL Greek New Testament | CC BY 4.0 | **MorphGNT** — CC BY-SA 3.0 |
 | `grc-byz/` | Robinson-Pierpont, RP2018 | domaine public | domaine public |
 | `gez-dillmann/` | Dillmann 1851 — guèze | domaine public | *(aucune)* |
+| `lat-vulgata/` | Vulgate clémentine 1592 — latin | domaine public | *(aucune)* |
 
-Le guèze est le seul qui ne soit pas dans une langue du corpus : voir plus bas.
+Le guèze et le latin ne sont pas des langues du corpus : voir plus bas.
 
 Les deux témoins grecs sont **côte à côte, sans marquage des divergences** —
 décision de l'auteur du 30 août 2026. L'un est éclectique, l'autre byzantin ;
@@ -115,16 +116,58 @@ numéro de chapitre ; les frontières viennent du `።` et de 14 corrections
 vérifiées. Le détail, et ce qui reste ouvert, sont dans l'en-tête de
 `scripts/importer-le-gueze-de-chanokh.py`.
 
+## Le latin, et une censure médiévale qu'on ne masque pas
+
+Le *Chazon Ezra* n'est conservé dans aucune langue sémitique. Son témoin
+principal est le latin, par lequel il a traversé le Moyen Âge glissé en
+appendice de la Vulgate. Comme le guèze, ==c'est un témoin de second degré== :
+le latin traduit un grec perdu, qui traduisait un hébreu perdu.
+
+L'assise est la **Vulgate clémentine de 1592**, domaine public ; Wikisource n'en
+est que le transporteur. On n'importe que les **chapitres 3 à 14** : les
+chapitres 1-2 et 15-16 sont des additions chrétiennes hellénisées, que le
+critère d'inclusion de l'ONT écarte.
+
+**Soixante-dix versets manquent, et ce n'est pas un accident.** Le passage
+7:36-105 porte sur l'intercession pour les morts, et il a été ==retranché des
+manuscrits latins au Moyen Âge== parce qu'il la refusait. Robert Bensly l'a
+retrouvé en 1875 dans un manuscrit du IXᵉ siècle d'Amiens qui avait échappé au
+couteau — mais son édition n'existe qu'en fac-similé, et son OCR est illisible.
+Le syriaque, lui, n'a jamais subi cette censure : c'est par là que la lacune se
+comblera.
+
+**Et la numérotation est celle de la norme, parce qu'un numéro de verset est un
+système de renvoi.** « Chazon Ezra 7:120 » doit désigner la même chose ici et
+partout ailleurs.
+
+La Clémentine, elle, numérote son chapitre 7 de 1 à 69 sans trou : chez elle la
+lacune tombe **entre** 7:35 et 7:36. Le décalage a d'abord paru invérifiable —
+69 + 70 = 139, quand la norme va à 140. Un verset d'écart, sans témoin pour
+dire d'où il venait.
+
+==Il venait du texte lui-même.== Le dernier verset clémentin fait 171 signes
+quand les autres du chapitre en font 96, et il porte deux propositions : la
+Clémentine **fusionne ses deux derniers versets**. Le décalage de +70 a ensuite
+tenu sur quatre ancres — 7:36, 44, 50 et 68 tombant sur 7:106, 114, 120 et 138.
+
+    clémentine 7:1-35    →  7:1-35            inchangé
+    clémentine 7:36-68   →  7:106-138         décalé de +70
+    clémentine 7:69      →  7:139 + 7:140     défusionné
+
+Les versets 36 à 105 n'existent donc pas dans ce fichier, et c'est la vérité :
+ils manquent au témoin latin.
+
+L'épreuve garde la règle qui va avec : une source qui déclare une lacune doit
+dire ce que sa numérotation en fait.
+
 ## Ce que cette couche ne couvre pas
 
-**63 livres ONT sur 70.** Les sept qui restent sont le corpus étendu — ceux qui
-ne nous sont pas parvenus en hébreu ni en grec, et pour lesquels aucun autre
-témoin exploitable n'a été trouvé :
+**64 livres ONT sur 70.** Les six qui restent sont le corpus étendu — ceux dont
+aucun témoin exploitable et librement réutilisable n'a encore été obtenu :
 
-    06  Yovelim                    40  Tsava'at Levi
-    36  Toledot Adam ve-Chavah     42  Chazon Ezra
+    06  Yovelim                    39  Chazon Avraham
+    36  Toledot Adam ve-Chavah     40  Tsava'at Levi
     37  Sefar Gibbaraya            43  Chazon Barukh
-    39  Chazon Avraham
 
 Ils survivent en guèze, en slavon, en syriaque ou par fragments araméens. Pour
 le *Chazon Avraham*, ==il n'existe aucune édition slavonne ouverte et lisible
@@ -138,9 +181,10 @@ mieux que de le laisser découvrir à l'usage.
 
     ./scripts/importer-les-textes-sources.py --depots <dossier> --cloner
     ./scripts/importer-le-gueze-de-chanokh.py
+    ./scripts/importer-le-latin-de-chazon-ezra.py
     ./scripts/eprouver-les-sources.py
 
-Les deux premiers écrivent chacun leur part de `MANIFEST.json` **sans toucher à
+Les trois premiers écrivent chacun leur part de `MANIFEST.json` **sans toucher à
 celle de l'autre** — écrire le fichier en entier effacerait l'autre source sans
 un mot, et un `sources/` amputé reste bien formé, donc invisible. Le troisième
 refuse un `sources/` qui s'écarterait de ce qu'il déclare.

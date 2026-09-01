@@ -672,6 +672,45 @@
           "chapitres": 108
         }
       }
+    },
+    "lat-vulgata": {
+      "nom": "Liber Quartus Esdrae — la Vulgate clémentine",
+      "langue": "lat",
+      "temoin": "second degré : le latin traduit un grec perdu, qui traduisait un hébreu perdu.",
+      "texte": {
+        "oeuvre": "Vulgata Clementina (1592), Liber Quartus Esdrae",
+        "licence": "domaine public"
+      },
+      "saisie": {
+        "oeuvre": "Wikisource latin — transcription fidèle d'un texte du domaine public",
+        "url": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Quartus_Esdrae",
+        "licence": "domaine public (l'assise de 1592 le porte ; une transcription fidèle ne crée pas de droit)"
+      },
+      "analyse": {
+        "champ": null,
+        "oeuvre": null,
+        "licence": "aucune — ce témoin ne porte pas de morphologie",
+        "copyleft": false
+      },
+      "attribution": "Vulgata Clementina (1592), domaine public ; transcription de Wikisource latin.",
+      "perimetre": "chapitres 3-14 seulement. Les ch. 1-2 et 15-16 sont des additions chrétiennes hellénisées, écartées par le critère d'inclusion de l'ONT.",
+      "numerotation": "moderne, celle des éditions qui restaurent le fragment (7:1-140). La Clémentine numérote 1-69 sans trou ; la correspondance a été établie et appliquée : 7:1-35 inchangés, clémentine 36-68 décalés de +70 vers 106-138, et le dernier verset clémentin défusionné en 139+140 — il portait deux propositions et faisait 171 signes contre 96 de moyenne. Décalage contrôlé sur quatre ancres (36, 44, 50, 68 → 106, 114, 120, 138). Les versets 36-105 n'existent pas dans ce fichier : ils manquent au témoin latin.",
+      "lacune": "Le fragment de 36 à 105 en numérotation moderne, soit 70 versets, est absent de tout manuscrit latin ordinaire : il en a été retranché au Moyen Âge parce qu'il refusait l'intercession pour les morts. Bensly l'a retrouvé en 1875 dans un manuscrit du IXᵉ siècle d'Amiens qui avait échappé au couteau, mais son édition n'existe qu'en fac-similé et son OCR est illisible. Le syriaque, lui, n'a jamais subi cette censure.",
+      "totaux": {
+        "livres": 1,
+        "versets": 644,
+        "mots": 10790,
+        "chapitres": 12
+      },
+      "livres": {
+        "ChazonEzra": {
+          "ont": 42,
+          "slug": "chazon-ezra",
+          "versets": 644,
+          "mots": 10790,
+          "chapitres": 12
+        }
+      }
     }
   }
 }

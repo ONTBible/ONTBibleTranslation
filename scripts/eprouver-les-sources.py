@@ -38,6 +38,7 @@ CHAMPS = {
     # Le guèze ne porte aucune morphologie : rien à cloisonner, mais la liste
     # reste fermée — un champ inattendu resterait une fuite.
     "gez-dillmann": ({"t"}, None, set()),
+    "lat-vulgata": ({"t"}, None, set()),
 }
 
 
@@ -83,6 +84,13 @@ def main() -> int:
                and not saisie.get("permission"):
                 plainte(f"{cle} : saisie sous clause non commerciale sans "
                         f"permission déclarée")
+        # Un témoin amputé doit le dire. Une lacune tue en silence : le texte
+        # reste bien formé, il manque seulement un passage que personne ne
+        # cherche. Si la source déclare une lacune, elle doit dire aussi ce
+        # que sa numérotation en fait.
+        if meta.get("lacune") and not meta.get("numerotation"):
+            plainte(f"{cle} : une lacune est déclarée sans dire ce que la "
+                    f"numérotation en fait — un renvoi peut tomber à côté")
 
         attendus, ilot, champs_ilot = CHAMPS.get(cle, (None, None, set()))
         if attendus is None:
