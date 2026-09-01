@@ -405,11 +405,24 @@ def main() -> int:
     manifeste["grc-byz"] = livres_byz
 
     # -- manifeste ---------------------------------------------------------
+    # Les sources qu'un AUTRE script gère doivent survivre à cet import.
+    # Écrire le manifeste en entier les effacerait sans un mot — et un
+    # `sources/` amputé reste bien formé, donc invisible.
+    anciennes = {}
+    ancien = args.sortie / "MANIFEST.json"
+    if ancien.is_file():
+        try:
+            anciennes = {c: m for c, m in
+                         json.loads(ancien.read_text(encoding="utf-8"))
+                         .get("sources", {}).items() if c not in SOURCES}
+        except json.JSONDecodeError:
+            pass
+
     doc = {
         "avertissement": "Forme neutre, classée par référence biblique. Ne "
                          "connaît ni les parashiot ni la numérotation interne "
                          "des unités ONT — la jointure est au pipeline.",
-        "sources": {},
+        "sources": dict(anciennes),
     }
     for cle, meta in SOURCES.items():
         livres = manifeste.get(cle, {})
@@ -427,6 +440,10 @@ def main() -> int:
         json.dumps(doc, ensure_ascii=False, indent=2, sort_keys=False) + "\n",
         encoding="utf-8")
 
+    for cle in anciennes:
+        t = doc["sources"][cle].get("totaux", {})
+        print(f"{cle:12} {t.get('livres', '?'):>3} livres  "
+              f"{t.get('versets', '?'):>6} versets  (gérée ailleurs, préservée)")
     for cle in SOURCES:
         t = doc["sources"][cle]["totaux"]
         print(f"{cle:12} {t['livres']:3} livres  {t['versets']:6} versets  "
