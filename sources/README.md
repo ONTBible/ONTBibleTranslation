@@ -136,17 +136,29 @@ couteau — mais son édition n'existe qu'en fac-similé, et son OCR est illisib
 Le syriaque, lui, n'a jamais subi cette censure : c'est par là que la lacune se
 comblera.
 
-**Et la numérotation ne doit pas être « corrigée ».** Le fichier porte celle de
-la Clémentine, où le chapitre 7 va de 1 à 69 sans trou : la lacune tombe
-**entre** 7:35 et 7:36. Les éditions modernes restaurent le fragment et
-numérotent 7:1-140. On aurait pu décaler de +70 pour les rejoindre — le compte
-n'y tombe pas juste (69 + 70 = 139, quand la norme va à 140), et aucun témoin
-de contrôle n'était disponible. ==Un décalage posé sur une hypothèse invérifiée
-aurait produit un fichier bien formé et faux d'un cran sur cent quatre
-versets.== La jointure est déclarée au manifeste, pas fabriquée.
+**Et la numérotation est celle de la norme, parce qu'un numéro de verset est un
+système de renvoi.** « Chazon Ezra 7:120 » doit désigner la même chose ici et
+partout ailleurs.
 
-L'épreuve garde cette règle : une source qui déclare une lacune doit dire ce
-que sa numérotation en fait.
+La Clémentine, elle, numérote son chapitre 7 de 1 à 69 sans trou : chez elle la
+lacune tombe **entre** 7:35 et 7:36. Le décalage a d'abord paru invérifiable —
+69 + 70 = 139, quand la norme va à 140. Un verset d'écart, sans témoin pour
+dire d'où il venait.
+
+==Il venait du texte lui-même.== Le dernier verset clémentin fait 171 signes
+quand les autres du chapitre en font 96, et il porte deux propositions : la
+Clémentine **fusionne ses deux derniers versets**. Le décalage de +70 a ensuite
+tenu sur quatre ancres — 7:36, 44, 50 et 68 tombant sur 7:106, 114, 120 et 138.
+
+    clémentine 7:1-35    →  7:1-35            inchangé
+    clémentine 7:36-68   →  7:106-138         décalé de +70
+    clémentine 7:69      →  7:139 + 7:140     défusionné
+
+Les versets 36 à 105 n'existent donc pas dans ce fichier, et c'est la vérité :
+ils manquent au témoin latin.
+
+L'épreuve garde la règle qui va avec : une source qui déclare une lacune doit
+dire ce que sa numérotation en fait.
 
 ## Ce que cette couche ne couvre pas
 

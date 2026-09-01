@@ -42,24 +42,40 @@ posée à l'Online Critical Pseudepigrapha.
 En attendant, ==la lacune est déclarée, pas masquée== : le lecteur qui touche un
 verset de cette zone doit savoir qu'il manque, et pourquoi.
 
-## Et un piège de numérotation qu'il ne faut surtout pas « corriger »
+## La numérotation est ramenée à la norme, et voici comment on l'a établi
 
-Ce fichier porte la numérotation ==de la Clémentine==, où le chapitre 7 va de 1
-à 69 sans trou : la lacune tombe **entre** 7:35 et 7:36. Les éditions modernes,
-elles, restaurent le fragment et numérotent 7:1-140 — leur 7:36 est donc un
-verset que nous n'avons pas, et notre 7:36 est à peu près leur 7:106.
+La Clémentine numérote son chapitre 7 de 1 à 69 sans trou : chez elle, la lacune
+tombe **entre** 7:35 et 7:36. Les éditions modernes restaurent le fragment et
+numérotent 7:1-140. Ce fichier porte ==la numérotation moderne==, parce qu'un
+numéro de verset est un ==système de renvoi== : « Chazon Ezra 7:120 » doit
+désigner la même chose ici et partout ailleurs.
 
-**On aurait pu décaler de +70 pour rejoindre la norme. On ne l'a pas fait.**
-Le compte n'y tombe pas juste : 69 + 70 = 139, quand la norme moderne s'arrête
-à 140. Cet écart d'un verset peut venir d'une fusion propre à cette impression,
-d'une omission, ou d'autre chose — et ==aucun témoin de contrôle n'était
-disponible pour trancher==.
+Le décalage a d'abord paru invérifiable : 69 + 70 = 139, quand la norme va à
+140. Un verset d'écart, sans témoin pour dire d'où il venait.
 
-Un décalage arithmétique posé sur une hypothèse invérifiée aurait produit un
-fichier bien formé, aligné, crédible et faux d'un cran sur cent quatre versets.
-La jointure est donc **déclarée au manifeste** plutôt que fabriquée ici : c'est
-au pipeline de la faire, en connaissance de cause, le jour où une référence
-permettra de l'établir.
+**Il venait du texte lui-même.** Le dernier verset clémentin, 7:69, fait
+==171 signes quand les autres du chapitre en font 96== en moyenne, et il porte
+deux propositions distinctes :
+
+    Et judex si non ignoverit his qui curati sunt verbo ejus
+    et deleverit multitudinem contentionum                     ← 7:139
+    non fortassis derelinquerentur in innumerabili multitudine
+    nisi pauci valde                                           ← 7:140
+
+La Clémentine ==fusionne les deux derniers versets==. Tout l'écart est là.
+
+Le décalage de +70 a ensuite été contrôlé sur quatre ancres réparties dans la
+zone — 7:36, 7:44, 7:50 et 7:68, qui tombent sur 7:106, 7:114, 7:120 et 7:138 —
+et il tient sur les quatre.
+
+D'où la correspondance appliquée :
+
+    clémentine 7:1-35    →  7:1-35      inchangé
+    clémentine 7:36-68   →  7:106-138   décalé de +70
+    clémentine 7:69      →  7:139 + 7:140   défusionné
+
+Les versets 36 à 105 ==n'existent donc pas dans ce fichier==, et c'est la
+vérité : ils manquent au témoin latin.
 
 ## L'assise, et pourquoi Wikisource n'est qu'un facteur
 
@@ -83,6 +99,12 @@ API = ("https://la.wikisource.org/w/api.php?action=parse&page={}"
 
 PERIMETRE = range(3, 15)          # les seize chapitres moins les additions
 LACUNE = (7, 36, 105)             # chapitre, premier et dernier verset absents
+
+# Ramener le ch. 7 de la numérotation clémentine à la norme moderne.
+# Le décalage est établi, non supposé : voir l'en-tête.
+DECALAGE_CH7 = 70                 # clémentine 36-68 → moderne 106-138
+DERNIER_CLEMENTIN = 69            # qu'il faut défusionner en 139 + 140
+COUPURE_139_140 = "non fortassis"  # l'ancre, prise dans le texte lui-même
 ATTENDU = {3: 36, 4: 52, 5: 55, 6: 59, 7: 69, 8: 63,
            9: 47, 10: 60, 11: 46, 12: 51, 13: 58, 14: 47}
 
@@ -142,7 +164,20 @@ def lire():
             v = int(b.group(1))
             texte = nettoyer(corps[b.end(): bornes[j + 1].start()
                                    if j + 1 < len(bornes) else fin - m.end()])
-            if texte:
+            if not texte:
+                continue
+            if n == 7 and v >= 36:
+                if v < DERNIER_CLEMENTIN:
+                    versets.append((n, v + DECALAGE_CH7, texte))
+                else:
+                    i = texte.find(COUPURE_139_140)
+                    if i < 0:
+                        raise ValueError(
+                            f"7:{v} : l'ancre « {COUPURE_139_140} » a disparu — "
+                            f"la défusion des versets 139/140 n'est plus sûre.")
+                    versets.append((n, 139, texte[:i].strip()))
+                    versets.append((n, 140, texte[i:].strip()))
+            else:
                 versets.append((n, v, texte))
         vus[n] = len(bornes)
     manquants = [n for n in PERIMETRE if n not in vus]
@@ -200,14 +235,16 @@ def main() -> int:
         "perimetre": "chapitres 3-14 seulement. Les ch. 1-2 et 15-16 sont des "
                      "additions chrétiennes hellénisées, écartées par le "
                      "critère d'inclusion de l'ONT.",
-        "numerotation": "celle de la Clémentine. Le ch. 7 y va de 1 à 69 sans "
-                        "trou : la lacune tombe ENTRE 7:35 et 7:36. Les "
-                        "éditions modernes restaurent le fragment et "
-                        "numérotent 7:1-140 ; leur 7:36 nous manque, et notre "
-                        "7:36 est à peu près leur 7:106. La correspondance "
-                        "n'est PAS établie — 69+70=139 quand la norme va à "
-                        "140 — et n'a donc pas été appliquée. Ne pas décaler "
-                        "sans un témoin de contrôle.",
+        "numerotation": "moderne, celle des éditions qui restaurent le "
+                        "fragment (7:1-140). La Clémentine numérote 1-69 sans "
+                        "trou ; la correspondance a été établie et appliquée : "
+                        "7:1-35 inchangés, clémentine 36-68 décalés de +70 vers "
+                        "106-138, et le dernier verset clémentin défusionné en "
+                        "139+140 — il portait deux propositions et faisait 171 "
+                        "signes contre 96 de moyenne. Décalage contrôlé sur "
+                        "quatre ancres (36, 44, 50, 68 → 106, 114, 120, 138). "
+                        "Les versets 36-105 n'existent pas dans ce fichier : "
+                        "ils manquent au témoin latin.",
         "lacune": f"Le fragment de {d} à {fin} en numérotation moderne, soit "
                   f"{fin - d + 1} versets, est absent de tout manuscrit latin "
                   f"ordinaire : il en a été retranché au Moyen Âge parce qu'il "
@@ -229,8 +266,8 @@ def main() -> int:
           f"{total_m} mots")
     print(f"lacune déclarée : {fin - d + 1} versets ({ch}:{d}-{fin} en "
           f"numérotation moderne) absents du témoin latin")
-    print("numérotation clémentine conservée — la jointure vers la norme "
-          "moderne n'est pas établie, voir le manifeste")
+    print("numérotation moderne appliquée au ch. 7 — décalage +70 établi sur "
+          "quatre ancres, dernier verset défusionné")
     return 0
 
 
