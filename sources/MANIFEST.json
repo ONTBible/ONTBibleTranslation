@@ -634,6 +634,44 @@
           "mots": 9897
         }
       }
+    },
+    "gez-dillmann": {
+      "nom": "Maṣḥafa Henok — le guèze de Dillmann",
+      "langue": "gez",
+      "temoin": "second degré : le guèze traduit le grec, qui traduisait l'araméen. Là où l'araméen de Qumrân subsiste, il prime.",
+      "texte": {
+        "oeuvre": "August Dillmann, Liber Henoch aethiopice (Leipzig, 1851)",
+        "licence": "domaine public"
+      },
+      "saisie": {
+        "oeuvre": "Michal Jerabek (1995), converti en Unicode par Ran HaCohen (2011) — Biblia Aethiopica",
+        "url": "https://www.tau.ac.il/~hacohen/",
+        "licence": "usage non commercial",
+        "permission": "accordée par Ran HaCohen le 1er septembre 2026, à charge de le tenir informé du projet"
+      },
+      "analyse": {
+        "champ": null,
+        "oeuvre": null,
+        "licence": "aucune — ce témoin ne porte pas de morphologie",
+        "copyleft": false
+      },
+      "attribution": "Texte : August Dillmann, Liber Henoch aethiopice (Leipzig, 1851), domaine public. Saisie : Michal Jerabek (1995), Unicode par Ran HaCohen (2011), employée avec sa permission.",
+      "decoupage": "déduit du ። puis corrigé — voir l'en-tête du script",
+      "totaux": {
+        "livres": 1,
+        "versets": 1061,
+        "mots": 17644,
+        "chapitres": 108
+      },
+      "livres": {
+        "Chanokh": {
+          "ont": 38,
+          "slug": "chanokh",
+          "versets": 1061,
+          "mots": 17644,
+          "chapitres": 108
+        }
+      }
     }
   }
 }

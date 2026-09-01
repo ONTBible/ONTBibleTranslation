@@ -9,13 +9,16 @@ de l'ONT se lit **contre** un texte qu'elle n'a pas choisi.
 
 ---
 
-## Les trois témoins
+## Les quatre témoins
 
 | dossier | témoin | texte | analyse |
 |---|---|---|---|
 | `he-wlc/` | Westminster Leningrad Codex | domaine public | **OSHB** — CC BY 4.0 |
 | `grc-sblgnt/` | SBL Greek New Testament | CC BY 4.0 | **MorphGNT** — CC BY-SA 3.0 |
 | `grc-byz/` | Robinson-Pierpont, RP2018 | domaine public | domaine public |
+| `gez-dillmann/` | Dillmann 1851 — guèze | domaine public | *(aucune)* |
+
+Le guèze est le seul qui ne soit pas dans une langue du corpus : voir plus bas.
 
 Les deux témoins grecs sont **côte à côte, sans marquage des divergences** —
 décision de l'auteur du 30 août 2026. L'un est éclectique, l'autre byzantin ;
@@ -88,21 +91,45 @@ l'alignement. Il tient sur les 7 953 versets.
 
 ---
 
+## Le guèze, et pourquoi il est à part
+
+*1 Chanokh* ne nous est parvenu ni en hébreu ni en grec. Le seul témoin complet
+est en **guèze**, l'éthiopien classique — et le guèze traduit le grec, qui
+traduisait l'araméen. ==C'est un témoin de second degré, et le dire fait partie
+de l'honnêteté de la couche== : partout où l'araméen de Qumrân subsiste, c'est
+lui qui prime, parce que c'est la langue dans laquelle le livre a été pensé.
+
+L'assise est **Dillmann, Leipzig 1851**, la première édition critique, dans le
+domaine public. Elle a un prix qu'il faut nommer : ==Dillmann n'a pas vu
+Qumrân==, ayant établi son texte un siècle avant le premier fragment.
+
+**La saisie appartient à quelqu'un, et il a dit oui.** Le texte informatique
+vient de Michal Jerabek (1995), converti en Unicode par **Ran HaCohen** (2011),
+université de Tel-Aviv. Sa notice n'autorisait que l'usage non commercial ; il a
+donné son accord explicite le 1er septembre 2026, ==à une condition qui
+n'expire pas== : être tenu informé du projet. L'épreuve refuse d'ailleurs toute
+saisie sous clause non commerciale dont la permission n'est pas déclarée.
+
+**Le découpage en versets est déduit, non donné.** Les pages ne portent qu'un
+numéro de chapitre ; les frontières viennent du `።` et de 14 corrections
+vérifiées. Le détail, et ce qui reste ouvert, sont dans l'en-tête de
+`scripts/importer-le-gueze-de-chanokh.py`.
+
 ## Ce que cette couche ne couvre pas
 
-**62 livres ONT sur 70.** Les huit qui restent sont exactement le corpus
-étendu — ceux qui ne nous sont pas parvenus en hébreu ni en grec :
+**63 livres ONT sur 70.** Les sept qui restent sont le corpus étendu — ceux qui
+ne nous sont pas parvenus en hébreu ni en grec, et pour lesquels aucun autre
+témoin exploitable n'a été trouvé :
 
-    06  Yovelim                    38  1 Chanokh
-    36  Toledot Adam ve-Chavah     39  Chazon Avraham
-    37  Sefar Gibbaraya            40  Tsava'at Levi
-                                   42  Chazon Ezra
-                                   43  Chazon Barukh
+    06  Yovelim                    40  Tsava'at Levi
+    36  Toledot Adam ve-Chavah     42  Chazon Ezra
+    37  Sefar Gibbaraya            43  Chazon Barukh
+    39  Chazon Avraham
 
-Ils survivent en guèze, en slavon, en syriaque, ou par fragments araméens de
-Qumrân — et aucune de ces traditions n'est dans les trois témoins importés
-ici. ==Un appui long sur un verset du *Chazon Avraham* n'aura donc rien à
-montrer==, et c'est précisément le livre en cours d'écriture.
+Ils survivent en guèze, en slavon, en syriaque ou par fragments araméens. Pour
+le *Chazon Avraham*, ==il n'existe aucune édition slavonne ouverte et lisible
+par machine== : un appui long sur un de ses versets n'aura rien à montrer, et
+c'est précisément le livre en cours d'écriture.
 
 Ce n'est pas un manque de l'import : c'est l'état du corpus. Le dire ici vaut
 mieux que de le laisser découvrir à l'usage.
@@ -110,7 +137,10 @@ mieux que de le laisser découvrir à l'usage.
 ## Refaire l'import
 
     ./scripts/importer-les-textes-sources.py --depots <dossier> --cloner
+    ./scripts/importer-le-gueze-de-chanokh.py
     ./scripts/eprouver-les-sources.py
 
-Le premier cloue le commit amont dans `MANIFEST.json` ; le second refuse un
-`sources/` qui s'écarterait de ce qu'il déclare.
+Les deux premiers écrivent chacun leur part de `MANIFEST.json` **sans toucher à
+celle de l'autre** — écrire le fichier en entier effacerait l'autre source sans
+un mot, et un `sources/` amputé reste bien formé, donc invisible. Le troisième
+refuse un `sources/` qui s'écarterait de ce qu'il déclare.

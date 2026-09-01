@@ -35,6 +35,9 @@ CHAMPS = {
     "he-wlc": ({"t", "oshb"}, "oshb", {"seg", "lem", "morph", "id", "qere"}),
     "grc-sblgnt": ({"t", "mgnt"}, "mgnt", {"pos", "parse", "mot", "norm", "lem"}),
     "grc-byz": ({"t", "strong", "parse"}, None, set()),
+    # Le guèze ne porte aucune morphologie : rien à cloisonner, mais la liste
+    # reste fermée — un champ inattendu resterait une fuite.
+    "gez-dillmann": ({"t"}, None, set()),
 }
 
 
@@ -67,8 +70,19 @@ def main() -> int:
         for bloc in ("texte", "analyse"):
             if not (meta.get(bloc) or {}).get("licence"):
                 plainte(f"{cle} : licence du {bloc} non déclarée")
-        if meta.get("commit_amont") in (None, "", "inconnu"):
-            plainte(f"{cle} : commit amont inconnu — l'import n'est pas rejouable")
+        # Une source tirée d'un dépôt git doit dire lequel et à quel commit.
+        # Une source tirée d'un site doit dire l'URL et la permission obtenue.
+        if meta.get("depot_amont"):
+            if meta.get("commit_amont") in (None, "", "inconnu"):
+                plainte(f"{cle} : commit amont inconnu — import non rejouable")
+        else:
+            saisie = meta.get("saisie") or {}
+            if not saisie.get("url"):
+                plainte(f"{cle} : ni dépôt amont ni URL de saisie")
+            if saisie.get("licence") and "non commercial" in saisie["licence"] \
+               and not saisie.get("permission"):
+                plainte(f"{cle} : saisie sous clause non commerciale sans "
+                        f"permission déclarée")
 
         attendus, ilot, champs_ilot = CHAMPS.get(cle, (None, None, set()))
         if attendus is None:
