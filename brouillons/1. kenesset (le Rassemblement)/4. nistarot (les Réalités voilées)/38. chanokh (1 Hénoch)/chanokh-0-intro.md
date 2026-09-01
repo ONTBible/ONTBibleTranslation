@@ -68,6 +68,12 @@ Il faut lire ce que ça produit dans le bon sens, et le vault le formule ainsi :
 
 *La règle de préséance, et elle est absolue.* Partout où un fragment araméen de Qumrân recouvre le passage, ==c'est lui le texte==, et le guèze devient un témoin secondaire qu'on consulte. Partout ailleurs, on travaille sur une traduction de traduction, et la feuille le dira à chaque unité concernée.
 
+*Sur quel guèze on travaille, et pourquoi ça se dit.* L'ONT part de l'édition de ==Dillmann==, Leipzig 1851 — la première édition critique du texte guèze, établie sur cinq manuscrits.
+
+Et il faut donner au lecteur la date, parce qu'elle décide de ce qu'il a sous les yeux : ==Dillmann établit son texte en 1851, et les fragments araméens ne sortent de terre qu'en 1947==. Le guèze qu'on lui oppose n'a donc ==jamais été corrigé par l'araméen== — son éditeur ne pouvait pas le connaître. Les éditions postérieures ont lu davantage, et la plus récente avait les fragments sous les yeux.
+
+Ça change la nature de la règle de préséance qui suit. Ce n'est pas l'arbitrage entre deux témoins également informés : c'est ==la correction d'un texte plus ancien par un témoin que son propre éditeur n'a jamais vu==. Quand l'araméen parle, il ne contredit pas Dillmann — il lui apporte ce qui lui manquait.
+
 *Distinguer la pierre de ce qu'un savant a comblé.* Les fragments sont lacunaires, et les restitutions qu'on lit dans les éditions sont des ==hypothèses d'éditeur==. Elles se consultent, elles ne se reprennent jamais telles quelles. ==Un texte lacunaire restitué n'est pas un témoin, c'est une proposition== — et la confondre avec le manuscrit serait la faute la plus grave qu'on puisse commettre ici.
 
 *Conséquence sur le niveau 3.* Comme pour le *Chazon Avraham* : là où l'araméen manque, ==toute translittération est une restitution raisonnée==, jamais une lecture de manuscrit. On restitue quand la chaîne le donne, on s'abstient quand elle ne le donne pas.
