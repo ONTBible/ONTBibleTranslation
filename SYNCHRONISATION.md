@@ -2290,3 +2290,71 @@ Deux conséquences de conception qui en découlent, et qui valent pour les trois
 
 **Une exigence dont on connaît la raison se défend ; une exigence orpheline se
 fait raboter au premier arbitrage.**
+
+### 2 septembre 2026 — un texte écrit sur son plan, et non sur sa source
+
+Les **parashiot** ① et ② du *Chazon Avraham* ont été refaites entièrement, sur
+les deux témoins. Elles avaient été écrites sur le plan de la stratigraphie —
+lui-même établi sans le texte sous les yeux.
+
+Ce que le témoin porte et qu'elles n'avaient pas : le temple et ses six
+matières ; l'idole **trouvée déjà tombée** aux pieds d'un autre dieu, quand la
+rédaction faisait choir une idole des mains de l'enfant ; **la vente de cinq
+dieux au marché** — l'âne, les marchands, le cri d'un chameau, trois brisés,
+les morceaux jetés au fleuve ; et l'échelle des éléments **prononcée à voix
+haute devant le père**, non ruminée. Une scène entière était au mauvais
+chapitre. Dans la ③, la voix **appelle le nom deux fois** et c'est l'homme qui
+répond *me voici* — la rédaction attribuait ce *me voici* à la voix.
+
+**Le motif est celui que le journal traque depuis le 30 août**, dans un
+matériau nouveau : une sortie cohérente, bien formée, complète, et qui ne
+répond pas à la source. Il s'était présenté sur un instrument de mesure, puis
+sur un compte de balises. Ici c'est du texte — et c'est plus grave, parce
+qu'**un build faux se refait et qu'un texte faux se lit**.
+
+**Pour les trois dépôts :** un plan n'est pas une source. Un document
+intermédiaire — stratigraphie, inventaire, schéma, note de conception — est un
+instrument comme un autre, et il se valide contre ce qu'il prétend décrire
+avant qu'on bâtisse dessus. Ce qui a rattrapé celui-ci n'est pas une relecture :
+c'est d'être allé chercher les chapitres.
+
+**Ce que le vault déclare maintenant, et qui manquait :** la feuille
+d'introduction décrivait la chaîne du *texte* — hébreu, grec, slavon — comme si
+c'était celle de **notre accès**. Les deux ne se recouvrent pas. Aucun
+manuscrit slavon n'est transcrit en accès ouvert et aucune édition n'en est
+lisible par machine : l'ONT travaille sur deux traductions savantes du domaine
+public. La chaîne est écrite maillon par maillon, avec ce qu'elle coûte et ce
+qui la rend tenable. **Un dépôt doit déclarer sur quoi il travaille, pas
+seulement d'où vient ce qu'il travaille.**
+
+### 2 septembre 2026 — le pipeline d'un arbre périmé rend un rapport faux
+
+Même vault, même commande, deux exemplaires du pipeline :
+
+    ~/ONTBible/ONTBibleApp   (branche de travail abandonnée)   204 fiches orphelines
+    worktree détaché @ origin/dev                                2 fiches orphelines
+
+L'écart n'est pas une régression : la branche est **en amont** du correctif des
+Shemot, de 939 lignes sur `pipeline/`. C'est la troisième forme de prémisse
+fausse déjà nommée — **juste ici, fausse là-bas, sans que rien n'ait bougé** —,
+et elle a failli produire un signalement de régression 3 → 204 à la session app.
+
+**Pour les trois dépôts :** un outil de contrôle se mesure **avec la référence
+sur laquelle il tourne**, au même titre qu'un `grep`. `git worktree add -f
+--detach <scratch> origin/dev` coûte une ligne et donne l'état publié.
+
+Deux faits utiles au passage. Le binaire du pipeline résout le vault en relatif
+depuis son propre chemin : hors de l'arbre habituel il faut `ONT_VAULT`, et il
+s'arrête net avec un message clair si on l'oublie — bon comportement. Et
+`scripts/corpus.sh` ne se lance **pas** sur un arbre partagé : il fait `rm -rf
+app/Resources/data`, réécrit les DTO Swift et rejoue `xcodegen`. Le binaire
+seul écrit dans `dist/`, qui est ignoré.
+
+**Un défaut réel relevé et transmis :** les deux fiches orphelines qui
+subsistent — `lexique/kasdim.md` et `lexique/shem-fils-de-noach.md` — ne sont
+pas mortes. Elles sont référencées **uniquement depuis d'autres fiches**, et le
+balayage ne collecte les `[[Nom]]` que depuis les unités d'un livre. Même
+famille que l'invariant `unites(livre)` : un chemin de traversée qui ne voit
+pas une source. La question qui en découle est côté app, et lui a été posée :
+si une fiche rend ses `[[…]]` touchables, le lecteur a devant lui un lien qui
+ne mène nulle part.
