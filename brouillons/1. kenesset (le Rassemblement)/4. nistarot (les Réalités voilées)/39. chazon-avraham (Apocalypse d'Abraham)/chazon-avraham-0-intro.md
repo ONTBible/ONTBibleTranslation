@@ -52,6 +52,14 @@ Sa réponse est architecturale, non morale : il fut porté au-dessus du firmamen
 
 *Conséquence sur le niveau 3.* Aucun mot de ce livre ne nous parvient dans sa langue. ==Toute translittération hébraïque de ce livre est une restitution raisonnée==, jamais une lecture de manuscrit. Cela se tient avec rigueur : on restitue le terme quand la chaîne le donne, on s'abstient quand elle ne le donne pas. C'est une probité plus grande que celle d'une reconstruction, non moindre.
 
+*Sur quoi l'ONT travaille réellement, et il faut le dire.* Ce qui précède décrit la chaîne du ==texte== ; ce paragraphe décrit celle de ==notre accès==, et les deux ne se recouvrent pas. Aucun manuscrit slavon n'est transcrit en accès ouvert, et il n'existe à ce jour ==aucune édition du slavon lisible par machine==. L'ONT ne lit donc pas le slavon : il lit ==deux traductions savantes du domaine public==, faites l'une et l'autre sur les manuscrits, et ==indépendantes l'une de l'autre==. La chaîne complète, maillon par maillon :
+
+> un original ==hébreu== perdu → une version ==grecque== perdue → ==six manuscrits slavons== (le *Codex Sylvester*, XIVᵉ s., seul où le livre se tienne à part ; deux autres du XVIᵉ-XVIIᵉ ; trois qui n'en portent que des morceaux) → ==Tikhonravov, 1863==, qui les édite le premier → ==Bonwetsch, 1897== (allemand, avec l'apparat critique et les sigles des six témoins) et ==Box et Landsman, 1918== (anglais, sur le *Sylvester*, avec les variantes en note et les rétroversions hébraïques de l'éditeur) → ==l'ONT==.
+
+*Ce que cela coûte, et ce que cela permet.* Nous sommes à ==quatre maillons== du slavon et à six de l'hébreu, et il ne faut pas le maquiller. Trois choses le rendent tenable. D'abord, les deux éditions sont ==indépendantes== : ce sur quoi elles s'accordent n'est pas un artefact de traducteur. Ensuite, elles portent toutes deux ==l'apparat critique== — on sait donc, verset par verset, quel manuscrit dit quoi, et l'ONT restitue le témoin ancien en signalant l'écart plutôt qu'en harmonisant (§4.11). Enfin, l'éditeur anglais est ==hébraïsant de métier== et remonte lui-même, en note, les hébraïsmes qu'il reconnaît sous le slavon — *even merumah*, *bar 'ishta*, *asa etsah*, *la'avod* : ce ne sont pas nos conjectures, ce sont ==les siennes, vérifiables==.
+
+*La voie qui reste ouverte.* Des modèles de lecture automatique du slavon d'église existent aujourd'hui, entraînés sur des imprimés et des manuscrits des XIᵉ-XVIIᵉ siècles. Ils ne sont pas hors d'atteinte, et le jour où l'un d'eux passerait sur les planches de Tikhonravov ou de Bonwetsch, ==le maillon des traductions tomberait==. C'est un chantier réel, et il est nommé ici pour qu'il ne se perde pas.
+
 *Le filtre.* Le critère n'est pas la canonicité mais la *fidélité au réel* : un motif va au corps s'il est ancré dans un livre ONT déjà verrouillé ou corroboré par un témoin juif indépendant ; il va aux notes s'il est une trace isolée ; il est *écarté* s'il décrit un non-réel ou porte une catégorie contraire à ce que l'hébreu a saisi. Le filtre est *intra-scène* : on tranche au motif, jamais au chapitre entier.
 
 *Les trois niveaux et la division du travail.* Niveau 1 (corps, sa voix) : [[Avraham]] raconte ce qu'il a vu, directement, sans le théoriser. Niveau 2 (gloses, notre voix) : là seulement se déploient les termes recouvrés — le recouvrement est *notre* acte, pas le sien. Niveau 3 : (translittération / hébreu restitué). *Cette introduction portant le cadre, les gloses du corps restent légères ; l'apparat détaillé vit en notes de bas de section à la fin de chaque unité — il voyage donc avec le livre.*
@@ -140,7 +148,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 
 ## Sources à consulter
 
-- **Alexander Kulik, *Retroverting Slavonic Pseudepigrapha: Toward the Original of the Apocalypse of Abraham*** (SBL, 2004) — la référence centrale : elle fait le geste même de ce livre dans l'ONT, remonter du slavon vers l'hébreu.
+- Alexander Kulik, *Retroverting Slavonic Pseudepigrapha: Toward the Original of the Apocalypse of Abraham* (SBL, 2004) — ==la référence centrale== : elle fait le geste même de ce livre dans l'ONT, remonter du slavon vers l'hébreu.
 - Ryszard Rubinkiewicz, *L'Apocalypse d'Abraham en vieux slave* (Lublin, 1987) — édition critique ; analyse de l'interpolation.
 - G. H. Box & J. I. Landsman, *The Apocalypse of Abraham* (1918) — première traduction anglaise de référence ; datée, mais elle a posé le dossier.
 - R. Rubinkiewicz, dans Charlesworth, *The Old Testament Pseudepigrapha*, vol. 1.
