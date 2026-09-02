@@ -2350,11 +2350,45 @@ s'arrête net avec un message clair si on l'oublie — bon comportement. Et
 app/Resources/data`, réécrit les DTO Swift et rejoue `xcodegen`. Le binaire
 seul écrit dans `dist/`, qui est ignoré.
 
-**Un défaut réel relevé et transmis :** les deux fiches orphelines qui
-subsistent — `lexique/kasdim.md` et `lexique/shem-fils-de-noach.md` — ne sont
-pas mortes. Elles sont référencées **uniquement depuis d'autres fiches**, et le
-balayage ne collecte les `[[Nom]]` que depuis les unités d'un livre. Même
-famille que l'invariant `unites(livre)` : un chemin de traversée qui ne voit
-pas une source. La question qui en découle est côté app, et lui a été posée :
-si une fiche rend ses `[[…]]` touchables, le lecteur a devant lui un lien qui
-ne mène nulle part.
+**Et un défaut réel, trouvé en se faisant contredire.** J'avais avancé que le
+balayage ne collectait les `[[Nom]]` que depuis les unités d'un livre. La
+session app l'a **réfuté sur pièces** — les fiches produisent bien leurs nœuds
+de lien, et l'app les rend touchables. Elle a en même temps donné **la date de
+son propre corpus**, vieux de deux jours, plutôt que la conclusion sans elle :
+c'est ce qui m'a fait remesurer au lieu de conclure.
+
+Le vrai défaut est ailleurs, et il est plus large. Sur `dist/` fraîchement
+construit depuis `origin/dev` :
+
+    liens émis          corps de chapitre 4447   ·   fiches 2948
+    lemmes introuvables corps de chapitre  133   ·   fiches   88
+
+**Deux causes distinctes, et il faut les séparer parce que le remède diffère.**
+
+- **Une forme dérivée s'émet elle-même comme lemme.** `**gibborim**` sort en
+  `lemma: "gibborim"`, quand l'entrée s'appelle `gibbor` et déclare
+  `forms: [gibbor, gibborim, gibor]`. Le rapport dit « 0 mot d'or sans fiche »
+  parce que **lui** traverse `forms` ; le nœud livré, non. Et pour une partie
+  d'entre elles la traversée ne suffirait pas : `forms` garde le texte brut —
+  `mal'akhim`, `le'olam`, `kohen gadol` — tandis que `lemma` est passé par
+  `slugify`, qui **laisse tomber l'apostrophe sans séparateur**. `mal'akhim`
+  devient `malakhim`, qui n'est dans aucune liste de formes. Ces liens-là sont
+  morts quel que soit le consommateur : **25 occurrences pour le seul
+  `mal'akhim`, dans des corps de chapitre.**
+- **Une fiche citée seulement par d'autres fiches est écartée de l'index — et
+  les liens vers elle continuent d'être émis.** `shem-fils-de-noach` est visé
+  **37 fois** et `kasdim` **6 fois** depuis d'autres fiches ; ni l'un ni l'autre
+  n'entre dans `shemot.json`. C'était bien un chemin de traversée qui ne voit
+  pas une source, mais ce n'est pas celui que j'avais nommé : ce n'est pas le
+  *rendu* qui rate les fiches, c'est le **critère d'inclusion**.
+
+**Pour les trois dépôts :** un rapport qui rend `0` peut être exact et
+n'attester de rien pour le lecteur, parce qu'il **normalise autrement que le
+consommateur**. Le rapport résout la forme dérivée ; le fichier livré ne la
+résout pas. La mesure qui compte n'est pas « le contrôle passe » mais
+**« chaque lien émis retombe-t-il sur une entrée du même fichier »** — et elle
+se fait sur `dist/`, pas sur le rapport.
+
+Corollaire de méthode, gagné en se trompant : **une hypothèse réfutée par un
+pair est le meilleur moment pour remesurer**, pas pour clore. La réfutation
+était juste et le défaut existait quand même — deux étages plus bas.
