@@ -2,8 +2,9 @@
 
 """Ce que le développement laisse derrière lui, mesuré puis rendu.
 
-    ./scripts/recuperer-de-l-espace.py              relève, ne touche à rien
-    ./scripts/recuperer-de-l-espace.py --nettoyer   rend l'espace des postes sûrs
+    ./scripts/recuperer-de-l-espace.py                     relève, ne touche à rien
+    ./scripts/recuperer-de-l-espace.py --nettoyer          rend l'espace des postes sûrs
+    ./scripts/recuperer-de-l-espace.py --nettoyer --tout   inclut ce qui coûte aux autres
 
 ## Pourquoi cet outil existe
 
@@ -87,13 +88,52 @@ def _poids(chemin: Path) -> int:
     return total
 
 
+def _miroirs(dev: Path) -> tuple[list[Path], list[Path]]:
+    """Les miroirs CoreDevice, séparés : simulateurs d'un côté, appareils de l'autre.
+
+    Ils ne coûtent pas la même chose. Le miroir d'un simulateur se refait seul
+    à la prochaine installation d'app ; celui d'un appareil physique se
+    reconstruit par une **resynchronisation complète** au prochain branchement
+    — des minutes, câble branché, au moment précis où l'on voulait déboguer.
+
+    La date de modification ne les sépare pas : un simulateur est touché à
+    chaque compilation, un appareil physique seulement quand on le branche —
+    trier par ancienneté épargnerait le miroir qui ne coûte rien. Le disque,
+    lui, tranche : un simulateur existe comme dossier sous
+    `CoreSimulator/Devices`, un appareil physique n'y paraît jamais. Éprouvé
+    sur un cas dont on connaît la réponse : les trois simulateurs que
+    `simctl list` nomme classent tous « simulateur ».
+
+    Le critère a un cas limite, et il est du bon côté : le miroir d'un
+    simulateur *supprimé* de CoreSimulator n'a plus de dossier là-bas, donc il
+    classe « appareil » et reste épargné — quelques gigaoctets gardés en trop.
+    La faute inverse — supprimer un appareil physique — coûterait la
+    resynchronisation. L'outil efface : il doit échouer vers la prudence.
+    Ce n'est pas un défaut à corriger.
+    """
+    simulateurs = dev / "CoreSimulator/Devices"
+    sims: list[Path] = []
+    physiques: list[Path] = []
+    for miroir in sorted((dev / "CoreDevice/DeviceFS").glob("device-*")):
+        udid = miroir.name.removeprefix("device-").removesuffix(".localized")
+        (sims if (simulateurs / udid).is_dir() else physiques).append(miroir)
+    return sims, physiques
+
+
 def postes() -> list[Poste]:
     dev = MAISON / "Library/Developer"
+    sims, physiques = _miroirs(dev)
     return [
         Poste(
-            "CoreDevice — miroir des simulateurs",
-            list((dev / "CoreDevice/DeviceFS").glob("device-*")),
+            "CoreDevice — miroirs des simulateurs",
+            sims,
             "rien : Xcode le refait à la prochaine installation",
+        ),
+        Poste(
+            "CoreDevice — miroirs des appareils physiques",
+            physiques,
+            "une resynchronisation complète au prochain branchement de l'appareil",
+            sur=False,
         ),
         Poste(
             "DerivedData égarés dans /tmp",
@@ -101,10 +141,16 @@ def postes() -> list[Poste]:
             + sorted(Path("/private/tmp").glob("ont-*-dd")),
             "une recompilation à la session qui l'employait",
         ),
+        # `Xcode/DerivedData`, et non `DerivedData` : seul le premier existe.
+        # Le poste mesurait un dossier absent — treize gigaoctets relevés zéro,
+        # sans un message. Et `sur=False` vient avec la correction : mesurer
+        # juste rendait le poste dangereux, c'est le DerivedData vivant de
+        # toutes les sessions iOS.
         Poste(
             "DerivedData d'Xcode",
-            [dev / "DerivedData"],
+            [dev / "Xcode/DerivedData"],
             "une recompilation complète à chaque session iOS",
+            sur=False,
         ),
         Poste(
             "Symboles d'appareils physiques",
@@ -152,7 +198,8 @@ def main() -> int:
     parseur.add_argument(
         "--tout",
         action="store_true",
-        help="inclure les postes qui coûtent une recompilation aux autres sessions",
+        help="inclure les postes qui coûtent une recompilation ou une "
+        "resynchronisation aux autres sessions",
     )
     args = parseur.parse_args()
 
@@ -160,22 +207,38 @@ def main() -> int:
 
     liste = postes()
     total = 0
+    differe = 0
     for p in liste:
         t = p.taille()
         total += t
+        if not p.sur:
+            differe += t
         if t == 0:
             continue
-        print(f"  {humain(t):>10}   {p.nom}")
+        retenue = "" if p.sur or args.tout else "   — épargné sans --tout"
+        print(f"  {humain(t):>10}   {p.nom}{retenue}")
         print(f"               coûte : {p.cout}")
 
     if total == 0:
         print("  Rien à rendre — les caches connus sont déjà vides.\n")
         return 0
 
-    print(f"\n  {humain(total):>10}   au total\n")
+    # Deux chiffres, parce qu'ils ne promettent pas la même chose : le relevé
+    # complet, et ce que `--nettoyer` rendra vraiment. Annoncer le premier pour
+    # le second, c'est promettre un espace que la suppression ne rendra pas —
+    # le défaut exact que `_poids` corrige déjà pour les blocs APFS.
+    vise = total if args.tout else total - differe
+    if vise != total:
+        print(f"\n  {humain(total):>10}   au total, dont {humain(vise)} que --nettoyer rendrait\n")
+    else:
+        print(f"\n  {humain(total):>10}   au total\n")
 
     if not args.nettoyer:
         print("  Relevé seulement. Ajouter --nettoyer pour rendre l'espace.\n")
+        return 0
+
+    if vise == 0:
+        print("  Rien à rendre sans --tout — chaque poste restant coûte à une session.\n")
         return 0
 
     # **Refuser plutôt que casser le travail d'un autre.**
@@ -223,8 +286,8 @@ def main() -> int:
     # L'écart entre le relevé et le rendu n'est pas une erreur : APFS partage
     # des blocs entre fichiers clonés, et un même bloc compté deux fois ne se
     # libère qu'une. On le dit plutôt que de laisser croire à un défaut.
-    if rendu < total * 0.9:
-        print(f"  Note : {humain(total)} relevés, {humain(rendu)} rendus.")
+    if rendu < vise * 0.9:
+        print(f"  Note : {humain(vise)} visés, {humain(rendu)} rendus.")
         print("  APFS partage des blocs entre fichiers clonés — l'écart est normal.\n")
     return 0
 
