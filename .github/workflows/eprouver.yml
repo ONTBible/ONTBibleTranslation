@@ -82,6 +82,34 @@ jobs:
       # défaut est resté invisible parce que les premières fiches arrivaient
       # avec une modification de `CLAUDE.md`, qui déclenchait à leur place.
       #
+      # **Un fichier engendré qu'on ne réengendre pas est un fichier faux.**
+      #
+      # `DECISIONS.md` est une table de renvois vers les endroits où les
+      # décisions du projet sont écrites. Il n'en copie aucune — c'est la règle
+      # du §2.5 ter, une seule source par fait — mais ses numéros de ligne, eux,
+      # périment dès qu'on écrit une phrase au-dessus.
+      #
+      # Un index périmé est pire qu'une absence d'index : il envoie chercher une
+      # décision à un endroit où elle n'est plus, et celui qui ne la trouve pas
+      # conclut qu'elle n'a pas été prise. C'est exactement le coût qu'il devait
+      # supprimer.
+      #
+      # Le contrôle ne le régénère pas à la place de l'auteur : il **échoue**,
+      # et dit la commande. Régénérer en silence dans la CI ferait diverger le
+      # dépôt de ce qui a été relu.
+      - name: L'index des décisions est à jour
+        run: |
+          cd ONTBibleTranslation
+          cp DECISIONS.md /tmp/decisions-commise.md
+          python3 scripts/decisions.py --ecrire
+          if ! diff -q /tmp/decisions-commise.md DECISIONS.md > /dev/null; then
+            echo "::error::DECISIONS.md ne correspond plus au vault."
+            echo "Relancer : python3 scripts/decisions.py --ecrire, puis commiter."
+            diff /tmp/decisions-commise.md DECISIONS.md | head -40
+            exit 1
+          fi
+          echo "index à jour"
+
       # Une valeur recopiée qu'aucun contrôle ne rapproche de sa source finit
       # toujours par diverger. Ce pas la rapproche.
       - name: La propagation suit ce que le pipeline lit
