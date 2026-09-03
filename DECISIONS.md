@@ -124,7 +124,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 62 leçons du journal
+## Les 65 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -190,6 +190,9 @@ se découvre pas le jour où l'ordre de lecture changera.
 - 2 septembre 2026 — un texte écrit sur son plan, et non sur sa source
 - 2 septembre 2026 — le pipeline d'un arbre périmé rend un rapport faux
 - 2 septembre 2026 — faire taire le `fetch` dont dépend toute la conclusion
+- 3 septembre 2026 — un rapport qui rend `0` en normalisant autrement que le lecteur
+- 3 septembre 2026 — le contrôle qu'on éprouve, et les 206 qui n'existaient pas
+- 3 septembre 2026 — une table de renvois, et pourquoi elle n'est pas un document de plus
 
 ---
 
