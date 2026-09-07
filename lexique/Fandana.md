@@ -1,0 +1,27 @@
+# Fandana
+
+## D'où viennent les marchands
+
+Un enfant conduit un âne chargé de cinq dieux vers l'auberge, pour les vendre. Sur la route, il croise des marchands venus de ==Fandana== en [[Aram]], avec des chameaux, qui descendent vers [[Mitsrayim]] pour commercer.
+
+Ce sont eux qui achèteront les débris.
+
+## Probablement Paddan-Aram, et pourquoi on ne le remplace pas
+
+L'éditeur du livre le note : ==Fandana== recouvre selon toute vraisemblance *Paddan-Aram* — la « plaine d'Aram » de *Bereshit* 25:20 —, le pays de la parenté d'[[Avraham]], celui d'où viendra l'épouse de [[Yitshaq]], et où son petit-fils servira quatorze ans.
+
+L'ONT garde pourtant la forme du témoin. La raison est de méthode : ==signaler une identification n'est pas l'imposer==. Remplacer le nom donnerait au lecteur une certitude que la chaîne ne porte pas — six manuscrits slavons, deux traductions savantes, et un éditeur qui écrit « probablement ».
+
+## Ce que la route dit du récit
+
+Elle n'est pas décorative. C'est ==la route des caravanes==, celle que descendront les marchands d'épices auxquels un homme sera vendu par ses propres frères (*Bereshit* 37:25).
+
+Le livre ne place donc pas sa scène dans un ailleurs mythique : il la met sur une route qui existe, à l'heure où des bêtes chargées la remontent. Et c'est un chameau de cette caravane qui, en criant, fera fuir l'âne et briser trois dieux.
+
+## Ce que la fiche porte, et ce qui reste à venir
+
+Elle repose sur le chapitre II du *Chazon Avraham* et sur la note de son éditeur. Le jour où *Bereshit* 25 sera écrit, l'identification à *Paddan-Aram* pourra être reprise depuis le corpus lui-même.
+
+## Voir aussi
+
+[[Aram]], le pays. [[Mitsrayim]], où va la caravane. [[Gur]], le fleuve où finissent les débris.
