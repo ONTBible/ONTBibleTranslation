@@ -92,6 +92,53 @@ def main() -> int:
             plainte(f"{cle} : une lacune est déclarée sans dire ce que la "
                     f"numérotation en fait — un renvoi peut tomber à côté")
 
+        # ── L'apparat, quand la source en déclare un ──────────────────────
+        #
+        # Sans ce contrôle, ces fichiers ne seraient lus par personne : ils ne
+        # figurent pas dans `livres`, donc la boucle principale les ignore. Un
+        # fichier que rien ne vérifie est un fichier qui pourrit.
+        if app := meta.get("apparat"):
+            declarees = set(app.get("editions", []))
+            if not declarees:
+                plainte(f"{cle} : apparat déclaré sans liste d'éditions")
+            for garde in ("avertissement", "licence"):
+                if not app.get(garde):
+                    plainte(f"{cle} : apparat sans {garde}")
+            vues, entrees = set(), 0
+            for f in sorted((SOURCES / cle).glob("*-apparat.jsonl")):
+                for n, ligne in enumerate(
+                    f.read_text(encoding="utf-8").splitlines(), 1
+                ):
+                    if not ligne.strip():
+                        continue
+                    try:
+                        e = json.loads(ligne)
+                    except json.JSONDecodeError as err:
+                        plainte(f"{f.name}:{n} : JSON illisible — {err}")
+                        break
+                    entrees += 1
+                    vues.update(e.get("editions", []))
+                    vues.update(e.get("crochets", []))
+                    for v in e.get("variantes", []):
+                        vues.update(v.get("editions", []))
+                        vues.update(v.get("crochets", []))
+                        # Une variante sans aucune édition est le signe d'un
+                        # sigle non reconnu par le lecteur amont — le défaut
+                        # qui a produit 39 entrées muettes à la première passe.
+                        if not v.get("editions") and not v.get("crochets"):
+                            plainte(f"{f.name}:{n} : variante sans édition — "
+                                    f"un sigle a échappé au découpage")
+                    if any(c.isascii() and c.isalpha() for c in e.get("lecon", "")):
+                        plainte(f"{f.name}:{n} : la leçon porte du latin — "
+                                f"« {e['lecon'][:40]} » ; un sigle n'a pas été "
+                                f"détaché")
+            if entrees != app.get("entrees"):
+                plainte(f"{cle} : apparat — {entrees} entrées sur le disque, "
+                        f"{app.get('entrees')} au manifeste")
+            if inconnues := vues - declarees:
+                plainte(f"{cle} : apparat — éditions citées mais non déclarées "
+                        f"au manifeste : {sorted(inconnues)}")
+
         attendus, ilot, champs_ilot = CHAMPS.get(cle, (None, None, set()))
         if attendus is None:
             plainte(f"{cle} : source inconnue de l'épreuve")

@@ -1,0 +1,229 @@
+{"ref":"Ro.1.1","c":1,"v":1,"lecon":"Χριστοῦ Ἰησοῦ","editions":["Treg","NA28"],"variantes":[{"t":"Ἰησοῦ Χριστοῦ","editions":["WH","RP"]}]}
+{"ref":"Ro.1.8","c":1,"v":8,"lecon":"περὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑπὲρ","editions":["RP"]}]}
+{"ref":"Ro.1.16","c":1,"v":16,"lecon":"εὐαγγέλιον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ χριστοῦ","editions":["RP"]}]}
+{"ref":"Ro.1.19","c":1,"v":19,"lecon":"θεὸς γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"γὰρ θεὸς","editions":["RP"]}]}
+{"ref":"Ro.1.24","c":1,"v":24,"lecon":"Διὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.1.24","c":1,"v":24,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἑαυτοῖς","editions":["RP"]}]}
+{"ref":"Ro.1.27","c":1,"v":27,"lecon":"ἑαυτοῖς","editions":["Treg","NA28","RP"],"variantes":[{"t":"αὑτοῖς","editions":["WH"]}]}
+{"ref":"Ro.1.29","c":1,"v":29,"lecon":"ἀδικίᾳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ πορνείᾳ","editions":["RP"]}]}
+{"ref":"Ro.1.31","c":1,"v":31,"lecon":"ἀστόργους","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἀσπόνδους","editions":["RP"]}]}
+{"ref":"Ro.2.5","c":2,"v":5,"lecon":"ἀποκαλύψεως","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.2.8","c":2,"v":8,"lecon":"ἀπειθοῦσι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μὲν","editions":["RP"]}]}
+{"ref":"Ro.2.8","c":2,"v":8,"lecon":"ὀργὴ καὶ θυμός","editions":["WH","Treg","NA28"],"variantes":[{"t":"θυμὸς καὶ ὀργή","editions":["RP"]}]}
+{"ref":"Ro.2.13","c":2,"v":13,"lecon":"⸀νόμου","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦ νόμου","editions":["RP"]}]}
+{"ref":"Ro.2.13","c":2,"v":13,"lecon":"τῷ","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Ro.2.13","c":2,"v":13,"lecon":"⸁νόμου","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦ νόμου","editions":["RP"]}]}
+{"ref":"Ro.2.14","c":2,"v":14,"lecon":"ποιῶσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ποιῇ","editions":["RP"]}]}
+{"ref":"Ro.2.16","c":2,"v":16,"lecon":"ἡμέρᾳ ὅτε","editions":["Treg","NA28","RP"],"variantes":[{"t":"ᾗ ἡμέρᾳ","editions":["WH"]}]}
+{"ref":"Ro.2.16","c":2,"v":16,"lecon":"κρίνει","editions":["WH","NA28"],"variantes":[{"t":"κρινεῖ","editions":["Treg","RP"]}]}
+{"ref":"Ro.2.16","c":2,"v":16,"lecon":"Χριστοῦ Ἰησοῦ","editions":["WH","NA28"],"variantes":[{"t":"Ἰησοῦ Χριστοῦ","editions":["Treg","NIV","RP"]}]}
+{"ref":"Ro.2.17","c":2,"v":17,"lecon":"Εἰ δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἴδε","editions":["RP"]}]}
+{"ref":"Ro.2.17","c":2,"v":17,"lecon":"νόμῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῷ νόμῳ","editions":["RP"]}]}
+{"ref":"Ro.2.26","c":2,"v":26,"lecon":"οὐχ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐχὶ","editions":["RP"]}]}
+{"ref":"Ro.3.2","c":3,"v":2,"lecon":"γὰρ","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Ro.3.4","c":3,"v":4,"lecon":"καθὼς","editions":["NA28","RP"],"variantes":[{"t":"καθάπερ","editions":["WH","Treg"]}]}
+{"ref":"Ro.3.4","c":3,"v":4,"lecon":"νικήσεις","editions":["WH","NA28"],"variantes":[{"t":"νικήσῃς","editions":["Treg","RP"]}]}
+{"ref":"Ro.3.7","c":3,"v":7,"lecon":"δὲ","editions":["WH","NA28"],"variantes":[{"t":"γὰρ","editions":["Treg","RP"]}]}
+{"ref":"Ro.3.11","c":3,"v":11,"lecon":"⸀ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Ro.3.11","c":3,"v":11,"lecon":"⸁ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Ro.3.12","c":3,"v":12,"lecon":"ἔστιν","editions":["WH","Treg","RP"],"variantes":[{"t":"+ ὁ","editions":["NA28"]}]}
+{"ref":"Ro.3.22","c":3,"v":22,"lecon":"πάντας","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἐπὶ πάντας","editions":["RP"]}]}
+{"ref":"Ro.3.25","c":3,"v":25,"lecon":"διὰ","editions":["WH","Treg"],"variantes":[{"t":"+ τῆς","editions":["NA28","RP"]}]}
+{"ref":"Ro.3.26","c":3,"v":26,"lecon":"τὴν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.3.28","c":3,"v":28,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὖν","editions":["RP"]}]}
+{"ref":"Ro.3.28","c":3,"v":28,"lecon":"δικαιοῦσθαι πίστει","editions":["WH","Treg","NA28"],"variantes":[{"t":"πίστει δικαιοῦσθαι","editions":["RP"]}]}
+{"ref":"Ro.3.29","c":3,"v":29,"lecon":"οὐχὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Ro.3.30","c":3,"v":30,"lecon":"εἴπερ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπείπερ","editions":["RP"]}]}
+{"ref":"Ro.3.31","c":3,"v":31,"lecon":"ἱστάνομεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἱστῶμεν","editions":["RP"]}]}
+{"ref":"Ro.4.1","c":4,"v":1,"lecon":"εὑρηκέναι","editions":["Treg","NA28"],"variantes":[{"t":"–","editions":["WH","RP"]}]}
+{"ref":"Ro.4.1","c":4,"v":1,"lecon":"προπάτορα","editions":["WH","Treg","NA28"],"variantes":[{"t":"πατέρα","editions":["RP"]}]}
+{"ref":"Ro.4.1","c":4,"v":1,"lecon":"ἡμῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ εὑρηκέναι","editions":["RP"]}]}
+{"ref":"Ro.4.2","c":4,"v":2,"lecon":"πρὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὸν","editions":["RP"]}]}
+{"ref":"Ro.4.8","c":4,"v":8,"lecon":"οὗ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ᾧ","editions":["RP"]}]}
+{"ref":"Ro.4.9","c":4,"v":9,"lecon":"γάρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὅτι","editions":["RP"]}]}
+{"ref":"Ro.4.11","c":4,"v":11,"lecon":"λογισθῆναι","editions":["WH","Treg","NIV"],"variantes":[{"t":"+ καὶ","editions":["RP","NA28"]}]}
+{"ref":"Ro.4.12","c":4,"v":12,"lecon":"ἐν ἀκροβυστίᾳ πίστεως","editions":["WH","Treg","NA28"],"variantes":[{"t":"πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ","editions":["RP"]}]}
+{"ref":"Ro.4.13","c":4,"v":13,"lecon":"εἶναι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ","editions":["RP"]}]}
+{"ref":"Ro.4.15","c":4,"v":15,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"γὰρ","editions":["RP"]}]}
+{"ref":"Ro.4.19","c":4,"v":19,"lecon":"πίστει","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὐ","editions":["RP"]}]}
+{"ref":"Ro.4.19","c":4,"v":19,"lecon":"σῶμα","editions":["Holmes","WHmarg"],"variantes":[{"t":"+ ἤδη","editions":["WH","Treg","NA28","RP"]}]}
+{"ref":"Ro.4.22","c":4,"v":22,"lecon":"διὸ","editions":["Holmes","WHmarg"],"variantes":[{"t":"+ καὶ","editions":["WH","Treg","NA28","RP"]}]}
+{"ref":"Ro.5.1","c":5,"v":1,"lecon":"ἔχομεν","editions":["NA28","RP"],"variantes":[{"t":"ἔχωμεν","editions":["WH","Treg"]}]}
+{"ref":"Ro.5.3","c":5,"v":3,"lecon":"καυχώμεθα","editions":["WH","NA28","RP"],"variantes":[{"t":"καυχώμενοι","editions":["Treg"]}]}
+{"ref":"Ro.5.6","c":5,"v":6,"lecon":"Ἔτι γὰρ","editions":["Treg","NA28","RP"],"variantes":[{"t":"Εἴ γε","editions":["WH"]}]}
+{"ref":"Ro.5.6","c":5,"v":6,"lecon":"ἔτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.6.1","c":6,"v":1,"lecon":"ἐπιμένωμεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἐπιμένομεν","editions":["RP"]}]}
+{"ref":"Ro.6.11","c":6,"v":11,"lecon":"εἶναι νεκροὺς μὲν","editions":["WH","Treg","NA28"],"variantes":[{"t":"νεκροὺς μὲν εἶναι","editions":["RP"]},{"t":"νεκροὺς μὲν","editions":["NIV"]}]}
+{"ref":"Ro.6.11","c":6,"v":11,"lecon":"Ἰησοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τῷ κυρίῳ ἡμῶν","editions":["RP"]}]}
+{"ref":"Ro.6.12","c":6,"v":12,"lecon":"ὑπακούειν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτῇ ἐν","editions":["RP"]}]}
+{"ref":"Ro.6.13","c":6,"v":13,"lecon":"ὡσεὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὡς","editions":["RP"]}]}
+{"ref":"Ro.6.15","c":6,"v":15,"lecon":"ἁμαρτήσωμεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἁμαρτήσομεν","editions":["RP"]}]}
+{"ref":"Ro.7.13","c":7,"v":13,"lecon":"ἐγένετο","editions":["WH","Treg","NA28"],"variantes":[{"t":"γέγονεν","editions":["RP"]}]}
+{"ref":"Ro.7.14","c":7,"v":14,"lecon":"σάρκινός","editions":["WH","Treg","NA28"],"variantes":[{"t":"σαρκικός","editions":["RP"]}]}
+{"ref":"Ro.7.17","c":7,"v":17,"lecon":"οἰκοῦσα","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἐνοικοῦσα","editions":["WH"]}]}
+{"ref":"Ro.7.18","c":7,"v":18,"lecon":"οὔ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὐχ εὑρίσκω","editions":["RP"]}]}
+{"ref":"Ro.7.20","c":7,"v":20,"lecon":"θέλω","editions":["WH","Treg"],"variantes":[{"t":"+ ἐγώ","editions":["NA28","RP"]}]}
+{"ref":"Ro.7.23","c":7,"v":23,"lecon":"ἐν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.7.25","c":7,"v":25,"lecon":"χάρις","editions":["Treg"],"variantes":[{"t":"χάρις δὲ","editions":["WH","NA28"]},{"t":"εὐχαριστῶ","editions":["RP"]}]}
+{"ref":"Ro.8.1","c":8,"v":1,"lecon":"Ἰησοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα","editions":["RP"]}]}
+{"ref":"Ro.8.2","c":8,"v":2,"lecon":"σε","editions":["WH","NA28"],"variantes":[{"t":"με","editions":["Treg","NIV","RP"]}]}
+{"ref":"Ro.8.11","c":8,"v":11,"lecon":"τὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.8.11","c":8,"v":11,"lecon":"ἐκ νεκρῶν Χριστὸν Ἰησοῦν","editions":["WH"],"variantes":[{"t":"χριστὸν ἐκ νεκρῶν","editions":["Treg","NA28"]},{"t":"τὸν χριστὸν ἐκ νεκρῶν","editions":["RP"]}]}
+{"ref":"Ro.8.11","c":8,"v":11,"lecon":"τὸ ἐνοικοῦν αὐτοῦ πνεῦμα","editions":["Treg","RP"],"variantes":[{"t":"τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος","editions":["WH","NA28"]}]}
+{"ref":"Ro.8.14","c":8,"v":14,"lecon":"υἱοί εἰσιν θεοῦ","editions":["Treg"],"variantes":[{"t":"υἱοὶ θεοῦ εἰσιν","editions":["WH","NA28"]},{"t":"εἰσιν υἱοὶ θεοῦ","editions":["RP"]}]}
+{"ref":"Ro.8.20","c":8,"v":20,"lecon":"ἐφʼ","editions":["WH","NA28"],"variantes":[{"t":"ἐπʼ","editions":["RP","Treg"]}]}
+{"ref":"Ro.8.23","c":8,"v":23,"lecon":"καὶ αὐτοὶ","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Ro.8.23","c":8,"v":23,"lecon":"ἡμεῖς καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἡμεῖς","editions":["RP"]}]}
+{"ref":"Ro.8.24","c":8,"v":24,"lecon":"τίς","editions":["WH","NA28"],"variantes":[{"t":"+ τί","editions":["Treg"]},{"t":"+ τί καὶ","editions":["RP"]}]}
+{"ref":"Ro.8.26","c":8,"v":26,"lecon":"τῇ ἀσθενείᾳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ταῖς ἀσθενείαις","editions":["RP"]}]}
+{"ref":"Ro.8.26","c":8,"v":26,"lecon":"προσευξώμεθα","editions":["WH","Treg","NA28"],"variantes":[{"t":"προσευξόμεθα","editions":["RP"]}]}
+{"ref":"Ro.8.26","c":8,"v":26,"lecon":"ὑπερεντυγχάνει","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὑπὲρ ἡμῶν","editions":["RP"]}]}
+{"ref":"Ro.8.28","c":8,"v":28,"lecon":"συνεργεῖ","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ ὁ θεὸς","editions":["WH"]}]}
+{"ref":"Ro.8.34","c":8,"v":34,"lecon":"κατακρινῶν","editions":["WH","NA28"],"variantes":[{"t":"κατακρίνων","editions":["Treg","RP"]}]}
+{"ref":"Ro.8.34","c":8,"v":34,"lecon":"Χριστὸς","editions":["Treg","RP"],"variantes":[{"t":"+ Ἰησοῦς","editions":["WH","NA28"]}]}
+{"ref":"Ro.8.34","c":8,"v":34,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.8.34","c":8,"v":34,"lecon":"ἐγερθείς","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ ἐκ νεκρῶν","editions":["WH"]}]}
+{"ref":"Ro.8.34","c":8,"v":34,"lecon":"καί","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Ro.8.38","c":8,"v":38,"lecon":"ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις","editions":["WH","Treg","NA28"],"variantes":[{"t":"δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα","editions":["RP"]}]}
+{"ref":"Ro.9.3","c":9,"v":3,"lecon":"ἀνάθεμα εἶναι αὐτὸς ἐγὼ","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτὸς ἐγὼ ἀνάθεμα εἶναι","editions":["RP"]}]}
+{"ref":"Ro.9.11","c":9,"v":11,"lecon":"φαῦλον","editions":["WH","Treg","NA28"],"variantes":[{"t":"κακόν","editions":["RP"]}]}
+{"ref":"Ro.9.13","c":9,"v":13,"lecon":"καθὼς","editions":["Treg","NA28","RP"],"variantes":[{"t":"καθάπερ","editions":["WH"]}]}
+{"ref":"Ro.9.15","c":9,"v":15,"lecon":"Μωϋσεῖ γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"γὰρ Μωϋσεῖ","editions":["RP"]}]}
+{"ref":"Ro.9.19","c":9,"v":19,"lecon":"μοι οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὖν μοι","editions":["RP"]}]}
+{"ref":"Ro.9.19","c":9,"v":19,"lecon":"οὖν","editions":["NA28"],"variantes":[{"t":"–","editions":["WH","Treg","RP"]}]}
+{"ref":"Ro.9.20","c":9,"v":20,"lecon":"ὦ ἄνθρωπε μενοῦνγε","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μενοῦνγε ὦ ἄνθρωπε","editions":["RP"]}]}
+{"ref":"Ro.9.23","c":9,"v":23,"lecon":"καὶ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Ro.9.26","c":9,"v":26,"lecon":"αὐτοῖς","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Ro.9.27","c":9,"v":27,"lecon":"ὑπόλειμμα","editions":["WH","Treg","NA28"],"variantes":[{"t":"κατάλειμμα","editions":["RP"]}]}
+{"ref":"Ro.9.28","c":9,"v":28,"lecon":"συντέμνων","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐν δικαιοσύνῃ ὅτι λόγον συντετμημένον","editions":["RP"]}]}
+{"ref":"Ro.9.31","c":9,"v":31,"lecon":"νόμον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δικαιοσύνης","editions":["RP"]}]}
+{"ref":"Ro.9.32","c":9,"v":32,"lecon":"ἔργων","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ νόμου","editions":["RP"]}]}
+{"ref":"Ro.9.32","c":9,"v":32,"lecon":"προσέκοψαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ γὰρ","editions":["RP"]}]}
+{"ref":"Ro.9.33","c":9,"v":33,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ πᾶς","editions":["RP"]}]}
+{"ref":"Ro.10.1","c":10,"v":1,"lecon":"δέησις","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἡ","editions":["RP"]}]}
+{"ref":"Ro.10.1","c":10,"v":1,"lecon":"αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦ Ἰσραήλ ἐστιν","editions":["RP"]}]}
+{"ref":"Ro.10.3","c":10,"v":3,"lecon":"ἰδίαν","editions":["WH","Treg"],"variantes":[{"t":"+ δικαιοσύνην","editions":["NA28","RP"]}]}
+{"ref":"Ro.10.5","c":10,"v":5,"lecon":"ὅτι τὴν … νόμου","editions":["WH"],"variantes":[{"t":"τὴν … νόμου ὅτι","editions":["Treg","NA28","RP"]}]}
+{"ref":"Ro.10.5","c":10,"v":5,"lecon":"τοῦ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Ro.10.5","c":10,"v":5,"lecon":"ποιήσας","editions":["WH"],"variantes":[{"t":"+ αὐτὰ","editions":["Treg","NA28","RP"]}]}
+{"ref":"Ro.10.5","c":10,"v":5,"lecon":"αὐτῇ","editions":["WH","Treg"],"variantes":[{"t":"αὐτοῖς","editions":["NA28","RP"]}]}
+{"ref":"Ro.10.9","c":10,"v":9,"lecon":"ὁμολογήσῃς","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ τὸ ῥῆμα","editions":["WH"]}]}
+{"ref":"Ro.10.9","c":10,"v":9,"lecon":"σου","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ ὅτι","editions":["WH"]}]}
+{"ref":"Ro.10.14","c":10,"v":14,"lecon":"ἐπικαλέσωνται","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπικαλέσονται","editions":["RP"]}]}
+{"ref":"Ro.10.14","c":10,"v":14,"lecon":"πιστεύσωσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσουσιν","editions":["RP"]}]}
+{"ref":"Ro.10.14","c":10,"v":14,"lecon":"ἀκούσωσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκούσουσιν","editions":["RP"]}]}
+{"ref":"Ro.10.15","c":10,"v":15,"lecon":"κηρύξωσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"κηρύξουσιν","editions":["RP"]}]}
+{"ref":"Ro.10.15","c":10,"v":15,"lecon":"καθὼς","editions":["Treg","NA28","RP"],"variantes":[{"t":"καθάπερ","editions":["WH"]}]}
+{"ref":"Ro.10.15","c":10,"v":15,"lecon":"εὐαγγελιζομένων","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ εἰρήνην τῶν εὐαγγελιζομένων","editions":["RP"]}]}
+{"ref":"Ro.10.15","c":10,"v":15,"lecon":"τὰ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Ro.10.17","c":10,"v":17,"lecon":"Χριστοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"θεοῦ","editions":["RP"]}]}
+{"ref":"Ro.10.19","c":10,"v":19,"lecon":"Ἰσραὴλ οὐκ ἔγνω","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐκ ἔγνω Ἰσραὴλ","editions":["RP"]}]}
+{"ref":"Ro.10.20","c":10,"v":20,"lecon":"ἐν","editions":["Treg","NA28"],"variantes":[{"t":"–","editions":["WH","RP"]}]}
+{"ref":"Ro.10.20","c":10,"v":20,"lecon":"ἐγενόμην","editions":["WH","NA28","RP"],"variantes":[{"t":"+ ἐν","editions":["Treg"]}]}
+{"ref":"Ro.11.2","c":11,"v":2,"lecon":"Ἰσραήλ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ λέγων","editions":["RP"]}]}
+{"ref":"Ro.11.3","c":11,"v":3,"lecon":"τὰ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ τὰ","editions":["RP"]}]}
+{"ref":"Ro.11.6","c":11,"v":6,"lecon":"χάρις","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ Εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστὶν ἔργον","editions":["RP"]}]}
+{"ref":"Ro.11.8","c":11,"v":8,"lecon":"καθὼς","editions":["NA28","RP"],"variantes":[{"t":"καθάπερ","editions":["WH","Treg"]}]}
+{"ref":"Ro.11.13","c":11,"v":13,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"γὰρ","editions":["RP"]}]}
+{"ref":"Ro.11.13","c":11,"v":13,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.11.17","c":11,"v":17,"lecon":"ῥίζης","editions":["WH","NA28"],"variantes":[{"t":"+ καὶ","editions":["Treg","RP"]}]}
+{"ref":"Ro.11.20","c":11,"v":20,"lecon":"ὑψηλὰ φρόνει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑψηλοφρόνει","editions":["RP"]}]}
+{"ref":"Ro.11.21","c":11,"v":21,"lecon":"οὐδὲ","editions":["WH","Treg","NIV"],"variantes":[{"t":"μήπως οὐδέ","editions":["RP","NA28"]}]}
+{"ref":"Ro.11.22","c":11,"v":22,"lecon":"ἀποτομία","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀποτομίαν","editions":["RP"]}]}
+{"ref":"Ro.11.22","c":11,"v":22,"lecon":"χρηστότης θεοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"χρηστότητα","editions":["RP"]}]}
+{"ref":"Ro.11.22","c":11,"v":22,"lecon":"ἐπιμένῃς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπιμείνῃς","editions":["RP"]}]}
+{"ref":"Ro.11.23","c":11,"v":23,"lecon":"ἐπιμένωσι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπιμείνωσιν","editions":["RP"]}]}
+{"ref":"Ro.11.23","c":11,"v":23,"lecon":"ἐστιν ὁ θεὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ θεὸς ἐστιν","editions":["RP"]}]}
+{"ref":"Ro.11.25","c":11,"v":25,"lecon":"ἦτε","editions":["Holmes"],"variantes":[{"t":"+ ἐν","editions":["WH","Treg"]},{"t":"+ παρʼ","editions":["NA28","RP"]}]}
+{"ref":"Ro.11.26","c":11,"v":26,"lecon":"ῥυόμενος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.11.30","c":11,"v":30,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.11.31","c":11,"v":31,"lecon":"νῦν","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Ro.12.1","c":12,"v":1,"lecon":"εὐάρεστον τῷ θεῷ","editions":["Treg","NA28","RP"],"variantes":[{"t":"τῷ θεῷ εὐάρεστον","editions":["WH"]}]}
+{"ref":"Ro.12.2","c":12,"v":2,"lecon":"συσχηματίζεσθε","editions":["WH","Treg","NA28"],"variantes":[{"t":"συσχηματίζεσθαι","editions":["RP"]}]}
+{"ref":"Ro.12.2","c":12,"v":2,"lecon":"μεταμορφοῦσθε","editions":["WH","Treg","NA28"],"variantes":[{"t":"μεταμορφοῦσθαι","editions":["RP"]}]}
+{"ref":"Ro.12.2","c":12,"v":2,"lecon":"νοός","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὑμῶν","editions":["RP"]}]}
+{"ref":"Ro.12.4","c":12,"v":4,"lecon":"πολλὰ μέλη","editions":["WH","Treg","NA28"],"variantes":[{"t":"μέλη πολλὰ","editions":["RP"]}]}
+{"ref":"Ro.12.5","c":12,"v":5,"lecon":"τὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ","editions":["RP"]}]}
+{"ref":"Ro.12.14","c":12,"v":14,"lecon":"διώκοντας","editions":["WH"],"variantes":[{"t":"+ ὑμᾶς","editions":["Treg","NA28","RP"]}]}
+{"ref":"Ro.12.15","c":12,"v":15,"lecon":"χαιρόντων","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.12.20","c":12,"v":20,"lecon":"ἀλλὰ ἐὰν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἐὰν οὖν","editions":["RP"]}]}
+{"ref":"Ro.13.1","c":13,"v":1,"lecon":"οὖσαι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐξουσίαι","editions":["RP"]}]}
+{"ref":"Ro.13.1","c":13,"v":1,"lecon":"ὑπὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ","editions":["RP"]}]}
+{"ref":"Ro.13.3","c":13,"v":3,"lecon":"τῷ ἀγαθῷ ἔργῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῶν ἀγαθῶν ἔργων","editions":["RP"]}]}
+{"ref":"Ro.13.3","c":13,"v":3,"lecon":"τῷ κακῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῶν κακῶν","editions":["RP"]}]}
+{"ref":"Ro.13.7","c":13,"v":7,"lecon":"ἀπόδοτε","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Ro.13.8","c":13,"v":8,"lecon":"ἀλλήλους ἀγαπᾶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀγαπᾶν ἀλλήλους","editions":["RP"]}]}
+{"ref":"Ro.13.9","c":13,"v":9,"lecon":"τῷ λόγῳ τούτῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τούτῳ τῷ λόγῳ","editions":["RP"]}]}
+{"ref":"Ro.13.9","c":13,"v":9,"lecon":"ἐν τῷ","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Ro.13.11","c":13,"v":11,"lecon":"ἤδη ὑμᾶς","editions":["WH","NA28"],"variantes":[{"t":"ἤδη ἡμᾶς","editions":["Treg"]},{"t":"ἡμᾶς ἤδη","editions":["RP"]}]}
+{"ref":"Ro.13.12","c":13,"v":12,"lecon":"ἀποβαλώμεθα","editions":["Holmes"],"variantes":[{"t":"ἀποθώμεθα","editions":["WH","Treg","NA28","RP"]}]}
+{"ref":"Ro.13.12","c":13,"v":12,"lecon":"ἐνδυσώμεθα δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἐνδυσώμεθα","editions":["RP"]}]}
+{"ref":"Ro.14.3","c":14,"v":3,"lecon":"ὁ δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ὁ","editions":["RP"]}]}
+{"ref":"Ro.14.4","c":14,"v":4,"lecon":"δυνατεῖ γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δυνατὸς γάρ ἐστιν","editions":["RP"]}]}
+{"ref":"Ro.14.4","c":14,"v":4,"lecon":"κύριος","editions":["WH","Treg","NA28"],"variantes":[{"t":"θεὸς","editions":["RP"]}]}
+{"ref":"Ro.14.5","c":14,"v":5,"lecon":"μὲν","editions":["Treg","NIV","RP"],"variantes":[{"t":"+ γάρ","editions":["WH","NA28"]}]}
+{"ref":"Ro.14.6","c":14,"v":6,"lecon":"φρονεῖ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ ὁ μὴ φρονῶν τὴν ἡμέραν κυρίῳ οὐ φρονεῖ","editions":["RP"]}]}
+{"ref":"Ro.14.9","c":14,"v":9,"lecon":"Χριστὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Ro.14.9","c":14,"v":9,"lecon":"ἀπέθανεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ ἀνέστη","editions":["RP"]}]}
+{"ref":"Ro.14.10","c":14,"v":10,"lecon":"θεοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"χριστοῦ","editions":["RP"]}]}
+{"ref":"Ro.14.11","c":14,"v":11,"lecon":"πᾶσα γλῶσσα ἐξομολογήσεται","editions":["WH","NA28","RP"],"variantes":[{"t":"ἐξομολογήσεται πᾶσα γλῶσσα","editions":["Treg"]}]}
+{"ref":"Ro.14.12","c":14,"v":12,"lecon":"ἄρα","editions":["Treg"],"variantes":[{"t":"+ οὖν","editions":["WH","NA28","RP"]}]}
+{"ref":"Ro.14.12","c":14,"v":12,"lecon":"δώσει","editions":["Holmes","WHmarg"],"variantes":[{"t":"+ τῷ θεῷ","editions":["WH","NA28","RP"]},{"t":"ἀποδώσει τῷ θεῷ","editions":["Treg"]}]}
+{"ref":"Ro.14.14","c":14,"v":14,"lecon":"ἑαυτοῦ","editions":["WH","NA28"],"variantes":[{"t":"αὐτοῦ","editions":["Treg","RP"]}]}
+{"ref":"Ro.14.15","c":14,"v":15,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ","editions":["RP"]}]}
+{"ref":"Ro.14.18","c":14,"v":18,"lecon":"τούτῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τούτοις","editions":["RP"]}]}
+{"ref":"Ro.14.21","c":14,"v":21,"lecon":"ἢ σκανδαλίζεται ἢ ἀσθενεῖ","editions":["Treg","RP"],"variantes":[{"t":"–","editions":["WH","NA28"]}]}
+{"ref":"Ro.14.22","c":14,"v":22,"lecon":"ἣν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.14.23","c":14,"v":23,"lecon":"ἐστίν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ 24 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 25 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 26 μόνῳ σοφῷ θεῷ, διὰ Ἰησοῦ χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν.","editions":["RP"]}]}
+{"ref":"Ro.15.4","c":15,"v":4,"lecon":"εἰς","editions":["Treg","NA28","RP"],"variantes":[{"t":"πάντα εἰς","editions":["WH"]}]}
+{"ref":"Ro.15.4","c":15,"v":4,"lecon":"ἐγράφη","editions":["WH","Treg","NA28"],"variantes":[{"t":"προεγράφη","editions":["RP"]}]}
+{"ref":"Ro.15.5","c":15,"v":5,"lecon":"Χριστὸν Ἰησοῦν","editions":["WH","NA28","RP"],"variantes":[{"t":"Ἰησοῦν Χριστὸν","editions":["Treg"]}]}
+{"ref":"Ro.15.7","c":15,"v":7,"lecon":"ὑμᾶς","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἡμᾶς","editions":["WH"]}]}
+{"ref":"Ro.15.7","c":15,"v":7,"lecon":"τοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.15.8","c":15,"v":8,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέ","editions":["RP"]}]}
+{"ref":"Ro.15.8","c":15,"v":8,"lecon":"Χριστὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ Ἰησοῦν","editions":["RP"]}]}
+{"ref":"Ro.15.8","c":15,"v":8,"lecon":"γεγενῆσθαι","editions":["WH","NA28","RP"],"variantes":[{"t":"γένεσθαι","editions":["Treg"]}]}
+{"ref":"Ro.15.11","c":15,"v":11,"lecon":"πάντα τὰ ἔθνη τὸν κύριον","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸν κύριον πάντα τὰ ἔθνη","editions":["RP"]}]}
+{"ref":"Ro.15.11","c":15,"v":11,"lecon":"ἐπαινεσάτωσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπαινέσατε","editions":["RP"]}]}
+{"ref":"Ro.15.14","c":15,"v":14,"lecon":"πάσης","editions":["Treg","RP"],"variantes":[{"t":"+ τῆς","editions":["WH","NA28"]}]}
+{"ref":"Ro.15.14","c":15,"v":14,"lecon":"ἀλλήλους","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἄλλους","editions":["RP"]}]}
+{"ref":"Ro.15.15","c":15,"v":15,"lecon":"τολμηρότερον","editions":["NA28","RP"],"variantes":[{"t":"τολμηροτέρως","editions":["WH","Treg"]}]}
+{"ref":"Ro.15.15","c":15,"v":15,"lecon":"ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἀδελφοί","editions":["RP"]}]}
+{"ref":"Ro.15.15","c":15,"v":15,"lecon":"ὑπὸ","editions":["NA28","RP"],"variantes":[{"t":"ἀπὸ","editions":["WH","Treg"]}]}
+{"ref":"Ro.15.16","c":15,"v":16,"lecon":"Χριστοῦ Ἰησοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰησοῦ Χριστοῦ","editions":["RP"]}]}
+{"ref":"Ro.15.17","c":15,"v":17,"lecon":"τὴν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.15.18","c":15,"v":18,"lecon":"τι λαλεῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"λαλεῖν τι","editions":["RP"]}]}
+{"ref":"Ro.15.19","c":15,"v":19,"lecon":"πνεύματος","editions":["NIV"],"variantes":[{"t":"+ ἁγίου","editions":["WH","Treg"]},{"t":"+ θεοῦ","editions":["RP","NA28"]}]}
+{"ref":"Ro.15.20","c":15,"v":20,"lecon":"φιλοτιμούμενον","editions":["WH","NA28","RP"],"variantes":[{"t":"φιλοτιμοῦμαι","editions":["Treg"]}]}
+{"ref":"Ro.15.21","c":15,"v":21,"lecon":"Οἷς … αὐτοῦ ὄψονται","editions":["Treg","NA28","RP"],"variantes":[{"t":"Ὄψονται οἷς … αὐτοῦ","editions":["WH"]}]}
+{"ref":"Ro.15.23","c":15,"v":23,"lecon":"ἱκανῶν","editions":["WH","Treg"],"variantes":[{"t":"πολλῶν","editions":["NA28","RP"]}]}
+{"ref":"Ro.15.24","c":15,"v":24,"lecon":"ἂν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐὰν","editions":["RP"]}]}
+{"ref":"Ro.15.24","c":15,"v":24,"lecon":"Σπανίαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐλεύσομαι πρὸς ὑμᾶς","editions":["RP"]}]}
+{"ref":"Ro.15.27","c":15,"v":27,"lecon":"εἰσὶν αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτῶν εἰσὶν","editions":["RP"]}]}
+{"ref":"Ro.15.28","c":15,"v":28,"lecon":"εἰς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὴν","editions":["RP"]}]}
+{"ref":"Ro.15.29","c":15,"v":29,"lecon":"εὐλογίας","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ εὐαγγελίου τοῦ","editions":["RP"]}]}
+{"ref":"Ro.15.31","c":15,"v":31,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἵνα","editions":["RP"]}]}
+{"ref":"Ro.15.31","c":15,"v":31,"lecon":"τοῖς ἁγίοις γένηται","editions":["WH","Treg","NA28"],"variantes":[{"t":"γένηται τοῖς ἁγίοις","editions":["RP"]}]}
+{"ref":"Ro.15.32","c":15,"v":32,"lecon":"ἐλθὼν","editions":["WH","NA28"],"variantes":[{"t":"ἔλθω","editions":["Treg","RP"]}]}
+{"ref":"Ro.15.32","c":15,"v":32,"lecon":"θεοῦ","editions":["WH","NA28"],"variantes":[{"t":"+ καὶ","editions":["Treg","RP"]}]}
+{"ref":"Ro.16.1","c":16,"v":1,"lecon":"καὶ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Ro.16.2","c":16,"v":2,"lecon":"αὐτὴν προσδέξησθε","editions":["NA28","RP"],"variantes":[{"t":"προσδέξησθε αὐτὴν","editions":["WH","Treg"]}]}
+{"ref":"Ro.16.2","c":16,"v":2,"lecon":"ἐμοῦ αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτοῦ ἐμοῦ","editions":["RP"]}]}
+{"ref":"Ro.16.5","c":16,"v":5,"lecon":"Ἀσίας","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἀχαΐας","editions":["RP"]}]}
+{"ref":"Ro.16.6","c":16,"v":6,"lecon":"Μαριάμ","editions":["RP"],"variantes":[{"t":"Μαρίαν","editions":["WH","Treg","NA28"]}]}
+{"ref":"Ro.16.6","c":16,"v":6,"lecon":"ὑμᾶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἡμᾶς","editions":["RP"]}]}
+{"ref":"Ro.16.7","c":16,"v":7,"lecon":"Ἰουνίαν","editions":["WH","Treg","RP"],"variantes":[{"t":"Ἰουνιᾶν","editions":["NA28"]}]}
+{"ref":"Ro.16.7","c":16,"v":7,"lecon":"γέγοναν","editions":["WH","Treg","NA28"],"variantes":[{"t":"γεγόνασιν","editions":["RP"]}]}
+{"ref":"Ro.16.8","c":16,"v":8,"lecon":"Ἀμπλιᾶτον","editions":["WH","NA28","Treg"],"variantes":[{"t":"Ἀμπλίαν","editions":["RP"]}]}
+{"ref":"Ro.16.11","c":16,"v":11,"lecon":"συγγενῆ","editions":["WH","NA28","RP"],"variantes":[{"t":"συγγενῆν","editions":["Treg"]}]}
+{"ref":"Ro.16.14","c":16,"v":14,"lecon":"Ἑρμῆν Πατροβᾶν Ἑρμᾶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἑρμᾶν Πατρόβαν Ἑρμῆν","editions":["RP"]}]}
+{"ref":"Ro.16.16","c":16,"v":16,"lecon":"πᾶσαι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Ro.16.17","c":16,"v":17,"lecon":"ἐκκλίνετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐκκλίνατε","editions":["RP"]}]}
+{"ref":"Ro.16.18","c":16,"v":18,"lecon":"ἡμῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ Ἰησοῦ","editions":["RP"]}]}
+{"ref":"Ro.16.19","c":16,"v":19,"lecon":"ἐφʼ ὑμῖν οὖν χαίρω","editions":["WH","Treg","NA28"],"variantes":[{"t":"Χαίρω οὖν τὸ ἐφʼ ὑμῖν","editions":["RP"]}]}
+{"ref":"Ro.16.19","c":16,"v":19,"lecon":"σοφοὺς","editions":["Treg","NA28"],"variantes":[{"t":"+ μὲν","editions":["WH","RP"]}]}
+{"ref":"Ro.16.20","c":16,"v":20,"lecon":"Χριστοῦ","editions":["Treg","RP"],"variantes":[{"t":"–","editions":["WH","NA28"]}]}
+{"ref":"Ro.16.21","c":16,"v":21,"lecon":"Ἀσπάζεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἀσπάζονται","editions":["RP"]}]}
+{"ref":"Ro.16.23","c":16,"v":23,"lecon":"ὅλης τῆς ἐκκλησίας","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῆς ἐκκλησίας ὅλης","editions":["RP"]}]}
+{"ref":"Ro.16.24","c":16,"v":24,"lecon":"Ἡ χάρις … ὑμῶν","editions":["RP"],"variantes":[{"t":"–","editions":["WH","Treg","NA28"]}]}
+{"ref":"Ro.16.24","c":16,"v":24,"lecon":"Ἀμήν","editions":["RP"],"variantes":[{"t":"25 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 26 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 27 μόνῳ σοφῷ θεῷ διὰ Ἰησοῦ Χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν.","editions":["WH","Treg","NA28"]}]}

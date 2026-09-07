@@ -1,0 +1,773 @@
+{"ref":"Jn.1.15","c":1,"v":15,"lecon":"ὃν εἶπον","editions":["Treg","NA28","RP"],"variantes":[{"t":"ὁ εἰπών","editions":["WH"]}]}
+{"ref":"Jn.1.16","c":1,"v":16,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ","editions":["RP"]}]}
+{"ref":"Jn.1.18","c":1,"v":18,"lecon":"μονογενὴς θεὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ μονογενὴς υἱός","editions":["RP"]}]}
+{"ref":"Jn.1.19","c":1,"v":19,"lecon":"ἀπέστειλαν","editions":["NIV","RP"],"variantes":[{"t":"+ πρὸς αὐτὸν","editions":["WH","Treg","NA28"]}]}
+{"ref":"Jn.1.20","c":1,"v":20,"lecon":"Ἐγὼ οὐκ εἰμὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Οὐκ εἰμὶ ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.1.21","c":1,"v":21,"lecon":"σὺ Ἠλίας εἶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἠλίας εἶ σύ","editions":["RP"]}]}
+{"ref":"Jn.1.24","c":1,"v":24,"lecon":"Καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οἱ","editions":["RP"]}]}
+{"ref":"Jn.1.25","c":1,"v":25,"lecon":"οὐδὲ … οὐδὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὔτε … οὔτε","editions":["RP"]}]}
+{"ref":"Jn.1.26","c":1,"v":26,"lecon":"μέσος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["NIV","RP"]}]}
+{"ref":"Jn.1.26","c":1,"v":26,"lecon":"ἕστηκεν","editions":["NA28","RP"],"variantes":[{"t":"στήκει","editions":["WH","Treg"]}]}
+{"ref":"Jn.1.27","c":1,"v":27,"lecon":"ὁ","editions":["Treg","NA28"],"variantes":[{"t":"–","editions":["WH"]},{"t":"αὐτός ἐστιν ὁ","editions":["RP"]}]}
+{"ref":"Jn.1.27","c":1,"v":27,"lecon":"ἐρχόμενος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὃς ἔμπροσθέν μου γέγονεν","editions":["RP"]}]}
+{"ref":"Jn.1.27","c":1,"v":27,"lecon":"οὐκ εἰμὶ","editions":["Holmes","WHmarg"],"variantes":[{"t":"οὐκ εἰμὶ ἐγὼ","editions":["WH","Treg","NA28"]},{"t":"ἐγὼ οὐκ εἰμὶ","editions":["RP"]}]}
+{"ref":"Jn.1.28","c":1,"v":28,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.1.30","c":1,"v":30,"lecon":"ὑπὲρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"περὶ","editions":["RP"]}]}
+{"ref":"Jn.1.31","c":1,"v":31,"lecon":"ἐν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τῷ","editions":["RP"]}]}
+{"ref":"Jn.1.32","c":1,"v":32,"lecon":"ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὡσεὶ","editions":["RP"]}]}
+{"ref":"Jn.1.34","c":1,"v":34,"lecon":"ἐκλεκτὸς","editions":["Holmes","WHmarg"],"variantes":[{"t":"υἱὸς","editions":["WH","Treg","NA28","RP"]}]}
+{"ref":"Jn.1.35","c":1,"v":35,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.1.37","c":1,"v":37,"lecon":"οἱ δύο μαθηταὶ αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτοῦ οἱ δύο μαθηταὶ","editions":["RP"]}]}
+{"ref":"Jn.1.38","c":1,"v":38,"lecon":"μεθερμηνευόμενον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἑρμηνευόμενον","editions":["RP"]}]}
+{"ref":"Jn.1.39","c":1,"v":39,"lecon":"ὄψεσθε. ἦλθαν οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἴδετε. ἦλθαν","editions":["RP"]}]}
+{"ref":"Jn.1.41","c":1,"v":41,"lecon":"πρῶτον","editions":["WH","Treg","NA28"],"variantes":[{"t":"πρῶτος","editions":["RP"]}]}
+{"ref":"Jn.1.42","c":1,"v":42,"lecon":"ἤγαγεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἤγαγεν","editions":["RP"]}]}
+{"ref":"Jn.1.42","c":1,"v":42,"lecon":"Ἰωάννου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰωνᾶ","editions":["RP"]}]}
+{"ref":"Jn.1.45","c":1,"v":45,"lecon":"Ἰησοῦν","editions":["WH","NA28"],"variantes":[{"t":"+ τὸν","editions":["Treg","RP"]}]}
+{"ref":"Jn.1.46","c":1,"v":46,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.1.47","c":1,"v":47,"lecon":"ὁ","editions":["RP","NA28"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.1.49","c":1,"v":49,"lecon":"αὐτῷ Ναθαναήλ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ναθαναήλ καὶ λέγει αὐτῷ","editions":["RP"]}]}
+{"ref":"Jn.1.49","c":1,"v":49,"lecon":"βασιλεὺς εἶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶ ὁ βασιλεὺς","editions":["RP"]}]}
+{"ref":"Jn.1.50","c":1,"v":50,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.1.50","c":1,"v":50,"lecon":"ὄψῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὄψει","editions":["RP"]}]}
+{"ref":"Jn.1.51","c":1,"v":51,"lecon":"ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἀπʼ ἄρτι","editions":["RP"]}]}
+{"ref":"Jn.2.1","c":2,"v":1,"lecon":"ἡμέρᾳ τῇ τρίτῃ","editions":["WH","NA28","RP"],"variantes":[{"t":"τρίτῃ ἡμέρᾳ","editions":["Treg"]}]}
+{"ref":"Jn.2.4","c":2,"v":4,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.2.5","c":2,"v":5,"lecon":"Ὅ τι","editions":["Treg","NA28","RP"],"variantes":[{"t":"Ὅτι","editions":["WH"]}]}
+{"ref":"Jn.2.6","c":2,"v":6,"lecon":"λίθιναι ὑδρίαι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑδρίαι λίθιναι","editions":["RP"]}]}
+{"ref":"Jn.2.6","c":2,"v":6,"lecon":"κατὰ … Ἰουδαίων κείμεναι","editions":["WH","Treg","NA28"],"variantes":[{"t":"κείμεναι κατὰ … Ἰουδαίων","editions":["RP"]}]}
+{"ref":"Jn.2.8","c":2,"v":8,"lecon":"οἱ δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ","editions":["RP"]}]}
+{"ref":"Jn.2.10","c":2,"v":10,"lecon":"μεθυσθῶσιν","editions":["WH","NA28"],"variantes":[{"t":"+ τότε","editions":["Treg","RP"]}]}
+{"ref":"Jn.2.11","c":2,"v":11,"lecon":"ἐποίησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὴν","editions":["RP"]}]}
+{"ref":"Jn.2.12","c":2,"v":12,"lecon":"ἀδελφοὶ","editions":["WH","Treg"],"variantes":[{"t":"+ αὐτοῦ","editions":["NA28","RP"]}]}
+{"ref":"Jn.2.15","c":2,"v":15,"lecon":"τὰ κέρματα","editions":["WH","Treg"],"variantes":[{"t":"τὸ κέρμα","editions":["NA28","RP"]}]}
+{"ref":"Jn.2.15","c":2,"v":15,"lecon":"ἀνέστρεψεν","editions":["Treg","RP"],"variantes":[{"t":"ἀνέτρεψεν","editions":["WH","NA28"]}]}
+{"ref":"Jn.2.17","c":2,"v":17,"lecon":"ἐμνήσθησαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.2.22","c":2,"v":22,"lecon":"ὃν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ᾧ","editions":["RP"]}]}
+{"ref":"Jn.2.24","c":2,"v":24,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.2.24","c":2,"v":24,"lecon":"αὑτὸν","editions":["WH"],"variantes":[{"t":"αὐτὸν","editions":["Treg","NA28"]},{"t":"ἑαυτὸν","editions":["RP"]}]}
+{"ref":"Jn.3.2","c":3,"v":2,"lecon":"δύναται ταῦτα τὰ σημεῖα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ταῦτα τὰ σημεῖα δύναται","editions":["RP"]}]}
+{"ref":"Jn.3.3","c":3,"v":3,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.3.4","c":3,"v":4,"lecon":"ὁ","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Jn.3.5","c":3,"v":5,"lecon":"ἀπεκρίθη","editions":["NA28","RP"],"variantes":[{"t":"+ ὁ","editions":["WH","Treg"]}]}
+{"ref":"Jn.3.13","c":3,"v":13,"lecon":"ἀνθρώπου","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ ὢν ἐν τῷ οὐρανῷ","editions":["Treg","RP"]}]}
+{"ref":"Jn.3.15","c":3,"v":15,"lecon":"ἐν αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἰς αὐτὸν μὴ ἀπόληται ἀλλʼ","editions":["RP"]}]}
+{"ref":"Jn.3.16","c":3,"v":16,"lecon":"υἱὸν","editions":["WH","NA28"],"variantes":[{"t":"+ αὐτοῦ","editions":["Treg","RP"]}]}
+{"ref":"Jn.3.17","c":3,"v":17,"lecon":"υἱὸν","editions":["WH","NA28"],"variantes":[{"t":"+ αὐτοῦ","editions":["Treg","RP"]}]}
+{"ref":"Jn.3.18","c":3,"v":18,"lecon":"δὲ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.3.19","c":3,"v":19,"lecon":"αὐτῶν πονηρὰ","editions":["WH","Treg","NA28"],"variantes":[{"t":"πονηρὰ αὐτῶν","editions":["RP"]}]}
+{"ref":"Jn.3.23","c":3,"v":23,"lecon":"ὁ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.3.24","c":3,"v":24,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.3.27","c":3,"v":27,"lecon":"οὐδὲ ἓν","editions":["NA28"],"variantes":[{"t":"οὐδὲν","editions":["WH","Treg","RP"]}]}
+{"ref":"Jn.3.28","c":3,"v":28,"lecon":"μοι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.3.28","c":3,"v":28,"lecon":"εἶπον","editions":["Treg","RP"],"variantes":[{"t":"+ ἐγώ","editions":["WH"]},{"t":"+ ὅτι","editions":["NA28"]}]}
+{"ref":"Jn.3.32","c":3,"v":32,"lecon":"ὃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ὃ","editions":["RP"]}]}
+{"ref":"Jn.3.34","c":3,"v":34,"lecon":"δίδωσιν","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ θεὸς","editions":["Treg","RP"]}]}
+{"ref":"Jn.4.1","c":4,"v":1,"lecon":"Ἰησοῦς","editions":["NA28"],"variantes":[{"t":"κύριος","editions":["WH","Treg","NIV","RP"]}]}
+{"ref":"Jn.4.3","c":4,"v":3,"lecon":"πάλιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.4.5","c":4,"v":5,"lecon":"τῷ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.4.6","c":4,"v":6,"lecon":"ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὡσεὶ","editions":["RP"]}]}
+{"ref":"Jn.4.9","c":4,"v":9,"lecon":"γυναικὸς Σαμαρίτιδος οὔσης","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὔσης γυναικὸς Σαμαρείτιδος","editions":["RP"]}]}
+{"ref":"Jn.4.11","c":4,"v":11,"lecon":"ἡ γυνή","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.4.14","c":4,"v":14,"lecon":"διψήσει","editions":["WH","Treg","NA28"],"variantes":[{"t":"διψήσῃ","editions":["RP"]}]}
+{"ref":"Jn.4.15","c":4,"v":15,"lecon":"διέρχωμαι","editions":["WH","NA28"],"variantes":[{"t":"ἔρχωμαι","editions":["Treg"]},{"t":"ἔρχομαι","editions":["RP"]}]}
+{"ref":"Jn.4.16","c":4,"v":16,"lecon":"αὐτῇ","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["Treg","RP"]}]}
+{"ref":"Jn.4.16","c":4,"v":16,"lecon":"τὸν ἄνδρα σου","editions":["Treg","NA28","RP"],"variantes":[{"t":"σου τὸν ἄνδρα","editions":["WH"]}]}
+{"ref":"Jn.4.17","c":4,"v":17,"lecon":"αὐτῷ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.4.20","c":4,"v":20,"lecon":"προσκυνεῖν δεῖ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δεῖ προσκυνεῖν","editions":["RP"]}]}
+{"ref":"Jn.4.21","c":4,"v":21,"lecon":"Πίστευέ μοι, γύναι","editions":["WH","Treg","NA28"],"variantes":[{"t":"Γύναι, πίστευέ μοι","editions":["RP"]}]}
+{"ref":"Jn.4.25","c":4,"v":25,"lecon":"ἅπαντα","editions":["WH","Treg","NA28"],"variantes":[{"t":"πάντα","editions":["RP"]}]}
+{"ref":"Jn.4.27","c":4,"v":27,"lecon":"ἐθαύμαζον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐθαύμασαν","editions":["RP"]}]}
+{"ref":"Jn.4.29","c":4,"v":29,"lecon":"ὅσα","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἃ","editions":["WH"]}]}
+{"ref":"Jn.4.31","c":4,"v":31,"lecon":"Ἐν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.4.34","c":4,"v":34,"lecon":"ποιήσω","editions":["WH","Treg","NA28"],"variantes":[{"t":"ποιῶ","editions":["RP"]}]}
+{"ref":"Jn.4.36","c":4,"v":36,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ὁ","editions":["RP"]}]}
+{"ref":"Jn.4.36","c":4,"v":36,"lecon":"ἵνα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Jn.4.37","c":4,"v":37,"lecon":"ἐστὶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.4.39","c":4,"v":39,"lecon":"ἃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅσα","editions":["RP"]}]}
+{"ref":"Jn.4.42","c":4,"v":42,"lecon":"κόσμου","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ χριστός","editions":["RP"]}]}
+{"ref":"Jn.4.43","c":4,"v":43,"lecon":"ἐκεῖθεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ ἀπῆλθεν","editions":["RP"]}]}
+{"ref":"Jn.4.44","c":4,"v":44,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.4.45","c":4,"v":45,"lecon":"ὅσα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἃ","editions":["RP"]}]}
+{"ref":"Jn.4.46","c":4,"v":46,"lecon":"πάλιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.4.47","c":4,"v":47,"lecon":"ἠρώτα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτὸν","editions":["RP"]}]}
+{"ref":"Jn.4.50","c":4,"v":50,"lecon":"ἐπίστευσεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἐπίστευσεν","editions":["RP"]}]}
+{"ref":"Jn.4.50","c":4,"v":50,"lecon":"ὃν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ᾧ","editions":["RP"]}]}
+{"ref":"Jn.4.51","c":4,"v":51,"lecon":"ὑπήντησαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπήντησαν","editions":["RP"]}]}
+{"ref":"Jn.4.51","c":4,"v":51,"lecon":"αὐτῷ","editions":["WH","NA28"],"variantes":[{"t":"+ καὶ ἀπήγγειλαν","editions":["Treg","RP"]}]}
+{"ref":"Jn.4.51","c":4,"v":51,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"σου","editions":["RP"]}]}
+{"ref":"Jn.4.52","c":4,"v":52,"lecon":"τὴν ὥραν παρʼ αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"παρʼ αὐτῶν τὴν ὥραν","editions":["RP"]}]}
+{"ref":"Jn.4.52","c":4,"v":52,"lecon":"εἶπαν οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ εἶπον","editions":["RP"]}]}
+{"ref":"Jn.4.52","c":4,"v":52,"lecon":"Ἐχθὲς","editions":["WH","Treg","NA28"],"variantes":[{"t":"Χθὲς","editions":["RP"]}]}
+{"ref":"Jn.4.53","c":4,"v":53,"lecon":"ὅτι","editions":["WH"],"variantes":[{"t":"+ ἐν","editions":["Treg","NA28","RP"]}]}
+{"ref":"Jn.4.53","c":4,"v":53,"lecon":"Ἰησοῦς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὅτι","editions":["RP"]}]}
+{"ref":"Jn.4.54","c":4,"v":54,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.5.1","c":5,"v":1,"lecon":"ἦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἡ","editions":["RP"]}]}
+{"ref":"Jn.5.1","c":5,"v":1,"lecon":"ἀνέβη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.5.2","c":5,"v":2,"lecon":"Βηθεσδά","editions":["Treg","NIV","RP"],"variantes":[{"t":"Βηθζαθά","editions":["WH","NA28"]}]}
+{"ref":"Jn.5.3","c":5,"v":3,"lecon":"πλῆθος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ πολὺ","editions":["RP"]}]}
+{"ref":"Jn.5.3","c":5,"v":3,"lecon":"ξηρῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν. 4 ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν ἐν τῇ κολυμβήθρᾳ, καὶ ἐτάρασσεν τὸ ὕδωρ· ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος, ὑγιὴς ἐγίνετο, ᾧ δήποτε κατείχετο νοσήματι.","editions":["RP"]}]}
+{"ref":"Jn.5.5","c":5,"v":5,"lecon":"τριάκοντα","editions":["Treg","RP"],"variantes":[{"t":"+ καὶ","editions":["WH","NA28"]}]}
+{"ref":"Jn.5.5","c":5,"v":5,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.5.8","c":5,"v":8,"lecon":"Ἔγειρε","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἔγειραι","editions":["RP"]}]}
+{"ref":"Jn.5.10","c":5,"v":10,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.5.10","c":5,"v":10,"lecon":"κράβαττον","editions":["WH","Treg","RP"],"variantes":[{"t":"+ σου","editions":["NA28"]}]}
+{"ref":"Jn.5.11","c":5,"v":11,"lecon":"ὃς δὲ","editions":["WH","Treg"],"variantes":[{"t":"ὁ δὲ","editions":["NA28"]},{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.5.12","c":5,"v":12,"lecon":"οὖν","editions":["Treg","RP"],"variantes":[{"t":"–","editions":["WH","NA28"]}]}
+{"ref":"Jn.5.12","c":5,"v":12,"lecon":"Ἆρον","editions":["WH","NA28"],"variantes":[{"t":"+ τὸν κράβαττόν σου","editions":["Treg","RP"]}]}
+{"ref":"Jn.5.14","c":5,"v":14,"lecon":"σοί τι","editions":["WH","Treg","NA28"],"variantes":[{"t":"τί σοι","editions":["RP"]}]}
+{"ref":"Jn.5.15","c":5,"v":15,"lecon":"ἀνήγγειλεν","editions":["Treg","NA28","RP"],"variantes":[{"t":"εἶπεν","editions":["WH"]}]}
+{"ref":"Jn.5.16","c":5,"v":16,"lecon":"οἱ Ἰουδαῖοι τὸν Ἰησοῦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸν Ἰησοῦν οἱ Ἰουδαῖοι καὶ ἐζήτουν αὐτὸν ἀποκτεῖναι","editions":["RP"]}]}
+{"ref":"Jn.5.17","c":5,"v":17,"lecon":"δὲ","editions":["WH"],"variantes":[{"t":"+ Ἰησοῦς","editions":["Treg","NA28","RP"]}]}
+{"ref":"Jn.5.19","c":5,"v":19,"lecon":"ἔλεγεν","editions":["WH","NA28"],"variantes":[{"t":"εἶπεν","editions":["Treg","RP"]}]}
+{"ref":"Jn.5.19","c":5,"v":19,"lecon":"ἐὰν","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἂν","editions":["WH"]}]}
+{"ref":"Jn.5.25","c":5,"v":25,"lecon":"ἀκούσουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκούσονται","editions":["RP"]}]}
+{"ref":"Jn.5.25","c":5,"v":25,"lecon":"ζήσουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ζήσονται","editions":["RP"]}]}
+{"ref":"Jn.5.26","c":5,"v":26,"lecon":"καὶ τῷ υἱῷ ἔδωκεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔδωκεν καὶ τῷ υἱῷ","editions":["RP"]}]}
+{"ref":"Jn.5.27","c":5,"v":27,"lecon":"αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Jn.5.28","c":5,"v":28,"lecon":"ἀκούσουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκούσονται","editions":["RP"]}]}
+{"ref":"Jn.5.29","c":5,"v":29,"lecon":"δὲ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.5.30","c":5,"v":30,"lecon":"με","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ πατρός","editions":["RP"]}]}
+{"ref":"Jn.5.36","c":5,"v":36,"lecon":"μείζω","editions":["WH","NA28","RP"],"variantes":[{"t":"μείζων","editions":["Treg"]}]}
+{"ref":"Jn.5.36","c":5,"v":36,"lecon":"δέδωκέν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔδωκέν","editions":["RP"]}]}
+{"ref":"Jn.5.36","c":5,"v":36,"lecon":"ἃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.5.37","c":5,"v":37,"lecon":"ἐκεῖνος","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτὸς","editions":["RP"]}]}
+{"ref":"Jn.5.37","c":5,"v":37,"lecon":"πώποτε ἀκηκόατε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκηκόατε πώποτε","editions":["RP"]}]}
+{"ref":"Jn.5.38","c":5,"v":38,"lecon":"ἐν ὑμῖν μένοντα","editions":["WH","Treg","NA28"],"variantes":[{"t":"μένοντα ἐν ὑμῖν","editions":["RP"]}]}
+{"ref":"Jn.6.2","c":6,"v":2,"lecon":"ἠκολούθει δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἠκολούθει","editions":["RP"]}]}
+{"ref":"Jn.6.2","c":6,"v":2,"lecon":"ἐθεώρουν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἑώρων αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.6.3","c":6,"v":3,"lecon":"ὄρος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.6.5","c":6,"v":5,"lecon":"τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ Ἰησοῦς τοὺς ὀφθαλμοὺς","editions":["RP"]}]}
+{"ref":"Jn.6.5","c":6,"v":5,"lecon":"πρὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὸν","editions":["RP"]}]}
+{"ref":"Jn.6.5","c":6,"v":5,"lecon":"ἀγοράσωμεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀγοράσομεν","editions":["RP"]}]}
+{"ref":"Jn.6.7","c":6,"v":7,"lecon":"αὐτῷ","editions":["WH","Treg","RP"],"variantes":[{"t":"+ ὁ","editions":["NA28"]}]}
+{"ref":"Jn.6.7","c":6,"v":7,"lecon":"ἕκαστος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτῶν","editions":["RP"]}]}
+{"ref":"Jn.6.7","c":6,"v":7,"lecon":"τι","editions":["RP","NA28"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.6.9","c":6,"v":9,"lecon":"παιδάριον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἓν","editions":["RP"]}]}
+{"ref":"Jn.6.9","c":6,"v":9,"lecon":"ὃς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὃ","editions":["RP"]}]}
+{"ref":"Jn.6.10","c":6,"v":10,"lecon":"εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.6.10","c":6,"v":10,"lecon":"ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὡσεὶ","editions":["RP"]}]}
+{"ref":"Jn.6.11","c":6,"v":11,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ","editions":["RP"]}]}
+{"ref":"Jn.6.11","c":6,"v":11,"lecon":"διέδωκεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῖς μαθηταῖς οἱ δὲ μαθηταὶ","editions":["RP"]}]}
+{"ref":"Jn.6.13","c":6,"v":13,"lecon":"ἐπερίσσευσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπερίσσευσεν","editions":["RP"]}]}
+{"ref":"Jn.6.14","c":6,"v":14,"lecon":"ὃ ἐποίησεν σημεῖον","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἃ ἐποίησεν σημεῖα","editions":["WH"]}]}
+{"ref":"Jn.6.14","c":6,"v":14,"lecon":"ἔλεγον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ Ἰησοῦς ἔλεγον","editions":["RP"]}]}
+{"ref":"Jn.6.15","c":6,"v":15,"lecon":"ποιήσωσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτὸν","editions":["RP"]}]}
+{"ref":"Jn.6.15","c":6,"v":15,"lecon":"πάλιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.6.17","c":6,"v":17,"lecon":"εἰς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὸ","editions":["RP"]}]}
+{"ref":"Jn.6.17","c":6,"v":17,"lecon":"οὔπω","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐκ","editions":["RP"]}]}
+{"ref":"Jn.6.18","c":6,"v":18,"lecon":"διεγείρετο","editions":["WH","Treg","NA28"],"variantes":[{"t":"διηγείρετο","editions":["RP"]}]}
+{"ref":"Jn.6.21","c":6,"v":21,"lecon":"ἐγένετο τὸ πλοῖον","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸ πλοῖον ἐγένετο","editions":["RP"]}]}
+{"ref":"Jn.6.22","c":6,"v":22,"lecon":"εἶδον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἰδὼν","editions":["RP"]}]}
+{"ref":"Jn.6.22","c":6,"v":22,"lecon":"ἕν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐκεῖνο εἰς ὃ ἐνέβησαν οἱ μαθηταὶ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.6.22","c":6,"v":22,"lecon":"πλοῖον","editions":["WH","Treg","NA28"],"variantes":[{"t":"πλοιάριον","editions":["RP"]}]}
+{"ref":"Jn.6.23","c":6,"v":23,"lecon":"ἀλλὰ","editions":["WH","Treg"],"variantes":[{"t":"ἄλλα","editions":["NA28"]},{"t":"ἄλλα δὲ","editions":["RP"]}]}
+{"ref":"Jn.6.23","c":6,"v":23,"lecon":"πλοιάρια","editions":["Treg","NA28","RP"],"variantes":[{"t":"πλοῖα","editions":["WH"]}]}
+{"ref":"Jn.6.24","c":6,"v":24,"lecon":"πλοιάρια","editions":["WH","Treg","NA28"],"variantes":[{"t":"πλοῖα","editions":["RP"]}]}
+{"ref":"Jn.6.29","c":6,"v":29,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.6.29","c":6,"v":29,"lecon":"πιστεύητε","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσητε","editions":["RP"]}]}
+{"ref":"Jn.6.32","c":6,"v":32,"lecon":"δέδωκεν","editions":["NA28","RP"],"variantes":[{"t":"ἔδωκεν","editions":["WH","Treg"]}]}
+{"ref":"Jn.6.35","c":6,"v":35,"lecon":"Εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["NIV"]},{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.6.35","c":6,"v":35,"lecon":"ἐμὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"με","editions":["RP"]}]}
+{"ref":"Jn.6.35","c":6,"v":35,"lecon":"διψήσει","editions":["WH","Treg","NA28"],"variantes":[{"t":"διψήσῃ","editions":["RP"]}]}
+{"ref":"Jn.6.37","c":6,"v":37,"lecon":"με","editions":["WH","Treg","RP"],"variantes":[{"t":"ἐμὲ","editions":["NA28"]}]}
+{"ref":"Jn.6.38","c":6,"v":38,"lecon":"ἀπὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐκ","editions":["RP"]}]}
+{"ref":"Jn.6.39","c":6,"v":39,"lecon":"με","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ πατρός","editions":["RP"]}]}
+{"ref":"Jn.6.39","c":6,"v":39,"lecon":"αὐτὸ","editions":["WH","Treg","RP"],"variantes":[{"t":"+ ἐν","editions":["NA28"]}]}
+{"ref":"Jn.6.40","c":6,"v":40,"lecon":"γάρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέ","editions":["RP"]}]}
+{"ref":"Jn.6.40","c":6,"v":40,"lecon":"πατρός μου","editions":["WH","Treg","NA28"],"variantes":[{"t":"πέμψαντός με","editions":["RP"]}]}
+{"ref":"Jn.6.40","c":6,"v":40,"lecon":"ἐγὼ","editions":["WH","Treg","RP"],"variantes":[{"t":"+ ἐν","editions":["NA28"]}]}
+{"ref":"Jn.6.42","c":6,"v":42,"lecon":"Οὐχ","editions":["NA28","RP"],"variantes":[{"t":"Οὐχὶ","editions":["WH","Treg"]}]}
+{"ref":"Jn.6.42","c":6,"v":42,"lecon":"νῦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὖν","editions":["RP"]}]}
+{"ref":"Jn.6.42","c":6,"v":42,"lecon":"λέγει","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὗτος","editions":["RP"]}]}
+{"ref":"Jn.6.43","c":6,"v":43,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν ὁ","editions":["RP"]}]}
+{"ref":"Jn.6.44","c":6,"v":44,"lecon":"με","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐμέ","editions":["RP"]}]}
+{"ref":"Jn.6.45","c":6,"v":45,"lecon":"πᾶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.6.45","c":6,"v":45,"lecon":"ἀκούσας","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκούων","editions":["RP"]}]}
+{"ref":"Jn.6.45","c":6,"v":45,"lecon":"ἐμέ","editions":["WH","Treg","NA28"],"variantes":[{"t":"με","editions":["RP"]}]}
+{"ref":"Jn.6.46","c":6,"v":46,"lecon":"ἑώρακέν τις","editions":["WH","Treg","NA28"],"variantes":[{"t":"τις ἑώρακεν","editions":["RP"]}]}
+{"ref":"Jn.6.47","c":6,"v":47,"lecon":"πιστεύων","editions":["WH","NA28"],"variantes":[{"t":"+ εἰς ἐμέ","editions":["Treg","RP"]}]}
+{"ref":"Jn.6.49","c":6,"v":49,"lecon":"ἐν τῇ ἐρήμῳ τὸ μάννα","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸ μάννα ἐν τῇ ἐρήμῳ","editions":["RP"]}]}
+{"ref":"Jn.6.51","c":6,"v":51,"lecon":"ζήσει","editions":["WH","NA28"],"variantes":[{"t":"ζήσεται","editions":["Treg","RP"]}]}
+{"ref":"Jn.6.51","c":6,"v":51,"lecon":"ἐστιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἣν ἐγὼ δώσω","editions":["RP"]}]}
+{"ref":"Jn.6.52","c":6,"v":52,"lecon":"αὐτοῦ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.6.55","c":6,"v":55,"lecon":"⸀ἀληθής","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀληθῶς","editions":["RP"]}]}
+{"ref":"Jn.6.55","c":6,"v":55,"lecon":"⸁ἀληθής","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀληθῶς","editions":["RP"]}]}
+{"ref":"Jn.6.57","c":6,"v":57,"lecon":"ζήσει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ζήσεται","editions":["RP"]}]}
+{"ref":"Jn.6.58","c":6,"v":58,"lecon":"ἐξ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐκ τοῦ","editions":["RP"]}]}
+{"ref":"Jn.6.58","c":6,"v":58,"lecon":"πατέρες","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὑμῶν τὸ μάννα","editions":["NIV","RP"]}]}
+{"ref":"Jn.6.58","c":6,"v":58,"lecon":"ζήσει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ζήσεται","editions":["RP"]}]}
+{"ref":"Jn.6.60","c":6,"v":60,"lecon":"ὁ λόγος οὗτος","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὗτος ὁ λόγος","editions":["RP"]}]}
+{"ref":"Jn.6.63","c":6,"v":63,"lecon":"λελάληκα","editions":["WH","Treg","NA28"],"variantes":[{"t":"λαλῶ","editions":["RP"]}]}
+{"ref":"Jn.6.65","c":6,"v":65,"lecon":"πατρός","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.6.66","c":6,"v":66,"lecon":"ἐκ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.6.66","c":6,"v":66,"lecon":"τῶν μαθητῶν αὐτοῦ ἀπῆλθον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπῆλθον τῶν μαθητῶν αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.6.68","c":6,"v":68,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.6.69","c":6,"v":69,"lecon":"ἅγιος","editions":["WH","Treg","NA28"],"variantes":[{"t":"χριστὸς ὁ υἱὸς","editions":["RP"]}]}
+{"ref":"Jn.6.69","c":6,"v":69,"lecon":"θεοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ ζῶντος","editions":["RP"]}]}
+{"ref":"Jn.6.71","c":6,"v":71,"lecon":"Ἰσκαριώτου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰσκαριώτην","editions":["RP"]}]}
+{"ref":"Jn.6.71","c":6,"v":71,"lecon":"παραδιδόναι αὐτόν","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτὸν παραδιδόναι","editions":["RP"]}]}
+{"ref":"Jn.6.71","c":6,"v":71,"lecon":"εἷς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὢν","editions":["RP"]}]}
+{"ref":"Jn.7.1","c":7,"v":1,"lecon":"μετὰ ταῦτα περιεπάτει ὁ Ἰησοῦς","editions":["WH","Treg","NA28"],"variantes":[{"t":"περιεπάτει ὁ Ἰησοῦς μετὰ ταῦτα","editions":["RP"]}]}
+{"ref":"Jn.7.3","c":7,"v":3,"lecon":"θεωρήσουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"θεωρήσωσιν","editions":["RP"]}]}
+{"ref":"Jn.7.3","c":7,"v":3,"lecon":"σοῦ τὰ ἔργα","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὰ ἔργα σου","editions":["RP"]},{"t":"τὰ ἔργα","editions":["NIV"]}]}
+{"ref":"Jn.7.4","c":7,"v":4,"lecon":"τι ἐν κρυπτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐν κρυπτῷ τι","editions":["RP"]}]}
+{"ref":"Jn.7.8","c":7,"v":8,"lecon":"ἑορτήν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ταύτην","editions":["RP"]}]}
+{"ref":"Jn.7.8","c":7,"v":8,"lecon":"οὐκ","editions":["Treg","NA28"],"variantes":[{"t":"οὔπω","editions":["WH","NIV","RP"]}]}
+{"ref":"Jn.7.8","c":7,"v":8,"lecon":"ἐμὸς καιρὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"καιρὸς ὁ ἐμὸς","editions":["RP"]}]}
+{"ref":"Jn.7.9","c":7,"v":9,"lecon":"δὲ","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Jn.7.9","c":7,"v":9,"lecon":"αὐτὸς","editions":["Treg","NA28"],"variantes":[{"t":"αὐτοῖς","editions":["WH","RP"]}]}
+{"ref":"Jn.7.10","c":7,"v":10,"lecon":"εἰς τὴν ἑορτήν τότε καὶ αὐτὸς ἀνέβη","editions":["WH","Treg","NA28"],"variantes":[{"t":"τότε καὶ αὐτὸς ἀνέβη εἰς τὴν ἑορτήν","editions":["RP"]}]}
+{"ref":"Jn.7.12","c":7,"v":12,"lecon":"περὶ αὐτοῦ ἦν πολὺς","editions":["WH","Treg","NA28"],"variantes":[{"t":"πολὺς περὶ αὐτοῦ ἦν","editions":["RP"]}]}
+{"ref":"Jn.7.12","c":7,"v":12,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.7.14","c":7,"v":14,"lecon":"ἀνέβη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.7.15","c":7,"v":15,"lecon":"ἐθαύμαζον οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ἐθαύμαζον","editions":["RP"]}]}
+{"ref":"Jn.7.16","c":7,"v":16,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.7.19","c":7,"v":19,"lecon":"δέδωκεν","editions":["NA28","RP"],"variantes":[{"t":"ἔδωκεν","editions":["WH","Treg"]}]}
+{"ref":"Jn.7.20","c":7,"v":20,"lecon":"ὄχλος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.7.23","c":7,"v":23,"lecon":"λαμβάνει","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ ὁ","editions":["WH"]}]}
+{"ref":"Jn.7.24","c":7,"v":24,"lecon":"κρίνετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"κρίνατε","editions":["RP"]}]}
+{"ref":"Jn.7.26","c":7,"v":26,"lecon":"ἐστιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἀληθῶς","editions":["RP"]}]}
+{"ref":"Jn.7.31","c":7,"v":31,"lecon":"ἐκ τοῦ ὄχλου δὲ πολλοὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Πολλοὶ δὲ ἐκ τοῦ ὄχλου","editions":["RP"]}]}
+{"ref":"Jn.7.31","c":7,"v":31,"lecon":"ἔλεγον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὅτι","editions":["RP"]}]}
+{"ref":"Jn.7.31","c":7,"v":31,"lecon":"μὴ","editions":["WH","Treg","NA28"],"variantes":[{"t":"μήτι","editions":["RP"]}]}
+{"ref":"Jn.7.31","c":7,"v":31,"lecon":"σημεῖα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τούτων","editions":["RP"]}]}
+{"ref":"Jn.7.32","c":7,"v":32,"lecon":"οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑπηρέτας οἱ Φαρισαῖοι καὶ οἱ ἀρχιερεῖς","editions":["RP"]}]}
+{"ref":"Jn.7.33","c":7,"v":33,"lecon":"χρόνον μικρὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"μικρὸν χρόνον","editions":["RP"]}]}
+{"ref":"Jn.7.34","c":7,"v":34,"lecon":"εὑρήσετε","editions":["Treg","RP"],"variantes":[{"t":"+ με","editions":["WH","NA28"]}]}
+{"ref":"Jn.7.36","c":7,"v":36,"lecon":"ὁ λόγος οὗτος","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὗτος ὁ λόγος","editions":["RP"]}]}
+{"ref":"Jn.7.36","c":7,"v":36,"lecon":"εὑρήσετε","editions":["Treg","RP"],"variantes":[{"t":"+ με","editions":["WH","NA28"]}]}
+{"ref":"Jn.7.39","c":7,"v":39,"lecon":"οὗ","editions":["WH","Treg","RP"],"variantes":[{"t":"ὃ","editions":["NA28"]}]}
+{"ref":"Jn.7.39","c":7,"v":39,"lecon":"πιστεύσαντες","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύοντες","editions":["RP"]}]}
+{"ref":"Jn.7.39","c":7,"v":39,"lecon":"πνεῦμα","editions":["WH","NA28"],"variantes":[{"t":"+ ἅγιον","editions":["Treg","RP"]},{"t":"+ δεδομένον","editions":["NIV"]}]}
+{"ref":"Jn.7.39","c":7,"v":39,"lecon":"οὐδέπω","editions":["NA28","RP"],"variantes":[{"t":"οὔπω","editions":["WH","Treg"]}]}
+{"ref":"Jn.7.40","c":7,"v":40,"lecon":"Ἐκ τοῦ ὄχλου οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Πολλοὶ οὖν ἐκ τοῦ ὄχλου","editions":["RP"]}]}
+{"ref":"Jn.7.40","c":7,"v":40,"lecon":"τῶν λόγων τούτων","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸν λόγον","editions":["RP"]}]}
+{"ref":"Jn.7.40","c":7,"v":40,"lecon":"ἔλεγον","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ ὅτι","editions":["WH"]}]}
+{"ref":"Jn.7.41","c":7,"v":41,"lecon":"οἱ δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἄλλοι","editions":["RP"]}]}
+{"ref":"Jn.7.42","c":7,"v":42,"lecon":"οὐχ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Οὐχὶ","editions":["RP"]}]}
+{"ref":"Jn.7.42","c":7,"v":42,"lecon":"ἔρχεται ὁ χριστός","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ χριστός ἔρχεται","editions":["RP"]}]}
+{"ref":"Jn.7.43","c":7,"v":43,"lecon":"ἐγένετο ἐν τῷ ὄχλῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐν τῷ ὄχλῳ ἐγένετο","editions":["RP"]}]}
+{"ref":"Jn.7.44","c":7,"v":44,"lecon":"ἐπέβαλεν","editions":["NA28","RP"],"variantes":[{"t":"ἔβαλεν","editions":["WH","Treg"]}]}
+{"ref":"Jn.7.46","c":7,"v":46,"lecon":"ἐλάλησεν οὕτως","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὕτως ἐλάλησεν","editions":["RP"]}]}
+{"ref":"Jn.7.46","c":7,"v":46,"lecon":"ἄνθρωπος","editions":["WH","NA28"],"variantes":[{"t":"+ ὡς οὗτος ὁ ἄνθρωπος","editions":["Treg","RP"]}]}
+{"ref":"Jn.7.49","c":7,"v":49,"lecon":"ἐπάρατοί","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπικατάρατοί","editions":["RP"]}]}
+{"ref":"Jn.7.50","c":7,"v":50,"lecon":"ἐλθὼν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ νυκτὸς","editions":["RP"]}]}
+{"ref":"Jn.7.50","c":7,"v":50,"lecon":"πρότερον","editions":["WH","Treg"],"variantes":[{"t":"τὸ πρότερον","editions":["NA28"]},{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.7.51","c":7,"v":51,"lecon":"πρῶτον παρʼ αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"παρʼ αὐτοῦ πρότερον","editions":["RP"]}]}
+{"ref":"Jn.7.52","c":7,"v":52,"lecon":"ἐκ τῆς Γαλιλαίας προφήτης","editions":["WH","Treg","NA28"],"variantes":[{"t":"προφήτης ἐκ τῆς Γαλιλαίας","editions":["RP"]}]}
+{"ref":"Jn.7.52","c":7,"v":52,"lecon":"ἐγείρεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐγηγέρται","editions":["RP"]},{"t":"+ 7:53–8:11 53 καὶ ἐπορεύθη ἕκαστος εἰς τὸν οἶκον αὐτοῦ· 8:1 Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν Ἐλαιῶν. 2 Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερόν, καὶ πᾶς ὁ λαὸς ἤρχετο· καὶ καθίσας ἐδίδασκεν αὐτούς. 3 ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι πρὸς αὐτὸν γυναῖκα ἐν μοιχείᾳ καταλήφθεισαν· καὶ στήσαντες αὐτὴν ἐν μέσῳ, 4 λέγουσιν αὐτῷ, πειράζοντες· Διδάσκαλε, αὕτη ἡ γυνὴ κατελήφθη ἐπʼ αὐτοφόρῳ μοιχευομένη. 5 ἐν δὲ τῷ νόμῳ Μωσῆς ἡμῖν ἐνετείλατο τὰς τοιαύτας λιθοβολεῖσθαι· σὺ οὖν τί λέγεις ;  6 τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας, τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν, μὴ προσποιούμενος. 7 ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνακύψας εἶπεν πρὸς αὐτούς· Ὁ ἀναμάρτητος ὑμῶν, πρῶτον ἐπʼ αὐτὴν τὸν λίθον βαλέτω. 8 καὶ πάλιν κάτω κύψας ἔγραφεν εἰς τὴν γῆν. 9 οἱ δέ, ἀκούσαντες, καὶ ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι, ἐξήρχοντο εἷς καθʼ εἷς, ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων· καὶ κατελείφθη μόνος ὁ Ἰησοῦς, καὶ ἡ γυνὴ ἐν μέσῳ οὖσα. 10 ἀνακύψας δὲ ὁ Ἰησοῦς, καὶ μηδένα θεασάμενος πλὴν τὴς γυναικός, εἶπεν αὐτῇ· Ποῦ εἰσιν ἐκεῖνοι οἱ κατήγοροί σου ;  Οὐδείς σε κατέκρινεν ;  11 ἡ δὲ εἶπεν· Οὐδείς, κύριε. εἶπεν δὲ ὁ Ἰησοῦς· Οὐδὲ ἐγώ σε κρίνω· πορεύου καὶ μηκέτι ἁμάρτανε.","editions":["RP"]}]}
+{"ref":"Jn.8.12","c":8,"v":12,"lecon":"ἐλάλησεν ὁ Ἰησοῦς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ Ἰησοῦς ἐλάλησεν","editions":["RP"]}]}
+{"ref":"Jn.8.12","c":8,"v":12,"lecon":"ἐμοὶ","editions":["NA28","RP"],"variantes":[{"t":"μοι","editions":["WH","Treg"]}]}
+{"ref":"Jn.8.14","c":8,"v":14,"lecon":"ἢ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ","editions":["RP"]}]}
+{"ref":"Jn.8.16","c":8,"v":16,"lecon":"ἀληθινή","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀληθής","editions":["RP"]}]}
+{"ref":"Jn.8.19","c":8,"v":19,"lecon":"ἂν ᾔδειτε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ᾔδειτε ἂν","editions":["RP"]}]}
+{"ref":"Jn.8.20","c":8,"v":20,"lecon":"ἐλάλησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.8.21","c":8,"v":21,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.8.23","c":8,"v":23,"lecon":"ἔλεγεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.8.23","c":8,"v":23,"lecon":"τούτου τοῦ κόσμου","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦ κόσμου τούτου","editions":["RP"]}]}
+{"ref":"Jn.8.25","c":8,"v":25,"lecon":"εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.8.25","c":8,"v":25,"lecon":"ὅ τι","editions":["Treg","NA28","RP"],"variantes":[{"t":"ὅτι","editions":["WH"]}]}
+{"ref":"Jn.8.26","c":8,"v":26,"lecon":"λαλῶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"λὲγω","editions":["RP"]}]}
+{"ref":"Jn.8.28","c":8,"v":28,"lecon":"οὖν","editions":["WH","Treg","NIV"],"variantes":[{"t":"+ αὐτοῖς","editions":["RP","NA28"]}]}
+{"ref":"Jn.8.28","c":8,"v":28,"lecon":"πατὴρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.8.29","c":8,"v":29,"lecon":"μόνον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ πατήρ","editions":["RP"]}]}
+{"ref":"Jn.8.33","c":8,"v":33,"lecon":"πρὸς αὐτόν","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτῷ","editions":["RP"]}]}
+{"ref":"Jn.8.35","c":8,"v":35,"lecon":"ὁ","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"+ δὲ","editions":["NIV"]}]}
+{"ref":"Jn.8.38","c":8,"v":38,"lecon":"ἃ ἐγὼ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἐγὼ ὃ","editions":["RP"]}]}
+{"ref":"Jn.8.38","c":8,"v":38,"lecon":"πατρὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.8.38","c":8,"v":38,"lecon":"ἃ ἠκούσατε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὃ ἑωράκατε","editions":["RP"]}]}
+{"ref":"Jn.8.38","c":8,"v":38,"lecon":"τοῦ πατρὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὑμῶν","editions":["NIV"]},{"t":"τῷ πατρὶ ὑμῶν","editions":["RP"]}]}
+{"ref":"Jn.8.39","c":8,"v":39,"lecon":"ἐστε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἦτε","editions":["NIV","RP"]}]}
+{"ref":"Jn.8.39","c":8,"v":39,"lecon":"ἐποιεῖτε","editions":["Treg","NA28","RP"],"variantes":[{"t":"ποιεῖτε","editions":["WH"]}]}
+{"ref":"Jn.8.41","c":8,"v":41,"lecon":"εἶπαν","editions":["WH","Treg","NIV"],"variantes":[{"t":"+ οὖν","editions":["RP","NA28"]}]}
+{"ref":"Jn.8.41","c":8,"v":41,"lecon":"οὐ γεγεννήμεθα","editions":["NA28","RP"],"variantes":[{"t":"οὐκ ἐγεννήθημεν","editions":["WH","Treg"]}]}
+{"ref":"Jn.8.42","c":8,"v":42,"lecon":"εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.8.44","c":8,"v":44,"lecon":"οὐκ ἔστηκεν","editions":["WH","NA28"],"variantes":[{"t":"οὐχ ἕστηκεν","editions":["Treg","RP"]}]}
+{"ref":"Jn.8.46","c":8,"v":46,"lecon":"εἰ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.8.48","c":8,"v":48,"lecon":"Ἀπεκρίθησαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.8.51","c":8,"v":51,"lecon":"ἐμὸν λόγον","editions":["WH","Treg","NA28"],"variantes":[{"t":"λόγον τὸν ἐμὸν","editions":["RP"]}]}
+{"ref":"Jn.8.52","c":8,"v":52,"lecon":"εἶπον","editions":["WH","Treg"],"variantes":[{"t":"+ οὖν","editions":["NA28","RP"]}]}
+{"ref":"Jn.8.53","c":8,"v":53,"lecon":"σεαυτὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ σὺ","editions":["RP"]}]}
+{"ref":"Jn.8.54","c":8,"v":54,"lecon":"δοξάσω","editions":["WH","Treg","NA28"],"variantes":[{"t":"δοξάζω","editions":["RP"]}]}
+{"ref":"Jn.8.54","c":8,"v":54,"lecon":"ἡμῶν","editions":["Treg","NA28","RP"],"variantes":[{"t":"ὑμῶν","editions":["WH"]}]}
+{"ref":"Jn.8.55","c":8,"v":55,"lecon":"ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμῶν","editions":["RP"]}]}
+{"ref":"Jn.8.58","c":8,"v":58,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.8.59","c":8,"v":59,"lecon":"ἱεροῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ διελθὼν διὰ μέσου αὐτῶν καὶ παρῆγεν οὕτως","editions":["RP"]}]}
+{"ref":"Jn.9.4","c":9,"v":4,"lecon":"ἡμᾶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἐμὲ","editions":["RP"]}]}
+{"ref":"Jn.9.6","c":9,"v":6,"lecon":"ἐπέχρισεν","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἐπέθηκεν","editions":["WH"]}]}
+{"ref":"Jn.9.6","c":9,"v":6,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.9.6","c":9,"v":6,"lecon":"ὀφθαλμούς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ τυφλοῦ","editions":["RP"]}]}
+{"ref":"Jn.9.8","c":9,"v":8,"lecon":"προσαίτης","editions":["WH","Treg","NA28"],"variantes":[{"t":"τυφλὸς","editions":["RP"]}]}
+{"ref":"Jn.9.9","c":9,"v":9,"lecon":"ἔλεγον Οὐχί ἀλλὰ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ ὅτι","editions":["RP"]}]}
+{"ref":"Jn.9.10","c":9,"v":10,"lecon":"Πῶς","editions":["Treg","RP"],"variantes":[{"t":"+ οὖν","editions":["WH","NA28"]}]}
+{"ref":"Jn.9.11","c":9,"v":11,"lecon":"ἐκεῖνος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.9.11","c":9,"v":11,"lecon":"Ὁ ἄνθρωπος ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἄνθρωπος","editions":["RP"]}]}
+{"ref":"Jn.9.11","c":9,"v":11,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.9.11","c":9,"v":11,"lecon":"τὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὴν κολυμβήθραν τοῦ","editions":["RP"]}]}
+{"ref":"Jn.9.11","c":9,"v":11,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ","editions":["RP"]}]}
+{"ref":"Jn.9.12","c":9,"v":12,"lecon":"καὶ εἶπαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Εἶπον οὖν","editions":["RP"]}]}
+{"ref":"Jn.9.14","c":9,"v":14,"lecon":"ἐν ᾗ ἡμέρᾳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅτε","editions":["RP"]}]}
+{"ref":"Jn.9.16","c":9,"v":16,"lecon":"Οὐκ ἔστιν οὗτος παρὰ θεοῦ ὁ ἄνθρωπος","editions":["WH","Treg","NA28"],"variantes":[{"t":"Οὗτος ὁ ἄνθρωπος οὐκ ἔστιν παρὰ τοῦ θεοῦ","editions":["RP"]}]}
+{"ref":"Jn.9.16","c":9,"v":16,"lecon":"ἄλλοι","editions":["Treg","RP"],"variantes":[{"t":"+ δὲ","editions":["WH","NA28"]}]}
+{"ref":"Jn.9.17","c":9,"v":17,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.9.17","c":9,"v":17,"lecon":"Τί σὺ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Σὺ τί","editions":["RP"]}]}
+{"ref":"Jn.9.18","c":9,"v":18,"lecon":"ἦν τυφλὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"τυφλὸς ἦν","editions":["RP"]}]}
+{"ref":"Jn.9.18","c":9,"v":18,"lecon":"τοῦ ἀναβλέψαντος","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Jn.9.19","c":9,"v":19,"lecon":"βλέπει ἄρτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἄρτι βλέπει","editions":["RP"]}]}
+{"ref":"Jn.9.20","c":9,"v":20,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ αὐτοῖς","editions":["RP"]}]}
+{"ref":"Jn.9.21","c":9,"v":21,"lecon":"αὐτὸν ἐρωτήσατε ἡλικίαν ἔχει","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτὸς ἡλικίαν ἔχει αὐτὸν ἐρωτήσατε","editions":["RP"]}]}
+{"ref":"Jn.9.23","c":9,"v":23,"lecon":"ἐπερωτήσατε","editions":["WH","NA28"],"variantes":[{"t":"ἐρωτήσατε","editions":["Treg","RP"]}]}
+{"ref":"Jn.9.24","c":9,"v":24,"lecon":"τὸν ἄνθρωπον ἐκ δευτέρου","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐκ δευτέρου τὸν ἄνθρωπον","editions":["RP"]}]}
+{"ref":"Jn.9.24","c":9,"v":24,"lecon":"οὗτος ὁ ἄνθρωπος","editions":["WH","NA28"],"variantes":[{"t":"ὁ ἄνθρωπος οὗτος","editions":["Treg","RP"]}]}
+{"ref":"Jn.9.25","c":9,"v":25,"lecon":"ἐκεῖνος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.9.26","c":9,"v":26,"lecon":"οὖν αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ αὐτῷ πάλιν","editions":["RP"]}]}
+{"ref":"Jn.9.28","c":9,"v":28,"lecon":"ἐλοιδόρησαν","editions":["RP"],"variantes":[{"t":"καὶ ἐλοιδόρησαν","editions":["WH","NA28"]},{"t":"οἱ δὲ ἐλοιδόρησαν","editions":["Treg"]}]}
+{"ref":"Jn.9.28","c":9,"v":28,"lecon":"μαθητὴς εἶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶ μαθητὴς","editions":["RP"]}]}
+{"ref":"Jn.9.30","c":9,"v":30,"lecon":"τούτῳ γὰρ τὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"γὰρ τούτῳ","editions":["RP"]}]}
+{"ref":"Jn.9.31","c":9,"v":31,"lecon":"οἴδαμεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.9.31","c":9,"v":31,"lecon":"ἁμαρτωλῶν ὁ θεὸς","editions":["NA28","RP"],"variantes":[{"t":"ὁ θεὸς ἁμαρτωλῶν","editions":["WH","Treg"]}]}
+{"ref":"Jn.9.35","c":9,"v":35,"lecon":"Ἤκουσεν","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ","editions":["Treg","RP"]}]}
+{"ref":"Jn.9.35","c":9,"v":35,"lecon":"εἶπεν","editions":["WH","NA28"],"variantes":[{"t":"+ αὐτῷ","editions":["Treg","RP"]}]}
+{"ref":"Jn.9.35","c":9,"v":35,"lecon":"ἀνθρώπου","editions":["WH","NA28"],"variantes":[{"t":"θεοῦ","editions":["Treg","RP"]}]}
+{"ref":"Jn.9.37","c":9,"v":37,"lecon":"εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.9.40","c":9,"v":40,"lecon":"ἤκουσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ἤκουσαν","editions":["RP"]}]}
+{"ref":"Jn.9.40","c":9,"v":40,"lecon":"μετʼ αὐτοῦ ὄντες","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὄντες μετʼ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.9.41","c":9,"v":41,"lecon":"ἡ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.10.3","c":10,"v":3,"lecon":"φωνεῖ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καλεῖ","editions":["RP"]}]}
+{"ref":"Jn.10.4","c":10,"v":4,"lecon":"ὅταν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ὅταν","editions":["RP"]}]}
+{"ref":"Jn.10.4","c":10,"v":4,"lecon":"πάντα","editions":["WH","Treg","NA28"],"variantes":[{"t":"πρόβατα","editions":["RP"]}]}
+{"ref":"Jn.10.5","c":10,"v":5,"lecon":"ἀκολουθήσουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκολουθήσωσιν","editions":["RP"]}]}
+{"ref":"Jn.10.6","c":10,"v":6,"lecon":"ἦν","editions":["WH","NA28","RP"],"variantes":[{"t":"ᾖ","editions":["Treg"]}]}
+{"ref":"Jn.10.7","c":10,"v":7,"lecon":"αὐτοῖς","editions":["Treg","RP"],"variantes":[{"t":"–","editions":["WH","NA28"]}]}
+{"ref":"Jn.10.7","c":10,"v":7,"lecon":"ὅτι","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.10.8","c":10,"v":8,"lecon":"πρὸ ἐμοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.10.12","c":10,"v":12,"lecon":"μισθωτὸς","editions":["WH","NA28"],"variantes":[{"t":"+ δέ","editions":["Treg","RP"]}]}
+{"ref":"Jn.10.12","c":10,"v":12,"lecon":"ἔστιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἰσιν","editions":["RP"]}]}
+{"ref":"Jn.10.12","c":10,"v":12,"lecon":"σκορπίζει","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τὰ πρόβατα","editions":["RP"]}]}
+{"ref":"Jn.10.13","c":10,"v":13,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ὁδὲ μισθωτὸς φεύγει ὅτι","editions":["RP"]}]}
+{"ref":"Jn.10.14","c":10,"v":14,"lecon":"γινώσκουσί με τὰ ἐμά","editions":["WH","Treg","NA28"],"variantes":[{"t":"γινώσκομαι ὑπὸ τῶν ἐμῶν","editions":["RP"]}]}
+{"ref":"Jn.10.16","c":10,"v":16,"lecon":"δεῖ με","editions":["WH","Treg","NA28"],"variantes":[{"t":"με δεῖ","editions":["RP"]}]}
+{"ref":"Jn.10.16","c":10,"v":16,"lecon":"γενήσονται","editions":["WH","Treg","NA28"],"variantes":[{"t":"γενήσεται","editions":["RP"]}]}
+{"ref":"Jn.10.17","c":10,"v":17,"lecon":"με ὁ πατὴρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ πατήρ με","editions":["RP"]}]}
+{"ref":"Jn.10.18","c":10,"v":18,"lecon":"αἴρει","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἦρεν","editions":["WH"]}]}
+{"ref":"Jn.10.19","c":10,"v":19,"lecon":"Σχίσμα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.10.21","c":10,"v":21,"lecon":"ἄλλοι","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"+ δὲ","editions":["NIV"]}]}
+{"ref":"Jn.10.21","c":10,"v":21,"lecon":"ἀνοῖξαι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀνοίγειν","editions":["RP"]}]}
+{"ref":"Jn.10.22","c":10,"v":22,"lecon":"τότε","editions":["WH","NA28"],"variantes":[{"t":"δὲ","editions":["Treg","RP"]}]}
+{"ref":"Jn.10.22","c":10,"v":22,"lecon":"τοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.10.22","c":10,"v":22,"lecon":"χειμὼν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ χειμὼν","editions":["RP"]}]}
+{"ref":"Jn.10.23","c":10,"v":23,"lecon":"τοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.10.26","c":10,"v":26,"lecon":"ὅτι οὐκ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐ γάρ","editions":["RP"]}]}
+{"ref":"Jn.10.26","c":10,"v":26,"lecon":"ἐμῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καθὼς εἶπον ὑμῖν","editions":["RP"]}]}
+{"ref":"Jn.10.27","c":10,"v":27,"lecon":"ἀκούουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκούει","editions":["RP"]}]}
+{"ref":"Jn.10.28","c":10,"v":28,"lecon":"δίδωμι αὐτοῖς ζωὴν αἰώνιον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ζωὴν αἰώνιον δίδωμι αὐτοῖς","editions":["RP"]}]}
+{"ref":"Jn.10.29","c":10,"v":29,"lecon":"ὃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὃς","editions":["NIV","RP"]}]}
+{"ref":"Jn.10.29","c":10,"v":29,"lecon":"μοι","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"+ αὐτὰ","editions":["NIV"]}]}
+{"ref":"Jn.10.29","c":10,"v":29,"lecon":"πάντων μεῖζων","editions":["Holmes","WHmarg"],"variantes":[{"t":"πάντων μεῖζόν","editions":["WH","Treg","NA28"]},{"t":"μείζων πάντων","editions":["NIV","RP"]}]}
+{"ref":"Jn.10.29","c":10,"v":29,"lecon":"πατρός","editions":["WH","NA28"],"variantes":[{"t":"+ μου","editions":["Treg","RP"]}]}
+{"ref":"Jn.10.31","c":10,"v":31,"lecon":"οὖν","editions":["Treg","RP"],"variantes":[{"t":"–","editions":["WH","NA28"]}]}
+{"ref":"Jn.10.32","c":10,"v":32,"lecon":"ἔργα καλὰ ἔδειξα ὑμῖν","editions":["NA28"],"variantes":[{"t":"καλὰ ἔργα ἔδειξα ὑμῖν","editions":["Treg","RP"]},{"t":"ἔργα ἔδειξα ὑμῖν καλὰ","editions":["WH"]}]}
+{"ref":"Jn.10.32","c":10,"v":32,"lecon":"πατρός","editions":["WH","NA28"],"variantes":[{"t":"+ μου","editions":["Treg","RP"]}]}
+{"ref":"Jn.10.32","c":10,"v":32,"lecon":"ἐμὲ λιθάζετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"λιθάζετε ἐμὲ","editions":["RP"]}]}
+{"ref":"Jn.10.33","c":10,"v":33,"lecon":"Ἰουδαῖοι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ λέγοντες","editions":["RP"]}]}
+{"ref":"Jn.10.34","c":10,"v":34,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.10.38","c":10,"v":38,"lecon":"πιστεύετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσατε","editions":["RP"]}]}
+{"ref":"Jn.10.38","c":10,"v":38,"lecon":"γινώσκητε","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσητε","editions":["RP"]}]}
+{"ref":"Jn.10.38","c":10,"v":38,"lecon":"τῷ πατρί","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτῷ","editions":["RP"]}]}
+{"ref":"Jn.10.39","c":10,"v":39,"lecon":"πάλιν αὐτὸν","editions":["Treg","RP"],"variantes":[{"t":"αὐτὸν πάλιν","editions":["WH","NA28"]}]}
+{"ref":"Jn.10.42","c":10,"v":42,"lecon":"πολλοὶ ἐπίστευσαν εἰς αὐτὸν ἐκεῖ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπίστευσαν πολλοὶ ἐκεῖ εἰς αὐτόν","editions":["RP"]}]}
+{"ref":"Jn.11.2","c":11,"v":2,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρία","editions":["RP"]}]}
+{"ref":"Jn.11.9","c":11,"v":9,"lecon":"ὧραί εἰσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἰσιν ὧραί","editions":["RP"]}]}
+{"ref":"Jn.11.12","c":11,"v":12,"lecon":"αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.11.17","c":11,"v":17,"lecon":"ἤδη ἡμέρας","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἡμέρας ἤδη","editions":["RP"]}]}
+{"ref":"Jn.11.18","c":11,"v":18,"lecon":"ἡ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.11.19","c":11,"v":19,"lecon":"πολλοὶ δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ πολλοὶ","editions":["RP"]}]}
+{"ref":"Jn.11.19","c":11,"v":19,"lecon":"τὴν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὰς περὶ","editions":["RP"]}]}
+{"ref":"Jn.11.19","c":11,"v":19,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρίαν","editions":["RP"]}]}
+{"ref":"Jn.11.19","c":11,"v":19,"lecon":"ἀδελφοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτῶν","editions":["RP"]}]}
+{"ref":"Jn.11.20","c":11,"v":20,"lecon":"Μαρία","editions":["Treg","RP"],"variantes":[{"t":"Μαριὰμ","editions":["WH","NA28"]}]}
+{"ref":"Jn.11.21","c":11,"v":21,"lecon":"ἡ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.11.21","c":11,"v":21,"lecon":"τὸν","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.11.21","c":11,"v":21,"lecon":"οὐκ ἂν ἀπέθανεν ὁ ἀδελφός μου","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ ἀδελφός μου οὐκ ἂν ἐτεθνήκει","editions":["RP"]}]}
+{"ref":"Jn.11.22","c":11,"v":22,"lecon":"καὶ","editions":["WH","Treg"],"variantes":[{"t":"ἀλλὰ καὶ","editions":["NA28","RP"]}]}
+{"ref":"Jn.11.24","c":11,"v":24,"lecon":"ἡ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.11.28","c":11,"v":28,"lecon":"τοῦτο","editions":["WH","Treg","NA28"],"variantes":[{"t":"ταῦτα","editions":["RP"]}]}
+{"ref":"Jn.11.28","c":11,"v":28,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρίαν","editions":["RP"]}]}
+{"ref":"Jn.11.29","c":11,"v":29,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.11.29","c":11,"v":29,"lecon":"ἠγέρθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐγείρεται","editions":["RP"]}]}
+{"ref":"Jn.11.29","c":11,"v":29,"lecon":"ἤρχετο","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔρχεται","editions":["RP"]}]}
+{"ref":"Jn.11.30","c":11,"v":30,"lecon":"ἔτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.11.31","c":11,"v":31,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρίαν","editions":["RP"]}]}
+{"ref":"Jn.11.31","c":11,"v":31,"lecon":"δόξαντες","editions":["WH","Treg","NA28"],"variantes":[{"t":"λέγοντες","editions":["RP"]}]}
+{"ref":"Jn.11.32","c":11,"v":32,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρία","editions":["RP"]}]}
+{"ref":"Jn.11.32","c":11,"v":32,"lecon":"ἦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.11.32","c":11,"v":32,"lecon":"πρὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἰς","editions":["RP"]}]}
+{"ref":"Jn.11.32","c":11,"v":32,"lecon":"μου ἀπέθανεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπέθανεν μου","editions":["RP"]}]}
+{"ref":"Jn.11.39","c":11,"v":39,"lecon":"τετελευτηκότος","editions":["WH","NA28"],"variantes":[{"t":"τελευτηκότος","editions":["Treg"]},{"t":"τεθνηκότος","editions":["RP"]}]}
+{"ref":"Jn.11.40","c":11,"v":40,"lecon":"ὄψῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὄψει","editions":["RP"]}]}
+{"ref":"Jn.11.41","c":11,"v":41,"lecon":"λίθον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὗ ἦν ὁ τεθνηκὼς κειμένος","editions":["RP"]}]}
+{"ref":"Jn.11.44","c":11,"v":44,"lecon":"ἐξῆλθεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ἐξῆλθεν","editions":["RP"]}]}
+{"ref":"Jn.11.44","c":11,"v":44,"lecon":"αὐτοῖς ὁ Ἰησοῦς","editions":["Treg","NA28","RP"],"variantes":[{"t":"ὁ Ἰησοῦς αὐτοῖς","editions":["WH"]}]}
+{"ref":"Jn.11.44","c":11,"v":44,"lecon":"αὐτὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.11.45","c":11,"v":45,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρίαν","editions":["RP"]}]}
+{"ref":"Jn.11.45","c":11,"v":45,"lecon":"ἃ","editions":["RP","NA28"],"variantes":[{"t":"ὃ","editions":["WH","Treg"]}]}
+{"ref":"Jn.11.45","c":11,"v":45,"lecon":"ἐποίησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.11.46","c":11,"v":46,"lecon":"ἐποίησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.11.47","c":11,"v":47,"lecon":"ποιεῖ σημεῖα","editions":["WH","Treg","NA28"],"variantes":[{"t":"σημεῖα ποιεῖ","editions":["RP"]}]}
+{"ref":"Jn.11.50","c":11,"v":50,"lecon":"λογίζεσθε","editions":["WH","Treg","NA28"],"variantes":[{"t":"διαλογίζεσθε","editions":["RP"]}]}
+{"ref":"Jn.11.50","c":11,"v":50,"lecon":"ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἡμῖν","editions":["RP"]}]}
+{"ref":"Jn.11.53","c":11,"v":53,"lecon":"ἐβουλεύσαντο","editions":["WH","Treg","NA28"],"variantes":[{"t":"συνεβουλεύσαντο","editions":["RP"]}]}
+{"ref":"Jn.11.54","c":11,"v":54,"lecon":"Ὁ οὖν Ἰησοῦς","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰησοῦς οὖν","editions":["RP"]}]}
+{"ref":"Jn.11.54","c":11,"v":54,"lecon":"ἔμεινεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"διέτριβεν","editions":["RP"]}]}
+{"ref":"Jn.11.54","c":11,"v":54,"lecon":"μαθητῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.11.57","c":11,"v":57,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Jn.11.57","c":11,"v":57,"lecon":"ἐντολὰς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐντολήν","editions":["RP"]}]}
+{"ref":"Jn.12.1","c":12,"v":1,"lecon":"Λάζαρος","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ τεθνηκώς","editions":["Treg","RP"]}]}
+{"ref":"Jn.12.1","c":12,"v":1,"lecon":"Ἰησοῦς","editions":["WH","NA28"],"variantes":[{"t":"ὁ Ἰησοῦς","editions":["Treg"]},{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.2","c":12,"v":2,"lecon":"ἐκ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.3","c":12,"v":3,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρία","editions":["RP"]}]}
+{"ref":"Jn.12.4","c":12,"v":4,"lecon":"δὲ","editions":["WH","NA28"],"variantes":[{"t":"οὖν","editions":["Treg","RP"]}]}
+{"ref":"Jn.12.4","c":12,"v":4,"lecon":"Ἰούδας ὁ Ἰσκαριώτης εἷς τῶν μαθητῶν αὐτοῦ","editions":["WH","Treg"],"variantes":[{"t":"Ἰούδας ὁ Ἰσκαριώτης εἷς ἐκ τῶν μαθητῶν αὐτοῦ","editions":["NA28"]},{"t":"εἷς ἐκ τῶν μαθητῶν αὐτοῦ Ἰούδας Σίμωνος Ἰσκαριώτης","editions":["RP"]}]}
+{"ref":"Jn.12.6","c":12,"v":6,"lecon":"ἔχων","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶχεν καὶ","editions":["RP"]}]}
+{"ref":"Jn.12.7","c":12,"v":7,"lecon":"ἵνα","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.7","c":12,"v":7,"lecon":"τηρήσῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τετήρηκεν","editions":["RP"]}]}
+{"ref":"Jn.12.9","c":12,"v":9,"lecon":"οὖν","editions":["Treg","RP"],"variantes":[{"t":"+ ὁ","editions":["WH","NA28"]}]}
+{"ref":"Jn.12.12","c":12,"v":12,"lecon":"⸀ὁ","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.12.12","c":12,"v":12,"lecon":"⸁ὁ","editions":["NA28"],"variantes":[{"t":"–","editions":["WH","Treg","RP"]}]}
+{"ref":"Jn.12.13","c":12,"v":13,"lecon":"ἐκραύγαζον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔκραζον","editions":["RP"]}]}
+{"ref":"Jn.12.13","c":12,"v":13,"lecon":"καὶ ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.16","c":12,"v":16,"lecon":"ταῦτα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.12.16","c":12,"v":16,"lecon":"αὐτοῦ οἱ μαθηταὶ","editions":["WH","NA28"],"variantes":[{"t":"οἱ μαθηταὶ αὐτοῦ","editions":["Treg","RP"]}]}
+{"ref":"Jn.12.18","c":12,"v":18,"lecon":"καὶ","editions":["WH","RP","NA28"],"variantes":[{"t":"–","editions":["Treg","NIV"]}]}
+{"ref":"Jn.12.18","c":12,"v":18,"lecon":"ἤκουσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἤκουσεν","editions":["RP"]}]}
+{"ref":"Jn.12.19","c":12,"v":19,"lecon":"κόσμος","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"+ ὅλος","editions":["NIV"]}]}
+{"ref":"Jn.12.20","c":12,"v":20,"lecon":"Ἕλληνές τινες","editions":["WH","Treg","NA28"],"variantes":[{"t":"τινες Ἕλληνές","editions":["RP"]}]}
+{"ref":"Jn.12.22","c":12,"v":22,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.22","c":12,"v":22,"lecon":"ἔρχεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ πάλιν","editions":["RP"]}]}
+{"ref":"Jn.12.22","c":12,"v":22,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.23","c":12,"v":23,"lecon":"ἀποκρίνεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπεκρίνατο","editions":["RP"]}]}
+{"ref":"Jn.12.25","c":12,"v":25,"lecon":"ἀπολλύει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπολέσει","editions":["RP"]}]}
+{"ref":"Jn.12.26","c":12,"v":26,"lecon":"τις διακονῇ","editions":["WH","Treg","NA28"],"variantes":[{"t":"διακονῇ τις","editions":["RP"]}]}
+{"ref":"Jn.12.26","c":12,"v":26,"lecon":"ἐάν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἐάν","editions":["RP"]}]}
+{"ref":"Jn.12.30","c":12,"v":30,"lecon":"Ἰησοῦς καὶ εἶπεν","editions":["Treg","NA28","RP"],"variantes":[{"t":"καὶ εἶπεν Ἰησοῦς","editions":["WH"]}]}
+{"ref":"Jn.12.30","c":12,"v":30,"lecon":"ἡ φωνὴ αὕτη","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὕτη ἡ φωνὴ","editions":["RP"]}]}
+{"ref":"Jn.12.32","c":12,"v":32,"lecon":"ἐὰν","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἂν","editions":["WH"]}]}
+{"ref":"Jn.12.34","c":12,"v":34,"lecon":"οὖν","editions":["WH","NA28"],"variantes":[{"t":"–","editions":["Treg","RP"]}]}
+{"ref":"Jn.12.34","c":12,"v":34,"lecon":"λέγεις σὺ","editions":["WH","Treg","NA28"],"variantes":[{"t":"σὺ λέγεις","editions":["RP"]}]}
+{"ref":"Jn.12.34","c":12,"v":34,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.12.35","c":12,"v":35,"lecon":"ἐν ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"μεθʼ ὑμῶν","editions":["RP"]}]}
+{"ref":"Jn.12.35","c":12,"v":35,"lecon":"ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἕως","editions":["RP"]}]}
+{"ref":"Jn.12.36","c":12,"v":36,"lecon":"ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἕως","editions":["RP"]}]}
+{"ref":"Jn.12.36","c":12,"v":36,"lecon":"ἐλάλησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.12.40","c":12,"v":40,"lecon":"ἐπώρωσεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"πεπώρωκεν","editions":["RP"]}]}
+{"ref":"Jn.12.40","c":12,"v":40,"lecon":"στραφῶσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπιστραφῶσιν","editions":["RP"]}]}
+{"ref":"Jn.12.40","c":12,"v":40,"lecon":"ἰάσομαι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἰάσωμαι","editions":["RP"]}]}
+{"ref":"Jn.12.41","c":12,"v":41,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅτε","editions":["RP"]}]}
+{"ref":"Jn.12.47","c":12,"v":47,"lecon":"φυλάξῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσῃ","editions":["RP"]}]}
+{"ref":"Jn.12.49","c":12,"v":49,"lecon":"δέδωκεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔδωκεν","editions":["RP"]}]}
+{"ref":"Jn.12.50","c":12,"v":50,"lecon":"ἐγὼ λαλῶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"λαλῶ ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.13.1","c":13,"v":1,"lecon":"ἦλθεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐλήλυθεν","editions":["RP"]}]}
+{"ref":"Jn.13.2","c":13,"v":2,"lecon":"γινομένου","editions":["WH","Treg","NA28"],"variantes":[{"t":"γενομένου","editions":["RP"]}]}
+{"ref":"Jn.13.2","c":13,"v":2,"lecon":"ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος Ἰσκ.","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰούδα Σίμωνος Ἰσκ. ἵνα αὐτὸν παραδῷ","editions":["RP"]}]}
+{"ref":"Jn.13.2","c":13,"v":2,"lecon":"Ἰσκαριώτου","editions":["NA28","RP"],"variantes":[{"t":"Ἰσκαριώτης","editions":["WH","Treg"]}]}
+{"ref":"Jn.13.3","c":13,"v":3,"lecon":"εἰδὼς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.13.3","c":13,"v":3,"lecon":"ἔδωκεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέδωκεν","editions":["RP"]}]}
+{"ref":"Jn.13.6","c":13,"v":6,"lecon":"λέγει","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ λέγει","editions":["RP"]}]}
+{"ref":"Jn.13.6","c":13,"v":6,"lecon":"αὐτῷ","editions":["WH","NA28"],"variantes":[{"t":"+ ἐκεῖνος","editions":["Treg","RP"]}]}
+{"ref":"Jn.13.8","c":13,"v":8,"lecon":"μου τοὺς πόδας","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοὺς πόδας μου","editions":["RP"]}]}
+{"ref":"Jn.13.8","c":13,"v":8,"lecon":"Ἰησοῦς αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτῷ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.13.10","c":13,"v":10,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.13.10","c":13,"v":10,"lecon":"οὐκ ἔχει χρείαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐ χρείαν ἔχει","editions":["RP"]}]}
+{"ref":"Jn.13.10","c":13,"v":10,"lecon":"εἰ μὴ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἢ","editions":["RP"]}]}
+{"ref":"Jn.13.11","c":13,"v":11,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.13.12","c":13,"v":12,"lecon":"καὶ","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Jn.13.12","c":13,"v":12,"lecon":"καὶ ἀνέπεσεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀναπεσὼν","editions":["RP"]}]}
+{"ref":"Jn.13.18","c":13,"v":18,"lecon":"τίνας","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὓς","editions":["RP"]}]}
+{"ref":"Jn.13.18","c":13,"v":18,"lecon":"μου","editions":["WH","Treg","NA28"],"variantes":[{"t":"μετʼ ἐμοῦ","editions":["RP"]}]}
+{"ref":"Jn.13.19","c":13,"v":19,"lecon":"πιστεύσητε ὅταν γένηται","editions":["NA28"],"variantes":[{"t":"πιστεύητε ὅταν γένηται","editions":["WH","Treg"]},{"t":"ὅταν γένηται πιστεύσητε","editions":["RP"]}]}
+{"ref":"Jn.13.20","c":13,"v":20,"lecon":"ἄν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐάν","editions":["RP"]}]}
+{"ref":"Jn.13.21","c":13,"v":21,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.13.22","c":13,"v":22,"lecon":"ἔβλεπον","editions":["WH","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP","Treg"]}]}
+{"ref":"Jn.13.23","c":13,"v":23,"lecon":"ἦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.13.23","c":13,"v":23,"lecon":"ἐκ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.13.24","c":13,"v":24,"lecon":"πυθέσθαι τίς ἂν εἴη","editions":["NA28","RP"],"variantes":[{"t":"καὶ λέγει αὐτῷ Εἰπὲ τίς ἐστιν","editions":["WH","Treg"]}]}
+{"ref":"Jn.13.25","c":13,"v":25,"lecon":"ἀναπεσὼν","editions":["WH","Treg"],"variantes":[{"t":"ἀναπεσὼν οὖν","editions":["NA28"]},{"t":"ἐπιπεσὼν δὲ","editions":["RP"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"ἀποκρίνεται","editions":["Treg","NA28","RP"],"variantes":[{"t":"+ οὖν","editions":["WH"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"βάψω","editions":["WH","Treg","NA28"],"variantes":[{"t":"βάψας","editions":["RP"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"καὶ δώσω αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπιδώσω","editions":["RP"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"βάψας οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἐμβάψας","editions":["RP"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"ψωμίον","editions":["NIV","RP"],"variantes":[{"t":"+ λαμβάνει καὶ","editions":["WH","Treg","NA28"]}]}
+{"ref":"Jn.13.26","c":13,"v":26,"lecon":"Ἰσκαριώτου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰσκαριώτῃ","editions":["RP"]}]}
+{"ref":"Jn.13.27","c":13,"v":27,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.13.29","c":13,"v":29,"lecon":"εἶχεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.13.29","c":13,"v":29,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.13.30","c":13,"v":30,"lecon":"ἐξῆλθεν εὐθύς","editions":["WH","Treg","NA28"],"variantes":[{"t":"εὐθέως ἐξῆλθεν","editions":["RP"]}]}
+{"ref":"Jn.13.31","c":13,"v":31,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.13.31","c":13,"v":31,"lecon":"λέγει","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.13.32","c":13,"v":32,"lecon":"εἰ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.13.32","c":13,"v":32,"lecon":"αὑτῷ","editions":["WH"],"variantes":[{"t":"αὐτῷ","editions":["Treg","NA28"]},{"t":"ἑαυτῷ","editions":["RP"]}]}
+{"ref":"Jn.13.33","c":13,"v":33,"lecon":"ἐγὼ ὑπάγω","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑπάγω ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.13.36","c":13,"v":36,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NIV"],"variantes":[{"t":"+ αὐτῷ ὁ","editions":["RP"]},{"t":"+ αὐτῷ","editions":["NA28"]}]}
+{"ref":"Jn.13.36","c":13,"v":36,"lecon":"ἀκολουθήσεις δὲ ὕστερον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὕστερον δὲ ἀκολουθήσεις μοι","editions":["RP"]}]}
+{"ref":"Jn.13.37","c":13,"v":37,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.13.37","c":13,"v":37,"lecon":"ἀκολουθῆσαι","editions":["NA28","RP"],"variantes":[{"t":"ἀκολουθεῖν","editions":["WH","Treg"]}]}
+{"ref":"Jn.13.38","c":13,"v":38,"lecon":"ἀποκρίνεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἀπεκρίθη αὐτῷ ὁ","editions":["RP"]}]}
+{"ref":"Jn.13.38","c":13,"v":38,"lecon":"ἀρνήσῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπαρνήσῃ","editions":["RP"]}]}
+{"ref":"Jn.14.2","c":14,"v":2,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.14.3","c":14,"v":3,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.14.3","c":14,"v":3,"lecon":"τόπον ὑμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμῖν τόπον","editions":["RP"]}]}
+{"ref":"Jn.14.4","c":14,"v":4,"lecon":"τὴν ὁδόν","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ τὴν ὁδὸν οἴδατε","editions":["RP"]}]}
+{"ref":"Jn.14.5","c":14,"v":5,"lecon":"πῶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ πῶς","editions":["RP"]}]}
+{"ref":"Jn.14.5","c":14,"v":5,"lecon":"δυνάμεθα τὴν ὁδὸν εἰδέναι","editions":["NA28","RP"],"variantes":[{"t":"οἴδαμεν τὴν ὁδὸν","editions":["WH","Treg"]}]}
+{"ref":"Jn.14.6","c":14,"v":6,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.14.7","c":14,"v":7,"lecon":"ἐγνώκειτέ","editions":["WH","Treg","NIV","RP"],"variantes":[{"t":"ἐγνώκατέ","editions":["NA28"]}]}
+{"ref":"Jn.14.7","c":14,"v":7,"lecon":"ἂν ᾔδειτε","editions":["WH","Treg","NIV"],"variantes":[{"t":"ἐγνώκειτε ἄν","editions":["RP"]},{"t":"γνώσεσθε","editions":["NA28"]}]}
+{"ref":"Jn.14.7","c":14,"v":7,"lecon":"ἀπʼ","editions":["WH","Treg"],"variantes":[{"t":"καὶ ἀπʼ","editions":["NA28","RP"]}]}
+{"ref":"Jn.14.7","c":14,"v":7,"lecon":"αὐτόν","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.14.9","c":14,"v":9,"lecon":"Τοσούτῳ χρόνῳ","editions":["NA28"],"variantes":[{"t":"Τοσοῦτον χρόνον","editions":["WH","Treg","RP"]}]}
+{"ref":"Jn.14.9","c":14,"v":9,"lecon":"πῶς","editions":["WH","NA28"],"variantes":[{"t":"καὶ πῶς","editions":["Treg","RP"]}]}
+{"ref":"Jn.14.10","c":14,"v":10,"lecon":"λέγω","editions":["WH","Treg","NA28"],"variantes":[{"t":"λαλῶ","editions":["RP"]}]}
+{"ref":"Jn.14.10","c":14,"v":10,"lecon":"πατὴρ","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ","editions":["Treg","RP"]}]}
+{"ref":"Jn.14.10","c":14,"v":10,"lecon":"μένων","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτὸς","editions":["RP"]}]}
+{"ref":"Jn.14.10","c":14,"v":10,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.14.11","c":14,"v":11,"lecon":"πιστεύετε","editions":["WH","NA28"],"variantes":[{"t":"+ μοι","editions":["Treg","RP"]}]}
+{"ref":"Jn.14.12","c":14,"v":12,"lecon":"πατέρα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.14.14","c":14,"v":14,"lecon":"με","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Jn.14.14","c":14,"v":14,"lecon":"ἐγὼ","editions":["Treg","NA28","RP"],"variantes":[{"t":"τοῦτο","editions":["WH"]}]}
+{"ref":"Jn.14.15","c":14,"v":15,"lecon":"τηρήσετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"τηρήσατε","editions":["RP"]}]}
+{"ref":"Jn.14.16","c":14,"v":16,"lecon":"ᾖ","editions":["WH","Treg"],"variantes":[{"t":"–","editions":["NA28"]},{"t":"+ μένῃ","editions":["RP"]}]}
+{"ref":"Jn.14.16","c":14,"v":16,"lecon":"αἰῶνα","editions":["WH","Treg","RP"],"variantes":[{"t":"+ ᾖ","editions":["NA28"]}]}
+{"ref":"Jn.14.17","c":14,"v":17,"lecon":"γινώσκει","editions":["WH","NA28"],"variantes":[{"t":"+ αὐτό","editions":["Treg","RP"]}]}
+{"ref":"Jn.14.17","c":14,"v":17,"lecon":"ὑμεῖς","editions":["WH","NA28"],"variantes":[{"t":"+ δὲ","editions":["Treg","RP"]}]}
+{"ref":"Jn.14.17","c":14,"v":17,"lecon":"ἔσται","editions":["NA28","RP"],"variantes":[{"t":"ἐστίν","editions":["WH","Treg"]}]}
+{"ref":"Jn.14.19","c":14,"v":19,"lecon":"ζήσετε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ζήσεσθε","editions":["RP"]}]}
+{"ref":"Jn.14.20","c":14,"v":20,"lecon":"γνώσεσθε ὑμεῖς","editions":["NA28","RP"],"variantes":[{"t":"ὑμεῖς γνώσεσθε","editions":["WH","Treg"]}]}
+{"ref":"Jn.14.22","c":14,"v":22,"lecon":"τί","editions":["WH","Treg"],"variantes":[{"t":"καὶ τί","editions":["NA28","RP"]}]}
+{"ref":"Jn.14.23","c":14,"v":23,"lecon":"ποιησόμεθα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ποιήσομεν","editions":["RP"]}]}
+{"ref":"Jn.14.26","c":14,"v":26,"lecon":"ὑμῖν","editions":["Treg","RP"],"variantes":[{"t":"+ ἐγώ","editions":["WH","NA28"]}]}
+{"ref":"Jn.14.28","c":14,"v":28,"lecon":"ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ εἶπον","editions":["RP"]}]}
+{"ref":"Jn.14.28","c":14,"v":28,"lecon":"πατὴρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.14.31","c":14,"v":31,"lecon":"ἐνετείλατο","editions":["NA28","RP"],"variantes":[{"t":"ἐντολὴν ἔδωκέν","editions":["WH","Treg"]}]}
+{"ref":"Jn.15.2","c":15,"v":2,"lecon":"καρπὸν πλείονα","editions":["WH","Treg","NA28"],"variantes":[{"t":"πλείονα καρπὸν","editions":["RP"]}]}
+{"ref":"Jn.15.4","c":15,"v":4,"lecon":"μένῃ","editions":["WH","NA28"],"variantes":[{"t":"μείνῃ","editions":["Treg","RP"]}]}
+{"ref":"Jn.15.4","c":15,"v":4,"lecon":"μένητε","editions":["WH","Treg","NA28"],"variantes":[{"t":"μείνητε","editions":["RP"]}]}
+{"ref":"Jn.15.6","c":15,"v":6,"lecon":"μένῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"μείνῃ","editions":["RP"]}]}
+{"ref":"Jn.15.7","c":15,"v":7,"lecon":"αἰτήσασθε","editions":["WH","Treg","NA28"],"variantes":[{"t":"αἰτήσεσθε","editions":["RP"]}]}
+{"ref":"Jn.15.8","c":15,"v":8,"lecon":"γένησθε","editions":["WH","Treg","NA28"],"variantes":[{"t":"γενήσεσθε","editions":["RP"]}]}
+{"ref":"Jn.15.9","c":15,"v":9,"lecon":"ὑμᾶς ἠγάπησα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἠγάπησα ὑμᾶς","editions":["RP"]}]}
+{"ref":"Jn.15.10","c":15,"v":10,"lecon":"τὰς ἐντολὰς τοῦ πατρός μου","editions":["Treg","NA28","RP"],"variantes":[{"t":"τοῦ πατρὸς τὰς ἐντολὰς","editions":["WH"]}]}
+{"ref":"Jn.15.11","c":15,"v":11,"lecon":"ᾖ","editions":["WH","Treg","NA28"],"variantes":[{"t":"μείνῃ","editions":["RP"]}]}
+{"ref":"Jn.15.14","c":15,"v":14,"lecon":"ἃ","editions":["Treg","NA28"],"variantes":[{"t":"ὃ","editions":["WH"]},{"t":"ὅσα","editions":["RP"]}]}
+{"ref":"Jn.15.15","c":15,"v":15,"lecon":"λέγω ὑμᾶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμᾶς λέγω","editions":["RP"]}]}
+{"ref":"Jn.15.18","c":15,"v":18,"lecon":"ὑμῶν","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Jn.15.21","c":15,"v":21,"lecon":"εἰς ὑμᾶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμῖν","editions":["RP"]}]}
+{"ref":"Jn.15.22","c":15,"v":22,"lecon":"εἴχοσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶχον","editions":["RP"]}]}
+{"ref":"Jn.15.24","c":15,"v":24,"lecon":"ἐποίησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"πεποίηκεν","editions":["RP"]}]}
+{"ref":"Jn.15.24","c":15,"v":24,"lecon":"εἴχοσαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἴχον","editions":["RP"]}]}
+{"ref":"Jn.15.25","c":15,"v":25,"lecon":"ἐν τῷ νόμῳ αὐτῶν γεγραμμένος","editions":["WH","Treg","NA28"],"variantes":[{"t":"γεγραμμένος ἐν τῷ νόμῳ αὐτῶν","editions":["RP"]}]}
+{"ref":"Jn.15.26","c":15,"v":26,"lecon":"Ὅταν","editions":["WH","NA28"],"variantes":[{"t":"+ δὲ","editions":["Treg","RP"]}]}
+{"ref":"Jn.16.4","c":16,"v":4,"lecon":"⸀αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["NIV","RP"]}]}
+{"ref":"Jn.16.4","c":16,"v":4,"lecon":"⸁αὐτῶν","editions":["WH","Treg","RP","NA28"],"variantes":[{"t":"–","editions":["NIV"]}]}
+{"ref":"Jn.16.7","c":16,"v":7,"lecon":"γὰρ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.16.7","c":16,"v":7,"lecon":"οὐ μὴ ἔλθῃ","editions":["WH","Treg"],"variantes":[{"t":"οὐκ ἐλεύσεται","editions":["NA28","RP"]}]}
+{"ref":"Jn.16.10","c":16,"v":10,"lecon":"πατέρα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.16.12","c":16,"v":12,"lecon":"ὑμῖν λέγειν","editions":["WH","Treg","NA28"],"variantes":[{"t":"λέγειν ὑμῖν","editions":["RP"]}]}
+{"ref":"Jn.16.13","c":16,"v":13,"lecon":"ἐν τῇ ἀληθείᾳ πάσῃ","editions":["NA28"],"variantes":[{"t":"εἰς τὴν ἀλήθειαν πᾶσαν","editions":["WH","Treg"]},{"t":"εἰς πᾶσαν τὴν ἀλήθειαν","editions":["RP"]}]}
+{"ref":"Jn.16.13","c":16,"v":13,"lecon":"ἀκούσει","editions":["Treg","NA28"],"variantes":[{"t":"ἀκούει","editions":["WH"]},{"t":"ἂν ἀκούσῃ","editions":["RP"]}]}
+{"ref":"Jn.16.16","c":16,"v":16,"lecon":"οὐκέτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐ","editions":["RP"]}]}
+{"ref":"Jn.16.16","c":16,"v":16,"lecon":"με","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὅτι ὑπάγω πρὸς τὸν πατέρα","editions":["RP"]}]}
+{"ref":"Jn.16.17","c":16,"v":17,"lecon":"Ὅτι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ Ἐγὼ","editions":["RP"]}]}
+{"ref":"Jn.16.18","c":16,"v":18,"lecon":"Τί ἐστιν τοῦτο","editions":["WH","Treg","NA28"],"variantes":[{"t":"Τοῦτο τί ἐστιν","editions":["RP"]}]}
+{"ref":"Jn.16.18","c":16,"v":18,"lecon":"λέγει","editions":["WH","Treg"],"variantes":[{"t":"+ τὸ","editions":["NA28","RP"]}]}
+{"ref":"Jn.16.19","c":16,"v":19,"lecon":"ἔγνω","editions":["WH","Treg"],"variantes":[{"t":"+ ὁ","editions":["NA28"]},{"t":"+ οὖν ὁ","editions":["RP"]}]}
+{"ref":"Jn.16.20","c":16,"v":20,"lecon":"ὑμεῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.16.22","c":16,"v":22,"lecon":"νῦν μὲν λύπην","editions":["WH","Treg","NA28"],"variantes":[{"t":"λύπην μὲν νῦν","editions":["RP"]}]}
+{"ref":"Jn.16.22","c":16,"v":22,"lecon":"αἴρει","editions":["NA28","RP"],"variantes":[{"t":"ἀρεῖ","editions":["WH","Treg"]}]}
+{"ref":"Jn.16.23","c":16,"v":23,"lecon":"ἄν τι","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅτι ὅσα ἄν","editions":["RP"]}]}
+{"ref":"Jn.16.23","c":16,"v":23,"lecon":"δώσει ὑμῖν ἐν τῷ ὀνόματί μου","editions":["WH","Treg"],"variantes":[{"t":"ἐν τῷ ὀνόματί μου δώσει ὑμῖν","editions":["NA28","RP"]}]}
+{"ref":"Jn.16.25","c":16,"v":25,"lecon":"ἔρχεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀλλʼ ἔρχεται","editions":["RP"]}]}
+{"ref":"Jn.16.25","c":16,"v":25,"lecon":"ἀπαγγελῶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀναγγελῶ","editions":["RP"]}]}
+{"ref":"Jn.16.27","c":16,"v":27,"lecon":"θεοῦ","editions":["NA28","RP"],"variantes":[{"t":"πατρὸς","editions":["WH","Treg"]}]}
+{"ref":"Jn.16.28","c":16,"v":28,"lecon":"ἐκ","editions":["WH","Treg"],"variantes":[{"t":"παρὰ","editions":["NA28","RP"]}]}
+{"ref":"Jn.16.29","c":16,"v":29,"lecon":"Λέγουσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτῷ","editions":["RP"]}]}
+{"ref":"Jn.16.29","c":16,"v":29,"lecon":"ἐν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.16.31","c":16,"v":31,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.16.32","c":16,"v":32,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"νῦν","editions":["RP"]}]}
+{"ref":"Jn.17.1","c":17,"v":1,"lecon":"ἐλάλησεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.17.1","c":17,"v":1,"lecon":"ἐπάρας τοὺς … οὐρανὸν εἶπεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπῆρεν τοὺς … οὐρανὸν καὶ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.17.1","c":17,"v":1,"lecon":"ἵνα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ","editions":["RP"]}]}
+{"ref":"Jn.17.1","c":17,"v":1,"lecon":"υἱὸς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ σου","editions":["RP"]}]}
+{"ref":"Jn.17.2","c":17,"v":2,"lecon":"δώσῃ","editions":["Treg","NA28"],"variantes":[{"t":"δώσει","editions":["WH","RP"]}]}
+{"ref":"Jn.17.4","c":17,"v":4,"lecon":"τελειώσας","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐτελείωσα","editions":["RP"]}]}
+{"ref":"Jn.17.6","c":17,"v":6,"lecon":"⸀ἔδωκάς","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέδωκάς","editions":["RP"]}]}
+{"ref":"Jn.17.6","c":17,"v":6,"lecon":"⸁ἔδωκας","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέδωκας","editions":["RP"]}]}
+{"ref":"Jn.17.7","c":17,"v":7,"lecon":"δέδωκάς","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἔδωκάς","editions":["WH"]}]}
+{"ref":"Jn.17.7","c":17,"v":7,"lecon":"εἰσιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐστιν","editions":["RP"]}]}
+{"ref":"Jn.17.8","c":17,"v":8,"lecon":"ἔδωκάς","editions":["WH","Treg","NA28"],"variantes":[{"t":"δέδωκάς","editions":["RP"]}]}
+{"ref":"Jn.17.11","c":17,"v":11,"lecon":"αὐτοὶ","editions":["WH","NA28"],"variantes":[{"t":"οὗτοι","editions":["Treg","RP"]}]}
+{"ref":"Jn.17.11","c":17,"v":11,"lecon":"καθὼς","editions":["WH","NA28","RP"],"variantes":[{"t":"+ καὶ","editions":["Treg"]}]}
+{"ref":"Jn.17.12","c":17,"v":12,"lecon":"αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐν τῷ κόσμῳ","editions":["RP"]}]}
+{"ref":"Jn.17.12","c":17,"v":12,"lecon":"ᾧ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὓς","editions":["RP"]}]}
+{"ref":"Jn.17.12","c":17,"v":12,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.17.13","c":17,"v":13,"lecon":"ἑαυτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτοῖς","editions":["RP"]}]}
+{"ref":"Jn.17.16","c":17,"v":16,"lecon":"οὐκ εἰμὶ ἐκ τοῦ κόσμου","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐκ τοῦ κόσμου οὐκ εἰμὶ","editions":["RP"]}]}
+{"ref":"Jn.17.17","c":17,"v":17,"lecon":"ἀληθείᾳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ σου","editions":["RP"]}]}
+{"ref":"Jn.17.19","c":17,"v":19,"lecon":"ὦσιν καὶ αὐτοὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ αὐτοὶ ὦσιν","editions":["RP"]}]}
+{"ref":"Jn.17.21","c":17,"v":21,"lecon":"πάτερ","editions":["WH","NA28","RP"],"variantes":[{"t":"πατὴρ","editions":["Treg"]}]}
+{"ref":"Jn.17.21","c":17,"v":21,"lecon":"ἡμῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἓν","editions":["RP"]}]}
+{"ref":"Jn.17.21","c":17,"v":21,"lecon":"πιστεύῃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"πιστεύσῃ","editions":["RP"]}]}
+{"ref":"Jn.17.22","c":17,"v":22,"lecon":"ἕν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐσμεν","editions":["RP"]}]}
+{"ref":"Jn.17.23","c":17,"v":23,"lecon":"ἵνα","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ἵνα","editions":["RP"]}]}
+{"ref":"Jn.17.24","c":17,"v":24,"lecon":"πάτερ","editions":["WH","NA28","RP"],"variantes":[{"t":"Πατήρ","editions":["Treg"]}]}
+{"ref":"Jn.17.24","c":17,"v":24,"lecon":"ὃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὕς","editions":["RP"]}]}
+{"ref":"Jn.17.24","c":17,"v":24,"lecon":"δέδωκάς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔδωκάς","editions":["RP"]}]}
+{"ref":"Jn.17.25","c":17,"v":25,"lecon":"Πάτερ","editions":["WH","NA28","RP"],"variantes":[{"t":"Πατὴρ","editions":["Treg"]}]}
+{"ref":"Jn.18.1","c":18,"v":1,"lecon":"εἰπὼν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.1","c":18,"v":1,"lecon":"τοῦ","editions":["Treg","NA28"],"variantes":[{"t":"τῶν","editions":["WH","RP"]}]}
+{"ref":"Jn.18.2","c":18,"v":2,"lecon":"συνήχθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.3","c":18,"v":3,"lecon":"ἐκ τῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.18.4","c":18,"v":4,"lecon":"οὖν","editions":["WH","NA28","RP"],"variantes":[{"t":"δὲ","editions":["Treg"]}]}
+{"ref":"Jn.18.4","c":18,"v":4,"lecon":"ἐξῆλθεν καὶ λέγει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐξελθὼν εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.18.5","c":18,"v":5,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ Ἰησοῦς","editions":["RP"]}]}
+{"ref":"Jn.18.6","c":18,"v":6,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὅτι","editions":["RP"]}]}
+{"ref":"Jn.18.7","c":18,"v":7,"lecon":"ἐπηρώτησεν αὐτούς","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτούς ἐπηρώτησεν","editions":["RP"]}]}
+{"ref":"Jn.18.10","c":18,"v":10,"lecon":"ὠτάριον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὠτίον","editions":["RP"]}]}
+{"ref":"Jn.18.11","c":18,"v":11,"lecon":"μάχαιραν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ σου","editions":["RP"]}]}
+{"ref":"Jn.18.13","c":18,"v":13,"lecon":"ἤγαγον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπήγαγον αὐτὸν","editions":["RP"]}]}
+{"ref":"Jn.18.14","c":18,"v":14,"lecon":"ἀποθανεῖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπολέσθαι","editions":["RP"]}]}
+{"ref":"Jn.18.15","c":18,"v":15,"lecon":"καὶ","editions":["WH","NA28"],"variantes":[{"t":"+ ὁ","editions":["Treg","RP"]}]}
+{"ref":"Jn.18.16","c":18,"v":16,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅς ἦν","editions":["RP"]}]}
+{"ref":"Jn.18.16","c":18,"v":16,"lecon":"τοῦ ἀρχιερέως","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῷ ἀρχιερεῖ","editions":["RP"]}]}
+{"ref":"Jn.18.17","c":18,"v":17,"lecon":"τῷ Πέτρῳ ἡ παιδίσκη ἡ θυρωρός","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἡ παιδίσκη ἡ θυρωρός τῷ Πέτρῳ","editions":["RP"]}]}
+{"ref":"Jn.18.18","c":18,"v":18,"lecon":"καὶ ὁ Πέτρος μετʼ αὐτῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"μετʼ αὐτῶν ὁ Πέτρος","editions":["RP"]}]}
+{"ref":"Jn.18.20","c":18,"v":20,"lecon":"αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.20","c":18,"v":20,"lecon":"λελάληκα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐλάλησα","editions":["RP"]}]}
+{"ref":"Jn.18.20","c":18,"v":20,"lecon":"πάντες","editions":["WH","Treg","NA28"],"variantes":[{"t":"πάντοτε","editions":["RP"]}]}
+{"ref":"Jn.18.21","c":18,"v":21,"lecon":"ἐρωτᾷς; ἐρώτησον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπερωτᾷς ; Ἐπερώτησον","editions":["RP"]}]}
+{"ref":"Jn.18.22","c":18,"v":22,"lecon":"παρεστηκὼς τῶν ὑπηρετῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τῶν ὑπηρετῶν παρεστηκὼς","editions":["RP"]}]}
+{"ref":"Jn.18.23","c":18,"v":23,"lecon":"αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.24","c":18,"v":24,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.18.25","c":18,"v":25,"lecon":"ἠρνήσατο","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.18.27","c":18,"v":27,"lecon":"ἠρνήσατο","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.28","c":18,"v":28,"lecon":"ἀλλὰ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀλλʼ ἵνα","editions":["RP"]}]}
+{"ref":"Jn.18.29","c":18,"v":29,"lecon":"ἔξω","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.18.29","c":18,"v":29,"lecon":"φησίν","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.18.29","c":18,"v":29,"lecon":"κατὰ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.18.30","c":18,"v":30,"lecon":"κακὸν ποιῶν","editions":["WH","Treg","NA28"],"variantes":[{"t":"κακοποιός","editions":["RP"]}]}
+{"ref":"Jn.18.31","c":18,"v":31,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.18.31","c":18,"v":31,"lecon":"εἶπον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.18.33","c":18,"v":33,"lecon":"πάλιν εἰς τὸ πραιτώριον","editions":["WH","Treg","NA28"],"variantes":[{"t":"εἰς τὸ πραιτώριον πάλιν","editions":["RP"]}]}
+{"ref":"Jn.18.34","c":18,"v":34,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτῷ ὁ","editions":["RP"]}]}
+{"ref":"Jn.18.34","c":18,"v":34,"lecon":"Ἀπὸ σεαυτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἀφʼ ἑαυτοῦ","editions":["RP"]}]}
+{"ref":"Jn.18.34","c":18,"v":34,"lecon":"εἶπόν σοι","editions":["WH","Treg","NA28"],"variantes":[{"t":"σοι εἶπόν","editions":["RP"]}]}
+{"ref":"Jn.18.36","c":18,"v":36,"lecon":"οἱ ἐμοὶ ἠγωνίζοντο ἄν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἄν οἱ ἐμοὶ ἠγωνίζοντο","editions":["RP"]}]}
+{"ref":"Jn.18.37","c":18,"v":37,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.18.37","c":18,"v":37,"lecon":"εἰμι","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐγώ","editions":["RP"]}]}
+{"ref":"Jn.18.38","c":18,"v":38,"lecon":"εὑρίσκω ἐν αὐτῷ αἰτίαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"αἰτίαν εὑρίσκω ἐν αὐτῷ","editions":["RP"]}]}
+{"ref":"Jn.18.39","c":18,"v":39,"lecon":"⸂ἀπολύσω ὑμῖν⸃","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμῖν ἀπολύσω","editions":["RP"]}]}
+{"ref":"Jn.18.39","c":18,"v":39,"lecon":"⸄ἀπολύσω ὑμῖν⸅","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὑμῖν ἀπολύσω","editions":["RP"]}]}
+{"ref":"Jn.18.40","c":18,"v":40,"lecon":"πάλιν","editions":["WH","NA28"],"variantes":[{"t":"+ πάντες","editions":["Treg","RP"]}]}
+{"ref":"Jn.19.3","c":19,"v":3,"lecon":"ἤρχοντο πρὸς αὐτὸν καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.19.4","c":19,"v":4,"lecon":"καὶ ἐξῆλθεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἐξῆλθεν οὖν","editions":["RP"]}]}
+{"ref":"Jn.19.4","c":19,"v":4,"lecon":"οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐν αὐτῷ οὐδεμίαν αἰτίαν εὑρίσκω","editions":["RP"]}]}
+{"ref":"Jn.19.5","c":19,"v":5,"lecon":"Ἰδοὺ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἴδε","editions":["RP"]}]}
+{"ref":"Jn.19.6","c":19,"v":6,"lecon":"σταύρωσον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτὸν","editions":["RP"]}]}
+{"ref":"Jn.19.7","c":19,"v":7,"lecon":"νόμον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἡμῶν","editions":["RP"]}]}
+{"ref":"Jn.19.7","c":19,"v":7,"lecon":"υἱὸν θεοῦ ἑαυτὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἑαυτὸν υἱὸν θεοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.10","c":19,"v":10,"lecon":"ἀπολῦσαί σε … ἔχω σταυρῶσαί","editions":["WH","Treg","NA28"],"variantes":[{"t":"σταυρῶσαί σε … ἔχω ἀπολῦσαί","editions":["RP"]}]}
+{"ref":"Jn.19.11","c":19,"v":11,"lecon":"αὐτῷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.19.11","c":19,"v":11,"lecon":"κατʼ ἐμοῦ οὐδεμίαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"οὐδεμίαν κατʼ ἐμοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.11","c":19,"v":11,"lecon":"δεδομένον σοι","editions":["WH","Treg","NA28"],"variantes":[{"t":"σοι δεδομένον","editions":["RP"]}]}
+{"ref":"Jn.19.11","c":19,"v":11,"lecon":"παραδούς","editions":["WH","NA28"],"variantes":[{"t":"παραδιδούς","editions":["Treg","RP"]}]}
+{"ref":"Jn.19.12","c":19,"v":12,"lecon":"ὁ Πιλᾶτος ἐζήτει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐζήτει ὁ Πιλᾶτος","editions":["RP"]}]}
+{"ref":"Jn.19.12","c":19,"v":12,"lecon":"ἐκραύγασαν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἔκραζον","editions":["RP"]}]}
+{"ref":"Jn.19.13","c":19,"v":13,"lecon":"τῶν λόγων τούτων","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦτον τὸν λόγον","editions":["RP"]}]}
+{"ref":"Jn.19.13","c":19,"v":13,"lecon":"ἐπὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.14","c":19,"v":14,"lecon":"ἦν ὡς","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ ὡσεὶ","editions":["RP"]}]}
+{"ref":"Jn.19.15","c":19,"v":15,"lecon":"ἐκραύγασαν οὖν ἐκεῖνοι","editions":["WH","Treg","NA28"],"variantes":[{"t":"Οἱ δὲ ἐκραύγασαν","editions":["RP"]}]}
+{"ref":"Jn.19.16","c":19,"v":16,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"δὲ","editions":["RP"]}]}
+{"ref":"Jn.19.16","c":19,"v":16,"lecon":"Ἰησοῦν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ καὶ ἤγαγον","editions":["RP"]}]}
+{"ref":"Jn.19.17","c":19,"v":17,"lecon":"αὑτῷ τὸν σταυρὸν","editions":["WH","Treg"],"variantes":[{"t":"ἑαυτῷ τὸν σταυρὸν","editions":["NA28"]},{"t":"τὸν σταυρὸν αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.17","c":19,"v":17,"lecon":"τὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τόπον","editions":["RP"]}]}
+{"ref":"Jn.19.17","c":19,"v":17,"lecon":"ὃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅς","editions":["RP"]}]}
+{"ref":"Jn.19.20","c":19,"v":20,"lecon":"Ῥωμαϊστί Ἑλληνιστί","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἑλληνιστί Ῥωμαϊστί","editions":["RP"]}]}
+{"ref":"Jn.19.21","c":19,"v":21,"lecon":"τῶν Ἰουδαίων εἰμί","editions":["WH","Treg"],"variantes":[{"t":"εἰμι τῶν Ἰουδαίων","editions":["NA28","RP"]}]}
+{"ref":"Jn.19.24","c":19,"v":24,"lecon":"ἡ λέγουσα","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.19.26","c":19,"v":26,"lecon":"μητρί","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.26","c":19,"v":26,"lecon":"ἴδε","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἰδοὺ","editions":["RP"]}]}
+{"ref":"Jn.19.27","c":19,"v":27,"lecon":"Ἴδε","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰδοὺ","editions":["RP"]}]}
+{"ref":"Jn.19.28","c":19,"v":28,"lecon":"εἰδὼς","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἰδὼν","editions":["RP"]}]}
+{"ref":"Jn.19.28","c":19,"v":28,"lecon":"ἤδη πάντα","editions":["WH","Treg","NA28"],"variantes":[{"t":"πάντα ἤδη","editions":["RP"]}]}
+{"ref":"Jn.19.29","c":19,"v":29,"lecon":"σκεῦος","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.19.29","c":19,"v":29,"lecon":"σπόγγον οὖν μεστὸν τοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"οἱ δέ πλήσαντες σπόγγον","editions":["RP"]}]}
+{"ref":"Jn.19.29","c":19,"v":29,"lecon":"ὑσσώπῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ ὑσσώπῳ","editions":["RP"]}]}
+{"ref":"Jn.19.31","c":19,"v":31,"lecon":"ἐπεὶ παρασκευὴ ἦν ἵνα … σαββάτῳ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἵνα … σαββάτῳ ἐπεὶ παρασκευὴ ἦν","editions":["RP"]}]}
+{"ref":"Jn.19.33","c":19,"v":33,"lecon":"ἤδη αὐτὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτὸν ἤδη","editions":["RP"]}]}
+{"ref":"Jn.19.34","c":19,"v":34,"lecon":"ἐξῆλθεν εὐθὺς","editions":["WH","Treg","NA28"],"variantes":[{"t":"εὐθέως ἐξῆλθεν","editions":["RP"]}]}
+{"ref":"Jn.19.35","c":19,"v":35,"lecon":"αὐτοῦ ἐστιν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐστιν αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.35","c":19,"v":35,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.19.35","c":19,"v":35,"lecon":"πιστεύητε","editions":["WH","Treg"],"variantes":[{"t":"πιστεύσητε","editions":["NA28","RP"]}]}
+{"ref":"Jn.19.36","c":19,"v":36,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπʼ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.38","c":19,"v":38,"lecon":"δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.19.38","c":19,"v":38,"lecon":"ἀπὸ","editions":["WH","Treg"],"variantes":[{"t":"ὁ ἀπὸ","editions":["NA28","RP"]}]}
+{"ref":"Jn.19.38","c":19,"v":38,"lecon":"αὐτοῦ","editions":["WH","Treg","NA28"],"variantes":[{"t":"τοῦ Ἰησοῦ","editions":["RP"]}]}
+{"ref":"Jn.19.39","c":19,"v":39,"lecon":"αὐτὸν","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸν Ἰησοῦν","editions":["RP"]}]}
+{"ref":"Jn.19.39","c":19,"v":39,"lecon":"μίγμα","editions":["Treg","NA28","RP"],"variantes":[{"t":"ἕλιγμα","editions":["WH"]}]}
+{"ref":"Jn.19.40","c":19,"v":40,"lecon":"αὐτὸ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ἐν","editions":["RP"]}]}
+{"ref":"Jn.19.41","c":19,"v":41,"lecon":"ἦν τεθειμένος","editions":["WH","NA28"],"variantes":[{"t":"ἐτέθη","editions":["Treg","RP"]}]}
+{"ref":"Jn.20.6","c":20,"v":6,"lecon":"καὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.20.10","c":20,"v":10,"lecon":"αὑτοὺς","editions":["WH"],"variantes":[{"t":"αὐτοὺς","editions":["Treg","NA28"]},{"t":"ἑαυτοὺς","editions":["RP"]}]}
+{"ref":"Jn.20.11","c":20,"v":11,"lecon":"τῷ μνημείῳ ἔξω κλαίουσα","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὸ μνημεῖον κλαίουσα ἔξω","editions":["RP"]}]}
+{"ref":"Jn.20.14","c":20,"v":14,"lecon":"ταῦτα","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ταῦτα","editions":["RP"]}]}
+{"ref":"Jn.20.15","c":20,"v":15,"lecon":"αὐτῇ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.20.16","c":20,"v":16,"lecon":"αὐτῇ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.20.16","c":20,"v":16,"lecon":"Μαριάμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρία","editions":["RP"]}]}
+{"ref":"Jn.20.16","c":20,"v":16,"lecon":"Ἑβραϊστί","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.20.17","c":20,"v":17,"lecon":"αὐτῇ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.20.17","c":20,"v":17,"lecon":"πατέρα","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ μου","editions":["RP"]}]}
+{"ref":"Jn.20.18","c":20,"v":18,"lecon":"Μαριὰμ","editions":["WH","Treg","NA28"],"variantes":[{"t":"Μαρία","editions":["RP"]}]}
+{"ref":"Jn.20.18","c":20,"v":18,"lecon":"ἀγγέλλουσα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀπαγγέλλουσα","editions":["RP"]}]}
+{"ref":"Jn.20.18","c":20,"v":18,"lecon":"Ἑώρακα","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἑώρακεν","editions":["RP"]}]}
+{"ref":"Jn.20.19","c":20,"v":19,"lecon":"μιᾷ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ τῶν","editions":["RP"]}]}
+{"ref":"Jn.20.19","c":20,"v":19,"lecon":"μαθηταὶ","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ συνηγμένοι","editions":["RP"]}]}
+{"ref":"Jn.20.20","c":20,"v":20,"lecon":"ἔδειξεν","editions":["NA28"],"variantes":[{"t":"+ καὶ","editions":["WH","Treg"]},{"t":"+ αὐτοῖς","editions":["RP"]}]}
+{"ref":"Jn.20.20","c":20,"v":20,"lecon":"αὐτοῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.20.21","c":20,"v":21,"lecon":"ὁ Ἰησοῦς","editions":["WH","NA28","RP"],"variantes":[{"t":"–","editions":["Treg"]}]}
+{"ref":"Jn.20.23","c":20,"v":23,"lecon":"ἀφέωνται","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀφιένται","editions":["RP"]}]}
+{"ref":"Jn.20.24","c":20,"v":24,"lecon":"ἦλθεν","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.20.25","c":20,"v":25,"lecon":"μου τὴν χεῖρα","editions":["WH","Treg","NA28"],"variantes":[{"t":"τὴν χεῖρά μου","editions":["RP"]}]}
+{"ref":"Jn.20.28","c":20,"v":28,"lecon":"ἀπεκρίθη","editions":["WH","Treg","NA28"],"variantes":[{"t":"Καὶ ἀπεκρίθη","editions":["RP"]}]}
+{"ref":"Jn.20.30","c":20,"v":30,"lecon":"μαθητῶν","editions":["WH","Treg"],"variantes":[{"t":"+ αὐτοῦ","editions":["NA28","RP"]}]}
+{"ref":"Jn.20.31","c":20,"v":31,"lecon":"πιστεύητε","editions":["WH"],"variantes":[{"t":"πιστεύσητε","editions":["Treg","NA28","RP"]}]}
+{"ref":"Jn.21.1","c":21,"v":1,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.21.3","c":21,"v":3,"lecon":"πλοῖον","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ εὐθύς","editions":["RP"]}]}
+{"ref":"Jn.21.4","c":21,"v":4,"lecon":"γενομένης","editions":["NA28","RP"],"variantes":[{"t":"γινομένης","editions":["WH","Treg"]}]}
+{"ref":"Jn.21.4","c":21,"v":4,"lecon":"ἔστη","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ ὁ","editions":["RP"]}]}
+{"ref":"Jn.21.5","c":21,"v":5,"lecon":"ὁ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.21.6","c":21,"v":6,"lecon":"ἴσχυον","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἴσχυσαν","editions":["RP"]}]}
+{"ref":"Jn.21.11","c":21,"v":11,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.21.11","c":21,"v":11,"lecon":"εἰς τὴν γῆν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐπὶ τῆς γῆς","editions":["RP"]}]}
+{"ref":"Jn.21.12","c":21,"v":12,"lecon":"δὲ","editions":["Treg","NA28","RP"],"variantes":[{"t":"–","editions":["WH"]}]}
+{"ref":"Jn.21.13","c":21,"v":13,"lecon":"ἔρχεται","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ οὖν","editions":["RP"]}]}
+{"ref":"Jn.21.13","c":21,"v":13,"lecon":"ὁ","editions":["RP"],"variantes":[{"t":"–","editions":["WH","Treg","NA28"]}]}
+{"ref":"Jn.21.14","c":21,"v":14,"lecon":"ὁ","editions":["RP"],"variantes":[{"t":"–","editions":["WH","Treg","NA28"]}]}
+{"ref":"Jn.21.14","c":21,"v":14,"lecon":"μαθηταῖς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.21.15","c":21,"v":15,"lecon":"Ἰωάννου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰωνᾶ","editions":["RP"]}]}
+{"ref":"Jn.21.16","c":21,"v":16,"lecon":"Ἰωάννου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰωνᾶ","editions":["RP"]}]}
+{"ref":"Jn.21.17","c":21,"v":17,"lecon":"Ἰωάννου","editions":["WH","Treg","NA28"],"variantes":[{"t":"Ἰωνᾶ","editions":["RP"]}]}
+{"ref":"Jn.21.17","c":21,"v":17,"lecon":"εἶπεν","editions":["WH","Treg","RP"],"variantes":[{"t":"λέγει","editions":["NA28"]}]}
+{"ref":"Jn.21.17","c":21,"v":17,"lecon":"πάντα σὺ","editions":["WH","Treg","NA28"],"variantes":[{"t":"σὺ πάντα","editions":["RP"]}]}
+{"ref":"Jn.21.17","c":21,"v":17,"lecon":"ὁ","editions":["NA28","RP"],"variantes":[{"t":"–","editions":["WH","Treg"]}]}
+{"ref":"Jn.21.17","c":21,"v":17,"lecon":"πρόβατά","editions":["WH","NA28","RP"],"variantes":[{"t":"προβάτιά","editions":["Treg"]}]}
+{"ref":"Jn.21.18","c":21,"v":18,"lecon":"σε ζώσει","editions":["NA28","RP"],"variantes":[{"t":"ζώσει σε","editions":["WH","Treg"]}]}
+{"ref":"Jn.21.20","c":21,"v":20,"lecon":"Ἐπιστραφεὶς","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ δὲ","editions":["RP"]}]}
+{"ref":"Jn.21.21","c":21,"v":21,"lecon":"οὖν","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.21.22","c":21,"v":22,"lecon":"μοι ἀκολούθει","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἀκολούθει μοι","editions":["RP"]}]}
+{"ref":"Jn.21.23","c":21,"v":23,"lecon":"οὗτος ὁ λόγος","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὁ λόγος οὗτος","editions":["RP"]}]}
+{"ref":"Jn.21.23","c":21,"v":23,"lecon":"οὐκ εἶπεν δὲ","editions":["WH","Treg","NA28"],"variantes":[{"t":"καὶ οὐκ εἶπεν","editions":["RP"]}]}
+{"ref":"Jn.21.24","c":21,"v":24,"lecon":"ὁ","editions":["WH","Treg","NA28"],"variantes":[{"t":"–","editions":["RP"]}]}
+{"ref":"Jn.21.24","c":21,"v":24,"lecon":"αὐτοῦ ἡ μαρτυρία ἐστίν","editions":["WH","Treg","NA28"],"variantes":[{"t":"ἐστὶν ἡ μαρτυρία αὐτοῦ","editions":["RP"]}]}
+{"ref":"Jn.21.25","c":21,"v":25,"lecon":"ἃ","editions":["WH","Treg","NA28"],"variantes":[{"t":"ὅσα","editions":["RP"]}]}
+{"ref":"Jn.21.25","c":21,"v":25,"lecon":"χωρήσειν","editions":["WH","Treg"],"variantes":[{"t":"χωρῆσαι","editions":["NA28","RP"]}]}
+{"ref":"Jn.21.25","c":21,"v":25,"lecon":"βιβλία","editions":["WH","Treg","NA28"],"variantes":[{"t":"+ Ἀμήν","editions":["RP"]}]}
