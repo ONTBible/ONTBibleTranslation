@@ -180,3 +180,50 @@ Conteneur : `62. igerot-aharei-hahurban`
 | # | Livre |
 |---|---|
 | 70 | *Machazeh Yohanan* — texte unique |
+
+---
+
+## Les livres sans texte en langue source
+
+Le lecteur qui appuie longuement sur un verset reçoit le texte **dans sa
+langue** — l'hébreu du Westminster, le grec du SBLGNT, le guèze de Dillmann.
+Six livres ne peuvent rien lui donner, et il faut qu'il sache ==pourquoi==.
+
+**Ce n'est pas une erreur, c'est un fait d'histoire de la transmission.** Un
+écran vide laisserait croire à une lacune du corpus ; ces phrases disent ce qui
+manque et ce qui n'a jamais existé. Elles sont écrites dans le registre d'une
+note d'histoire, jamais d'une alerte.
+
+**Deux causes qu'il ne faut surtout pas confondre**, parce que le remède diffère
+et que l'une se résoudra :
+
+- **le témoin n'existe pas** — le livre ne survit dans aucun manuscrit de sa
+  langue, et rien ne le fera revenir ;
+- **le fichier n'existe pas** — le témoin est là, à Qumrân, mais aucune édition
+  n'en est encore librement réutilisable. Qumran-Digital établit l'araméen et
+  ne l'aura pas avant ==2030 environ==. Ces livres-là recevront leur source.
+
+Dire « perdu » d'un livre dont les fragments sont sous vitrine serait faux, et
+c'est l'erreur exacte qu'une session a commise trois jours de suite : ==dire
+« pas de témoin » là où il faut dire « pas de fichier »==.
+
+| # | Livre | Ce que le lecteur lit | Cause |
+|---|---|---|---|
+| 06 | *Yovelim* | Son hébreu n'a laissé que des fragments à Qumrân ; le livre entier ne survit qu'en guèze. | fichier ==À confirmer par l'auteur== |
+| 36 | *Toledot Adam ve-Chavah* | Aucun manuscrit antique ne le porte : il ne nous vient que par des témoins médiévaux. | témoin |
+| 37 | *Sefar Gibbaraya* | Ses fragments araméens de Qumrân existent bien ; aucune édition n'en est encore librement réutilisable. | fichier |
+| 39 | *Chazon Avraham* | Il ne nous est parvenu qu'en slavon, et aucune édition n'en est lisible par machine. | fichier |
+| 40 | *Tsava'at Lévi* | Son araméen est attesté à Qumrân ; aucune édition n'en est encore librement réutilisable. | fichier |
+| 43 | *Chazon Barukh* | Il ne survit qu'en syriaque ; son hébreu est perdu. | témoin ==À confirmer par l'auteur== |
+
+**Quatre de ces six phrases reposent sur la feuille d'introduction du livre**,
+qui est l'organe où le §2.7 établit sa chaîne de transmission — *Toledot*
+(« aucun manuscrit antique »), *Sefar Gibbaraya* (« 1Q23-24, 2Q26, 4Q203,
+4Q530-533, 6Q8 »), *Chazon Avraham* (« quatre maillons du slavon »), et
+*Tsava'at Lévi* par sa parenté de dossier avec le *Gibbaraya*.
+
+**Les deux autres n'ont pas encore d'introduction**, donc leur chaîne n'a pas
+encore été établie par le projet. Écrire au lecteur une phrase sur une assise
+textuelle que le dossier n'a pas posée, ce serait ==prendre un plan pour une
+source== — l'erreur que le journal a inscrite le 2 septembre. Elles sont donc
+proposées et marquées, non arrêtées.

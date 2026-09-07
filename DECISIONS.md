@@ -16,6 +16,8 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `elohim`… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | …nale au lieu de la recouvrir. ==À trancher par l'auteur== : voir la note de bas de parashah] |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | ==La tripartition du v.33 — à trancher par l'auteur.== Le témoin y emboîte le corps, l'âme et l'… |
+| `corpus-order.md` | 212 | …e survit qu'en guèze. | fichier À confirmer par l'auteur |
+| `corpus-order.md` | 217 | … son hébreu est perdu. | témoin À confirmer par l'auteur |
 | `lexique/Shem-fils-de-Noach.md` | 7 | …un arbitrage verset par verset, réservé à l'auteur. |
 | `lexique/shem.md` | 15 | …un arbitrage verset par verset, réservé à l'auteur, au lieu d'être posé en masse par une machine… |
 
