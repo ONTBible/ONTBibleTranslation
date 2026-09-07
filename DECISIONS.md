@@ -13,8 +13,6 @@ désigné, et cet index n'en est qu'une table.*
 | `SYNCHRONISATION.md` | 2812 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `elohim`… |
-| `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | …nale au lieu de la recouvrir. ==À trancher par l'auteur== : voir la note de bas de parashah] |
-| `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | ==La tripartition du v.33 — à trancher par l'auteur.== Le témoin y emboîte le corps, l'âme et l'… |
 | `corpus-order.md` | 212 | …e survit qu'en guèze. | fichier À confirmer par l'auteur |
 | `corpus-order.md` | 217 | … son hébreu est perdu. | témoin À confirmer par l'auteur |
 | `lexique/Shem-fils-de-Noach.md` | 7 | …un arbitrage verset par verset, réservé à l'auteur. |
@@ -30,6 +28,8 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 565 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
 | `CLAUDE.md` | 771 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
 | `CLAUDE.md` | 890 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
+| `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 
