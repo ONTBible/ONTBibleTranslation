@@ -11,7 +11,7 @@ désigné, et cet index n'en est qu'une table.*
 |---|---:|---|
 | `CLAUDE.md` | 257 | réservé à l'auteur. |
 | `CLAUDE.md` | 547 | l'araméen, et l'écart est peut-être délibéré — à trancher par l'auteur. |
-| `SYNCHRONISATION.md` | 2555 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 2812 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `elohim`… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | …nale au lieu de la recouvrir. ==À trancher par l'auteur== : voir la note de bas de parashah] |
@@ -126,7 +126,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 72 leçons du journal
+## Les 97 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -192,6 +192,18 @@ se découvre pas le jour où l'ordre de lecture changera.
 - 30 août 2026 — l'instrument qui répond à une autre question
 - 31 août 2026 — la chaîne de publication s'est rompue trois fois, et rien ne l'a dit
 - 31 août 2026 — onze relevés justes sur le mauvais état, en douze heures
+- La propriété, et la branche qui lui manquait
+- Ce qu'on en fait
+- Le backend a un troisième client, et bientôt un quatrième
+- L'achat universel range les deux plateformes dans la même collection
+- Un filtre s'écrit « garder ce qui ne contredit pas »
+- La liseuse du Mac lit le vault en direct
+- Ce que macOS ne fait pas comme iOS
+- Deux versions d'un outil qui se renvoient la balle
+- Trois contrôles verts qui ne mesuraient rien, en une heure
+- Ce que la première livraison réussie a tranché
+- Un code de sortie est une convention, pas une mesure
+- Et le motif de ces deux jours
 - 1ᵉʳ septembre 2026 — une stratigraphie écrite sans son apparat
 - 1ᵉʳ septembre 2026 — le seuil de contraste du projet a enfin une raison
 - 2 septembre 2026 — un texte écrit sur son plan, et non sur sa source
@@ -200,6 +212,19 @@ se découvre pas le jour où l'ordre de lecture changera.
 - 3 septembre 2026 — un rapport qui rend `0` en normalisant autrement que le lecteur
 - 3 septembre 2026 — le contrôle qu'on éprouve, et les 206 qui n'existaient pas
 - 3 septembre 2026 — une table de renvois, et pourquoi elle n'est pas un document de plus
+- Les guillemets français encadrent d'espaces
+- L'apostrophe n'est pas un guillemet
+- Ce que ça dit du portage
+- Ce qui reste vrai partout
+- Aucune console n'était nécessaire, contrairement à ce qu'on croyait
+- Les parutions n'ont jamais dépendu du compte
+- Ce que le contrat impose, et qui n'était écrit dans aucun type
+- PKCE compte plus sur Android que sur iOS
+- Et la couleur inconnue a maintenant un chemin vers le serveur
+- Le nombre qu'on ne devine pas
+- Ce que le site avait déjà tranché
+- L'épreuve, et pourquoi celle-là
+- Et la troncature n'était pas où on la cherchait
 - 7 septembre 2026 — `...` et `..` ne répondent pas à la même question
 - 7 septembre 2026 — le journal a deux régimes, et le contrôle mesurait le mauvais
 
