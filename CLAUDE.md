@@ -541,10 +541,13 @@ voyelle qui précède. Le corpus suivait donc la langue sans que ce soit écrit.
 
 #### Ce que cette règle ne tranche pas encore
 
-- **`**'irin**` porte une apostrophe initiale** (עִירִין), seul de tout le
-  corpus à en porter une. Sa propre fiche s'appelle pourtant `lexique/irin.md`,
-  sans apostrophe : le terme et son fichier ne s'accordent déjà pas. C'est de
-  l'araméen, et l'écart est peut-être délibéré — ==à trancher par l'auteur==.
+- **`**'irin**` garde son apostrophe initiale** (עִירִין), et c'est une
+  exception assumée — décision de l'auteur du 7 septembre 2026. Le §2.9 ne
+  légifère que sur l'hébreu ; `**'irin**` est de l'==araméen==, et l'apostrophe
+  y marque le ayin initial que la règle hébraïque laisse tomber. Sa fiche a été
+  renommée `lexique/'irin.md` pour que le terme et son fichier s'accordent.
+  C'est le seul terme du corpus dans ce cas, et c'est pourquoi il est écrit ici
+  plutôt que laissé à la mémoire.
 - Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
   selon l'oreille, sans système déclaré, et rien n'a encore divergé.
 
