@@ -152,10 +152,15 @@ def postes() -> list[Poste]:
             "une recompilation complète à chaque session iOS",
             sur=False,
         ),
+        # Même famille de coût que les miroirs d'appareils physiques, même
+        # traitement — décision de l'auteur du 7 septembre 2026 : ce qui fait
+        # attendre au prochain branchement s'épargne par défaut, `--tout` le
+        # reprend en crise.
         Poste(
             "Symboles d'appareils physiques",
             list((dev / "Xcode/iOS DeviceSupport").glob("*")),
             "quelques minutes au prochain branchement d'un iPhone",
+            sur=False,
         ),
         Poste(
             "Archives d'Xcode",
