@@ -161,9 +161,53 @@ def empreinte(contenu: str | None) -> str:
     return hashlib.sha256(contenu.encode("utf-8")).hexdigest()[:12]
 
 
+TITRE = re.compile(r"^(#{2,3}) ")
+
+# Une entrée locale : son titre se termine par `*(local)*`.
+#
+# **La marque est dans le titre, et c'est ce qui rend le contrôle sûr.** Enfouie
+# dans le corps, elle obligerait à lire le texte pour savoir ce qu'on compare —
+# et un contrôle qui doit lire pour savoir quoi mesurer finit par se tromper.
+LOCALE = re.compile(r"\*\(local\)\*\s*$")
+
+
+def tronc(texte: str) -> str:
+    """Le fichier privé de ses entrées locales — ce qui doit être identique.
+
+    Une entrée court de son titre jusqu'au titre suivant **de niveau égal ou
+    supérieur** : un `###` local emporte ses sous-titres `####`, et s'arrête au
+    `###` ou au `##` qui suit. Découper au titre suivant *quel qu'il soit*
+    couperait l'entrée en deux et laisserait sa fin dans le tronc.
+    """
+    lignes = texte.splitlines()
+    garde, i = [], 0
+    while i < len(lignes):
+        m = TITRE.match(lignes[i])
+        if m and LOCALE.search(lignes[i]):
+            niveau = len(m.group(1))
+            i += 1
+            while i < len(lignes):
+                s = TITRE.match(lignes[i])
+                if s and len(s.group(1)) <= niveau:
+                    break
+                i += 1
+            # La ligne vide qui précédait le titre retiré reste, et deux entrées
+            # locales à la suite en laisseraient deux : on normalise en sortie.
+            continue
+        garde.append(lignes[i])
+        i += 1
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(garde)) + "\n"
+
+
+def locales(texte: str) -> list[str]:
+    """Les titres des entrées locales, dans l'ordre."""
+    return [l.strip() for l in texte.splitlines()
+            if TITRE.match(l) and LOCALE.search(l)]
+
+
 def titres(texte: str) -> list[str]:
     """Les sections et les entrées de journal, dans l'ordre du fichier."""
-    return [l.strip() for l in texte.splitlines() if re.match(r"^#{2,3} ", l)]
+    return [l.strip() for l in texte.splitlines() if TITRE.match(l)]
 
 
 class Copie:
@@ -190,9 +234,25 @@ class Copie:
             self.publie = git(dossier, "show", f"origin/{self.branche}:{FICHIER}")
 
     @property
-    def foi(self) -> str:
-        """Ce qui fait autorité pour cette copie — le publié, sinon le disque."""
+    def entier(self) -> str:
+        """Le fichier tel qu'il est — publié s'il l'est, sinon le disque."""
         return self.publie if self.publie is not None else self.disque
+
+    @property
+    def foi(self) -> str:
+        """Ce qui doit être identique partout : le **tronc commun**.
+
+        Décision de l'auteur du 7 septembre 2026 — le journal a deux régimes, et
+        seul le tronc traverse. Comparer les fichiers entiers ferait passer pour
+        une divergence ce qu'un dépôt a délibérément gardé pour lui, et la seule
+        façon d'y mettre fin serait d'importer chez les autres un changelog
+        qu'ils n'ont pas à porter.
+        """
+        return tronc(self.entier)
+
+    @property
+    def locales(self) -> list[str]:
+        return locales(self.entier)
 
     def situation(self) -> str:
         if not self.depot:
@@ -306,12 +366,34 @@ def divergence(votants: list[Copie]) -> int:
 def rapporter(copies: list[Copie]) -> int:
     largeur = max(len(c.nom) for c in copies)
     print(f"Les copies de {FICHIER} sous {racine()}\n")
+    print("  L'empreinte porte sur le **tronc commun** — le fichier privé de ses")
+    print("  entrées locales, qui sont marquées `*(local)*` dans leur titre et")
+    print("  comptées à part. Voir « Tronc commun et entrées locales ».\n")
     for c in copies:
+        # **Les entrées locales se comptent, elles ne se taisent pas.** Une
+        # entrée locale est une décision, pas un accident : si le contrôle les
+        # retirait en silence, la marque deviendrait un moyen de sortir du champ
+        # de la mesure, et personne ne verrait un dépôt s'en donner trente.
+        n = len(c.locales)
+        marque = f"  +{n} locale{'s' if n > 1 else ''}" if n else ""
         print(
             f"  {c.nom:<{largeur}}  {empreinte(c.foi)}  "
-            f"{len(titres(c.foi)):>2} titres  {len(c.foi.splitlines()):>4} lignes   "
-            f"{c.situation()}"
+            f"{len(titres(c.foi)):>2} titres  {len(c.foi.splitlines()):>4} lignes"
+            f"{marque}   {c.situation()}"
         )
+
+    porteuses = [c for c in copies if c.locales]
+    if porteuses:
+        print("\n  Entrées locales — hors du tronc commun, et c'est voulu :")
+        # Un dépôt et ses worktrees portent le même fichier : on ne répète pas.
+        vues: set[str] = set()
+        for c in porteuses:
+            if c.depot_reel in vues:
+                continue
+            vues.add(c.depot_reel)
+            print(f"    {c.depot_reel} — {len(c.locales)}")
+            for titre in c.locales:
+                print(f"      {titre.lstrip('#').strip()[:88]}")
 
     votants = [c for c in copies if c.vote] or [c for c in copies if c.depot]
     juges = votants + [c for c in copies if not c.depot]
