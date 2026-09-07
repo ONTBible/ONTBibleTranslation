@@ -11,7 +11,7 @@ désigné, et cet index n'en est qu'une table.*
 |---|---:|---|
 | `CLAUDE.md` | 257 | réservé à l'auteur. |
 | `CLAUDE.md` | 547 | l'araméen, et l'écart est peut-être délibéré — à trancher par l'auteur. |
-| `SYNCHRONISATION.md` | 2417 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 2490 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `elohim`… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | …nale au lieu de la recouvrir. ==À trancher par l'auteur== : voir la note de bas de parashah] |
@@ -126,7 +126,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 65 leçons du journal
+## Les 66 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -135,6 +135,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - `git worktree` — rendre le conflit impossible plutôt que déconseillé
 - Vérifier ce que l'autre affirme
 - Commiter tôt, sur une branche à soi
+- Les sept rôles — se trouver sans se nommer
 - 19 août 2026 — `App/app/Captures/` ne contient plus les captures brutes
 - 19 août 2026 — le wordmark est versé dans le dépôt de l'app
 - 19 août 2026 — tout nom propre porte `==…==`, dans les trois dépôts
