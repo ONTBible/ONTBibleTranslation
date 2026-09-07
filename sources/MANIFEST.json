@@ -447,6 +447,30 @@
           "versets": 405,
           "mots": 9833
         }
+      },
+      "apparat": {
+        "oeuvre": "SBL Greek New Testament — apparat critique",
+        "licence": "CC BY 4.0",
+        "url": "https://github.com/LogosBible/SBLGNT",
+        "avertissement": "Il compare QUATRE ÉDITIONS IMPRIMÉES — Westcott-Hort 1881, Tregelles 1857, Nestle-Aland 2012, Robinson-Pierpont — et jamais des manuscrits. Une entrée ne dira pas ce que porte un codex ancien. Le libellé montré au lecteur doit tenir cette différence : « apparat critique » évoque des manuscrits, et celui-ci n'en montre aucun.",
+        "deja_a_l_ecran": "Robinson-Pierpont est l'une des quatre éditions comparées, et l'ONT l'affiche déjà comme second témoin grec — le lecteur voit cette divergence-là au lieu de la lire.",
+        "crochets": "⟦WH⟧ signifie que Westcott-Hort imprime le passage tout en le tenant pour douteux : Luc 22:43-44, Luc 23:34, la finale longue de Marc. Le champ `crochets` le conserve.",
+        "entrees": 6934,
+        "editions": [
+          "Greeven",
+          "Holmes",
+          "NA27",
+          "NA28",
+          "NIV",
+          "RP",
+          "TR",
+          "Treg",
+          "Tregmarg",
+          "WH",
+          "WHapp",
+          "WHmarg"
+        ],
+        "fichiers": "sources/grc-sblgnt/<livre>-apparat.jsonl"
       }
     },
     "grc-byz": {

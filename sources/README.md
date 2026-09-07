@@ -28,6 +28,37 @@ l'ONT ne tranche pas entre eux et ne les aligne pas mot à mot.
 `MANIFEST.json` porte, par source : la licence, l'attribution exacte, le
 commit amont d'où l'import a été tiré, et le compte de chaque livre.
 
+## L'apparat du SBLGNT — et ce qu'il n'est pas
+
+`sources/grc-sblgnt/<livre>-apparat.jsonl` — **6 934 entrées**, même licence
+CC BY que le texte.
+
+**Il ne compare pas des manuscrits.** Il compare ==quatre éditions imprimées
+modernes== : Westcott-Hort 1881, Tregelles 1857, Nestle-Aland 2012 et
+Robinson-Pierpont. Une entrée dit « ici, WH porte ceci et NA28 porte cela ».
+Elle ne dira ==jamais== ce que porte un codex ancien.
+
+C'est un piège de vocabulaire, et le lecteur doit en être protégé : « apparat
+critique » évoque des manuscrits, et celui-ci n'en montre aucun. Le libellé de
+la liseuse doit tenir cette différence.
+
+**Un quart est déjà à l'écran** : Robinson-Pierpont est l'une des quatre
+éditions comparées, et l'ONT l'affiche comme second témoin grec. Le lecteur
+*voit* cette divergence-là au lieu de lire qu'elle existe.
+
+**Les doubles crochets sont conservés.** `⟦WH⟧` ne veut pas dire « WH » : il
+veut dire ==WH imprime le passage mais le tient pour douteux==. Les endroits où
+la notation paraît ne sont pas quelconques — la sueur de sang de *Luc* 22:43-44,
+le « Père, pardonne-leur » de *Luc* 23:34, la finale longue de *Marc* 16:9-20,
+la péricope de la femme adultère. Le champ `crochets` les porte ; les jeter
+aurait fait dire à Westcott-Hort qu'ils tenaient pour sûr ce qu'ils ont
+précisément voulu mettre en doute.
+
+**Et le `;` grec est un point d'interrogation**, non un séparateur. Le
+découpage des variantes ne coupe qu'après un sigle d'édition — couper sur tous
+les `;` briserait chaque variante contenant une question, et le ferait en
+silence puisque les morceaux resteraient du grec bien formé.
+
 ## L'attribution voyage avec la source
 
 Elle est dans `MANIFEST.json`, à côté des données qu'elle couvre — jamais
@@ -182,6 +213,7 @@ mieux que de le laisser découvrir à l'usage.
     ./scripts/importer-les-textes-sources.py --depots <dossier> --cloner
     ./scripts/importer-le-gueze-de-chanokh.py
     ./scripts/importer-le-latin-de-chazon-ezra.py
+    ./scripts/importer-l-apparat-du-sblgnt.py
     ./scripts/eprouver-les-sources.py
 
 Les trois premiers écrivent chacun leur part de `MANIFEST.json` **sans toucher à
