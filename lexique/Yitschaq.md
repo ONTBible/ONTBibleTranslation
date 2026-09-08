@@ -1,18 +1,18 @@
-# Yitshaq
+# Yitschaq
 
 ## Prononciation
 
-`Yits-HAQ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+`Yits-CHAQ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 
-De *tsachaq* (*tsachaq* / צָחַק) — ==rire==. *Yitshaq* : ==il rit==.
+De *tsachaq* (*tsachaq* / צָחַק) — ==rire==. *Yitschaq* : ==il rit==.
 
 ## Ce que le corpus en fait
 

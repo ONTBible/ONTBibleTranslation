@@ -693,6 +693,23 @@ Trois choses en sont sorties, qu'il faut garder :
   marqueurs déséquilibrés » du §13.2, et il a le même profil : un relevé bien
   formé, produit sans regarder ==une seule occurrence en contexte==.
 
+**Une famille entière avait échappé au relevé, et la cause est instructive.**
+`Yitshaq` (יִצְחָק) et les deux formes verbales de sa racine — `vayitshaq`
+(וַיִּצְחַק, *et il rit*), `vatitshaq` (וַתִּצְחַק, *et elle rit*) — écrivaient
+le het en `h`, ==24 occurrences dans 10 fichiers==. Corrigées en `Yitschaq`,
+`vayitschaq`, `vatitschaq`.
+
+Le filtre les avait manquées ==parce qu'il excluait tout `h` précédé de `s`, `c`
+ou `k`==, pour ne pas compter les digrammes `sh`, `ch`, `kh` comme des het nus.
+La garde était juste, et elle a créé un angle mort ==exactement là où la graphie
+était ambiguë== : dans `Yitshaq`, `ts` + `h` se lit `tsh`, une suite qui
+n'existe pas dans le système.
+
+==C'est le meilleur argument pour la nouvelle graphie==, et il ne vient pas de
+la règle mais de l'instrument : `Yitschaq` sépare ce que `Yitshaq` fondait. La
+même glose de *Bereshit* 17 écrivait d'ailleurs `tsachaq` — juste — et
+`vayitshaq` — faux — pour la même racine, dans la même ligne.
+
 **Et le relevé du chantier `kh` était incomplet.** Trois formes portaient encore
 un het écrit `kh` — `akhuzat` (7), `akhoranit` (2) —, corrigées avec cette
 passe. Une troisième, `beiqekha` pour `בְּחֵיקֶךָ`, ==ne rend pas le het du

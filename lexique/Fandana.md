@@ -14,7 +14,7 @@ Ce sont eux qui achèteront les débris.
 
 ## Probablement Paddan-Aram, et pourquoi on ne le remplace pas
 
-L'éditeur du livre le note : ==Fandana== recouvre selon toute vraisemblance *Paddan-Aram* — la « plaine d'Aram » de *Bereshit* 25:20 —, le pays de la parenté d'[[Avraham]], celui d'où viendra l'épouse de [[Yitshaq]], et où son petit-fils servira quatorze ans.
+L'éditeur du livre le note : ==Fandana== recouvre selon toute vraisemblance *Paddan-Aram* — la « plaine d'Aram » de *Bereshit* 25:20 —, le pays de la parenté d'[[Avraham]], celui d'où viendra l'épouse de [[Yitschaq]], et où son petit-fils servira quatorze ans.
 
 L'ONT garde pourtant la forme du témoin. La raison est de méthode : ==signaler une identification n'est pas l'imposer==. Remplacer le nom donnerait au lecteur une certitude que la chaîne ne porte pas — six manuscrits slavons, deux traductions savantes, et un éditeur qui écrit « probablement ».
 

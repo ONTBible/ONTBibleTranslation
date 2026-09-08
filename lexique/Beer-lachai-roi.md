@@ -20,7 +20,7 @@ Et il faut mesurer ce qui se passe là. Une **shiphchah** égyptienne, enceinte,
 
 Le puits garde donc ==la trace d'une rencontre== qui n'a eu aucun témoin. Rien ne s'y est bâti, aucun **mizbeach** n'y est dressé. Seul le nom demeure.
 
-Et le corpus y revient : c'est près de ce puits que [[Yitshaq]] habitera, bien plus tard. ==Le fils de la promesse s'installe là où la servante chassée avait été vue.==
+Et le corpus y revient : c'est près de ce puits que [[Yitschaq]] habitera, bien plus tard. ==Le fils de la promesse s'installe là où la servante chassée avait été vue.==
 
 ## Voir aussi
 

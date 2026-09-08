@@ -24,4 +24,4 @@ Et son **Shem** rend la scène plus dure encore : celui qui devrait hériter s'a
 
 Sa maison : [[Avraham]] qu'il sert ; sa ville, [[Dammesek]].
 
-Celui qui viendra à sa place : [[Yitshaq]].
+Celui qui viendra à sa place : [[Yitschaq]].
