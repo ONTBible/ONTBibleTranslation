@@ -34,4 +34,4 @@ Les promesses de *Bereshit* 12, 15, 17 et 22, et l'emploi agricole du même mot 
 
 ## Formes
 
-zera · zarʿo · zarʿakha · zarʿam · lezarʿakha
+zeraʿ · zera · zarʿo · zarʿakha · zarʿam · lezarʿakha

@@ -54,3 +54,7 @@ tenir sa place.==
 ce qui n'en a pas. **echad**, pour l'unité que deux **basar** peuvent faire. Et
 la chuqqah des quatre modes de présence, où cette contrainte commande la
 troisième strate.
+
+## Formes
+
+basar · kol basar · uvasar mivshari · basar arlatchem · levasar echad

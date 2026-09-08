@@ -16,3 +16,7 @@ Et ce n'est pas une exclusivité humaine, ce qui déroute toujours. Les poissons
 Le sang en découle, et l'interdit qui l'entoure. Si la ==Nefesh== est la vie concrète, alors elle est dans le sang, littéralement, et l'on ne mange pas le sang : on ne consomme pas la vie d'un autre comme on consomme sa chair.
 
 Tu comprends alors ce qui est en jeu quand un texte demande d'aimer **YHWH** de toute sa ==Nefesh==. Il ne demande pas une adhésion intérieure, un élan de l'âme : il demande ==ce qui a soif== — l'appétit, l'énergie, le besoin, ce par quoi on tient debout. Toute la personne dans ce qu'elle a de vivant et de réclamant.
+
+## Formes
+
+nefesh · hanefesh · nafshi · nafshekha · benaphsho · nefesh chayah · nefesh hachayah · himmalet al nafshekha · venichreta hanefesh hahi meʿammeha

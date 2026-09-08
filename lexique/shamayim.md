@@ -17,3 +17,7 @@ Ce qui rend lisible ce qui suit. Les luminaires sont installés *dans* le **raqi
 Et c'est de là que le **mabbul** vient pour moitié : les écluses des ==shamayim== s'ouvrent. L'eau qui était tenue en haut retombe, celle du *tehom* remonte, et l'espace dégagé entre les deux cesse d'exister.
 
 Le corpus dira plus tard que les ==shamayim== ne peuvent pas contenir **YHWH** — ce qui n'a de sens que si le mot désigne un domaine réel, avec des bords, et non l'infini.
+
+## Formes
+
+shamayim · hashamayim · vashamayim · verosho vashamayim · meʿof hashamayim · hashamayim ve'haʾaretz · meʾet YHWH min hashamayim

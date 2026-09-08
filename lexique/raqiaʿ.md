@@ -17,3 +17,7 @@ Ce qui donne au **mabbul** sa mécanique précise. Les écluses du ==raqia== s'o
 Et c'est pourquoi la **berith** qui suit porte tout son poids, avec un signe placé exactement là : l'arc, dans la nuée. Un signe posé sur la surface même dont la rupture avait défait le monde.
 
 Le corpus place les luminaires *dans* le ==raqia==, comme des lampes fixées à un plafond — et là encore, ce n'est pas de l'astronomie : c'est de l'assignation. Chacun reçoit sa place et son office.
+
+## Formes
+
+raqiaʿ · raqia · raqia hashamayim

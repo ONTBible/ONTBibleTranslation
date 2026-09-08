@@ -15,3 +15,7 @@ Le corpus lui donne alors une majuscule, dans l'ONT, une fois qu'elle est nommé
 Le mot glisse ensuite vers le pays — le territoire d'un peuple, l'*eretz* de ==Kenaʿan==, l'*eretz* de ==Mitsrayim==. Le glissement est naturel : un domaine habitable est toujours le domaine ==de quelqu'un==. C'est le même mot pour le sol du monde et pour la terre promise, et le corpus ne prévient pas quand il passe de l'un à l'autre — parce qu'il n'y a pas de saut à faire.
 
 Ce qui donne son poids au **mabbul** : ce ne sont pas des champs qui sont noyés, c'est ==le domaine dégagé au troisième jour== qui se referme.
+
+## Formes
+
+eretz · erets · haʾarets · haʾaretz · vaʾarets · baʾarets · eretz megureikhah · erets Kenaʿan · eretz chavilah · niflega haʾarets · vatishshachet haʾaretz

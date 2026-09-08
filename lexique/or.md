@@ -15,3 +15,7 @@ Le quatrième jour ne contredit donc rien : il installe des ==fonctionnaires== d
 Ce qui explique aussi que le corpus puisse dire ailleurs des choses qui, autrement, sembleraient des métaphores : marcher dans la ==or==, être une ==or== pour les **goyim**. Il ne s'agit pas d'éclat. Il s'agit de ==ce qui permet de distinguer== — et un peuple qui montre où passent les limites fait pour les nations ce que le premier jour a fait pour le monde.
 
 L'ONT écrit la ==or== avec la majuscule là où c'est l'Ordre lui-même qui est en cause, et non l'éclairage d'une scène.
+
+## Formes
+
+or · haʾor

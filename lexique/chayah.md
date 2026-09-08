@@ -17,3 +17,7 @@ Le mot n'a rien de péjoratif pour autant. La racine est celle de la vie, et le 
 Ce qui donne son poids à ce qui suit l'arche. Quand la **berith** est dressée après les eaux, elle n'est pas conclue avec ==Noach== seul : le texte la pose avec ==toute Nefesh chayah== qui est sortie — les oiseaux, la **behemah**, toute ==chayah== de l'**eretz**. Une alliance avec le vivant, y compris celui que personne ne mène.
 
 Le mot sert enfin, au pluriel, à nommer ce que voit un **navi** au bord d'un fleuve étranger : les *chayot* de la **merkavah**, ces vivants à quatre faces. Là encore, la langue ne dit ni leur nature ni leur rang — elle dit qu'ils ==vivent==.
+
+## Formes
+
+chayah · chayim · chayat hassadeh · etz hachayim · ruach chayyim

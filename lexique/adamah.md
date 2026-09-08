@@ -17,3 +17,7 @@ Suis alors ce que le récit fait de cette parenté, parce qu'elle porte presque 
 Le lien va donc dans les deux sens, et c'est ce qui étonne le plus. Quand ==Qayin== tue son frère, c'est l'==adamah== qui ==ouvre la bouche== pour recevoir le sang, et c'est depuis elle que le cri monte. Le sol n'est pas un décor sur lequel des hommes agissent : il est ==partie prenante==. Il reçoit, il crie, il refuse ensuite de donner sa force à celui qui l'a versé.
 
 C'est aussi ce qui rend la promesse d'une terre autre chose qu'une affaire de propriété. Rendre un homme à une ==adamah==, c'est le remettre au rapport dont il a été tiré.
+
+## Formes
+
+adamah · haʾadamah · ha-adamah · pnei ha-adamah · ish haʾadamah · mipri haʾadamah · tsemach haʾadamah · kol mishpechot haʾadamah

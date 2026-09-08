@@ -17,3 +17,7 @@ Ce que la charge implique se lit dans le mandat : servir le Jardin et le garder,
 Et lorsque cela se défait, la sanction porte sur la parenté elle-même : c'est l'*adamah* qui est allégée de sa **kavod**, et le travail devient peine. On n'a pas puni un homme en lui retirant un privilège — on a distendu le lien entre un être et ce dont il est tiré.
 
 Le corpus change de traitement après les eaux : à partir de *Bereshit* 8, ==adam== reste en hébreu, sans périphrase. Ce n'est pas un relâchement mais un changement de régime — dans les contextes légaux de *Bereshit* 9, *ha-adam* désigne l'humanité entière, et la périphrase complète briserait les chiasmes du droit.
+
+## Formes
+
+adam · ha-adam · ba-adam · benot ha-adam · benei haʾadam · pera adam · adam ayin
