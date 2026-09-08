@@ -1720,7 +1720,7 @@ que l'appareil.
 
 Le corpus écrit une `glose` sur **chaque livre** — `Gevurot ha-Neviim` porte
 « Actes des Apôtres » comme pont français et « les gevurot de YHWH par ses
-neviim » comme glose. Le site les affiche tous les deux depuis toujours,
+nevi'im » comme glose. Le site les affiche tous les deux depuis toujours,
 `sommaire.rs` choisissant selon « Le français reçu ». L'app iOS, elle, affichait
 le français **quel que soit le réglage** : `BookOutline` ne déclarait pas le
 champ, donc la traduction du schéma le jetait sans que rien ne s'en aperçoive.

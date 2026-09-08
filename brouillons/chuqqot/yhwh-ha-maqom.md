@@ -72,10 +72,10 @@ qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 
 ## La stratigraphie
 
-### Ce que les **neviim** en portent, sans jamais l'appeler ainsi
+### Ce que les **nevi'im** en portent, sans jamais l'appeler ainsi
 
 Le mot *ha-Maqom* comme nom est tardif. Mais ==la chose est ancienne==, et les
-**neviim** la portent chacun à leur façon.
+**nevi'im** la portent chacun à leur façon.
 
 ==La plénitude qui ne laisse pas de vide.== *Yeshayahu* 6:3 — ==toute la terre
 est remplie de son **kavod**==. Le verbe est *male* (מָלֵא), ==remplir==. Ce
@@ -113,8 +113,8 @@ lui.==
 | couche | ce qui s'y passe |
 |---|---|
 | ==vécue== | la présence habite le Mishkan, puis le Temple. Personne ne théorise ; on éprouve un **kavod** qui pèse en un lieu. |
-| ==éprouvée== | l'exil pose la question de force : si le Temple tombe, **YHWH** est-il vaincu ? Les **neviim** répondent — il n'était pas lié au Temple, c'est le Temple qui lui était lié. |
-| ==nommée== | après la seconde destruction, la formule devient un nom. Elle ne découvre rien : elle ==fixe== ce que les **neviim** avaient posé. |
+| ==éprouvée== | l'exil pose la question de force : si le Temple tombe, **YHWH** est-il vaincu ? Les **nevi'im** répondent — il n'était pas lié au Temple, c'est le Temple qui lui était lié. |
+| ==nommée== | après la seconde destruction, la formule devient un nom. Elle ne découvre rien : elle ==fixe== ce que les **nevi'im** avaient posé. |
 
 ==C'est une distillation, non une invention.== Et c'est important pour l'ONT :
 le nom est tardif, mais la structure qu'il nomme est dans les textes anciens.

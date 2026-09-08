@@ -95,7 +95,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **merkavah** | — | en corps de texte : *Toledot Adam ve-Chavah* | ✓ |
 | **Nephilim** | — | *Bereshit* 6:4 | ✓ |
 | **gibbor** | gibborim, gibor | *Bereshit* 6:4 | ✓ |
-| **navi** | neviim | — | ✓ |
+| **navi** | nevi'im | — | ✓ |
 | **qodesh** | — | — | ✓ |
 | **Ruach ha-Qodesh** | — | — | ✓ |
 | **chokhmah** | — | — | ✓ |
@@ -127,7 +127,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Bereshit 12, 15, 17* — Avraham
 - *Vayiqra* — Le système sacrificiel
 - *Yohanan 1:1-18* — Le Prologue
-- *Gevurot ha-Neviim 2* — La Pentecôte
+- *Gevurot ha-Nevi'im 2* — La Pentecôte
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 

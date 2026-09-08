@@ -134,7 +134,7 @@ Conteneur : `44. eduyot` (numéro de son premier livre).
 
 | # | Livre |
 |---|---|
-| 48 | *Gevurot ha-Neviim* — texte unique |
+| 48 | *Gevurot ha-Nevi'im* — texte unique |
 
 ## Berit Hadashah — Nevi'im / Igerot (49-69)
 

@@ -20,7 +20,7 @@ Il est ==le maillon entre [[Arpakhshad]] et [[Ever]]== — le chaînon par leque
 
 Le texte ne dit rien de lui : ni acte, ni parole, ni durée qui frappe. Il ==transmet==, et son nom dit exactement cela.
 
-Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoie ses *neviim*, jusqu'aux **shlichim** de la *Berit Hadashah* : ==l'envoi est une structure==, et elle est déjà nommée ici, dans une généalogie où personne ne parle.
+Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoie ses *nevi'im*, jusqu'aux **shlichim** de la *Berit Hadashah* : ==l'envoi est une structure==, et elle est déjà nommée ici, dans une généalogie où personne ne parle.
 
 ## Voir aussi
 

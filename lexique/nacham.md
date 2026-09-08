@@ -14,6 +14,6 @@ C'est ce qui rend une phrase du corpus si difficile pour les traducteurs. Avant 
 
 Le mot travaille aussi dans l'autre sens, et c'est le même mouvement. Quand ==Lamekh== nomme son fils ==Noach==, il dit : ==celui-ci nous nachamera de notre travail et de la peine de nos mains==. Non pas « il nous consolera » au sens d'un réconfort verbal — quelque chose va se retourner, et ce qui pesait cessera de peser de la même façon. Le nom du fils porte la promesse d'un retournement.
 
-Et c'est encore lui qui reviendra chez les **neviim**, dans ces passages qu'on lit comme des consolations : *nachamou, nachamou ami* — non pas « prenez courage », mais ==quelque chose va se retourner pour vous==.
+Et c'est encore lui qui reviendra chez les **nevi'im**, dans ces passages qu'on lit comme des consolations : *nachamou, nachamou ami* — non pas « prenez courage », mais ==quelque chose va se retourner pour vous==.
 
 Un même mot pour ce qui remue le ventre de **YHWH** avant les eaux et pour ce qui relèvera un peuple : la langue ne sépare pas ces deux mouvements, parce que c'est le même.

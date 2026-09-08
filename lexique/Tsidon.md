@@ -18,7 +18,7 @@ Le corpus la tient dans deux positions qu'il ne concilie pas.
 
 Elle est ==l'alliée== : les artisans phéniciens et le bois du Liban sont ==la matière première du Bayit==, et *Melakhim alef* 5 raconte l'accord entre Shelomo et le roi de Tyr. Ce que le Temple a de plus beau vient de là.
 
-Et elle est ==ce contre quoi les *neviim* parlent== — la puissance marchande, ses dieux, ce qu'elle fait entrer avec ses cargaisons.
+Et elle est ==ce contre quoi les *nevi'im* parlent== — la puissance marchande, ses dieux, ce qu'elle fait entrer avec ses cargaisons.
 
 Le corpus ne choisit pas. Il garde les deux, comme il garde que la culture humaine sort de la maison de [[Qayin]].
 

@@ -31,7 +31,7 @@ C'est pourquoi un peuple nommé « ceux de devant » n'est pas seulement situé 
 
 Une ligne. Ils sont le troisième nom de la liste des dix peuples que **YHWH** énumère à [[Avraham|Avram]] après la **berith** coupée entre les morceaux, entre le Qenizi et le [[Chitti]].
 
-Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **neviim**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
+Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **nevi'im**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
 
 Le silence est ici l'information, et il faut le laisser tel quel. Un nom qui ne dit que « ceux de l'orient » et qui ne revient jamais tient peut-être une population que le narrateur ne savait plus nommer autrement — ==un peuple d'avant, désigné par le fait même qu'il était là avant==. Le texte ne le dit pas ; il se contente de l'inscrire dans ce que la promesse recouvre.
 
