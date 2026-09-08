@@ -901,10 +901,19 @@ fréquent, puisque le corpus s'écrit.
 
 ==Une marque se détecte sur place. Une cible demande de savoir ce qui existe.==
 
-**Ce que la marque coûte, et il faut le dire.** `((…))` n'est ==pas un lien
-Obsidian== : on ne saute plus d'une chuqqah à l'autre depuis l'éditeur, comme on
-le fait avec `[[Nom]]` vers une fiche. L'auteur a tranché en connaissance de ce
-prix, contre une détection qui ne dépend de rien.
+**Ce que la marque coûterait, et pourquoi elle ne le coûte pas.** `((…))` n'est
+==pas un lien Obsidian== : on ne saute plus d'une chuqqah à l'autre depuis
+l'éditeur, comme on le fait avec `[[Nom]]` vers une fiche.
+
+==Ce prix n'en est plus un==, et c'est un fait qu'il faut inscrire parce que
+rien d'autre ne le dirait. **L'auteur ne lit plus le corpus dans Obsidian** : il
+le lit ==dans la liseuse du Mac==, écrite pour cela. Le §2.10 avait retenu
+`[[…]]` sur trois faits, dont *« il travaille pour le traducteur : `[[Avraham]]`
+devient cliquable dans Obsidian même »*. ==Ce troisième argument a cessé de
+peser==, et il ne doit plus être invoqué pour trancher une marque.
+
+Les deux autres tiennent, eux, et suffisent : la marque ==se voit en écrivant==,
+et elle n'a ==rien à migrer==.
 
 **Le voisinage est libre, vérifié.** ==Zéro occurrence== de `((…))` dans le
 vault. Et la parenthèse simple, que le pipeline emploie pour le niveau 3
