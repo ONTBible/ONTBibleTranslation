@@ -968,6 +968,46 @@ laissé passer un vrai bronze de jour, et les deux ont été mesurés :
 mesurées sur les fonds de l'app. Le site a sa propre nuit — une aubergine — et
 devra dériver les siennes, ==en gardant les teintes 21° et 31°==, non les hex.
 
+#### La forme : petites capitales, en plus de la couleur
+
+**Décision de l'auteur.** Un renvoi s'affiche en ==petites capitales==, et il
+garde sa couleur. ==Les deux, non l'une ou l'autre.==
+
+Une petite capitale est une majuscule ==à la hauteur d'une minuscule== : le mot
+n'est ni plus gros ni plus gras, seule sa ==silhouette== change.
+
+    couleur seule        L'olam est un regard
+    couleur + forme      L'ᴏʟᴀᴍ ᴇsᴛ ᴜɴ ʀᴇɢᴀʀᴅ
+
+**Pourquoi la forme s'ajoute.** Les trois premières couches ne se séparent que
+par la teinte, et c'est ==fragile== : dès que deux couleurs se rapprochent, tout
+est perdu d'un coup — c'est exactement ce qui a bloqué le bronze de jour. Une
+silhouette distincte fait que le renvoi ==se repère même sans distinguer sa
+teinte==, sur un écran fatigué ou en lumière forte.
+
+==La couleur ne devient pas facultative pour autant.== Elle reste ce qui dit au
+lecteur que le mot est ==touchable==, comme dans les trois autres couches, et
+les valeurs mesurées ci-dessus tiennent inchangées. La forme est ==un renfort,
+non un remplacement==, et le plancher ΔE de 25 n'est pas relâché.
+
+**Ce que la couche gagne d'être différente en nature.** Un renvoi ne pointe pas
+vers un mot du texte — il pointe vers ==un autre énoncé==. Qu'il ne se
+distingue pas seulement par la nuance mais par la ==forme== dit cette différence
+d'espèce, là où l'or, le bordeaux et la terre brûlée désignent tous trois
+quelque chose ==dans== la phrase.
+
+**Deux points de rendu, pour la liseuse.**
+
+- ==Employer `small-caps` et non `all-small-caps`==. Le premier abaisse les
+  minuscules et ==garde les capitales existantes== — `L'ᴏʟᴀᴍ` plutôt que
+  `ʟ'ᴏʟᴀᴍ`. Une capitale initiale conservée aide à lire, et la casse du titre
+  reste vraie.
+- ==Vérifier que la police porte de vraies petites capitales.== Sans elles, le
+  moteur les ==simule== en rétrécissant des majuscules — le résultat est plus
+  gras que le texte autour, plus étroit, et il trahit ce que la forme cherchait :
+  un mot de même poids, de silhouette différente. Si la police du corps n'en a
+  pas, ==il vaut mieux renoncer à la forme que la simuler==.
+
 #### Ce que la couche attend encore
 
 ==Elle n'est pas rendue.== Le pipeline ne connaît pas encore `((…))`, et il
