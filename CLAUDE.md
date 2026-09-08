@@ -873,19 +873,43 @@ quand 1 *Chanokh* sera écrit.==
 **Décision de l'auteur du 8 septembre 2026.** Une chuqqah qui en cite une autre
 la ==rend touchable==, et le renvoi porte sa propre couleur.
 
-#### La marque : rien de neuf
+#### La marque : `((cible|libellé))`
 
-Le lien natif d'Obsidian, avec libellé : `[[cible|libellé]]`. Le pipeline le lit
-déjà — la cible joint, le libellé s'affiche.
+**Décision de l'auteur.** Un renvoi vers une chuqqah s'écrit entre ==doubles
+parenthèses== :
 
-    La première chuqqah — [[l-olam-est-un-regard|L'olam est un regard]] —
+    La première chuqqah — ((l-olam-est-un-regard|L'olam est un regard)) —
     a posé que l'**olam** est ==un rapport de perceptibilité==.
 
-==La distinction se fait sur la cible, non sur la marque.== Si elle retombe sur
-une fiche de `lexique/`, c'est un **Shem** ; si elle retombe sur une chuqqah,
-c'est un renvoi. Le traducteur n'a donc ==aucune marque de plus à retenir==, et
-le lien reste cliquable dans Obsidian même — le critère qui avait fait choisir
-`[[…]]` pour les Shemot.
+La cible joint, le libellé s'affiche — même convention que `[[…]]`.
+
+**Pourquoi une marque neuve, alors que `[[…]]` existait.** La première rédaction
+de cette section proposait de réemployer `[[cible|libellé]]` et de ==distinguer
+sur la cible== : une fiche de `lexique/` donnerait un **Shem**, une chuqqah un
+renvoi. ==C'était faux, et le pipeline le disait déjà.==
+
+`inline.rs` émet tout `[[…]]` en `Shem` ==sans jamais regarder la cible==, et
+son commentaire porte la raison :
+
+> le vault porte des renvois vers des porteurs pas encore écrits : ce sont des
+> marques de travail à faire, pas des erreurs
+
+Distinguer sur la cible obligerait donc à ==résoudre avant de typer==. Et le
+défaut serait exactement celui que ce principe prévient : ==un renvoi vers une
+chuqqah pas encore écrite sortirait en **Shem**==. Or c'est le cas le plus
+fréquent, puisque le corpus s'écrit.
+
+==Une marque se détecte sur place. Une cible demande de savoir ce qui existe.==
+
+**Ce que la marque coûte, et il faut le dire.** `((…))` n'est ==pas un lien
+Obsidian== : on ne saute plus d'une chuqqah à l'autre depuis l'éditeur, comme on
+le fait avec `[[Nom]]` vers une fiche. L'auteur a tranché en connaissance de ce
+prix, contre une détection qui ne dépend de rien.
+
+**Le voisinage est libre, vérifié.** ==Zéro occurrence== de `((…))` dans le
+vault. Et la parenthèse simple, que le pipeline emploie pour le niveau 3
+`(*translittération* / hébreu)`, ne mord pas : son parseur exige que le contenu
+porte de l'==hébreu réel== (`has_hebrew`), ce qu'un renvoi n'a pas.
 
 #### La couleur : un bronze, et pour la première fois la teinte ne traverse pas
 
@@ -937,11 +961,17 @@ devra dériver les siennes, ==en gardant les teintes 21° et 31°==, non les hex
 
 #### Ce que la couche attend encore
 
-==Elle n'est pas rendue.== Le pipeline ne distingue pas encore la cible d'un
-`[[…]]`, donc un renvoi écrit aujourd'hui sortirait ==en terre brûlée== et le
-lecteur croirait toucher un nom propre. Les chuqqot écrites ne portent donc
-aucun renvoi touchable, et ==c'est délibéré== : elles nomment les autres en
-toutes lettres, sans lien, jusqu'à ce que l'émission sache trancher.
+==Elle n'est pas rendue.== Le pipeline ne connaît pas encore `((…))`, et il
+faut deux choses : un cas dans `inline.rs`, ==testé avant celui du niveau 3== ou
+après lui indifféremment puisque `has_hebrew` les sépare, et un nœud dans
+`schema.rs` — lequel fera ==rougir la compilation== des liseuses, qui devront le
+rendre. C'est le bon sens de la dépendance : un type neuf prévient, un fichier
+neuf non.
+
+En attendant, ==ne pas écrire de renvois==. Le pipeline les laisserait tels
+quels, et le lecteur verrait les parenthèses. Les six chuqqot nomment donc les
+autres en toutes lettres, sans marque — ==c'est délibéré==, et cela se reprendra
+quand l'émission saura les lire.
 
 ---
 
