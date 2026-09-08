@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`SHEM` — une syllabe.
+*SHEM* — une syllabe.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 ## Le Shem, et la difficulté qu'il pose
 

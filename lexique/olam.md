@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`o-LAM` — deux syllabes, accent sur la seconde.
+*o-LAM* — deux syllabes, accent sur la seconde.
 
-Le mot commence par un ==ayin==, que la graphie ONT ne note pas en position initiale (§2.9). Ce n'est pas un `o` ordinaire : il se produit ==au fond de la gorge, avec la voix== — le même resserrement que le het, mais sonore. Un son plein, légèrement étranglé, avant la voyelle.
+Le mot commence par un ==ayin==, que la graphie ONT ne note pas en position initiale (§2.9). Ce n'est pas un *o* ordinaire : il se produit ==au fond de la gorge, avec la voix== — le même resserrement que le het, mais sonore. Un son plein, légèrement étranglé, avant la voyelle.
 
 Un francophone qui dit simplement « o-LAM » sera compris ; il perdra seulement l'attaque.
 ## Ce qu'on t'a appris, et qui est faux

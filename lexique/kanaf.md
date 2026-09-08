@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`ka-NAF` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ka-NAF* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 L'aile — mais le mot dit d'abord ==ce qui permet d'habiter le domaine aérien==. Comme partout dans ce chapitre, l'organe est nommé par sa fonction : la ==kanaf== (*kanaf* / כָּנָף) est ce par quoi le **of** occupe l'espace qui lui est assigné.
 

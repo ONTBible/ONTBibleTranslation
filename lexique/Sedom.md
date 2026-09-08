@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Se-DOM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Se-DOM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`qa-RA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qa-RA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 **Elohim** sépare la lumière de l'obscurité — puis il ==qara== (*qara* / קָרָא) l'une jour, et l'autre nuit. Nous lisons : il leur donna un nom. Et nous croyons à un geste second, une commodité pour s'y retrouver, une étiquette posée après coup sur des choses déjà là.
 

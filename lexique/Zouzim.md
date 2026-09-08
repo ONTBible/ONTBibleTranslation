@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Zou-ZIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Zou-ZIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

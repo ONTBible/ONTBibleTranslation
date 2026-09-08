@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Qa-DESH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Qa-DESH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 ## Le Shem
 

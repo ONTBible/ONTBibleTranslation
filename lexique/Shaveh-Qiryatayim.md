@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Sha-VEH Qir-ya-ta-YIM` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*Sha-VEH Qir-ya-ta-YIM* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 

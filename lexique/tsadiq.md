@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`tsa-DIQ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*tsa-DIQ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 Un mur peut être droit ou de travers. Une balance peut être juste ou fausse. Un chemin peut mener où il annonce, ou pas. L'hébreu a une famille de mots pour cet état de conformité — la racine *tsedeq* — et le ==tsadiq== (*tsadiq* / צַדִּיק) est celui dont l'existence, prise dans son entier, ==tient droit==.
 

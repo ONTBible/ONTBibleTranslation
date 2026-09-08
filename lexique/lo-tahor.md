@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`lo ta-HOR` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*lo ta-HOR* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Deux mots, pas un : ==lo==, la négation, et **tahor**, l'état qui permet le contact avec le domaine mis à part. Le corpus dit donc littéralement ==pas tahor== — et cette formulation négative n'est pas un hasard de style.
 

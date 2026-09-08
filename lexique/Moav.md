@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Mo-AV` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Mo-AV* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

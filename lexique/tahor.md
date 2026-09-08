@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ta-HOR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ta-HOR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un homme s'approche du sanctuaire. Avant d'entrer, il faut savoir s'il peut — et la question n'est pas de savoir s'il est propre ni s'il a bien agi. La question est : ==son état permet-il ce contact ?== S'il le permet, il est ==tahor== (*tahor* / טָהוֹר). Sinon il est *tamé*, et il attendra.
 

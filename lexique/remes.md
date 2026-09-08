@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`re-MES` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*re-MES* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le verbe *ramas* dit ==se mouvoir au ras du sol== — ramper, grouiller, glisser. Le ==remes== (*remes* / רֶמֶשׂ) est ce qui se déplace ainsi : non pas une espèce, mais ==une manière d'occuper l'espace==.
 

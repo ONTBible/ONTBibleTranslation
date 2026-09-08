@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`e-RETZ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*e-RETZ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Deux mots pour ce que le français appelle la terre, et le corpus ne les confond jamais. L'**adamah** est le sol qu'on retourne, la glaise sous l'ongle, ce dont l'homme est tiré. L'==eretz== (*eretz* / אֶרֶץ) est autre chose : ==le domaine terrestre habitable== — l'espace dégagé où l'on vit, par opposition aux eaux et aux Cieux.
 

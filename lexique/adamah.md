@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`a-da-MAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*a-da-MAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Ce n'est ni la planète, ni le territoire, ni le paysage. L'==adamah== (*adamah* / אֲדָמָה) est ==la terre qu'on retourne== — la glaise sous l'ongle, celle qui colle aux mains, celle dont on tire du pain à condition d'y passer ses journées.
 

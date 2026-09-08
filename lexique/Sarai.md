@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Sa-ra-I` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Sa-ra-I* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Les deux Shem
 

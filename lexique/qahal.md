@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`qa-HAL` — deux syllabes, accent sur la seconde.
+*qa-HAL* — deux syllabes, accent sur la seconde.
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==, là où le `k` français ne va pas. Ferme puis relâche à cet endroit.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==, là où le *k* français ne va pas. Ferme puis relâche à cet endroit.
 
-Le `h` du milieu est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. Il se prononce — ==il n'est pas muet comme en français==.
+Le *h* du milieu est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. Il se prononce — ==il n'est pas muet comme en français==.
 ## On n'y va pas, on y est appelé
 
 Un mot français traduit presque toujours ==qahal== (*qahal* / קָהָל) :

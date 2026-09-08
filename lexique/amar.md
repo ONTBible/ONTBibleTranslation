@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`a-MAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*a-MAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le verbe le plus fréquent du corpus, et celui dont la traduction décide de tout le reste. **Elohim** ==amar== (*amar* / אָמַר) : que la lumière soit. Nous écrivons *dit*, et le mot français fait aussitôt de la parole un ==compte rendu== — quelqu'un énonce quelque chose, et la chose se produit ensuite, ailleurs, par un autre moyen.
 

@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Cha-tsar-ma-VET` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Cha-tsar-ma-VET* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 ## Le Shem
 

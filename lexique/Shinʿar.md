@@ -2,13 +2,13 @@
 
 ## Prononciation
 
-`Shin-'AR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Shin-'AR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 ## Le Shem
 

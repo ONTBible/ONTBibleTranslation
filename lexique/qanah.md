@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`qa-NAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qa-NAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un mot qui tient deux choses que le français sépare, et qui ne les tient pas par confusion : ==fonder== et ==posséder== — et le mot qui les tient ensemble est *qanah* (*qanah* / קָנָה). Celui qui a fait une chose en est le maître ; celui qui en est le maître l'a faite. L'hébreu ne voit pas là deux idées.
 

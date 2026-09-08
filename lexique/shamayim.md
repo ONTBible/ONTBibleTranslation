@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`sha-ma-YIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*sha-ma-YIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Le mot est un pluriel, comme *mayim*, les eaux — et l'oreille hébraïque entend la parenté. L'étymologie la plus probable dit d'ailleurs quelque chose comme ==là où sont les eaux==, ce qui n'est pas une fantaisie : quiconque a vu tomber la pluie sait qu'il y a de l'eau au-dessus.
 

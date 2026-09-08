@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ba-VEL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ba-VEL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem, et la querelle qu'il porte
 

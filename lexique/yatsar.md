@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ya-TSAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ya-TSAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 Un potier à son tour. Il prend la motte, il la centre, il l'ouvre avec les pouces, il monte les parois. Ses mains sont dans la matière du début à la fin, et ce qu'il obtient dépend de ce qu'il a senti sous ses doigts. Le verbe pour ce travail est ==yatsar== (*yatsar* / יָצַר).
 

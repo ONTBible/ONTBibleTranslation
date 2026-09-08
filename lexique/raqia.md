@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ra-qi-A` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ra-qi-A* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 Lève les yeux par temps clair. Le bleu paraît solide, tendu, comme une surface — et ce n'est pas une naïveté d'ancien : c'est ce qu'on voit. L'hébreu appelle ==raqia== (*raqia* / רָקִיעַ) cette surface, et le verbe dont le mot vient, *raqa*, désigne ==le métal qu'on martèle pour l'étendre en feuille==.
 

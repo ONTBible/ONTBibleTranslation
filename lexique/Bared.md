@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ba-RED` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ba-RED* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

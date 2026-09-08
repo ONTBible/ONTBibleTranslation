@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ma-SHAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ma-SHAL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Au quatrième jour, les luminaires sont installés — et le texte dit pourquoi : pour ==mashal== (*mashal* / מָשַׁל) sur le jour et sur la nuit, et pour séparer la lumière de l'obscurité. Le verbe désigne ==une gouvernance exercée sur un domaine==.
 

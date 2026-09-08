@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`L'Êt-RE fa-çon-NÉ dou sol` — 4 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*L'Êt-RE fa-çon-NÉ dou sol* — 4 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
 Ce n'est pas un nom, c'est ==une périphrase== (*ha-adam* / הָאָדָם) — six mots français là où l'hébreu en a un. Le vault a choisi de la porter dans le corps du texte, et il vaut la peine de comprendre pourquoi, parce que cela coûte cher à la lecture.
 

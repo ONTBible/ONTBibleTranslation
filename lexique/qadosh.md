@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`qa-DOSH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qa-DOSH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 La forme adjectivale de ce que le **qodesh** nomme : ce qui ==a été mis à part pour un office==. Un ustensile, un jour, un lieu, un homme — le mot dit toujours la même chose, et jamais une qualité intrinsèque.
 

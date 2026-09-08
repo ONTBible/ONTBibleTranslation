@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`ba-SAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ba-SAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Ce que « chair » a perdu en route
 

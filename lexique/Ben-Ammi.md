@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ben Am-MI` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*Ben Am-MI* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

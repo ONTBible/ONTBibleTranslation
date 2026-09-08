@@ -2,13 +2,13 @@
 
 ## Prononciation
 
-`chouq-QAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*chouq-QAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Un homme est accroupi devant une dalle, un ciseau dans une main, un maillet dans
 l'autre. Il ne trace pas — ==il enlève de la matière==. Chaque coup retire un

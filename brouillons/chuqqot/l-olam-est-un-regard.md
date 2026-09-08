@@ -205,7 +205,7 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après une conjecture de l'auteur==, déposée dans `restranscriptions/`. Elle n'est pas une transcription : la matière était un échange, et elle est rendue en un seul corps, dans sa voix, à sa demande. La conjecture — *le mot ne porte pas le lieu d'où on le regarde, il porte uniquement le fait qu'on le regarde* — est la sienne ; l'invariant qui la formule, la mise en forme et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une conjecture de l'auteur==, déposée dans *restranscriptions/*. Elle n'est pas une transcription : la matière était un échange, et elle est rendue en un seul corps, dans sa voix, à sa demande. La conjecture — *le mot ne porte pas le lieu d'où on le regarde, il porte uniquement le fait qu'on le regarde* — est la sienne ; l'invariant qui la formule, la mise en forme et le balisage sont du vault.*
 
 - *==Elle est la première parce qu'elle fonde les autres.== Toutes les chuqqot du corpus disent une facette de l'**olam** — voir la feuille d'introduction. Celle-ci n'en est pas une : elle pose ce dont les autres sont des facettes. C'est une propriété de la chuqqah, non un rang de tri ; l'ordre est déclaré dans la feuille d'introduction, et nulle part ailleurs.*
 
@@ -219,7 +219,7 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 - *Qohelet* 3:11 (à écrire) — l'**olam** mis dans le cœur, le texte le plus décisif.
 - *Devarim* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
 - *Tehilim* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.
-- La fiche `lexique/olam.md` porte le même invariant, et le déplie pour le lecteur qui touche le mot dans une **parashah**.
+- La fiche *lexique/olam.md* porte le même invariant, et le déplie pour le lecteur qui touche le mot dans une **parashah**.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`E-li-e-ZER` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*E-li-e-ZER* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

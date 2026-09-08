@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ki-TIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ki-TIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

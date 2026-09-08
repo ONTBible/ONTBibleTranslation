@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`A-do-na-I` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*A-do-na-I* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Un serviteur s'adresse au maître de la maison. Il ne l'appelle pas par son nom : il dit ==adoni==, mon maître. Le mot est courant, il court dans toutes les conversations — on le dit à un roi, à un mari, à un supérieur, à quiconque tient au-dessus de nous quelque chose de nos vies.
 

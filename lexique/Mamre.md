@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Mam-RE` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Mam-RE* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

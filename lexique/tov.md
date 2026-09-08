@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`TOV` — une syllabe.
+*TOV* — une syllabe.
 
 Un homme prend une lame et l'essaie sur une branche. Elle coupe net. Il dit : ==tov== (*tov* / טוֹב). Il ne dit pas qu'elle est belle, ni qu'elle est bonne au sens où l'on parle d'un homme bon. Il dit qu'==elle fait ce pour quoi elle est==.
 

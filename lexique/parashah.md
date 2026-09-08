@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`pa-ra-SHAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*pa-ra-SHAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un scribe est assis devant un rouleau. Il vient d'écrire la fin d'une chose — un récit s'est accompli, une instruction a été donnée jusqu'au bout. Il ne trace pas de numéro. Il ne dessine pas de trait. Il ==laisse le reste de la ligne blanc==, et recommence à la ligne suivante.
 

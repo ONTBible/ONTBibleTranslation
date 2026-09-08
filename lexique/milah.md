@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`mi-LAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*mi-LAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un homme de quatre-vingt-dix-neuf ans. Une promesse qui ne s'est pas réalisée depuis vingt-quatre ans qu'elle a été faite. Et un signe qui lui est demandé — non pas un serment, non pas un autel, non pas un monument : une incision, dans sa propre chair, à l'endroit par où la descendance passe.
 

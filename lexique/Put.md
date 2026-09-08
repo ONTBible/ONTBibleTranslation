@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`POUT` — une syllabe.
+*POUT* — une syllabe.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 ## Le Shem
 

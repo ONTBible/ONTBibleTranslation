@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`gib-ba-ra-YA` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*gib-ba-ra-YA* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le mot n'est pas hébreu. Il est araméen, et cela seul dit déjà quelque chose : la langue que parlaient les gens ordinaires du Proche-Orient sous les grands empires, celle des contrats, des lettres et des récits qu'on se racontait vraiment. C'est dans cette langue-là qu'un livre entier a été écrit sur ces êtres, et c'est en fragments de cette langue qu'on l'a retrouvé dans les grottes de ==Qumrân==.
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Go-MER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Go-MER* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

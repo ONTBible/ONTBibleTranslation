@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`I-RAD` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*I-RAD* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

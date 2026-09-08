@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Yish-ma-'EL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Yish-ma-'EL* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
 ## Le Shem
 

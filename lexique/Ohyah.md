@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`Oh-YAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Oh-YAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 ## Le Shem
 

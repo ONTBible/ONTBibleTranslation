@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Gav-ri-EL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Gav-ri-EL* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Ce nom ne désigne personne.
 

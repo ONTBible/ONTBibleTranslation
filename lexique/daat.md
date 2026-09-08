@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`da-'AT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*da-'AT* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
 Un berger entre dans son enclos au petit jour. On lui demanderait combien il a de bêtes qu'il hésiterait peut-être. Mais il sait laquelle boitera avant qu'elle boite, laquelle mettra bas la première, laquelle s'écarte quand l'orage monte. Il ne les a pas comptées : il a passé ses nuits avec elles.
 

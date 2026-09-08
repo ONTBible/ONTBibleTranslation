@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ma-da-I` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ma-da-I* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

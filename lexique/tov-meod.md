@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`tov me-OD` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*tov me-OD* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Sept fois dans le premier chapitre, **Elohim** examine et constate : **tov**. Une fois, une seule, la formule change — et c'est à la fin, quand il regarde ==tout== ce qu'il a fait : ==tov meʾod== (*tov meʾod* / טוֹב מְאֹד).
 

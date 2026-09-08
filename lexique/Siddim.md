@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Sid-DIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Sid-DIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

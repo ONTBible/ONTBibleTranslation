@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Do-da-NIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Do-da-NIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

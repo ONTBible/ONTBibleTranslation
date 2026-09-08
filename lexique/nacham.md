@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`na-CHAM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*na-CHAM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
 Un homme apprend une nouvelle et le coup le prend au ventre. Ce n'est pas une pensée qui change, c'est quelque chose qui se retourne au-dedans — et c'est de là, de cet endroit remué, qu'il va voir les choses autrement. L'hébreu tient les deux moments dans un seul mot, et c'est ==nacham== (*nacham* / נָחַם).
 

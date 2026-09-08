@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ka-VOD` — deux syllabes, accent sur la seconde.
+*ka-VOD* — deux syllabes, accent sur la seconde.
 
-Aucune difficulté de gorge. Le `o` est fermé comme dans « pot », et ==surtout pas nasal== : on dit `ka-VOD`, jamais « ka-von ». Le `d` final se prononce.
+Aucune difficulté de gorge. Le *o* est fermé comme dans « pot », et ==surtout pas nasal== : on dit *ka-VOD*, jamais « ka-von ». Le *d* final se prononce.
 Prends une pierre dans la main. Ce que tu sens d'abord, avant sa couleur ou sa forme, c'est qu'elle ==pèse== — et le mot hébreu pour cela est *kaved*, lourd. C'est de là que vient la ==kavod== (*kavod* / כָּבוֹד), et il faut partir de la main pour comprendre le reste.
 
 Car ce que l'hébreu mesure avec ce mot, ce n'est pas une brillance : c'est ==le poids d'une réalité dans l'ordre du monde==. Sa densité, sa substance, ce qu'elle fait basculer quand on la met dans la balance. Un homme a de la ==kavod== quand sa parole pèse, quand son absence se remarque, quand ce qu'il décide a des conséquences. Une terre en a quand elle porte. Le mot ne décrit jamais un éclat — il décrit ==une consistance==.

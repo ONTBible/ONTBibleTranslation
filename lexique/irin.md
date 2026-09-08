@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`'i-RIN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*'i-RIN* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 Le mot est araméen, et il vient d'une racine qui veut dire ==veiller==. Les ==irin== (*irin* / עִירִין) sont ceux qui ne dorment pas — les éveillés, ceux qui tiennent le quart pendant que le monde dort.
 

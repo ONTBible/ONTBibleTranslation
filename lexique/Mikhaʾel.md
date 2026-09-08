@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Mi-kha-'EL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Mi-kha-'EL* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+Le *kh* est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un *k*, ni un « ch » de « chat »==.
 
-Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
 ## Le Shem
 

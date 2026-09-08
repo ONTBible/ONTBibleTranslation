@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`miz-be-ACH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*miz-be-ACH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
 Le mot vient de *zavach* — ==égorger==. Littéralement : le lieu où l'on égorge. On traduit par « autel », et le mot français a pris avec le temps quelque chose de paisible : une table, des fleurs, un lieu de recueillement.
 

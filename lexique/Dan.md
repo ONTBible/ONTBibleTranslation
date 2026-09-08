@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`DAN` — une syllabe.
+*DAN* — une syllabe.
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 ## Le Shem
 

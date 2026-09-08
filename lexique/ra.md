@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`RA` — une syllabe.
+*RA* — une syllabe.
 
 Une lame qui ne coupe plus. Une terre qui ne porte pas. Un puits qui donne une eau qu'on ne peut pas boire. L'hébreu a un mot pour cet état, et c'est ==ra== (*ra* / רַע). Il ne dit pas que la chose est méchante : il dit qu'==elle rate ce pour quoi elle est==.
 

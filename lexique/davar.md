@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`da-VAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*da-VAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Un homme dit à un autre : *j'ai un ==davar== (*davar* / דָּבָר) à te dire*. Le second comprend qu'il va entendre une parole. Le même mot, deux lignes plus loin, désigne l'affaire dont il est question — le fait, la chose survenue. Et le texte ne signale aucun changement de sens, parce qu'il n'y en a pas.
 

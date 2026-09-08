@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`ROU-ach` — deux syllabes, accent sur la première.
+*ROU-ach* — deux syllabes, accent sur la première.
 
-Le `ou` comme dans « loup ». Le `ch` final est un ==het== : un souffle raclé au fond de la gorge, ==jamais « rouche »==.
+Le *ou* comme dans « loup ». Le *ch* final est un ==het== : un souffle raclé au fond de la gorge, ==jamais « rouche »==.
 
-Et le `a` qui le précède nest
+Et le *a* qui le précède nest
 Tiens-toi dans un défilé, un jour de vent. Tu ne vois rien. Tu vois ce que le vent fait : la poussière qui court, les arbres qui plient, ta tunique qui claque. Et pourtant personne n'irait dire qu'il n'y a rien là — il y a quelque chose qui ==agit==, et qui n'a pas de forme.
 
 C'est le premier sens de ==Ruach== (*Ruach* / רוּחַ) : le vent. Le deuxième est le souffle — l'air qui entre et sort de toi, et qui s'arrête quand tu t'arrêtes. Le troisième est ce que nous appelons esprit. Et le point qu'il faut tenir, c'est que ce ne sont ==pas trois sens== entre lesquels il faudrait choisir. C'est un seul mot pour une seule chose : ==ce qui ne se voit pas et qui meut==.

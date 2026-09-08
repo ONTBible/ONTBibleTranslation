@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`dib-BER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*dib-BER* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Deux verbes pour parler, et le corpus ne les emploie jamais l'un pour l'autre.
 

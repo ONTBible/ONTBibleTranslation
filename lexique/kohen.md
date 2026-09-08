@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`Ko-HEN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ko-HEN* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 Deux domaines, et entre eux une frontière qui ne se franchit pas comme on veut. En haut, ce qui est mis à part ; en bas, l'usage ordinaire des jours. Il faut pourtant que les deux communiquent — qu'on puisse porter quelque chose de là-bas vers ici, et d'ici vers là-bas. Celui qui tient ce passage ouvert s'appelle un ==kohen== (*kohen* / כֹּהֵן).
 

@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`SHOUR` — une syllabe.
+*SHOUR* — une syllabe.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 ## Le Shem
 

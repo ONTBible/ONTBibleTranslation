@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ar-va-DI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ar-va-DI* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

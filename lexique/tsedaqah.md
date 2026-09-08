@@ -2,13 +2,13 @@
 
 ## Prononciation
 
-`tse-da-QAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*tse-da-QAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un fléau de balance, deux plateaux, des poids de pierre dans un sac. Le marchand pose ses poids, le client regarde. Si les poids sont exacts, la balance est *tsedeq* — ajustée, conforme. De cette famille vient la ==tsedaqah== (*tsedaqah* / צְדָקָה), et il faut partir de là pour ne pas la manquer.
 

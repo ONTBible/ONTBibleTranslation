@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`E-LAM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*E-LAM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`EL` — une syllabe.
+*EL* — une syllabe.
 
 ## Le mot que tout le monde disait
 

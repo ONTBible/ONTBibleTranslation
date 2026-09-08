@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`Be-ER la-CHAI ro-I` — 3 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*Be-ER la-CHAI ro-I* — 3 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
 ## Le Shem
 

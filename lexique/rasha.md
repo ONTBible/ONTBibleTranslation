@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ra-SHA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ra-SHA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un mur qui penche. Il tient encore, on passe dessous tous les jours, et pourtant il n'est plus d'aplomb. Quelque chose, dans son assise, s'est déplacé. L'hébreu appelle ==rasha== (*rasha* / רָשָׁע) l'homme dont l'existence est ainsi — non pas écroulée, ==déviée==.
 

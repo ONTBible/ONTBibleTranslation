@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`a-DAM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*a-DAM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le mot pour « sol » est *adamah* — la terre travaillée, celle qu'on retourne, pas le territoire ni la planète. Le mot pour l'être humain est ==adam== (*adam* / אָדָם). Une lettre d'écart, et personne dans cette langue ne peut prononcer l'un sans entendre l'autre.
 

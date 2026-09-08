@@ -174,7 +174,7 @@ textes qui comptent se trompent sur ce qu'ils ont vu.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après une conversation de l'auteur==, déposée dans `restranscriptions/`, qui s'ouvre sur sa question — *« 7 cieux ou 3 ? »* — et se referme sur sa propre formulation : *« les shamayim de shamayim sont ce que c'est le Saint des Saints, comme si les cieux est temple, temple stratifié, et la stratification est nécessairement et structurellement liée à la **kavod** **YHWH** »*. C'est cette phrase qui est l'énoncé ; le reste la déplie.*
+- *==Cette chuqqah est écrite d'après une conversation de l'auteur==, déposée dans *restranscriptions/*, qui s'ouvre sur sa question — *« 7 cieux ou 3 ? »* — et se referme sur sa propre formulation : *« les shamayim de shamayim sont ce que c'est le Saint des Saints, comme si les cieux est temple, temple stratifié, et la stratification est nécessairement et structurellement liée à la **kavod** **YHWH** »*. C'est cette phrase qui est l'énoncé ; le reste la déplie.*
 
 - *==Elle est en partie déjà dans le document de référence.== Le §6 a été réécrit le 30 août sur cette même matière, et il porte le gradient, l'homologie du *raqia* et du *parokhet*, et le refus de compter. La chuqqah ne le redit pas pour le plaisir : le §6 s'adresse ==au traducteur== et dit ce qu'il faut rendre ; celle-ci s'adresse ==au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite d'un côté ou de l'autre.*
 

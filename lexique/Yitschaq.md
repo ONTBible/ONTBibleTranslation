@@ -2,13 +2,13 @@
 
 ## Prononciation
 
-`Yits-CHAQ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Yits-CHAQ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 

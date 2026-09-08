@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`qa-DASH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qa-DASH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un potier a deux jarres identiques sur son étagère. Il en prend une, il la met de côté et il dit : celle-ci ne servira plus à l'eau. Rien n'a changé dans l'argile. Ce qui a changé, c'est ==ce à quoi elle est disponible==.
 

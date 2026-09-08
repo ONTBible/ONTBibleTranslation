@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`PRAT` — une syllabe.
+*PRAT* — une syllabe.
 
 ## Le Shem
 

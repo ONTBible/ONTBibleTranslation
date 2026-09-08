@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`Fan-da-NA` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Fan-da-NA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 ## D'où viennent les marchands
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ri-FAT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ri-FAT* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

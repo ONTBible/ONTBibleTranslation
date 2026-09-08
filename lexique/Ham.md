@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`HAM` — une syllabe.
+*HAM* — une syllabe.
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 ## Le Shem
 

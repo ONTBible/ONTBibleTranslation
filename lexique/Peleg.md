@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Pe-LEG` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Pe-LEG* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

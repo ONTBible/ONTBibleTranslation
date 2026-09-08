@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`El El-YON` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*El El-YON* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Un roi revient d'une bataille avec du butin et des prisonniers délivrés. Sur son chemin sort à sa rencontre un autre roi, celui de Shalem, qui apporte du pain et du vin. Cet homme n'appartient à aucune lignée connue ; il est ==kohen==, et il bénit ==Avram== au nom d'==El Elyon== (*El Elyon* / אֵל עֶלְיוֹן), ==celui qui possède les Cieux et la Terre==.
 

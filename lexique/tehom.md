@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`te-HOM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*te-HOM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Avant tout, il y a de l'eau. Pas une mer avec des rivages — de l'eau sans fond et sans bord, où rien ne flotte parce qu'il n'y a ni haut ni bas. L'hébreu l'appelle ==tehom== (*tehom* / תְהוֹם), et c'est sur sa face que la **Ruach** plane au deuxième verset.
 

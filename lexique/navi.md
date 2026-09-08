@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`na-VI` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*na-VI* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Un homme se tient à la porte d'une ville et dit ce qui va arriver. C'est l'image que nous avons du prophète, et elle est fausse aux trois quarts.
 

@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`sha-li-ACH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*sha-li-ACH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
 Un roi envoie un homme porter sa parole à un autre roi. Cet homme entre dans la salle, il parle — et ce qu'il dit engage celui qui l'envoie, exactement comme s'il était là. On ne l'écoute pas pour ce qu'il est : on l'écoute pour ==qui l'a envoyé==. S'il est insulté, c'est son maître qui l'est.
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`OOUST` — une syllabe.
+*OOUST* — une syllabe.
 
 ## Le Shem
 

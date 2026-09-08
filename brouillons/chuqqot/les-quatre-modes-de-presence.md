@@ -33,7 +33,7 @@ D'où l'invariant, qui commande toute la suite :
 
 Un exemple, pour le tenir. Une chose peut être dans l'**olam** pour moi et pas
 pour toi, sans que la chose ait bougé d'un pouce. Ce qui a changé n'est pas
-==ce qui est regardé==, c'est ==ce qui regarde==. La fiche `lexique/olam.md` le
+==ce qui est regardé==, c'est ==ce qui regarde==. La fiche *lexique/olam.md* le
 déplie ; ici il suffit de retenir ceci : parler d'**olam**, c'est ==toujours
 parler d'un rapport de perceptibilité==, jamais d'un territoire.
 
@@ -109,7 +109,7 @@ pas. Le corpus dit tantôt *« **YHWH** lui apparut »*, tantôt *« le **malʾa
 **YHWH** lui apparut »*, et il ne choisit pas. Ce n'est pas un flottement :
 ==c'est le même événement, dit une fois par sa source et une fois par son mode==.
 
-*(La deuxième chuqqah, `les-malakhim-nont-pas-dolam.md`, ne traite que de cette
+*(La deuxième chuqqah, *les-malakhim-nont-pas-dolam.md*, ne traite que de cette
 strate et donne le verset qui la formalise.)*
 
 Mais ==un **olam** emprunté se rend==. Et ce qui se rend n'accomplit rien qui
@@ -270,7 +270,7 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
-- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche `lexique/kli.md`, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
+- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
 
 - *==Un terme travaille encore sans être déclaré== : *rachaph*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 

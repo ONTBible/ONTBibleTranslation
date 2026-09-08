@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`pa-NIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*pa-NIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le mot est un ==pluriel==, toujours — jamais un *panim* au singulier. Un visage, en hébreu, se dit au pluriel, et cette bizarrerie est la première chose à entendre : ce n'est pas une surface, c'est ==un ensemble d'orientations==.
 

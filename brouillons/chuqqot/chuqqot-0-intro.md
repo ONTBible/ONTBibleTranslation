@@ -29,12 +29,12 @@ a guère d'autres.
 
 | rang | identifiant | ce qu'elle ajoute |
 |---|---|---|
-| 1 | `l-olam-est-un-regard` | la fondation : l'**olam** n'est pas un lieu, c'est un rapport |
-| 2 | `yhwh-ha-maqom` | celui qui n'a aucun **olam**, parce qu'il est le lieu où tout **olam** se tient |
-| 3 | `les-quatre-modes-de-presence` | comment celui-là se rend perceptible sans cesser de l'être |
-| 4 | `les-malakhim-et-l-olam-prete` | la deuxième strate : un **olam** emprunté, puis rendu |
-| 5 | `le-navi-et-l-olam-d-argile` | le **kli** humain — et le **basar** comme puissance, non comme prison |
-| 6 | `le-gradient-de-kavod` | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
+| 1 | *l-olam-est-un-regard* | la fondation : l'**olam** n'est pas un lieu, c'est un rapport |
+| 2 | *yhwh-ha-maqom* | celui qui n'a aucun **olam**, parce qu'il est le lieu où tout **olam** se tient |
+| 3 | *les-quatre-modes-de-presence* | comment celui-là se rend perceptible sans cesser de l'être |
+| 4 | *les-malakhim-et-l-olam-prete* | la deuxième strate : un **olam** emprunté, puis rendu |
+| 5 | *le-navi-et-l-olam-d-argile* | le **kli** humain — et le **basar** comme puissance, non comme prison |
+| 6 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
 
 ==Le rang est déclaré ici, et nulle part ailleurs.== Les fichiers ne portent
 aucun numéro, délibérément : un ordre inscrit à la fois dans un nom de fichier et
@@ -83,7 +83,7 @@ croit avoir été sobre quand on a été muet.
 
 ## D'où vient leur matière
 
-De conversations de l'auteur, déposées dans `restranscriptions/`. Une chuqqah
+De conversations de l'auteur, déposées dans *restranscriptions/*. Une chuqqah
 n'en est jamais la transcription : la matière était un échange, elle est rendue
 ==en un seul corps, dans sa voix==. Chacune dit en note de quoi elle est tirée,
 et ce qu'elle a laissé dehors.

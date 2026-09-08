@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`qal-LEL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qal-LEL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 La racine dit ==léger==. ==Qallel== (*Qallel* / קַלֵּל), c'est ==alléger== — retirer du poids à quelque chose, non pas le supprimer.
 

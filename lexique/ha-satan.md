@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`ha sa-TAN` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*ha sa-TAN* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Une assemblée. Ceux qui servent se présentent devant celui qui gouverne, et parmi eux il y en a un dont la charge est de ==relever ce qui ne va pas==. Il examine, il objecte, il met en cause. Rien dans la scène n'indique qu'il soit un ennemi : il est à sa place, dans le Conseil, et il fait ce pour quoi il est là.
 

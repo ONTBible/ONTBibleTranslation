@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`go-YIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*go-YIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Une table, au chapitre dix. Soixante-dix noms, rangés par lignée : les fils de ==Yaphet==, ceux de ==Cham==, ceux de ==Shem==, chacun ==selon sa langue, selon sa famille, dans son territoire==. Ce ne sont pas des tribus flottantes ni des catégories d'esprit. Ce sont des peuples avec une langue, un sol et une organisation — et c'est cela, des ==goyim== (*goyim* / גּוֹיִם).
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`OR` — une syllabe.
+*OR* — une syllabe.
 
 Le premier mot que **Elohim** prononce fait paraître la ==or== (*or* / אוֹר). Et le lecteur moderne bute aussitôt sur une objection : les luminaires — soleil, lune, étoiles — ne sont installés qu'au quatrième jour. D'où viendrait donc cette lumière-là ?
 

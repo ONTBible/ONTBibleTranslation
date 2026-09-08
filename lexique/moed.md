@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`mo-ED` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*mo-ED* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Deux personnes conviennent de se retrouver à un endroit, un jour donné. Le mot pour ce point fixé dans le temps est ==moed== (*moed* / מוֹעֵד) — de *yaʿad*, fixer un rendez-vous, convenir d'une rencontre.
 

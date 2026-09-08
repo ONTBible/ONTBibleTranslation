@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Al-mo-DAD` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Al-mo-DAD* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

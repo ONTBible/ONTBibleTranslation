@@ -194,7 +194,7 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après une question de l'auteur==, déposée dans `restranscriptions/` : *« **YHWH** ha-maqom cherche à décrire qu'**Adonai** est lui-même le lieu dans lequel le réel prend place ? Quel **navi** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une question de l'auteur==, déposée dans *restranscriptions/* : *« **YHWH** ha-maqom cherche à décrire qu'**Adonai** est lui-même le lieu dans lequel le réel prend place ? Quel **navi** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
 - *==C'est la charnière du corpus.== La première chuqqah pose que l'**olam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **olam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
 

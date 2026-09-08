@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`LOUD` — une syllabe.
+*LOUD* — une syllabe.
 
 ## Le Shem
 

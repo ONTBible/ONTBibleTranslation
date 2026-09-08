@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`LOT` — une syllabe.
+*LOT* — une syllabe.
 
 ## Le Shem
 

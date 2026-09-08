@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ke-dor-la-o-MER` — cinq syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ke-dor-la-o-MER* — cinq syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

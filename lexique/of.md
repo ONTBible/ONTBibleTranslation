@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`OF` — une syllabe.
+*OF* — une syllabe.
 
 Le mot vient du verbe qui veut dire ==voler==. Un ==of== (*of* / עוֹף) est littéralement *ce qui vole* — et le corpus en fait la catégorie des habitants du domaine aérien.
 

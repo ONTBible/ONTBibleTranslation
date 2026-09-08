@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`ge-vou-RAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ge-vou-RAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Deux hommes entrent dans un village. Le premier est un **gibbor** : on s'écarte, on baisse la voix, on compte ce qu'il faudra donner pour qu'il passe son chemin. Le second a bâti le puits où tout le monde vient boire depuis trente ans. Le premier ==pèse==. Le second a ==fait aboutir==. Les deux mots viennent de la même racine, *gabar* — l'emporter, prévaloir —, et tout le corpus tient dans l'écart entre eux.
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`NOD` — une syllabe.
+*NOD* — une syllabe.
 
 ## Le Shem
 

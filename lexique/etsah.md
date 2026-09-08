@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`e-TSAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*e-TSAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un roi en fuite descend la vallée, ses hommes derrière lui, et l'on vient lui dire que son conseiller le plus écouté est passé à son fils révolté. Le roi ne répond pas qu'il perd un allié. Il dit : ==fais tourner en folie l'etsah d'Achitofel==. Et le texte, qui n'a pas l'habitude des compliments, ajoute que l'==etsah== (*etsah* / עֵצָה) de cet homme, en ce temps-là, valait ==comme si l'on consultait le davar d'Elohim==.
 

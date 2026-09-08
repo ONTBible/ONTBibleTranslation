@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`El Shad-DAI` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*El Shad-DAI* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un homme de quatre-vingt-dix-neuf ans, sans enfant de sa **Ishah**, à qui l'on a promis une descendance innombrable vingt-quatre ans plus tôt. C'est à ce moment précis — pas avant — qu'un nom nouveau est prononcé : ==Je suis El Shaddai==.
 

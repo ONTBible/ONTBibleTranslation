@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ne-phi-LIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ne-phi-LIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Il y a, dans un village, des places pour tout le monde. Le forgeron a la sienne, le berger la sienne, l'ancien assis à la porte la sienne. Un homme qui arrive sans métier ni parenté n'est pas mal vu : il est ==sans place==, et c'est bien pire. On ne sait ni quoi lui demander, ni quoi attendre de lui, ni où l'asseoir.
 

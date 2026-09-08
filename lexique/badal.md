@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`ba-DAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ba-DAL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le verbe revient cinq fois dans la première page, et il fait à lui seul presque tout le travail. **Elohim** ==badal== (*badal* / בָּדַל) la lumière d'avec l'obscurité, les eaux d'en haut d'avec les eaux d'en bas, le jour d'avec la nuit. Séparer — non pas éloigner, mais ==poser une limite entre deux choses==, de sorte que chacune tienne d'un côté.
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`SHEM` — une syllabe.
+*SHEM* — une syllabe.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Le grand poème babylonien de la création s'ouvre ainsi : *lorsque, en haut, le ciel n'était pas encore nommé, et qu'en bas la terre ferme ne portait pas de nom*. Un lecteur d'aujourd'hui y voit une formule poétique pour dire « au commencement ». Le scribe qui l'écrivait disait autre chose, et très exactement : ==rien n'existait, parce que rien n'était nommé==.
 

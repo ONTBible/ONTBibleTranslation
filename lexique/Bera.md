@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Be-RA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Be-RA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

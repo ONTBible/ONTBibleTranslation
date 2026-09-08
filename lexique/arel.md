@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`a-REL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*a-REL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Celui dont l'**orlah** n'a pas été retirée. Le mot ne décrit pas un défaut ni une souillure : il décrit un état — ==encore couvert, pas encore ouvert==.
 

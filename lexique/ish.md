@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ISH` — une syllabe.
+*ISH* — une syllabe.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Il y a d'abord un être façonné du sol, et le texte ne l'appelle jamais ==Ish== (*Ish* / אִישׁ). Il l'appelle *adam*, du mot *adamah* — la terre travaillée. Il est ce qui a été tiré du sol, et rien d'autre. Il n'y a pas d'==Ish== dans le Jardin tant qu'il est seul.
 

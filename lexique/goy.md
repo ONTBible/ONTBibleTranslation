@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`GOY` — une syllabe.
+*GOY* — une syllabe.
 
 Le singulier de **goyim**, et il faut le prendre au sérieux comme singulier : un ==goy== (*goy* / גּוֹי) est ==un peuple précis== — celui-ci, avec sa langue, son sol, ses rois — et non « un païen ».
 

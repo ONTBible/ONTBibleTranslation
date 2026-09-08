@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Ba-ri-SAT` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ba-ri-SAT* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Fils du feu
 

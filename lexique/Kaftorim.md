@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Kaf-to-RIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Kaf-to-RIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

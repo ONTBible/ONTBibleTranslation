@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`a-ROUR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*a-ROUR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Le serpent est ==arur== (*arur* / אָרוּר), et pourtant il continue de se mouvoir. L'*adamah* est ==arur==, et elle continue de produire. ==Qayin== est ==arur==, et il fonde une ville. Tiens ces trois faits ensemble, et l'idée de malédiction s'effondre — parce qu'aucun d'eux n'a rien perdu.
 

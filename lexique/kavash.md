@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`ka-VASH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ka-VASH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Le verbe vient juste après **radah**, dans la même phrase : *remplissez la Terre et ==kavash== (*kavash* / כָּבַשׁ)-la*. On le traduit « soumettez-la », et le mot a fait beaucoup de dégâts — il a servi d'autorisation, pendant des siècles, à prendre sans compter.
 

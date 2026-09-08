@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`I-SHAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*I-SHAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un homme dort. Quand il se réveille, quelqu'un se tient devant lui, et ce qu'il dit n'est pas « voici une femme » — c'est ==os de mes os, chair de ma chair==. Puis il la nomme : celle-ci sera appelée ==Ishah== (*Ishah* / אִשָּׁה), parce qu'elle a été prise de l'==Ish==.
 

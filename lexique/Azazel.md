@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`A-za-ZEL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*A-za-ZEL* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`Ha-tsa-TSON Ta-MAR` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*Ha-tsa-TSON Ta-MAR* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 ## Le Shem
 

@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`El Roï` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*El Roï* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Une servante égyptienne, enceinte, en fuite. Sa maîtresse l'a maltraitée, elle a pris la route du désert, et elle n'a nulle part où aller — retourner en ==Mitsrayim== est impossible, rester ici l'est aussi. Elle s'arrête près d'une source, sur le chemin de Shur. Elle n'a ni statut, ni protection, ni recours : dans le droit de ce monde-là, elle est un bien.
 

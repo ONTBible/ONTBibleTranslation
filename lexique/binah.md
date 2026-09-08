@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`bi-NAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*bi-NAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Deux femmes se présentent devant le roi. Elles habitent la même maison, elles ont accouché à trois jours d'intervalle, un des enfants est mort dans la nuit. Chacune dit que le vivant est le sien. Il n'y a pas de témoin, pas de preuve, rien que deux paroles qui se contredisent mot pour mot.
 

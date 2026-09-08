@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`tse-LEM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*tse-LEM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 Un roi de ce temps-là ne peut pas être partout. Son empire s'étend sur des semaines de marche, et la plupart de ses sujets ne verront jamais son visage. Alors il fait dresser ==une statue== dans les provinces lointaines — à l'entrée d'une ville, dans un temple, au bord d'une route. Cette statue n'est pas un ornement, et personne ne la confond avec un portrait de famille : elle ==signifie que le roi gouverne ici==. On lui rend les honneurs qu'on lui rendrait à lui. La renverser est un acte de guerre.
 

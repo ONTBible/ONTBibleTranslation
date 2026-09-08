@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`te-shou-VAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*te-shou-VAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Un homme marche sur une route. Il s'arrête, il fait demi-tour, il repart dans l'autre sens. Voilà l'image entière, et le mot ne dit rien de plus : la racine *shuv* veut dire ==revenir==, et la ==teshuvah== (*teshuvah* / תְּשׁוּבָה) est le retour.
 

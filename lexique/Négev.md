@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Né-GEV` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Né-GEV* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

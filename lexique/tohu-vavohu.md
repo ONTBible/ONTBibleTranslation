@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`to-HOU va-vo-HOU` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+*to-HOU va-vo-HOU* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
 
 Un chantier abandonné avant d'être commencé. Les matériaux sont là, en tas, sous la pluie. Rien ne manque, et pourtant il n'y a pas de maison — pas parce qu'il manquerait de la matière, mais parce que ==rien n'a encore de place==.
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`GOUR` — une syllabe.
+*GOUR* — une syllabe.
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 ## Le fleuve où l'on jette ce qui ne remonte pas
 

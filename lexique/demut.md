@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`de-MOUT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*de-MOUT* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Le mot vient à côté de **tselem**, dans la même phrase, et l'on croit d'ordinaire à une redondance solennelle : *à notre image, selon notre ressemblance*. Ce n'est pas une redondance — c'est ==une précision==, et elle est nécessaire.
 

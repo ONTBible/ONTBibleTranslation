@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`be-he-MAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*be-he-MAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Le troupeau qui rentre le soir, les bêtes de somme sous le bât, l'âne au piquet devant la maison. La ==behemah== (*behemah* / בְּהֵמָה), ce sont ==les animaux de l'espace proche== — ceux qu'on mène, qu'on nourrit, qu'on compte, et dont la vie est mêlée à celle des hommes.
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`mab-BOUL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*mab-BOUL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 
 Le mot n'apparaît nulle part ailleurs dans toute la Bible hébraïque. Il est réservé à un seul événement, celui des jours de ==Noach==, et cette exclusivité est déjà une information : ce qui arrive là n'est comparable à rien d'autre.
 

@@ -2,11 +2,11 @@
 
 ## Prononciation
 
-`qo-DESH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*qo-DESH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 Un potier a deux jarres identiques sur une étagère. Il en prend une, la met de côté, et dit : celle-ci ne servira plus à l'eau. Rien n'a changé dans l'argile — ni la couleur, ni la forme, ni la qualité. Ce qui a changé, c'est ==ce à quoi elle est disponible==.
 

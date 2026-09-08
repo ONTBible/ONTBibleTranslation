@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`tan-ni-NIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*tan-ni-NIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 Cinquième jour. Les eaux grouillent, les oiseaux volent — et le texte s'arrête soudain pour signaler que **Elohim** **bara** les grands ==tanninim== (*tanninim* / תַּנִּינִם). C'est le seul groupe d'animaux qui reçoive cette mention, et le seul pour lequel le verbe **bara** revient dans ce chapitre.
 

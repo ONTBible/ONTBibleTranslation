@@ -223,7 +223,7 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans `restranscriptions/`. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **malʾakh** avec un **olam** d'argile, un **olam** d'homme, et le **malʾakh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *roʿeh* / **chozeh** sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans *restranscriptions/*. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **malʾakh** avec un **olam** d'argile, un **olam** d'homme, et le **malʾakh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *roʿeh* / **chozeh** sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
 - *==Elle referme la quatrième.== Celle-là décrivait le **malʾakh** par ce qu'il n'a pas ; celle-ci décrit le **navi** par ce qu'il a en plus, et les deux ne se comprennent qu'ensemble. La quatrième portait déjà le critère du surplus, qui est ici tout l'énoncé.*
 

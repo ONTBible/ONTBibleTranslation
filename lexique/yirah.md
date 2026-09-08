@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`yi-RAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*yi-RAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Une montagne fume au bord d'un désert. Le peuple se tient en bas, à distance marquée, et ce qui monte de là-haut n'est pas une menace : c'est une présence trop grande pour l'endroit où ils sont. Personne ne fuit. Personne ne se jette en avant non plus. Ils ==se tiennent à leur place== — et c'est exactement ce que le mot dit.
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`na-TAN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*na-TAN* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
 
 Un verbe si courant qu'on ne le regarde plus : donner. Mais l'hébreu s'en sert là où le français emploierait *placer*, *poser*, *installer* — et cette extension dit ce que le mot fait.
 

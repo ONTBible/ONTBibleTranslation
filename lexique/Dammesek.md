@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`Dam-me-SEK` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Dam-me-SEK* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 

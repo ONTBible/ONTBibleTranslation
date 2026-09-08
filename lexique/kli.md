@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-`KLI` — une syllabe.
+*KLI* — une syllabe.
 
 Entre dans l'atelier où l'on prépare le Mishkan.
 

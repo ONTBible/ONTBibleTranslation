@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`mish-PAT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*mish-PAT* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
 La porte d'une ville, le matin. C'est là que les anciens s'assoient, sur les bancs de pierre, dans le passage où tout le monde entre et sort. Deux hommes se présentent avec une affaire de champ, de bête perdue, de dette. On écoute, on regarde, on tranche — devant tout le monde, sur place, dans le cas précis qui est posé. Ce qui sort de là s'appelle un ==mishpat== (*mishpat* / מִשְׁפָּט).
 

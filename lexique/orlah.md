@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`or-LAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*or-LAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Un fruit qu'on ne cueille pas encore. Un arbre planté depuis trois ans dont on laisse le fruit sur la branche : le corpus l'appelle ==orlah== (*orlah* / עָרְלָה), et le mot ne parle pas de saleté. Il parle de ce qui est ==encore couvert, pas encore ouvert== — la racine dit exactement cela.
 

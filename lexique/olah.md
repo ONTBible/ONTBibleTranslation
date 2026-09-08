@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-`o-LAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*o-LAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
 
 Une bête est placée sur le **mizbeach**, et le feu la prend tout entière. Rien n'est mis de côté, rien n'est mangé, rien ne revient à personne — et de tout cela il ne reste qu'une chose qui bouge : ==la fumée qui monte==.
 
