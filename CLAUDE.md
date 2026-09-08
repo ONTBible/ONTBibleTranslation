@@ -657,7 +657,7 @@ qui tranche, non l'ambiguïté prise seule.)*
 
 **Huit mots divergeaient**, et c'est ce qui a rendu la règle nécessaire :
 `Yafet`/`Yaphet`, `Ofir`/`Ophir`, `alef`/`aleph`, `Yosef`/`Yoseph`,
-`shafat`/`shaphat`, `rachaf`/`rachaph`, `haaf`/`haaph`. ==Le même mot écrit des
+`shafat`/`shaphat`, `rachaf`/`rachaph`, `haʾaf`/`haaph`. ==Le même mot écrit des
 deux façons==, ce qui n'est plus une convention lexicalisée mais la forme exacte
 que le §2.9 existe pour fermer.
 
@@ -686,6 +686,42 @@ glotte et coupent la syllabe : **malʾakh**, **Sheʾol**, **chataʾah**,
 **À l'initiale, rien.** *Elohim* (אֱלֹהִים), *eretz* (אֶרֶץ), **olam** (עוֹלָם),
 *asah* (עָשָׂה), **etsah** (עֵצָה), **orlah** (עָרְלָה) ne portent pas de marque
 initiale.
+
+**Un clitique rend médiale l'alef ou le ayin qu'il précède — et elle prend
+alors son demi-anneau.** Décision de l'auteur du 8 septembre 2026.
+
+`בְּעֶצֶב` donne **beʿetsev**, `וַאֲנִי` donne **vaʾani**, `לָעֵינַיִם` donne
+**laʿeinayim**. La lettre n'a pas changé ; ==sa position, si==. Ce qui était
+initial — donc non marqué, faute d'avoir quoi que ce soit à couper — se
+retrouve entre deux voyelles, et l'apostrophe y reprend son office.
+
+==C'est le critère retenu pour `irin`, appliqué à l'envers.== Le demi-anneau de
+l'ONT ne note pas une lettre : il ==coupe une syllabe==. À l'initiale il n'y a
+rien à couper ; préfixée, il y a tout à couper — sans lui, `beetsev` fond ses
+deux voyelles et `haaf` devient illisible.
+
+**Trois cas n'en relèvent pas, et chacun pour une raison qui se vérifie.**
+
+- ==Quand la translittération ne porte pas l'article.== Les ethnonymes se
+  nomment par leur forme nue — `Emori` pour הָאֱמֹרִי, `Arqi` pour הָעַרְקִי —,
+  le français fournissant l'article. Il n'y a pas de clitique à séparer.
+- ==Quand un trait d'union sépare déjà.== `ha-adam`, `ha-elohim`, `ba-adam`,
+  `ha-ivri` : le trait fait exactement le travail que le demi-anneau ferait, et
+  `**ha-adam**` est d'ailleurs déclaré tel quel au §2.5. ==On ne cumule pas
+  deux marques pour une seule coupe.==
+- ==Quand l'alef est quiescente.== `לֵאמֹר` se dit *lemor* et `כֵּאלֹהִים`
+  *kelohim* : l'alef y est muette, ==elle ne coupe rien==, et la marquer
+  promettrait une glotte qui ne se prononce pas.
+
+**Un piège de méthode, payé pour l'apprendre.** Une passe faite ==au motif== —
+« clitique + alef » — a produit `mʾeod` pour מְאֹד, où le mem n'est pas un
+clitique mais ==la première consonne du mot==, ainsi que `lʾemor` et `vʾira`.
+Elle a écrit avant qu'on la lise.
+
+==Une liste blanche vérifiée sur l'hébreu, jamais un motif.== C'est la même
+leçon que le pe, où un filtre par exclusion allait convertir *Pharaon* et
+*Euphrate* : on énumère ce qu'on veut toucher, on ne soustrait pas ce qu'on veut
+épargner.
 
 **En finale, l'alef non, le ayin oui.** C'est la correction du 8 septembre 2026,
 et la règle qu'elle remplace disait « à la fin, rien » ==pour les deux==.

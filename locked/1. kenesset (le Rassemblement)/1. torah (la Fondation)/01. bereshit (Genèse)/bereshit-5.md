@@ -55,7 +55,7 @@
 
 ²³ Tous les jours de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] furent trois cent soixante-cinq ans.
 
-²⁴ Et [[Chanokh-qui-marche-avec-Elohim|Chanokh]] cheminait avec **Elohim** — et il n'était plus (*veyenenu* / וְאֵינֶנּוּ) *[veyenenu — littéralement "et il n'est pas là". Le texte refuse délibérément le refrain vayamot : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] ne meurt pas. Il est simplement absent. Le silence sur la modalité de sa disparition est lui-même l'information — le texte n'interprète pas, il constate]*, car **Elohim** l'avait pris (*ki-laqach oto Elohim* / כִּי-לָקַח אֹתוֹ אֱלֹהִים) *[laqach — prendre, emporter. **Elohim** est le sujet actif : c'est lui qui prend [[Chanokh-qui-marche-avec-Elohim|Chanokh]]. [[Chanokh-qui-marche-avec-Elohim|Chanokh]] avait cheminé avec **Elohim** — **Elohim** a cheminé avec lui jusqu'à la fin du chemin, et l'a emporté]*.
+²⁴ Et [[Chanokh-qui-marche-avec-Elohim|Chanokh]] cheminait avec **Elohim** — et il n'était plus (*veʾeinenu* / וְאֵינֶנּוּ) *[veʾeinenu — littéralement "et il n'est pas là". Le texte refuse délibérément le refrain vayamot : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] ne meurt pas. Il est simplement absent. Le silence sur la modalité de sa disparition est lui-même l'information — le texte n'interprète pas, il constate]*, car **Elohim** l'avait pris (*ki-laqach oto Elohim* / כִּי-לָקַח אֹתוֹ אֱלֹהִים) *[laqach — prendre, emporter. **Elohim** est le sujet actif : c'est lui qui prend [[Chanokh-qui-marche-avec-Elohim|Chanokh]]. [[Chanokh-qui-marche-avec-Elohim|Chanokh]] avait cheminé avec **Elohim** — **Elohim** a cheminé avec lui jusqu'à la fin du chemin, et l'a emporté]*.
 
 ## Metoushelach, Lamekh et la naissance de Noach
 

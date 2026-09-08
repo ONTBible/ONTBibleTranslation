@@ -28,7 +28,7 @@ Il *cheminait* — (*vayithalekh* / וַיִּתְהַלֵּךְ), hitpael de (*
 
 Il chemine ainsi trois cents ans. Et à la fin, le texte refuse son propre refrain.
 
-Il n'écrit pas *vayamot*, il mourut. Il écrit ==il n'était plus== — (*veyenenu* / וְאֵינֶנּוּ), littéralement *et il n'est pas là* — car **Elohim** l'avait pris. Le verbe est (*laqach* / לָקַח), prendre, emporter, et **Elohim** en est le sujet actif.
+Il n'écrit pas *vayamot*, il mourut. Il écrit ==il n'était plus== — (*veʾeinenu* / וְאֵינֶנּוּ), littéralement *et il n'est pas là* — car **Elohim** l'avait pris. Le verbe est (*laqach* / לָקַח), prendre, emporter, et **Elohim** en est le sujet actif.
 
 Le texte ne dit pas où, ni comment. La règle de l'ONT est de ne pas combler, et ici le silence n'est pas une lacune : ==c'est le constat même==. Un homme a cheminé avec **Elohim**, **Elohim** a cheminé avec lui jusqu'au bout du chemin, et l'a emporté. Il est le seul de tout le corpus hébreu à qui la formule de mort n'est pas appliquée.
 
