@@ -1,4 +1,4 @@
-# Sinaï
+# Sinai
 
 ## Une montagne, et ce qui s'y est passé qui ne s'était jamais passé
 
@@ -8,7 +8,7 @@ devant une montagne dans le désert, et là il est ==convoqué==.
 Le mot compte, et c'est presque tout ce qu'il faut retenir de ce lieu. Le corpus
 appelle ce moment ==le jour du *qahal*== (*qahal* / קָהָל) — l'assemblée
 convoquée par une autorité, non la réunion qu'on décide d'aller voir. On ne vient
-pas au ==Sinaï==. On y est appelé.
+pas au ==Sinai==. On y est appelé.
 
 ## La montagne porte, le peuple se tient au pied
 
@@ -31,7 +31,7 @@ lui-même==.
 
 Autrement dit : ==le peuple est devenu la montagne==.
 
-C'est ce que le mot du ==Sinaï== permet de mesurer. Sans lui, on ne verrait
+C'est ce que le mot du ==Sinai== permet de mesurer. Sans lui, on ne verrait
 qu'une nouveauté ; avec lui, on voit ce qui a bougé — non pas qui est présent,
 mais ==où==.
 

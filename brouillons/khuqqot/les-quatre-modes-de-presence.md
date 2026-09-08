@@ -1,4 +1,4 @@
-# Les quatre modes de présence d'Adonaï dans l'**olam**
+# Les quatre modes de présence d'**Adonai** dans l'**olam**
 
 *(khuqqah — la première du corpus)*
 
@@ -41,9 +41,8 @@ Il fallait donc autre chose.
 
 ==Le second support n'est pas emprunté, il est assumé.== Le **davar** de
 **YHWH** est tellement vivant qu'il ne pouvait plus s'accomplir que par
-l'incarnation sans fin d'un fils de l'**adam** — un vrai *basar* (*basar* /
-בָּשָׂר), un vrai **Nefesh**, une vraie mort, une vraie résurrection. Un
-**mal'akh** ne pouvait pas le porter, parce qu'il n'a pas de *basar*, donc il ne
+l'incarnation sans fin d'un fils de l'**adam** — un vrai **basar** (*basar* / בָּשָׂר), un vrai **Nefesh**, une vraie mort, une vraie résurrection. Un
+**mal'akh** ne pouvait pas le porter, parce qu'il n'a pas de **basar**, donc il ne
 peut ni mourir ni ressusciter, donc il ne peut rien changer à ce qui meurt.
 ==Seul ce qui a un **Nefesh** peut changer la condition de ce qui a un
 **Nefesh**.== Et celui-là ne rend pas son **olam** après sa mission : il le
@@ -68,7 +67,7 @@ qu'il s'en aille pour que sa **Ruach** vienne sur ceux qui sont son corps.
 | I | **YHWH** — hors de toute réalité, incréé | aucun |
 | II | le **mal'akh** en mission | un **olam** emprunté, rendu après |
 | III | l'incarnation, à son paroxysme | un **Nefesh** qui perdure |
-| IV | la **Ruach ha-Qodesh** | le corps rassemblé — le *qahal* (*qahal* / קָהָל) |
+| IV | la **Ruach ha-Qodesh** | le corps rassemblé — le **qahal** (*qahal* / קָהָל) |
 
 ==On lit à la couche hébraïque antique, et non à celle du quatrième siècle.== La
 différence n'est pas de style, elle décide de tout. Traiter la **Ruach**
@@ -77,7 +76,7 @@ compte, c'est poser sur un texte ancien une formulation forgée mille ans plus
 tard — et le texte, lui, ne connaît qu'==une seule source et deux modes
 d'action==.
 
-Et le *Shema* ne dit pas *yakhid*, il dit *echad* (*echad* / אֶחָד) — le même mot
+Et le *Shema* ne dit pas *yachid* (*yachid* / יָחִיד), il dit **echad** (*echad* / אֶחָד) — le même mot
 que *basar echad* en *Bereshit* 2:24. Une unité qui compose, non une unité qui
 exclut. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux
 ne multiplient pas le fleuve, ils accomplissent son mouvement.
@@ -92,9 +91,9 @@ possible. La **Ruach** prépare, le **davar** orchestre, le vase reçoit.
 
 ==Entre **YHWH** et sa **Ruach**, la différence est de mode et jamais de
 substance.== L'un est l'être propre, l'autre est la puissance en sortie ; le
-soleil, et la chaleur qui en irradie. C'est pourquoi on dit la *ruach* de
-quelqu'un comme on dirait son poids : la *ruach* d'[[Eliyahu]] se transmet, la
-*ruach* d'un roi se répand sur sa maison. Elle n'est jamais un être à côté.
+soleil, et la chaleur qui en irradie. C'est pourquoi on dit la **ruach** de
+quelqu'un comme on dirait son poids : la **ruach** d'[[Eliyahu]] se transmet, la
+**ruach** d'un roi se répand sur sa maison. Elle n'est jamais un être à côté.
 
 ==Le mode a changé une fois dans l'histoire, et une seule.== Avant, la **Ruach**
 tombait sur, elle remplissait, et elle quittait — elle visitait sans demeurer.
@@ -102,9 +101,9 @@ Après, elle demeure. Et ce qui a changé n'est pas qu'elle se soit mise à exis
 dans l'**olam** : c'est qu'elle est passée ==de *sur* à *au-dedans*==, parce que
 le corps rassemblé est devenu le vase permanent qu'elle n'avait pas.
 
-==Le mot du rassemblement est le mot du Sinaï.== *Qahal* dit une assemblée
+==Le mot du rassemblement est le mot du [[Sinai]].== **Qahal** dit une assemblée
 ==convoquée par une autorité==, non une réunion qu'on décide — c'est le mot du
-jour où le peuple fut convoqué devant la montagne du [[Sinaï]]. Et le renversement est là,
+jour où le peuple fut convoqué devant la montagne du [[Sinai]]. Et le renversement est là,
 entier : ce jour-là **YHWH** descendait sur la montagne et le peuple se tenait au
 pied ; maintenant il habite le rassemblement lui-même. ==Le peuple est la
 montagne.==
@@ -138,11 +137,11 @@ précède. Elle se constate.
 
 - *==Cette khuqqah est écrite d'après trois interventions de l'auteur==, dans une conversation du 27 juillet 2026. Elle n'est pas une transcription : la matière était un échange, et elle est rendue ici ==en un seul corps==, dans sa voix, à sa demande. Les constats de nécessité, l'ordre des raisons et l'image de l'engin sont les siens ; la mise en forme et le balisage sont du vault.*
 
-- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'Adonaï »*. Le texte de cette vision vit dans son archive personnelle, et la présente khuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
+- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente khuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
 - *==Termes employés sans être déclarés intraduisibles.== *basar*, *qahal*, *echad*, *rachaph* paraissent en translittération et non en gras : ce sont des candidats, non des entrées. Trois au moins me semblent en être — *basar*, que « chair » rate comme « âme » rate le **Nefesh** ; *qahal*, dont « assemblée » perd la convocation ; et le vase, ce *kli* que tout l'énoncé fait travailler sans que le mot paraisse une seule fois. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Les trois Shemot que cette khuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinaï]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
+- *==Les trois Shemot que cette khuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
 - *==Ce que la khuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
 
