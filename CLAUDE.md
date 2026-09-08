@@ -157,8 +157,9 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un ==blanc== laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc ==mille ans avant== les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**basar**` — intraduisible : la chair en tant qu'==existence incarnée, fragile et partagée== (בָּשָׂר). Non « chair » au sens moral que le français a pris — ce n'est ni le contraire de l'esprit ni le siège du désir : c'est ==ce par quoi on est un vivant parmi les vivants==, ce qui meurt et ce qui peut ressusciter. C'est ce qu'un **mal'akh** n'a pas, et c'est pourquoi il ne peut ni mourir ni transformer ce qui meurt. Premier emploi *Bereshit* 2:23 (*basar mibesari*).
-- `**qahal**` / `**Qahal**` — intraduisible : l'assemblée ==convoquée par une autorité== (קָהָל). De *qahal* — rassembler, convoquer. Non « assemblée » ni « communauté », qui laissent croire à une réunion qu'on décide : au **qahal** on ==est appelé==. C'est le mot du jour du [[Sinaï]] (*Devarim* 9:10, *yom ha-qahal*), et c'est celui que le grec rendra par *ekklesia*.
+- `**qahal**` / `**Qahal**` — intraduisible : l'assemblée ==convoquée par une autorité== (קָהָל). De *qahal* — rassembler, convoquer. Non « assemblée » ni « communauté », qui laissent croire à une réunion qu'on décide : au **qahal** on ==est appelé==. C'est le mot du jour du [[Sinai]] (*Devarim* 9:10, *yom ha-qahal*), et c'est celui que le grec rendra par *ekklesia*.
 - `**echad**` — intraduisible : l'unité qui ==compose== (אֶחָד). Non « un » au sens du compte, et surtout pas l'unité qui exclut, qui se dirait *yachid* (יָחִיד). C'est le mot de *basar echad* en *Bereshit* 2:24 — deux qui deviennent un sans cesser d'être deux — et c'est celui du *Shema*. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux ne multiplient pas le fleuve. Premier emploi *Bereshit* 1:5 (*yom echad*).
+- `**kli**` / `**Kli**` / `**kelim**` — intraduisible : ==ce qui est apte à recevoir== (כְּלִי). De la racine כלה — contenir, mener à complétion. Non « vase » ni « récipient », qui disent un contenant passif qu'on remplit : un **kli** est ==constitué pour==, et son aptitude décide de ce qu'il peut recevoir. C'est le mot des ustensiles du Mishkan — *klei ha-qodesh*, mis à part non par leur matière mais par leur destination. Il commande toute la question de l'**olam** : ce qui change le régime de perceptibilité n'est pas la chose regardée, c'est ==le **kli** qui regarde==. La **Ruach** ne se pose jamais sans lui — un **navi**, une tente, un sol, un **qahal**. Pluriel `**kelim**`. Locus définitif *Shemot* 25-31, les **kelim** du Mishkan.
 
 - `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
 - `**milah**`. Premier emploi *Bereshit* 17.
@@ -731,6 +732,47 @@ quoi elle repose et ce qui reste à venir==. Elle ne prétend pas être complèt
 elle déclare son assise. Un lecteur qui la touche dans deux ans doit pouvoir
 voir qu'elle a été reprise, et pourquoi.
 
+#### Un **Shem** de fonction n'est pas un **Shem** d'identité — 8 septembre 2026
+
+**Décision de l'auteur.** La couche distingue désormais deux choses qu'elle
+nommait pareil : un **Shem** qui nomme ==un porteur==, et un **Shem** qui nomme
+==un office==.
+
+**Ce qui les sépare, et ce n'est pas une nuance.** Un **navi** et un **mal'akh**
+font le même geste — recevoir un **davar** des *shamayim*, le porter sur
+l'*eretz*. Ce qui diffère est ==le surplus== : le **navi** ==excède== sa mission,
+il a une vie entre deux **devarim**, un **basar** qui vieillit, une souffrance
+qui authentifie ce qu'il porte. Le **mal'akh**, lui, ==est== sa mission, et rien
+de plus : hors d'elle, il n'y a personne qui subsiste.
+
+Donc un nom de **mal'akh** ne désigne pas quelqu'un. Il ==cristallise une
+fonction== que **YHWH** a instituée — et c'est pourquoi ces noms finissent tous
+par **El** et pointent vers lui, jamais vers celui qui les porte.
+
+**Le corpus le dit lui-même.** *Shoftim* 13:18 : Manoach demande son nom au
+**mal'akh**, qui refuse — il est *pele* (*pele* / פֶּלִאי), insondable. Ce n'est pas
+une dérobade. ==Il n'a pas de nom d'identité à donner==, parce qu'il n'y a pas
+d'identité derrière la fonction. À comparer avec Ya'aqov qui devient Israel : là,
+un **Shem** change ==parce qu'un porteur a changé==.
+
+**Ce que la distinction change, et ce qu'elle ne change pas.**
+
+- ==La marque ne bouge pas.== Un **mal'akh** nommé garde `[[Nom]]` et la terre
+  brûlée. L'espace chaud est saturé (voir les ΔE ci-dessus) : une quatrième
+  couleur n'y tiendrait pas, et le lecteur a besoin de savoir qu'il peut toucher.
+- ==La fiche, elle, doit le déclarer.== Une fiche de **Shem** de fonction dit
+  qu'elle nomme ==une charge et non une personne==, et se garde de la
+  biographie — il n'y en a pas à écrire. Elle porte ce que la fonction fait, sa
+  permanence, et vers quoi le nom pointe.
+- ==Le critère est le surplus.== S'il y a quelqu'un entre deux missions, c'est un
+  porteur. Sinon, c'est un office.
+
+**Ce que la règle n'a pas tranché.** Les êtres célestes qui se sont nommés
+==eux-mêmes== — ceux qui sont tombés — ne sont ni l'un ni l'autre : un nom
+retourné vers soi, chez un être constitué pour la transparence. Le
+*Sefar Gibbaraya* les fait déjà paraître, et leurs fiches existent. ==À reprendre
+quand 1 *Chanokh* sera écrit.==
+
 #### Ce que la couche ne prend pas
 
 - **Les homographes restent à l'auteur.** `Shem` le fils de Noach est un
@@ -823,7 +865,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | גְּבוּרָה | *gevurah* | **gevurah** | Intraduisible. La capacité d'accomplir. De *gabar* (גָּבַר) — l'emporter, prévaloir ; même racine que **gibbor**, et la distinction est le cœur de l'entrée : le **gibbor** est *celui qui pèse*, la **gevurah** est *le pouvoir de faire aboutir*. Non « force » (physique) ni « puissance » (domination) : la **gevurah** ne se mesure pas à ce qu'elle écrase mais à ce qu'elle mène à terme. Pluriel **gevurot** — les actes où elle se manifeste, d'où *Gevurot ha-Neviim*, nom ONT du n° 44 (§2.6). Quatrième des six **ruachim** de *Yeshayahu* 11:2. Laissée en hébreu. |
 | דַּעַת | *da'at* | **da'at** | Intraduisible. Le connaître par participation. De *yada* (יָדַע) — connaître en étant engagé dans ce que l'on connaît. Non « connaissance » : le savoir français est un regard *extérieur* posé sur un objet, la **da'at** suppose d'être ==à l'intérieur==. D'où son emploi pour l'union conjugale en *Bereshit* 4:1, qui n'est pas un euphémisme mais le sens plein. C'est la **da'at** de l'arbre — *etz hada'at tov vara*, *Bereshit* 2:9 — et ce que l'arbre propose n'est pas un contenu de plus, c'est une *modalité* : juger l'ordre depuis le dehors au lieu d'y participer. Cinquième des six **ruachim** de *Yeshayahu* 11:2. Laissée en hébreu. |
 | יִרְאָה | *yirah* | **yirah** | Intraduisible. La reconnaissance de sa place devant ce qui dépasse. De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect mais une ==posture==, celle qui se tient au rang qui est le sien devant **YHWH** ; même logique fonctionnelle qu'**emunah** et **teshuvah**, qui ne sont pas non plus des sentiments. Forme construite **yirat YHWH**. Sixième des six **ruachim** de *Yeshayahu* 11:2 — et *Yeshayahu* 11:3 les scelle par un jeu de racines que toute traduction perd : *vaharicho* (וַהֲרִיחוֹ), « il respirera », vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Laissée en hébreu. |
-| טָהוֹר / לֹא טָהוֹר | *tahor* / *lo tahor* | Tahor / lo tahor | Intraduisible. Non pas "pur/impur" au sens moral ou hygiénique — pureté fonctionnelle rituelle : ce qui peut entrer en contact avec le domaine sacré sans le perturber, et ce qui ne le peut pas. Première occurrence en *Bereshit* 7:2 — catégorie déjà opératoire avant Sinaï. Laissé en hébreu dans le corps du texte, expliqué dans les gloses. |
+| טָהוֹר / לֹא טָהוֹר | *tahor* / *lo tahor* | Tahor / lo tahor | Intraduisible. Non pas "pur/impur" au sens moral ou hygiénique — pureté fonctionnelle rituelle : ce qui peut entrer en contact avec le domaine sacré sans le perturber, et ce qui ne le peut pas. Première occurrence en *Bereshit* 7:2 — catégorie déjà opératoire avant le Sinai. Laissé en hébreu dans le corps du texte, expliqué dans les gloses. |
 | עֹלָה | *olah* | Olah | Intraduisible. De *alah* (עָלָה) — monter, s'élever. L'offrande qui monte vers Elohim dans la fumée. Jamais "holocauste" (terme grec chargé d'histoire moderne) ni "burnt offering" (catégorie rituelle chrétienne). Premier emploi en *Bereshit* 8:20 — acte inaugural après la re-création. Laissé en hébreu dans le corps du texte, expliqué dans les gloses. |
 | מִזְבֵּחַ | *mizbeach* | autel | De *zavach* — égorger, sacrifier. Littéralement "le lieu d'égorgement". Traduit "autel" avec niveau 3 obligatoire à chaque première occurrence dans une Fondation : ==autel== (*mizbeach* / מִזְבֵּחַ). |
 | כֹּהֵן | *kohen* | Kohen | Intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique qui réduit le terme à la fonction sacrificielle). Le **kohen** hébreu est l'intermédiaire fonctionnel qui maintient l'interface entre le domaine humain et le domaine divin — il tient les deux côtés ouverts l'un à l'autre. Pluriel : **kohanim**. Forme construite : *kohen* de/de l'alliance. Premier emploi en *Bereshit* 14:18 — Malki-tsedeq, **kohen** de **El Elyon**. Central dans tout Vayiqra. Laissé en hébreu. |

@@ -70,17 +70,26 @@ façon de paraître ; ici, rien ne paraît.
 Voici le second fait, et il tient tout le reste.
 
 La **Ruach** de **YHWH** ==ne flotte pas à l'état libre==. Elle cherche toujours
-quelque chose sur quoi reposer : un vase, un **navi**, une tente, un sol, une
-montagne. L'hébreu a un mot pour ce support — *kli*, le récipient — et le
-corpus ne montre jamais la **Ruach** opérant sans lui.
+quelque chose sur quoi reposer : un **navi**, une tente, un sol, une montagne.
+L'hébreu a un mot pour ce support — le **kli** —, et le corpus ne montre jamais
+la **Ruach** opérant sans lui.
+
+Ne l'entends pas comme « récipient ». Un récipient français est passif : un creux
+qu'on remplit. Le **kli** est ==constitué pour==, et son aptitude décide de ce
+qu'il peut recevoir — c'est le mot des ustensiles du Mishkan, mis à part non par
+leur or mais par leur destination.
 
 Ce n'est pas une faiblesse. C'est ==la condition de la perceptibilité==. Pour
 qu'une chose entre dans l'**olam** de quelqu'un, il faut qu'elle ait quelque
-chose de perceptible ; et le support, c'est précisément ce qui est perceptible.
+chose de perceptible ; et le **kli**, c'est précisément ce qui est perceptible.
+
+Et c'est ce qui referme la boucle avec l'invariant posé plus haut : si l'**olam**
+est fonction du regard, alors ==ce qui change le régime n'est pas la chose
+regardée, c'est le **kli** qui regarde==.
 
 ==C'est cette contrainte-là qui engendre les quatre modes==, l'un après l'autre.
 Chacun résout ce que le précédent laissait ouvert, et chacun le fait en changeant
-le support.
+de **kli**.
 
 ### Premier support : emprunté
 
@@ -181,9 +190,9 @@ oiseau qui couve== — le verbe est *rachaph* (*rachaph* / רָחַף), et c'est
 même que *Devarim* 32:11 emploie pour l'aigle au-dessus de ses petits.
 
 Un geste de couvaison, non de souffle. Sur une matière qui n'est ==pas encore un
-vase==, parce qu'aucun vase n'est encore possible.
+**kli**==, parce qu'aucun **kli** n'est encore possible.
 
-La **Ruach** prépare, le **davar** orchestre, le vase reçoit.
+La **Ruach** prépare, le **davar** orchestre, le **kli** reçoit.
 
 ## Les conséquences
 
@@ -261,7 +270,9 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente khuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
-- *==Deux termes travaillent ici sans être déclarés.== *rachaph*, le verbe de la couvaison, et surtout *kli*, le vase — que tout l'énoncé fait porter sans qu'il paraisse en gras une seule fois. *basar*, *qahal* et *echad* étaient dans ce cas et ont reçu leur entrée au §2.5 depuis. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
+- *==Le **kli** a été déclaré le 8 septembre 2026==, et la khuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche `lexique/kli.md`, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
+
+- *==Un terme travaille encore sans être déclaré== : *rachaph*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
 - *==Les trois Shemot que cette khuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 

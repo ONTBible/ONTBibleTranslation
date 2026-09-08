@@ -127,7 +127,7 @@ ce qui précède. Regarde plutôt ce que ces noms disent :
 |---|---|---|
 | [[Mikha'el]] | *mi* — *kha* — **El** | ==qui est comme **El** ?== |
 | [[Rafa'el]] | *rafa* — **El** | ==**El** guérit== |
-| Gavriel | *gever* — **El** | ==la **gevurah** de **El**== |
+| [[Gavriel]] | *gever* — **El** | ==la **gevurah** de **El**== |
 
 Trois observations, et la troisième est la plus lourde.
 
@@ -150,14 +150,24 @@ c'est **YHWH** qui nomme la fonction qu'il institue.
 C'est ici que la khuqqah touche quelque chose de plus large qu'elle.
 
 Un **Shem** ==d'identité== désigne quelqu'un qui ==est== quelque chose,
-indépendamment de ce qu'il fait à un moment donné. Il suppose une chair, une
+indépendamment de ce qu'il fait à un moment donné. Il suppose un **basar**, une
 histoire qui s'accumule, un visage. C'est le **Shem** d'un homme.
 
-Un **Shem** ==de fonction== n'établit aucun **olam** propre : il ==étiquette une
+Un **Shem** ==de fonction== n'établit aucun **olam** propre : il ==nomme une
 charge== que **YHWH** a instituée de façon permanente. C'est le **Shem** d'un
 **mal'akh** nommé.
 
 Le premier crée un porteur. ==Le second nomme un office.==
+
+==Le critère qui les sépare est le surplus.== Demande-toi ce qu'il reste entre
+deux missions. S'il reste quelqu'un — qui vit, qui vieillit, qui souffre —, le
+nom désigne ==un porteur==. S'il ne reste personne, le nom désigne ==un office==.
+
+Et c'est exactement ce qui sépare un **mal'akh** d'un **navi**, qui font pourtant
+le même geste : recevoir un **davar**, le porter aux hommes. Le **navi**
+==excède== sa mission ; son **basar** continue entre les **devarim**, et c'est ce
+surplus qui authentifie ce qu'il porte. Le **mal'akh** ==est== sa mission, sans
+reste.
 
 ### Et se nommer soi-même est le premier pas de la chute
 
@@ -216,9 +226,9 @@ d'elle ne se déduit pas de ce qui précède.
 
 - *==C'est une facette de l'olam, et non un sujet à part.== Décision de l'auteur : chaque khuqqah éclaire une part de ce que l'**olam** est. Celle-ci porte la deuxième strate des quatre modes de présence, et elle repose entièrement sur un point de la fiche `lexique/olam.md` : un **mal'akh** n'a pas d'**olam** propre parce qu'il n'a rien qui soit perceptible de lui-même.*
 
-- *==Gavriel n'est pas balisé, et c'est délibéré.== Le §2.5 réserve à l'auteur toute décision sur un être céleste nommé, et il n'a pas de fiche. [[Mikha'el]] et [[Rafa'el]] en ont une et sont donc marqués. ==À trancher par l'auteur== : Gavriel reçoit-il sa fiche, et sous quelle forme — le corpus écrit aussi Gabriel.*
+- *==[[Gavriel]] a reçu sa fiche le 8 septembre 2026==, sur décision de l'auteur, et il est donc balisé comme [[Mikha'el]] et [[Rafa'el]]. La graphie ne relevait pas de l'arbitrage : le §2.9 rend le *bet* sans dagesh par `v`, donc Gavriel et non « Gabriel », qui est passé par le grec. La fiche déclare ce qu'elle n'a pas — ==aucune occurrence dans une **parashah** écrite== —, et qu'elle sera reprise quand *Daniel* le sera.*
 
-- *==Deux espèces de Shem, et le vault n'en connaît qu'une.== La distinction entre un **Shem** d'identité et un **Shem** de fonction ne figure ni au §2.5 ni au §2.10, qui traitent les **mal'akhim** nommés comme de simples noms propres. Elle touche donc ==la couche des Shemot elle-même==. ==À trancher par l'auteur== : la couche doit-elle distinguer les deux, et un **Shem** de fonction mérite-t-il la même marque qu'un porteur ?*
+- *==La distinction est entrée au §2.10 le 8 septembre 2026.== Décision de l'auteur : la couche sépare désormais un **Shem** d'identité d'un **Shem** de fonction, ==sans changer la marque==. Un **mal'akh** nommé garde `[[Nom]]` et la terre brûlée — l'espace chaud est saturé et une quatrième couleur n'y tiendrait pas. C'est ==la fiche== qui déclare qu'elle nomme une charge et non une personne, et qui se garde de la biographie : il n'y en a pas à écrire. La fiche de [[Gavriel]] en est le premier cas.*
 
 - *==Ce que la khuqqah laisse dehors.== La matière contient une échelle complète des êtres célestes — gardiens des nations, chiffre des peuples, ceux qui sont tombés et ce qu'ils ont cherché. Rien de tout cela n'entre ici : *Daniel* et 1 *Chanokh* ne sont pas écrits, et le *Sefar Gibbaraya* traite la chute pour lui-même. La khuqqah s'arrête où le corpus s'arrête.*
 
