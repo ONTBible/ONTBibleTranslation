@@ -22,6 +22,6 @@ Les deux passages disent la même chose sous deux angles : ==la mobilité==. Ce 
 
 ## Voir aussi
 
-Sa maison : [[Gomer]] son père, [[Yaphet]] son grand-père ; ses frères [[Ashkenaz]] et [[Rifat]].
+Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[Ashkenaz]] et [[Rifat]].
 
 Où le corpus le reprend : *Yehezqel* 27 pour le commerce, 38 pour l'assemblée de Gog — avec [[Gomer]] et [[Magog]].

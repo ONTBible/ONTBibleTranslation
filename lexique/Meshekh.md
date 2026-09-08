@@ -26,7 +26,7 @@ C'est un des rares cas où un nom de la table des nations sert, dans la poésie,
 
 ## Voir aussi
 
-Sa maison : [[Yaphet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Tiras]].
+Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Tiras]].
 
 Son inséparable : [[Tuval]].
 

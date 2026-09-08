@@ -28,6 +28,6 @@ Un peuple de la table des nations finit ainsi par nommer ==un mouvement de l'âm
 
 ## Voir aussi
 
-Sa maison : [[Yavan]] son père, [[Yaphet]] son grand-père ; ses frères [[Elisha]], [[Kitim]], [[Dodanim]].
+Sa maison : [[Yavan]] son père, [[Yafet]] son grand-père ; ses frères [[Elisha]], [[Kitim]], [[Dodanim]].
 
 Où le corpus le reprend : Yonah qui s'y embarque, les flottes de Shelomo, et les navires des *Tehilim*.

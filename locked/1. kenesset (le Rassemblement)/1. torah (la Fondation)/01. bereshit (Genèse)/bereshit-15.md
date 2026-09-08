@@ -69,4 +69,4 @@
 - *Tannur ashan / lapid esh — four fumant et torche de feu : théophanie de feu et de fumée, anticipe le Sinaï*
 - *Berith unilatérale confirmée : seul **YHWH** passe entre les morceaux — même logique que Bereshit 8-9*
 - ***Adonai** (אֲדֹנָי) — intraduisible. De *adon* : le maître, le seigneur. Titre de maîtrise souveraine adressé à **YHWH** — distinct d'**Elohim** et de **YHWH**. Combiné : **Adonai** **YHWH** (v.2 et v.8). Premier emploi dans l'ONT*
-- *Bereshit 16 : Genèse 16:1-16 — [[Hagar]] et Ishmaël. Traitable en autonomie : *shiphchah* (servante), *maʾlakh YHWH* (premier emploi — à signaler), *El Roï* (nouveau nom divin — PRUDENCE : décision à traiter avec l'auteur)*
+- *Bereshit 16 : Genèse 16:1-16 — [[Hagar]] et Ishmaël. Traitable en autonomie : *shifchah* (servante), *maʾlakh YHWH* (premier emploi — à signaler), *El Roï* (nouveau nom divin — PRUDENCE : décision à traiter avec l'auteur)*

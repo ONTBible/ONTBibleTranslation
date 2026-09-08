@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Ofir* / אוֹפִיר) — ==Ophir==, le pays de l'or.
+(*Ofir* / אוֹפִיר) — ==Ofir==, le pays de l'or.
 
 ## Ce que le corpus en fait
 

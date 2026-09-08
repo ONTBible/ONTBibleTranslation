@@ -20,7 +20,7 @@ Le nom est prononcé par le **malʾakh**, dans le désert, à une [[Hagar]] en f
 
 Regardez ce que ça pose. Ce n'est pas la mère qui nomme, comme [[Chavah]] le fit pour [[Qayin]]. C'est ==l'envoyé==, et il explique le nom par ==ce que **YHWH** a déjà fait==.
 
-Et ce qu'il a entendu, c'est ==l'affliction d'une **shiphchah** égyptienne sans droits==. Le **Shem** garde donc, pour toujours, ==le cri de celle qui n'avait personne==.
+Et ce qu'il a entendu, c'est ==l'affliction d'une **shifchah** égyptienne sans droits==. Le **Shem** garde donc, pour toujours, ==le cri de celle qui n'avait personne==.
 
 Le **malʾakh** annonce aussi ce qu'il sera : ==un onagre d'homme==, sa main contre tous et la main de tous contre lui, et il demeurera ==en face de tous ses frères==. Le corpus ne le condamne pas — il décrit une liberté rétive, et il la place en face, non à l'écart.
 

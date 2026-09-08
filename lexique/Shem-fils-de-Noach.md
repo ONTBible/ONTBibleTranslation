@@ -18,7 +18,7 @@ Pour le nom d'un homme, on peut au moins dire ceci : le porter, c'est porter ==l
 
 Son acte tient dans la scène de la vigne, et le texte le décrit avec un soin qui vaut jugement.
 
-Après le **mabbul**, [[Noach]] boit et se découvre au milieu de sa tente. [[Cham]] ==voit== et ==dit==. ==Shem== et [[Yaphet]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
+Après le **mabbul**, [[Noach]] boit et se découvre au milieu de sa tente. [[Cham]] ==voit== et ==dit==. ==Shem== et [[Yafet]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
 
 Le détail du dos tourné n'est pas un ornement narratif. Dans une scène dont tout l'enjeu est ==ce qu'on voit et ce qu'on en fait==, il dit un refus délibéré de regarder.
 
@@ -34,7 +34,7 @@ De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe
 
 Le mot dont il porte le nom : **Shem** — l'acte d'existence fonctionnelle, à ne pas confondre avec lui.
 
-Sa maison : [[Noach]] son père, [[Cham]] et [[Yaphet]] ses frères.
+Sa maison : [[Noach]] son père, [[Cham]] et [[Yafet]] ses frères.
 
 Ce que sa ligne touche : ==Ever== et le nom *ivri*, la table des nations de *Bereshit* 10, et la **berith** d'Avraham.
 

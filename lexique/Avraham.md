@@ -12,7 +12,7 @@ Le *h* est un ==he==, et ==il se prononce== : un vrai souffle, comme le *h* de l
 
 Écoutez ce qui se déplace. *Avram* disait ==ce qu'il est== : un père élevé, un homme de rang. *Avraham* dit ==ce dont il est l'origine==. Le nom cesse de le décrire pour désigner ce qui sortira de lui.
 
-Et il est donné à un homme de quatre-vingt-dix-neuf ans ==qui n'a qu'un fils, d'une **shiphchah**==. On l'appellera « père d'une multitude » pendant les années où il n'a personne. Chaque fois que quelqu'un le nomme, ==le nom dit ce qui n'est pas encore là==.
+Et il est donné à un homme de quatre-vingt-dix-neuf ans ==qui n'a qu'un fils, d'une **shifchah**==. On l'appellera « père d'une multitude » pendant les années où il n'a personne. Chaque fois que quelqu'un le nomme, ==le nom dit ce qui n'est pas encore là==.
 
 C'est le régime des **Shemot** dans ce corpus : un nom n'enregistre pas un état, il ==assigne une place== dans un ordre — et l'ordre tient même quand le visible le contredit.
 
@@ -52,7 +52,7 @@ Ce qui reste à venir : son cycle n'est pas entièrement écrit, et les *Igerot*
 
 Ce qu'il était : [[Avram]].
 
-Sa maison : [[Sarah]] sa **ishah**, [[Hagar]] la **shiphchah**, ==Ishmaʿel== et ==Yitschaq==.
+Sa maison : [[Sarah]] sa **ishah**, [[Hagar]] la **shifchah**, ==Ishmaʿel== et ==Yitschaq==.
 
 Sa ligne : il descend de [[Shem-fils-de-Noach]] par ==Ever==, dont le nom donne *ivri*.
 

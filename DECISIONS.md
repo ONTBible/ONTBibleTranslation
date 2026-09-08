@@ -64,7 +64,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **Kohen** | kohen, kohanim, kohen gadol | *Bereshit* 14:18 | ✓ |
 | **malʾakh** | malʾakhim | *Bereshit* 16:7 | ✓ |
 | **shaliach** | shlichim | — | ✓ |
-| **shiphchah** | — | *Bereshit* 16:1 | ✓ |
+| **shifchah** | — | *Bereshit* 16:1 | ✓ |
 | **emunah** | Emunah, emuna | *Bereshit* 15:6 | ✓ |
 | **tsedaqah** | tsedaqah umishpat | *Bereshit* 15:6 | ✓ |
 | **tsadiq** | tsadiqim | *Bereshit* 6:9 | ✓ |
@@ -93,7 +93,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **tevilah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **merkavah** | — | en corps de texte : *Toledot Adam ve-Chavah* | ✓ |
-| **Nephilim** | — | *Bereshit* 6:4 | ✓ |
+| **Nefilim** | — | *Bereshit* 6:4 | ✓ |
 | **gibbor** | gibborim, gibor | *Bereshit* 6:4 | ✓ |
 | **navi** | neviʾim | — | ✓ |
 | **qodesh** | — | — | ✓ |

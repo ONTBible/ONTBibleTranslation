@@ -14,10 +14,10 @@ Il ne désigne pas un peuple mais ==une borne==.
 
 Le texte dit que l'habitation des fils de [[Yoqtan]] allait ==depuis Mesha jusqu'à Sefar, la montagne de l'orient==. C'est la formule de la limite : ==aussi loin que va cette maison==.
 
-Comme [[Leshaʿ]] ferme la frontière kenaʿani et [[Tiras]] l'expansion de [[Yaphet]], ==Sefar== ferme ici la péninsule. Le chapitre borne chaque maison, et il le fait toujours de la même manière : ==par un nom qu'on ne reverra pas==.
+Comme [[Leshaʿ]] ferme la frontière kenaʿani et [[Tiras]] l'expansion de [[Yafet]], ==Sefar== ferme ici la péninsule. Le chapitre borne chaque maison, et il le fait toujours de la même manière : ==par un nom qu'on ne reverra pas==.
 
 ## Voir aussi
 
 Ce qu'il borne : l'habitation des fils de [[Yoqtan]].
 
-Les autres bornes du chapitre : [[Leshaʿ]] pour [[Kenaʿan]], [[Tiras]] pour [[Yaphet]].
+Les autres bornes du chapitre : [[Leshaʿ]] pour [[Kenaʿan]], [[Tiras]] pour [[Yafet]].

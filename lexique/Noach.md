@@ -36,7 +36,7 @@ Il bâtit la *tevah*, il traverse le **mabbul** — la dé-création temporaire 
 
 C'est lui qui bâtit le premier **mizbeach** et fait monter l'**olah**. C'est à lui qu'est posée la première **berith** unilatérale — où **Elohim** seul s'engage, et où il n'est rien demandé en retour.
 
-Et c'est de lui que repart l'humanité entière : [[Shem-fils-de-Noach|Shem]], [[Cham]] et [[Yaphet]], dont *Bereshit* 10 fera toutes les nations.
+Et c'est de lui que repart l'humanité entière : [[Shem-fils-de-Noach|Shem]], [[Cham]] et [[Yafet]], dont *Bereshit* 10 fera toutes les nations.
 
 ## Ce que son Shem finit par dire
 
@@ -50,7 +50,7 @@ Le corpus ne l'excuse pas et ne le condamne pas. Il pose les deux — l'homme pa
 
 ## Voir aussi
 
-Sa maison : [[Lamekh-fils-de-Metoushelach]] son père qui le nomme, [[Metoushelach]] son grand-père, et ses fils [[Shem-fils-de-Noach|Shem]], [[Cham]], [[Yaphet]].
+Sa maison : [[Lamekh-fils-de-Metoushelach]] son père qui le nomme, [[Metoushelach]] son grand-père, et ses fils [[Shem-fils-de-Noach|Shem]], [[Cham]], [[Yafet]].
 
 Celui qui chemine avant lui : [[Chanokh-qui-marche-avec-Elohim]], seul autre homme de l'ère d'avant le **mabbul** dont le texte dise qu'il *cheminait*.
 

@@ -37,7 +37,7 @@
 - Les formes araméennes (*irin*, *razin*, *gibbaraya*, *qaddishin*) servent ici de niveau 3 utile ; elles ne prétendent pas restituer chaque ligne fragmentaire.
 - Le nombre de deux cents appartient au cycle traditionnel des **irin** ; il est laissé en note pour ne pas alourdir la voix narrative.
 - [[Shemichazah]], [[Azazel]] et [[Baraqel]] sont intégrés parce que le Livre des Géants présuppose le récit des **irin**, mais leur distribution exacte dans les fragments demeure lacunaire.
-- Le lien avec les **Nephilim** et les **gibborim** de *Bereshit* 6:4 est traité dans les parallèles bibliques.
+- Le lien avec les **Nefilim** et les **gibborim** de *Bereshit* 6:4 est traité dans les parallèles bibliques.
 
 ### Notes ontologiques
 
@@ -48,7 +48,7 @@
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 1 : création par distinctions.
-- *Bereshit* 6:1-4 : fils d'**Elohim** (*benei ha-elohim* / בְּנֵי הָאֱלֹהִים), filles de **l'Être façonné du sol** (*benot ha-adam* / בְּנוֹת הָאָדָם), **Nephilim** (*nephilim* / נְפִילִים) et puissants (*gibborim* / גִּבֹּרִים).
+- *Bereshit* 6:1-4 : fils d'**Elohim** (*benei ha-elohim* / בְּנֵי הָאֱלֹהִים), filles de **l'Être façonné du sol** (*benot ha-adam* / בְּנוֹת הָאָדָם), **Nefilim** (*nefilim* / נְפִילִים) et puissants (*gibborim* / גִּבֹּרִים).
 - 1 *==Chanokh==* 6-8 : serment des **irin** et transmission des secrets.
 
 ---

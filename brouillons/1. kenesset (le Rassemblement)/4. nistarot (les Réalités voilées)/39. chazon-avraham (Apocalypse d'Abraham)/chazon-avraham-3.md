@@ -51,7 +51,7 @@
 
 - *==Ce que la voix ne fait pas== (v.6). Elle répond « me voici » et ne donne aucun **Shem**. Le rendu s'y tient strictement : aucune formule d'auto-présentation, aucun jeu sur *ehyeh*. La question du Nom relève de *Shemot* 3, que le §7 réserve à l'auteur comme ==la décision la plus importante du projet après **Elohim**==, et un livre des Nistarot n'a pas à la trancher par la bande.*
 
-- *==Asaph== (v.9) — « afin que tu ne sois pas emporté ». Le verbe dit *recueillir, ramasser avec*, et c'est ce qui écarte la lecture morale : ==il n'y a pas de sentence contre [[Avraham]]==, il y a un lot dont il sortirait ou non. Rester, c'est partager le sort de ce à quoi l'on tient. Le §4.7 interdit la culpabilité subjective comme catégorie ; le texte, lui, ne la connaît pas.*
+- *==Asaf== (v.9) — « afin que tu ne sois pas emporté ». Le verbe dit *recueillir, ramasser avec*, et c'est ce qui écarte la lecture morale : ==il n'y a pas de sentence contre [[Avraham]]==, il y a un lot dont il sortirait ou non. Rester, c'est partager le sort de ce à quoi l'on tient. Le §4.7 interdit la culpabilité subjective comme catégorie ; le texte, lui, ne la connaît pas.*
 
 - *==Le feu qui avait déjà mangé.== Le même verbe *akal* revient de la **parashah** ②, où le feu avait mangé [[Barisat]], le dieu de bois qu'on avait posé pour le garder. ==Ce qui a consumé un dieu consume la maison qui les fabriquait== : le récit n'a pas besoin de le dire, il lui suffit de reprendre le mot.*
 
@@ -69,7 +69,7 @@
 
     *Le §4.14 donne de quoi tenir les deux sans les confondre. Ce livre ne fait pas de chronologie — il dit ==ce que la maison est devenue==, et il le dit depuis une consignation postérieure au Ḥurban, portant une tradition et non un registre. La Torah dit où et quand [[Terach]] meurt ; ce témoin-ci dit ce que le feu a pris. Le lecteur reçoit les deux, et l'apparat lui dit qu'ils divergent.*
 
-- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *raʾah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaph* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
+- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *raʾah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaf* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
 
 ### Ancrages dans le corpus ONT
 

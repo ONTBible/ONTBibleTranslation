@@ -36,7 +36,7 @@ Ce dernier point est décisif pour ne pas mal lire : ==ce n'est pas le *arur* d'
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père, [[Noach]] son grand-père, [[Shem-fils-de-Noach]] et [[Yaphet]] ses grands-oncles.
+Sa maison : [[Cham]] son père, [[Noach]] son grand-père, [[Shem-fils-de-Noach]] et [[Yafet]] ses grands-oncles.
 
 Ce que son **Shem** touche : le *arur* prononcé sur lui, l'*avon* de ses peuples, et la terre promise qu'il nomme.
 

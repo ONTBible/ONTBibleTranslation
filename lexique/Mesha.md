@@ -18,7 +18,7 @@ Le texte dit que l'habitation des fils de [[Yoqtan]] allait ==depuis Mesha en di
 
 Ce verbe compte : le texte emploie ==l'habitation==, non le passage. C'est ==l'ancrage géographique permanent== de la maison de [[Shem-fils-de-Noach]] dans ses expressions méridionales — non un itinéraire, mais ==une demeure==.
 
-La différence avec la lignée de [[Yaphet]] est là : celle-ci ==s'étend==, celle-là ==habite==.
+La différence avec la lignée de [[Yafet]] est là : celle-ci ==s'étend==, celle-là ==habite==.
 
 ## Voir aussi
 

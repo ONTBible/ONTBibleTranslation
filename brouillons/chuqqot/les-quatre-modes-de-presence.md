@@ -186,7 +186,7 @@ canaux ne multiplient pas le fleuve, ==ils accomplissent son mouvement==.
 ### Et *Bereshit* 1:2 se lit de là
 
 La **Ruach** d'**Elohim** ne souffle pas sur les eaux. Elle ==plane comme un
-oiseau qui couve== — le verbe est *rachaph* (*rachaph* / רָחַף), et c'est le mot
+oiseau qui couve== — le verbe est *rachaf* (*rachaf* / רָחַף), et c'est le mot
 même que *Devarim* 32:11 emploie pour l'aigle au-dessus de ses petits.
 
 Un geste de couvaison, non de souffle. Sur une matière qui n'est ==pas encore un
@@ -272,7 +272,7 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
 
-- *==Un terme travaille encore sans être déclaré== : *rachaph*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
+- *==Un terme travaille encore sans être déclaré== : *rachaf*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
 - *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Mosheh]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 

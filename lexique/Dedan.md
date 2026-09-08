@@ -20,7 +20,7 @@ Puis *Yirmeyahu* 49:8, dans un oracle contre Edom, dit aux habitants de ==Dedan=
 
 Un peuple de caravanes est donc aussi ==un peuple qui sait disparaître==. C'est sa force et sa parade.
 
-Le **Shem** résonne enfin avec [[Dodanim]], dans la lignée de [[Yaphet]] — ==deux noms voisins dans deux maisons différentes==, et le corpus ne les relie pas.
+Le **Shem** résonne enfin avec [[Dodanim]], dans la lignée de [[Yafet]] — ==deux noms voisins dans deux maisons différentes==, et le corpus ne les relie pas.
 
 ## Voir aussi
 

@@ -44,7 +44,7 @@ Puis la maison est frappée. Les (*negaʿim* / נְגָעִים) tombent sur ell
 
 Elle repose sur *Bereshit* 12, seule unité écrite où le titre paraît, et sur ce que le corpus fait ailleurs des noms de rois.
 
-Tout le reste est devant : *Bereshit* 40-41 avec ==Yoseph== devant la maison, puis *Shemot*, où ce **Shem** cesse d'être un décor et devient l'adversaire. La fiche sera reprise quand ces unités seront écrites — le titre n'aura pas changé, mais ce que le corpus en dit, oui.
+Tout le reste est devant : *Bereshit* 40-41 avec ==Yosef== devant la maison, puis *Shemot*, où ce **Shem** cesse d'être un décor et devient l'adversaire. La fiche sera reprise quand ces unités seront écrites — le titre n'aura pas changé, mais ce que le corpus en dit, oui.
 
 ## Voir aussi
 

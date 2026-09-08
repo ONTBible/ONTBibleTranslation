@@ -12,7 +12,7 @@ Pour la géographie du Proche-Orient ancien, ce **Shem** désigne ==les Cimméri
 
 ## Ce que le corpus en fait
 
-Fils aîné de [[Yaphet]], il ouvre la lignée de ==l'élargissement== dans la table des nations.
+Fils aîné de [[Yafet]], il ouvre la lignée de ==l'élargissement== dans la table des nations.
 
 Et il revient bien plus tard, dans un autre registre. *Yehezqel* 38:6 le place sous le commandement de Gog, dans ==l'assemblée eschatologique des nations du septentrion==. Un **goy** de la carte des peuples devient une pièce d'une architecture que le regard ordinaire ne traverse pas.
 
@@ -20,7 +20,7 @@ C'est un mouvement que la table des nations produit souvent : ==elle range des p
 
 ## Voir aussi
 
-Sa maison : [[Yaphet]] son père, [[Noach]] son grand-père ; ses frères [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Meshekh]], [[Tiras]].
+Sa maison : [[Yafet]] son père, [[Noach]] son grand-père ; ses frères [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Meshekh]], [[Tiras]].
 
 Ses fils : [[Ashkenaz]], [[Rifat]], [[Togarmah]].
 

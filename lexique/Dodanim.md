@@ -20,6 +20,6 @@ C'est un bon rappel de ce qu'est la table des nations. Elle n'est pas un arbre b
 
 ## Voir aussi
 
-Sa maison : [[Yavan]] son père, [[Yaphet]] son grand-père ; ses frères [[Elisha]], [[Tarshish]], [[Kitim]].
+Sa maison : [[Yavan]] son père, [[Yafet]] son grand-père ; ses frères [[Elisha]], [[Tarshish]], [[Kitim]].
 
 Le nom qui lui fait écho dans l'autre lignée : [[Dedan]].

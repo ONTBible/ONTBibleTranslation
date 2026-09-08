@@ -18,7 +18,7 @@ Ils traverseront tout le récit d'Israël — les Juges, Shimshon, Shaul, David.
 
 Mais le corpus dit sur eux une chose qu'on manque presque toujours, et elle est considérable.
 
-*Amos* 9:7 : **YHWH** revendique lui-même la direction de leur migration — ==les Pelishtim, ne les ai-je pas fait monter de Kaphtor ?== Dans la même phrase, il rappelle qu'il a fait monter Israël de [[Mitsrayim]].
+*Amos* 9:7 : **YHWH** revendique lui-même la direction de leur migration — ==les Pelishtim, ne les ai-je pas fait monter de Kaftor ?== Dans la même phrase, il rappelle qu'il a fait monter Israël de [[Mitsrayim]].
 
 Le *navi* met donc ==les deux exodes sur le même plan==. Celui qui conduit Israël conduit aussi ses ennemis, et il le dit pour désarmer toute prétention. La table des nations les range chez [[Cham]] ; *Amos* rappelle qui les a menés.
 

@@ -16,13 +16,13 @@ Le nom se retrouve dans [[Tuval-Qayin]], de l'autre côté du **mabbul** — cel
 
 Il ne paraît presque jamais seul. ==Tuval== et [[Meshekh]] forment ==un bloc récurrent== dans le corpus prophétique — *Yeshayahu* 66:19, *Yehezqel* 27:13, 32:26, 38:2-3.
 
-Et ce que *Yehezqel* 27 en dit est précis : ils commercent avec Tyr ==en esclaves et en objets de bronze==. C'est le visage économique de l'expansion de [[Yaphet]] vers l'orient — le négoce lointain, avec ce qu'il charrie de plus dur.
+Et ce que *Yehezqel* 27 en dit est précis : ils commercent avec Tyr ==en esclaves et en objets de bronze==. C'est le visage économique de l'expansion de [[Yafet]] vers l'orient — le négoce lointain, avec ce qu'il charrie de plus dur.
 
 En 38:2-3, ils sont dans l'assemblée de Gog. Le même peuple porte donc les deux fonctions : ==celui avec qui l'on commerce, et celui qui monte==.
 
 ## Voir aussi
 
-Sa maison : [[Yaphet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [[Yavan]], [[Meshekh]], [[Tiras]].
+Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [[Yavan]], [[Meshekh]], [[Tiras]].
 
 Son inséparable : [[Meshekh]].
 

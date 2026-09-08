@@ -74,7 +74,7 @@
 
 ³¹ Tous les jours de [[Lamekh-fils-de-Metoushelach|Lamekh]] furent sept cent soixante-dix-sept ans — et il mourut.
 
-³² [[Noach]] (*Noach* / נֹחַ) avait cinq cents ans, et [[Noach]] engendra Shem (*Shem* / שֵׁם) *[Shem — intraduisible comme **Ruach** et **Nefesh**. En hébreu, Shem est l'acte d'existence fonctionnelle lui-même — non pas "le nom" au sens français, mais ce qui fait entrer une réalité dans l'ordre en la nommant. Être nommé Shem, c'est être constitutif du principe même qu'on représente : cet être porte en son **Shem** le **Shem**. De lui sortira la lignée sémitique — les peuples "du **Shem**", ceux qui invoqueront le **Shem** de **YHWH** dans l'histoire]*, [[Cham]] (*Cham* / חָם) *[[[Cham]] — chaleur]* et [[Yaphet]] (*Yaphet* / יָפֶת) *[[[Yaphet]] — de pata : étendre, élargir]*.
+³² [[Noach]] (*Noach* / נֹחַ) avait cinq cents ans, et [[Noach]] engendra Shem (*Shem* / שֵׁם) *[Shem — intraduisible comme **Ruach** et **Nefesh**. En hébreu, Shem est l'acte d'existence fonctionnelle lui-même — non pas "le nom" au sens français, mais ce qui fait entrer une réalité dans l'ordre en la nommant. Être nommé Shem, c'est être constitutif du principe même qu'on représente : cet être porte en son **Shem** le **Shem**. De lui sortira la lignée sémitique — les peuples "du **Shem**", ceux qui invoqueront le **Shem** de **YHWH** dans l'histoire]*, [[Cham]] (*Cham* / חָם) *[[[Cham]] — chaleur]* et [[Yafet]] (*Yafet* / יָפֶת) *[[[Yafet]] — de pata : étendre, élargir]*.
 
 ---
 
@@ -84,6 +84,6 @@
 - *Vayamot — "et il mourut" (refrain de Bereshit 5 — présent pour chaque vie sauf [[Chanokh-qui-marche-avec-Elohim|Chanokh]])*
 - *Hithalekh — "cheminait" (hitpael : mode d'existence continu avec **Elohim**, non acte ponctuel)*
 - *Veyenenu — "il n'était plus" (refus délibéré du refrain vayamot pour [[Chanokh-qui-marche-avec-Elohim|Chanokh]] — le silence est l'information)*
-- *Prénoms hébreux : [[Qenan]], [[Mahalalel]], [[Yered]], [[Chanokh-qui-marche-avec-Elohim|Chanokh]], [[Metoushelach]], [[Lamekh-fils-de-Metoushelach|Lamekh]], [[Noach]], Shem, [[Cham]], [[Yaphet]]*
+- *Prénoms hébreux : [[Qenan]], [[Mahalalel]], [[Yered]], [[Chanokh-qui-marche-avec-Elohim|Chanokh]], [[Metoushelach]], [[Lamekh-fils-de-Metoushelach|Lamekh]], [[Noach]], Shem, [[Cham]], [[Yafet]]*
 - *[[Noach]] — de nuach (repos fonctionnel) / yenachameinu — de nacham (consoler) : jeu de mots intraduisible noté en crochet*
-- *Bereshit 6 : commence avec *Bereshit* 6:1 — le passage des **Nephilim** a été traité avec l'auteur, le chapitre est écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal maintenue, « géants » écarté (§2.5, §3.3)*
+- *Bereshit 6 : commence avec *Bereshit* 6:1 — le passage des **Nefilim** a été traité avec l'auteur, le chapitre est écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal maintenue, « géants » écarté (§2.5, §3.3)*

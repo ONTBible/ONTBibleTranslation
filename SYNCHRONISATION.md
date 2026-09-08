@@ -493,7 +493,7 @@ capitalisé collé au niveau 3 — et **il nomme ce qu'il écarte**, parce qu'un
 relevé muet sur ses refus se lit comme une couverture complète.
 
 **Deux arbitrages d'auteur reportés partout :** les gentilés sont des noms
-propres, sans exception ; **Nephilim** passe en intraduisible — l'or supplante
+propres, sans exception ; **Nefilim** passe en intraduisible — l'or supplante
 le bordeaux — et sa fiche reste à écrire.
 
 **Pour l'app et le site : rien à changer.** La chaîne a été vérifiée de bout en
@@ -1036,7 +1036,7 @@ suit vaut pour les trois dépôts.
 
 **Ce que le vault a décidé.** Les sept termes que le pipeline signalait balisés
 sans entrée de glossaire sont réglés, et deux décisions dépassent le balisage :
-**shiphchah** devient intraduisible, et surtout la famille **chata** passe
+**shifchah** devient intraduisible, et surtout la famille **chata** passe
 entière en hébreu — **chata** est le ==premier verbe intraduisible de l'ONT==,
 tous les verbes du §3.1 étaient traduits jusqu'ici. Le §2.3 reçoit par ailleurs
 l'argument d'exactitude sur le registre : « Chapitre 7 » pour une unité qui

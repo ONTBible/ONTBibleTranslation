@@ -18,7 +18,7 @@ Les deux disent la même chose sous deux angles, et c'est peut-être pourquoi le
 
 ## Ce qu'elle est dans la maison
 
-Elle est **shiphchah** — attachée à la sphère de [[Sarai]], et c'est cette appartenance qui la rend disponible pour ce qui va se passer.
+Elle est **shifchah** — attachée à la sphère de [[Sarai]], et c'est cette appartenance qui la rend disponible pour ce qui va se passer.
 
 Elle ne change pas de travail quand on la donne à Avram : elle ==change de sphère==. L'enfant qu'elle portera doit remonter, par-dessus elle, jusqu'à la maîtresse. Le droit familial du Proche-Orient prévoit le cas, avec ses clauses.
 
@@ -32,7 +32,7 @@ C'est là que le corpus fait quelque chose qu'il ne refait jamais.
 
 Le **malʾakh** de **YHWH** la trouve près d'une source du désert — première occurrence d'un **malʾakh** dans tout l'ONT. Pas auprès d'Avram, qui a la promesse. Pas auprès de [[Sarai]], qui a la maison. ==Auprès d'elle, qui n'a rien==.
 
-Il l'appelle par son statut — **shiphchah** de [[Sarai]] — et lui demande d'où elle vient et où elle va. Elle répond qu'elle fuit.
+Il l'appelle par son statut — **shifchah** de [[Sarai]] — et lui demande d'où elle vient et où elle va. Elle répond qu'elle fuit.
 
 Puis elle fait ce qu'aucun patriarche ne fait : elle ==donne un **Shem** à **YHWH**==. Elle l'appelle **El Roï**, ==l'El qui me voit==. C'est le seul nom divin de tout le corpus donné par un être humain, et il est donné par ==une servante étrangère, sans droits, dans un désert==.
 
@@ -40,7 +40,7 @@ Le texte l'enregistre sans commenter. La règle de l'ONT est de ne pas ajouter c
 
 ## Voir aussi
 
-Sa maison : [[Sarai]] dont elle est la **shiphchah**, [[Avraham]], et ==Ishmaʿel== son fils dont le **Shem** dit *El entend*.
+Sa maison : [[Sarai]] dont elle est la **shifchah**, [[Avraham]], et ==Ishmaʿel== son fils dont le **Shem** dit *El entend*.
 
 Ce que son **Shem** touche : **El Roï** qu'elle nomme, le **malʾakh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
 

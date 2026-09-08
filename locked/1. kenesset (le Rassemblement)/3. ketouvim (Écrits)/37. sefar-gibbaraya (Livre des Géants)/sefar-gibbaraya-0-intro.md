@@ -32,7 +32,7 @@ Dater ce livre « de l'époque de Mani » parce que ses versions les plus compl�
 
 ## But
 
-*Bereshit* 6:1-4 contracte en quatre versets une énigme immense — les fils d'**Elohim**, les filles de l'humanité, les **Nephilim**, les **gibborim** — puis passe au **mabbul**. Ce livre relève ce que *Bereshit* laisse contracté :
+*Bereshit* 6:1-4 contracte en quatre versets une énigme immense — les fils d'**Elohim**, les filles de l'humanité, les **Nefilim**, les **gibborim** — puis passe au **mabbul**. Ce livre relève ce que *Bereshit* laisse contracté :
 
 > *Que devient le monde quand les gardiens du seuil quittent leur garde ?*
 
@@ -59,7 +59,7 @@ Le livre suit l'arc de la démesure antédiluvienne et de sa fin. Des **irin** q
 |---|---|---|
 | La sortie de domaine des **irin** | la faute n'est pas la puissance mais l'abandon de la garde qui définit la fonction | 1 *==Chanokh==* 6-8 ; *Bereshit* 6:1-4 |
 | *Le savoir détaché du service* | les *razin* livrés hors mandat : la connaissance coupée de la garde défait les limites | 1 *==Chanokh==* 7-8 ; 4Q203 |
-| Les **gibbaraya**, anomalie de fonction | ni gardiens des Cieux ni serviteurs de la Terre — un poids déplacé entre les domaines | *Bereshit* 6:4 (**gibborim**, **Nephilim**) ; 1 *==Chanokh==* 15-16 |
+| Les **gibbaraya**, anomalie de fonction | ni gardiens des Cieux ni serviteurs de la Terre — un poids déplacé entre les domaines | *Bereshit* 6:4 (**gibborim**, **Nefilim**) ; 1 *==Chanokh==* 15-16 |
 | *La Terre alourdie* | l'appétit sans limite change l'abondance en manque ; le sang versé, le sol témoin | *Bereshit* 4:10 ; 6:11-13 ; 1 *==Chanokh==* 7-9 |
 | *Les deux songes* | jardin défait (feu/eaux, racine gardée) ; tablette lavée (noms effacés, un reste) | 4Q530 ; 6Q8 ; *Daniel* 4 et 7 |
 | [[Mahaway]], **malʾakh** inversé | envoyé *d'en bas* vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] — l'inverse du **malʾakh** **YHWH** mandaté d'en haut | 4Q530-531 ; versions manichéennes |
@@ -95,10 +95,10 @@ De même, les esprits sans repos issus des **gibbaraya** (1 *==Chanokh==* 15-16 
 
 Le livre contextualise son propre récit par les songes, l'écriture de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] et le reclassement des noms héroïques — non par une morale finale. Aucune fin conservée ne dit « voici le sens du livre », ni ne porte une formule du type « jusqu'à ce jour ». Son actualisation est indirecte : la crise des **gibbaraya** n'est pas seulement un passé monstrueux, mais une rupture des domaines dont le **mabbul** doit arrêter les conséquences.
 
-- *Bereshit amplifié.* Le livre ne commente pas *Bereshit* 6 du dehors : il déploie l'énigme laissée brève — fils d'**Elohim**, filles de **l'Être façonné du sol**, **Nephilim**, **gibborim** — en scène : noms, faim, violence, songes, tablette, décret.
+- *Bereshit amplifié.* Le livre ne commente pas *Bereshit* 6 du dehors : il déploie l'énigme laissée brève — fils d'**Elohim**, filles de **l'Être façonné du sol**, **Nefilim**, **gibborim** — en scène : noms, faim, violence, songes, tablette, décret.
 - *Songes et tablette.* Le jardin, le feu, les eaux, la tablette et les noms effacés donnent au récit ses clés internes. Les **gibbaraya** voient leur fin avant de pouvoir la comprendre ; leur puissance ne produit pas l'interprétation.
 - *==Chanokh== lecteur du décret.* [[Mahaway]] envoyé vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] montre que le sens n'appartient pas aux puissants. [[Chanokh-qui-marche-avec-Elohim|Chanokh]] ne devine ni ne fait de prodige : il reçoit, distingue, écrit, transmet. Sa lettre replace la violence des fils sous la faute des pères.
-- *==Gilgamesh== reclassé.* En plaçant [[Gilgamesh]] et [[Chobabish]] parmi les **gibbaraya** soumis au jugement, le texte retourne la mémoire héroïque des nations : ce que les nations élèvent en **kavod** guerrière devient mémoire de démesure antédiluvienne. Et la Torah le disait déjà : les **Nephilim** / **gibborim** sont nommés en *Bereshit* 6:4 « les puissants d'autrefois, les hommes du **shem** » (*anshei ha-shem*) — les héros que les **goyim** chantent sont précisément ceux-là. Ce n'est pas une étiologie historique moderne, mais un reclassement apocalyptique : le **shem** que les nations exaltent est un **shem** de démesure, non d'ordre.
+- *==Gilgamesh== reclassé.* En plaçant [[Gilgamesh]] et [[Chobabish]] parmi les **gibbaraya** soumis au jugement, le texte retourne la mémoire héroïque des nations : ce que les nations élèvent en **kavod** guerrière devient mémoire de démesure antédiluvienne. Et la Torah le disait déjà : les **Nefilim** / **gibborim** sont nommés en *Bereshit* 6:4 « les puissants d'autrefois, les hommes du **shem** » (*anshei ha-shem*) — les héros que les **goyim** chantent sont précisément ceux-là. Ce n'est pas une étiologie historique moderne, mais un reclassement apocalyptique : le **shem** que les nations exaltent est un **shem** de démesure, non d'ordre.
 - *Portée ontologique.* La grandeur sans mandat n'est pas une vraie grandeur ; le **shem** sans fonction devient charge contre celui qui le porte ; le savoir coupé de la garde défait les limites ; et quand les limites sont défaites, les eaux reviennent.
 - *Prudence.* Le terme « Esséniens » doit rester prudent : le texte est retrouvé à Qumrân et probablement valorisé dans ce milieu, mais son lieu exact de composition n'est pas assuré.
 

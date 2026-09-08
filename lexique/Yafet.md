@@ -1,14 +1,14 @@
-# Yaphet
+# Yafet
 
 ## Prononciation
 
-*Ya-PHET* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ya-FET* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 ## Le Shem
 
 De *patah* (*patah* / פָּתָה) — étendre, élargir, faire de la place.
 
-Le **Shem** porte donc ==une dotation avant qu'elle ne soit prononcée==, et le corpus le souligne : le nom contient déjà ce que [[Noach]] lui formulera plus tard — *qu'**Elohim** élargisse ==Yaphet==*.
+Le **Shem** porte donc ==une dotation avant qu'elle ne soit prononcée==, et le corpus le souligne : le nom contient déjà ce que [[Noach]] lui formulera plus tard — *qu'**Elohim** élargisse ==Yafet==*.
 
 C'est un cas de figure que l'ONT relève quand il se présente : ==le nom précède la parole qui l'accomplit==. On l'a vu pour [[Hevel]], dont le nom disait la brièveté avant le récit ; ici il dit l'élargissement avant la dotation.
 
@@ -16,7 +16,7 @@ C'est un cas de figure que l'ONT relève quand il se présente : ==le nom préc�
 
 Il est ==le troisième des fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Cham]].
 
-Son acte est un geste, et le texte le décrit avec soin. Quand [[Cham]] voit la nudité de leur père et le dit, ==Yaphet== et [[Shem-fils-de-Noach|Shem]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
+Son acte est un geste, et le texte le décrit avec soin. Quand [[Cham]] voit la nudité de leur père et le dit, ==Yafet== et [[Shem-fils-de-Noach|Shem]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
 
 Le détail du dos tourné n'est pas un ornement. Il dit ==un refus délibéré de regarder==, dans une scène dont tout l'enjeu est ce qu'on voit et ce qu'on en fait.
 

@@ -18,10 +18,10 @@ Il revient dans les *Neviʾim* avec une fonction précise.
 
 *Yirmeyahu* 51:27 le convoque ==avec [[Ararat]] et Mini contre [[Bavel]]==. Trois puissances du septentrion appelées à monter contre l'empire — et le prophète les nomme comme on nomme des instruments.
 
-C'est le même motif que pour [[Madai]] : ==une lignée de [[Yaphet]] exécute un **mishpat** prononcé depuis la lignée de [[Shem-fils-de-Noach]]==. Les peuples de la carte deviennent les mains d'un jugement qu'ils n'ont pas prononcé.
+C'est le même motif que pour [[Madai]] : ==une lignée de [[Yafet]] exécute un **mishpat** prononcé depuis la lignée de [[Shem-fils-de-Noach]]==. Les peuples de la carte deviennent les mains d'un jugement qu'ils n'ont pas prononcé.
 
 ## Voir aussi
 
-Sa maison : [[Gomer]] son père, [[Yaphet]] son grand-père ; ses frères [[Rifat]] et [[Togarmah]].
+Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[Rifat]] et [[Togarmah]].
 
 Ceux avec qui il monte : [[Ararat]], contre [[Bavel]].

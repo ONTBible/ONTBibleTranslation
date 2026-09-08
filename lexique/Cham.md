@@ -10,7 +10,7 @@ Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 L'étymologie est incertaine. On y a entendu la chaleur, ou une racine liée aux terres du midi — les deux restent des conjectures, et l'ONT ne tranche pas ce que l'hébreu laisse ouvert.
 
-Le nom s'écrit (*Cham* / חָם). Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yaphet]].
+Le nom s'écrit (*Cham* / חָם). Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yafet]].
 
 ## Le fils qui voit
 
@@ -30,6 +30,6 @@ Il faut le lire pour ce que c'est : ==une carte des nations==, non un jugement s
 
 ## Voir aussi
 
-Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yaphet]] ses frères.
+Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yafet]] ses frères.
 
 Ce que sa descendance touche : ==Mitsrayim==, ==Kenaʿan==, et la table des nations de *Bereshit* 10.

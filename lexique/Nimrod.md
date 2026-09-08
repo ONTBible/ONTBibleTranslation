@@ -38,4 +38,4 @@ Sa maison : [[Koush]] son père, [[Cham]] son grand-père, [[Noach]] son arrièr
 
 Ce qu'il fonde : [[Bavel]], [[Erekh]], [[Akkad]], [[Ninveh]].
 
-Ce que son **Shem** touche : les **gibborim** et les **Nephilim** d'avant le **mabbul**, et le *mamlakhah* dont il est le premier.
+Ce que son **Shem** touche : les **gibborim** et les **Nefilim** d'avant le **mabbul**, et le *mamlakhah* dont il est le premier.

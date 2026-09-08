@@ -26,7 +26,7 @@ Il ne s'agit pas d'un malheur privé. Dans ce monde, une maison qui n'engendre p
 
 Sa réponse n'est pas la résignation. C'est ==une manœuvre juridique==, et le corpus la formule dans les termes exacts du droit familial de son époque — les contrats de Nuzi prévoient ce cas.
 
-Elle donne sa **shiphchah** [[Hagar]] à son **ish**, ==afin d'être bâtie par elle==. Le verbe est *banah*, édifier : celui de l'architecte, celui par lequel l'**ishah** est érigée en *Bereshit* 2. Elle pense sa maternité de substitution ==dans le vocabulaire de la construction==.
+Elle donne sa **shifchah** [[Hagar]] à son **ish**, ==afin d'être bâtie par elle==. Le verbe est *banah*, édifier : celui de l'architecte, celui par lequel l'**ishah** est érigée en *Bereshit* 2. Elle pense sa maternité de substitution ==dans le vocabulaire de la construction==.
 
 Et quand cela se retourne contre elle, elle ne se plaint pas : elle porte l'affaire devant son **ish** avec une formule de tribunal — *chamasi aleikha*, ==le tort qui m'est fait est sur toi==. Elle n'accuse pas [[Hagar]] d'insolence. Elle accuse [[Avram]] de ==n'avoir pas tenu l'ordre de sa maison==.
 
@@ -46,6 +46,6 @@ Une seule lettre tombe. ==Le possessif==. Ce qui l'attachait à une maison la qu
 
 Ce qu'elle devient : [[Sarah]].
 
-Sa maison : [[Avram]] son **ish**, [[Hagar]] sa **shiphchah**, ==Ishmaʿel== qu'elle n'a pas porté.
+Sa maison : [[Avram]] son **ish**, [[Hagar]] sa **shifchah**, ==Ishmaʿel== qu'elle n'a pas porté.
 
-Ce que son histoire touche : la **shiphchah** et sa sphère, et le *banah* de *Bereshit* 2.
+Ce que son histoire touche : la **shifchah** et sa sphère, et le *banah* de *Bereshit* 2.

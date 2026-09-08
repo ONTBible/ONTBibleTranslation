@@ -16,7 +16,7 @@ Un nom en trois morceaux : *beʾer*, ==le puits== ; *lachai*, ==du Vivant== ; *r
 
 C'est [[Hagar]] qui le donne, après avoir nommé **El Roï**.
 
-Et il faut mesurer ce qui se passe là. Une **shiphchah** égyptienne, enceinte, en fuite, sans statut ni recours, ==donne un **Shem** à **YHWH**== — le seul nom divin de tout le corpus donné par un être humain. Puis ==elle nomme le lieu== d'après ce qu'elle vient de comprendre.
+Et il faut mesurer ce qui se passe là. Une **shifchah** égyptienne, enceinte, en fuite, sans statut ni recours, ==donne un **Shem** à **YHWH**== — le seul nom divin de tout le corpus donné par un être humain. Puis ==elle nomme le lieu== d'après ce qu'elle vient de comprendre.
 
 Le puits garde donc ==la trace d'une rencontre== qui n'a eu aucun témoin. Rien ne s'y est bâti, aucun **mizbeach** n'y est dressé. Seul le nom demeure.
 
