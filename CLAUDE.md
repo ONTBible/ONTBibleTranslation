@@ -648,11 +648,28 @@ Trois choses en sont sorties, qu'il faut garder :
 - ==l'araméen est resté dehors== — `Hobabish`, `Shemikhazah` : le §2.9 ne
   légifère que sur l'hébreu, et l'araméen a déjà son exception avec `**'irin**`.
   ==À trancher par l'auteur== ;
-- ==une faute plus profonde a paru sous celle-ci==. `Chivi`, `Chamati`,
-  `Chitti`, `Chorim` ont pour hébreu `הַחִוִּי`, `הַחֲמָתִי` — le premier ה est
-  ==l'article==, et la translittération ==l'avale==. Il faudrait `ha-Chivi`. Ce
-  n'est plus de la graphie, c'est le §2.6, et ==le chantier reste ouvert== sur
-  une cinquantaine d'occurrences.
+- ==un chantier annoncé qui n'existait pas==, et il vaut d'être gardé pour
+  cela. J'avais relevé que `Chivi`, `Chamati`, `Chitti` et `Chorim` ont pour
+  hébreu `הַחִוִּי`, `הַחֲמָתִי` — donc que la translittération ==avalait
+  l'article==, et qu'il faudrait `ha-Chivi`.
+
+  ==Le contexte le dément en une ligne :== le corpus écrit *les [[Chivi]]
+  (\*Chivi\* / הַחִוִּי)*. ==Le français porte déjà l'article==, et l'hébreu cité
+  porte le sien parce que le verset l'a. Écrire `ha-Chivi` donnerait *« les
+  ha-Chivi »* — un article doublé. C'est le traitement de ==tous les ethnonymes==
+  de la table des nations, het ou non : `Arvadi / הָאַרְוָדִי`,
+  `Emori / הָאֱמֹרִי`.
+
+  La convention se lit donc ainsi, et elle n'était nulle part écrite : on
+  translittère ==l'article quand on cite un syntagme du verset== — `hazahav` pour
+  הַזָּהָב, « l'or » —, et ==la forme nue quand on nomme un peuple ou une
+  personne==, le français fournissant l'article. Le `ha-` du §2.6 vise autre
+  chose : les noms que l'ONT ==forge== — *El ha-Qolossiyim*, **Ruach ha-Qodesh**,
+  **ha-satan** —, où l'article fait partie du nom.
+
+  ==C'est le second chantier fantôme de la journée==, après les « vingt-deux
+  marqueurs déséquilibrés » du §13.2, et il a le même profil : un relevé bien
+  formé, produit sans regarder ==une seule occurrence en contexte==.
 
 **Et le relevé du chantier `kh` était incomplet.** Trois formes portaient encore
 un het écrit `kh` — `akhuzat` (7), `akhoranit` (2) —, corrigées avec cette
