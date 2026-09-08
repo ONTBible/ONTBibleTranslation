@@ -15,3 +15,7 @@ C'est aussi un acte ==souverain==. Nommer, c'est assigner — donc exercer une a
 Le verbe garde d'ailleurs son autre sens sans que la langue y voie une ambiguïté : ==qara== veut aussi dire ==appeler==, héler quelqu'un, convoquer. Nommer et appeler sont le même geste — on ne nomme pas dans le vide, on fait venir à sa place.
 
 Et c'est ce qui donne leur poids aux changements de nom. Quand ==Avram== devient ==Avraham==, personne ne lui trouve un surnom : sa fonction change, donc son nom, et il n'y a rien de plus à expliquer. Quand les bâtisseurs de la tour veulent se *faire un* **Shem**, ils veulent ==qara== eux-mêmes leur propre place au lieu de la recevoir — et c'est exactement là qu'ils se perdent.
+
+## Formes
+
+vayiqra · qara · vayiqraʾu

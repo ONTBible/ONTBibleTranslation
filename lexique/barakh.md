@@ -17,3 +17,7 @@ Regarde comment le mot travaille dans la première page. **Elohim** ==barakh== l
 Son contraire éclaire encore mieux. **Arur** n'est pas l'absence de dotation — c'est ==sa perversion== : la capacité demeure, et fonctionne de travers. L'*adamah* frappée continue de produire, mais des ronces avec le pain. Rien n'a été retiré. Tout est devenu pénible.
 
 Le mot est apparenté à *berekh*, le genou. Fléchir le genou et transmettre une capacité viennent du même geste — celui qui se met plus bas pour donner.
+
+## Formes
+
+vayevarekh · uverakhti · mevarakhekhah · vayevarakhehu

@@ -17,3 +17,7 @@ Les deux verbes se répondent d'ailleurs dans la même phrase, au moment de l'ad
 Et c'est ==asah== qui revient au septième jour, pour dire ce dont **Elohim** cesse : ==toute son œuvre qu'il avait asah==. Ce n'est pas de la fatigue — c'est ==l'exécution qui est achevée==, et l'on cesse parce qu'il n'y a plus rien à mettre en place.
 
 Le mot voisin **melakhah** désigne ce travail-là comme métier : le travail qualifié de l'architecte, celui-là même qu'on emploiera pour la construction du Tabernacle. Le monde est monté comme on monte un sanctuaire, et le vocabulaire ne change pas.
+
+## Formes
+
+vayaʿas · naʿaseh · asah

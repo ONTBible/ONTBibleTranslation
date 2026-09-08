@@ -17,3 +17,7 @@ Le verbe suppose toujours ==une matière première==, et c'est ce qui l'oppose e
 Il faut aussi le tenir à distance de **banah**, le verbe de l'architecte, employé pour la **Ishah**. On ne pétrit pas une structure : on l'édifie. Trois verbes, trois gestes, et le texte choisit à chaque fois — l'adam est modelé, la **Ishah** est bâtie, et les deux sont **bara** en tant qu'ils entrent dans l'ordre.
 
 Le mot reviendra chez les **neviʾim** avec toute sa charge : un peuple entre les mains de celui qui l'a ==yatsar==, comme l'argile dans la main du potier — qui peut reprendre ce qui rate et remonter la pièce. L'image n'est pas une menace. Elle dit que rien n'est fini tant que la main est là.
+
+## Formes
+
+vayitser · yatsar

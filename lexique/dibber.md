@@ -17,3 +17,7 @@ Le corpus emploiera ==dibber== pour les moments les plus proches. **YHWH** ==dib
 Et il donne son nom au cinquième livre. Les *Devarim* — les paroles-événements adressées à un peuple avant qu'il entre dans la terre. Le grec l'a appelé *Deutéronome*, « seconde loi », en le rangeant du côté du texte juridique. En hébreu, ce sont ==des paroles adressées== : quelqu'un parle à quelqu'un, une dernière fois, avant de ne plus pouvoir.
 
 Traduire les deux verbes par « dire » efface tout cela — et avec, la différence entre un ordre lancé au cosmos et une phrase dite à un homme.
+
+## Formes
+
+vayedabber · dibber

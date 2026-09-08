@@ -15,3 +15,7 @@ Le corpus distingue soigneusement ce verbe d'un autre, **dibber**, et l'ONT main
 Regarde alors ce que devient le premier chapitre. Ce n'est pas un dieu qui commande à une matière obéissante : c'est ==une parole qui assigne==, et à chaque fois une chose entre dans l'ordre. « Que la lumière soit » n'est pas un ordre donné à la lumière — la lumière n'est pas là pour l'entendre. C'est ==l'institution de la lumière==, dans le seul acte qui la fasse être.
 
 Et cela vaut aussi quand un homme ==amar==. La parole donnée engage réellement ; la bénédiction transmise ne se reprend pas ; le nom prononcé fait entrer dans l'ordre. On ne récupère pas ce qui a été formulé.
+
+## Formes
+
+vayomer · vayomru · vaʾomar · amarti

@@ -19,3 +19,7 @@ Laquelle ? Le texte l'a dit juste avant : *ezer kenegdo* — un appui qui fait f
 Et le matériau dit le reste. Elle n'est pas bâtie de la terre, comme lui, mais ==de lui== : os de ses os, chair de sa chair. Ce n'est pas une origine subordonnée, c'est une ==parenté de substance== — la même que celle qui liait l'adam à l'*adamah*, transposée d'un cran. Chacun est tiré de ce à quoi il est destiné.
 
 Le corpus emploie ailleurs le même verbe pour ce qu'on dresse afin qu'il dure : les villes de ==Nimrod==, la tour de ==Bavel==, le **mizbeach** qu'on relève après les eaux.
+
+## Formes
+
+vayiven · banah

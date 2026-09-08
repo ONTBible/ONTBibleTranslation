@@ -62,3 +62,7 @@ structure de ce qu'il est.
 
 On écrit parfois « lakach ». C'est deux fautes en un mot : le ==qof== (ק) se rend
 `q`, et la finale est un ==het== (ח), donc `ch`. La forme juste est **laqach**.
+
+## Formes
+
+vayiqqach · laqach · vatiqqach

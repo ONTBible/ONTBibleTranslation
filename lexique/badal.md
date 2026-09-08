@@ -13,3 +13,7 @@ Le mot survit dans un geste que les familles juives font encore chaque semaine. 
 Ce qui donne son poids à ce que fait le **mabbul**. Les eaux d'en haut et les eaux d'en bas se rejoignent : c'est la séparation du deuxième jour qui lâche. Le monde ne subit pas une inondation, il ==perd sa limite== — et sans limite, il redevient ce qu'il était avant qu'on l'ouvre.
 
 Et c'est ce qui rattache ce verbe à toute une famille. La **binah** sépare entre deux choses ; le **qodesh** est ce qui a été mis à part ; le **tahor** est ce dont l'état permet le contact. Séparer, distinguer, discerner : un seul geste, décliné du cosmos jusqu'au seuil du sanctuaire.
+
+## Formes
+
+vayavdel · lehavdil · ulehavdil
