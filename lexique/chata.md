@@ -1,5 +1,11 @@
 # chata
 
+## Prononciation
+
+`cha-TA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 Un homme lance une pierre à la fronde et manque la cible. Le verbe qu'on emploie pour dire qu'il a manqué est ==chata== (*chata* / חָטָא). Le corpus l'utilise en ce sens matériel — des frondeurs qui ne ratent pas d'un cheveu — et c'est de là qu'il faut partir.
 
 Car c'est le même mot qui dit ce que nous appelons pécher. Non pas parce que la faute serait une maladresse, mais parce que l'hébreu la pense comme ==un écart par rapport à une destination==. Une flèche qui n'atteint pas la marque, un acte qui rate ce à quoi il était destiné.

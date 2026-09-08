@@ -1,5 +1,9 @@
 # Seva
 
+## Prononciation
+
+`Se-VA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Seva* / סְבָא) désigne des ==peuples de l'Arabie du Sud ou de l'Afrique orientale== — les deux rives de la mer Rouge, que le monde antique ne séparait pas nettement.

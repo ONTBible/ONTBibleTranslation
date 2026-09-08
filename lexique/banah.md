@@ -1,5 +1,11 @@
 # banah
 
+## Prononciation
+
+`ba-NAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Deux verbes, deux façons de faire un être humain, et le texte prend soin de ne pas employer le même.
 
 Pour l'adam : *yatsar*, le verbe du potier. On pétrit, on modèle, on donne forme à une matière molle avec les mains. Le mot est celui de l'artisan penché sur son tour.

@@ -1,5 +1,11 @@
 # Put
 
+## Prononciation
+
+`POUT` — une syllabe.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Put* / פּוּט) désigne ==la Libye== — le territoire à l'occident de [[Mitsrayim]], sur la côte africaine.

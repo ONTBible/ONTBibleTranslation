@@ -1,5 +1,11 @@
 # Chitti
 
+## Prononciation
+
+`Chit-TI` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 (*Chitti* / הַחִתִּי) — ==celui de [[Chet]]==. Le **Shem** du peuple est celui de son père : la table des nations fait de [[Chet]] le second fils de [[Kena'an]], et le corpus dit *benei Chet*, ==les fils de Chet==, là où il dira ailleurs « le Chitti ». Un seul mot au singulier gentilice pour toute une maison.

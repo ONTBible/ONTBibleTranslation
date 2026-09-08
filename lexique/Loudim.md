@@ -1,5 +1,9 @@
 # Loudim
 
+## Prononciation
+
+`Lou-DIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Loudim* / לוּדִים) — un ==peuple d'Afrique du Nord==, dans la sphère de [[Mitsrayim]].

@@ -1,5 +1,9 @@
 # Moav
 
+## Prononciation
+
+`Mo-AV` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Moav* / מוֹאָב) — le corpus l'entend comme *me'av* (*me'av* / מֵאָב) : ==du père==.

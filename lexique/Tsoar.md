@@ -1,5 +1,11 @@
 # Tsoar
 
+## Prononciation
+
+`Tso-AR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 De *tsa'ar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.

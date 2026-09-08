@@ -1,5 +1,9 @@
 # Gomer
 
+## Prononciation
+
+`Go-MER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *gamar* (*gamar* / גָּמַר) — ==achever, mener à son terme==. Le verbe ne dit pas la fin qui arrête, mais celle qui ==complète== : ce qui manquait a été apporté.

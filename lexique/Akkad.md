@@ -1,5 +1,9 @@
 # Akkad
 
+## Prononciation
+
+`Ak-KAD` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Akkad* / אַכַּד) est la ville qui donnera son nom à ==l'empire akkadien de Sargon== — le premier grand empire sémitique de l'histoire.

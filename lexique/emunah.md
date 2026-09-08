@@ -1,5 +1,13 @@
 # emunah
 
+## Prononciation
+
+`e-mou-NAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 Un enfant porté sur le bras d'une nourrice. Un poteau planté qui tient la tente contre le vent. Une main qu'on relève, et qui reste levée parce qu'un autre la soutient. Ces trois images viennent de la même racine que ==emunah== (*emunah* / אֱמוּנָה), et elles disent toutes la même chose : ==ce qui tient bon, et sur quoi on peut s'appuyer==.
 
 Ce n'est donc pas ce que nous appelons la foi. Notre foi est une adhésion de l'esprit : croire que quelque chose est vrai sans pouvoir le prouver, un contenu qu'on tient pour tel. L'==emunah== ne dit rien d'un contenu. Elle dit ==une fidélité qui dure== — un appui qui ne cède pas quand on met du poids dessus.

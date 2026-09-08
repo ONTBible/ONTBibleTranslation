@@ -1,5 +1,11 @@
 # Ishah
 
+## Prononciation
+
+`I-SHAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Un homme dort. Quand il se réveille, quelqu'un se tient devant lui, et ce qu'il dit n'est pas « voici une femme » — c'est ==os de mes os, chair de ma chair==. Puis il la nomme : celle-ci sera appelée ==Ishah== (*Ishah* / אִשָּׁה), parce qu'elle a été prise de l'==Ish==.
 
 Retiens le verbe que le texte emploie pour ce qui vient de se passer. Elle n'a pas été façonnée comme l'adam l'avait été, du sol pétri entre des mains : elle a été ==édifiée== — *banah*, le verbe qu'on emploie pour un mur, une maison, une ville. On ne bâtit pas au hasard : on bâtit ==pour==. Ce qui a été édifié là l'a été pour ==faire face==.

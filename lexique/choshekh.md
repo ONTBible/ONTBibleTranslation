@@ -1,5 +1,15 @@
 # choshekh
 
+## Prononciation
+
+`cho-SHEKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 Ferme les yeux dans une pièce que tu connais : tu sais encore où sont les murs. Descends maintenant dans une grotte, éteins, attends. Au bout d'un moment, ce n'est plus une pièce sombre — c'est ==un espace sans bords==. Tu ne sais plus si tu peux tendre le bras.
 
 C'est cela, le ==choshekh== (*choshekh* / חֹשֶׁךְ). Non pas l'obscurité comme diminution de lumière, mais ==l'impossibilité de distinguer quoi que ce soit== — donc l'impossibilité qu'il y ait des choses, puisque une chose est ce qui a une limite.

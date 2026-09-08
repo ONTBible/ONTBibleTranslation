@@ -1,5 +1,11 @@
 # Tuval
 
+## Prononciation
+
+`Tou-VAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Tuval* / תּוּבָל) désigne ==les peuples d'Anatolie orientale==, dans les hautes terres entre la mer Noire et le Taurus.

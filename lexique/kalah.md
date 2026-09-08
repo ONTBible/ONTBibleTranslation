@@ -1,5 +1,11 @@
 # kalah
 
+## Prononciation
+
+`ka-LAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Le septième jour s'ouvre sur ce verbe : les Cieux et l'**eretz** furent ==kalah== (*kalah* / כָּלָה), avec toute leur armée. On traduit « furent achevés », et le mot français penche du côté de *terminé* — la fin d'un travail, le moment où l'on s'arrête.
 
 L'hébreu penche de l'autre côté. ==Kalah== dit ==être complet, être plein, être accompli dans sa totalité== — non pas que le travail cesse, mais qu'il ==ne manque plus rien==. La nuance est celle qui sépare un chantier interrompu d'une maison finie.

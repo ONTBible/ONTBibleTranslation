@@ -1,5 +1,9 @@
 # Oust
 
+## Prononciation
+
+`OOUST` — une syllabe.
+
 ## Le Shem
 
 (*Oust* / עוּץ) — ==le pays d'Outs==, quelque part dans la sphère araméenne, à l'orient ou au midi-orient de [[Kena'an]].

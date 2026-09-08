@@ -1,5 +1,11 @@
 # melakhah
 
+## Prononciation
+
+`me-la-KHAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 Le mot qui désigne ce dont **Elohim** cesse au septième jour : toute sa ==melakhah== (*melakhah* / מְלַאכָה), l'ouvrage qu'il avait fait. Et c'est un mot précis, qu'il ne faut pas traduire par « travail » tout court.
 
 ==Melakhah== est ==le travail qualifié== — celui du métier, de la conception, de l'exécution réfléchie. Pas la peine, pas l'effort brut, pas ce qu'on fait à la sueur de son front. Un artisan a une ==melakhah== ; un homme qui porte des pierres n'en a pas.

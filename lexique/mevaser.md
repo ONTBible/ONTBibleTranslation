@@ -1,5 +1,9 @@
 # mevaser
 
+## Prononciation
+
+`me-va-SER` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 La bataille s'est jouée loin, dans une vallée que la ville ne voit pas. Sur le
 rempart, une sentinelle scrute la route.
 

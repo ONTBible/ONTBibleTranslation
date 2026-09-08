@@ -1,5 +1,13 @@
 # Kheruvim
 
+## Prononciation
+
+`Khe-rou-VIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Kheruvim* / הַכְּרֻבִים) — pluriel de *keruv*. L'étymologie est débattue ; on la rapproche d'une racine akkadienne qui dit ==celui qui intercède== ou ==qui bénit==.

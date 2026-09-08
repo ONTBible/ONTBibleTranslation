@@ -1,5 +1,11 @@
 # tehom
 
+## Prononciation
+
+`te-HOM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Avant tout, il y a de l'eau. Pas une mer avec des rivages — de l'eau sans fond et sans bord, où rien ne flotte parce qu'il n'y a ni haut ni bas. L'hébreu l'appelle ==tehom== (*tehom* / תְהוֹם), et c'est sur sa face que la **Ruach** plane au deuxième verset.
 
 Les voisins connaissaient ce mot, ou son cousin. Dans le grand poème babylonien, l'eau primordiale est une déesse, ==Tiamat== — une puissance qu'il faut vaincre, et dont le corps fendu en deux fera le ciel et la terre. La ressemblance des noms n'est pas fortuite : les langues sont parentes, et le motif circulait partout.

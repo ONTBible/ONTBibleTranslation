@@ -1,5 +1,9 @@
 # navi
 
+## Prononciation
+
+`na-VI` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Un homme se tient à la porte d'une ville et dit ce qui va arriver. C'est l'image que nous avons du prophète, et elle est fausse aux trois quarts.
 
 Regarde ce que les **neviim** du corpus font réellement, page après page. Ils regardent ==ce qui est== : des poids faussés dans les sacs des marchands, une veuve dépouillée, un roi qui bâtit son palais avec un travail impayé, un culte irréprochable dans un pays où le droit ne tient plus. Puis ils prononcent le **mishpat** sur ce qu'ils voient — ils disent où l'alliance est tenue et où elle est trahie.

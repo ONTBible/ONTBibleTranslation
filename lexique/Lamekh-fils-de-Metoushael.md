@@ -1,5 +1,11 @@
 # Lamekh, fils de Metoushaël
 
+## Prononciation
+
+`La-MEKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 Le nom s'écrit (*Lamekh* / לֶמֶךְ), et son étymologie se dérobe — c'est déjà un fait. Les racines proposées — quelque chose comme *le vigoureux* — restent des conjectures, et le texte ne l'explique pas.

@@ -1,5 +1,9 @@
 # Bela
 
+## Prononciation
+
+`Be-LA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Bela* / בֶּלַע) — et le texte précise aussitôt : ==c'est [[Tsoar]]==.

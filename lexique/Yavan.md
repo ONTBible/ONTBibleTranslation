@@ -1,5 +1,11 @@
 # Yavan
 
+## Prononciation
+
+`Ya-VAN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Yavan* / יָוָן) est le nom hébreu de ==la Grèce== — plus exactement des Ioniens, les Grecs d'Asie Mineure que le Proche-Orient rencontrait le premier. Le mot et *Iônia* sont le même nom.

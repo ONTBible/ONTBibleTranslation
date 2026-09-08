@@ -1,5 +1,9 @@
 # Emori
 
+## Prononciation
+
+`E-mo-RI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Emori* / הָאֱמֹרִי) — ==les Emori==, peuple majeur présent à la fois en [[Kena'an]] et en [[Shin'ar]]. L'un des plus étendus de la région.

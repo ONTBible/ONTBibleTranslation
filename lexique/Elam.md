@@ -1,5 +1,9 @@
 # Elam
 
+## Prononciation
+
+`E-LAM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Elam* / עֵילָם) — ==l'Élam==, empire antique à l'orient de [[Shin'ar]], dans l'actuel Iran du midi-occident.

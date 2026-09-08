@@ -1,5 +1,11 @@
 # adamah
 
+## Prononciation
+
+`a-da-MAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Ce n'est ni la planète, ni le territoire, ni le paysage. L'==adamah== (*adamah* / אֲדָמָה) est ==la terre qu'on retourne== — la glaise sous l'ongle, celle qui colle aux mains, celle dont on tire du pain à condition d'y passer ses journées.
 
 L'hébreu a d'autres mots pour le reste. *Erets* dit le pays, le territoire, ce qu'un peuple habite et ce qu'un roi gouverne. L'==adamah== est plus petite et plus concrète : c'est le sol, à portée de bêche.

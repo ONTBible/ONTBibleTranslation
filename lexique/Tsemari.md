@@ -1,5 +1,11 @@
 # Tsemari
 
+## Prononciation
+
+`Tse-ma-RI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 (*Tsemari* / הַצְּמָרִי) — peut-être ==Sumur==, la Simyra des textes égyptiens : un des ports phéniciens du septentrion, sur la côte syrienne.

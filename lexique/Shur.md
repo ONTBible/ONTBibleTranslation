@@ -1,5 +1,13 @@
 # Shur
 
+## Prononciation
+
+`SHOUR` — une syllabe.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Shur* / שׁוּר) — d'une racine qui dit ==le mur==, la muraille : peut-être la ligne de fortifications qui fermait la frontière orientale de [[Mitsrayim]].

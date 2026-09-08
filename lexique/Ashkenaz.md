@@ -1,5 +1,11 @@
 # Ashkenaz
 
+## Prononciation
+
+`Ash-ke-NAZ` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Ashkenaz* / אַשְׁכְּנַז) désigne ==les peuples des steppes au septentrion de la mer Noire== — les *Ashkuza* que les textes assyriens nomment, cavaliers redoutés.

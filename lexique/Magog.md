@@ -1,5 +1,9 @@
 # Magog
 
+## Prononciation
+
+`Ma-GOG` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Magog* / מָגוֹג) désigne ==un territoire au-delà du Caucase== — le lointain septentrion, la limite de ce que le monde connu pouvait nommer.

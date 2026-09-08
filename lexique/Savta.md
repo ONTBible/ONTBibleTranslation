@@ -1,5 +1,9 @@
 # Savta
 
+## Prononciation
+
+`Sav-TA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Savta* / סַבְתָּא) — probablement ==une ville portuaire de l'Arabie du Sud==, peut-être Shabwat, capitale du royaume de Hadramaout.

@@ -1,5 +1,11 @@
 # Shet
 
+## Prononciation
+
+`SHET` — une syllabe.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 De *shat* (*shat* / שׁוּת) — poser, placer, établir. Pas « donner » : ==poser==, comme on pose une pierre à un endroit choisi et qu'elle y reste.

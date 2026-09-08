@@ -1,5 +1,13 @@
 # Ninveh
 
+## Prononciation
+
+`Nin-VEH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Ninveh* / נִינְוֵה) — la grande ville d'Assur, sur le Tigre. Le corpus la fait fonder par [[Nimrod]], qui ==sort de [[Shin'ar]] vers Assur== pour la bâtir.

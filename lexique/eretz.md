@@ -1,5 +1,9 @@
 # eretz
 
+## Prononciation
+
+`e-RETZ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Deux mots pour ce que le français appelle la terre, et le corpus ne les confond jamais. L'**adamah** est le sol qu'on retourne, la glaise sous l'ongle, ce dont l'homme est tiré. L'==eretz== (*eretz* / אֶרֶץ) est autre chose : ==le domaine terrestre habitable== — l'espace dégagé où l'on vit, par opposition aux eaux et aux Cieux.
 
 Le mot apparaît au premier verset, apparié aux *shamayim* : les Cieux et l'==Eretz==, c'est-à-dire ==les deux domaines==, en haut et en bas. Rien à voir avec un globe : c'est une répartition de l'espace en zones dont chacune a ses habitants et ses fonctionnaires. Les oiseaux volent sur la face du **raqia**, les poissons remplissent les eaux, les bêtes et l'homme tiennent l'==eretz==.

@@ -1,5 +1,11 @@
 # barakh
 
+## Prononciation
+
+`ba-RAKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 Un père pose la main sur son fils et dit quelques mots. Le fils repart, et sa vie s'en trouve changée — non parce qu'il se sent encouragé, mais parce que ==quelque chose lui a été transmis== qu'il n'avait pas. Dans ce monde-là, ce transfert est réel : c'est pourquoi une bénédiction volée ne se rend pas, et pourquoi ==Yitzchak== ne peut pas la reprendre à ==Yaakov== une fois qu'elle est partie.
 
 C'est ce qui doit être compris avant tout : ==barakh== (*barakh* / בָּרַךְ) ne décrit pas un souhait. C'est ==la transmission d'une capacité fonctionnelle active== — la puissance de croître, de porter, de tenir son office.

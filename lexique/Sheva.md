@@ -1,5 +1,11 @@
 # Sheva
 
+## Prononciation
+
+`She-VA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Sheva* / שְׁבָא) est ==le pays de Saba== — les Sabéens de l'Arabie du Sud, maîtres des routes de l'encens.

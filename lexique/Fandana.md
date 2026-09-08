@@ -1,5 +1,11 @@
 # Fandana
 
+## Prononciation
+
+`Fan-da-NA` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## D'où viennent les marchands
 
 Un enfant conduit un âne chargé de cinq dieux vers l'auberge, pour les vendre. Sur la route, il croise des marchands venus de ==Fandana== en [[Aram]], avec des chameaux, qui descendent vers [[Mitsrayim]] pour commercer.

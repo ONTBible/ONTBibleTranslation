@@ -1,5 +1,9 @@
 # Iska
 
+## Prononciation
+
+`Is-KA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Iska* / יִסְכָּה) — l'étymologie est incertaine ; on y a entendu une racine du regard, *sakah*, celle de celui qui contemple ou de celle qu'on regarde.

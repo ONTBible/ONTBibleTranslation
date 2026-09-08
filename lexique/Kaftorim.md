@@ -1,5 +1,9 @@
 # Kaftorim
 
+## Prononciation
+
+`Kaf-to-RIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Kaftorim* / כַּפְתֹּרִים) — ==Kaphtor==, la Crète, ou plus largement les peuples de la mer Égée.

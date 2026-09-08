@@ -1,5 +1,13 @@
 # Kasluchim
 
+## Prononciation
+
+`Kas-lou-CHIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Kasluchim* / כַּסְלֻחִים) — un peuple de la ==côte méditerranéenne orientale==. Sa localisation exacte est débattue, et l'ONT ne tranche pas.

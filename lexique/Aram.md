@@ -1,5 +1,9 @@
 # Aram
 
+## Prononciation
+
+`A-RAM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Aram* / אֲרָם) — ==les Araméens==, peuples des steppes et des cités de Syrie et de haute Mésopotamie.

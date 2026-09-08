@@ -1,5 +1,9 @@
 # Sarai, devenue Sarah
 
+## Prononciation
+
+`Sa-ra-I` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Les deux Shem
 
 Elle en porte deux, et le passage de l'un à l'autre se lit dans une seule lettre.

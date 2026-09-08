@@ -1,5 +1,11 @@
 # Dan
 
+## Prononciation
+
+`DAN` — une syllabe.
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Dan* / דָּן) — de *din*, ==juger==. Le **Shem** paraît ici non comme une tribu mais comme ==un lieu== : Laïsh, la ville la plus septentrionale du pays, qui prendra ce nom.

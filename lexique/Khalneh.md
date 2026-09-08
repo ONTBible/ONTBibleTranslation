@@ -1,5 +1,11 @@
 # Khalneh
 
+## Prononciation
+
+`Khal-NEH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 (*Khalneh* / כַּלְנֵה) — une ville du pays de [[Shin'ar]], dans le domaine de [[Nimrod]].

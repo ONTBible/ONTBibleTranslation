@@ -1,5 +1,11 @@
 # El Shaddai
 
+## Prononciation
+
+`El Shad-DAI` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Un homme de quatre-vingt-dix-neuf ans, sans enfant de sa **Ishah**, à qui l'on a promis une descendance innombrable vingt-quatre ans plus tôt. C'est à ce moment précis — pas avant — qu'un nom nouveau est prononcé : ==Je suis El Shaddai==.
 
 Retiens le moment plutôt que l'étymologie, parce que le moment est sûr et l'étymologie ne l'est pas. Les savants hésitent depuis longtemps entre trois pistes : *shadad*, la puissance qui l'emporte ; l'akkadien *shadu*, la montagne, ce qui domine et ne bouge pas ; et une lecture rabbinique, *she-daï* — ==celui qui suffit==. Aucune ne s'impose, et le corpus ne tranche pas.

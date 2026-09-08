@@ -1,5 +1,11 @@
 # Serug
 
+## Prononciation
+
+`Se-ROUG` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Serug* / שְׂרוּג) — d'une racine qui dit ==l'entrelacement==, ce qui s'enroule et se tresse.

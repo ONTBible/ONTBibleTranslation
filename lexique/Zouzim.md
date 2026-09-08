@@ -1,5 +1,9 @@
 # Zouzim
 
+## Prononciation
+
+`Zou-ZIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Zouzim* / זוּזִים) — peuple ancien de la Transjordanie, frappé par la coalition à [[Ham]].

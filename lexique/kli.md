@@ -1,5 +1,9 @@
 # kli
 
+## Prononciation
+
+`KLI` — une syllabe.
+
 Entre dans l'atelier où l'on prépare le Mishkan.
 
 Il y a là du bois d'acacia, de l'or, du bronze. Et il y a un homme qui creuse

@@ -1,5 +1,9 @@
 # Arvadi
 
+## Prononciation
+
+`Ar-va-DI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Arvadi* / הָאַרְוָדִי) — ==Arvad==, île-cité phénicienne au large de la côte syrienne.

@@ -1,5 +1,9 @@
 # Oval
 
+## Prononciation
+
+`O-VAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Oval* / עֹבָל) — variante possible d'*Eval*. Peu attesté hors de cette liste.

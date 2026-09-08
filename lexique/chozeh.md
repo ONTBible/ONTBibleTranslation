@@ -1,5 +1,11 @@
 # chozeh
 
+## Prononciation
+
+`cho-ZEH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 Il y a voir, et il y a ==tenir son regard sur quelque chose jusqu'à ce que la
 chose s'ouvre==.
 

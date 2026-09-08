@@ -1,5 +1,11 @@
 # Chet
 
+## Prononciation
+
+`CHET` — une syllabe.
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 (*Chet* / חֵת) — ==les Hittites==. Il est l'ancêtre éponymique des *beni Chet*, les fils de Chet.

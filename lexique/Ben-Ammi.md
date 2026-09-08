@@ -1,5 +1,9 @@
 # Ben-Ammi
 
+## Prononciation
+
+`Ben Am-MI` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Ben-Ammi* / בֶּן־עַמִּי) — ==fils de mon parent==, ou *fils de mon peuple*. ==Le **Shem** dit la parenté proche==.

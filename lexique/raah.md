@@ -1,5 +1,13 @@
 # ra'ah
 
+## Prononciation
+
+`ra-'AH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Sept fois dans le premier chapitre, **Elohim** ==ra'ah== (*ra'ah* / רָאָה). On traduit « il vit », et le lecteur imagine un regard admiratif posé sur un beau paysage.
 
 Le verbe travaille autrement. C'est ==le regard du maître d'œuvre== — celui qui parcourt le chantier à la fin de la journée, qui vérifie un aplomb, qui met la main sur un joint. On ne contemple pas : ==on inspecte==.

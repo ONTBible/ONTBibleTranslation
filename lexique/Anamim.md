@@ -1,5 +1,9 @@
 # Anamim
 
+## Prononciation
+
+`A-na-MIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Anamim* / עֲנָמִים) — localisation incertaine. Peut-être une région du ==Delta du Nil==, peut-être la côte cyrénéenne.

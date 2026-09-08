@@ -1,5 +1,9 @@
 # avad
 
+## Prononciation
+
+`a-VAD` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 L'homme est placé dans le Jardin pour deux choses : ==avad== (*avad* / עָבַד) et *shamar*. On traduit ordinairement par « cultiver et garder », et le lecteur imagine un jardinier avec ses outils. Ce n'est pas faux, et ça manque l'essentiel.
 
 Car ces deux verbes-là forment une paire, et la paire a un usage précis dans le corpus : c'est ==le travail des lévites dans le Tabernacle==. Ils ==avad== le sanctuaire et ils le *shamar*. Les deux mêmes mots, dans le même ordre, pour ce que fait un desservant.

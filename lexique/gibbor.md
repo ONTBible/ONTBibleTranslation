@@ -1,5 +1,9 @@
 # gibbor
 
+## Prononciation
+
+`gib-BOR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 On l'entend arriver avant de le voir. Les voix baissent, les enfants rentrent, quelqu'un calcule déjà ce qu'il faudra donner pour qu'il passe son chemin. Il ne prendra peut-être rien — la question n'est pas là. Le fait est qu'il ==pèse==, et que le village s'organise autour de ce poids.
 
 Voilà le ==gibbor== (*gibbor* / גִּבֹּר). La racine est *gabar* : l'emporter, prévaloir. Non pas la force du bras, qui n'est qu'un moyen : ==la capacité de faire plier une situation==.

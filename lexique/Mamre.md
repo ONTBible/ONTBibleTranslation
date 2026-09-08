@@ -1,5 +1,9 @@
 # Mamre
 
+## Prononciation
+
+`Mam-RE` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Mamre* / מַמְרֵא) — le corpus emploie la formule ==*elonei Mamre*==, les chênes ou térébinthes de Mamre.

@@ -1,5 +1,9 @@
 # basar
 
+## Prononciation
+
+`ba-SAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Ce que « chair » a perdu en route
 
 Quand tu lis « la chair » dans une Bible française, tu entends presque

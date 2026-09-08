@@ -1,5 +1,13 @@
 # Tsidon
 
+## Prononciation
+
+`Tsi-DON` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Tsidon* / צִידֹן) — ==Sidon==, la grande cité phénicienne de la côte. Elle est le ==fils premier-né de [[Kena'an]]== : dans cette table, ==la Phénicie est l'aîné du monde kena'ani==.

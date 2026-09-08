@@ -1,5 +1,11 @@
 # YHWH
 
+## Prononciation
+
+`YHWH` — une syllabe.
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Tu es devant un buisson qui brûle sans se consumer, dans un désert où tu gardes les bêtes d'un autre. Une voix t'envoie devant un roi. Tu poses la question qu'un homme de ce temps-là pose forcément : *si l'on me demande quel est ton nom, que dirai-je ?* — parce qu'un dieu sans nom n'est l'interlocuteur de personne, et qu'on ne se présente pas devant Pharaon au nom d'une puissance anonyme.
 
 La réponse que tu reçois n'est pas une définition. C'est ==Ehyeh asher Ehyeh==. On la traduit « Je suis celui qui suis », et cette formule sent la métaphysique grecque à plein nez — l'Être qui se fonde lui-même. L'hébreu n'a pas cette pensée. Son verbe *hayah* ne dit pas la substance qui subsiste, il dit ==la présence qui agit== : celle qui se tient là et opère. Entends plutôt : ==Je serai là comme je serai là==. Ce n'est pas une réponse sur ce qu'il est. C'est une promesse d'accompagnement.

@@ -1,5 +1,9 @@
 # Yaphet
 
+## Prononciation
+
+`Ya-PHET` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *pata* (*pata* / פָּתָה) — étendre, élargir, faire de la place.

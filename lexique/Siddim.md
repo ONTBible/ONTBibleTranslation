@@ -1,5 +1,9 @@
 # Siddim
 
+## Prononciation
+
+`Sid-DIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Siddim* / הַשִּׂדִּים) — la vallée où les deux coalitions s'affrontent. Le corpus précise aussitôt : ==c'est la mer du Sel==.

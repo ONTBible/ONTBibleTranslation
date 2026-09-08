@@ -1,5 +1,15 @@
 # Guihon
 
+## Prononciation
+
+`Gou-i-HON` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 De *giach* (*giach* / גִּיחַ) — ==jaillir, sourdre avec force==.

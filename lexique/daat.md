@@ -1,5 +1,11 @@
 # da'at
 
+## Prononciation
+
+`da-'AT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
 Un berger entre dans son enclos au petit jour. On lui demanderait combien il a de bêtes qu'il hésiterait peut-être. Mais il sait laquelle boitera avant qu'elle boite, laquelle mettra bas la première, laquelle s'écarte quand l'orage monte. Il ne les a pas comptées : il a passé ses nuits avec elles.
 
 C'est cela, ==yada==. Et c'est pourquoi, quand le texte dit que **l'Être façonné du sol** ==connut== ==Chavah== sa femme et qu'elle conçut, le lecteur français croit lire une pudeur — une façon polie de ne pas nommer la chose. Il n'y a aucune pudeur. Le mot est employé dans son sens ==plein== : il n'existe pas de connaissance plus exacte de quelqu'un que celle-là, et la langue n'en cherche pas d'autre.

@@ -1,5 +1,13 @@
 # sherets
 
+## Prononciation
+
+`she-RETS` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 Le cinquième jour, les eaux ==sherets== (*sherets* / שֶׁרֶץ) — et le verbe ne dit pas qu'elles se remplissent : il dit qu'elles ==fourmillent==. Une eau vue de près, en été, où l'on ne distingue plus les individus mais un mouvement continu.
 
 Le ==sherets== est cette catégorie-là : ==le grouillement dense et foisonnant==, propre au milieu aquatique. Ce n'est pas une espèce, pas même un groupe d'espèces — c'est ==une façon d'occuper un domaine==, par le nombre plutôt que par la taille.

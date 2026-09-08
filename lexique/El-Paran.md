@@ -1,5 +1,9 @@
 # El-Paran
 
+## Prononciation
+
+`El Pa-RAN` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 *El* peut être ici ==le grand arbre== — comme dans *elon* — ou le nom divin. ==Paran== est le désert au midi.

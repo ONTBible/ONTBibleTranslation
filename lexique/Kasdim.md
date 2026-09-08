@@ -1,5 +1,9 @@
 # Kasdim
 
+## Prononciation
+
+`Kas-DIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Kasdim* / כַּשְׂדִּים) est le nom hébreu du peuple de la basse Mésopotamie, dans le pays des deux fleuves, là où l'Euphrate ralentit avant les marais.

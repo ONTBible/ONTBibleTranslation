@@ -1,5 +1,11 @@
 # Ra'ama
 
+## Prononciation
+
+`Ra-'a-MA` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
 ## Le Shem
 
 (*Ra'ama* / רַעְמָה) désigne des ==peuples de l'Arabie du Sud==, dans la région des routes de l'encens.

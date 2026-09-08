@@ -1,5 +1,13 @@
 # Pishon
 
+## Prononciation
+
+`Pi-SHON` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 De *push* (*push* / פּוּשׁ) — ==se répandre, jaillir en abondance==.

@@ -1,5 +1,9 @@
 # Tiras
 
+## Prononciation
+
+`Ti-RAS` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Tiras* / תִּירָס) — probablement ==les Thraces==, ou les Tyrrhéniens de la mer occidentale. L'identification n'est pas assurée, et l'ONT ne tranche pas ce que le corpus laisse ouvert.

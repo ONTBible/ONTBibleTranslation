@@ -1,5 +1,9 @@
 # moed
 
+## Prononciation
+
+`mo-ED` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Deux personnes conviennent de se retrouver à un endroit, un jour donné. Le mot pour ce point fixé dans le temps est ==moed== (*moed* / מוֹעֵד) — de *ya'ad*, fixer un rendez-vous, convenir d'une rencontre.
 
 C'est pour cela que les luminaires sont installés. Le texte le dit au quatrième jour : ils sont là pour marquer les ==moadim==, les jours et les années. Non pas pour éclairer — pour ==tenir le calendrier des rencontres==. Le soleil et la lune sont des horloges au service de rendez-vous.

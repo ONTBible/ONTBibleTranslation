@@ -1,5 +1,11 @@
 # qara
 
+## Prononciation
+
+`qa-RA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 **Elohim** sépare la lumière de l'obscurité — puis il ==qara== (*qara* / קָרָא) l'une jour, et l'autre nuit. Nous lisons : il leur donna un nom. Et nous croyons à un geste second, une commodité pour s'y retrouver, une étiquette posée après coup sur des choses déjà là.
 
 Ce n'est pas ce que le texte fait. Dans ce monde, ==nommer achève de faire exister==. Le grand poème babylonien s'ouvre là-dessus : *lorsque, en haut, le ciel n'était pas encore nommé*, rien n'était. Séparer trace la frontière ; ==qara== ==installe dans l'office== ce que la frontière délimite. Les deux gestes forment une opération, pas une action et son étiquetage.

@@ -1,5 +1,11 @@
 # Yarden
 
+## Prononciation
+
+`Yar-DEN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Yarden* / יַרְדֵּן) — ==le Jourdain==. De *yarad*, descendre : le fleuve porte dans son **Shem** ==le mouvement qui le définit==, une descente continue jusqu'à la mer la plus basse du monde.

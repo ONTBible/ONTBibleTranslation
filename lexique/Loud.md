@@ -1,5 +1,9 @@
 # Loud
 
+## Prononciation
+
+`LOUD` — une syllabe.
+
 ## Le Shem
 
 (*Loud* / לוּד) — les Lydiens d'Anatolie occidentale, dans la sphère sémitique.

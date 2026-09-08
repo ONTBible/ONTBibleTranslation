@@ -1,5 +1,9 @@
 # Kedorlaomer
 
+## Prononciation
+
+`Ke-dor-la-o-MER` — cinq syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Kedorlaomer* / כְּדָרְלָעֹמֶר) — un nom élamite, et le corpus ne l'explique pas par une racine hébraïque : ==il n'est pas de cette langue==.

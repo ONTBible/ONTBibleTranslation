@@ -1,5 +1,9 @@
 # Madai
 
+## Prononciation
+
+`Ma-da-I` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Madai* / מָדַי) — ==les Mèdes==, peuple iranien du plateau, qui formera avec les Perses l'empire médoperse.

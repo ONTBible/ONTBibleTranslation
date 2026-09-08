@@ -1,5 +1,9 @@
 # Dodanim
 
+## Prononciation
+
+`Do-da-NIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Dodanim* / דֹּדָנִים) — peut-être ==les Dardaniens==, peut-être ==les Rhodiens== : des peuples insulaires de la mer Égée. L'ONT ne tranche pas ce que le corpus laisse ouvert.

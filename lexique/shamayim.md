@@ -1,5 +1,11 @@
 # shamayim
 
+## Prononciation
+
+`sha-ma-YIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Le mot est un pluriel, comme *mayim*, les eaux — et l'oreille hébraïque entend la parenté. L'étymologie la plus probable dit d'ailleurs quelque chose comme ==là où sont les eaux==, ce qui n'est pas une fantaisie : quiconque a vu tomber la pluie sait qu'il y a de l'eau au-dessus.
 
 Ce n'est donc pas notre ciel — l'espace, l'atmosphère, l'infini où flottent des galaxies. Les ==shamayim== (*shamayim* / שָׁמַיִם) sont ==le domaine d'en haut== : la zone qui commence au-dessus du **raqia**, avec ses eaux, ses habitants et ses fonctionnaires. Un étage du bâtiment, pas une abstraction.

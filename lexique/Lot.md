@@ -1,5 +1,9 @@
 # Lot
 
+## Prononciation
+
+`LOT` — une syllabe.
+
 ## Le Shem
 
 De *lut* (*lut* / לוּט) — ==s'envelopper, se couvrir, voiler==. Un **Shem** d'==enveloppement et d'opacité==.

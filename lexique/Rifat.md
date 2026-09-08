@@ -1,5 +1,9 @@
 # Rifat
 
+## Prononciation
+
+`Ri-FAT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Rifat* / רִיפַת) — probablement ==les Paphlagons==, peuple côtier de l'Anatolie septentrionale, sur la mer Noire.

@@ -1,5 +1,9 @@
 # Amrafel
 
+## Prononciation
+
+`Am-ra-FEL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Amrafel* / אַמְרָפֶל) — roi de [[Shin'ar]]. L'étymologie n'est pas assurée et le corpus ne la propose pas.

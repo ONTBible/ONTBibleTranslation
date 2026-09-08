@@ -1,5 +1,9 @@
 # Azazel
 
+## Prononciation
+
+`A-za-ZEL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 L'étymologie est ==débattue==, et l'ONT ne tranche pas.

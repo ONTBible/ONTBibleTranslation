@@ -1,5 +1,9 @@
 # bara
 
+## Prononciation
+
+`ba-RA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Un verbe dont **Elohim** est le seul sujet, dans tout le corpus. Jamais un homme ne ==bara== (*bara* / בָּרָא), jamais un roi, jamais un artisan. Cette exclusivité est la première chose à savoir, et elle oriente tout le reste.
 
 La seconde est plus troublante : le texte ne dit ==jamais== avec quoi. Pas une fois. Aucune matière première n'est mentionnée, ni au premier verset, ni ailleurs — et personne, dans le texte, ne s'en étonne. Nous, si : nous voulons savoir d'où vient l'étoffe du monde. Cette question est grecque et arrive mille ans plus tard.

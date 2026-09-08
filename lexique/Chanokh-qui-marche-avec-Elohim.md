@@ -1,5 +1,13 @@
 # Chanokh, qui cheminait avec Elohim
 
+## Prononciation
+
+`Cha-NOKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 Une maison est finie. Les murs tiennent, le toit est posé, et pourtant on n'y habite pas encore — il manque le jour où l'on y entre, où elle cesse d'être un chantier pour devenir un lieu où l'on vit. Ce jour-là s'appelle *chanakh* (*chanakh* / חָנַךְ).

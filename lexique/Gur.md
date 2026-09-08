@@ -1,5 +1,11 @@
 # Gur
 
+## Prononciation
+
+`GOUR` — une syllabe.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le fleuve où l'on jette ce qui ne remonte pas
 
 Trois dieux se sont brisés en tombant d'un âne. Les marchands ont payé les morceaux au même prix que les entiers — pour eux c'est de la matière, et la matière garde son cours.

@@ -1,5 +1,11 @@
 # Aryokh
 
+## Prononciation
+
+`Ar-YOKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 (*Aryokh* / אַרְיוֹךְ) — roi d'Ellasar. Le nom est hourrite ou élamite ; il n'est pas hébreu.

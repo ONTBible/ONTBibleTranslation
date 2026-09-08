@@ -1,5 +1,9 @@
 # Aza
 
+## Prononciation
+
+`A-ZA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Aza* / עַזָּה) — ==Gaza==, sur la côte, au point où la route d'[[Mitsrayim]] entre en [[Kena'an]].

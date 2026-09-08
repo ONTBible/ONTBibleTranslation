@@ -1,5 +1,9 @@
 # El
 
+## Prononciation
+
+`EL` — une syllabe.
+
 ## Le mot que tout le monde disait
 
 Vous voyagez d'Ougarit à Babylone, et partout on vous parle du dieu d'en haut. Les langues changent, la syllabe non : (*El* / אֵל). Deux lettres, un souffle. C'est le mot le plus court et le plus partagé du Levant.

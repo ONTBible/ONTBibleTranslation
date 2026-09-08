@@ -1,5 +1,9 @@
 # Emim
 
+## Prononciation
+
+`E-MIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Emim* / אֵימִים) — d'une racine qui dit ==la terreur==. ==Les redoutables==, ou ceux qui font peur.

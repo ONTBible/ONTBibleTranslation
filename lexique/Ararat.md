@@ -1,5 +1,9 @@
 # Ararat
 
+## Prononciation
+
+`A-ra-RAT` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 Ce n'est pas un mot hébreu. (*Ararat* / אֲרָרָט) est la forme sous laquelle l'hébreu écrit ==Ourartou== — un royaume réel, situé dans les hautes terres de l'Arménie antique, au septentrion de [[Shin'ar]].

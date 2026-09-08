@@ -1,5 +1,9 @@
 # Seir
 
+## Prononciation
+
+`Se-IR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Seir* / שֵׂעִיר) — d'une racine qui dit ==le poilu, le velu==, et aussi le bouc.

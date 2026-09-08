@@ -1,5 +1,9 @@
 # Peleg
 
+## Prononciation
+
+`Pe-LEG` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *palag* (*palag* / פָּלַג) — ==fendre en deux, diviser==, et aussi creuser un canal : séparer les eaux pour les conduire.

@@ -1,5 +1,11 @@
 # Neshamah
 
+## Prononciation
+
+`Ne-sha-MAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Le premier chapitre ne montre jamais **Elohim** en train de toucher quoi que ce soit. Il formule, et cela est. Les vivants paraissent par familles, la Terre les fait sortir, tout est ordonné à distance.
 
 Puis, au chapitre suivant, quelqu'un s'agenouille dans la terre. Il pétrit. Il approche son visage — et il ==souffle dans des narines==. C'est le geste le plus proche de tout le corpus, et le mot pour ce qu'il transmet est ==Neshamah== (*Neshamah* / נְשָׁמָה).

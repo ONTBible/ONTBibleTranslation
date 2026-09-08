@@ -1,5 +1,11 @@
 # Shaveh
 
+## Prononciation
+
+`Sha-VEH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 *Shaveh* dit ==la plaine==, l'espace égal. Le texte l'appelle ==la vallée de Shaveh==, et précise : ==c'est la vallée du roi==.

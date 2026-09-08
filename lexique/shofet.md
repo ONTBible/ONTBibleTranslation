@@ -1,5 +1,11 @@
 # shofet
 
+## Prononciation
+
+`sho-FET` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Un différend dans un village. Il n'y a pas de tribunal, pas de code écrit, pas de police. Il y a des gens qui se connaissent, une affaire qui empoisonne tout le monde, et quelqu'un qu'on va chercher parce qu'il a de l'autorité et qu'il voit clair. Il écoute, il regarde, il tranche — puis chacun repart et les choses se remettent à fonctionner. Cet homme est un ==shofet== (*shofet* / שֹׁפֵט).
 
 Il vient de la même racine que le **mishpat**, la décision qui remet les parties dans l'ordre. Le ==shofet== est ==celui qui la rend==.

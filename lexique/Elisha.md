@@ -1,5 +1,11 @@
 # Elisha
 
+## Prononciation
+
+`E-li-SHA` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Elisha* / אֱלִישָׁה) — peut-être ==la Sicile==, peut-être ==Chypre== : un rivage accessible par la mer depuis la côte levantine. L'identification n'est pas assurée, et l'ONT ne tranche pas.

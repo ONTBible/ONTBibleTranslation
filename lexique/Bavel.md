@@ -1,5 +1,9 @@
 # Bavel
 
+## Prononciation
+
+`Ba-VEL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem, et la querelle qu'il porte
 
 Les Babyloniens lisaient leur ville *Bab-ilim* — ==la porte des dieux==. C'était une revendication : ici passe ce qui vient d'en haut.

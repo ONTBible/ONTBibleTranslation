@@ -1,5 +1,11 @@
 # Enosh
 
+## Prononciation
+
+`E-NOSH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 Il y a plusieurs façons de dire « humain » dans cette langue, et elles ne disent pas la même chose. C'est une richesse que le français n'a pas, et qu'il faut tenir.

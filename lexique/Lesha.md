@@ -1,5 +1,11 @@
 # Lesha
 
+## Prononciation
+
+`Le-SHA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Lesha* / לָשַׁע) — localisation incertaine. Peut-être Laïsh, au septentrion, peut-être un site de la plaine du Yarden.

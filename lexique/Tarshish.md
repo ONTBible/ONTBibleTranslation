@@ -1,5 +1,11 @@
 # Tarshish
 
+## Prononciation
+
+`Tar-SHISH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Tarshish* / תַּרְשִׁישׁ) est ==un port à l'extrémité occidentale de la Méditerranée== — probablement dans l'Hispanie. Le bout du monde navigable.

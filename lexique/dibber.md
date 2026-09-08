@@ -1,5 +1,9 @@
 # dibber
 
+## Prononciation
+
+`dib-BER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Deux verbes pour parler, et le corpus ne les emploie jamais l'un pour l'autre.
 
 **Amar** est la parole qui institue : *que la lumière soit*. Elle n'a pas besoin de destinataire — elle pose ce qu'elle nomme, et l'ONT la rend par ==formuler==.

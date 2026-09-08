@@ -1,5 +1,9 @@
 # Gerar
 
+## Prononciation
+
+`Ge-RAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Gerar* / גְּרָר) — une ville au ==midi de [[Kena'an]]==, sur la route qui descend vers [[Mitsrayim]].

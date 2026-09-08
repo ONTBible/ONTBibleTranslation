@@ -1,5 +1,9 @@
 # Négev
 
+## Prononciation
+
+`Né-GEV` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Negev* / נֶגֶב) — ==le midi==, et par extension ==la terre sèche==. Le mot dit à la fois une direction et une condition : dans ce pays, aller au midi c'est aller vers l'aride.

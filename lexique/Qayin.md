@@ -1,5 +1,13 @@
 # Qayin
 
+## Prononciation
+
+`Qa-YIN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 Un troupeau change de main. L'homme qui le reçoit ne l'a pas fabriqué, il ne l'a pas trouvé — il l'a ==obtenu==, et désormais il en répond. C'est le geste que dit *qanah* (*qanah* / קָנָה) : ==passer de ne pas avoir à avoir==, et se trouver lié à ce qu'on tient.

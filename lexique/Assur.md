@@ -1,5 +1,11 @@
 # Assur
 
+## Prononciation
+
+`As-SOUR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Assur* / אַשּׁוּר) porte trois choses à la fois, et c'est rare : ==le territoire==, ==la puissance== qui en sort, et ==le dieu national assyrien== dont la ville capitale portait le nom.

@@ -1,5 +1,13 @@
 # Re'u
 
+## Prononciation
+
+`Re-'OU` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Re'u* / רְעוּ) — de *re'a*, ==l'ami, le compagnon== — celui avec qui l'on est.

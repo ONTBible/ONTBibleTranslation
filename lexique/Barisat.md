@@ -1,5 +1,9 @@
 # Barisat
 
+## Prononciation
+
+`Ba-ri-SAT` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Fils du feu
 
 Un enfant ramasse les copeaux de l'atelier de son père pour allumer le feu de midi. Sous les éclats, il trouve un petit dieu de pin couché à sa gauche, et sur le front on a écrit son nom — parce que sans cette inscription, rien ne le distinguerait d'un morceau de bois.

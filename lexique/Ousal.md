@@ -1,5 +1,9 @@
 # Ousal
 
+## Prononciation
+
+`Oou-SAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Ousal* / אוּזָל) — probablement ==Sanaa==, l'actuelle capitale du Yémen, dont le nom antique *Awzal* est attesté.

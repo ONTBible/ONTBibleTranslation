@@ -1,5 +1,9 @@
 # Bera
 
+## Prononciation
+
+`Be-RA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Bera* / בֶּרַע) — roi de [[Sedom]]. On y a entendu *be-ra*, ==dans le mal== — mais le corpus ne propose pas cette étymologie, et l'ONT ne la retient pas.

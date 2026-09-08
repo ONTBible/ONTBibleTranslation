@@ -1,5 +1,11 @@
 # Patrusim
 
+## Prononciation
+
+`Pat-rou-SIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le Shem
 
 (*Patrusim* / פַּתְרֻסִים) — ==Patros==, la Haute [[Mitsrayim]] : le pays du midi, en amont du fleuve.

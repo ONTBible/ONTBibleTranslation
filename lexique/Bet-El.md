@@ -1,5 +1,9 @@
 # Bet-El
 
+## Prononciation
+
+`Bet El` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Bet-El* / בֵּית-אֵל) — littéralement ==la maison d'**Elohim**==.

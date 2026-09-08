@@ -1,5 +1,11 @@
 # Eden
 
+## Prononciation
+
+`E-DEN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 (*Eden* / עֵדֶן) — d'une racine qui dit ==le délice, la profusion==, et peut-être aussi, par un mot voisin, ==la steppe fertile==.

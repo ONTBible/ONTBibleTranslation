@@ -1,5 +1,9 @@
 # Refaim
 
+## Prononciation
+
+`Re-fa-IM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Refaim* / רְפָאִים) — de *rafa* : ==les ombres, les morts==. Ou bien un terme désignant ==une stature redoutable==. L'hébreu porte les deux, et l'ONT ne tranche pas.

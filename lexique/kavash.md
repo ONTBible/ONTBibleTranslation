@@ -1,5 +1,11 @@
 # kavash
 
+## Prononciation
+
+`ka-VASH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Le verbe vient juste après **radah**, dans la même phrase : *remplissez la Terre et ==kavash== (*kavash* / כָּבַשׁ)-la*. On le traduit « soumettez-la », et le mot a fait beaucoup de dégâts — il a servi d'autorisation, pendant des siècles, à prendre sans compter.
 
 Regarde ce que le verbe désigne quand le corpus l'emploie ailleurs. Il dit ==prendre possession d'un territoire pour s'y établir== : entrer dans un pays, l'occuper, y installer un peuple qui n'avait pas de sol. C'est un mot de ==prise en charge==, pas de saccage — il suppose qu'on va y vivre, donc qu'on va devoir que cela dure.

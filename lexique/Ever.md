@@ -1,5 +1,9 @@
 # Ever
 
+## Prononciation
+
+`E-VER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *avar* (*avar* / עָבַר) — ==traverser, passer de l'autre côté==.

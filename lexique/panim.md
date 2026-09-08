@@ -1,5 +1,9 @@
 # panim
 
+## Prononciation
+
+`pa-NIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Le mot est un ==pluriel==, toujours — jamais un *panim* au singulier. Un visage, en hébreu, se dit au pluriel, et cette bizarrerie est la première chose à entendre : ce n'est pas une surface, c'est ==un ensemble d'orientations==.
 
 Car les ==panim== (*panim* / פָּנִים) ne désignent pas la face comme partie du corps. Elles désignent ==le côté tourné vers== — l'orientation de quelqu'un ou de quelque chose par rapport à autre chose. C'est pourquoi le mot sert aussi bien de préposition : *lifnei*, littéralement « aux panim de », veut dire devant, en présence de, sous le regard de.

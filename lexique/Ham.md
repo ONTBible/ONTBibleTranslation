@@ -1,5 +1,11 @@
 # Ham
 
+## Prononciation
+
+`HAM` — une syllabe.
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 ## Le Shem
 
 (*Ham* / הָם) — un lieu de Transjordanie, à ne pas confondre avec [[Cham]], le fils de [[Noach]] : ==deux mots distincts en hébreu==, proches en français.

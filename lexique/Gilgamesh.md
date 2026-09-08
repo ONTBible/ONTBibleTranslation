@@ -1,5 +1,11 @@
 # Gilgamesh
 
+## Prononciation
+
+`Gil-ga-MESH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Gilgamesh* / גלגמיש) — le nom du héros de l'épopée mésopotamienne, ==celui qui cherche la vie sans fin et ne la trouve pas==.

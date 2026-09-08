@@ -1,5 +1,11 @@
 # Koush
 
+## Prononciation
+
+`KOUSH` — une syllabe.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Koush* / כּוּשׁ) désigne ==les terres au midi de Mitsrayim== — la Nubie, le haut Nil, ce que les anciens appelaient l'Éthiopie sans que ce soit le pays qui porte ce nom aujourd'hui.

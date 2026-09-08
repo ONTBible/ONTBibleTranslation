@@ -1,5 +1,11 @@
 # raqia
 
+## Prononciation
+
+`ra-qi-A` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 Lève les yeux par temps clair. Le bleu paraît solide, tendu, comme une surface — et ce n'est pas une naïveté d'ancien : c'est ce qu'on voit. L'hébreu appelle ==raqia== (*raqia* / רָקִיעַ) cette surface, et le verbe dont le mot vient, *raqa*, désigne ==le métal qu'on martèle pour l'étendre en feuille==.
 
 Ce que le texte décrit n'est donc pas l'atmosphère. C'est ==une surface délimitante==, martelée entre les eaux d'en haut et les eaux d'en bas. Sa fonction est dans sa définition même : *séparer les eaux d'avec les eaux*. Elle ne produit rien, elle ==tient== — c'est un mur porteur.

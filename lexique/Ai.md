@@ -1,5 +1,9 @@
 # Ai
 
+## Prononciation
+
+`A-I` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Ai* / הָעַי) — de *i*, ==le monceau de ruines==. Le nom dit ce qu'une ville devient quand elle tombe.

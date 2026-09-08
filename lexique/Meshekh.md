@@ -1,5 +1,13 @@
 # Meshekh
 
+## Prononciation
+
+`Me-SHEKH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 (*Meshekh* / מֶשֶׁךְ) désigne ==les peuples du Caucase==, dans les montagnes qui ferment le monde connu au septentrion.

@@ -1,5 +1,11 @@
 # moreh
 
+## Prononciation
+
+`mo-REH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Quelqu'un te demande son chemin. Tu peux faire deux choses.
 
 Tu peux décrire la route — les tournants, les repères, la distance. Ou tu peux

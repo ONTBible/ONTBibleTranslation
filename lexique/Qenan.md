@@ -1,5 +1,13 @@
 # Qenan
 
+## Prononciation
+
+`Qe-NAN` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 Le nom est bâti sur la racine de *qanah* (*qanah* / קָנָה) — obtenir, et répondre de ce qu'on tient. La même que celle de [[Qayin]].

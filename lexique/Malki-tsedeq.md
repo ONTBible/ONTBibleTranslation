@@ -1,5 +1,13 @@
 # Malki-tsedeq
 
+## Prononciation
+
+`Mal-KI tse-DEQ` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 ## Le Shem
 
 Un nom composé et transparent : *malki* — ==mon roi== ou ==roi de== — et *tsedeq*, ==l'ordre juste==. ==Roi de justice==, ou ==mon roi est **tsedeq**==.

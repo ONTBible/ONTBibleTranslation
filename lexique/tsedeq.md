@@ -1,5 +1,13 @@
 # tsedeq
 
+## Prononciation
+
+`tse-DEQ` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 Un fil à plomb pendu le long d'un mur. Le mur est droit ou il ne l'est pas, et cela ne se discute pas : le fil le dit. L'hébreu appelle ==tsedeq== (*tsedeq* / צֶדֶק) cet état de conformité — non pas une opinion sur ce qui devrait être, mais ==l'aplomb effectif== d'une chose par rapport à ce qu'elle doit être.
 
 C'est la racine dont sortent trois mots que le corpus ne confond jamais. Le ==tsedeq== est ==l'ordre juste== lui-même. La **tsedaqah** en est la forme agissante — le fait de tenir cet ordre autour de soi. Le **tsadiq** est l'homme chez qui il tient. Et son envers, le **rasha**, est celui dont l'existence a dévié.

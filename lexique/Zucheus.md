@@ -1,5 +1,13 @@
 # Zucheus
 
+## Prononciation
+
+`Zou-che-OUS` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 ## Le dieu d'or, et pourquoi il gagne
 
 Il appartient à [[Charan]], le frère d'[[Avraham]], et il se tient dans le temple consacré. Quand l'enfant veut montrer à son père que son propre dieu ne vaut rien, c'est celui-ci qu'il met dans l'autre plateau.

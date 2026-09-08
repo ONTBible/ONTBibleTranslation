@@ -1,5 +1,11 @@
 # maqom
 
+## Prononciation
+
+`ma-QOM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 Pose une pierre sur une table. Elle tient.
 
 Maintenant demande-toi ==ce qui la fait tenir==. Pas « où elle est » — ça, tu le

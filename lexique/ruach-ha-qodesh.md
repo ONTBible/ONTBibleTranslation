@@ -1,5 +1,15 @@
 # Ruach ha-Qodesh
 
+## Prononciation
+
+`Rou-ACH ha Qo-DESH` — 3 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Trois mots, et il faut les prendre un par un pour que la formule cesse d'être un bloc.
 
 **Ruach** : ce qui ne se voit pas et qui meut — le vent dans un défilé, le souffle qui entre et sort de toi, ce qui fait bouger sans avoir de forme. Un seul mot pour les trois, et la langue n'y voit pas trois sens.

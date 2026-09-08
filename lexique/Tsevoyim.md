@@ -1,5 +1,11 @@
 # Tsevoyim
 
+## Prononciation
+
+`Tse-vo-YIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 (*Tsevoyim* / צְבֹיִים) — l'une des cinq villes de la plaine, dont le roi est [[Shemever]].

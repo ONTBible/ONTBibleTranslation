@@ -1,5 +1,11 @@
 # Mash
 
+## Prononciation
+
+`MASH` — une syllabe.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Mash* / מַשׁ) — peut-être ==le mont Masius==, en Mésopotamie du septentrion, ou un massif araméen.

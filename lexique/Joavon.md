@@ -1,5 +1,11 @@
 # Joavon
 
+## Prononciation
+
+`Jo-a-VON` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## L'argent, et le passage que le plus ancien témoin n'a pas
 
 Il vient avec [[Zucheus]] dans la pesée des dieux : l'or et l'argent au-dessus de la pierre et du bois.

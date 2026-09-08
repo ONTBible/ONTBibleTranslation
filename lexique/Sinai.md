@@ -1,5 +1,9 @@
 # Sinai
 
+## Prononciation
+
+`Si-na-I` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Une montagne, et ce qui s'y est passé qui ne s'était jamais passé
 
 Un peuple sort d'un pays où il était esclave. Trois mois plus tard il campe

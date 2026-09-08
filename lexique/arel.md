@@ -1,5 +1,9 @@
 # arel
 
+## Prononciation
+
+`a-REL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Celui dont l'**orlah** n'a pas été retirée. Le mot ne décrit pas un défaut ni une souillure : il décrit un état — ==encore couvert, pas encore ouvert==.
 
 Il faut y résister à notre première lecture, qui en ferait aussitôt une frontière entre les peuples : d'un côté ceux qui portent le signe, de l'autre les étrangers. Le corpus fait précisément l'inverse, et c'est ce qui rend le mot intéressant.

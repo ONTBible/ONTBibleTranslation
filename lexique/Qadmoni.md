@@ -1,5 +1,11 @@
 # Qadmoni
 
+## Prononciation
+
+`Qad-mo-NI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 ## Le Shem
 
 Tournez-vous pour vous orienter. Dans ce monde, on ne se tourne pas vers le septentrion — ==on fait face au levant==.

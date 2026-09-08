@@ -1,5 +1,9 @@
 # tohu vavohu
 
+## Prononciation
+
+`to-HOU va-vo-HOU` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 Un chantier abandonné avant d'être commencé. Les matériaux sont là, en tas, sous la pluie. Rien ne manque, et pourtant il n'y a pas de maison — pas parce qu'il manquerait de la matière, mais parce que ==rien n'a encore de place==.
 
 C'est l'état que le deuxième verset décrit, et le français le rend d'ordinaire par « informe et vide », ce qui fait penser au néant. Il ne s'agit pas de néant. Il s'agit de quelque chose qui est ==présent matériellement et inexistant fonctionnellement== — là, et sans emploi.

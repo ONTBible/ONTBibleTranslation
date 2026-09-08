@@ -1,5 +1,11 @@
 # qallel
 
+## Prononciation
+
+`qal-LEL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
 La racine dit ==léger==. ==Qallel== (*Qallel* / קַלֵּל), c'est ==alléger== — retirer du poids à quelque chose, non pas le supprimer.
 
 Il faut donc l'entendre avec la **kavod**, qui est la pesanteur fonctionnelle d'une réalité : son poids dans l'ordre, ce qu'elle fait basculer dans la balance. ==Qallel== est l'opération inverse : on ==retire de ce poids==. Ce qui est allégé compte moins, porte moins, pèse moins — et continue d'exister.

@@ -1,5 +1,9 @@
 # Youval
 
+## Prononciation
+
+`You-VAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yuval* (*yuval* / יוּבָל) — ce qui coule, le courant. Frère de [[Yaval]], et les deux noms font presque le même son : ==deux façons de conduire==, l'une des bêtes, l'autre du son.

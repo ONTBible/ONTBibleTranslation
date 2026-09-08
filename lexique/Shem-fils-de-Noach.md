@@ -1,5 +1,11 @@
 # Shem, fils de Noach
 
+## Prononciation
+
+`SHEM` — une syllabe.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem, et la difficulté qu'il pose
 
 Son nom ==est== le mot **Shem** (*shem* / שֵׁם) — l'intraduisible que le corpus emploie partout ailleurs pour dire ==l'acte d'existence fonctionnelle==, ce par quoi une chose entre dans l'ordre en étant nommée.

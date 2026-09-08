@@ -1,5 +1,9 @@
 # Kitim
 
+## Prononciation
+
+`Ki-TIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Kitim* / כִּתִּים) désigne d'abord ==Chypre== — l'île en vue depuis la côte —, puis, dans les textes plus tardifs, ==les peuples des îles de la Méditerranée== en général.

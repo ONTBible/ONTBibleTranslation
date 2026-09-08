@@ -1,5 +1,9 @@
 # Prat
 
+## Prononciation
+
+`PRAT` — une syllabe.
+
 ## Le Shem
 
 (*Prat* / פְּרָת) — ==l'Euphrate==, le grand fleuve occidental de Mésopotamie.

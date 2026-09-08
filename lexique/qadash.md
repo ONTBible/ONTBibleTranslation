@@ -1,5 +1,13 @@
 # qadash
 
+## Prononciation
+
+`qa-DASH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 Un potier a deux jarres identiques sur son étagère. Il en prend une, il la met de côté et il dit : celle-ci ne servira plus à l'eau. Rien n'a changé dans l'argile. Ce qui a changé, c'est ==ce à quoi elle est disponible==.
 
 C'est tout le verbe. ==Qadash== (*Qadash* / קָדַשׁ) veut dire ==mettre à part pour un office== — retirer de l'usage ordinaire, réserver. La racine dit la séparation, et le geste est le même que celui de *badal* au premier chapitre, appliqué non plus au cosmos mais à ce qu'on assigne au domaine d'en haut.

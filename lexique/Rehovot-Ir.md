@@ -1,5 +1,9 @@
 # Rehovot-Ir
 
+## Prononciation
+
+`Re-ho-VOT Ir` — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 Littéralement ==les larges rues de la ville== — *rehovot* étant les places, les espaces ouverts où l'on se rassemble.

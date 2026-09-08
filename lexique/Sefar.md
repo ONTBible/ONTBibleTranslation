@@ -1,5 +1,9 @@
 # Sefar
 
+## Prononciation
+
+`Se-FAR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Sefar* / סְפָר) — probablement un ==port de l'Arabie du Sud==, l'actuel Zafar ou Dhofar, à Oman.

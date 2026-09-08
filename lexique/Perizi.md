@@ -1,5 +1,9 @@
 # Perizi
 
+## Prononciation
+
+`Pe-ri-ZI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Perizzi* / הַפְּרִזִּי) — d'une racine qui dit ==le hameau ouvert==, le village sans murailles.

@@ -1,5 +1,9 @@
 # Yaval
 
+## Prononciation
+
+`Ya-VAL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yaval* (*yaval* / יָבָל) — conduire, mener. Le nom porte exactement le métier, et il se répond avec ceux de ses frères : [[Youval]] dit ce qui coule, [[Tuval-Qayin]] porte la même première syllabe. ==Trois noms bâtis sur l'idée de mener==, donnés ensemble.

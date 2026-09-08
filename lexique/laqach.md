@@ -1,5 +1,13 @@
 # laqach
 
+## Prononciation
+
+`la-QACH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 Un homme est derrière ses bêtes, ou sous un arbre, ou dans un pressoir. Il ne
 demandait rien.
 

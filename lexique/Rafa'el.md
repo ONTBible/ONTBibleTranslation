@@ -1,5 +1,11 @@
 # Rafa'el
 
+## Prononciation
+
+`Ra-fa-'EL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
 ## Le Shem
 
 *Rafa* (*rafa* / רָפָא) — ==guérir== — et *El*. ==**El** guérit==.

@@ -1,5 +1,11 @@
 # Choul
 
+## Prononciation
+
+`CHOUL` — une syllabe.
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 De *chul* (*chul* / חוּל) — ==tourbillonner, se tordre==. Le même verbe qui dit la danse et les douleurs de l'enfantement : ==un mouvement qui prend tout le corps==.

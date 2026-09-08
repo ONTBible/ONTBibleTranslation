@@ -1,5 +1,11 @@
 # merkavah
 
+## Prononciation
+
+`mer-ka-VAH` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Un homme au bord d'un fleuve, dans un pays qui n'est pas le sien, parmi des déportés. Le ciel s'ouvre, et ce qu'il voit, il met un chapitre entier à essayer de le dire : des vivants à quatre faces, des roues dans des roues pleines d'yeux, une étendue comme du cristal, et au-dessus une forme d'homme sur quelque chose qui ressemble à un trône. Il n'affirme presque rien — il écrit *comme*, *une sorte de*, *l'aspect de*.
 
 Ce qu'il a vu porte un nom : ==merkavah== (*merkavah* / מֶרְכָּבָה). La racine *rakhav* veut dire monter, chevaucher, prendre place sur un attelage.

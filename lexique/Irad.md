@@ -1,5 +1,9 @@
 # Irad
 
+## Prononciation
+
+`I-RAD` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 L'étymologie n'est pas assurée. On y entend peut-être *ir* (*ir* / עִיר) — la ville — et une racine de descente, ce qui donnerait quelque chose comme ==celui qui descend de la ville==, ou ==la ville descend==.

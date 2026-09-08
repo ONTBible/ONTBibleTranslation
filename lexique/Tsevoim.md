@@ -1,5 +1,11 @@
 # Tsevoim
 
+## Prononciation
+
+`Tse-vo-IM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 (*Tsevoim* / צְבֹיִם) — l'une des ==villes de la plaine du Yarden==.

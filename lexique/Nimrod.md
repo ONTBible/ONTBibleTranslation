@@ -1,5 +1,9 @@
 # Nimrod
 
+## Prononciation
+
+`Nim-ROD` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 L'étymologie est incertaine, et le corpus ne la propose pas. On y entend peut-être *marad* (*marad* / מָרַד) — ==se rebeller, résister== — mais rien dans le texte ne le confirme.

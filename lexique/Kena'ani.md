@@ -1,5 +1,11 @@
 # Kena'ani
 
+## Prononciation
+
+`Ke-na-'a-NI` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
 ## Le Shem
 
 (*Kena'ani* / הַכְּנַעֲנִי) — ==le Kena'ani==, l'habitant de [[Kena'an]] : l'ethnonyme tiré du **Shem** du pays.

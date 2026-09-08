@@ -1,5 +1,9 @@
 # Yered
 
+## Prononciation
+
+`Ye-RED` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yarad* (*yarad* / יָרַד) — descendre. ==Un nom de mouvement vers le bas==, vers la terre.

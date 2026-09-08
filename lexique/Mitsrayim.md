@@ -1,5 +1,11 @@
 # Mitsrayim
 
+## Prononciation
+
+`Mits-ra-YIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 La forme du mot est ==un duel== — (*Mitsrayim* / מִצְרַיִם), la terminaison *-ayim* de ce qui va par deux, comme les mains ou les yeux. On y a lu ==les deux pays== : la Haute et la Basse vallée, réunies sous une couronne.

@@ -1,5 +1,9 @@
 # Goyyim
 
+## Prononciation
+
+`Goy-YIM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Goyyim* / גּוֹיִם) — le mot même que le corpus emploie pour ==les peuples-nations==, ici employé comme ==un nom de lieu ou de peuple==.

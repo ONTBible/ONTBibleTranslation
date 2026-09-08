@@ -1,5 +1,13 @@
 # Arpakhshad
 
+## Prononciation
+
+`Ar-pakh-SHAD` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 (*Arpakhshad* / אַרְפַּכְשַׁד) — l'étymologie est incertaine et le corpus ne la propose pas.

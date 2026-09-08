@@ -1,5 +1,11 @@
 # mabbul
 
+## Prononciation
+
+`mab-BOUL` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de « lune ».
+
 Le mot n'apparaît nulle part ailleurs dans toute la Bible hébraïque. Il est réservé à un seul événement, celui des jours de ==Noach==, et cette exclusivité est déjà une information : ce qui arrive là n'est comparable à rien d'autre.
 
 Ce n'est donc pas une inondation. L'hébreu a des mots pour l'eau qui monte — *nahar* pour le fleuve, *mayim* pour les eaux — et il ne les emploie pas ici. Le ==mabbul== (*mabbul* / מַבּוּל) est autre chose, et pour le voir il faut se souvenir de comment le monde a été monté.

@@ -1,5 +1,9 @@
 # Yovav
 
+## Prononciation
+
+`Yo-VAV` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yavav* (*yavav* / יָבַב) — ==crier, appeler==.

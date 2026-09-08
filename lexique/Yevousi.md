@@ -1,5 +1,9 @@
 # Yevousi
 
+## Prononciation
+
+`Ye-vou-SI` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Yevousi* / הַיְבוּסִי) — celui de ==Yevous== (*Yevous* / יְבוּס). Le **Shem** du peuple est celui de sa ville, et l'hébreu le forme au singulier gentilice : ==un seul mot pour tout un peuple==, comme il dit [[Emori]], [[Kena'ani]], [[Girgashi]].

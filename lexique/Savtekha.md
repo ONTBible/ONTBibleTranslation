@@ -1,5 +1,11 @@
 # Savtekha
 
+## Prononciation
+
+`Sav-te-KHA` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 (*Savtekha* / סַבְתְּכָא) est ==peu attesté hors de cette liste== — probablement une communauté tribale de la péninsule arabique méridionale.

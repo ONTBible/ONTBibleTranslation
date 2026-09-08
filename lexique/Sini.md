@@ -1,5 +1,9 @@
 # Sini
 
+## Prononciation
+
+`Si-NI` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Sini* / הַסִּינִי) — probablement un peuple de la ==côte libanaise==, peut-être le site de Sin, entre Arqa et Tripoli.

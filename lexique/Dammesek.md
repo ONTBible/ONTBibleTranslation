@@ -1,5 +1,9 @@
 # Dammesek
 
+## Prononciation
+
+`Dam-me-SEK` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Dammesek* / דַּמָּשֶׂק) — ==Damas==, la grande cité de Syrie, l'une des plus anciennement habitées du monde.

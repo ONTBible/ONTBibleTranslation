@@ -1,5 +1,9 @@
 # Ada
 
+## Prononciation
+
+`A-DA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *adah* (*adah* / עָדָה) — parer, orner. ==La parure== : ce qu'on ajoute à une chose non pour la rendre utile, mais pour qu'elle se voie.

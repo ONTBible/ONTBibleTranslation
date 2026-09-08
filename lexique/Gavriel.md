@@ -1,5 +1,9 @@
 # Gavriel
 
+## Prononciation
+
+`Gav-ri-EL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 Ce nom ne désigne personne.
 
 Il faut commencer par là, parce que c'est déroutant et que c'est la clef. Quand

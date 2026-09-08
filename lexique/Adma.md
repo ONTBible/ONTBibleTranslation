@@ -1,5 +1,9 @@
 # Adma
 
+## Prononciation
+
+`Ad-MA` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *adamah* (*adamah* / אֲדָמָה) — ==le sol concret==, la glaise cultivable. Le **Shem** de la ville porte donc ==la dimension terrestre== dans son nom même.

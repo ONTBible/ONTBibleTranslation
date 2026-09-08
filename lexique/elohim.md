@@ -1,5 +1,11 @@
 # Elohim
 
+## Prononciation
+
+`E-lo-HIM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Imagine qu'on te fasse visiter un bâtiment vide. Les murs sont montés, les salles distribuées, tout est propre — et rien ne fonctionne : aucune porte n'a de clé, personne n'a de bureau, on ne sait pas ce qui se décide où. Pour un homme du Proche-Orient ancien, ce bâtiment ==n'existe pas encore==. Il est là, il n'est rien. Il commencera d'exister le jour où chaque pièce aura un office et chaque office quelqu'un pour le tenir.
 
 Garde cette image : c'est avec elle qu'on peut lire la première page.

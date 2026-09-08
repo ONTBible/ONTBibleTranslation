@@ -1,5 +1,11 @@
 # radah
 
+## Prononciation
+
+`ra-DAH` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 Le verbe tombe au moment le plus lourd du premier chapitre : l'homme est fait **tselem**, et aussitôt — ==qu'ils radah== sur les poissons, les oiseaux, les bêtes, toute la Terre.
 
 On traduit « qu'ils dominent », et c'est ce mot qui a servi pendant des siècles à justifier qu'on prenne tout. Il faut donc regarder de près ce que le verbe fait ailleurs dans le corpus, puisque c'est le seul moyen de savoir ce qu'il veut dire.

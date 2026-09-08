@@ -1,5 +1,11 @@
 # Hadoram
 
+## Prononciation
+
+`Ha-do-RAM` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 ## Le Shem
 
 De *hadar* (*hadar* / הָדָר) — ==la splendeur, la majesté==. On lit *la splendeur est élevée*, ou *Hadad est élevé*.

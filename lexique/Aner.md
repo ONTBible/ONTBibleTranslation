@@ -1,5 +1,9 @@
 # Aner
 
+## Prononciation
+
+`A-NER` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Aner* / עָנֵר) — l'un des trois alliés d'[[Avraham]], *ba'alei berit* — ==maîtres d'alliance== avec lui.

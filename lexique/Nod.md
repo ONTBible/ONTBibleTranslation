@@ -1,5 +1,9 @@
 # Nod
 
+## Prononciation
+
+`NOD` — une syllabe.
+
 ## Le Shem
 
 De la racine de *nad* (*nad* / נָד) — le vagabond, celui qui va sans se poser. ==Ce n'est pas un pays : c'est une condition à laquelle on a donné un nom de pays.==

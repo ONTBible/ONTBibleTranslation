@@ -1,5 +1,9 @@
 # Sedom
 
+## Prononciation
+
+`Se-DOM` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Sedom* / סְדֹם) — l'une des villes de la plaine du Yarden.

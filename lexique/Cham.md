@@ -1,5 +1,11 @@
 # Cham
 
+## Prononciation
+
+`CHAM` — une syllabe.
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 L'étymologie est incertaine. On y a entendu la chaleur, ou une racine liée aux terres du midi — les deux restent des conjectures, et l'ONT ne tranche pas ce que l'hébreu laisse ouvert.

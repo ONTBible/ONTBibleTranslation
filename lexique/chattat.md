@@ -1,5 +1,11 @@
 # chattat
 
+## Prononciation
+
+`chat-TAT` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 Un fauve couché à l'entrée d'une maison. Il ne bondit pas encore. Il attend, et l'on sait qu'il attend, et l'on sait aussi qu'entrer ou sortir demandera de compter avec lui.
 
 C'est l'image que le corpus emploie la première fois qu'il nomme la ==chattat== (*chattat* / חַטָּאת). ==Qayin== a le visage tombé, son offrande n'a pas été regardée, et **YHWH** lui parle avant qu'il ait rien fait : ==la chattat est tapie à la porte ; vers toi est son désir, et toi tu dois la gouverner==.

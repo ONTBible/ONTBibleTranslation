@@ -1,5 +1,11 @@
 # Metoushaël
 
+## Prononciation
+
+`Me-tou-SHAËL` — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
+
 ## Le Shem
 
 Second nom de la lignée à porter ==**El**==, juste après [[Mechouyael]]. Le nom s'écrit (*Metoushaël* / מְתוּשָׁאֵל) et se décompose en *methu* — l'homme, au sens ancien qu'on ne retrouve plus que dans les noms composés — et *shaël*, ==demandé==.
