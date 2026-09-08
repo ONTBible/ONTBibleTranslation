@@ -8,7 +8,7 @@ Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-(*Pelishtim* / פְּלִשְׁתִּים) — ==les Philistins==, peuple de la plaine côtière de [[Kena'an]].
+(*Pelishtim* / פְּלִשְׁתִּים) — ==les Philistins==, peuple de la plaine côtière de [[Kenaʿan]].
 
 Leur origine dans la lignée de [[Mitsrayim]] les inscrit dans ==la sphère d'influence égyptienne==, et non parmi les peuples de la terre qu'ils occupent.
 

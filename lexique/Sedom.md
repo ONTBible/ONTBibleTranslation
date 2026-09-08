@@ -10,9 +10,9 @@
 
 ## Ce que le corpus en fait
 
-Sa présence ici est ==un pur repère de frontière== : la liste des limites du territoire kena'ani la nomme au passage, sans un mot de plus.
+Sa présence ici est ==un pur repère de frontière== : la liste des limites du territoire kenaʿani la nomme au passage, sans un mot de plus.
 
-Et c'est ce qui rend sa mention frappante quand on connaît la suite. ==Elle sera détruite en *Bereshit* 18-19==, avec [[Amorah]], après le *ze'aqah* qui monte d'elle et l'intercession d'[[Avraham]] — cinquante **tsadiqim**, puis quarante-cinq, jusqu'à dix.
+Et c'est ce qui rend sa mention frappante quand on connaît la suite. ==Elle sera détruite en *Bereshit* 18-19==, avec [[Amorah]], après le *zeʿaqah* qui monte d'elle et l'intercession d'[[Avraham]] — cinquante **tsadiqim**, puis quarante-cinq, jusqu'à dix.
 
 Le corpus la nomme ici ==sans charge==. Comme pour [[Bavel]], ==la charge s'accumule à travers le corpus== : le texte pose un nom neutre, et revient bien plus tard le remplir.
 

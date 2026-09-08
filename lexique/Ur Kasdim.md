@@ -26,7 +26,7 @@ Le texte emploie donc une désignation qui n'existait pas encore, pour situer un
 
 Ce lieu ne sert qu'à une chose dans le corpus, et elle est immense : ==c'est le point d'où l'on sort==.
 
-[[Charan]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[Avraham|Avram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kena'an]].
+[[Charan]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[Avraham|Avram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kenaʿan]].
 
 Et ils n'y arrivent pas. Ils s'arrêtent à [[Charan]] — la ville, homonyme du fils mort, et l'homonymie n'est sûrement pas un hasard — et ils s'y établissent. ==Le premier voyage s'arrête à mi-chemin, et c'est là que Terach meurt.== Le *lekh-lekha* de *Bereshit* 12 reprendra une marche déjà commencée et interrompue.
 
@@ -54,6 +54,6 @@ La maison qui en sort : [[Terach]] le père, [[Charan]] le fils qui y meurt, [[A
 
 L'étape où le voyage s'arrête : [[Charan]] la ville, homonyme du fils mort — le corpus laisse les deux se répondre sans expliquer.
 
-Le fleuve et le pays : [[Prat]], le grand fleuve de la promesse, et [[Shin'ar]], l'autre grande plaine du même monde, celle de [[Bavel]].
+Le fleuve et le pays : [[Prat]], le grand fleuve de la promesse, et [[Shinʿar]], l'autre grande plaine du même monde, celle de [[Bavel]].
 
-Où l'on allait : [[Kena'an]].
+Où l'on allait : [[Kenaʿan]].

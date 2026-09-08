@@ -18,4 +18,4 @@ Il faut résister à en faire un principe. Notre imaginaire a fait des ténèbre
 
 Et le texte ne le supprime pas. C'est le détail qu'on ne remarque jamais : **Elohim** ne fait pas disparaître le ==choshekh== — il ==sépare== la **or** d'avec lui, puis il le nomme *nuit*. Ce qui était sans limite reçoit une place et un office. La nuit n'est pas un reste de chaos toléré : c'est du ==choshekh== assigné, devenu la moitié d'une alternance qui fait le temps.
 
-Ce qui donne son poids au **mabbul**, où les eaux se rejoignent, et à ces passages des **nevi'im** où le jugement se dit par un retour du ==choshekh== sur un pays. Il ne s'agit pas d'une nuit qui tombe : il s'agit de ==limites qui lâchent== — d'un monde qui cesse d'être distinguable, donc habitable.
+Ce qui donne son poids au **mabbul**, où les eaux se rejoignent, et à ces passages des **neviʾim** où le jugement se dit par un retour du ==choshekh== sur un pays. Il ne s'agit pas d'une nuit qui tombe : il s'agit de ==limites qui lâchent== — d'un monde qui cesse d'être distinguable, donc habitable.

@@ -8,7 +8,7 @@ Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
-Une maison de tentes, quelque part entre ==Kena'an== et le désert. Il y a la maîtresse, il y a son **ish**, il y a les bêtes, et il y a une femme dont tout le monde sait à qui elle tient. Pas *pour qui elle travaille* — ==à qui elle est attachée==. Si on demandait à quelqu'un de cette maison ce qu'elle fait, la question tomberait à côté ; on répondrait de quelle sphère elle relève. Cette femme est une ==shiphchah== (*shiphchah* / שִׁפְחָה).
+Une maison de tentes, quelque part entre ==Kenaʿan== et le désert. Il y a la maîtresse, il y a son **ish**, il y a les bêtes, et il y a une femme dont tout le monde sait à qui elle tient. Pas *pour qui elle travaille* — ==à qui elle est attachée==. Si on demandait à quelqu'un de cette maison ce qu'elle fait, la question tomberait à côté ; on répondrait de quelle sphère elle relève. Cette femme est une ==shiphchah== (*shiphchah* / שִׁפְחָה).
 
 Le mot ne nomme donc pas un emploi. Il nomme ==une position dans une maison== : la **shiphchah** appartient à la sphère de sa maîtresse, comme une chose appartient à un domaine plutôt qu'à un propriétaire.
 
@@ -20,4 +20,4 @@ Voilà ce qui se joue quand ==Sarai== donne ==Hagar== à ==Avram==. ==Hagar== ne
 
 Ce qui se brise ensuite se lit dans le même vocabulaire. ==Hagar== conçoit, et la maîtresse ==devient légère== à ses yeux : elle perd de la **kavod**, de ce poids qui fait qu'une place tient. La sphère avait un ordre ; le ventre de la ==shiphchah== vient de le retourner. ==Sarai== n'accuse pas ==Hagar== d'insolence, elle accuse ==Avram== de n'avoir pas maintenu la hiérarchie — c'est une plainte de structure, pas de sentiment.
 
-Reste que le texte ne s'arrête pas à la structure. La ==shiphchah== affligée s'enfuit vers le désert, et c'est là, sans statut, sans protection, sans sphère, qu'un **mal'akh** la trouve et l'appelle par ce mot même : ==shiphchah== de ==Sarai==. Il ne lui rend pas une position. Il lui dit qu'elle est vue — et c'est elle, la femme sans droits, qui donnera un **Shem** à **YHWH**.
+Reste que le texte ne s'arrête pas à la structure. La ==shiphchah== affligée s'enfuit vers le désert, et c'est là, sans statut, sans protection, sans sphère, qu'un **malʾakh** la trouve et l'appelle par ce mot même : ==shiphchah== de ==Sarai==. Il ne lui rend pas une position. Il lui dit qu'elle est vue — et c'est elle, la femme sans droits, qui donnera un **Shem** à **YHWH**.

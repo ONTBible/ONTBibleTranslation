@@ -20,6 +20,6 @@ C'est une chose que la table des nations rend possible et qu'on manque souvent :
 
 ## Voir aussi
 
-Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Chavila]], [[Savta]], [[Ra'ama]], [[Savtekha]].
+Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Chavila]], [[Savta]], [[Raʿama]], [[Savtekha]].
 
 Le **Shem** voisin : [[Sheva]], avec qui il paraît dans les *Tehilim*.

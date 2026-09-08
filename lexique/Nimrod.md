@@ -26,7 +26,7 @@ Un homme est donc le point où ==la force brute devient un État==.
 
 Elles ne sont pas choisies au hasard, et le corpus les nomme avec soin.
 
-De [[Shin'ar]] : [[Bavel]], [[Erekh]], [[Akkad]] — les plus vieilles cités du monde. Puis il sort vers Assur et bâtit [[Ninveh]].
+De [[Shinʿar]] : [[Bavel]], [[Erekh]], [[Akkad]] — les plus vieilles cités du monde. Puis il sort vers Assur et bâtit [[Ninveh]].
 
 ==Ce sont les deux capitales qui broieront Israël==. Le lecteur du corpus prophétique les connaît comme les puissances de la déportation, et la table des nations les inscrit ici, à leur fondation, ==sans une once de polémique==.
 

@@ -72,10 +72,10 @@ qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 
 ## La stratigraphie
 
-### Ce que les **nevi'im** en portent, sans jamais l'appeler ainsi
+### Ce que les **neviʾim** en portent, sans jamais l'appeler ainsi
 
 Le mot *ha-Maqom* comme nom est tardif. Mais ==la chose est ancienne==, et les
-**nevi'im** la portent chacun à leur façon.
+**neviʾim** la portent chacun à leur façon.
 
 ==La plénitude qui ne laisse pas de vide.== *Yeshayahu* 6:3 — ==toute la terre
 est remplie de son **kavod**==. Le verbe est *male* (מָלֵא), ==remplir==. Ce
@@ -113,8 +113,8 @@ lui.==
 | couche | ce qui s'y passe |
 |---|---|
 | ==vécue== | la présence habite le Mishkan, puis le Temple. Personne ne théorise ; on éprouve un **kavod** qui pèse en un lieu. |
-| ==éprouvée== | l'exil pose la question de force : si le Temple tombe, **YHWH** est-il vaincu ? Les **nevi'im** répondent — il n'était pas lié au Temple, c'est le Temple qui lui était lié. |
-| ==nommée== | après la seconde destruction, la formule devient un nom. Elle ne découvre rien : elle ==fixe== ce que les **nevi'im** avaient posé. |
+| ==éprouvée== | l'exil pose la question de force : si le Temple tombe, **YHWH** est-il vaincu ? Les **neviʾim** répondent — il n'était pas lié au Temple, c'est le Temple qui lui était lié. |
+| ==nommée== | après la seconde destruction, la formule devient un nom. Elle ne découvre rien : elle ==fixe== ce que les **neviʾim** avaient posé. |
 
 ==C'est une distillation, non une invention.== Et c'est important pour l'ONT :
 le nom est tardif, mais la structure qu'il nomme est dans les textes anciens.
@@ -130,7 +130,7 @@ se trouve, et ne pas l'avoir tant qu'on n'y est pas arrivé.
 
 Mais si tout se tient ==en lui==, il n'y a pas de distance à franchir. Le
 *Tehilim* 139 le déplie sans rien laisser : monter aux Cieux, descendre au
-**She'ol**, prendre les ailes de l'aurore — ==et il est déjà là==. Non parce
+**Sheʾol**, prendre les ailes de l'aurore — ==et il est déjà là==. Non parce
 qu'il court plus vite. Parce que ==le « là-bas » est intérieur à lui, comme
 l'« ici »==.
 
@@ -204,11 +204,11 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Yeshayahu* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol ha'aretz kevodo*.
+- *Yeshayahu* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol haʾaretz kevodo*.
 - *Yeshayahu* 66:1-2 (à écrire) — le trône, le tabouret, et le **maqom** du repos.
 - *Yirmeyahu* 23:23-24 (à écrire) — de près et de loin, et le verbe *male*.
 - *Yehezqel* 1 (à écrire) — la **merkavah** vue à Bavel, la preuve par l'événement.
-- *Tehilim* 139:7-10 (à écrire) — les Cieux, le **She'ol**, les ailes de l'aurore.
+- *Tehilim* 139:7-10 (à écrire) — les Cieux, le **Sheʾol**, les ailes de l'aurore.
 
 ---
 

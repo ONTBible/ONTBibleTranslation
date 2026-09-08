@@ -22,4 +22,4 @@ Dans un corpus où nommer c'est faire entrer dans l'ordre, ==un peuple nommé un
 
 ## Voir aussi
 
-Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Chavila]], [[Savta]], [[Ra'ama]].
+Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Chavila]], [[Savta]], [[Raʿama]].

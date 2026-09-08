@@ -102,7 +102,7 @@ gradient de **kavod** est hébreu, et il se restitue entier.
 | la Voûte | ce qui sépare, et où les luminaires sont enchâssés |
 | l'espace habitable | l'**adam**, les créatures ailées |
 | la Terre | le sol, posé sur les eaux d'en bas |
-| plus bas | le **She'ol**, où descendent les morts |
+| plus bas | le **Sheʾol**, où descendent les morts |
 
 Aucune de ces zones n'est numérotée dans le corpus. Elles sont nommées ==par ce
 qu'on y trouve==, et c'est ainsi qu'elles se distinguent.
@@ -120,7 +120,7 @@ partout dans ce que nous avons hérité.
 Le corpus fait l'inverse. ==**YHWH** descend, et il prend.==
 
 Et quand un texte ==paraît== raconter une montée, il faut ==regarder qui agit==.
-Dans les récits de traversée, l'**ish** tombe sans souffle, un **mal'akh** est
+Dans les récits de traversée, l'**ish** tombe sans souffle, un **malʾakh** est
 ==envoyé== pour le relever, et il est ==porté==. La forme est ascensionnelle ; la
 structure reste descendante. ==C'est la structure qu'on rend.==
 
@@ -180,7 +180,7 @@ textes qui comptent se trompent sur ce qu'ils ont vu.
 
 - *==Trois termes travaillent ici sans être déclarés== : *raqia*, la Voûte — traduit au §3.2, donc pas un intraduisible ; *parokhet*, le voile du sanctuaire, qui n'a encore aucune occurrence dans le corpus écrit ; et *shamayim*, également traduit. ==À trancher par l'auteur== le jour où *Shemot* fera paraître le *parokhet*.*
 
-- *==Ce que la chuqqah laisse dehors.== La matière porte le parallèle entre le **navi** et le **mal'akh**, qui fait l'objet de la cinquième chuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte le parallèle entre le **navi** et le **malʾakh**, qui fait l'objet de la cinquième chuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
 
 ### Ce que la chuqqah engage dans le corpus
 

@@ -1,4 +1,4 @@
-# Par'oh
+# Parʿoh
 
 ## Prononciation
 
@@ -22,9 +22,9 @@ Et il faut mesurer ce que cela produit dans une langue où nommer est un acte. L
 
 Regardez qui reçoit un nom dans ces chapitres, et vous verrez que le silence est choisi.
 
-[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[Amrafel]], et [[Aryokh]], et [[Tid'al]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Bera]] et [[Birsha]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
+[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[Amrafel]], et [[Aryokh]], et [[Tidʿal]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Bera]] et [[Birsha]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
 
-==Le roi de Mitsrayim, jamais.== Ni ici, ni au chapitre suivant, ni dans tout le récit qui viendra. De *Bereshit* 12 jusqu'à la sortie de *Shemot*, ==aucun Par'oh du corpus ne porte de nom==.
+==Le roi de Mitsrayim, jamais.== Ni ici, ni au chapitre suivant, ni dans tout le récit qui viendra. De *Bereshit* 12 jusqu'à la sortie de *Shemot*, ==aucun Parʿoh du corpus ne porte de nom==.
 
 Ce n'est pas une lacune documentaire : le texte connaît des noms bien plus obscurs que celui d'un souverain de Mitsrayim. C'est un refus. Nommer, c'est donner une existence fonctionnelle propre — et le corpus ne l'accorde pas. Il laisse le roi être ==sa maison==, et rien de plus.
 
@@ -34,11 +34,11 @@ D'où l'effet, quand la confrontation viendra : ce n'est pas un homme qui fait f
 
 Elle est brève et elle donne le ton.
 
-[[Avraham|Avram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Par'oh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
+[[Avraham|Avram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Parʿoh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
 
 L'écho est dans les consonnes, et il ne survit à aucune traduction. *Sar* (*sar* / שַׂר) est ==la racine même du **Shem** de [[Sarai]]== : « ma souveraine ». Les souverains de Pharaon voient la souveraine, la louent devant lui, et elle est prise dans la maison.
 
-Puis la maison est frappée. Les (*nega'im* / נְגָעִים) tombent sur elle et sur elle seule — et l'hébreu emploie ici le mot qui reviendra pour les coups portés à ce même pays, des générations plus bas. ==Le premier Par'oh du corpus subit déjà, en petit, ce que le dernier subira en grand.==
+Puis la maison est frappée. Les (*negaʿim* / נְגָעִים) tombent sur elle et sur elle seule — et l'hébreu emploie ici le mot qui reviendra pour les coups portés à ce même pays, des générations plus bas. ==Le premier Parʿoh du corpus subit déjà, en petit, ce que le dernier subira en grand.==
 
 ## Ce que la fiche porte, et ce qu'elle attend
 

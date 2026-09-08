@@ -18,7 +18,7 @@ Le second est celui qui reste.
 
 Quand [[Terach]] part d'Ur, il emmène [[Avraham]], [[Sarai]] et [[Lot]] — ==pas [[Nachor]]==. Le frère demeure en Mésopotamie, il épouse [[Milkah]], fille de [[Charan]], et sa maison s'établit là.
 
-Et c'est vers cette maison-là que le corpus reviendra chercher les épouses. Rivqah viendra de chez [[Nachor]] ; Ya'aqov y retournera pour Léa et Rahel. ==La branche qui n'est pas partie devient celle où l'on revient prendre femme.==
+Et c'est vers cette maison-là que le corpus reviendra chercher les épouses. Rivqah viendra de chez [[Nachor]] ; Yaʿaqov y retournera pour Léa et Rahel. ==La branche qui n'est pas partie devient celle où l'on revient prendre femme.==
 
 Le texte ne dit rien de lui. Il le laisse en arrière, et il y renvoie deux fois.
 

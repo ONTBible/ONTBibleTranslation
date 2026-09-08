@@ -12,7 +12,7 @@ Le **Shem** désigne peut-être moins un peuple qu'==un mode d'habitation== : ce
 
 ## Ce que le corpus en fait
 
-Il paraît toujours ==avec le Kena'ani==, dans une formule qui revient : *le Kena'ani et le Perizzi habitaient alors dans le pays*.
+Il paraît toujours ==avec le Kenaʿani==, dans une formule qui revient : *le Kenaʿani et le Perizzi habitaient alors dans le pays*.
 
 Le texte l'emploie au moment où les bergers d'[[Avraham]] et ceux de [[Lot]] se disputent — et cette précision change la scène. Le *riv* entre les deux maisons se passe ==sous les yeux de ceux qui habitent déjà là==.
 
@@ -22,6 +22,6 @@ Le corpus ne le dit pas. Il place la formule dans la phrase, et laisse le lecteu
 
 ## Voir aussi
 
-Avec qui il paraît : [[Kena'ani]], dans la formule des habitants du pays.
+Avec qui il paraît : [[Kenaʿani]], dans la formule des habitants du pays.
 
 Ce qu'il éclaire : le *riv* entre les bergers d'[[Avraham]] et de [[Lot]].

@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Amrafel* / אַמְרָפֶל) — roi de [[Shin'ar]]. L'étymologie n'est pas assurée et le corpus ne la propose pas.
+(*Amrafel* / אַמְרָפֶל) — roi de [[Shinʿar]]. L'étymologie n'est pas assurée et le corpus ne la propose pas.
 
 ## Ce que le corpus en fait
 
@@ -16,5 +16,5 @@ Le corpus ne fait pas le lien explicitement. Mais un lecteur qui vient de *Beres
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tid'al]].
+Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].

@@ -62,7 +62,7 @@ Que la tradition hénochienne ait été *courante* dans le judaïsme du Second T
 
 Il y a un fait que le corpus relève et qui pèse lourd : ==les **shlichim** de Yeshua tenaient cette tradition pour réelle==.
 
-*Igeret Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » — c'est ==mot pour mot la sortie de garde des **irin**==. Et quelques versets plus loin, il ==cite nommément Chanokh== et sa prophétie.
+*Igeret Yehudah* parle des **malʾakhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » — c'est ==mot pour mot la sortie de garde des **irin**==. Et quelques versets plus loin, il ==cite nommément Chanokh== et sa prophétie.
 
 Ce n'est pas une allusion littéraire. Une lettre de la *Berit Hadashah* cite comme **davar** prophétique un texte du courant hénochien, et son auteur suppose que ses lecteurs le connaissent.
 

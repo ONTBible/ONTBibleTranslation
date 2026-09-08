@@ -1,4 +1,4 @@
-# Na'amah
+# Naʿamah
 
 ## Prononciation
 
@@ -10,7 +10,7 @@ Le `h` est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il 
 
 ## Le Shem
 
-De *na'am* (*na'am* / נָעַם) — être agréable, doux. ==La douceur==, au sens de ce qui rend une chose bonne à vivre : un chemin qui va bien, une parole qui repose, un lieu où l'on se tient volontiers.
+De *naʿam* (*naʿam* / נָעַם) — être agréable, doux. ==La douceur==, au sens de ce qui rend une chose bonne à vivre : un chemin qui va bien, une parole qui repose, un lieu où l'on se tient volontiers.
 
 ## Ce que le texte ne dit pas d'elle
 

@@ -36,7 +36,7 @@ C'est la manière du corpus : il ne moralise pas, il ==garde==.
 
 ## Voir aussi
 
-Sa maison : [[Avraham]] son **ish**, [[Hagar]] sa **shiphchah**, ==Ishma'el== et ==Yitschaq==.
+Sa maison : [[Avraham]] son **ish**, [[Hagar]] sa **shiphchah**, ==Ishmaʿel== et ==Yitschaq==.
 
 Ce que ses **Shem** touchent : la reformulation simultanée de celui d'[[Avraham]], la **berith** de *Bereshit* 17, et le **shiphchah** de *Bereshit* 16.
 

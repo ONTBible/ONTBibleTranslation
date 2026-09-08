@@ -30,8 +30,8 @@
 - **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **Elohim**) ; forme construite laissée en hébreu (*laYHWH*…).
 
 ### UC1 — Intraduisible
-**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **ra**, **berith**, **She'ol**, **teshuvah**, **merkavah**, **ha-satan**, **mal'akh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
-- **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **She'ol**, **mal'akh**).
+**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **ra**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
+- **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **Sheʾol**, **malʾakh**).
 - **N3** : 1re occ. de l'unité (réappliqué si utile).
 - **N2** : 1re occ.
 
@@ -47,7 +47,7 @@
 - **N3 + N2** : à la **1re occurrence de l'unité**, puis le rendu français nu.
 
 ### UC4 — Nom propre
-**Membres :** Adam, Chavah, Shet, Hevel, Qayin, Mikha'el, Eden, lieux.
+**Membres :** Adam, Chavah, Shet, Hevel, Qayin, Mikhaʾel, Eden, lieux.
 - **N1** : le nom (non gras).
 - **N3** : 1re occ. **N2** : étymologie à la 1re occ. + glose d'identification maintenue sur les **5 premières occurrences ONT-wide** (§4.12).
 

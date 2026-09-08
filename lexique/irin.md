@@ -10,7 +10,7 @@ La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » 
 
 Le mot est araméen, et il vient d'une racine qui veut dire ==veiller==. Les ==irin== (*irin* / עִירִין) sont ceux qui ne dorment pas — les éveillés, ceux qui tiennent le quart pendant que le monde dort.
 
-Ce n'est pas une image. Dans les textes où ils paraissent, ce sont des postes de garde : des envoyés célestes assignés à ==surveiller== ce qui se passe en bas et à en rendre compte. Leur nom ne dit ni leur nature ni leur rang — il dit ==ce qu'ils font==, comme celui du **mal'akh** dit qu'il est envoyé. Une fonction, encore, jamais une essence.
+Ce n'est pas une image. Dans les textes où ils paraissent, ce sont des postes de garde : des envoyés célestes assignés à ==surveiller== ce qui se passe en bas et à en rendre compte. Leur nom ne dit ni leur nature ni leur rang — il dit ==ce qu'ils font==, comme celui du **malʾakh** dit qu'il est envoyé. Une fonction, encore, jamais une essence.
 
 Et c'est ce qui rend leur chute si grave, dans la logique du corpus. Un veilleur qui descend n'a pas seulement commis une faute : il a ==quitté son poste==. Le domaine d'en haut n'est plus tenu. Les quatre versets de *Bereshit* 6 ne disent presque rien de tout cela — ils mentionnent des fils d'**Elohim** et passent aux **Nephilim**. C'est le *Sefar Gibbaraya* qui déploie la scène, dans la langue même où le mot se dit, et sur des fragments retrouvés à ==Qumrân==.
 

@@ -16,7 +16,7 @@ C'est de là que vient [[Eliezer]], l'intendant qui devrait hériter faute de fi
 
 Et c'est jusqu'à ==Chovah, au septentrion de Dammesek==, qu'[[Avraham]] poursuit les rois de la coalition pour délivrer [[Lot]]. Le corpus s'en sert pour dire ==jusqu'où il est allé== : très loin, bien au-delà de ce qu'un homme aux trois cent dix-huit serviteurs devrait pouvoir.
 
-Elle deviendra, dans les *Nevi'im*, la capitale d'Aram et l'adversaire constant du royaume du septentrion. Ici, elle n'est encore que ==la ville d'où vient un serviteur fidèle==.
+Elle deviendra, dans les *Neviʾim*, la capitale d'Aram et l'adversaire constant du royaume du septentrion. Ici, elle n'est encore que ==la ville d'où vient un serviteur fidèle==.
 
 ## Voir aussi
 

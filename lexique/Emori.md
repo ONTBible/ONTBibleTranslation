@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Emori* / הָאֱמֹרִי) — ==les Emori==, peuple majeur présent à la fois en [[Kena'an]] et en [[Shin'ar]]. L'un des plus étendus de la région.
+(*Emori* / הָאֱמֹרִי) — ==les Emori==, peuple majeur présent à la fois en [[Kenaʿan]] et en [[Shinʿar]]. L'un des plus étendus de la région.
 
 ## Ce que le corpus en fait
 
@@ -22,6 +22,6 @@ Le corpus refuse ainsi de faire de la dépossession un droit du sang. ==Elle est
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père. Ses frères kenaʿani : [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
 
 Où le corpus les reprend : *Bereshit* 14 comme alliés, *Bereshit* 15 pour la mesure de leur *avon*.

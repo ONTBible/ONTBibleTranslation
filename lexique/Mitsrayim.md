@@ -30,7 +30,7 @@ Et c'est là que le peuple sera un jour ==affligé== — le même verbe, *anah*,
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père, [[Koush]] son frère, [[Kena'an]] son frère.
+Sa maison : [[Cham]] son père, [[Koush]] son frère, [[Kenaʿan]] son frère.
 
 Ce que son **Shem** touche : [[Hagar]] la Mitsrit, la descente d'Avram, et l'affliction qui répond à l'affliction.
 

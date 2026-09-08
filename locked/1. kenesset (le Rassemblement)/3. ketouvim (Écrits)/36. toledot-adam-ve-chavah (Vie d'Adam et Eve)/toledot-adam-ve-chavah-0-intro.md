@@ -45,17 +45,17 @@ Sa réponse n'est pas l'annihilation, mais l'*exil* : l'humanité survit — mai
 *Déclin et recouvrement.* Ce livre ne suppose pas une compréhension « primitive » des premiers humains qui se serait raffinée après eux — ce serait un présupposé évolutionniste moderne. L'ontologie hébraïque pense l'inverse : origine lumineuse → déclin → recouvrement par fragments. *Ils savaient*, plus pleinement que nous ; après eux la vérité s'est couverte de filtres ; nous n'en recouvrons que des restes.
 
 *Le filtre.* Le critère n'est pas la canonicité mais la *fidélité au réel* : un motif va au corps s'il est ancré dans *Bereshit* ou corroboré par un témoin juif indépendant ; il va aux notes s'il est une trace incertaine ; il est *écarté* s'il décrit un non-réel. Ainsi, retirés du corps :
-- *la montée de l'âme d'Adam aux cieux* — distorsion : l'humain est un **nefesh** incarné, non une *psyché* grecque ; il retourne à la poussière et descend au **She'ol** dans l'attente ;
+- *la montée de l'âme d'Adam aux cieux* — distorsion : l'humain est un **nefesh** incarné, non une *psyché* grecque ; il retourne à la poussière et descend au **Sheʾol** dans l'attente ;
 - *la pénitence méritoire dans les fleuves* et *l'« huile de miséricorde » messianique* — surcouches, retirées.
 - *la « satanologie » — testée motif par motif, non écartée en bloc* : **ha-satan** comme *fonction* (l'accusateur qui se transfigure en lumière) est *admis* au corps, car corroboré par Shaul (2 Co 11:14) ; restent dehors le Satan-nom-propre *dualiste* et l'identification *serpent = Satan* — le serpent reste le *nachash* fonctionnel de *Bereshit* 3.
 
-*Les trois niveaux et la division du travail.* Niveau 1 (corps, leur voix) : un savoir direct, vécu, simplement dit — les personnages *ne théorisent pas*. Niveau 2 (gloses, notre voix) : c'est là qu'on déploie les termes recouvrés (**kavod**, **She'ol**, **nefesh**). Niveau 3 : (translittération / hébreu). *Cette introduction portant le cadre, les gloses du corps restent légères.*
+*Les trois niveaux et la division du travail.* Niveau 1 (corps, leur voix) : un savoir direct, vécu, simplement dit — les personnages *ne théorisent pas*. Niveau 2 (gloses, notre voix) : c'est là qu'on déploie les termes recouvrés (**kavod**, **Sheʾol**, **nefesh**). Niveau 3 : (translittération / hébreu). *Cette introduction portant le cadre, les gloses du corps restent légères.*
 
 *La voix.* Un cadre à la 3ᵉ personne (registre *toledot*) enchâsse un *témoignage à la première personne* : au chapitre central, [[Chavah]] témoigne elle-même de la Chute et de la **kavod** perdue — car seul celui qui a porté la gloire peut attester de sa perte.
 
 ## Vue d'ensemble
 
-Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade — la première mort — et rassemble ses enfants, qui ne connaissent pas encore la douleur. [[Chavah]] et [[Shet]] vont supplier à la porte d'Eden l'onction de l'arbre de la Vie ; une bête se dresse contre [[Shet]] en chemin, et l'envoyé céleste refuse : le temps fixé n'est pas venu. De retour, *==Chavah== témoigne* : elle dit comment le serpent les a fait dévier, et comment ils furent dénudés de la **kavod**. Puis Adam meurt — il rend la **Neshamah**, retourne à la poussière, descend au **She'ol** ; les luminaires s'obscurcissent ; ses fils l'ensevelissent dans l'enceinte d'Eden. [[Chavah]] meurt à son tour, et repose auprès de lui ; la mémoire de la gloire perdue demeure parmi leurs fils.
+Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade — la première mort — et rassemble ses enfants, qui ne connaissent pas encore la douleur. [[Chavah]] et [[Shet]] vont supplier à la porte d'Eden l'onction de l'arbre de la Vie ; une bête se dresse contre [[Shet]] en chemin, et l'envoyé céleste refuse : le temps fixé n'est pas venu. De retour, *==Chavah== témoigne* : elle dit comment le serpent les a fait dévier, et comment ils furent dénudés de la **kavod**. Puis Adam meurt — il rend la **Neshamah**, retourne à la poussière, descend au **Sheʾol** ; les luminaires s'obscurcissent ; ses fils l'ensevelissent dans l'enceinte d'Eden. [[Chavah]] meurt à son tour, et repose auprès de lui ; la mémoire de la gloire perdue demeure parmi leurs fils.
 
 ## Caractéristiques particulières
 
@@ -73,7 +73,7 @@ Le motif de la **kavod** perdue est le centre de gravité : retrouvé verbatim e
 
 *(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* La *Berit Hadashah* réactive fortement la matière adamique : le « dernier Adam » et l'« homme premier » (*El HaQorintiyim* — 1 Co 15), le corps de gloire, le dépouillement et le revêtement. Ce sont des *lectures rétrospectives* : légitimes ici, dans l'introduction, comme résonances du corpus ; écartées du récit lui-même, où Adam et Chavah parlent depuis *leur* temps, non depuis Shaul.
 
-Une convergence, elle, est plus qu'un écho : Shaul dit que *l'accusateur se transfigure en envoyé de lumière* (*El HaQorintiyim* — 2 Co 11:14) — exactement la seconde approche de **ha-satan**, et il en tire peut-être de cette tradition même. Là, la résonance ne projette rien : elle *corrobore* un réel que le livre porte — ce pourquoi ce motif, lui, entre au corps. De même, la *Berit Hadashah* re-corrobore d'autres réels qu'un premier filtrage avait coupés à tort : *==Mikha'el== ministre à la sépulture d'un juste* (Yehudah 9 ; Luqas 16:22), l'*immersion de retour* (Yohanan, Marqus 1:4), la *vision du char* (2 Co 12 ; Ez 1).
+Une convergence, elle, est plus qu'un écho : Shaul dit que *l'accusateur se transfigure en envoyé de lumière* (*El HaQorintiyim* — 2 Co 11:14) — exactement la seconde approche de **ha-satan**, et il en tire peut-être de cette tradition même. Là, la résonance ne projette rien : elle *corrobore* un réel que le livre porte — ce pourquoi ce motif, lui, entre au corps. De même, la *Berit Hadashah* re-corrobore d'autres réels qu'un premier filtrage avait coupés à tort : *==Mikhaʾel== ministre à la sépulture d'un juste* (Yehudah 9 ; Luqas 16:22), l'*immersion de retour* (Yohanan, Marqus 1:4), la *vision du char* (2 Co 12 ; Ez 1).
 
 Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que l'antique serpent est **ha-satan** (*Machazeh Yohanan* — Rev 12:9). C'est une reconnaissance *seconde* : dans le témoignage de [[Chavah]] — la vérité primordiale — le serpent reste la créature, car la **chattat** est *humaine* ; l'identifier à un dieu rival déplacerait la faute hors de l'humain (dualisme). Cette reconnaissance demeure donc ici, aux Échos, non dans la voix primordiale.
 
@@ -85,11 +85,11 @@ Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que
 
 ## Repères
 
-- **She'ol** (*She'ol* / שְׁאוֹל) — *intraduisible neuf*, introduit par ce livre : le domaine des morts dans l'attente, non « l'enfer ».
+- **Sheʾol** (*Sheʾol* / שְׁאוֹל) — *intraduisible neuf*, introduit par ce livre : le domaine des morts dans l'attente, non « l'enfer ».
 - **teshuvah** (*teshuvah* / תְּשׁוּבָה) — *intraduisible neuf* : le retour, le réalignement vers la présence quittée — non « repentance » (culpabilité) ni « pénitence » (mérite). Parallèle à **emunah**.
 - **ha-satan** (*ha-satan* / הַשָּׂטָן) — **intraduisible neuf (provisoire — définitif à *Iyov*)** : l'accusateur, la *fonction* d'accusation du Conseil ; l'article « ha- » marque la fonction, non un nom propre. Retrouvé sous le grec via le mapping Septante ↔ Kenesset.
 - **tevilah** (*tevilah* / טְבִילָה) — *intraduisible neuf* : l'immersion de retour (le mikveh ; l'immersion de Yohanan, Marqus 1:4) — non « baptême » ni « bain ».
 - **merkavah** (*merkavah* / מֶרְכָּבָה) — *intraduisible* : le trône-char de **YHWH** **Elohim** vu en vision (Yehezqel, Ez 1) — déjà nommé au CLAUDE.md ; premier emploi en corps de texte ici.
-- [[Mikha'el]] — *premier envoyé céleste nommé de l'ONT* : nom propre (sans gras), fonctionnellement un **mal'akh** (non « ange »).
+- [[Mikhaʾel]] — *premier envoyé céleste nommé de l'ONT* : nom propre (sans gras), fonctionnellement un **malʾakh** (non « ange »).
 - *Noms propres* (Adam, [[Chavah]], [[Shet]], [[Hevel]], [[Qayin]]) — sans gras, niveau 3 + glose à la première occurrence.
 - *Fondations parallèles* : *Bereshit* 2 (Eden-Temple, *Neshamah*, *ish* / *ishah*) et *Bereshit* 3 (le *nachash*, *tov vara*, la nudité, les [[Kheruvim]], l'arbre de la Vie).

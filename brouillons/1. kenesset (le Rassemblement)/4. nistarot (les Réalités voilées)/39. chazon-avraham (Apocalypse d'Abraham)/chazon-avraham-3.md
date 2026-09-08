@@ -17,7 +17,7 @@
 
 ## Sors de la maison de ton père
 
-⁸ Sors (*yatsa* / יָצָא) de chez [[Terach]] (*Terach* / תֶּרַח) *[le père d'[[Avraham]], artisan de dieux domestiques — les deux **parashiot** précédentes se sont tenues dans son atelier. Son **Shem** se rattache peut-être à *yareach* (יָרֵחַ), la lune : le culte que son fils quitte serait inscrit dans son nom]* ton père, et va-t'en hors de la maison *[et le lecteur du corpus entend une phrase qu'il connaît : *va-t'en de ton pays, de ta parenté et de ==la maison de ton père==* (*Bereshit* 12:1).]* *[La Torah la prononcera plus tard, à [[Charan]] la ville ; ce livre la fait entendre ici, ==avant qu'elle soit écrite==, et le lecteur ne sait pas encore que c'est la même voix.]* *[==L'ordre du départ est le premier mot qu'elle adresse==, avant toute promesse et avant tout nom : ce livre place la sortie ==au commencement==, là où la Torah la place aussi]*, ⁹ afin que toi non plus tu ne sois pas tué dans les **chata'im** *[les formes nominales de **chata** — ==manquer sa marque== (§3.1). Ce que la maison a raté n'est pas une faute morale : c'est ==une cible==.]* *[Elle a servi ce qui ne pouvait rien servir, et le mot ne dit rien de plus. Le témoin n'accuse personne — il constate qu'on est pris ==avec ce à quoi l'on est attaché==, et c'est pourquoi la sortie doit précéder]* de la maison de ton père. »
+⁸ Sors (*yatsa* / יָצָא) de chez [[Terach]] (*Terach* / תֶּרַח) *[le père d'[[Avraham]], artisan de dieux domestiques — les deux **parashiot** précédentes se sont tenues dans son atelier. Son **Shem** se rattache peut-être à *yareach* (יָרֵחַ), la lune : le culte que son fils quitte serait inscrit dans son nom]* ton père, et va-t'en hors de la maison *[et le lecteur du corpus entend une phrase qu'il connaît : *va-t'en de ton pays, de ta parenté et de ==la maison de ton père==* (*Bereshit* 12:1).]* *[La Torah la prononcera plus tard, à [[Charan]] la ville ; ce livre la fait entendre ici, ==avant qu'elle soit écrite==, et le lecteur ne sait pas encore que c'est la même voix.]* *[==L'ordre du départ est le premier mot qu'elle adresse==, avant toute promesse et avant tout nom : ce livre place la sortie ==au commencement==, là où la Torah la place aussi]*, ⁹ afin que toi non plus tu ne sois pas tué dans les **chataʾim** *[les formes nominales de **chata** — ==manquer sa marque== (§3.1). Ce que la maison a raté n'est pas une faute morale : c'est ==une cible==.]* *[Elle a servi ce qui ne pouvait rien servir, et le mot ne dit rien de plus. Le témoin n'accuse personne — il constate qu'on est pris ==avec ce à quoi l'on est attaché==, et c'est pourquoi la sortie doit précéder]* de la maison de ton père. »
 
 ¹⁰ Et je sortis *[==aucune parole, aucune question, aucun délai==. Deux **parashiot** d'observation patiente, et quand la voix parle il sort. Le récit ne commente pas cette obéissance et ne la loue pas — il la rapporte, ce qui est plus fort]*.
 
@@ -31,7 +31,7 @@
 
 ¹⁶ Et il n'en resta rien qui se tînt debout (*qum* / קוּם) *[se tenir debout, et par là ==tenir==. Le verbe de la **berith** que **YHWH** *meqim*, fait se tenir. À la **parashah** ①, [[Terach]] avait dû s'y reprendre pour faire tenir [[Merumath]] debout ; ici plus rien ne tient, et personne ne recommence]*.
 
-¹⁷ Et moi je me tenais dehors, et je regardais (*ra'ah* / רָאָה) *[le regard qui examine et constate — celui d'**Elohim** inspectant son ouvrage en *Bereshit* 1. C'est le troisième constat de ce jeune homme, et le dernier de l'atelier]*.
+¹⁷ Et moi je me tenais dehors, et je regardais (*raʾah* / רָאָה) *[le regard qui examine et constate — celui d'**Elohim** inspectant son ouvrage en *Bereshit* 1. C'est le troisième constat de ce jeune homme, et le dernier de l'atelier]*.
 
 ## Ce que je compris, et ce que je ne compris pas
 
@@ -69,7 +69,7 @@
 
     *Le §4.14 donne de quoi tenir les deux sans les confondre. Ce livre ne fait pas de chronologie — il dit ==ce que la maison est devenue==, et il le dit depuis une consignation postérieure au Ḥurban, portant une tradition et non un registre. La Torah dit où et quand [[Terach]] meurt ; ce témoin-ci dit ce que le feu a pris. Le lecteur reçoit les deux, et l'apparat lui dit qu'ils divergent.*
 
-- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *ra'ah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaph* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
+- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *raʾah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaph* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
 
 ### Ancrages dans le corpus ONT
 
@@ -77,7 +77,7 @@
 - *Bereshit* 11:32 (verrouillé) — [[Terach]] meurt à [[Charan]] la ville, à deux cent cinq ans. C'est ce fait qui rend la tension ci-dessus réelle.
 - *Bereshit* 12:1 (verrouillé) — *lekh-lekha* : « va-t'en de ton pays, de ta parenté et de ==la maison de ton père== ». La voix de cette **parashah** emploie les mêmes mots avant que la Torah les prononce.
 - *Yovelim* 12:12-14 (livre n° 06) — [[Avraham]] met le feu à la maison d'idoles et [[Charan]] y périt. Témoin juif du IIᵉ siècle avant l'ère, indépendant de ce livre.
-- *Bereshit* 1 (verrouillé) — *bara* et *ra'ah*, les deux verbes que cette **parashah** met dans la bouche de la voix et dans le regard de l'enfant.
+- *Bereshit* 1 (verrouillé) — *bara* et *raʾah*, les deux verbes que cette **parashah** met dans la bouche de la voix et dans le regard de l'enfant.
 
 ---
 

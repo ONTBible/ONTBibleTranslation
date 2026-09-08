@@ -18,7 +18,7 @@ C'est le point le plus contre-intuitif, et il faut s'y arrêter.
 
 On s'attendrait à ce qu'un texte qui refuse les dieux des nations refuse aussi leur vocabulaire. Il fait l'inverse : il ==garde le mot== et lui dispute son occupant.
 
-Regardez *Bereshit* 14. [[Malki-tsedeq]], roi de [[Shalem]], sort à la rencontre d'[[Avraham|Avram]] et le bénit par **El Elyon**, *fondateur des Cieux et de la Terre*. C'est un roi kena'ani qui parle, dans les mots de son propre culte. Et [[Avraham|Avram]] répond en levant la main : *j'ai levé la main vers **YHWH**, **El Elyon**, fondateur des Cieux et de la Terre*.
+Regardez *Bereshit* 14. [[Malki-tsedeq]], roi de [[Shalem]], sort à la rencontre d'[[Avraham|Avram]] et le bénit par **El Elyon**, *fondateur des Cieux et de la Terre*. C'est un roi kenaʿani qui parle, dans les mots de son propre culte. Et [[Avraham|Avram]] répond en levant la main : *j'ai levé la main vers **YHWH**, **El Elyon**, fondateur des Cieux et de la Terre*.
 
 Il ne corrige pas le vocabulaire du roi. ==Il ajoute un nom devant.== L'échange n'a de sens que parce que ==les deux hommes emploient le même mot== — l'un désigne la place, l'autre dit qui l'occupe.
 
@@ -36,9 +36,9 @@ Ce n'est pas une variation de style. **Elohim** dit ==celui qui ordonne le cosmo
 
 C'est dans les Shemot qu'*El* est le plus présent, et de loin. Un nom théophore est une phrase courte dont il est le sujet ou l'objet :
 
-[[Mikha'el]] — *qui est comme **El*** ? Une question, pas une affirmation, et elle attend qu'on réponde « personne ».
-[[Rafa'el]] — ***El** guérit*.
-[[Yishma'el]] — ***El** entend*, et le récit de [[Hagar]] au désert le prouve avant même que l'enfant naisse.
+[[Mikhaʾel]] — *qui est comme **El*** ? Une question, pas une affirmation, et elle attend qu'on réponde « personne ».
+[[Rafaʾel]] — ***El** guérit*.
+[[Yishmaʿel]] — ***El** entend*, et le récit de [[Hagar]] au désert le prouve avant même que l'enfant naisse.
 [[Baraqel]] — *éclair d'**El***, et c'est un père de **gibbaraya** qui le porte.
 [[Bet-El]] — *maison d'**El***, un lieu et non une personne.
 
@@ -56,6 +56,6 @@ Les composés, qui ont chacun leur entrée : **El Elyon** — celui d'en haut, q
 
 Le pluriel : **Elohim**, et l'écart qui les sépare.
 
-Les porteurs : [[Mikha'el]], [[Rafa'el]], [[Yishma'el]], [[Baraqel]], [[Bet-El]] — et tous ceux dont le nom finit par cette syllabe.
+Les porteurs : [[Mikhaʾel]], [[Rafaʾel]], [[Yishmaʿel]], [[Baraqel]], [[Bet-El]] — et tous ceux dont le nom finit par cette syllabe.
 
 Ce qu'il n'est pas : *elilim*, les riens — le mot que *Yeshayahu* fera sonner contre lui.

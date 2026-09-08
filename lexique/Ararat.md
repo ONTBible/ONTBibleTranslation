@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-Ce n'est pas un mot hébreu. (*Ararat* / אֲרָרָט) est la forme sous laquelle l'hébreu écrit ==Ourartou== — un royaume réel, situé dans les hautes terres de l'Arménie antique, au septentrion de [[Shin'ar]].
+Ce n'est pas un mot hébreu. (*Ararat* / אֲרָרָט) est la forme sous laquelle l'hébreu écrit ==Ourartou== — un royaume réel, situé dans les hautes terres de l'Arménie antique, au septentrion de [[Shinʿar]].
 
 Le corpus ne l'explique donc pas par une racine : il ==nomme un lieu du monde connu==, un massif que ses lecteurs situaient. C'est un des cas où le texte fait de la géographie, et où il faut la prendre pour ce qu'elle est.
 
@@ -28,4 +28,4 @@ Le corpus ne fait rien de plus de ce lieu — aucun peuple n'en sort dans la tab
 
 Qui s'y pose : [[Noach]], et la *tevah* qui accomplit son **Shem**.
 
-Le repère qui le situe : [[Shin'ar]], au midi — la plaine où l'humanité se rassemblera ensuite pour bâtir.
+Le repère qui le situe : [[Shinʿar]], au midi — la plaine où l'humanité se rassemblera ensuite pour bâtir.

@@ -10,7 +10,7 @@ De *palag* (*palag* / פָּלַג) — ==fendre en deux, diviser==, et aussi cr
 
 ## Ce que le corpus en fait
 
-Son **Shem** ==anticipe l'événement==, et le texte le dit dans la même phrase : *car en ses jours la Terre fut divisée* — *niflega ha'arets*, la même racine.
+Son **Shem** ==anticipe l'événement==, et le texte le dit dans la même phrase : *car en ses jours la Terre fut divisée* — *niflega haʾarets*, la même racine.
 
 C'est un procédé que le corpus emploie plusieurs fois et qu'il faut savoir reconnaître : ==il nomme avant de raconter==. La division de *Bereshit* 11 — les langues confondues à [[Bavel]], les hommes dispersés — ==est déjà inscrite dans ce **Shem**==, deux chapitres avant qu'elle arrive.
 

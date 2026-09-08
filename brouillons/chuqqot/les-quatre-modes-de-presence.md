@@ -93,7 +93,7 @@ de **kli**.
 
 ### Premier support : emprunté
 
-Le **mal'akh** est ==l'être-de-mission==. Sa définition est sa fonction, et rien
+Le **malʾakh** est ==l'être-de-mission==. Sa définition est sa fonction, et rien
 d'autre — il n'existe pleinement qu'envoyé.
 
 Il n'a donc pas d'**olam** à lui. Il en prend un le temps de la mission : un
@@ -102,10 +102,10 @@ Il n'a donc pas d'**olam** à lui. Il en prend un le temps de la mission : un
 
 La fumée que suit le peuple au désert, c'est cela. Le feu du buisson, c'est
 cela. Et le dos que [[Moshe]] voit, quand il lui est dit qu'il ne peut pas voir
-la face et vivre, ==c'est le dos d'un **mal'akh**==.
+la face et vivre, ==c'est le dos d'un **malʾakh**==.
 
 De là une chose qui a longtemps passé pour une contradiction et qui n'en est
-pas. Le corpus dit tantôt *« **YHWH** lui apparut »*, tantôt *« le **mal'akh** de
+pas. Le corpus dit tantôt *« **YHWH** lui apparut »*, tantôt *« le **malʾakh** de
 **YHWH** lui apparut »*, et il ne choisit pas. Ce n'est pas un flottement :
 ==c'est le même événement, dit une fois par sa source et une fois par son mode==.
 
@@ -121,10 +121,10 @@ Le **davar** de **YHWH** est vivant au point qu'il ne pouvait plus s'accomplir
 que par ==l'incarnation sans fin== d'un fils de l'**adam** : un vrai **basar**,
 un vrai **Nefesh**, une vraie mort, une vraie résurrection.
 
-Et il faut voir pourquoi un **mal'akh** ne pouvait pas le porter, parce que c'est
+Et il faut voir pourquoi un **malʾakh** ne pouvait pas le porter, parce que c'est
 là que la nécessité se voit.
 
-Un **mal'akh** n'a pas de **basar**. Il n'a qu'un **olam** prêté. Donc il ne peut
+Un **malʾakh** n'a pas de **basar**. Il n'a qu'un **olam** prêté. Donc il ne peut
 ni mourir ni ressusciter — il n'a rien qui puisse mourir. Donc ==il ne peut rien
 changer à la condition de ce qui meurt==. Il peut annoncer, frapper, garder,
 conduire ; il ne peut pas ==traverser== ce qu'il ne subit pas.
@@ -162,7 +162,7 @@ vienne sur ceux qui sont devenus son corps.
 | strate | ce que c'est | son support | son **olam** |
 |---|---|---|---|
 | I | **YHWH** — hors de toute réalité, incréé | aucun | ==aucun== — rien ne le perçoit |
-| II | le **mal'akh** en mission | un **olam** emprunté | ==prêté, puis rendu== |
+| II | le **malʾakh** en mission | un **olam** emprunté | ==prêté, puis rendu== |
 | III | l'incarnation, à son paroxysme | un **Nefesh** qui perdure | ==assumé et gardé== |
 | IV | la **Ruach ha-Qodesh** | le corps rassemblé — le **qahal** | ==un peuple== |
 
@@ -240,7 +240,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 **YHWH** reste **YHWH**, hors de l'**olam**. Les trois autres strates
 ==actualisent== dans l'**olam** ce qu'il est — il ne devient pas successivement
-**mal'akh**, puis incarnation, puis **Ruach**, comme on changerait d'état.
+**malʾakh**, puis incarnation, puis **Ruach**, comme on changerait d'état.
 
 Lire les quatre comme une suite d'états serait ==refaire avec des mots hébreux ce
 que la formulation grecque a fait avec les siens== : transformer un rapport en

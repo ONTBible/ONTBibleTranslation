@@ -14,7 +14,7 @@ Un trou dans la roche.
 
 Il faut voir le pays pour entendre le nom. La montagne de [[Seir]] est un massif de grès rouge, tendre, strié, et le vent et l'eau y ont travaillé pendant des millénaires. On n'y bâtit pas d'abord : ==on y taille==. On agrandit une cavité, on lisse une paroi, on creuse un escalier, et l'on obtient une maison qui n'a coûté aucune pierre. C'est le pays qui produira plus tard les façades taillées de Pétra, dans la même roche et par le même geste.
 
-Un **Shem** qui dit l'habitat plutôt que l'ancêtre est rare dans le corpus. La plupart des peuples s'y nomment d'un père — les fils de [[Kena'an]], les fils de [[Yavan]]. Ceux-ci se nomment de ==l'endroit où ils dorment==.
+Un **Shem** qui dit l'habitat plutôt que l'ancêtre est rare dans le corpus. La plupart des peuples s'y nomment d'un père — les fils de [[Kenaʿan]], les fils de [[Yavan]]. Ceux-ci se nomment de ==l'endroit où ils dorment==.
 
 ## Ce que le texte en dit, et pas davantage
 
@@ -42,4 +42,4 @@ Leur montagne : [[Seir]], le massif de grès qui leur donne leur nom autant qu'i
 
 Les autres peuples anciens de la même campagne : [[Refaim]], [[Zouzim]], [[Emim]] — tous nommés en passant, tous frappés, aucun raconté.
 
-Ceux qui les balaient : [[Kedorlaomer]] et ses trois alliés, [[Amrafel]], [[Aryokh]], [[Tid'al]].
+Ceux qui les balaient : [[Kedorlaomer]] et ses trois alliés, [[Amrafel]], [[Aryokh]], [[Tidʿal]].

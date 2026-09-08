@@ -12,7 +12,7 @@ De *adah* (*adah* / עָדָה) — parer, orner. ==La parure== : ce qu'on ajout
 
 Elle est la première des deux **ishah** de [[Lamekh-fils-de-Metoushael]], et son nom demande qu'on regarde le chapitre entier.
 
-Les hommes y reçoivent des **Shem** ==de fonction ou d'acte== : l'acquisition, l'inauguration, celui qui mène, celui qui coule, celui qui aiguise. Les femmes reçoivent des **Shem** ==de qualité perçue== : la parure pour elle, l'ombre pour [[Tsillah]], la douceur pour [[Na'amah]].
+Les hommes y reçoivent des **Shem** ==de fonction ou d'acte== : l'acquisition, l'inauguration, celui qui mène, celui qui coule, celui qui aiguise. Les femmes reçoivent des **Shem** ==de qualité perçue== : la parure pour elle, l'ombre pour [[Tsillah]], la douceur pour [[Naʿamah]].
 
 Le texte ne le commente pas. Il le fait, régulièrement, et la règle de l'ONT est de ne pas combler ce qu'il laisse sans explication — mais de ==le rendre visible==, parce que le lecteur français ne l'entendrait pas.
 
@@ -30,4 +30,4 @@ C'est aussi devant elle, avec [[Tsillah]], que son **ish** chante le premier po�
 
 Sa maison : [[Lamekh-fils-de-Metoushael]] son **ish**, [[Tsillah]] l'autre **ishah**, [[Yaval]] et [[Youval]] ses fils.
 
-Ce que son **Shem** touche : celui de [[Tsillah]] et celui de [[Na'amah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.
+Ce que son **Shem** touche : celui de [[Tsillah]] et celui de [[Naʿamah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.

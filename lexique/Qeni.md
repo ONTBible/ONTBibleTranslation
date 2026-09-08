@@ -14,7 +14,7 @@ Une enclume qui se déplace.
 
 Il faut se représenter ce que cela veut dire dans ce monde-là. Le métal ne se travaille pas partout : il faut du minerai, du charbon, un souffle, et un savoir qui ne s'improvise pas. Les villages n'ont pas de forge. Alors la forge ==vient à eux== — un homme et sa famille, des outils sur une bête, qui s'installent trois jours au bord du campement, refont les pointes, ressoudent les lames, et repartent.
 
-C'est une place étrange dans l'ordre des peuples : ==indispensable et jamais chez soi==. On les accueille parce qu'on a besoin d'eux, on ne les compte pas parmi les siens. Ils vivent dans la région sèche entre [[Kena'an]] et [[Mitsrayim]], là où passent les caravanes et où se tiennent les mines de cuivre.
+C'est une place étrange dans l'ordre des peuples : ==indispensable et jamais chez soi==. On les accueille parce qu'on a besoin d'eux, on ne les compte pas parmi les siens. Ils vivent dans la région sèche entre [[Kenaʿan]] et [[Mitsrayim]], là où passent les caravanes et où se tiennent les mines de cuivre.
 
 Et le **Shem** touche à celui de [[Qayin]] par les mêmes consonnes. Le corpus n'établit aucun lien entre le peuple et l'homme — il ne dit rien, et l'ONT ne comble pas. Mais l'oreille hébraïque entend les deux, et il vaut mieux le savoir que l'ignorer : ==le premier bâtisseur de ville et le peuple des forgerons portent le même son==, l'un et l'autre du côté de ce que la main fabrique.
 
@@ -34,8 +34,8 @@ Tout leur poids est devant. *Shemot* fera d'un Qeni le beau-père de Moshe — c
 
 ## Voir aussi
 
-Leur pays : [[Kena'an]] et [[Mitsrayim]] entre lesquels ils circulent, et [[Qadesh]] dans la même région sèche.
+Leur pays : [[Kenaʿan]] et [[Mitsrayim]] entre lesquels ils circulent, et [[Qadesh]] dans la même région sèche.
 
-Les neuf autres de la liste : [[Qadmoni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]] — et le Qenizi, que le corpus nomme sans le gloser.
+Les neuf autres de la liste : [[Qadmoni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]] — et le Qenizi, que le corpus nomme sans le gloser.
 
 Le son que le **Shem** partage : [[Qayin]], dont le corpus tire le nom d'un autre verbe, et dont la lignée donne au monde le bronze et le fer par [[Tuval-Qayin]].

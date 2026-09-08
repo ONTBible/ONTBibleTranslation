@@ -9,7 +9,7 @@
 
 ³ Ceux qui avaient franchi la frontière seraient retenus dans une limite qu'ils n'avaient pas choisie. ⁴ Leur mouvement deviendrait immobilité ; leur prise deviendrait captivité.
 
-⁵ [[Azazel]] (*Azazel* / עזאזל) *[l'un des **irin**, déplacé vers le lieu de coupure]* serait envoyé vers le désert (*midbar* / מִדְבָּר) *[lieu hors culture et hors installation, espace de coupure]*, dans un lieu sans service et sans assemblée. ⁶ [[Shemichazah]] (*Shemichazah* / שמיחזה) *[chef parmi les **irin** et porteur de leur faute commune]* et ses compagnons seraient retenus jusqu'au temps fixé (*mo'ed* / מוֹעֵד) *[rendez-vous déterminé dans l'ordre du jugement]*.
+⁵ [[Azazel]] (*Azazel* / עזאזל) *[l'un des **irin**, déplacé vers le lieu de coupure]* serait envoyé vers le désert (*midbar* / מִדְבָּר) *[lieu hors culture et hors installation, espace de coupure]*, dans un lieu sans service et sans assemblée. ⁶ [[Shemichazah]] (*Shemichazah* / שמיחזה) *[chef parmi les **irin** et porteur de leur faute commune]* et ses compagnons seraient retenus jusqu'au temps fixé (*moʿed* / מוֹעֵד) *[rendez-vous déterminé dans l'ordre du jugement]*.
 
 ⁷ Quant aux **gibbaraya**, leurs fils, ils seraient livrés à leur propre violence. ⁸ Le bras qui avait frappé toute chair se tournerait contre le bras du compagnon. ⁹ Les puissants se heurteraient aux puissants, et leur grandeur deviendrait instrument de leur chute.
 

@@ -10,7 +10,7 @@ La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » 
 
 ## Le Shem
 
-(*Ninveh* / נִינְוֵה) — la grande ville d'Assur, sur le Tigre. Le corpus la fait fonder par [[Nimrod]], qui ==sort de [[Shin'ar]] vers Assur== pour la bâtir.
+(*Ninveh* / נִינְוֵה) — la grande ville d'Assur, sur le Tigre. Le corpus la fait fonder par [[Nimrod]], qui ==sort de [[Shinʿar]] vers Assur== pour la bâtir.
 
 ## La ville qu'on ne veut pas sauver
 
@@ -32,7 +32,7 @@ Et c'est cette ville-là que **YHWH** envoie un **navi** avertir, et c'est elle 
 
 ## Voir aussi
 
-Qui la fonde : [[Nimrod]], sorti de [[Shin'ar]] vers Assur.
+Qui la fonde : [[Nimrod]], sorti de [[Shinʿar]] vers Assur.
 
 Sa sœur en fondation : [[Bavel]] — les deux capitales qui broieront Israël.
 

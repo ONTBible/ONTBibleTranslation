@@ -20,6 +20,6 @@ C'est une des raisons pour lesquelles il faut se garder de lire ce chapitre comm
 
 ## Voir aussi
 
-Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[Erekh]], dans [[Shin'ar]].
+Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[Erekh]], dans [[Shinʿar]].
 
 La lignée qui la range : [[Koush]], [[Cham]] — et celle que son empire portera : [[Shem-fils-de-Noach]].

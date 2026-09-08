@@ -12,7 +12,7 @@ Ce mot porte ==les deux lettres que la graphie sépare==, et c'est le meilleur e
 Deux souffles différents, à deux endroits différents de la bouche. ==Si les deux sonnent pareil, l'un des deux est faux.==
 Un campement au pied d'une montagne, dans un désert. Il faut bâtir la demeure portative où **YHWH** viendra résider au milieu du camp : une charpente d'acacia, des tentures de lin retors, des chérubins d'or battu, une lampe d'une seule pièce avec ses calices en fleur d'amandier. L'ouvrage est le plus chargé de tout le récit, et **Elohim** désigne l'homme qui le mènera.
 
-Ce n'est pas un ancien. Ce n'est pas un homme reconnu pour son jugement. C'est ==Betsalel==, un artisan — et ce dont il est rempli, dit le texte, c'est de **ruach** d'**Elohim** ==en chokhmah==, en **binah** et en **da'at**, *pour travailler l'or, l'argent et le bronze, tailler la pierre, sculpter le bois*.
+Ce n'est pas un ancien. Ce n'est pas un homme reconnu pour son jugement. C'est ==Betsalel==, un artisan — et ce dont il est rempli, dit le texte, c'est de **ruach** d'**Elohim** ==en chokhmah==, en **binah** et en **daʿat**, *pour travailler l'or, l'argent et le bronze, tailler la pierre, sculpter le bois*.
 
 Arrête-toi sur ce que tu viens de lire. Le mot que les traductions rendent par « sagesse » désigne ici la main qui sait à quelle température le bronze se laisse couler, combien de fois retordre un fil avant qu'il tienne, où poser le ciseau sur une pierre pour qu'elle s'ouvre au lieu d'éclater. Le tisserand a de la ==chokhmah== (*chokhmah* / חָכְמָה). Le marin qui tient sa route dans le gros temps en a. La femme qui file en a.
 

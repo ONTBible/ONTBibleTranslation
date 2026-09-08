@@ -12,7 +12,7 @@ La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » 
 
 ## Ce que le corpus en fait
 
-Le texte la qualifie d'une façon qui arrête : *c'est ==la grande ville==* — *ha'ir hagdolah*.
+Le texte la qualifie d'une façon qui arrête : *c'est ==la grande ville==* — *haʿir hagdolah*.
 
 La formule reviendra, appliquée à [[Ninveh]], dans le livre de Yonah — ==cette grande ville== dont **YHWH** dit qu'elle compte plus de cent vingt mille êtres qui ne savent pas distinguer leur droite de leur gauche.
 

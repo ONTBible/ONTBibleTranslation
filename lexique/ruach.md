@@ -17,4 +17,4 @@ Regarde ce que ça implique de la mort. Quand la ==Ruach== se retire, ce qui res
 
 Le corpus distingue soigneusement trois mots qu'on confond toujours. La **Nefesh** est la vie concrète, celle qui a soif — et les bêtes en ont autant que l'homme. La **Neshamah** est le souffle reçu par contact direct, bouche contre narines, et l'adam seul le reçoit. La ==Ruach== est ce qui meut, chez l'homme comme dans le monde. Trois mots, trois opérations, aucun n'est « l'âme ».
 
-Et c'est cette même ==Ruach== qui, dans *Yeshayahu* 11:2, repose sur le roi promis en portant six capacités — **chokhmah**, **binah**, **etsah**, **gevurah**, **da'at**, **yirah**. Non pas six dons posés côte à côte : ce que fait ==la Ruach ha-Qodesh== quand elle repose sur quelqu'un.
+Et c'est cette même ==Ruach== qui, dans *Yeshayahu* 11:2, repose sur le roi promis en portant six capacités — **chokhmah**, **binah**, **etsah**, **gevurah**, **daʿat**, **yirah**. Non pas six dons posés côte à côte : ce que fait ==la Ruach ha-Qodesh== quand elle repose sur quelqu'un.

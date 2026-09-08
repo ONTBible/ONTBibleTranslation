@@ -34,7 +34,7 @@ Regarde ce que la même racine donne ailleurs, tu verras qu'elle est constante :
   visible== ce qu'elle porte. C'est le mot d'*Yeshayahu* 7:14, et tout le débat
   autour de ce verset vient de là : il ne dit pas la virginité, qui se dit
   *betulah* (בְּתוּלָה). Il dit ==le non-encore-manifesté==.
-- *ne'elam* (נֶעֱלָם) — ce qui se dérobe, ce qu'on ne parvient pas à saisir.
+- *neʿelam* (נֶעֱלָם) — ce qui se dérobe, ce qu'on ne parvient pas à saisir.
 
 Trois mots, un seul geste : ==ce qui n'est pas donné au regard==.
 
@@ -130,10 +130,10 @@ On dit d'un être qu'il a un ==olam==, ou qu'il n'en a pas. Le ==olam== d'un êt
 c'est ==la forme sous laquelle il devient perceptible== — son espace d'apparaître,
 la manière dont il s'inscrit dans ce qui se voit.
 
-Et le corpus dit qu'un **mal'akh** ==n'a pas d'olam à lui==. Il paraît tantôt
+Et le corpus dit qu'un **malʾakh** ==n'a pas d'olam à lui==. Il paraît tantôt
 comme un feu, tantôt comme un vent, tantôt comme un homme — non parce qu'il
 change de forme, mais parce qu'==aucune forme ne lui appartient==. Elle lui est
-assignée avec la mission : *il fait de ses **mal'akhim** des vents, de ses
+assignée avec la mission : *il fait de ses **malʾakhim** des vents, de ses
 serviteurs une flamme de feu* (*Tehilim* 104:4). Le verbe est *asah*, faire — et
 c'est **YHWH** qui fait, à l'envoi.
 
@@ -166,7 +166,7 @@ empêche un état d'être ==sans horizon==.
 Quand ==olam== entre dans un construit, le vault translittère ==le groupe
 entier== plutôt que d'en traduire la moitié :
 
-    berith-olam · achuzat-olam · ledorot-olam · ad-olam · le'olam · me'olam
+    berith-olam · achuzat-olam · ledorot-olam · ad-olam · leʿolam · meʿolam
 
 Couper le construit reviendrait à rendre en français le mot qui porte justement
 ce que le français ne sait pas dire. Et une *berith-==olam==* cesse alors d'être
@@ -176,7 +176,7 @@ redevenir ce qu'elle est : ==un engagement dont on ne verra pas le terme==, fait
 
 ## Voir aussi
 
-**mal'akh**, qui n'en a pas et en reçoit un. **navi**, dont le seuil se déplace.
+**malʾakh**, qui n'en a pas et en reçoit un. **navi**, dont le seuil se déplace.
 [[Moshe]], qui n'en voit que le dos. **kavod**, dont les portes s'ouvrent.
 **berith**, dont la durée se mesure par ce mot. Et la chuqqah des quatre modes de
 présence, où les emplois travaillent tous ensemble.

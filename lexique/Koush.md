@@ -14,7 +14,7 @@ L'étymologie n'est pas donnée par le corpus, et l'ONT ne la fabrique pas.
 
 ## Le frère de Mitsrayim
 
-Fils de [[Cham]], avec [[Mitsrayim]] et [[Kena'an]].
+Fils de [[Cham]], avec [[Mitsrayim]] et [[Kenaʿan]].
 
 Le corpus le range dans ce qu'il appelle ==les grandes puissances de civilisation matérielle== — celles qui bâtissent, organisent et fécondent le monde physique. Ce n'est pas un jugement : c'est ==une assignation de fonction== dans la table des nations, et le corpus la donne sans hiérarchie.
 
@@ -28,7 +28,7 @@ Le corpus construit donc, par cette filiation, ==le pont entre la démesure d'av
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kena'an]] ses frères.
+Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kenaʿan]] ses frères.
 
 Ce qui sort de lui : ==Nimrod==, les **gibborim**, ==Bavel== et ==Ninveh==.
 

@@ -8,7 +8,7 @@ Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 ## Le Shem
 
-Un nom en trois morceaux : *be'er*, ==le puits== ; *lachai*, ==du Vivant== ; *ro'i*, ==qui me voit==.
+Un nom en trois morceaux : *beʾer*, ==le puits== ; *lachai*, ==du Vivant== ; *roʿi*, ==qui me voit==.
 
 ==Le puits du Vivant qui me voit.==
 

@@ -104,7 +104,7 @@ trie alphabétiquement ; les préfixes forcent l'ordre fonctionnel. Le tableau
 complet des soixante-dix livres vit dans **`corpus-order.md`**.
 
 Quatre modes, et ce ne sont pas des divisions canoniques mais des modes
-d'engagement avec le réel : **Torah** institue, **Nevi'im** lit l'alliance dans
+d'engagement avec le réel : **Torah** institue, **Neviʾim** lit l'alliance dans
 l'histoire, **Ketouvim** habite, **Nistarot** traverse l'architecture voilée.
 Leurs initiales font *Kenesset* (כְּנֶסֶת), le nom du corpus dans l'ONT.
 
@@ -154,7 +154,7 @@ Frank CLM sont sous licence libre et vivent dans le dépôt — c'est ce qui per
 sous EULA propriétaire : la committer serait la redistribuer.** Elle reste sur
 le disque pour Affinity et ne quitte pas la machine ; `.gitignore` la retient.
 
-Ezra SIL est la seule qui positionne correctement niqqud **et** te'amim
+Ezra SIL est la seule qui positionne correctement niqqud **et** teʿamim
 ensemble — c'est pour ça qu'elle est aussi la fonte hébraïque de l'app et du
 site.
 

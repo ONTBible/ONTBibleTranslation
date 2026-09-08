@@ -22,6 +22,6 @@ Le nom paraît trois fois dans le corpus, dans trois lignées différentes. La r
 
 ## Voir aussi
 
-Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Savta]], [[Ra'ama]], [[Savtekha]].
+Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Savta]], [[Raʿama]], [[Savtekha]].
 
 Où le corpus l'a déjà nommée : *Bereshit* 2, le pays de l'or que le fleuve entoure.

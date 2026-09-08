@@ -8,7 +8,7 @@ Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allem
 
 ## Le Shem
 
-(*Khalneh* / כַּלְנֵה) — une ville du pays de [[Shin'ar]], dans le domaine de [[Nimrod]].
+(*Khalneh* / כַּלְנֵה) — une ville du pays de [[Shinʿar]], dans le domaine de [[Nimrod]].
 
 Sa localisation exacte reste incertaine, et l'ONT ne tranche pas.
 
@@ -22,4 +22,4 @@ Dans la table, elle n'est encore que ==la quatrième ville d'un royaume qui comm
 
 ## Voir aussi
 
-Son domaine : [[Nimrod]], dans [[Shin'ar]] — avec [[Bavel]], [[Erekh]], [[Akkad]].
+Son domaine : [[Nimrod]], dans [[Shinʿar]] — avec [[Bavel]], [[Erekh]], [[Akkad]].

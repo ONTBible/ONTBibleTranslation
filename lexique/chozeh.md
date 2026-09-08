@@ -23,11 +23,11 @@ percevoir dans la vision==.
 Il ne dit pas qu'on aperçoit quelque chose. Il dit qu'on ==traverse== ce qui, à
 un regard ordinaire, reste fermé.
 
-## Ce qui le sépare du ro'eh
+## Ce qui le sépare du roʿeh
 
 | | ce qu'il fait | ce qu'il atteint |
 |---|---|---|
-| **ro'eh** | il ==voit== | ce qui vient, le chemin, le danger |
+| **roʿeh** | il ==voit== | ce qui vient, le chemin, le danger |
 | **chozeh** | il ==pénètre== | ce qui reste voilé aux autres |
 
 Les deux sont des dimensions du même **navi**, et l'un n'est pas le rang
@@ -36,7 +36,7 @@ mérite.
 
 ## Ce que le grec a détruit ici, et c'est le cas le plus net
 
-Les traducteurs grecs ont pris **chozeh**, **ro'eh** et **navi** — trois mots
+Les traducteurs grecs ont pris **chozeh**, **roʿeh** et **navi** — trois mots
 distincts — et les ont rendus par un seul : *prophētēs*, ==celui qui parle
 devant==.
 

@@ -49,7 +49,7 @@ C'est une des cinq dimensions du **navi**, et elle en est la part tournée vers
 le dehors.
 
 Le **chozeh** pénètre ce qui est voilé, le **moreh** forme ceux qui restent, le
-**ro'eh** conduit le troupeau qu'il a. Le **mevaser**, lui, ==sort==. Il porte
+**roʿeh** conduit le troupeau qu'il a. Le **mevaser**, lui, ==sort==. Il porte
 vers l'extérieur ce qui est déjà tenu pour acquis à l'intérieur.
 
 > Il n'apporte pas une opinion à examiner. ==Il apporte une nouvelle à

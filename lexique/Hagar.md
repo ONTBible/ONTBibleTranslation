@@ -30,7 +30,7 @@ Et elle s'enfuit.
 
 C'est là que le corpus fait quelque chose qu'il ne refait jamais.
 
-Le **mal'akh** de **YHWH** la trouve près d'une source du désert — première occurrence d'un **mal'akh** dans tout l'ONT. Pas auprès d'Avram, qui a la promesse. Pas auprès de [[Sarai]], qui a la maison. ==Auprès d'elle, qui n'a rien==.
+Le **malʾakh** de **YHWH** la trouve près d'une source du désert — première occurrence d'un **malʾakh** dans tout l'ONT. Pas auprès d'Avram, qui a la promesse. Pas auprès de [[Sarai]], qui a la maison. ==Auprès d'elle, qui n'a rien==.
 
 Il l'appelle par son statut — **shiphchah** de [[Sarai]] — et lui demande d'où elle vient et où elle va. Elle répond qu'elle fuit.
 
@@ -40,8 +40,8 @@ Le texte l'enregistre sans commenter. La règle de l'ONT est de ne pas ajouter c
 
 ## Voir aussi
 
-Sa maison : [[Sarai]] dont elle est la **shiphchah**, [[Avraham]], et ==Ishma'el== son fils dont le **Shem** dit *El entend*.
+Sa maison : [[Sarai]] dont elle est la **shiphchah**, [[Avraham]], et ==Ishmaʿel== son fils dont le **Shem** dit *El entend*.
 
-Ce que son **Shem** touche : **El Roï** qu'elle nomme, le **mal'akh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
+Ce que son **Shem** touche : **El Roï** qu'elle nomme, le **malʾakh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
 
 Ce qui reste à écrire : son récit est en *Bereshit* 16 et 21 ; la couche des Shemot n'y est pas encore portée, et cette fiche sera reprise.

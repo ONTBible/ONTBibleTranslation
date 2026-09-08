@@ -26,6 +26,6 @@ Dans ce chapitre, il n'est encore qu'une mention en passant : le corpus note qu'
 
 ## Voir aussi
 
-Sa maison : [[Avraham]] son père, [[Sarai]] sa mère, [[Hagar]] et ==Ishma'el== dans la même maison.
+Sa maison : [[Avraham]] son père, [[Sarai]] sa mère, [[Hagar]] et ==Ishmaʿel== dans la même maison.
 
 Ce qui reste à écrire : son cycle est en *Bereshit* 21 à 28, et cette fiche sera reprise.

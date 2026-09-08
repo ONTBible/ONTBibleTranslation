@@ -6,13 +6,13 @@
 
 ## Le Shem
 
-(*Moav* / מוֹאָב) — le corpus l'entend comme *me'av* (*me'av* / מֵאָב) : ==du père==.
+(*Moav* / מוֹאָב) — le corpus l'entend comme *meʾav* (*meʾav* / מֵאָב) : ==du père==.
 
 ==Le **Shem** inscrit l'origine dans le nom==, et cette origine est celle que le récit vient de raconter.
 
 ## Ce que le corpus en fait
 
-C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tso'ar]].
+C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tsoʿar]].
 
 Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
 

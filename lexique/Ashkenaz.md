@@ -14,7 +14,7 @@ Un mot pour qui le lit aujourd'hui : ce **Shem** sera repris au Moyen Âge pour 
 
 ## Convoqué contre Bavel
 
-Il revient dans les *Nevi'im* avec une fonction précise.
+Il revient dans les *Neviʾim* avec une fonction précise.
 
 *Yirmeyahu* 51:27 le convoque ==avec [[Ararat]] et Mini contre ==Bavel==. Trois puissances du septentrion appelées à monter contre l'empire — et le prophète les nomme comme on nomme des instruments.
 

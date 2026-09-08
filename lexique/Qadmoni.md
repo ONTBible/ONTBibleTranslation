@@ -31,7 +31,7 @@ C'est pourquoi un peuple nommé « ceux de devant » n'est pas seulement situé 
 
 Une ligne. Ils sont le troisième nom de la liste des dix peuples que **YHWH** énumère à [[Avraham|Avram]] après la **berith** coupée entre les morceaux, entre le Qenizi et le [[Chitti]].
 
-Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **nevi'im**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
+Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **neviʾim**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
 
 Le silence est ici l'information, et il faut le laisser tel quel. Un nom qui ne dit que « ceux de l'orient » et qui ne revient jamais tient peut-être une population que le narrateur ne savait plus nommer autrement — ==un peuple d'avant, désigné par le fait même qu'il était là avant==. Le texte ne le dit pas ; il se contente de l'inscrire dans ce que la promesse recouvre.
 
@@ -43,6 +43,6 @@ Elle repose sur *Bereshit* 15:19, unique mention, et sur la racine *qedem* telle
 
 La racine ailleurs : le Jardin planté *miqqedem*, les [[Kheruvim]] postés à l'orient, et [[Lot]] qui s'en va *miqqedem* vers le bassin du [[Yarden]].
 
-Les neuf autres de la liste : [[Qeni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
+Les neuf autres de la liste : [[Qeni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
 Les autres peuples que le corpus nomme sans les raconter : [[Chorim]], [[Zouzim]], [[Emim]] — tous des peuples d'avant.

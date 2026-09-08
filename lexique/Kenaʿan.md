@@ -1,4 +1,4 @@
-# Kena'an
+# Kenaʿan
 
 ## Prononciation
 
@@ -20,7 +20,7 @@ Le nom porte donc dans sa racine ce qui lui arrivera, et le corpus le relève : 
 
 C'est le point difficile du chapitre, et l'ONT ne l'adoucit pas.
 
-[[Cham]] voit la nudité de son père et le dit dehors. Mais le *arur* que [[Noach]] prononce au réveil ne tombe pas sur [[Cham]] : ==il tombe sur ==Kena'an==, son fils==, qui n'était pas dans la scène.
+[[Cham]] voit la nudité de son père et le dit dehors. Mais le *arur* que [[Noach]] prononce au réveil ne tombe pas sur [[Cham]] : ==il tombe sur ==Kenaʿan==, son fils==, qui n'était pas dans la scène.
 
 Le texte ne l'explique pas. Il ne dit pas pourquoi le fils porte ce que le père a fait, et la règle de l'ONT est de ne pas combler ce silence. On note ce que le texte fait — il déplace la parole d'une génération — et on ne fabrique pas la raison.
 
@@ -30,7 +30,7 @@ Et *arur* ne signifie pas la suppression. C'est ==la dotation qui demeure mais d
 
 Le **Shem** devient ensuite ==celui d'un pays==, et c'est là que le corpus l'emploie le plus.
 
-Le pays de ==Kena'an== est la terre promise à Avraham, celle qu'il traverse sans la posséder, celle où il achète une seule caverne pour y enterrer sa **ishah**. Ses peuples figureront dans la liste de ceux qu'il faudra déposséder — sept peuples ==dont l'*avon* était complet au temps de la conquête==, précise le corpus.
+Le pays de ==Kenaʿan== est la terre promise à Avraham, celle qu'il traverse sans la posséder, celle où il achète une seule caverne pour y enterrer sa **ishah**. Ses peuples figureront dans la liste de ceux qu'il faudra déposséder — sept peuples ==dont l'*avon* était complet au temps de la conquête==, précise le corpus.
 
 Ce dernier point est décisif pour ne pas mal lire : ==ce n'est pas le *arur* d'un ancêtre qui justifie la dépossession==, c'est un *avon* accompli. Le corpus tient les deux séparés.
 

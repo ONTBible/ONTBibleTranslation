@@ -42,8 +42,8 @@ dans le creux d'un rocher, une main le couvre, et il ne voit qu'==un dos==.
 La scène passe souvent pour un refus. Elle n'en est pas un — elle décrit ==une
 contrainte de structure==. Ce qui est vu là est un mode de présence emprunté, et
 d'un mode emprunté on ne peut voir que le mode. Le corpus le dit ailleurs sans
-détour : ce dos est ==celui d'un **mal'akh**==, et c'est pourquoi il n'y a jamais
-contradiction entre *« **YHWH** lui apparut »* et *« le **mal'akh** de **YHWH**
+détour : ce dos est ==celui d'un **malʾakh**==, et c'est pourquoi il n'y a jamais
+contradiction entre *« **YHWH** lui apparut »* et *« le **malʾakh** de **YHWH**
 lui apparut »*. C'est le même événement, dit une fois par sa source, une fois par
 son vêtement.
 
@@ -57,6 +57,6 @@ aujourd'hui n'est que ce qui a déjà servi ailleurs.
 
 ## Voir aussi
 
-**navi**, pour ce qu'il est. **mal'akh** et **olam**, pour ce qu'il a vu de dos.
+**navi**, pour ce qu'il est. **malʾakh** et **olam**, pour ce qu'il a vu de dos.
 **davar**, pour ce qu'il porte. Et [[Chanokh-qui-marche-avec-Elohim]], l'autre
 homme du corpus dont la fin échappe au récit ordinaire.

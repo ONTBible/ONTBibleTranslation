@@ -26,4 +26,4 @@ Et il faut se garder de l'imagerie qui s'y est attachée. Ce ne sont ni des enfa
 
 Ce qu'ils gardent : le chemin de l'arbre de la Vie, à l'orient du Jardin.
 
-Ceux qui gardent avec eux : [[Mikha'el]], posté à la garde.
+Ceux qui gardent avec eux : [[Mikhaʾel]], posté à la garde.

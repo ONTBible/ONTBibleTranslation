@@ -13,7 +13,7 @@
 
 ⁷ Alors les **gibbaraya** étendirent la main contre les fils de **l'Être façonné du sol** (*ha-adam* / הָאָדָם). ⁸ Ils combattirent toute chair (*kol basar* / כָּל־בָּשָׂר), et le sang (*dam* / דָּם) *[le sang comme vie répandue hors de sa place ; lorsqu'il est versé, le sol devient témoin]* fut versé sur le sol concret (*adamah* / אֲדָמָה) *[la glaise habitable et cultivable, proche de **l'Être façonné du sol** par la racine]*.
 
-⁹ L'un d'eux formula sa propre mesure : "Avec la force de mon bras puissant, et avec la puissance de ma force, j'ai combattu toute chair." ¹⁰ Mais cette parole ne se conclut pas par victoire. ¹¹ Elle se retourne contre celui qui la prononce, car les maîtres de son jugement (*ba'alei dini* / בעלי דיני) *[ceux qui tiennent l'accusation et le jugement contre lui]* demeurent dans les Cieux et se tiennent parmi les saints.
+⁹ L'un d'eux formula sa propre mesure : "Avec la force de mon bras puissant, et avec la puissance de ma force, j'ai combattu toute chair." ¹⁰ Mais cette parole ne se conclut pas par victoire. ¹¹ Elle se retourne contre celui qui la prononce, car les maîtres de son jugement (*baʿalei dini* / בעלי דיני) *[ceux qui tiennent l'accusation et le jugement contre lui]* demeurent dans les Cieux et se tiennent parmi les saints.
 
 ¹² Leur bras pesait sur la Terre, mais il ne pouvait atteindre ceux qui lisaient l'ordre depuis les hauteurs. ¹³ Ceux qu'ils avaient frappés devinrent témoins ; ceux qu'ils avaient fait taire crièrent encore.
 
@@ -27,7 +27,7 @@
 
 - Les fragments évoquent les productions de la Terre, les animaux, les rampants, la violence, le sang et l'insuffisance de la nourriture.
 - La confession du géant puissant reprend 4Q531 fragment 17 sous forme resserrée.
-- L'expression "maîtres de son jugement" reprend le fragment où le géant reconnaît que ses *ba'alei dini* résident dans les Cieux.
+- L'expression "maîtres de son jugement" reprend le fragment où le géant reconnaît que ses *baʿalei dini* résident dans les Cieux.
 
 ### Notes ontologiques
 

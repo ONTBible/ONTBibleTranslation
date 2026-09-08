@@ -58,7 +58,7 @@ L'ONT ne traduit pas : ==**irin** est intraduisible==, et il l'est déjà dans l
 
 ## Échos dans la Berit Hadashah
 
-*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **mal'akhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **irin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
+*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **malʾakhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **irin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
 
 Il faut lire ce que ça produit dans le bon sens, et le vault le formule ainsi : la *Berit Hadashah* ==ne projette rien — elle corrobore==. Une lettre du corpus cite comme **davar** prophétique un texte de ce courant, et son auteur suppose que ses lecteurs le connaissent.
 

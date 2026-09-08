@@ -36,11 +36,11 @@ touchent, il parle de deux existences qui n'en font plus qu'une.
 
 Retiens ceci, parce qu'un raisonnement entier du corpus repose dessus.
 
-Un **mal'akh** n'a pas de ==basar==. Il prend un **olam** de feu ou de fumée le
+Un **malʾakh** n'a pas de ==basar==. Il prend un **olam** de feu ou de fumée le
 temps d'une mission, puis il le rend — et un **olam** emprunté ne meurt pas,
 parce qu'il n'a jamais vraiment vécu.
 
-Donc un **mal'akh** ne peut ni mourir ni ressusciter. Donc il ne peut ==rien
+Donc un **malʾakh** ne peut ni mourir ni ressusciter. Donc il ne peut ==rien
 changer à la condition de ce qui meurt==.
 
 Seul ce qui a un ==basar== peut traverser la mort. Et seul ce qui l'a traversée
@@ -50,7 +50,7 @@ tenir sa place.==
 
 ## Voir aussi
 
-**Nefesh**, l'autre façon de dire l'être entier. **mal'akh** et **olam**, pour
+**Nefesh**, l'autre façon de dire l'être entier. **malʾakh** et **olam**, pour
 ce qui n'en a pas. **echad**, pour l'unité que deux **basar** peuvent faire. Et
 la chuqqah des quatre modes de présence, où cette contrainte commande la
 troisième strate.

@@ -22,4 +22,4 @@ Le verbe employé pour ce que ==Qayin== doit faire est d'ailleurs celui du gouve
 
 Le mot désignera plus tard, dans les textes du service, l'offrande qui traite cet écart — et l'on emploiera le même mot pour le manquement et pour ce qui le répare, parce que c'est la même chose qu'on manipule.
 
-Un mot voisin se lit presque pareil et n'est pas le même. Celui-ci finit par un ==tav== — חַטָּאת, ==chattat== —, et c'est lui que **YHWH** emploie devant ==Qayin==. L'autre finit par un ==he== — חַטָּאָה, **chata'ah** — et c'est celui de ==Sedom== : *leur* ==chata'ah== est très lourde. Même racine, même sens, deux mots que l'hébreu distingue par une lettre et que le français ne peut pas séparer.
+Un mot voisin se lit presque pareil et n'est pas le même. Celui-ci finit par un ==tav== — חַטָּאת, ==chattat== —, et c'est lui que **YHWH** emploie devant ==Qayin==. L'autre finit par un ==he== — חַטָּאָה, **chataʾah** — et c'est celui de ==Sedom== : *leur* ==chataʾah== est très lourde. Même racine, même sens, deux mots que l'hébreu distingue par une lettre et que le français ne peut pas séparer.

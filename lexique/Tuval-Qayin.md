@@ -34,7 +34,7 @@ Le texte ne condamne pas ces choses. Il les nomme comme des commencements, avec 
 
 ## Voir aussi
 
-Sa maison : [[Tsillah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Na'amah]] sa sœur, et ses demi-frères [[Yaval]] et [[Youval]].
+Sa maison : [[Tsillah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Naʿamah]] sa sœur, et ses demi-frères [[Yaval]] et [[Youval]].
 
 Son ancêtre, dont il porte le **Shem** : [[Qayin]].
 

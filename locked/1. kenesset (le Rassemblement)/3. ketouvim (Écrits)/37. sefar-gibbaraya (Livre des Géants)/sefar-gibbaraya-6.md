@@ -19,7 +19,7 @@
 
 ### Notes philologiques
 
-- [[Mahaway]] comme **mal'akh** des **gibbaraya** vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] est un motif central du Livre des Géants, attesté par les fragments et les versions manichéennes.
+- [[Mahaway]] comme **malʾakh** des **gibbaraya** vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] est un motif central du Livre des Géants, attesté par les fragments et les versions manichéennes.
 - Le déplacement est reconstruit : les détails topographiques ne sont pas conservés en continu.
 - L'expression araméenne *safar parsha* est conservée comme niveau 3 ; sa portée critique est réservée ici aux notes.
 - [[Chanokh-qui-marche-avec-Elohim|Chanokh]] est scribe et interprète ; il ne reçoit aucune fonction thaumaturgique.

@@ -24,7 +24,7 @@ Corollaire du critère gouvernant, et **règle sur la manière dont les personna
 
 **Conséquence de métier — l'anachronisme à éviter n'est pas le *vocabulaire*, c'est *l'appareil de compréhension*.** Ne jamais faire d'un personnage un proto-théologien qui *raisonne en catégories développées*. D'où la division du travail entre les niveaux :
 - **Niveau 1 (corps — leur voix)** : un savoir **direct, vécu, concret, simplement dit**. Chavah *témoigne* d'avoir porté et perdu la kavod — elle ne la *théorise* pas. Adam *sait* qu'il retourne à la poussière — il ne *démontre* pas la mort.
-- **Niveau 2 (gloses — notre voix)** : c'est là, et là seulement, qu'on déploie les termes recouvrés (**She'ol**, **kavod**, **nefesh**) comme pointeurs savants. Le recouvrement est *notre* acte, pas le leur.
+- **Niveau 2 (gloses — notre voix)** : c'est là, et là seulement, qu'on déploie les termes recouvrés (**Sheʾol**, **kavod**, **nefesh**) comme pointeurs savants. Le recouvrement est *notre* acte, pas le leur.
 
 **Recouvrer le terme sous un témoin grec.** Pour un livre transmis en grec (cas limite), on ne francise pas le mot grec : on remonte au terme **hébreu source** via le **mapping Septante ↔ Kenesset** — là où le grec porte Σατανᾶς / διάβολος, la source est **ha-satan** ; là où il porte δόξα, la source est **kavod**. Pour παράδεισος, deux visages selon le contexte : en contexte édénique → le Jardin (*gan*, LXX Gn 2:8) ; en contexte de ravissement céleste → les Cieux (*shamayim*), car Shaul équivaut « paradis » et « troisième ciel » (2 Co 12:2-4) — un Hébreu rend le ravissement dans sa cosmologie native. Le « paradis » occidental (séjour détaché) n'est pas une réalité H-A. Toujours revenir à la source, jamais s'arrêter à la couche grecque.
 
@@ -63,7 +63,7 @@ Différence capitale : une trace incertaine, on l'*attend* ; une distorsion, on 
 **Triangulation (témoins juifs indépendants) :**
 - **✓ Qumrân, hébreu, verbatim** : *kol kevod Adam*, « toute la gloire d'Adam » — expression figée : **1QS 4:22-23** (« Dieu les a choisis pour une alliance éternelle, et à eux appartiendra toute la gloire d'Adam ») ; **CD 3:20** (« ceux qui s'y tiennent sont destinés à la vie éternelle, et toute la gloire d'Adam sera leur ») ; **1QHᵃ 4:14-15** (Hodayot). La gloire d'Adam, perdue puis **à recouvrer** par la communauté.
 - **✓ 4Q504** (*Paroles des Luminaires*, frag. 8) : « Adam notre père, tu l'as façonné à l'image de ta gloire… le souffle de vie tu l'as insufflé en ses narines… au jardin d'Eden que tu avais planté… tu l'as fait gouverner. » (*be-tselem kevodkha*).
-- **✓ Ben Sira 49:16** (hébreu, MS B Genizah) : « au-dessus de tout vivant, la splendeur d'Adam » (*tif'eret Adam*).
+- **✓ Ben Sira 49:16** (hébreu, MS B Genizah) : « au-dessus de tout vivant, la splendeur d'Adam » (*tifʾeret Adam*).
 - **Ézéchiel 28:11-19** : l'être en Eden, revêtu de pierres, sur la montagne sainte, intègre jusqu'à sa faute — trame Eden/gloire/chute, prophétique et ancienne.
 - **Vêtements de lumière** : jeu *ʿor* (peau, עוֹר) / *ʾor* (lumière, אוֹר), *Bereshit Rabbah* 20:12 — rabbinique, mais conserve un jeu de mots hébreu.
 
@@ -156,7 +156,7 @@ Différence capitale : une trace incertaine, on l'*attend* ; une distorsion, on 
 - **Résurrection corporelle** : racine ancienne (**Daniel 12:2**), mais ici enveloppée d'une machinerie tardive.
 - **Dualité âme/corps, ascension de l'âme** : catégorie **grecque** — proscrite §4.7.
 
-**Verdict : DISTORSION → ÉCARTÉ.** La montée de l'*âme* d'Adam à travers les cieux décrit un **non-réel**. L'humain n'*a* pas une âme, il **est** un **nefesh** (unité corps-souffle) ; à la mort il retourne à la poussière et descend au **She'ol** dans l'attente, ou attend la résurrection **corporelle** (Daniel 12:2). L'âme-qui-s'élève est la *psyché* platonicienne — catégorie grecque contraire à ce que l'hébreu a saisi (§4.7). **Retirée, non tenue en réserve.** *(À distinguer : l'espérance de résurrection corporelle, elle, a une racine ancienne — Daniel — et peut affleurer sobrement ; c'est l'envol de l'âme qui est faux, pas l'attente.)*
+**Verdict : DISTORSION → ÉCARTÉ.** La montée de l'*âme* d'Adam à travers les cieux décrit un **non-réel**. L'humain n'*a* pas une âme, il **est** un **nefesh** (unité corps-souffle) ; à la mort il retourne à la poussière et descend au **Sheʾol** dans l'attente, ou attend la résurrection **corporelle** (Daniel 12:2). L'âme-qui-s'élève est la *psyché* platonicienne — catégorie grecque contraire à ce que l'hébreu a saisi (§4.7). **Retirée, non tenue en réserve.** *(À distinguer : l'espérance de résurrection corporelle, elle, a une racine ancienne — Daniel — et peut affleurer sobrement ; c'est l'envol de l'âme qui est faux, pas l'attente.)*
 
 ---
 
@@ -239,13 +239,13 @@ Les 16 événements du récit passés au filtre. `[G]` grec, `[L]` latin, `[2]` 
 
 | Coupe | Corroboration BH / Kenesset | Verdict révisé |
 |---|---|---|
-| Anges qui reçoivent le mort | **Jude 9** (Mikha'el dispute le corps de Moshe) ; Luc 16:22 (anges portent le juste) | **reclassé : trace corroborée** — Mikha'el ministre à la sépulture, sans envol de l'âme |
+| Anges qui reçoivent le mort | **Jude 9** (Mikhaʾel dispute le corps de Moshe) ; Luc 16:22 (anges portent le juste) | **reclassé : trace corroborée** — Mikhaʾel ministre à la sépulture, sans envol de l'âme |
 | Immersion pénitentielle | Yohanan immerge pour la **teshuvah** (Mc 1:4) ; mikveh / tevilah (*Vayiqra*, Qumrân) | **reclassé : tevilah** (immersion de retour) admissible ; le *mérite/satisfaction* reste écarté |
 | Serpent = ha-satan | **Rev 12:9** (« l'antique serpent, appelé le diable et ha-satan ») | **à trancher avec l'auteur** — corroboré, mais *Bereshit* 3 (verrouillé) garde le *nachash* fonctionnel |
 | Vision d'Adam sur la **merkavah** | Ez 1 ; Shaul ravi au 3ᵉ ciel (2 Co 12:2-4) | **trace possible** (vision, non envol de l'âme) |
-| Arbre de vie / guérison au **mo'ed** | **Rev 22:2** (les feuilles pour la guérison — écho Ez 47:12) | déjà gardé ; **corroboration renforcée** |
+| Arbre de vie / guérison au **moʿed** | **Rev 22:2** (les feuilles pour la guérison — écho Ez 47:12) | déjà gardé ; **corroboration renforcée** |
 | Montée de l'âme au trône (à travers les cieux) | « être avec le Seigneur » (Phil 1:23 ; 2 Co 5:8) — lu corporellement/eschatologiquement dans le cadre hébreu | reste **distorsion** (dualisme) ; textes à peser avec l'auteur |
 | Chute de l'adversaire (refus d'adorer Adam) | non corroboré dans la BH ; gloire d'Adam corroborée (Ps 8:5-6) | reste **incertain** (note) |
 | « 70 plaies » | aucune | reste **note** |
 
-**À admettre dans le corps (candidats, décision d'auteur) :** Mikha'el ministre à la sépulture (Jude 9) ; la tevilah de retour (Mc 1:4). **À trancher :** serpent = ha-satan (Rev 12:9) vs *nachash* fonctionnel de *Bereshit* 3. **Reste dehors :** l'envol de l'âme au trône (dualisme).
+**À admettre dans le corps (candidats, décision d'auteur) :** Mikhaʾel ministre à la sépulture (Jude 9) ; la tevilah de retour (Mc 1:4). **À trancher :** serpent = ha-satan (Rev 12:9) vs *nachash* fonctionnel de *Bereshit* 3. **Reste dehors :** l'envol de l'âme au trône (dualisme).

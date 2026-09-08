@@ -35,7 +35,7 @@ Et il ne tue pas pour survivre : il tue pour une blessure, pour une meurtrissure
 
 C'est le dernier homme de la ligne de [[Qayin]] à parler, et le texte s'arrête là.
 
-Sa maison a donné au monde la tente et les troupeaux par [[Yaval]], la lyre et la flûte par [[Youval]], le bronze et le fer par [[Tuval-Qayin]] — et [[Na'amah]], dont on ne dit rien. Trois façons d'habiter, et un chant de vengeance immédiatement après ==celui qui donne aux hommes de quoi trancher==.
+Sa maison a donné au monde la tente et les troupeaux par [[Yaval]], la lyre et la flûte par [[Youval]], le bronze et le fer par [[Tuval-Qayin]] — et [[Naʿamah]], dont on ne dit rien. Trois façons d'habiter, et un chant de vengeance immédiatement après ==celui qui donne aux hommes de quoi trancher==.
 
 Le corpus ne dit pas que l'un cause l'autre. Il les pose côte à côte, et se tait.
 

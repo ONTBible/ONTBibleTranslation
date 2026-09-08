@@ -14,7 +14,7 @@ L'étymologie ne se laisse pas prendre, et il vaut mieux le dire que de choisir.
 
 Ce silence est plus instructif qu'une étymologie forcée. Les *Shemot* que le texte veut expliquer, il les explique — [[Peleg]] pour le partage, [[Bavel]] pour la confusion, [[Chanokh-fils-de-Qayin|Chanokh]] pour l'inauguration. Quand il se tait, ==c'est qu'il transmet un nom reçu==, sans le retravailler. ==Amaleq== est de ceux-là.
 
-Ce qu'on sait tient au pays. Les Amaleqim sont le peuple du désert méridional, entre [[Kena'an]] et [[Mitsrayim]] — la bande sèche du Négev et au-delà. Non des sédentaires : ==des nomades du sec==, qui se déplacent avec leurs troupeaux entre des points d'eau qu'ils sont seuls à connaître, et qui vivent en partie de ce qu'ils prennent aux caravanes obligées de traverser chez eux.
+Ce qu'on sait tient au pays. Les Amaleqim sont le peuple du désert méridional, entre [[Kenaʿan]] et [[Mitsrayim]] — la bande sèche du Négev et au-delà. Non des sédentaires : ==des nomades du sec==, qui se déplacent avec leurs troupeaux entre des points d'eau qu'ils sont seuls à connaître, et qui vivent en partie de ce qu'ils prennent aux caravanes obligées de traverser chez eux.
 
 ## Un nom qui vient trop tôt, et le texte le sait
 
@@ -30,7 +30,7 @@ Le §4.11 commande de ne pas résoudre ce que le texte laisse ouvert, et il n'y 
 
 Leur poids dans le corpus est ailleurs, et il est lourd. Ici ils ne sont qu'une étape d'itinéraire — les quatre rois descendent, frappent, remontent.
 
-Mais le **Shem** est posé, et c'est la fonction de cette mention. Le peuple du sec entre [[Kena'an]] et [[Mitsrayim]] est ==exactement sur la route par où l'on sortira de Mitsrayim==, et c'est là qu'il attendra. *Shemot* 17 fera d'eux les premiers à attaquer un peuple qui vient de traverser la mer, épuisé et sans ordre de bataille ; *Devarim* 25 précisera qu'ils ont frappé ==par la queue==, sur les traînards.
+Mais le **Shem** est posé, et c'est la fonction de cette mention. Le peuple du sec entre [[Kenaʿan]] et [[Mitsrayim]] est ==exactement sur la route par où l'on sortira de Mitsrayim==, et c'est là qu'il attendra. *Shemot* 17 fera d'eux les premiers à attaquer un peuple qui vient de traverser la mer, épuisé et sans ordre de bataille ; *Devarim* 25 précisera qu'ils ont frappé ==par la queue==, sur les traînards.
 
 Rien de tout cela n'est dans *Bereshit* 14. Mais le corpus a l'habitude de poser un nom longtemps avant de s'en servir, et de le poser ==dans un pays plutôt que dans un récit==. Quand la sortie viendra, le lecteur saura déjà où ils vivent.
 
@@ -40,8 +40,8 @@ Elle repose sur une seule mention, *Bereshit* 14:7, et sur ce que la géographie
 
 ## Voir aussi
 
-Leur pays et ses bornes : [[Kena'an]] au septentrion, [[Mitsrayim]] à l'occident, et [[Qadesh]] — appelée [[En-Mishpat]] dans ce même verset — au cœur de leur territoire.
+Leur pays et ses bornes : [[Kenaʿan]] au septentrion, [[Mitsrayim]] à l'occident, et [[Qadesh]] — appelée [[En-Mishpat]] dans ce même verset — au cœur de leur territoire.
 
 L'autre nom donné trop tôt : [[Ur Kasdim]], où le narrateur emploie de la même façon une désignation postérieure de mille ans.
 
-Ceux qui les frappent : [[Kedorlaomer]], [[Amrafel]], [[Aryokh]], [[Tid'al]], et les peuples anciens balayés dans la même descente — [[Refaim]], [[Zouzim]], [[Emim]], [[Chorim]].
+Ceux qui les frappent : [[Kedorlaomer]], [[Amrafel]], [[Aryokh]], [[Tidʿal]], et les peuples anciens balayés dans la même descente — [[Refaim]], [[Zouzim]], [[Emim]], [[Chorim]].

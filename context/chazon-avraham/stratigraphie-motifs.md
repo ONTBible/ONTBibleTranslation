@@ -23,7 +23,7 @@ hébreu (perdu)  →  grec (perdu)  →  slavon (conservé)  →  ONT
 
 Trois conséquences de métier, dont découle tout ce dossier :
 
-**1. L'original est hébreu, et cela se voit.** Le slavon est truffé de sémitismes que le grec n'expliquerait pas : parataxe en *et… et…*, pronoms redondants, hébraïsmes de construction, et surtout des **jeux de mots qui ne fonctionnent qu'en hébreu** — au premier chef le nom *Yaho'el* lui-même (YHW + El), qui n'a de sens que comme composé hébreu. Le livre ne pense pas en grec : il pense en hébreu, comme *Bereshit*. Il satisfait donc pleinement le critère d'inclusion du corpus (CLAUDE.md §1).
+**1. L'original est hébreu, et cela se voit.** Le slavon est truffé de sémitismes que le grec n'expliquerait pas : parataxe en *et… et…*, pronoms redondants, hébraïsmes de construction, et surtout des **jeux de mots qui ne fonctionnent qu'en hébreu** — au premier chef le nom *Yahoʾel* lui-même (YHW + El), qui n'a de sens que comme composé hébreu. Le livre ne pense pas en grec : il pense en hébreu, comme *Bereshit*. Il satisfait donc pleinement le critère d'inclusion du corpus (CLAUDE.md §1).
 
 **2. Le témoin est chrétien, le texte ne l'est pas.** Ce sont des scribes chrétiens qui ont copié ce livre pendant mille ans, et c'est à eux que nous devons de l'avoir. Mais un copiste qui transmet est aussi un copiste qui commente : la *Paleja* est un cadre de lecture chrétien, et le texte y a pris au moins une greffe caractérisée (ch. 29, voir Motif 14). Il faut distinguer **le témoin** (chrétien, tardif, précieux) du **texte** (juif, hébreu, ancien).
 
@@ -62,7 +62,7 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 | *vekъ* / *vecy* | αἰών | עוֹלָם | **olam** — et le construit translittéré en entier (§3) |
 | *pravda* | δικαιοσύνη | צְדָקָה | **tsedaqah** *(posé en Bereshit 15)* |
 | *zavetъ* | διαθήκη | בְּרִית | **berith** |
-| *anđelъ* | ἄγγελος | מַלְאָךְ | **mal'akh** *(posé en Bereshit 16)* |
+| *anđelъ* | ἄγγελος | מַלְאָךְ | **malʾakh** *(posé en Bereshit 16)* |
 | *duhъ* | πνεῦμα | רוּחַ | **Ruach** |
 | *duša* | ψυχή | נֶפֶשׁ | **Nefesh** |
 | *imja* | ὄνομα | שֵׁם | **Shem** |
@@ -153,7 +153,7 @@ que *Bereshit* contracte. C'est le geste même de la Kenesset — l'amplificatio
 | 15:5 — « compte les étoiles, si tu peux » | ch. 20 — El fait compter les étoiles depuis le firmament |
 | 15:9 — la liste des cinq | ch. 9 — la même, dans l'ordre |
 | 15:10 — « les oiseaux, il ne les divisa pas » | ch. 15 — les oiseaux entiers deviennent le **véhicule** de la montée |
-| 15:11 — le rapace descend sur les corps, Avram le chasse | ch. 13 — Azazel vient en oiseau impur ; Yaho'el le chasse |
+| 15:11 — le rapace descend sur les corps, Avram le chasse | ch. 13 — Azazel vient en oiseau impur ; Yahoʾel le chasse |
 | 15:12 — *tardemah*, la grande obscurité et l'effroi | ch. 10 — Avraham tombe, sans souffle en lui |
 | 15:17 — le four fumant et la torche de feu | ch. 15 — la fumée comme d'une fournaise, le feu de la montée |
 | 15:13-16 — 400 ans / la quatrième génération | ch. 32 — **le livre se clôt là-dessus** |
@@ -162,18 +162,18 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 ---
 
-## Motif 4 — Yaho'el, le mal'akh qui porte le Shem (ch. 10-11)
+## Motif 4 — Yahoʾel, le malʾakh qui porte le Shem (ch. 10-11)
 
-**Scène :** Avraham s'effondre, sans souffle. La voix envoie un **mal'akh** : *« Va, Yaho'el, homonyme de la médiation de mon Nom ineffable, et relève cet homme. »* Yaho'el se présente : il gouverne les *chayot* de la **merkavah**, il retient les Léviathans, il enseigne le chant aux êtres célestes, il est chargé de la menace contre les rebelles. Sa description (ch. 11) : corps de saphir, face de chrysolite, cheveux comme la neige, turban comme l'arc-en-ciel, vêtement de pourpre, sceptre d'or.
+**Scène :** Avraham s'effondre, sans souffle. La voix envoie un **malʾakh** : *« Va, Yahoʾel, homonyme de la médiation de mon Nom ineffable, et relève cet homme. »* Yahoʾel se présente : il gouverne les *chayot* de la **merkavah**, il retient les Léviathans, il enseigne le chant aux êtres célestes, il est chargé de la menace contre les rebelles. Sa description (ch. 11) : corps de saphir, face de chrysolite, cheveux comme la neige, turban comme l'arc-en-ciel, vêtement de pourpre, sceptre d'or.
 
 **Triangulation :**
-- ***Shemot* 23:20-21** — « J'envoie un **mal'akh** devant toi… ne te rebelle pas contre lui, car **mon Shem est en lui** ». C'est **le substrat exact**, et il est dans la Torah.
-- ***Bereshit* 16** (ONT verrouillé) — le **mal'akh** **YHWH** qui parle tantôt en son nom, tantôt comme **YHWH** lui-même : *l'ambiguïté est déjà posée et maintenue* dans le corpus ONT.
+- ***Shemot* 23:20-21** — « J'envoie un **malʾakh** devant toi… ne te rebelle pas contre lui, car **mon Shem est en lui** ». C'est **le substrat exact**, et il est dans la Torah.
+- ***Bereshit* 16** (ONT verrouillé) — le **malʾakh** **YHWH** qui parle tantôt en son nom, tantôt comme **YHWH** lui-même : *l'ambiguïté est déjà posée et maintenue* dans le corpus ONT.
 - **Yehezqel 1:26-28 ; Daniel 10:5-6** — la description de ch. 11 est bâtie sur ces deux passages (les pierres, le lin, l'or, l'arc-en-ciel).
 - **11QMelchisédeq** (Qumrân) — Melchisédeq comme figure céleste exerçant le **mishpat** d'**Elohim**, appelée *elohim* dans son propre texte : un être céleste porteur d'attributs divins est une réalité attestée du Second Temple, pas une dérive tardive.
-- **Le nom lui-même** — *Yaho'el* = YHW + El. Un composé qui **ne se forme qu'en hébreu** et qui *dit sa propre fonction* : il porte les deux noms. C'est aussi, incidemment, une des meilleures preuves internes de l'original hébreu.
+- **Le nom lui-même** — *Yahoʾel* = YHW + El. Un composé qui **ne se forme qu'en hébreu** et qui *dit sa propre fonction* : il porte les deux noms. C'est aussi, incidemment, une des meilleures preuves internes de l'original hébreu.
 
-**Verdict : NOYAU ANCIEN pour la fonction** — le **mal'akh** en qui le **Shem** habite est directement torahique (*Shemot* 23:21), et l'ONT a déjà maintenu cette ambiguïté en *Bereshit* 16. La description de ch. 11 est composée de Yehezqel et Daniel : fidèle, dérivée, admissible.
+**Verdict : NOYAU ANCIEN pour la fonction** — le **malʾakh** en qui le **Shem** habite est directement torahique (*Shemot* 23:21), et l'ONT a déjà maintenu cette ambiguïté en *Bereshit* 16. La description de ch. 11 est composée de Yehezqel et Daniel : fidèle, dérivée, admissible.
 
 **Le nom propre, lui, est une décision d'auteur — voir §D.1.** C'est le terme le plus lourd que ce livre apporte au corpus.
 
@@ -181,7 +181,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 ## Motif 5 — Azazel, l'oiseau impur sur les corps (ch. 13-14)
 
-**Scène :** un oiseau impur descend sur les corps découpés et parle à Avraham : *« Que fais-tu sur ces hauteurs saintes, où nul ne mange ni ne boit ? Va-t'en, car le feu d'en haut te consumera. »* Yaho'el le rabroue et le nomme : **Azazel**.
+**Scène :** un oiseau impur descend sur les corps découpés et parle à Avraham : *« Que fais-tu sur ces hauteurs saintes, où nul ne mange ni ne boit ? Va-t'en, car le feu d'en haut te consumera. »* Yahoʾel le rabroue et le nomme : **Azazel**.
 
 **Triangulation :**
 - ***Bereshit* 15:11** (ONT verrouillé) — *« le rapace descendit sur les corps, et Avram le chassa »*. Le livre **identifie** le rapace anonyme de la Torah. Toute la scène est une exégèse de ce demi-verset.
@@ -189,7 +189,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 - ***Vayiqra* 16:8-10, 26** — le lot pour Azazel, le bouc envoyé au désert. **Non encore traité dans l'ONT.**
 - ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **irin**, sans gras.
 
-**Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Chanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **mal'akh** est défini par son envoi et non par sa nature (§3).
+**Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Chanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **malʾakh** est défini par son envoi et non par sa nature (§3).
 
 **Statut du nom — décision d'auteur, voir §D.2.**
 
@@ -197,7 +197,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 ## Motif 6 — L'échange des vêtements : la kavod qui change de lot (ch. 13)
 
-**Scène :** Yaho'el à Azazel — *« La part d'Avraham est dans les cieux, et la tienne sur la terre. Le vêtement qui était le tien là-haut est mis en réserve pour lui ; et la corruption qui était sur lui passe sur toi. »*
+**Scène :** Yahoʾel à Azazel — *« La part d'Avraham est dans les cieux, et la tienne sur la terre. Le vêtement qui était le tien là-haut est mis en réserve pour lui ; et la corruption qui était sur lui passe sur toi. »*
 
 **Triangulation :**
 - ***Toledot Adam ve-Chavah*, Motif 1** (ONT verrouillé) — la **kavod** d'Adam perdue, le vêtement de gloire dont on est dévêtu. **Même ontologie, exactement.**
@@ -212,9 +212,9 @@ C'est le motif à mettre au centre de la feuille d'introduction. Il fait tenir e
 
 ## Motif 7 — La montée sur l'aile des oiseaux non divisés (ch. 15)
 
-**Scène :** au coucher du soleil, une fumée comme d'une fournaise ; les **mal'akhim** montent et descendent ; Avraham et Yaho'el montent **sur l'aile du pigeon et de la tourterelle**.
+**Scène :** au coucher du soleil, une fumée comme d'une fournaise ; les **malʾakhim** montent et descendent ; Avraham et Yahoʾel montent **sur l'aile du pigeon et de la tourterelle**.
 
-**Triangulation :** ***Bereshit* 15:10** (ONT verrouillé) — *« mais les oiseaux, il ne les divisa pas »*. ***Bereshit* 15:17** — *« un four fumant et une torche de feu »*. ***Bereshit* 28:12** — les **mal'akhim** qui montent et descendent.
+**Triangulation :** ***Bereshit* 15:10** (ONT verrouillé) — *« mais les oiseaux, il ne les divisa pas »*. ***Bereshit* 15:17** — *« un four fumant et une torche de feu »*. ***Bereshit* 28:12** — les **malʾakhim** qui montent et descendent.
 
 **Verdict : NOYAU — exégèse interne, à admettre sans réserve.** C'est une des plus belles choses du livre : la Torah note que les oiseaux ne furent **pas** divisés, sans dire pourquoi ; ce livre répond — *parce qu'ils devaient rester entiers pour porter*. Ce n'est pas une invention greffée sur le texte, c'est une **lecture du silence du texte**, du type même que l'ONT pratique (§4.9). À rendre au corps, et à gloser comme telle.
 
@@ -224,7 +224,7 @@ Noter pour le rendu : c'est une **montée corporelle**, portée, dans un véhicu
 
 ## Motif 8 — Le chant du Shem (ch. 17)
 
-**Scène :** Yaho'el enseigne à Avraham une doxologie à réciter sans interruption pendant la montée, *car il n'y a plus de terre où se prosterner*. Longue litanie d'épithètes du Nom.
+**Scène :** Yahoʾel enseigne à Avraham une doxologie à réciter sans interruption pendant la montée, *car il n'y a plus de terre où se prosterner*. Longue litanie d'épithètes du Nom.
 
 **Triangulation :** ***Yeshayahu* 6:3** — la *qedushah*. **Yehezqel 3:12** — « bénie soit la **kavod** de **YHWH** depuis son lieu ». **Cantiques du sacrifice du sabbat, 4Q400-407** (Qumrân) — liturgie céleste hébraïque, exactement ce registre. ***Tehilim*** — la litanie d'épithètes divines est une forme native.
 
@@ -236,7 +236,7 @@ Noter pour le rendu : c'est une **montée corporelle**, portée, dans un véhicu
 
 ## Motif 9 — La merkavah (ch. 18)
 
-**Scène :** le feu, le trône, les quatre *chayot* à quatre faces et six ailes, qui se menacent l'un l'autre jusqu'à ce que Yaho'el leur enseigne le chant de la paix ; les **ophanim** pleins d'yeux ; le trône de feu.
+**Scène :** le feu, le trône, les quatre *chayot* à quatre faces et six ailes, qui se menacent l'un l'autre jusqu'à ce que Yahoʾel leur enseigne le chant de la paix ; les **ophanim** pleins d'yeux ; le trône de feu.
 
 **Triangulation :** **Yehezqel 1 et 10** — substrat direct et massif. **Daniel 7:9-10** — le trône de flammes, les roues de feu. **Yeshayahu 6:2** — les six ailes. ***Toledot Adam ve-Chavah*** (ONT verrouillé) — **merkavah** est **déjà au glossaire ONT**, posée là, définie comme le trône-char contemplé en vision.
 
@@ -248,9 +248,9 @@ Noter pour le rendu : c'est une **montée corporelle**, portée, dans un véhicu
 
 **Scène :** El fait regarder Avraham sous le firmament où il se tient ; les étendues sont décrites, échelonnées, avec ce qui les peuple.
 
-**Triangulation :** **2 *Chanokh*** ; ***Tsava'at Lévi*** (n° 40 du corpus ONT) ; **2 Co 12:2** (« le troisième ciel ») — la pluralité des cieux est **attestée** dans le Second Temple, et Shaul la tient pour acquise.
+**Triangulation :** **2 *Chanokh*** ; ***Tsavaʾat Lévi*** (n° 40 du corpus ONT) ; **2 Co 12:2** (« le troisième ciel ») — la pluralité des cieux est **attestée** dans le Second Temple, et Shaul la tient pour acquise.
 
-**Verdict : TRACE POSSIBLE — en tension à documenter.** La difficulté n'est pas l'authenticité mais la **cohérence interne du corpus** : le CLAUDE.md §6 fixe une cosmologie à quatre niveaux (**She'ol** / Terre / espace habitable / Voûte / eaux supérieures) tirée de *Bereshit* 1 et 7:11. Les sept firmaments sont une **élaboration ultérieure** de cette même structure, non une contradiction — mais le §6 ne les prévoit pas.
+**Verdict : TRACE POSSIBLE — en tension à documenter.** La difficulté n'est pas l'authenticité mais la **cohérence interne du corpus** : le CLAUDE.md §6 fixe une cosmologie à quatre niveaux (**Sheʾol** / Terre / espace habitable / Voûte / eaux supérieures) tirée de *Bereshit* 1 et 7:11. Les sept firmaments sont une **élaboration ultérieure** de cette même structure, non une contradiction — mais le §6 ne les prévoit pas.
 
 Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux voies, à trancher avec l'auteur (§D.4) : soit le §6 accueille une note sur la stratification apocalyptique des Cieux, soit ce livre rend l'étagement sans le chiffrer. Ne rien décider ici.
 
@@ -356,7 +356,7 @@ Rendu : **olam** au corps, avec la règle de translittération du construit (§3
 | 1 | L'atelier de Terach, l'échelle du discernement | fidèle au réel | **corps** — rendre en discernement fonctionnel, jamais en démonstration |
 | 2 | Le feu sur la maison de Terach | fidèle au réel | **corps** |
 | 3 | Le sacrifice de *Bereshit* 15 | fidèle au réel | **corps** — armature du livre |
-| 4 | Yaho'el, le **mal'akh** porteur du **Shem** | fidèle au réel *(fonction)* | **corps** — **le nom : §D.1** |
+| 4 | Yahoʾel, le **malʾakh** porteur du **Shem** | fidèle au réel *(fonction)* | **corps** — **le nom : §D.1** |
 | 5 | Azazel, l'oiseau impur | fidèle au réel | **corps** — **statut du nom : §D.2** |
 | 6 | L'échange des vêtements de **kavod** | fidèle au réel | **corps** — **pièce maîtresse** |
 | 7 | La montée sur l'aile des oiseaux | fidèle au réel | **corps** |
@@ -382,7 +382,7 @@ il dit ce qui était en jeu, et une décision sans sa question ne se relit pas.
 | | décision |
 |---|---|
 | **régime (§E)** | **traduction filtrée**, non reconstruction — la recommandation du filtrage est retenue |
-| **D.1 Yaho'el** | **nom propre** (UC4) : sans gras, niveau 3 et glose à la première occurrence. Le précédent de Mikha'el et Rafa'el vaut ; un statut d'intraduisible aurait été rétroactif |
+| **D.1 Yahoʾel** | **nom propre** (UC4) : sans gras, niveau 3 et glose à la première occurrence. Le précédent de Mikhaʾel et Rafaʾel vaut ; un statut d'intraduisible aurait été rétroactif |
 | **D.2 Azazel** | **nom propre**, comme déjà posé dans le *Sefar Gibbaraya* verrouillé. Traitement définitif réservé à son locus légal, *Vayiqra* 16 — précédent **chesed** |
 | **D.3 Azazel en Eden** | **rendre la scène telle que le tableau la montre, gloser, ne rien trancher.** *Bereshit* 3 reste verrouillé avec le *nachash* fonctionnel ; §4.11 |
 | **D.4 les firmaments** | **la stratification entre, le chiffre n'entre pas** — et le §6 est réécrit. Voir ci-dessous |
@@ -401,7 +401,7 @@ L'appui invoqué ne tenait pas, vérification faite :
 - **2 *Chanokh* n'est pas dans le corpus ONT** (seul *1 Chanokh*, n° 38), et ne
   survit qu'en **slavon** — la même chaîne que ce livre-ci : le même témoin
   parlant deux fois, non deux témoins ;
-- ***Tsava'at Lévi* est le document araméen de Qumrân**, le §1 excluant les
+- ***Tsavaʾat Lévi* est le document araméen de Qumrân**, le §1 excluant les
   Testaments grecs. Les fragments araméens montrent Lévi voyant *les portes des
   cieux* — un pluriel sans compte. Le décompte appartient à la recension grecque
   écartée, où les manuscrits varient eux-mêmes entre trois et sept.
@@ -425,7 +425,7 @@ invisible. Forme exacte du §2.9.
 Le corpus tranche la médiation dans le sens descendant : **YHWH** descend et
 *prend*. Ce livre ne le contredit pas, et sa propre stratigraphie l'établissait
 sans en tirer la conséquence : Avraham **tombe, sans souffle en lui** (ch. 10) ;
-un **mal'akh** est **envoyé pour le relever** ; les oiseaux entiers deviennent
+un **malʾakh** est **envoyé pour le relever** ; les oiseaux entiers deviennent
 le **véhicule** de la montée (ch. 15).
 
 Il ne gravit rien. Il est porté. ==La forme est ascensionnelle, la structure
@@ -437,17 +437,17 @@ reste descendante== — et c'est la structure qu'on rend.
 
 Rien de ce qui suit n'entre au texte sans arbitrage. Classé par poids.
 
-**D.1 — Yaho'el.** *Le plus lourd que ce livre apporte.* Un **mal'akh** nommé, en qui le **Shem** de **YHWH** habite (*Shemot* 23:21), et dont le nom même est composé de YHW + El. La règle du §3 est explicite : *tout nouvel être céleste nommé se décide avec l'auteur*. Le précédent existe — Mikha'el (*Toledot*) et Rafa'el (*Sefar Gibbaraya*) sont traités en **noms propres** (UC4 : sans gras, niveau 3 + glose à la première occurrence), et gardent la fonction de **mal'akh**. Yaho'el suivrait naturellement ce traitement. Ce qui le distingue, et qui exige l'arbitrage : **son nom contient le Nom**. Une glose sur Yaho'el touche nécessairement à la question réservée de *Shemot* 3 — « décision la plus importante du projet après **Elohim** ». Question précise à trancher : jusqu'où la glose de première occurrence peut aller sans anticiper *Shemot* 3.
+**D.1 — Yahoʾel.** *Le plus lourd que ce livre apporte.* Un **malʾakh** nommé, en qui le **Shem** de **YHWH** habite (*Shemot* 23:21), et dont le nom même est composé de YHW + El. La règle du §3 est explicite : *tout nouvel être céleste nommé se décide avec l'auteur*. Le précédent existe — Mikhaʾel (*Toledot*) et Rafaʾel (*Sefar Gibbaraya*) sont traités en **noms propres** (UC4 : sans gras, niveau 3 + glose à la première occurrence), et gardent la fonction de **malʾakh**. Yahoʾel suivrait naturellement ce traitement. Ce qui le distingue, et qui exige l'arbitrage : **son nom contient le Nom**. Une glose sur Yahoʾel touche nécessairement à la question réservée de *Shemot* 3 — « décision la plus importante du projet après **Elohim** ». Question précise à trancher : jusqu'où la glose de première occurrence peut aller sans anticiper *Shemot* 3.
 
 **D.2 — Azazel.** Nom propre (UC4) comme dans *Sefar Gibbaraya*, ou terme chargé promu au glossaire ? Trois éléments pour décider : *(a)* il est **déjà** dans le corpus verrouillé comme nom propre, sans gras — changer de statut serait rétroactif ; *(b)* son locus légal est *Vayiqra* 16, **non traité**, et le §3 réserve ailleurs le traitement définitif à son locus central (précédent : **chesed** renvoyé à *Shemot* 34 et *Ruth*) ; *(c)* ici il n'est pas un concept mais **un personnage qui parle**. Recommandation : **maintenir UC4**, et réserver toute promotion à *Vayiqra* 16.
 
 **D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **irin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
 
-**D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsava'at Lévi*, 2 *Chanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Chanokh* (n° 38) — autant la traiter une fois.
+**D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsavaʾat Lévi*, 2 *Chanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Chanokh* (n° 38) — autant la traiter une fois.
 
 **D.5 — Le registre poétique (ch. 17).** Le chant est le premier morceau franchement poétique que l'ONT rencontrerait, or §7 réserve l'établissement des conventions poétiques au premier *Tehilim* traité avec l'auteur. Deux voies : ouvrir le registre ici, ou rendre le chant en prose scandée en attendant. Une décision prise ici engagera *Tehilim*, *Iyov* et *Shir Hashirim*.
 
-**D.6 — « l'Innommable ».** Le slavon emploie une circonlocution (*neizrečennyj*) là où l'hébreu portait le Tétragramme ou un substitut. Trois voies : restituer **YHWH**, garder la circonlocution comme fait du texte, ou distinguer selon que le locuteur est El, Yaho'el ou Avraham. Touche également la réserve de *Shemot* 3.
+**D.6 — « l'Innommable ».** Le slavon emploie une circonlocution (*neizrečennyj*) là où l'hébreu portait le Tétragramme ou un substitut. Trois voies : restituer **YHWH**, garder la circonlocution comme fait du texte, ou distinguer selon que le locuteur est El, Yahoʾel ou Avraham. Touche également la réserve de *Shemot* 3.
 
 ---
 
@@ -485,5 +485,5 @@ Le dossier est bâti sur une connaissance de seconde main du texte slavon et de 
 - Ryszard Rubinkiewicz, *L'Apocalypse d'Abraham en vieux slave* (Lublin, 1987) — édition critique, et l'analyse détaillée de l'interpolation du ch. 29.
 - G. H. Box & J. I. Landsman, *The Apocalypse of Abraham* (1918) — première traduction anglaise de référence ; datée, mais elle a posé le dossier.
 - R. Rubinkiewicz, traduction et introduction dans Charlesworth, *The Old Testament Pseudepigrapha*, vol. 1.
-- Andrei Orlov, travaux sur Yaho'el, Azazel et les traditions de la **merkavah** dans ce livre — déjà cité dans le dossier de *Sefar Gibbaraya* pour les songes.
+- Andrei Orlov, travaux sur Yahoʾel, Azazel et les traditions de la **merkavah** dans ce livre — déjà cité dans le dossier de *Sefar Gibbaraya* pour les songes.
 - ***Yovelim* 11-12** — à lire directement : c'est un témoin **du corpus ONT lui-même** (n° 06), et le meilleur appui du Motif 1.

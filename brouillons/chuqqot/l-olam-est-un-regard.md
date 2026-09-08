@@ -30,7 +30,7 @@ la surprend à dire ce qu'elle dit vraiment :
 |---|---|
 | *elem* (עֶלֶם) | le jeune homme — l'âge où l'on est ==encore caché==, non encore manifeste dans sa force |
 | *almah* (עַלְמָה) | la jeune femme — celle dont ==le potentiel n'est pas encore paru== |
-| *ne'elam* (נֶעֱלָם) | ce qui est rendu obscur, ==ce qui se dérobe== |
+| *neʿelam* (נֶעֱלָם) | ce qui est rendu obscur, ==ce qui se dérobe== |
 
 Aucun de ces mots ne parle de distance ni de durée. Tous parlent de ==quelque
 chose qui n'est pas encore paru à un regard==.
@@ -215,7 +215,7 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Bereshit* 3:22 (verrouillé) — *vechai le'olam*, premier emploi du mot dans l'ONT.
+- *Bereshit* 3:22 (verrouillé) — *vechai leʿolam*, premier emploi du mot dans l'ONT.
 - *Qohelet* 3:11 (à écrire) — l'**olam** mis dans le cœur, le texte le plus décisif.
 - *Devarim* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
 - *Tehilim* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.

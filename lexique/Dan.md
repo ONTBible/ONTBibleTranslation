@@ -12,7 +12,7 @@ La voyelle devant le `n` ==n'est pas nasale== : on détache, jamais le « on » 
 
 ## Ce que le corpus en fait
 
-Sa mention dans ce chapitre est ==incertaine et indirecte== : le corpus propose Laïsh/Dan comme identification possible de [[Lesha]], le point qui ferme la frontière kena'ani au septentrion.
+Sa mention dans ce chapitre est ==incertaine et indirecte== : le corpus propose Laïsh/Dan comme identification possible de [[Lesha]], le point qui ferme la frontière kenaʿani au septentrion.
 
 L'ONT ne tranche pas.
 
@@ -22,4 +22,4 @@ Un nom qui dit le jugement finit donc par servir ==à mesurer une terre==.
 
 ## Voir aussi
 
-Ce qu'il pourrait identifier : [[Lesha]], au septentrion de [[Kena'an]].
+Ce qu'il pourrait identifier : [[Lesha]], au septentrion de [[Kenaʿan]].

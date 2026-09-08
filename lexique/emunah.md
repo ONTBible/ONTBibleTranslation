@@ -12,7 +12,7 @@ Un enfant porté sur le bras d'une nourrice. Un poteau planté qui tient la tent
 
 Ce n'est donc pas ce que nous appelons la foi. Notre foi est une adhésion de l'esprit : croire que quelque chose est vrai sans pouvoir le prouver, un contenu qu'on tient pour tel. L'==emunah== ne dit rien d'un contenu. Elle dit ==une fidélité qui dure== — un appui qui ne cède pas quand on met du poids dessus.
 
-Ce qui change de fond en comble la scène où le mot paraît. ==Avram== n'a pas de fils, il est vieux, et on lui montre les étoiles. Le texte dit qu'il *he'emin* en **YHWH** — l'ONT rend le verbe par ==emuna== plutôt que par « il crut ». Car il ne s'agit pas d'un assentiment intellectuel à une promesse improbable : il s'agit de ==s'appuyer==. Il met son poids là. Et la suite le montre bien, qui n'est pas un acte de conviction mais des années à vivre en comptant dessus.
+Ce qui change de fond en comble la scène où le mot paraît. ==Avram== n'a pas de fils, il est vieux, et on lui montre les étoiles. Le texte dit qu'il *heʾemin* en **YHWH** — l'ONT rend le verbe par ==emuna== plutôt que par « il crut ». Car il ne s'agit pas d'un assentiment intellectuel à une promesse improbable : il s'agit de ==s'appuyer==. Il met son poids là. Et la suite le montre bien, qui n'est pas un acte de conviction mais des années à vivre en comptant dessus.
 
 Le mot vaut d'ailleurs dans les deux sens, et c'est ce que « foi » perd entièrement. **YHWH** est dit d'==emunah== bien plus souvent que les hommes : il est ==celui sur qui l'appui tient==. Une relation, pas une opinion — et une relation où le plus fidèle des deux n'est pas l'homme.
 

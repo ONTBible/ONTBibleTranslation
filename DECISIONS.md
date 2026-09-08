@@ -62,18 +62,18 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **El Elyon** | — | *Bereshit* 14 | ✓ |
 | **El Roï** | — | *Bereshit* 16:13 | ✓ |
 | **Kohen** | kohen, kohanim, kohen gadol | *Bereshit* 14:18 | ✓ |
-| **mal'akh** | mal'akhim | *Bereshit* 16:7 | ✓ |
+| **malʾakh** | malʾakhim | *Bereshit* 16:7 | ✓ |
 | **shaliach** | shlichim | — | ✓ |
 | **shiphchah** | — | *Bereshit* 16:1 | ✓ |
 | **emunah** | Emunah, emuna | *Bereshit* 15:6 | ✓ |
 | **tsedaqah** | tsedaqah umishpat | *Bereshit* 15:6 | ✓ |
 | **tsadiq** | tsadiqim | *Bereshit* 6:9 | ✓ |
-| **rasha** | resha'im | *Bereshit* 18:23 | ✓ |
+| **rasha** | reshaʿim | *Bereshit* 18:23 | ✓ |
 | **chesed** | — | *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth* | ✓ |
-| **tov** | tov me'od, tov vara, Tov vara | *Bereshit* 1:4 | ✓ |
-| **ra** | ra'at, ra'im | *Bereshit* 2:9 | ✓ |
+| **tov** | tov meʾod, tov vara, Tov vara | *Bereshit* 1:4 | ✓ |
+| **ra** | raʿat, raʿim | *Bereshit* 2:9 | ✓ |
 | **chata** | — | *Bereshit* 4:7 | ✓ |
-| **chattat** | chata'ah, chata'im | *Bereshit* 4:7 | ✓ |
+| **chattat** | chataʾah, chataʾim | *Bereshit* 4:7 | ✓ |
 | **davar** | devarim | *Bereshit* 11:1 | ✓ |
 | **irin** | — | — | ✓ |
 | **gibbaraya** | — | — | ✓ |
@@ -87,22 +87,22 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **orlah** | arel | — | ✓ |
 | **mishpat** | mishpatim | *Bereshit* 18 | ✓ |
 | **shofet** | shoftim | *Bereshit* 18:25 | ✓ |
-| **olam** | berith-olam, achuzat-olam, ledorot-olam, ad-olam, le'olam, me'olam | *Bereshit* 3:22 (*vechai le'olam*) | ✓ |
-| **She'ol** | — | *Toledot Adam ve-Chavah* | ✓ |
+| **olam** | berith-olam, achuzat-olam, ledorot-olam, ad-olam, leʿolam, meʿolam | *Bereshit* 3:22 (*vechai leʿolam*) | ✓ |
+| **Sheʾol** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **teshuvah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **tevilah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **merkavah** | — | en corps de texte : *Toledot Adam ve-Chavah* | ✓ |
 | **Nephilim** | — | *Bereshit* 6:4 | ✓ |
 | **gibbor** | gibborim, gibor | *Bereshit* 6:4 | ✓ |
-| **navi** | nevi'im | — | ✓ |
+| **navi** | neviʾim | — | ✓ |
 | **qodesh** | — | — | ✓ |
 | **Ruach ha-Qodesh** | — | — | ✓ |
 | **chokhmah** | — | — | ✓ |
 | **binah** | — | — | ✓ |
 | **etsah** | — | — | ✓ |
 | **gevurah** | gevurot, gevurot | — | ✓ |
-| **da'at** | — | — | ✓ |
+| **daʿat** | — | — | ✓ |
 | **yirah** | yirat YHWH | — | ✓ |
 
 ◆ — cette forme est ==aussi déclarée comme lemme par sa propre puce==.
@@ -127,7 +127,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Bereshit 12, 15, 17* — Avraham
 - *Vayiqra* — Le système sacrificiel
 - *Yohanan 1:1-18* — Le Prologue
-- *Gevurot ha-Nevi'im 2* — La Pentecôte
+- *Gevurot ha-Neviʾim 2* — La Pentecôte
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 

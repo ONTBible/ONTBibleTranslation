@@ -20,10 +20,10 @@ Et le texte enchaîne les étapes sans commentaire : il se sépare, il va vers l
 
 Quatre positions, et personne ne le juge. ==Le corpus laisse la géographie dire le mouvement.==
 
-Il faudra que des **mal'akhim** le prennent par la main pour l'en faire sortir, et il hésitera encore.
+Il faudra que des **malʾakhim** le prennent par la main pour l'en faire sortir, et il hésitera encore.
 
 ## Voir aussi
 
 Sa maison : [[Charan]] son père mort avant [[Terach]], [[Avraham]] son oncle, [[Milkah]] et [[Iska]] ses sœurs.
 
-Ce que son **Shem** touche : [[Sedom]] où il descend, [[Tso'ar]] où il se réfugie, et le **chesed** dont il dira qu'il a gardé son **Nefesh**.
+Ce que son **Shem** touche : [[Sedom]] où il descend, [[Tsoʿar]] où il se réfugie, et le **chesed** dont il dira qu'il a gardé son **Nefesh**.

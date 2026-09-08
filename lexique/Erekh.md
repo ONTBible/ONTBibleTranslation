@@ -10,7 +10,7 @@ Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allem
 
 (*Erekh* / אֶרֶךְ) est ==Uruk== — et ce nom-là, l'archéologie le connaît bien.
 
-C'est l'une des toutes premières villes de l'histoire humaine, dans la plaine de [[Shin'ar]] : le lieu où l'écriture cunéiforme apparaît, où la cité prend sa forme.
+C'est l'une des toutes premières villes de l'histoire humaine, dans la plaine de [[Shinʿar]] : le lieu où l'écriture cunéiforme apparaît, où la cité prend sa forme.
 
 ## Ce que sa mention établit
 
@@ -22,4 +22,4 @@ Le corpus ne dit rien de plus d'==Erekh==, et la règle de l'ONT est de ne pas l
 
 ## Voir aussi
 
-Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[Akkad]], dans [[Shin'ar]].
+Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[Akkad]], dans [[Shinʿar]].

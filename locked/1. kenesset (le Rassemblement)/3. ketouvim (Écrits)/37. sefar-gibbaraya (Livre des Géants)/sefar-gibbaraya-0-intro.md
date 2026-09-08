@@ -62,15 +62,15 @@ Le livre suit l'arc de la démesure antédiluvienne et de sa fin. Des **irin** q
 | Les **gibbaraya**, anomalie de fonction | ni gardiens des Cieux ni serviteurs de la Terre — un poids déplacé entre les domaines | *Bereshit* 6:4 (**gibborim**, **Nephilim**) ; 1 *==Chanokh==* 15-16 |
 | *La Terre alourdie* | l'appétit sans limite change l'abondance en manque ; le sang versé, le sol témoin | *Bereshit* 4:10 ; 6:11-13 ; 1 *==Chanokh==* 7-9 |
 | *Les deux songes* | jardin défait (feu/eaux, racine gardée) ; tablette lavée (noms effacés, un reste) | 4Q530 ; 6Q8 ; *Daniel* 4 et 7 |
-| [[Mahaway]], **mal'akh** inversé | envoyé *d'en bas* vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] — l'inverse du **mal'akh** **YHWH** mandaté d'en haut | 4Q530-531 ; versions manichéennes |
-| *La lettre de ==Chanokh==* | le jugement inscrit là où la tablette montrait l'effacement ; [[Rafa'el]] prépare les liens | 4Q203 fr. 8 ; 1 *==Chanokh==* 10 |
+| [[Mahaway]], **malʾakh** inversé | envoyé *d'en bas* vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] — l'inverse du **malʾakh** **YHWH** mandaté d'en haut | 4Q530-531 ; versions manichéennes |
+| *La lettre de ==Chanokh==* | le jugement inscrit là où la tablette montrait l'effacement ; [[Rafaʾel]] prépare les liens | 4Q203 fr. 8 ; 1 *==Chanokh==* 10 |
 | Le **mabbul**, dé-création temporaire | il défait pour rétablir : recouvre la confusion, remet la Terre sous distinction | *Bereshit* 6-8 (synthèse ONT) |
 
 Le fait décisif : *ce livre est attesté en araméen à Qumrân*. La reconstruction *recouvre* des fragments réels — elle ne projette pas un mythe tardif sur un texte perdu.
 
 ## Échos dans la Berit Hadashah
 
-*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* Les **shlichim** de Yeshua tenaient la tradition des **irin** pour *réelle* : *Kefa* dit les envoyés qui ont dévié « livrés aux liens » dans l'attente du **mishpat** (2 Kefa 2:4) ; *Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » (Yehudah 6) — c'est mot pour mot la *sortie de garde* des **irin** — et il *cite nommément Chanokh* (Yehudah 14-15). Là, la *Berit Hadashah* ne projette rien : elle *corrobore* que la transgression des gardiens est un réel recouvré, et que le courant hénochien portait une vérité, non une fable.
+*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* Les **shlichim** de Yeshua tenaient la tradition des **irin** pour *réelle* : *Kefa* dit les envoyés qui ont dévié « livrés aux liens » dans l'attente du **mishpat** (2 Kefa 2:4) ; *Yehudah* parle des **malʾakhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » (Yehudah 6) — c'est mot pour mot la *sortie de garde* des **irin** — et il *cite nommément Chanokh* (Yehudah 14-15). Là, la *Berit Hadashah* ne projette rien : elle *corrobore* que la transgression des gardiens est un réel recouvré, et que le courant hénochien portait une vérité, non une fable.
 
 De même, les esprits sans repos issus des **gibbaraya** (1 *==Chanokh==* 15-16 ; ce livre, ch. 8-9) sous-tendent le substrat que les *Besorot* présupposent quand Yeshua rencontre des esprits qui n'ont pas de lieu (*Marqus* 5:9-13). Ce sont des *résonances de corpus* : légitimes ici, dans l'introduction ; le corps, lui, parle depuis *les jours anciens*, non depuis les **shlichim**.
 
@@ -88,7 +88,7 @@ De même, les esprits sans repos issus des **gibbaraya** (1 *==Chanokh==* 15-16 
 - **gibbaraya** (*gibbaraya* / גבריא) — *intraduisible* (CLAUDE.md §2.5) : araméen, les puissants, les démesurés — forme araméenne des **gibborim** de *Bereshit* 6:4. Jamais « géants ».
 - **mabbul** (*mabbul* / מַבּוּל) — *intraduisible* (déjà posé, *Bereshit* 8) : le déluge noachique comme dé-création temporaire, non simple inondation.
 - *Vocabulaire araméen technique* — *razin* (secrets), *chelmin* (songes), *peshar* (déchiffrement), *din* (décret), *chabala* (dommage), *qebalah* (plainte judiciaire), *kenishta* (assemblée) : *traduits* dans le corps, l'araméen persistant en niveau 3 comme repère critique. Ils ne sont *pas* promus intraduisibles — aucun terme chargé neuf n'est introduit au corpus par ce livre.
-- Noms des **irin** : [[Shemichazah]] (« mon **shem** a vu »), [[Azazel]], [[Baraqel]] (« éclair d'El »). Noms des **gibbaraya** : [[Ohyah]], [[Hahyah]]/[[Ahyah]] (vocalisation laissée ouverte), [[Mahaway]], [[Gilgamesh]] et [[Chobabish]] (reclassés sous jugement). [[Chanokh-qui-marche-avec-Elohim|Chanokh]] le scribe ; [[Rafa'el]] (« **El** guérit »), **mal'akh** du décret et de la restauration ; [[Noach]], la racine gardée. Tous sans gras, niveau 3 + glose à la première occurrence.
+- Noms des **irin** : [[Shemichazah]] (« mon **shem** a vu »), [[Azazel]], [[Baraqel]] (« éclair d'El »). Noms des **gibbaraya** : [[Ohyah]], [[Hahyah]]/[[Ahyah]] (vocalisation laissée ouverte), [[Mahaway]], [[Gilgamesh]] et [[Chobabish]] (reclassés sous jugement). [[Chanokh-qui-marche-avec-Elohim|Chanokh]] le scribe ; [[Rafaʾel]] (« **El** guérit »), **malʾakh** du décret et de la restauration ; [[Noach]], la racine gardée. Tous sans gras, niveau 3 + glose à la première occurrence.
 - *Fondations parallèles* : *Bereshit* 1 (création par distinctions), *Bereshit* 6:1-4 (le noyau bref des **irin** et des **gibborim**), *Bereshit* 6-9 (corruption, **mabbul**, re-création) ; le cycle de 1 *==Chanokh==* 6-16.
 
 ## Relecture interne du récit
@@ -110,7 +110,7 @@ Le corps distingue en permanence l'attesté du reconstruit. Récapitulatif au ni
 - Noms des **gibbaraya** (ch. 3) : attestés de manière fragmentaire et par traditions parallèles.
 - Violence et consommation, la Terre alourdie (ch. 2) : attestées par fragments et par 1 *==Chanokh==* ; la confession du puissant reprend 4Q531 fr. 17.
 - Songes du jardin et de la tablette (ch. 4-5) : attestés (4Q530, 6Q8), mais leur distribution exacte entre rêveurs reste discutée.
-- [[Mahaway]] **mal'akh** des **gibbaraya** vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (ch. 6) : attesté comme motif central.
+- [[Mahaway]] **malʾakh** des **gibbaraya** vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (ch. 6) : attesté comme motif central.
 - Lettre de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (ch. 7) : attestée en 4Q203 fr. 8, reconstruite ici de façon continue.
 - Décret détaillé contre [[Azazel]], [[Shemichazah]] et les **gibbaraya** (ch. 9) : surtout 1 *==Chanokh==* 10.
 - Esprits errants issus des **gibbaraya** (ch. 8-9) : surtout 1 *==Chanokh==* 15-16, signalés comme expansion.

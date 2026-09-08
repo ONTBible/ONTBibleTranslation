@@ -1,4 +1,4 @@
-# Tid'al
+# Tidʿal
 
 ## Prononciation
 
@@ -8,7 +8,7 @@ Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-(*Tid'al* / תִּדְעָל) — ==roi de [[Goyyim]]==, ce qui est une désignation étrange : roi *des nations*, sans peuple propre nommé.
+(*Tidʿal* / תִּדְעָל) — ==roi de [[Goyyim]]==, ce qui est une désignation étrange : roi *des nations*, sans peuple propre nommé.
 
 ## Ce que le corpus en fait
 
@@ -20,5 +20,5 @@ Quatrième de la coalition, il disparaît avec elle.
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tid'al]].
+Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].

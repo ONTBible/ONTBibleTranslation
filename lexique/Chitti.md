@@ -8,13 +8,13 @@ Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 ## Le Shem
 
-(*Chitti* / הַחִתִּי) — ==celui de [[Chet]]==. Le **Shem** du peuple est celui de son père : la table des nations fait de [[Chet]] le second fils de [[Kena'an]], et le corpus dit *benei Chet*, ==les fils de Chet==, là où il dira ailleurs « le Chitti ». Un seul mot au singulier gentilice pour toute une maison.
+(*Chitti* / הַחִתִּי) — ==celui de [[Chet]]==. Le **Shem** du peuple est celui de son père : la table des nations fait de [[Chet]] le second fils de [[Kenaʿan]], et le corpus dit *benei Chet*, ==les fils de Chet==, là où il dira ailleurs « le Chitti ». Un seul mot au singulier gentilice pour toute une maison.
 
 Le nom recouvre en réalité deux choses que le texte ne distingue pas, et il vaut mieux le savoir.
 
 Il y a les ==Hittites d'Anatolie== — une des grandes puissances de l'Âge du Bronze, avec sa capitale à Hattusa, ses archives sur tablettes, ses traités de vassalité rédigés selon une forme que les chercheurs comparent à celle de la **berith**. Un empire qui a tenu tête à [[Mitsrayim]] et signé avec lui le plus ancien traité de paix qu'on possède.
 
-Et il y a les ==fils de Chet== de [[Kena'an]] — un groupe installé dans la montagne, autour de [[Chevron]], que le récit patriarcal fréquente de près.
+Et il y a les ==fils de Chet== de [[Kenaʿan]] — un groupe installé dans la montagne, autour de [[Chevron]], que le récit patriarcal fréquente de près.
 
 Le corpus emploie le même mot pour les deux, sans jamais s'expliquer. ==L'ONT restitue et ne tranche pas== : c'est une seule désignation dans le texte, ce sera une seule ici.
 
@@ -36,8 +36,8 @@ Rien de cela n'est écrit dans l'ONT. Quand *Bereshit* 23 le sera, cette fiche d
 
 ## Voir aussi
 
-Sa maison : [[Chet]] son père, [[Kena'an]] son grand-père, [[Cham]] au-dessus — et ses frères kena'ani, [[Tsidon]], [[Emori]], [[Girgashi]], [[Yevousi]], [[Chivi]].
+Sa maison : [[Chet]] son père, [[Kenaʿan]] son grand-père, [[Cham]] au-dessus — et ses frères kenaʿani, [[Tsidon]], [[Emori]], [[Girgashi]], [[Yevousi]], [[Chivi]].
 
-Les neuf autres de la liste : [[Qeni]], [[Qadmoni]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
+Les neuf autres de la liste : [[Qeni]], [[Qadmoni]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
 Le lieu où on les rencontrera : [[Chevron]], premier ancrage durable d'[[Avraham]] dans le pays.

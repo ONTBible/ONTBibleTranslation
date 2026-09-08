@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Elam* / עֵילָם) — ==l'Élam==, empire antique à l'orient de [[Shin'ar]], dans l'actuel Iran du midi-occident.
+(*Elam* / עֵילָם) — ==l'Élam==, empire antique à l'orient de [[Shinʿar]], dans l'actuel Iran du midi-occident.
 
 ## Ce que le corpus en fait
 

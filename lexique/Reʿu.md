@@ -1,4 +1,4 @@
-# Re'u
+# Reʿu
 
 ## Prononciation
 
@@ -10,7 +10,7 @@ Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de
 
 ## Le Shem
 
-(*Re'u* / רְעוּ) — de *re'a*, ==l'ami, le compagnon== — celui avec qui l'on est.
+(*Reʿu* / רְעוּ) — de *re'a*, ==l'ami, le compagnon== — celui avec qui l'on est.
 
 ## Ce que le corpus en fait
 
@@ -20,7 +20,7 @@ Le corpus ne dit rien de lui : il vit, il engendre [[Serug]], il vit encore. C'e
 
 Ce que la généalogie de *Bereshit* 11 fait, en revanche, mérite d'être vu : ==les durées de vie s'effondrent==. Après le **mabbul**, on ne vit plus neuf cents ans mais deux cents, puis moins. Le chapitre descend, ligne après ligne, jusqu'aux âges des patriarches.
 
-==Re'u== est l'un des degrés de cette descente.
+==Reʿu== est l'un des degrés de cette descente.
 
 ## Voir aussi
 

@@ -1,4 +1,4 @@
-# Tso'ar
+# Tsoʿar
 
 ## Prononciation
 
@@ -10,13 +10,13 @@ Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-De *tsa'ar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
+De *tsaʿar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
 
 ## Ce que le corpus en fait
 
 C'est [[Lot]] qui le donne, et la scène est étrange.
 
-Les **mal'akhim** le pressent de fuir vers la montagne. Il refuse — il a peur que le mal ne l'atteigne et qu'il ne meure. Et il négocie : *voici, cette ville est proche pour y fuir, et ==elle est petite== ; que je m'y sauve, n'est-elle pas petite ?*
+Les **malʾakhim** le pressent de fuir vers la montagne. Il refuse — il a peur que le mal ne l'atteigne et qu'il ne meure. Et il négocie : *voici, cette ville est proche pour y fuir, et ==elle est petite== ; que je m'y sauve, n'est-elle pas petite ?*
 
 La ville reçoit son **Shem** de ==l'argument par lequel il l'obtient==.
 

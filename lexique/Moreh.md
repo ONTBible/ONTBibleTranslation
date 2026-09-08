@@ -41,7 +41,7 @@ Le mot français dit quelqu'un qui ==possède un savoir== et le transmet. On
 mesure sa compétence à ce qu'il sait, et l'on peut savoir beaucoup sans avoir
 rien vécu.
 
-Le **moreh** enseigne depuis la **da'at** — le connaître ==par participation==,
+Le **moreh** enseigne depuis la **daʿat** — le connaître ==par participation==,
 celui qui suppose d'avoir été à l'intérieur de ce qu'on connaît.
 
 D'où l'invariant :
@@ -58,5 +58,5 @@ C'est une des cinq dimensions du **navi**, et elle est ==celle qui reste après
 lui==.
 
 Le **mevaser** porte au dehors, le **chozeh** pénètre ce qui est voilé, le
-**ro'eh** conduit. Le **moreh** ==construit ce qui durera== : des gens capables
+**roʿeh** conduit. Le **moreh** ==construit ce qui durera== : des gens capables
 de recevoir, et donc de transmettre à leur tour.

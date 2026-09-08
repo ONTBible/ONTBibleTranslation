@@ -16,7 +16,7 @@ Le **Shem** ne distingue pas le pays de son dieu. C'est une chose que le monde a
 
 Il paraît deux fois dans ce chapitre, et les deux fois comptent.
 
-D'abord comme ==destination== : [[Nimrod]] ==sort de [[Shin'ar]] vers Assur== et y bâtit [[Ninveh]], [[Rehovot-Ir]] et [[Kelach]]. La puissance née dans la plaine remonte le fleuve et fonde au septentrion.
+D'abord comme ==destination== : [[Nimrod]] ==sort de [[Shinʿar]] vers Assur== et y bâtit [[Ninveh]], [[Rehovot-Ir]] et [[Kelach]]. La puissance née dans la plaine remonte le fleuve et fonde au septentrion.
 
 Ensuite comme ==fils de [[Shem-fils-de-Noach]]==, au verset 22.
 

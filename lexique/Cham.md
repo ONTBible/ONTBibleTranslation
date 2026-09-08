@@ -24,7 +24,7 @@ Puis vient ce qui étonne : le *arur* que [[Noach]] prononce ne tombe pas sur lu
 
 ## Ce que sa maison devient
 
-*Bereshit* 10 fait de lui l'ancêtre d'une part du monde connu — et notamment de ==Mitsrayim== et de ==Kena'an==, c'est-à-dire des deux peuples que le récit d'Israël rencontrera le plus durement.
+*Bereshit* 10 fait de lui l'ancêtre d'une part du monde connu — et notamment de ==Mitsrayim== et de ==Kenaʿan==, c'est-à-dire des deux peuples que le récit d'Israël rencontrera le plus durement.
 
 Il faut le lire pour ce que c'est : ==une carte des nations==, non un jugement sur des lignées. Le corpus range les peuples ; il ne les hiérarchise pas par le sang.
 
@@ -32,4 +32,4 @@ Il faut le lire pour ce que c'est : ==une carte des nations==, non un jugement s
 
 Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yaphet]] ses frères.
 
-Ce que sa descendance touche : ==Mitsrayim==, ==Kena'an==, et la table des nations de *Bereshit* 10.
+Ce que sa descendance touche : ==Mitsrayim==, ==Kenaʿan==, et la table des nations de *Bereshit* 10.

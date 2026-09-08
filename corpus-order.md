@@ -11,7 +11,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | Niveau | Préfixe | Exemple |
 |---|---|---|
 | Corpus (Kenesset / Berit Hadashah) | `1.` `2.` | `1. kenesset` |
-| Mode (Torah / Nevi'im / Ketouvim / Nistarot) | `1.` `2.` `3.` `4.` | `1. torah` |
+| Mode (Torah / Neviʾim / Ketouvim / Nistarot) | `1.` `2.` `3.` `4.` | `1. torah` |
 | Livre individuel | `01.` – `70.` continu sur tout le corpus | `01. bereshit` |
 | Sous-groupeur (conteneur) | numéro de son premier livre | `44. eduyot` |
 
@@ -30,9 +30,9 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | 05 | *Devarim* (Deutéronome) | דְּבָרִים |
 | 06 | *Yovelim* (Jubilés) — corpus étendu | יוֹבְלִים |
 
-### Kenesset — Nevi'im (07-26)
+### Kenesset — Neviʾim (07-26)
 
-**Nevi'im Rishonim** (narration chronologique) :
+**Neviʾim Rishonim** (narration chronologique) :
 
 | # | Livre |
 |---|---|
@@ -41,7 +41,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | 09 | *Shemuel* (Samuel) |
 | 10 | *Melakhim* (Rois) |
 
-**Nevi'im Aharonim** (arc émotionnel : destruction → vision → consolation) :
+**Neviʾim Aharonim** (arc émotionnel : destruction → vision → consolation) :
 
 | # | Livre | Note |
 |---|---|---|
@@ -65,7 +65,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | 23 | *Tsefanyah* (Sophonie) |
 | 24 | *Haggai* (Aggée) |
 | 25 | *Zekharyah* (Zacharie) |
-| 26 | *Mal'akhi* (Malachie) |
+| 26 | *Malʾakhi* (Malachie) |
 
 ### Kenesset — Ketouvim (27-37)
 
@@ -86,7 +86,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | 32 | *Qohelet* (Ecclésiaste) | Soukkot |
 | 33 | *Esther* | Pourim |
 
-*Note : Ekha (Lamentations) est placé en Nevi'im après Yirmeyahu — le regroupement des Megillot est rabbinique post-70 EC, pas Second Temple.*
+*Note : Ekha (Lamentations) est placé en Neviʾim après Yirmeyahu — le regroupement des Megillot est rabbinique post-70 EC, pas Second Temple.*
 
 **Récits historiques tardifs :**
 
@@ -110,12 +110,12 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 |---|---|---|---|
 | 38 | *1 Chanokh* (1 Hénoch) | Antédiluvien — 7e génération d'Adam | Architecture céleste, calendrier cosmique, Fils de l'Homme |
 | 39 | *Chazon Avraham* (Apocalypse d'Abraham) | Patriarcal (~2000 av. EC) | Ascension et vision du Conseil divin |
-| 40 | *Tsava'at Lévi* (Testament de Lévi araméen de Qumrân) | Patriarcal — fils de Ya'aqov | **Placement provisoire** — voir note ci-dessous |
+| 40 | *Tsavaʾat Lévi* (Testament de Lévi araméen de Qumrân) | Patriarcal — fils de Yaʿaqov | **Placement provisoire** — voir note ci-dessous |
 | 41 | *Daniel* | Exil babylonien (~600-535 av. EC) | Porte narrative (ch. 1-6) puis visions (ch. 7-12) |
 | 42 | *Chazon Ezra* (2 Ezra) | Post-destruction | Ch. 3-14 uniquement — lamentation et questionnement |
 | 43 | *Chazon Barukh* (Apocalypse de Baruch syriaque) | Post-destruction | Consolation et restauration eschatologique — **mot final des Nistarot** |
 
-**Note *Tsava'at Lévi* (40) :** placement provisoire en Nistarot. Le Document araméen de Lévi de Qumrân contient une vision sacerdotale et une instruction angélique (→ Nistarot), mais aussi une instruction patriarcale à ses fils (→ Ketouvim possible). Décision suspendue à la lecture du texte.
+**Note *Tsavaʾat Lévi* (40) :** placement provisoire en Nistarot. Le Document araméen de Lévi de Qumrân contient une vision sacerdotale et une instruction angélique (→ Nistarot), mais aussi une instruction patriarcale à ses fils (→ Ketouvim possible). Décision suspendue à la lecture du texte.
 
 ---
 
@@ -134,9 +134,9 @@ Conteneur : `44. eduyot` (numéro de son premier livre).
 
 | # | Livre |
 |---|---|
-| 48 | *Gevurot ha-Nevi'im* — texte unique |
+| 48 | *Gevurot ha-Neviʾim* — texte unique |
 
-## Berit Hadashah — Nevi'im / Igerot (49-69)
+## Berit Hadashah — Neviʾim / Igerot (49-69)
 
 Structurées selon la fracture du **Ḥurban** (חורבן) — destruction du Second Temple (70 EC) — comme pivot herméneutique.
 
@@ -156,7 +156,7 @@ Conteneur : `49. igerot-lifnei-hahurban`
 | 56 | *El ha-Tessaloniqiyim alef* (1 Thessaloniciens) | ~50 EC | |
 | 57 | *El ha-Tessaloniqiyim bet* (2 Thessaloniciens) | ~51 EC | |
 | 58 | *El Filemon* (Philémon) | ~60-62 EC | |
-| 59 | *Igeret Ya'aqov* (Lettre de Ya'aqov) | ~45-62 EC | La plus hébraïque — sagesse fonctionnelle |
+| 59 | *Igeret Yaʿaqov* (Lettre de Yaʿaqov) | ~45-62 EC | La plus hébraïque — sagesse fonctionnelle |
 | 60 | *Igeret Kefa alef* (1 Kefa) | ~60-64 EC | |
 | 61 | *Igeret ha-Ivrim* (Lettre aux Hébreux) | ~60-70 EC | **Dernier mot du Bayit vivant** — méditation sur le système lévitique en présent |
 
@@ -213,14 +213,14 @@ c'est l'erreur exacte qu'une session a commise trois jours de suite : ==dire
 | 36 | *Toledot Adam ve-Chavah* | Aucun manuscrit antique ne le porte : il ne nous vient que par des témoins médiévaux. | témoin |
 | 37 | *Sefar Gibbaraya* | Ses fragments araméens de Qumrân existent bien ; aucune édition n'en est encore librement réutilisable. | fichier |
 | 39 | *Chazon Avraham* | Il ne nous est parvenu qu'en slavon, et aucune édition n'en est lisible par machine. | fichier |
-| 40 | *Tsava'at Lévi* | Son araméen est attesté à Qumrân ; aucune édition n'en est encore librement réutilisable. | fichier |
+| 40 | *Tsavaʾat Lévi* | Son araméen est attesté à Qumrân ; aucune édition n'en est encore librement réutilisable. | fichier |
 | 43 | *Chazon Barukh* | Il ne survit qu'en syriaque ; son hébreu est perdu. | témoin ==À confirmer par l'auteur== |
 
 **Quatre de ces six phrases reposent sur la feuille d'introduction du livre**,
 qui est l'organe où le §2.7 établit sa chaîne de transmission — *Toledot*
 (« aucun manuscrit antique »), *Sefar Gibbaraya* (« 1Q23-24, 2Q26, 4Q203,
 4Q530-533, 6Q8 »), *Chazon Avraham* (« quatre maillons du slavon »), et
-*Tsava'at Lévi* par sa parenté de dossier avec le *Gibbaraya*.
+*Tsavaʾat Lévi* par sa parenté de dossier avec le *Gibbaraya*.
 
 **Les deux autres n'ont pas encore d'introduction**, donc leur chaîne n'a pas
 encore été établie par le projet. Écrire au lecteur une phrase sur une assise

@@ -20,4 +20,4 @@ Elle appartient à la même famille que l'**emunah** et la **yirah**, et les tro
 
 C'est pourquoi la **tevilah** peut en être le geste : passer par les eaux, c'est faire avec le corps le demi-tour que le mot décrit. Le mouvement rendu visible.
 
-Et c'est pourquoi les **nevi'im** ne demandent presque jamais aux hommes de se sentir coupables. Ils leur disent : *revenez*. Le verbe est à l'impératif, et il s'adresse aux pieds.
+Et c'est pourquoi les **neviʾim** ne demandent presque jamais aux hommes de se sentir coupables. Ils leur disent : *revenez*. Le verbe est à l'impératif, et il s'adresse aux pieds.

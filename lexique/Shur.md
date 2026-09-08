@@ -16,9 +16,9 @@ Le `u` se dit ==« ou »==, comme dans « loup » — jamais le `u` français de
 
 C'est ==la route du retour==, et c'est ce qui rend la scène poignante.
 
-Quand [[Hagar]] s'enfuit, le **mal'akh** la trouve ==près d'une source, sur le chemin de Shur== — c'est-à-dire ==sur la route de [[Mitsrayim]]==, le pays dont elle vient.
+Quand [[Hagar]] s'enfuit, le **malʾakh** la trouve ==près d'une source, sur le chemin de Shur== — c'est-à-dire ==sur la route de [[Mitsrayim]]==, le pays dont elle vient.
 
-Elle ne fuit donc pas au hasard : elle rentre chez elle. Et quand le **mal'akh** lui demande d'où elle vient et où elle va, ==elle ne répond qu'à la première question== : *je fuis devant [[Sarai]] ma maîtresse*.
+Elle ne fuit donc pas au hasard : elle rentre chez elle. Et quand le **malʾakh** lui demande d'où elle vient et où elle va, ==elle ne répond qu'à la première question== : *je fuis devant [[Sarai]] ma maîtresse*.
 
 Le corpus ne commente pas ce silence. Il enregistre qu'une femme sait ce qu'elle quitte et ne sait pas ce qui l'attend.
 

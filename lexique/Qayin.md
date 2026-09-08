@@ -14,7 +14,7 @@ Un troupeau change de main. L'homme qui le reçoit ne l'a pas fabriqué, il ne l
 
 Le verbe ne dit ni l'achat ni la propriété au sens où nous l'entendons. Le français « acquérir » évoque une transaction, un bien qui entre dans un patrimoine ; l'hébreu pense plus large et plus engageant. *Qanah* sert pour le bétail qu'on obtient, pour le champ qu'on reprend, ==et pour ce que **YHWH** fait quand il se constitue un peuple==. Le même verbe dit la main qui se referme sur une chose et la souveraineté qui s'établit sur elle.
 
-C'est pourquoi le corpus l'emploie du haut vers le bas sans changer de mot. **El Elyon** est nommé (*qoneh shamayim va'arets* / קֹנֵה שָׁמַיִם וָאָרֶץ) — celui qui a *qanah* les Cieux et la Terre. Non « le propriétaire du ciel », ce qui n'aurait aucun sens dans ce monde : ==celui qui les a fondés et qui en répond==. Fonder et maîtriser sont une seule opération, et l'hébreu n'a pas besoin de deux mots là où le français en exige deux.
+C'est pourquoi le corpus l'emploie du haut vers le bas sans changer de mot. **El Elyon** est nommé (*qoneh shamayim vaʾarets* / קֹנֵה שָׁמַיִם וָאָרֶץ) — celui qui a *qanah* les Cieux et la Terre. Non « le propriétaire du ciel », ce qui n'aurait aucun sens dans ce monde : ==celui qui les a fondés et qui en répond==. Fonder et maîtriser sont une seule opération, et l'hébreu n'a pas besoin de deux mots là où le français en exige deux.
 
 Voilà ce qu'un **Shem** bâti sur cette racine met sur les épaules de qui le porte. Il ne dit pas « le possesseur ». Il dit ==celui qui a été obtenu==, ou ==celui par qui l'on obtient== — l'hébreu laisse les deux ouverts, et le texte ne tranche pas.
 
@@ -56,4 +56,4 @@ Sa maison : [[Chavah]] qui le nomme, [[Hevel]] son frère, [[Chanokh-fils-de-Qay
 
 Ce que sa lignée donne au monde : [[Yaval]] et la tente, [[Youval]] et la lyre, [[Tuval-Qayin]] et le fer — dont le **Shem** porte encore le sien sept générations plus bas. Elle s'achève sur [[Lamekh-fils-de-Metoushael]].
 
-Ce que son **Shem** touche ailleurs : *qanah* revient pour **El Elyon**, *qoneh shamayim va'arets*, en *Bereshit* 14 — le même verbe, du haut vers le bas.
+Ce que son **Shem** touche ailleurs : *qanah* revient pour **El Elyon**, *qoneh shamayim vaʾarets*, en *Bereshit* 14 — le même verbe, du haut vers le bas.

@@ -18,7 +18,7 @@ Et le corpus la raconte avec une précision de chancellerie — quatre rois nomm
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tid'al]].
+Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].
 
 Ce qu'il domine : [[Sedom]], [[Amorah]], [[Adma]], [[Tsevoyim]] et [[Bela]] — les cinq de la vallée de [[Siddim]].

@@ -18,10 +18,10 @@ Le corpus lui donne une couleur constante : ==la guerre==.
 
 Puis 38:5 le range avec [[Mitsrayim]] et [[Koush]] dans ==la coalition de Gog==. Les trois grandes maisons de [[Cham]] s'y retrouvent ensemble, dans l'assemblée eschatologique.
 
-C'est la dimension ==guerrière et occidentale== de cette lignée : là où [[Ra'ama]] porte le commerce et [[Mitsrayim]] la puissance d'État, ==Put== porte les armes.
+C'est la dimension ==guerrière et occidentale== de cette lignée : là où [[Raʿama]] porte le commerce et [[Mitsrayim]] la puissance d'État, ==Put== porte les armes.
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père ; ses frères [[Koush]], [[Mitsrayim]], [[Kena'an]].
+Sa maison : [[Cham]] son père ; ses frères [[Koush]], [[Mitsrayim]], [[Kenaʿan]].
 
 Où le corpus le reprend : *Yehezqel* 27 et 38, avec [[Loud]], [[Koush]] et [[Mitsrayim]].

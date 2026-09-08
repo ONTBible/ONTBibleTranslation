@@ -6,21 +6,21 @@
 ## L'entrée dans la tevah
 
 ¹ **YHWH** (*YHWH* / יְהוָה) formula (*vayomer* / וַיֹּאמֶר) à [[Noach]] (*Noach* / נֹחַ) *[[[Noach]] — de nuach (נוּחַ) : se poser, trouver sa demeure — le repos fonctionnel]* :
-« Viens dans l'arche (*tevah* / תֵּבָה), toi et toute ta maisonnée (*kol beitecha* / כָּל-בֵּיתְךָ) *[kol beitecha — la totalité de ceux qui vivent sous ton autorité et ta responsabilité fonctionnelle : non une famille au sens affectif, mais une unité de gouvernance]*, car c'est toi que j'ai examiné (*ra'iti* / רָאִיתִי) *[ra'iti — de ra'ah : le regard évaluateur. Même regard qu'**Elohim** portait sur son œuvre dans Bereshit 1 — **YHWH** a examiné [[Noach]] et a constaté sa conformité fonctionnelle]* comme **tsadiq** (*tsadiq* / צַדִּיק) *[**tsadiq** — intraduisible, déjà posé en Bereshit 6:9]* devant moi dans cette génération. »
+« Viens dans l'arche (*tevah* / תֵּבָה), toi et toute ta maisonnée (*kol beitecha* / כָּל-בֵּיתְךָ) *[kol beitecha — la totalité de ceux qui vivent sous ton autorité et ta responsabilité fonctionnelle : non une famille au sens affectif, mais une unité de gouvernance]*, car c'est toi que j'ai examiné (*raʾiti* / רָאִיתִי) *[raʾiti — de raʾah : le regard évaluateur. Même regard qu'**Elohim** portait sur son œuvre dans Bereshit 1 — **YHWH** a examiné [[Noach]] et a constaté sa conformité fonctionnelle]* comme **tsadiq** (*tsadiq* / צַדִּיק) *[**tsadiq** — intraduisible, déjà posé en Bereshit 6:9]* devant moi dans cette génération. »
 
-² De tout grand quadrupède **Tahor** (*behemah hatehoorah* / הַבְּהֵמָה הַטְּהוֹרָה) *[**Tahor** — intraduisible. La pureté fonctionnelle rituelle : ce qui peut entrer en contact avec le domaine sacré sans le perturber. Première occurrence dans toute la Bible — [[Noach]] en connaît déjà la distinction sans que le texte l'explique : cette catégorie est opératoire avant Sinaï]* — sept paires (*shivah shivah* / שִׁבְעָה שִׁבְעָה) *[sept — unité de plénitude et d'accomplissement, non un décompte arbitraire]*, mâle (*ish* / אִישׁ) et son appariée (*ve'ishto* / וְאִשְׁתּוֹ) *[**ish** ve'**ishto** — littéralement "un homme et sa femme" : le texte utilise les termes relationnels humains pour les animaux — une parité fonctionnelle entre l'humain et l'animal dans l'acte de préservation]* — et des grands quadrupèdes qui ne sont pas **Tahor** (*lo tehorah* / לֹא טְהֹרָה) — deux, mâle et son appariée.
+² De tout grand quadrupède **Tahor** (*behemah hatehoorah* / הַבְּהֵמָה הַטְּהוֹרָה) *[**Tahor** — intraduisible. La pureté fonctionnelle rituelle : ce qui peut entrer en contact avec le domaine sacré sans le perturber. Première occurrence dans toute la Bible — [[Noach]] en connaît déjà la distinction sans que le texte l'explique : cette catégorie est opératoire avant Sinaï]* — sept paires (*shivah shivah* / שִׁבְעָה שִׁבְעָה) *[sept — unité de plénitude et d'accomplissement, non un décompte arbitraire]*, mâle (*ish* / אִישׁ) et son appariée (*veʾishto* / וְאִשְׁתּוֹ) *[**ish** ve'**ishto** — littéralement "un homme et sa femme" : le texte utilise les termes relationnels humains pour les animaux — une parité fonctionnelle entre l'humain et l'animal dans l'acte de préservation]* — et des grands quadrupèdes qui ne sont pas **Tahor** (*lo tehorah* / לֹא טְהֹרָה) — deux, mâle et son appariée.
 
-³ Aussi des créatures ailées des Cieux (*me'of hashamayim* / מֵעוֹף הַשָּׁמָיִם) — sept paires, mâle (*zakhar* / זָכָר) et femelle (*nqevah* / נְקֵבָה), pour maintenir la semence (*zera* / זֶרַע) en vie *[zera — la graine, la semence : le principe de continuité propre à chaque espèce, déjà défini en Bereshit 1 verset 11. L'arche préserve non seulement les créatures mais leur capacité à se perpétuer]* sur la face de toute la Terre.
+³ Aussi des créatures ailées des Cieux (*meʿof hashamayim* / מֵעוֹף הַשָּׁמָיִם) — sept paires, mâle (*zakhar* / זָכָר) et femelle (*nqevah* / נְקֵבָה), pour maintenir la semence (*zera* / זֶרַע) en vie *[zera — la graine, la semence : le principe de continuité propre à chaque espèce, déjà défini en Bereshit 1 verset 11. L'arche préserve non seulement les créatures mais leur capacité à se perpétuer]* sur la face de toute la Terre.
 
-⁴ Car dans sept jours encore, j'amènerai de la pluie sur la Terre — quarante jours et quarante nuits (*arba'im yom ve'arba'im laylah* / אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה) *[quarante — unité fonctionnelle hébraïque de transformation : la durée qu'il faut pour qu'une réalité se transforme fondamentalement. Même chiffre pour les quarante ans au désert, les quarante jours de Moïse sur la montagne, les quarante jours d'Élie. Ce n'est pas une durée météorologique — c'est la durée d'une métamorphose cosmique]* — et j'effacerai (*umachiti* / וּמָחִיתִי) *[machah — effacer comme on efface une écriture de la surface sur laquelle elle était inscrite. Même terme qu'en Bereshit 6 verset 7 : retirer fonctionnellement ce qui avait été inscrit dans l'existence]* tout ce qui se tient dans l'existence (*hayiqum* / הַיְקוּם) *[yiqum — de qum (se tenir debout, exister) : tout ce qui a une stature dans le cosmos créé, tout ce qui se tient debout dans l'ordre fonctionnel. Un seul mot hébreu pour "tout ce qui vit et se tient dans l'existence"]* que j'ai mis en place, de la face du sol concret.
+⁴ Car dans sept jours encore, j'amènerai de la pluie sur la Terre — quarante jours et quarante nuits (*arbaʿim yom ve'arbaʿim laylah* / אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה) *[quarante — unité fonctionnelle hébraïque de transformation : la durée qu'il faut pour qu'une réalité se transforme fondamentalement. Même chiffre pour les quarante ans au désert, les quarante jours de Moïse sur la montagne, les quarante jours d'Élie. Ce n'est pas une durée météorologique — c'est la durée d'une métamorphose cosmique]* — et j'effacerai (*umachiti* / וּמָחִיתִי) *[machah — effacer comme on efface une écriture de la surface sur laquelle elle était inscrite. Même terme qu'en Bereshit 6 verset 7 : retirer fonctionnellement ce qui avait été inscrit dans l'existence]* tout ce qui se tient dans l'existence (*hayiqum* / הַיְקוּם) *[yiqum — de qum (se tenir debout, exister) : tout ce qui a une stature dans le cosmos créé, tout ce qui se tient debout dans l'ordre fonctionnel. Un seul mot hébreu pour "tout ce qui vit et se tient dans l'existence"]* que j'ai mis en place, de la face du sol concret.
 
-⁵ Et [[Noach]] fit (*vaya'as* / וַיַּעַשׂ) selon tout ce que **YHWH** lui avait commandé.
+⁵ Et [[Noach]] fit (*vayaʿas* / וַיַּעַשׂ) selon tout ce que **YHWH** lui avait commandé.
 
 ⁶ Et [[Noach]] avait six cents ans, et le déluge (*mabbul* / מַבּוּל) était des eaux sur la Terre.
 
 ⁷ Et [[Noach]] vint — lui, ses fils, sa **ishah** (*ishto* / אִשְׁתּוֹ) *[**ishah** — intraduisible. Non pas "femme" au sens social ni "épouse" au sens juridique : l'**ishah** est l'être édifié (banah) pour faire face à l'**ish**, tiré de lui et lui faisant face — "os de mes os, chair de ma chair" (Bereshit 2). Le lien **ish**/**ishah** est une alliance de l'être même, antérieure à tout contrat. Laissé en hébreu comme **Ruach** et **Nefesh**]* et les **ishah** (*neshei* / נְשֵׁי) *[**neshei** — pluriel construit de **ishah** : les **ishah** appartenant à, liées par alliance à]* de ses fils avec lui — dans l'arche, loin des eaux du déluge.
 
-⁸ Parmi les grands quadrupèdes **Tahor** et parmi les grands quadrupèdes qui ne sont pas **Tahor**, parmi les créatures ailées (*ha'of* / הָעוֹף) et tout ce qui rampe (*romes* / רֹמֵשׂ) sur le sol concret —
+⁸ Parmi les grands quadrupèdes **Tahor** et parmi les grands quadrupèdes qui ne sont pas **Tahor**, parmi les créatures ailées (*haʿof* / הָעוֹף) et tout ce qui rampe (*romes* / רֹמֵשׂ) sur le sol concret —
 
 ⁹ deux par deux (*shnayim shnayim* / שְׁנַיִם שְׁנַיִם), ils vinrent vers [[Noach]] dans l'arche, mâle et femelle, comme **Elohim** l'avait commandé à [[Noach]].
 
@@ -28,7 +28,7 @@
 
 ## Le mabbul
 
-¹¹ En l'an six cents de la vie de [[Noach]], le deuxième mois, le dix-septième jour du mois — en ce jour précis : toutes les sources (*ma'ayanot* / מַעְיְנֹת) du grand tehom (*tehom rabbah* / תְּהוֹם רַבָּה) *[tehom rabbah — écho délibéré de Bereshit 1, verset 2 : les eaux primordiales sans fond, sans limite, sans bord — sur lesquelles reposait le cosmos non encore ordonné. Ce que Bereshit 1 avait scellé sous et au-dessus remonte et s'ouvre : la décréation commence là où la création avait commencé — le tehom]* se fendirent (*nibqe'u* / נִבְקְעוּ), et les écluses (*arubbot* / אֲרֻבֹּת) *[arubbot — les écluses, les fenêtres du ciel. Les Cieux retiennent les eaux supérieures — quand elles s'ouvrent, ce que la Voûte maintenait séparé se déverse]* des Cieux s'ouvrirent.
+¹¹ En l'an six cents de la vie de [[Noach]], le deuxième mois, le dix-septième jour du mois — en ce jour précis : toutes les sources (*maʿayanot* / מַעְיְנֹת) du grand tehom (*tehom rabbah* / תְּהוֹם רַבָּה) *[tehom rabbah — écho délibéré de Bereshit 1, verset 2 : les eaux primordiales sans fond, sans limite, sans bord — sur lesquelles reposait le cosmos non encore ordonné. Ce que Bereshit 1 avait scellé sous et au-dessus remonte et s'ouvre : la décréation commence là où la création avait commencé — le tehom]* se fendirent (*nibqeʿu* / נִבְקְעוּ), et les écluses (*arubbot* / אֲרֻבֹּת) *[arubbot — les écluses, les fenêtres du ciel. Les Cieux retiennent les eaux supérieures — quand elles s'ouvrent, ce que la Voûte maintenait séparé se déverse]* des Cieux s'ouvrirent.
 
 ¹² Et la pluie (*gueshem* / גֶּשֶׁם) fut sur la Terre quarante jours et quarante nuits.
 
@@ -42,11 +42,11 @@
 
 ## La submersion
 
-¹⁷ Et le déluge fut sur la Terre quarante jours — et les eaux se multiplièrent (*vayirbu* / וַיִּרְבּוּ) et soulevèrent (*vayis'u* / וַיִּשְׂאוּ) l'arche, et elle s'éleva au-dessus de la Terre.
+¹⁷ Et le déluge fut sur la Terre quarante jours — et les eaux se multiplièrent (*vayirbu* / וַיִּרְבּוּ) et soulevèrent (*vayisʾu* / וַיִּשְׂאוּ) l'arche, et elle s'éleva au-dessus de la Terre.
 
 ¹⁸ Et les eaux dominèrent (*vayigberu* / וַיִּגְבְּרוּ) et se multiplièrent grandement sur la Terre — et l'arche allait sur la face des eaux (*al pnei hamayim* / עַל-פְּנֵי הַמָּיִם) *[écho délibéré de Bereshit 1, verset 2 : "la face des eaux primordiales était dans les ténèbres" — le **Ruach** d'**Elohim** couvait sur cette face. Le cosmos est retourné à son état d'avant l'ordination. Mais l'arche flotte sur cette face : la vie est préservée au-dessus du non-être]*.
 
-¹⁹ Et les eaux dominèrent de plus en plus (*me'od me'od* / מְאֹד מְאֹד) *[me'od me'od — superlatif redoublé. La même intensification que **tov me'od** au dernier verset de Bereshit 1, pour l'accomplissement total du cosmos. Ici pour sa submersion totale — le chiasme est complet : ce qui était **tov me'od** est maintenant pleinement et totalement recouvert]* sur la Terre — et toutes les hautes montagnes sous tous les Cieux furent recouvertes.
+¹⁹ Et les eaux dominèrent de plus en plus (*meʾod meʾod* / מְאֹד מְאֹד) *[meʾod meʾod — superlatif redoublé. La même intensification que **tov meʾod** au dernier verset de Bereshit 1, pour l'accomplissement total du cosmos. Ici pour sa submersion totale — le chiasme est complet : ce qui était **tov meʾod** est maintenant pleinement et totalement recouvert]* sur la Terre — et toutes les hautes montagnes sous tous les Cieux furent recouvertes.
 
 ²⁰ Quinze coudées au-dessus les eaux dominèrent — et les montagnes furent recouvertes.
 
@@ -68,15 +68,15 @@
 
 ³ Et les eaux retournèrent de sur la Terre, allant et revenant (*halokh vashuv* / הָלוֹךְ וָשׁוֹב) *[halokh vashuv — figure hébraïque du mouvement progressif et graduel : les eaux se retirent lentement, pas par rupture soudaine. La re-création se fait dans le même ordre lent et fonctionnel que la création]* — et les eaux diminuèrent au bout de cent cinquante jours.
 
-⁴ Et l'arche se posa (*vatanach* / וַתָּנַח) *[tanach — de nuach (se reposer, se poser). Même racine que [[Noach]]. L'arche "repose" — elle porte dans son nom le **Shem** fonctionnel de celui qu'elle transporte. [[Noach]] avait été nommé "celui qui apportera le repos" (Bereshit 5) — l'arche accomplit ce **Shem** en se posant]* le septième mois, le dix-septième jour du mois, sur les montagnes d'Ararat (*Ararat* / אֲרָרָט) *[[[Ararat]] — le royaume d'Ourartou : l'Arménie antique, territoire montagneux au septentrion de [[Shin'ar]]]*.
+⁴ Et l'arche se posa (*vatanach* / וַתָּנַח) *[tanach — de nuach (se reposer, se poser). Même racine que [[Noach]]. L'arche "repose" — elle porte dans son nom le **Shem** fonctionnel de celui qu'elle transporte. [[Noach]] avait été nommé "celui qui apportera le repos" (Bereshit 5) — l'arche accomplit ce **Shem** en se posant]* le septième mois, le dix-septième jour du mois, sur les montagnes d'Ararat (*Ararat* / אֲרָרָט) *[[[Ararat]] — le royaume d'Ourartou : l'Arménie antique, territoire montagneux au septentrion de [[Shinʿar]]]*.
 
-⁵ Et les eaux allaient et diminuaient (*halokh vechasor* / הָלוֹךְ וְחָסוֹר) jusqu'au dixième mois — au dixième mois, le premier du mois, les sommets des montagnes apparurent (*nirru* / נִרְאוּ) *[nirru — de ra'ah (apparaître, se montrer). Écho délibéré de Bereshit 1, verset 9 : "que le sol sec apparaisse" (vayera hayabashah). Les mêmes montagnes qui avaient été recouvertes émergent des eaux — la re-création suit les mêmes étapes que la création]*.
+⁵ Et les eaux allaient et diminuaient (*halokh vechasor* / הָלוֹךְ וְחָסוֹר) jusqu'au dixième mois — au dixième mois, le premier du mois, les sommets des montagnes apparurent (*nirru* / נִרְאוּ) *[nirru — de raʾah (apparaître, se montrer). Écho délibéré de Bereshit 1, verset 9 : "que le sol sec apparaisse" (vayera hayabashah). Les mêmes montagnes qui avaient été recouvertes émergent des eaux — la re-création suit les mêmes étapes que la création]*.
 
 ## Les envois d'oiseaux
 
 ⁶ Et au bout de quarante jours *[quarante — la période de transformation est achevée : ce qu'il fallait transformer a été transformé]*, [[Noach]] ouvrit la fenêtre (*challon* / חַלּוֹן) de l'arche qu'il avait faite.
 
-⁷ Et il envoya le corbeau (*ha'orev* / הָעֹרֵב) (*orev* / עֹרֵב) — et il sortit, allant et revenant (*yatso vashuv* / יָצוֹא וָשׁוֹב), jusqu'au tarissement des eaux de sur la Terre.
+⁷ Et il envoya le corbeau (*haʿorev* / הָעֹרֵב) (*orev* / עֹרֵב) — et il sortit, allant et revenant (*yatso vashuv* / יָצוֹא וָשׁוֹב), jusqu'au tarissement des eaux de sur la Terre.
 
 ⁸ Et il envoya la colombe (*hayonah* / הַיּוֹנָה) (*yonah* / יוֹנָה) loin de lui, pour voir si les eaux s'étaient allégées de sur la face du sol concret.
 
@@ -84,11 +84,11 @@
 
 ¹⁰ Et il attendit encore sept autres jours — et de nouveau il envoya la colombe hors de l'arche.
 
-¹¹ Et la colombe revint vers lui à l'heure du soir (*le'et erev* / לְעֵת עֶרֶב) — et voici : un rameau d'olivier (*aleh zayit* / עֲלֵה-זַיִת) fraîchement cueilli (*taraf* / טָרָף) était dans son bec. Et [[Noach]] sut (*vayeda* / וַיֵּדַע) que les eaux s'étaient allégées de sur la Terre.
+¹¹ Et la colombe revint vers lui à l'heure du soir (*leʿet erev* / לְעֵת עֶרֶב) — et voici : un rameau d'olivier (*aleh zayit* / עֲלֵה-זַיִת) fraîchement cueilli (*taraf* / טָרָף) était dans son bec. Et [[Noach]] sut (*vayeda* / וַיֵּדַע) que les eaux s'étaient allégées de sur la Terre.
 
 ¹² Et il attendit encore sept autres jours — et il envoya la colombe, et elle ne revint plus vers lui.
 
-¹³ Et il advint, en l'an six cent un, le premier mois, le premier du mois — les eaux s'étaient retirées (*charvu* / חָרְבוּ) de sur la Terre. Et [[Noach]] ôta le couvercle (*mikhseh* / מִכְסֵה) de l'arche et examina (*vayar* / וַיַּרְא) *[vayar — le regard évaluateur. C'est [[Noach]] qui exerce ici le regard de ra'ah — comme **Elohim** dans toute Bereshit 1, le représentant fonctionnel évalue l'état de la création dont il a la charge]* — et voici que la face du sol concret (*pnei ha'adamah* / פְּנֵי הָאֲדָמָה) *[pnei ha'adamah — écho délibéré de Bereshit 1, verset 2 : "la face des eaux primordiales" était dans les ténèbres. Maintenant c'est la face de l'adamah qui est visible — la re-création a renversé la décréation terme pour terme]* s'était retirée.
+¹³ Et il advint, en l'an six cent un, le premier mois, le premier du mois — les eaux s'étaient retirées (*charvu* / חָרְבוּ) de sur la Terre. Et [[Noach]] ôta le couvercle (*mikhseh* / מִכְסֵה) de l'arche et examina (*vayar* / וַיַּרְא) *[vayar — le regard évaluateur. C'est [[Noach]] qui exerce ici le regard de raʾah — comme **Elohim** dans toute Bereshit 1, le représentant fonctionnel évalue l'état de la création dont il a la charge]* — et voici que la face du sol concret (*pnei haʾadamah* / פְּנֵי הָאֲדָמָה) *[pnei haʾadamah — écho délibéré de Bereshit 1, verset 2 : "la face des eaux primordiales" était dans les ténèbres. Maintenant c'est la face de l'adamah qui est visible — la re-création a renversé la décréation terme pour terme]* s'était retirée.
 
 ¹⁴ Et le deuxième mois, le vingt-septième jour du mois — la Terre était sèche.
 
@@ -112,7 +112,7 @@
 
 « Je n'ajouterai plus à retirer de sa **Kavod** (*qallel* / לְקַלֵּל) *[qallel — de qalal : alléger, réduire le poids fonctionnel. **Kavod** (כָּבוֹד) est la pesanteur fonctionnelle d'une réalité dans l'ordre cosmique — sa substance, son poids d'existence. Opposé exact de barakh (doter, alourdir de capacité fonctionnelle). L'adamah a encore de la **Kavod** après Gn 3 — elle produit encore, elle fonctionne encore. Ce que **YHWH** ne refera pas : en retirer davantage]* le sol concret à cause de **l'Être façonné du sol** — car ce que forme (*yetser* / יֵצֶר) *[yetser — écho délibéré de Bereshit 6, verset 5 : "tout ce que formait (yetser) la pensée de son cœur n'était que **ra**." La même impulsion constitutive demeure. **YHWH** fait sa promesse non parce que l'humanité a changé — mais en regardant en face le fait qu'elle ne change pas]* le cœur de **l'Être façonné du sol** est **ra** (*ra* / רַע) dès sa jeunesse — et je n'ajouterai plus à frapper tout vivant comme je l'ai fait.
 
-²² Tous les jours de la Terre (*kol yemei ha'aretz* / כֹּל יְמֵי הָאָרֶץ) —
+²² Tous les jours de la Terre (*kol yemei haʾaretz* / כֹּל יְמֵי הָאָרֶץ) —
 semailles (*zera* / זֶרַע) et moisson (*qatsir* / קָצִיר),
 froid (*qor* / קֹר) et chaleur (*chom* / חֹם),
 été (*qayits* / קַיִץ) et hiver (*choref* / חֹרֶף),

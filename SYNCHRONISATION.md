@@ -64,7 +64,7 @@ aval, jamais l'inverse.
 | la palette | `Webapp/style/main.css` — `--color-nuit`, `--color-or`, `--color-accentuation` | `App/…/ONTDesignSystem/Tokens/ONTColors.swift`, qui les réécrit à la main |
 | le wordmark et la montagne | `Webapp/public/images/*.svg` | `App/app/Marque/wordmark.svg`, **copie versée** ; l'icône de l'app |
 | les captures de l'app | `App/app/Captures/` | le site, pour `public/images/app-lecture.webp` |
-| le nom public de l'auteur | partout | **Gloire Bikouta.** Jamais « Sha'eliel », qui est interne au vault |
+| le nom public de l'auteur | partout | **Gloire Bikouta.** Jamais « Shaʾeliel », qui est interne au vault |
 | les domaines | partout | `ontbible.com` porte le projet, `labibleont.com` redirige, le bundle reste `com.labibleont.ONT` |
 
 ---
@@ -1496,7 +1496,7 @@ lecteur de sa page.**
 
 Et sa formulation vaut mieux que la mesure : *une règle qui distingue « une
 chaîne sans schéma » d'une URL casse au premier cas particulier.* Il y en a
-déjà — l'apostrophe de `Na'amah`, le composé de `Tuval-Qayin` — et trois
+déjà — l'apostrophe de `Naʿamah`, le composé de `Tuval-Qayin` — et trois
 liseuses auraient refait le même arbitrage, chacune se trompant séparément.
 
 **Un type déplace la décision là où l'information existe.** Le pipeline sait
@@ -1720,7 +1720,7 @@ que l'appareil.
 
 Le corpus écrit une `glose` sur **chaque livre** — `Gevurot ha-Neviim` porte
 « Actes des Apôtres » comme pont français et « les gevurot de YHWH par ses
-nevi'im » comme glose. Le site les affiche tous les deux depuis toujours,
+neviʾim » comme glose. Le site les affiche tous les deux depuis toujours,
 `sommaire.rs` choisissant selon « Le français reçu ». L'app iOS, elle, affichait
 le français **quel que soit le réglage** : `BookOutline` ne déclarait pas le
 champ, donc la traduction du schéma le jetait sans que rien ne s'en aperçoive.
@@ -2765,11 +2765,11 @@ construit depuis `origin/dev` :
   `forms: [gibbor, gibborim, gibor]`. Le rapport dit « 0 mot d'or sans fiche »
   parce que **lui** traverse `forms` ; le nœud livré, non. Et pour une partie
   d'entre elles la traversée ne suffirait pas : `forms` garde le texte brut —
-  `mal'akhim`, `le'olam`, `kohen gadol` — tandis que `lemma` est passé par
-  `slugify`, qui **laisse tomber l'apostrophe sans séparateur**. `mal'akhim`
+  `malʾakhim`, `leʿolam`, `kohen gadol` — tandis que `lemma` est passé par
+  `slugify`, qui **laisse tomber l'apostrophe sans séparateur**. `malʾakhim`
   devient `malakhim`, qui n'est dans aucune liste de formes. Ces liens-là sont
   morts quel que soit le consommateur : **25 occurrences pour le seul
-  `mal'akhim`, dans des corps de chapitre.**
+  `malʾakhim`, dans des corps de chapitre.**
 - **Une fiche citée seulement par d'autres fiches est écartée de l'index — et
   les liens vers elle continuent d'être émis.** `shem-fils-de-noach` est visé
   **37 fois** et `kasdim` **6 fois** depuis d'autres fiches ; ni l'un ni l'autre
@@ -2804,7 +2804,7 @@ conclut que le glossaire est plus creux qu'il n'est, cent vingt-six fois.
 **Le remède est à l'émission, non chez les consommateurs**, et la raison vaut
 d'être gardée : corriger côté app en indexant `forms` obligerait chaque
 plateforme à réécrire sa propre version de `slugify` pour faire se rejoindre
-`mal'akhim` et `malakhim`. ==Deux normalisations écrites séparément divergent==,
+`malʾakhim` et `malakhim`. ==Deux normalisations écrites séparément divergent==,
 et le défaut deviendrait intermittent au lieu d'être systématique — pire que
 maintenant. Le pipeline, lui, tient les deux au moment d'émettre : la forme
 rencontrée et l'entrée qu'elle désigne.
@@ -3364,7 +3364,7 @@ affirmation :
 
 - **La couche des Shemot distingue un `Shem` d'identité d'un `Shem` de
   fonction.** Le critère est le surplus : un **navi** excède sa mission, un
-  **mal'akh** ==est== sa mission sans reste. ==La marque ne bouge pas== — l'app
+  **malʾakh** ==est== sa mission sans reste. ==La marque ne bouge pas== — l'app
   et le site gardent la terre brûlée et la zone touchable, l'espace chaud étant
   saturé sous ΔE 25. C'est la ==fiche== qui déclare qu'elle nomme une charge et
   non une personne. Rien à faire côté rendu.

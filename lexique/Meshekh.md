@@ -12,7 +12,7 @@ Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allem
 
 (*Meshekh* / מֶשֶׁךְ) désigne ==les peuples du Caucase==, dans les montagnes qui ferment le monde connu au septentrion.
 
-Il paraît presque toujours avec [[Tuval]], au point que les deux forment ==un seul bloc== dans le vocabulaire des *Nevi'im*.
+Il paraît presque toujours avec [[Tuval]], au point que les deux forment ==un seul bloc== dans le vocabulaire des *Neviʾim*.
 
 ## Le lieu d'où l'on est loin
 

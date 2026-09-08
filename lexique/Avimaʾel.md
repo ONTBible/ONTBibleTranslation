@@ -1,4 +1,4 @@
-# Avima'el
+# Avimaʾel
 
 ## Prononciation
 

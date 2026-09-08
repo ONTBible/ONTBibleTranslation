@@ -6,11 +6,11 @@
 
 ## Le Shem
 
-(*Gerar* / גְּרָר) — une ville au ==midi de [[Kena'an]]==, sur la route qui descend vers [[Mitsrayim]].
+(*Gerar* / גְּרָר) — une ville au ==midi de [[Kenaʿan]]==, sur la route qui descend vers [[Mitsrayim]].
 
 ## Ce que le corpus en fait
 
-C'est ==une frontière==, et le texte l'emploie comme telle : la limite méridionale du territoire kena'ani.
+C'est ==une frontière==, et le texte l'emploie comme telle : la limite méridionale du territoire kenaʿani.
 
 [[Avraham]] y séjournera, et [[Sarai]] y sera de nouveau donnée pour sa sœur — la même peur, le même arrangement qu'en [[Mitsrayim]]. Le corpus répète la scène sans la commenter, et c'est la répétition qui parle.
 

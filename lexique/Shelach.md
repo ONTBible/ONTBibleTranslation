@@ -20,10 +20,10 @@ Il est ==le maillon entre [[Arpakhshad]] et [[Ever]]== — le chaînon par leque
 
 Le texte ne dit rien de lui : ni acte, ni parole, ni durée qui frappe. Il ==transmet==, et son nom dit exactement cela.
 
-Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoie ses *nevi'im*, jusqu'aux **shlichim** de la *Berit Hadashah* : ==l'envoi est une structure==, et elle est déjà nommée ici, dans une généalogie où personne ne parle.
+Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoie ses *neviʾim*, jusqu'aux **shlichim** de la *Berit Hadashah* : ==l'envoi est une structure==, et elle est déjà nommée ici, dans une généalogie où personne ne parle.
 
 ## Voir aussi
 
 Sa maison : [[Arpakhshad]] son père, [[Ever]] son fils ; plus haut [[Shem-fils-de-Noach]].
 
-Ce que son **Shem** touche : **shaliach**, et le **mal'akh** — tous deux définis par l'envoi, non par la nature.
+Ce que son **Shem** touche : **shaliach**, et le **malʾakh** — tous deux définis par l'envoi, non par la nature.

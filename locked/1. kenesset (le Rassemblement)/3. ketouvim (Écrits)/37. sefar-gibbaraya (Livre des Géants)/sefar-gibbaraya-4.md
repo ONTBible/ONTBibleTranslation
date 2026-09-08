@@ -15,7 +15,7 @@
 
 ¹¹ Le feu brûla, l'eau submergea, et le jardin fut défait. ¹² Mais dans le lieu de l'arrachage, une racine demeurait. ¹³ Avec cette racine étaient trois rameaux *[signe d'un reste gardé au milieu de l'arrachage]*.
 
-¹⁴ Ils ne furent pas consumés avec les autres, ni lavés hors du monde. ¹⁵ Ils demeurèrent comme reste (*she'ar* / שְׁאָר) *[ce qui est gardé pour une continuité après jugement]*, non par force propre, mais parce qu'ils étaient retenus pour une ordonnance après les eaux.
+¹⁴ Ils ne furent pas consumés avec les autres, ni lavés hors du monde. ¹⁵ Ils demeurèrent comme reste (*sheʾar* / שְׁאָר) *[ce qui est gardé pour une continuité après jugement]*, non par force propre, mais parce qu'ils étaient retenus pour une ordonnance après les eaux.
 
 ¹⁶ Alors [[Hahyah]]/[[Ahyah]] s'éveilla, et son souffle fut resserré. ¹⁷ Il comprit que la hauteur des pousses n'était pas promesse de durée. ¹⁸ Ce qui monte sans mandat peut être abaissé sans délai.
 
