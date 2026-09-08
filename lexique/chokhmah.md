@@ -1,5 +1,15 @@
 # chokhmah
 
+## Prononciation
+
+`chokh-MAH` — deux syllabes, accent sur la seconde.
+
+Ce mot porte ==les deux lettres que la graphie sépare==, et c'est le meilleur endroit pour les entendre :
+
+- le `ch` initial est un ==het== — souffle au fond de la gorge, pharyngal ;
+- le `kh` du milieu est un ==khaf== — frottement contre le palais mou, bien plus en avant. C'est le *ch* de l'allemand *Bach*.
+
+Deux souffles différents, à deux endroits différents de la bouche. ==Si les deux sonnent pareil, l'un des deux est faux.==
 Un campement au pied d'une montagne, dans un désert. Il faut bâtir la demeure portative où **YHWH** viendra résider au milieu du camp : une charpente d'acacia, des tentures de lin retors, des chérubins d'or battu, une lampe d'une seule pièce avec ses calices en fleur d'amandier. L'ouvrage est le plus chargé de tout le récit, et **Elohim** désigne l'homme qui le mènera.
 
 Ce n'est pas un ancien. Ce n'est pas un homme reconnu pour son jugement. C'est ==Betsalel==, un artisan — et ce dont il est rempli, dit le texte, c'est de **ruach** d'**Elohim** ==en chokhmah==, en **binah** et en **da'at**, *pour travailler l'or, l'argent et le bronze, tailler la pierre, sculpter le bois*.

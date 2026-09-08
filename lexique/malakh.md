@@ -1,5 +1,16 @@
 # mal'akh
 
+## Prononciation
+
+`mal-AKH` — deux syllabes, accent sur la seconde.
+
+L'apostrophe n'est pas un ornement : c'est un ==alef==, un petit arrêt de la
+glotte qui ==coupe la syllabe==. Le même que dans le français « ah ! ah ! »
+prononcé nettement. Il empêche `mala` de couler d'un seul tenant.
+
+Le `kh` final est un ==khaf== : frottement contre le palais mou, le *ch* de
+*Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+
 Un homme est assis à l'entrée de sa tente, à l'heure chaude. Trois voyageurs paraissent. Il court, se prosterne, fait cuire un veau, se tient debout pendant qu'ils mangent — et à aucun moment le texte ne dit qu'ils sont autre chose que des hommes. Puis, insensiblement, l'un d'eux parle comme **YHWH**, et le récit ne le signale pas non plus.
 
 Cette confusion n'est pas un défaut du texte. C'est ce que le mot veut dire.

@@ -368,6 +368,28 @@ Ce qui ne change pas : une fiche faite de blocs de texte voyage par la mise à
 jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
 ni revue Apple.
 
+**Toute fiche ouvre par sa prononciation.** ==Avant le titre de section
+suivant, avant la scène, avant tout le reste== — parce que c'est la première
+chose qu'un lecteur veut savoir d'un mot qu'il ne sait pas dire, et parce que la
+translittération ne la lui donne pas (§2.12).
+
+La section porte quatre choses, et pas davantage :
+
+- ==le mot découpé en syllabes, accent marqué== — `cha-NOKH`, la majuscule
+  portant l'accent tonique ;
+- ==chaque lettre que le français ne fait pas==, expliquée par ==le geste qui la
+  produit== et non par son seul symbole. « Serre le fond de la gorge et souffle »
+  vaut mieux que « pharyngal sourd », qui ne dit à personne quoi faire de sa
+  bouche ;
+- ==la faute probable==, quand elle existe. Un francophone lit `ch` comme
+  « chat » et `q` comme « que » : le dire épargne des années de prononciation
+  fausse, et l'auteur en est le témoin ;
+- ==rien d'autre==. Ni histoire de la langue, ni variantes régionales : la fiche
+  a le reste de sa place pour cela.
+
+==Une fiche de **Shem** la porte aussi==, et pour la même raison — un nom qu'on
+ne sait pas dire est un nom qu'on ne dit pas.
+
 **Le critère : la fiche doit agir dans les six ruachim.** Ce n'est ni
 l'exactitude ni la densité qui font une fiche — c'est qu'elle opère selon les
 six capacités de *Yeshayahu* 11:2-3, qui sont aussi bien la règle d'écriture que

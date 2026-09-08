@@ -1,5 +1,12 @@
 # chesed
 
+## Prononciation
+
+`CHE-sed` — deux syllabes, accent sur la première (exception : la plupart des mots portent l'accent sur la dernière).
+
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant de la bouche.
+
+Le `e` de la première syllabe est bref, celui de la seconde ouvert comme dans « mer ».
 Deux hommes ont conclu une **berith**. Des années passent. L'un tombe, l'autre pouvait ne rien faire — personne ne le lui aurait reproché, l'affaire était vieille. Il vient quand même, il paie, il tient. Ce qu'il a fait là s'appelle ==chesed== (*chesed* / חֶסֶד).
 
 Le mot ne dit ni la gentillesse ni la générosité. Il dit ==la fidélité à l'intérieur d'un lien== — tenir parole et agir pour le bien de l'autre, dans la durée, parce qu'on est lié à lui.
