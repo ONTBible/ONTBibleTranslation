@@ -126,7 +126,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 97 leçons du journal
+## Les 98 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -227,6 +227,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Et la troncature n'était pas où on la cherchait
 - 7 septembre 2026 — `...` et `..` ne répondent pas à la même question
 - 7 septembre 2026 — le journal a deux régimes, et le contrôle mesurait le mauvais
+- 8 septembre 2026 — le secret de diffusion voyage dans Authorization, parce que la télémétrie ne filtre que ce qu'elle connaît
 
 ---
 
