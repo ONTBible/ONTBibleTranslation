@@ -101,7 +101,7 @@ Il n'a donc pas d'**olam** à lui. Il en prend un le temps de la mission : un
 ==il le rend==.
 
 La fumée que suit le peuple au désert, c'est cela. Le feu du buisson, c'est
-cela. Et le dos que [[Moshe]] voit, quand il lui est dit qu'il ne peut pas voir
+cela. Et le dos que [[Mosheh]] voit, quand il lui est dit qu'il ne peut pas voir
 la face et vivre, ==c'est le dos d'un **malʾakh**==.
 
 De là une chose qui a longtemps passé pour une contradiction et qui n'en est
@@ -274,7 +274,7 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Un terme travaille encore sans être déclaré== : *rachaph*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
+- *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Mosheh]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
 - *==Ce que la chuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
 

@@ -689,6 +689,33 @@ marques sans fiche avant, 716 après.
 **Décision de l'auteur du 8 septembre 2026.** Le ה final se translittère `h` :
 *Chavah*, *Sarah*, *Amorah*, *Yonah*, *Mikhah*, *Nehemyah*.
 
+**Ce he ne se prononce pas, et la règle tient quand même.** C'est le point que
+l'auteur a soulevé le jour même, et il faut l'inscrire ici parce que la section
+voisine dit le contraire ==pour une autre lettre==.
+
+Le ה final est ==une mater lectionis== : une lettre-support, qui porte la
+voyelle sans ajouter de son. *Sarah* se dit **sa-RA**, *emunah* **e-mou-NA**,
+*Mosheh* **mo-SHÉ**. Le `h` y note ==la lettre==, non ==le son==.
+
+Les deux décisions du 8 septembre reposent donc sur ==deux principes
+distincts==, et les confondre conduirait à défaire l'une par l'autre :
+
+| décision | ce qui la fonde |
+|---|---|
+| **ayin final → `ʿ`** | la ==phonétique== — il s'entend, avec patach furtif |
+| **he final → `h`** | la ==graphie== — deux lettres qu'une seule écriture confondrait |
+
+==La phrase « une lettre qui se prononce se translittère » ne vaut que pour le
+ayin.== Appliquée au he, elle conduirait à ==retirer== le `h` final — l'inverse
+de ce qui est décidé ici. Elle est écrite deux sections plus haut, et elle y est
+juste ; elle ne s'étend pas.
+
+**Le cas qui l'a éprouvée est le plus visible du corpus.** מֹשֶׁה finit par un
+he : la règle donne donc `Mosheh`, appliqué le jour même, ==30 occurrences==.
+`Moshe` aurait été une exception tacite sur le nom le plus reconnaissable —
+c'est-à-dire exactement la forme de défaut que le §2.9 existe pour fermer. Une
+exception peut se décider ; elle ne peut pas ==rester muette==.
+
 Le corpus le faisait ==à 22 contre 14==, sans que rien ne le fixe — et les
 quatorze divergences ne se voyaient pas, chaque nom étant cohérent avec lui-même.
 C'est la forme que le §2.9 existe pour fermer, rencontrée une fois de plus sur
@@ -1653,7 +1680,7 @@ La notion antique d'auteur est **fonctionnelle**, non moderne-individuelle. Deux
 - **Auteur attesté et de sa main** — identifiable, il a réellement produit le texte (ex. les *Igerot* de Shaul).
 - **Auteur qui restitue** — le nom marque la *provenance et l'autorité* d'une vérité, non le scribe physique. Ce n'est pas une fraude : écrire sous un nom révéré déclare que la vérité appartient à ce courant.
 
-Ainsi la Torah est mosaïque par **autorité**, non par chaque trait de plume : *Devarim* 34 raconte la mort de Moshe, et *Bava Batra* 14b-15a le reconnaît depuis toujours (Yehoshua écrivit les derniers versets). Le régime d'auteur nomme *à qui la vérité appartient*, pas seulement *quelle main a tenu le calame*.
+Ainsi la Torah est mosaïque par **autorité**, non par chaque trait de plume : *Devarim* 34 raconte la mort de Mosheh, et *Bava Batra* 14b-15a le reconnaît depuis toujours (Yehoshua écrivit les derniers versets). Le régime d'auteur nomme *à qui la vérité appartient*, pas seulement *quelle main a tenu le calame*.
 
 ---
 

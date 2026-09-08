@@ -10,7 +10,7 @@ Il faut y résister à notre première lecture, qui en ferait aussitôt une fron
 
 Car il l'emploie ==contre les siens==. Les **neviʾim** parlent d'hommes ==arel== (*arel* / עָרֵל) du cœur : des gens qui portent le signe dans la chair, qui sont de la lignée, qui font ce qu'il faut faire — et dont le cœur est resté fermé. Le reproche ne vise pas les nations, il vise ceux qui se croyaient couverts par leur appartenance.
 
-==Moshe== s'en sert même pour lui-même. Envoyé parler devant Pharaon, il objecte qu'il est ==arel== des lèvres : sa parole ne s'ouvre pas, elle reste prise. Ce n'est pas un aveu de faute, c'est un constat d'empêchement.
+==Mosheh== s'en sert même pour lui-même. Envoyé parler devant Pharaon, il objecte qu'il est ==arel== des lèvres : sa parole ne s'ouvre pas, elle reste prise. Ce n'est pas un aveu de faute, c'est un constat d'empêchement.
 
 Ce qui montre la vraie logique du mot. Ce qui est ==arel== n'est ni mauvais ni impur : c'est ==entier et indisponible==, comme un fruit qui est là sur la branche et qu'on ne peut pas encore cueillir. Le retrait de l'**orlah** est donc une ==ouverture== — ce qui était fermé devient utilisable pour ce à quoi il est destiné : la chair pour la descendance, le cœur pour l'écoute, les lèvres pour la parole.
 

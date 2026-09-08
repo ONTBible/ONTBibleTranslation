@@ -30,7 +30,7 @@ Le corpus ne commente pas, et c'est sa manière. Il énumère, et laisse la list
 
 Elle repose sur *Bereshit* 15:19, une seule mention, et sur ce que la racine permet de dire sans inventer.
 
-Tout leur poids est devant. *Shemot* fera d'un Qeni le beau-père de Moshe — celui qui accueille le fuyard, lui donne sa fille, et lui conseille de déléguer le **mishpat** ; *Shoftim* les montrera campant parmi Israël sans s'y fondre, et l'un d'eux tranchera une bataille sous une tente. Rien de cela n'est écrit. Quand ces livres le seront, ce **Shem** cessera d'être une ligne de liste — et la fiche sera reprise, comme le §2.10 le prévoit pour tout **Shem** que le corpus continue de faire paraître.
+Tout leur poids est devant. *Shemot* fera d'un Qeni le beau-père de Mosheh — celui qui accueille le fuyard, lui donne sa fille, et lui conseille de déléguer le **mishpat** ; *Shoftim* les montrera campant parmi Israël sans s'y fondre, et l'un d'eux tranchera une bataille sous une tente. Rien de cela n'est écrit. Quand ces livres le seront, ce **Shem** cessera d'être une ligne de liste — et la fiche sera reprise, comme le §2.10 le prévoit pour tout **Shem** que le corpus continue de faire paraître.
 
 ## Voir aussi
 

@@ -28,9 +28,9 @@ Dater ce livre « du XIᵉ siècle » parce que c'est l'âge du manuscrit, ce se
 
 ## Régime d'auteur
 
-*Restitution* (voir standard §A). Ce livre n'a *aucun auteur nommé* et n'est écrit ni de la main d'Adam ni de celle de Moshe : c'est un *tradent* qui *restitue une vérité courante* — la mémoire de ce qu'il advint d'Adam et de [[Chavah]], telle qu'elle circulait au Second Temple. Le nom du livre marque la *provenance* de la vérité (le couple originel), non un scribe.
+*Restitution* (voir standard §A). Ce livre n'a *aucun auteur nommé* et n'est écrit ni de la main d'Adam ni de celle de Mosheh : c'est un *tradent* qui *restitue une vérité courante* — la mémoire de ce qu'il advint d'Adam et de [[Chavah]], telle qu'elle circulait au Second Temple. Le nom du livre marque la *provenance* de la vérité (le couple originel), non un scribe.
 
-Ce régime n'est pas un défaut du livre — c'est sa nature. De même que la Torah est mosaïque par *autorité* et non par chaque trait de plume (*Devarim* 34 raconte la mort de Moshe ; *Bava Batra* 14b le reconnaît depuis toujours), la Vie d'Adam et Ève est adamique par *provenance*, non par signature.
+Ce régime n'est pas un défaut du livre — c'est sa nature. De même que la Torah est mosaïque par *autorité* et non par chaque trait de plume (*Devarim* 34 raconte la mort de Mosheh ; *Bava Batra* 14b le reconnaît depuis toujours), la Vie d'Adam et Ève est adamique par *provenance*, non par signature.
 
 ## But
 

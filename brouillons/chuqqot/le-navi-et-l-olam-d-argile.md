@@ -99,7 +99,7 @@ Regarde ce que le **basar** ==permet==, et que rien d'autre ne permet :
 Cette dernière ligne est la plus lourde et on la voit rarement. Un **malʾakh**
 descend, transmet, remonte : ==un seul sens==. Le **navi**, parce qu'il est
 d'ici, peut aussi ==porter les **anashim** vers **YHWH**== — intercéder, se plaindre,
-discuter. Avraham marchande. Moshe s'interpose. Un **malʾakh** ne fait jamais
+discuter. Avraham marchande. Mosheh s'interpose. Un **malʾakh** ne fait jamais
 cela : ==il n'a personne au nom de qui parler==.
 
 ### Les cinq dimensions, et ce qu'on en a fait

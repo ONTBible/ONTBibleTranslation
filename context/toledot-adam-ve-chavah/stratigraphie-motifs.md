@@ -239,7 +239,7 @@ Les 16 événements du récit passés au filtre. `[G]` grec, `[L]` latin, `[2]` 
 
 | Coupe | Corroboration BH / Kenesset | Verdict révisé |
 |---|---|---|
-| Anges qui reçoivent le mort | **Jude 9** (Mikhaʾel dispute le corps de Moshe) ; Luc 16:22 (anges portent le juste) | **reclassé : trace corroborée** — Mikhaʾel ministre à la sépulture, sans envol de l'âme |
+| Anges qui reçoivent le mort | **Jude 9** (Mikhaʾel dispute le corps de Mosheh) ; Luc 16:22 (anges portent le juste) | **reclassé : trace corroborée** — Mikhaʾel ministre à la sépulture, sans envol de l'âme |
 | Immersion pénitentielle | Yohanan immerge pour la **teshuvah** (Mc 1:4) ; mikveh / tevilah (*Vayiqra*, Qumrân) | **reclassé : tevilah** (immersion de retour) admissible ; le *mérite/satisfaction* reste écarté |
 | Serpent = ha-satan | **Rev 12:9** (« l'antique serpent, appelé le diable et ha-satan ») | **à trancher avec l'auteur** — corroboré, mais *Bereshit* 3 (verrouillé) garde le *nachash* fonctionnel |
 | Vision d'Adam sur la **merkavah** | Ez 1 ; Shaul ravi au 3ᵉ ciel (2 Co 12:2-4) | **trace possible** (vision, non envol de l'âme) |

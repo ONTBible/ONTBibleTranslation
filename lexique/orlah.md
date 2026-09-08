@@ -10,7 +10,7 @@ Un fruit qu'on ne cueille pas encore. Un arbre planté depuis trois ans dont on 
 
 Le geste porte d'abord sur la chair. Le signe de la **berith** avec ==Avraham== est inscrit là, dans le corps, à l'endroit par où la descendance passe — et c'est précisément le point : l'alliance ne se signe pas sur une tablette qu'on peut ranger, elle se marque sur ce qui va transmettre. Celui qui n'a pas reçu le signe est **arel** — encore couvert.
 
-Mais le mot ne reste pas dans la chair, et c'est ce qui le rend intraduisible. Le corpus parle d'une ==orlah== ==du cœur== : un cœur encore couvert, qui n'a pas été ouvert. D'une ==orlah== ==des lèvres== — ==Moshe== s'en réclame pour dire qu'il ne parlera pas bien, que sa parole reste prise. Et de l'==orlah== ==d'un fruit==, ces trois années où l'arbre porte sans qu'on récolte.
+Mais le mot ne reste pas dans la chair, et c'est ce qui le rend intraduisible. Le corpus parle d'une ==orlah== ==du cœur== : un cœur encore couvert, qui n'a pas été ouvert. D'une ==orlah== ==des lèvres== — ==Mosheh== s'en réclame pour dire qu'il ne parlera pas bien, que sa parole reste prise. Et de l'==orlah== ==d'un fruit==, ces trois années où l'arbre porte sans qu'on récolte.
 
 Regarde ce que ces quatre emplois ont en commun, parce que c'est tout le mot : ==quelque chose est là, entier, et n'est pas encore ouvert à son usage==. Ni impur, ni mauvais, ni manquant. En attente d'être découvert.
 

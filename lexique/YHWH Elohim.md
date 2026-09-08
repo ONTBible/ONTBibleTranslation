@@ -20,7 +20,7 @@ Tenez-vous devant le récit qui précède.
 
 **Elohim** est celui qui ==ordonne le cosmos==. Il sépare, il nomme, il assigne. Il ne s'adresse à personne : il formule, et la chose advient. C'est le nom d'une fonction souveraine, et il ne suppose ==aucun vis-à-vis==.
 
-**YHWH**, lui, est ==un nom propre==. On ne l'a pas encore reçu — il ne sera expliqué qu'à [[Moshe]] devant le buisson, et le §7 de l'ONT réserve cette explication à son lieu. Mais on peut déjà voir ce qu'il fait dans une phrase : c'est le nom par lequel ==quelqu'un peut être appelé==.
+**YHWH**, lui, est ==un nom propre==. On ne l'a pas encore reçu — il ne sera expliqué qu'à [[Mosheh]] devant le buisson, et le §7 de l'ONT réserve cette explication à son lieu. Mais on peut déjà voir ce qu'il fait dans une phrase : c'est le nom par lequel ==quelqu'un peut être appelé==.
 
 ## Ce que la juxtaposition produit
 

@@ -142,7 +142,7 @@ visibilité, alors ==n'avoir pas d'olam propre==, c'est n'avoir rien qui soit
 perceptible de soi-même : il faut qu'on t'en donne un pour que tu paraisses, et
 tu le rends après.
 
-C'est aussi pourquoi [[Moshe]] ne voit qu'un dos. On ne peut voir d'un ==olam==
+C'est aussi pourquoi [[Mosheh]] ne voit qu'un dos. On ne peut voir d'un ==olam==
 emprunté que le ==olam== — jamais celui qui s'en est vêtu.
 
 Et c'est ce qui rend mesurable ce que fait la troisième strate des modes de
@@ -177,6 +177,6 @@ redevenir ce qu'elle est : ==un engagement dont on ne verra pas le terme==, fait
 ## Voir aussi
 
 **malʾakh**, qui n'en a pas et en reçoit un. **navi**, dont le seuil se déplace.
-[[Moshe]], qui n'en voit que le dos. **kavod**, dont les portes s'ouvrent.
+[[Mosheh]], qui n'en voit que le dos. **kavod**, dont les portes s'ouvrent.
 **berith**, dont la durée se mesure par ce mot. Et la chuqqah des quatre modes de
 présence, où les emplois travaillent tous ensemble.

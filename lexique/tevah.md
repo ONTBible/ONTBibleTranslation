@@ -17,7 +17,7 @@ C'est le premier point à tenir : le corpus a des mots pour « bateau » et ==il
 Ce mot ne paraît que ==dans deux récits de tout le corpus==.
 
 - la *tevah* de Noach, portée sur les eaux du **mabbul** ;
-- la *tevah* de [[Moshe]], posée sur les eaux du fleuve.
+- la *tevah* de [[Mosheh]], posée sur les eaux du fleuve.
 
 Deux enfants d'un même geste : quelqu'un est enfermé dans un caisson enduit de poix, confié à l'eau, ==sans aucun moyen de se diriger==, et il en ressort pour recommencer un monde.
 
@@ -31,7 +31,7 @@ C'est pourquoi son absence de gouvernail n'est pas un manque. Celui qui est deda
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 6-8 et le récit de l'enfance de Moshe. Le relevé des mots de navigation du corpus, qui ne sont employés ni dans l'un ni dans l'autre.
+*Bereshit* 6-8 et le récit de l'enfance de Mosheh. Le relevé des mots de navigation du corpus, qui ne sont employés ni dans l'un ni dans l'autre.
 
 ## Formes
 

@@ -1,16 +1,18 @@
-# Moshe
+# Mosheh
 
 ## Prononciation
 
-*Mo-SHE* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*mo-SHÉ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *mo-SHÉ*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he médian d'[[Avraham]], qui s'entend, lui.
 
 ## Le nom que sa mère n'a pas donné
 
 Un enfant est posé sur le fleuve dans une caisse enduite de poix, parce qu'un roi
 a ordonné qu'on jette les garçons. Une fille de ce roi le trouve, le garde, et
-c'est ==elle== qui le nomme : ==Moshe== (*Moshe* / מֹשֶׁה).
+c'est ==elle== qui le nomme : ==Mosheh== (*Mosheh* / מֹשֶׁה).
 
 Le texte donne la raison qu'elle en donne : *parce que je l'ai tiré des eaux*.
 En hébreu, *mashah* (מָשָׁה) veut dire ==tirer hors de l'eau==. Et la forme du
