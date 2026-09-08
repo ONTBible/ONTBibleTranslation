@@ -30,7 +30,7 @@ précédent laissait ouvert.
 définition est sa fonction, et rien d'autre. Il prend un **olam** de feu ou un
 **olam** de fumée le temps de la mission, et après la mission il le rend. La
 fumée que suit le peuple du désert, c'est cela. Le feu du buisson, c'est cela.
-Et le dos que Moshe voit quand il lui est dit qu'il ne peut pas voir la face et
+Et le dos que [[Moshe]] voit quand il lui est dit qu'il ne peut pas voir la face et
 vivre, ==c'est le dos d'un **mal'akh**== — de sorte qu'il n'y a aucune
 contradiction entre *« **YHWH** lui apparut »* et *« le **mal'akh** de **YHWH**
 lui apparut »* : c'est le même événement, dit une fois par sa source et une fois
@@ -93,7 +93,7 @@ possible. La **Ruach** prépare, le **davar** orchestre, le vase reçoit.
 ==Entre **YHWH** et sa **Ruach**, la différence est de mode et jamais de
 substance.== L'un est l'être propre, l'autre est la puissance en sortie ; le
 soleil, et la chaleur qui en irradie. C'est pourquoi on dit la *ruach* de
-quelqu'un comme on dirait son poids : la *ruach* d'Eliyahu se transmet, la
+quelqu'un comme on dirait son poids : la *ruach* d'[[Eliyahu]] se transmet, la
 *ruach* d'un roi se répand sur sa maison. Elle n'est jamais un être à côté.
 
 ==Le mode a changé une fois dans l'histoire, et une seule.== Avant, la **Ruach**
@@ -104,7 +104,7 @@ le corps rassemblé est devenu le vase permanent qu'elle n'avait pas.
 
 ==Le mot du rassemblement est le mot du Sinaï.== *Qahal* dit une assemblée
 ==convoquée par une autorité==, non une réunion qu'on décide — c'est le mot du
-jour où le peuple fut convoqué devant la montagne. Et le renversement est là,
+jour où le peuple fut convoqué devant la montagne du [[Sinaï]]. Et le renversement est là,
 entier : ce jour-là **YHWH** descendait sur la montagne et le peuple se tenait au
 pied ; maintenant il habite le rassemblement lui-même. ==Le peuple est la
 montagne.==
@@ -142,7 +142,7 @@ précède. Elle se constate.
 
 - *==Termes employés sans être déclarés intraduisibles.== *basar*, *qahal*, *echad*, *rachaph* paraissent en translittération et non en gras : ce sont des candidats, non des entrées. Trois au moins me semblent en être — *basar*, que « chair » rate comme « âme » rate le **Nefesh** ; *qahal*, dont « assemblée » perd la convocation ; et le vase, ce *kli* que tout l'énoncé fait travailler sans que le mot paraisse une seule fois. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Les noms propres sans fiche ne portent pas la couche des Shemot.== Moshe, Eliyahu, le Sinaï paraissent en texte nu faute d'entrée dans `lexique/`. Ils la prendront quand leurs fiches seront écrites — les marquer d'avance donnerait au lecteur un mot touchable qui n'ouvre rien.*
+- *==Les trois Shemot que cette khuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinaï]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
 - *==Ce que la khuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
 
