@@ -16,7 +16,7 @@ mission, et rendue avec elle.
 
 ### D'abord, pourquoi il faut quelqu'un entre les deux
 
-Le corpus dit une chose que nous lisons trop vite : ==l'homme ne peut pas me
+Le corpus dit une chose que nous lisons trop vite : ==l'**adam** ne peut pas me
 voir et vivre== (*Shemot* 33:20).
 
 Ce n'est pas un interdit, comme une porte qu'on fermerait par principe. C'est un
@@ -48,9 +48,9 @@ prête, sans jamais s'en étonner :
 |---|---|
 | *Shemot* 3:2 | une flamme dans un buisson |
 | *Tehilim* 104:4 | un vent, une flamme |
-| *Bereshit* 18 | trois hommes, qui mangent |
-| *Bereshit* 32 | un homme, qui lutte |
-| *Bemidbar* 22 | un homme, une épée à la main |
+| *Bereshit* 18 | trois **anashim**, qui mangent |
+| *Bereshit* 32 | un **ish**, qui lutte |
+| *Bemidbar* 22 | un **ish**, une épée à la main |
 
 Et *Tehilim* 104:4 donne le verbe qui tranche : ==il fait de ses **mal'akhim** des vents, de ses
 serviteurs une flamme de feu==. Le verbe est
@@ -62,7 +62,7 @@ qu'ils auraient. C'est ==**YHWH** qui assigne la forme, à l'envoi==.
 Le choix n'est pas arbitraire, et le voir aide beaucoup.
 
 Quand la mission demande qu'on approche — parler, manger, lutter, marcher avec
-quelqu'un —, la forme est celle d'un homme. Quand la mission porte ==une
+quelqu'un —, la forme est celle d'un **ish**. Quand la mission porte ==une
 altérité qu'on ne doit pas franchir==, la forme est le feu : ce qui consume ce
 qu'il touche, et qui dit par sa seule présence qu'on ne s'approche pas.
 
@@ -107,7 +107,7 @@ sont vrais à la fois==, l'un par la source et l'autre par le mode.
 Le droit hébreu a une formule pour cette structure, et elle vaut bien au-delà du
 droit :
 
-> *shlucho shel adam kemoto* — ==l'envoyé d'un homme est comme lui-même==.
+> *shlucho shel adam kemoto* — ==l'envoyé d'un **adam** est comme lui-même==.
 
 Un **shaliach** n'agit pas *à la place de* celui qui l'envoie, comme un
 remplaçant qu'on met là faute de mieux. Il ==est== celui qui l'envoie, pour la

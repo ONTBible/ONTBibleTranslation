@@ -31,7 +31,7 @@ lieues : c'est ==combien de **kavod** on peut y soutenir sans être détruit==.
 
 ### Pourquoi il faut que ce soit gradué
 
-Le corpus donne la raison sans détour : ==l'homme ne peut pas me voir et vivre==.
+Le corpus donne la raison sans détour : ==l'**adam** ne peut pas me voir et vivre==.
 
 Nous l'entendons comme un interdit — une porte fermée, une règle. ==Ce n'en est
 pas un.== C'est un constat sur ce qui arrive.
@@ -100,7 +100,7 @@ gradient de **kavod** est hébreu, et il se restitue entier.
 |---|---|
 | au-dessus de la Voûte | les eaux d'en haut, retenues |
 | la Voûte | ce qui sépare, et où les luminaires sont enchâssés |
-| l'espace habitable | les hommes, les créatures ailées |
+| l'espace habitable | l'**adam**, les créatures ailées |
 | la Terre | le sol, posé sur les eaux d'en bas |
 | plus bas | le **She'ol**, où descendent les morts |
 
@@ -113,14 +113,14 @@ qu'on y trouve==, et c'est ainsi qu'elles se distinguent.
 
 C'est la conséquence qui renverse le plus d'images reçues.
 
-Nous imaginons la rencontre comme ==une montée== : l'homme s'élève, se purifie,
+Nous imaginons la rencontre comme ==une montée== : l'**adam** s'élève, se purifie,
 franchit des degrés, et parvient. C'est le schéma de l'ascension, et il est
 partout dans ce que nous avons hérité.
 
 Le corpus fait l'inverse. ==**YHWH** descend, et il prend.==
 
 Et quand un texte ==paraît== raconter une montée, il faut ==regarder qui agit==.
-Dans les récits de traversée, l'homme tombe sans souffle, un **mal'akh** est
+Dans les récits de traversée, l'**ish** tombe sans souffle, un **mal'akh** est
 ==envoyé== pour le relever, et il est ==porté==. La forme est ascensionnelle ; la
 structure reste descendante. ==C'est la structure qu'on rend.==
 

@@ -7,7 +7,7 @@
 ## L'énoncé
 
 Un **mal'akh** et un **navi** font ==exactement le même geste== : recevoir un
-**davar** d'en haut, le porter aux hommes.
+**davar** d'en haut, le porter à l'**adam**.
 
 La différence n'est pas de rang. Elle est dans ==ce qui reste quand la mission
 s'arrête==.
@@ -62,7 +62,7 @@ Voici la nécessité, et elle est le cœur de la chuqqah.
 La quatrième chuqqah l'a posé : un **mal'akh** n'a pas de **basar**. Il prend un
 **olam** pour sa mission et il le rend. Hors mission, ==il n'y a personne==.
 
-Le **navi**, lui, a un **basar** ==permanent==. Il ne cesse pas d'être homme
+Le **navi**, lui, a un **basar** ==permanent==. Il ne cesse pas d'être **ish**
 entre deux **devarim**. Il vit, il mange, il vieillit, il a peur, il enterre les
 siens.
 
@@ -82,7 +82,7 @@ parle.
 ### Le **basar** est une puissance, non une prison
 
 Nous avons hérité d'une lecture où le corps est ==une geôle== : la matière comme
-obstacle, la chair comme ce dont il faudrait s'affranchir pour atteindre les
+obstacle, le **basar** comme ce dont il faudrait s'affranchir pour atteindre les
 choses d'en haut. C'est une lecture grecque, et elle est ==exactement à
 l'envers== de l'hébreu.
 
@@ -98,7 +98,7 @@ Regarde ce que le **basar** ==permet==, et que rien d'autre ne permet :
 
 Cette dernière ligne est la plus lourde et on la voit rarement. Un **mal'akh**
 descend, transmet, remonte : ==un seul sens==. Le **navi**, parce qu'il est
-d'ici, peut aussi ==porter les hommes vers **YHWH**== — intercéder, se plaindre,
+d'ici, peut aussi ==porter les **anashim** vers **YHWH**== — intercéder, se plaindre,
 discuter. Avraham marchande. Moshe s'interpose. Un **mal'akh** ne fait jamais
 cela : ==il n'a personne au nom de qui parler==.
 

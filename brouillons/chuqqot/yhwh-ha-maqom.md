@@ -12,7 +12,7 @@ un endroit où il se trouve==.
 
 L'hébreu ancien renverse cela entièrement.
 
-> ==**YHWH** est le lieu du monde. Le monde n'est pas son lieu.==
+> ==**YHWH** est le **maqom** du monde. Le monde n'est pas son **maqom**.==
 
 Il ne se tient pas *dans* l'espace. Le réel prend place ==en lui==, ==par lui==,
 ==depuis lui==.
@@ -42,8 +42,8 @@ La différence est celle-ci, et elle décide de tout :
 ### Le renversement, et pourquoi il n'est pas une pieuse image
 
 La tradition juive a fini par appeler **YHWH** ==le Lieu== — *ha-Maqom* — et
-elle donne sa raison en une phrase : *il est le lieu du monde, et le monde n'est
-pas son lieu*.
+elle donne sa raison en une phrase : ==il est le **maqom** du monde, et le monde n'est
+pas son **maqom**==.
 
 Regarde ce que cette phrase refuse.
 

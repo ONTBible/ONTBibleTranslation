@@ -97,7 +97,7 @@ Le **mal'akh** est ==l'être-de-mission==. Sa définition est sa fonction, et ri
 d'autre — il n'existe pleinement qu'envoyé.
 
 Il n'a donc pas d'**olam** à lui. Il en prend un le temps de la mission : un
-**olam** de feu, un **olam** de fumée, un **olam** d'homme. Et après la mission,
+**olam** de feu, un **olam** de fumée, un **olam** d'**ish**. Et après la mission,
 ==il le rend==.
 
 La fumée que suit le peuple au désert, c'est cela. Le feu du buisson, c'est
@@ -178,7 +178,7 @@ et deux modes d'action==.
 Et le *Shema* le confirme par un seul mot. Il ne dit pas *yachid* (*yachid* /
 יָחִיד), qui serait l'unité qui ==exclut== — un et pas deux. Il dit **echad**,
 qui est le mot de *basar echad* en *Bereshit* 2:24, là où deux deviennent une
-seule chair. C'est ==l'unité qui compose==.
+seul **basar**. C'est ==l'unité qui compose==.
 
 Prends l'image d'un fleuve unique dont les eaux coulent en plusieurs canaux : les
 canaux ne multiplient pas le fleuve, ==ils accomplissent son mouvement==.
@@ -217,7 +217,7 @@ Après, ==elle demeure==.
 Et il faut bien voir ce qui a changé, car ce n'est pas ce qu'on croit. Elle ne
 s'est pas mise à exister dans l'**olam** : elle y était depuis *Bereshit* 1:2.
 Ce qui a changé est ==le support==. Elle est passée ==de *sur* à *au-dedans*==,
-parce que le corps rassemblé est devenu le vase permanent qu'elle n'avait pas.
+parce que le corps rassemblé est devenu le **kli** permanent qu'elle n'avait pas.
 
 ### Le mot du rassemblement est le mot du [[Sinai]]
 
