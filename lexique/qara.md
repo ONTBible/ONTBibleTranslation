@@ -18,4 +18,4 @@ Et c'est ce qui donne leur poids aux changements de nom. Quand ==Avram== devient
 
 ## Formes
 
-vayiqra · qara · vayiqraʾu
+vayiqra · qara · vayiqraʾu · vayiqra beshem YHWH · qore

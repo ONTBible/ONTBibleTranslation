@@ -20,4 +20,4 @@ Le mot voisin **melakhah** désigne ce travail-là comme métier : le travail qu
 
 ## Formes
 
-vayaʿas · naʿaseh · asah
+vayaʿas · naʿaseh · asah · vayaʿasu · laʿasot

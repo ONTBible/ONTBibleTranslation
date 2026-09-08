@@ -22,4 +22,4 @@ Enfin, c'est de cette racine que vient le nom que donne ==Hagar== — **El Roï*
 
 ## Formes
 
-vayar · vayirʾu · raʾah
+vayar · vayirʾu · raʾah · vayarʾ · marʾeh · vayera
