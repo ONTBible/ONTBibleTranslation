@@ -30,7 +30,7 @@
 - **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **Elohim**) ; forme construite laissée en hébreu (*laYHWH*…).
 
 ### UC1 — Intraduisible
-**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **ra**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
+**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **raʿ**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
 - **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **Sheʾol**, **malʾakh**).
 - **N3** : 1re occ. de l'unité (réappliqué si utile).
 - **N2** : 1re occ.

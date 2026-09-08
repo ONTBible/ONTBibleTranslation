@@ -22,6 +22,6 @@ Ici, dans la table, elle n'est encore qu'==une borne sur une carte==.
 
 ## Voir aussi
 
-Sa jumelle : [[Sedom]] ; avec elles [[Adma]] et [[Tsevoim]].
+Sa jumelle : [[Sedom]] ; avec elles [[Admah]] et [[Tsevoim]].
 
 Où le corpus la reprend : la formule des *Neviʾim*, de *Yeshayahu* à *Yirmeyahu*.

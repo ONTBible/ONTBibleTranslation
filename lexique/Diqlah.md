@@ -1,4 +1,4 @@
-# Diqla
+# Diqlah
 
 ## Prononciation
 

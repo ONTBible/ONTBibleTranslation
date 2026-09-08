@@ -24,4 +24,4 @@ Le corpus met les deux rencontres dans la même vallée et ne les commente pas. 
 
 ## Voir aussi
 
-Qui s'y rencontre : [[Avraham]], [[Bera]] roi de [[Sedom]], et [[Malki-tsedeq]] roi de [[Shalem]].
+Qui s'y rencontre : [[Avraham]], [[Beraʿ]] roi de [[Sedom]], et [[Malki-tsedeq]] roi de [[Shalem]].

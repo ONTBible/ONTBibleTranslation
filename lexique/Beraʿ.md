@@ -1,4 +1,4 @@
-# Bera
+# Beraʿ
 
 ## Prononciation
 
@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Bera* / בֶּרַע) — roi de [[Sedom]]. On y a entendu *be-ra*, ==dans le mal== — mais le corpus ne propose pas cette étymologie, et l'ONT ne la retient pas.
+(*Beraʿ* / בֶּרַע) — roi de [[Sedom]]. On y a entendu *be-ra*, ==dans le mal== — mais le corpus ne propose pas cette étymologie, et l'ONT ne la retient pas.
 
 ## Ce que le corpus en fait
 
@@ -21,4 +21,4 @@ La scène est placée juste après celle de [[Malki-tsedeq]], et le contraste es
 ## Voir aussi
 
 Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
-Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].
+Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

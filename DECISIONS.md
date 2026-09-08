@@ -68,10 +68,10 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **emunah** | Emunah, emuna | *Bereshit* 15:6 | ✓ |
 | **tsedaqah** | tsedaqah umishpat | *Bereshit* 15:6 | ✓ |
 | **tsadiq** | tsadiqim | *Bereshit* 6:9 | ✓ |
-| **rasha** | reshaʿim | *Bereshit* 18:23 | ✓ |
+| **rashaʿ** | reshaʿim | *Bereshit* 18:23 | ✓ |
 | **chesed** | — | *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth* | ✓ |
 | **tov** | tov meʾod, tov vara, Tov vara | *Bereshit* 1:4 | ✓ |
-| **ra** | raʿat, raʿim | *Bereshit* 2:9 | ✓ |
+| **raʿ** | raʿat, raʿim | *Bereshit* 2:9 | ✓ |
 | **chata** | — | *Bereshit* 4:7 | ✓ |
 | **chattat** | chataʾah, chataʾim | *Bereshit* 4:7 | ✓ |
 | **davar** | devarim | *Bereshit* 11:1 | ✓ |

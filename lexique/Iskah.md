@@ -1,4 +1,4 @@
-# Iska
+# Iskah
 
 ## Prononciation
 
@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Iska* / יִסְכָּה) — l'étymologie est incertaine ; on y a entendu une racine du regard, *sakah*, celle de celui qui contemple ou de celle qu'on regarde.
+(*Iskah* / יִסְכָּה) — l'étymologie est incertaine ; on y a entendu une racine du regard, *sakah*, celle de celui qui contemple ou de celle qu'on regarde.
 
 ## Ce que le corpus en fait
 

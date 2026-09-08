@@ -1,4 +1,4 @@
-# yada
+# yadaʿ
 
 ## Prononciation
 
@@ -8,7 +8,7 @@ Pas d'apostrophe finale : le ayin y est ==quiescent== (§2.9).
 
 ## Ce que le mot dit
 
-*Yada* (יָדַע) est le verbe du ==connaître par participation==. Il donne la **da'at**, et il en porte toute la charge.
+*Yada* (יָדַע) est le verbe du ==connaître par participation==. Il donne la **daʿat**, et il en porte toute la charge.
 
 Le français a un seul verbe pour deux gestes que l'hébreu sépare. ==Savoir qu'une chose est== — un regard posé du dehors, une information reçue. Et ==être à l'intérieur de ce qu'on connaît==. *Yada* ne dit jamais le premier.
 
@@ -22,7 +22,7 @@ Ce qui se passe là est un connaître, et c'en est même ==le cas exemplaire== :
 
 ## Ce que ça change à l'arbre
 
-*Etz hada'at tov vara* — l'arbre du connaître **tov** et **ra**.
+*Etz hada'at tov vara* — l'arbre du connaître **tov** et **raʿ**.
 
 Si *yada* était « savoir », l'arbre offrirait une information : apprendre ce qui est bon et ce qui est mauvais. Mais alors la faute serait de s'instruire, ce qui n'a aucun sens dans ce corpus.
 
@@ -30,7 +30,7 @@ Il offre autre chose. ==Une modalité==, pas un contenu : décider soi-même de 
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 4:1 et 2:9 ; l'entrée **da'at** du §3.2, qui donne le nom formé sur cette racine.
+*Bereshit* 4:1 et 2:9 ; l'entrée **daʿat** du §3.2, qui donne le nom formé sur cette racine.
 
 ## Formes
 

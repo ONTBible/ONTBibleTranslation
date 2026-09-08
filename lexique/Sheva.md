@@ -24,7 +24,7 @@ Et *Tehilim* 72:10 le reprend dans la vision : les rois de ==Sheva== et de [[Sev
 
 ## Voir aussi
 
-Sa maison : [[Raʿama]] son père, [[Koush]] son grand-père, [[Cham]] son arrière-grand-père ; son frère [[Dedan]].
+Sa maison : [[Raʿamah]] son père, [[Koush]] son grand-père, [[Cham]] son arrière-grand-père ; son frère [[Dedan]].
 
 Le **Shem** voisin : [[Seva]].
 

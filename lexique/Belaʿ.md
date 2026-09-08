@@ -1,4 +1,4 @@
-# Bela
+# Belaʿ
 
 ## Prononciation
 
@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Bela* / בֶּלַע) — et le texte précise aussitôt : ==c'est [[Tsoʿar]]==.
+(*Belaʿ* / בֶּלַע) — et le texte précise aussitôt : ==c'est [[Tsoʿar]]==.
 
 ## Ce que le corpus en fait
 
@@ -21,6 +21,6 @@ Son roi n'est pas nommé, seul de tous — le corpus dit *le roi de Bela, c'est-
 ## Voir aussi
 
 Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
-Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].
+Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
 
 Ce qu'elle deviendra : [[Tsoʿar]], le refuge de [[Lot]].

@@ -21,7 +21,7 @@ Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *S
 ### À ajouter en §3.2 (glossaire — Noms et concepts fondamentaux)
 
 ```
-| שְׁאוֹל | *Sheʾol* | **Sheʾol** | Intraduisible. Le domaine bas où descendent les morts — non pas « l'enfer » (lieu de tourment, catégorie grecque/chrétienne tardive) ni « le séjour des morts » édulcoré. Le lieu du silence et de l'attente sous la Terre, où descend tout mort — **tsadiq** comme **rasha** — dans la cosmologie hébraïque (§6). Opposé structurel exact de la montée de l'âme grecque : dans l'ontologie hébraïque **on descend au Sheʾol, on ne s'envole pas**. C'est le contre-concept natif qui prend la place de la *psyché* platonicienne. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| שְׁאוֹל | *Sheʾol* | **Sheʾol** | Intraduisible. Le domaine bas où descendent les morts — non pas « l'enfer » (lieu de tourment, catégorie grecque/chrétienne tardive) ni « le séjour des morts » édulcoré. Le lieu du silence et de l'attente sous la Terre, où descend tout mort — **tsadiq** comme **rashaʿ** — dans la cosmologie hébraïque (§6). Opposé structurel exact de la montée de l'âme grecque : dans l'ontologie hébraïque **on descend au Sheʾol, on ne s'envole pas**. C'est le contre-concept natif qui prend la place de la *psyché* platonicienne. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
 ```
 
 ### Note pour §6 (structure cosmologique)

@@ -32,4 +32,4 @@ Le texte le pose et se tait. C'est sa manière, et le silence est ici l'informat
 
 Sa maison : [[Tsillah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Tuval-Qayin]] son frère, [[Yaval]] et [[Youval]] du premier lit.
 
-Ce que son **Shem** touche : celui d'[[Ada]] et celui de [[Tsillah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.
+Ce que son **Shem** touche : celui d'[[Adah]] et celui de [[Tsillah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.

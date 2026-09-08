@@ -12,7 +12,7 @@ Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il 
 
 Ce n'est pas un nom. C'est un bâtiment.
 
-Tenez-vous dans la vallée du Nil, et demandez qui gouverne. On ne vous répondra pas par un nom d'homme — on vous montrera une adresse : (*per-aa* / פַּרְעֹה), de l'égyptien *pr-ʿ3*, ==la grande maison==. Le palais, les murs, les cours, les greniers. On désigne le roi par l'édifice où il se tient.
+Tenez-vous dans la vallée du Nil, et demandez qui gouverne. On ne vous répondra pas par un nom d'homme — on vous montrera une adresse : (*Parʿoh* / פַּרְעֹה), de l'égyptien *pr-ʿ3*, ==la grande maison==. Le palais, les murs, les cours, les greniers. On désigne le roi par l'édifice où il se tient.
 
 L'usage est ancien et il a glissé, comme glissent les mots qui servent trop : d'abord la maison, puis celui qui l'habite, puis le titre lui-même. L'hébreu l'a reçu à ce dernier stade et l'a pris ==tel quel==, sans le traduire — פַּרְעֹה, quatre lettres qui ne veulent rien dire en hébreu et que personne n'a essayé d'expliquer.
 
@@ -22,7 +22,7 @@ Et il faut mesurer ce que cela produit dans une langue où nommer est un acte. L
 
 Regardez qui reçoit un nom dans ces chapitres, et vous verrez que le silence est choisi.
 
-[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[Amrafel]], et [[Aryokh]], et [[Tidʿal]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Bera]] et [[Birsha]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
+[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[Amrafel]], et [[Aryokh]], et [[Tidʿal]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Beraʿ]] et [[Birshaʿ]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
 
 ==Le roi de Mitsrayim, jamais.== Ni ici, ni au chapitre suivant, ni dans tout le récit qui viendra. De *Bereshit* 12 jusqu'à la sortie de *Shemot*, ==aucun Parʿoh du corpus ne porte de nom==.
 
@@ -52,4 +52,4 @@ Le pays et sa maison : [[Mitsrayim]], dont le **Shem** est un duel — les deux 
 
 La scène : [[Avraham|Avram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
 
-Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[Amrafel]], [[Bera]] — la comparaison est ce qui rend le silence lisible.
+Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[Amrafel]], [[Beraʿ]] — la comparaison est ce qui rend le silence lisible.

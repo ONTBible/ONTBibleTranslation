@@ -26,4 +26,4 @@ Il faut le lire pour ce que c'est : ==être hors de la ligne n'est pas être hor
 
 Sa maison : [[Ever]] son père, [[Peleg]] son frère.
 
-Ses fils : [[Almodad]], [[Shelef]], [[Chatsarmavet]], [[Yerach]], [[Hadoram]], [[Ousal]], [[Diqla]], [[Oval]], [[Avimaʾel]], [[Sheva]], [[Ofir]], [[Chavila]], [[Yovav]].
+Ses fils : [[Almodad]], [[Shelef]], [[Chatsarmavet]], [[Yerach]], [[Hadoram]], [[Ousal]], [[Diqlah]], [[Oval]], [[Avimaʾel]], [[Sheva]], [[Ofir]], [[Chavilah]], [[Yovav]].

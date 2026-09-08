@@ -24,6 +24,6 @@ Le **Shem** résonne enfin avec [[Dodanim]], dans la lignée de [[Yaphet]] — =
 
 ## Voir aussi
 
-Sa maison : [[Raʿama]] son père, [[Koush]] son grand-père ; son frère [[Sheva]].
+Sa maison : [[Raʿamah]] son père, [[Koush]] son grand-père ; son frère [[Sheva]].
 
 Le nom qui lui fait écho : [[Dodanim]].

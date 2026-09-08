@@ -10,7 +10,7 @@ La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » 
 
 ## Le Shem
 
-De *kana'* (*kana'* / כָּנַע) — ==s'agenouiller, être soumis, plier==.
+De *kanaʿ* (*kanaʿ* / כָּנַע) — ==s'agenouiller, être soumis, plier==.
 
 Le nom porte donc dans sa racine ce qui lui arrivera, et le corpus le relève : il est prononcé ==avant que l'incident n'ait lieu==. Le narrateur nomme le fils de [[Cham]] au moment où il introduit la scène de la vigne, et le lecteur hébreu entend déjà l'agenouillement dans le nom.
 

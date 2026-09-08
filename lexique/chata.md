@@ -12,7 +12,7 @@ Car c'est le même mot qui dit ce que nous appelons pécher. Non pas parce que l
 
 Ce qui change ce qu'on croit lire. Notre « péché » est une transgression : une règle a été posée, quelqu'un l'a enfreinte, il y a offense et il faudra réparer. Le cadre est juridique, et il vient en grande partie du latin. ==Chata== ne suppose pas d'abord un interdit — il suppose ==une trajectoire== : une chose était orientée vers son office, elle en a dévié.
 
-C'est pourquoi le mot appartient à la même famille que **tov** et **ra**. Le **tov** constate qu'une chose est ajustée à sa destination ; le **ra** constate qu'elle s'en écarte ; ==chata== nomme ==l'acte== par lequel l'écart se produit. Trois mots pour un seul système, et aucun n'est moral.
+C'est pourquoi le mot appartient à la même famille que **tov** et **raʿ**. Le **tov** constate qu'une chose est ajustée à sa destination ; le **raʿ** constate qu'elle s'en écarte ; ==chata== nomme ==l'acte== par lequel l'écart se produit. Trois mots pour un seul système, et aucun n'est moral.
 
 La forme nominale, **chattat**, désigne cet acte lui-même — et le corpus lui donne un visage inquiétant dès sa première apparition. **YHWH** avertit ==Qayin== que la **chattat** est ==tapie à la porte==, qu'elle le désire, et qu'il doit la gouverner. Le mot est celui d'un fauve couché à l'entrée. Ce n'est pas une abstraction morale qu'on transgresse : c'est ==quelque chose qui attend et qu'il faut tenir==.
 

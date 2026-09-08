@@ -10,7 +10,7 @@ Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de
 
 ## Le Shem
 
-(*Reʿu* / רְעוּ) — de *re'a*, ==l'ami, le compagnon== — celui avec qui l'on est.
+(*Reʿu* / רְעוּ) — de *reʿa*, ==l'ami, le compagnon== — celui avec qui l'on est.
 
 ## Ce que le corpus en fait
 

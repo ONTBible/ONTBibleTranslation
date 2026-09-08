@@ -12,7 +12,7 @@
 
 Ce qui vaut d'être relevé est un ==écho==, et il faut le lire sans en faire trop.
 
-Le **Shem** résonne avec [[Dedan]], fils de [[Raʿama]] dans la lignée de [[Cham]]. ==Deux peuples distincts, deux lignées différentes, des noms voisins.==
+Le **Shem** résonne avec [[Dedan]], fils de [[Raʿamah]] dans la lignée de [[Cham]]. ==Deux peuples distincts, deux lignées différentes, des noms voisins.==
 
 Le corpus ne dit pas qu'ils sont parents. Il les range chacun à sa place, et laisse la ressemblance se voir. Ce que ça signale, c'est ==la complexité des contacts autour de la Méditerranée== : les peuples se croisent, empruntent, se nomment les uns les autres, et la carte garde la trace de ces échanges sans les expliquer.
 

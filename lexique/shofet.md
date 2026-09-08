@@ -14,6 +14,6 @@ Notre « juge » évoque autre chose : une profession, une robe, une salle, un h
 
 Ce qui explique une chose qui déroute toujours dans le livre qui porte son nom. Les ==shoftim== n'y jugent presque jamais d'affaires : ils délivrent, ils rassemblent, ils mènent au combat. On croit à une bizarrerie de vocabulaire. Ce n'en est pas une — ==rétablir l'ordre fonctionnel==, c'est aussi bien trancher un litige que chasser l'oppresseur qui empêche un peuple de vivre. Un seul mot, parce qu'un seul geste.
 
-De là vient le titre le plus lourd que le corpus donne à **YHWH**. Quand ==Avraham== plaide pour ==Sedom==, il l'appelle ==le ==shofet== de toute la Terre== — et sa question n'est pas de savoir si **YHWH** est bon. Il demande si ==celui dont la charge est de rétablir l'ordre== va emporter le **tsadiq** avec le **rasha**. On ne pose cette question qu'à un ==shofet==, et on ne la pose que parce qu'on attend qu'il fasse son office.
+De là vient le titre le plus lourd que le corpus donne à **YHWH**. Quand ==Avraham== plaide pour ==Sedom==, il l'appelle ==le ==shofet== de toute la Terre== — et sa question n'est pas de savoir si **YHWH** est bon. Il demande si ==celui dont la charge est de rétablir l'ordre== va emporter le **tsadiq** avec le **rashaʿ**. On ne pose cette question qu'à un ==shofet==, et on ne la pose que parce qu'on attend qu'il fasse son office.
 
 Pluriel **shoftim**.

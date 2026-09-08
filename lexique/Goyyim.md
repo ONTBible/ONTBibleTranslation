@@ -19,4 +19,4 @@ La règle de l'ONT est de ne pas trancher. On note que ==le texte emploie un mot
 ## Voir aussi
 
 Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
-Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].
+Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

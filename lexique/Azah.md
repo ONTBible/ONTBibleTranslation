@@ -1,4 +1,4 @@
-# Aza
+# Azah
 
 ## Prononciation
 
@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Aza* / עַזָּה) — ==Gaza==, sur la côte, au point où la route d'[[Mitsrayim]] entre en [[Kenaʿan]].
+(*Azah* / עַזָּה) — ==Gaza==, sur la côte, au point où la route d'[[Mitsrayim]] entre en [[Kenaʿan]].
 
 ## Ce que le corpus en fait
 

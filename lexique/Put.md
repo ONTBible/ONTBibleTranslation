@@ -18,7 +18,7 @@ Le corpus lui donne une couleur constante : ==la guerre==.
 
 Puis 38:5 le range avec [[Mitsrayim]] et [[Koush]] dans ==la coalition de Gog==. Les trois grandes maisons de [[Cham]] s'y retrouvent ensemble, dans l'assemblée eschatologique.
 
-C'est la dimension ==guerrière et occidentale== de cette lignée : là où [[Raʿama]] porte le commerce et [[Mitsrayim]] la puissance d'État, ==Put== porte les armes.
+C'est la dimension ==guerrière et occidentale== de cette lignée : là où [[Raʿamah]] porte le commerce et [[Mitsrayim]] la puissance d'État, ==Put== porte les armes.
 
 ## Voir aussi
 

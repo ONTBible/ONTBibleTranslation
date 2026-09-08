@@ -1,4 +1,4 @@
-# Raʿama
+# Raʿamah
 
 ## Prononciation
 
@@ -8,7 +8,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-(*Raʿama* / רַעְמָה) désigne des ==peuples de l'Arabie du Sud==, dans la région des routes de l'encens.
+(*Raʿamah* / רַעְמָה) désigne des ==peuples de l'Arabie du Sud==, dans la région des routes de l'encens.
 
 ## Ce que le corpus en fait
 
@@ -20,6 +20,6 @@ Le chapitre assigne à la lignée de [[Cham]] la fécondité et la civilisation 
 
 ## Voir aussi
 
-Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Chavila]], [[Savta]], [[Savtekha]].
+Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Chavilah]], [[Savta]], [[Savtekha]].
 
 Ses fils : [[Sheva]] et [[Dedan]].

@@ -18,6 +18,6 @@ On y trouve aussi des puits creusés et rebouchés, des accords conclus et refai
 
 ## Voir aussi
 
-Sa position : la borne du midi, avec [[Aza]] ; au septentrion, [[Tsidon]] et [[Chamati]].
+Sa position : la borne du midi, avec [[Azah]] ; au septentrion, [[Tsidon]] et [[Chamati]].
 
 Où le corpus la reprend : le séjour d'[[Avraham]], et celui de son fils.

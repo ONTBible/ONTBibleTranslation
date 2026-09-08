@@ -10,7 +10,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-De *shama* (*shama* / שָׁמַע) — ==entendre== — et d'==**El**==. ==**El** entend==, ou ==**El** a entendu==.
+De *shamaʿ* (*shamaʿ* / שָׁמַע) — ==entendre== — et d'==**El**==. ==**El** entend==, ou ==**El** a entendu==.
 
 C'est un **Shem** théophore, et il est donné avant la naissance : ==l'existence même de cet enfant dira un acte de **YHWH**==.
 

@@ -7,7 +7,7 @@
 
 ¹ Alors les jours du **mabbul** (*mabbul* / מַבּוּל) s'approchèrent. ² Les eaux d'en haut et les eaux d'en bas, que l'ordre avait distinguées, furent relâchées pour un temps.
 
-³ La Voûte (*raqia* / רָקִיעַ) *[surface délimitante entre les eaux d'en haut et les eaux d'en bas]* ne fut plus seulement séparation visible ; elle devint lieu d'ouverture. ⁴ Les profondeurs (*tehom* / תְּהוֹם) *[eaux primordiales sans bord, réactivées ici comme puissance de dé-création]* ne demeurèrent plus sous leur retenue ; elles montèrent.
+³ La Voûte (*raqiaʿ* / רָקִיעַ) *[surface délimitante entre les eaux d'en haut et les eaux d'en bas]* ne fut plus seulement séparation visible ; elle devint lieu d'ouverture. ⁴ Les profondeurs (*tehom* / תְּהוֹם) *[eaux primordiales sans bord, réactivées ici comme puissance de dé-création]* ne demeurèrent plus sous leur retenue ; elles montèrent.
 
 ⁵ Ce qui avait été séparé au commencement fut recouvert. ⁶ Les hauteurs perdirent leur hauteur, les chemins perdirent leur chemin, les limites visibles furent lavées. ⁷ La Terre redevint pour un temps espace sans distinction habitable, non parce que l'ordre premier était mauvais, mais parce que la violence avait rendu l'habitation impossible.
 

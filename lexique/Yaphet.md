@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-De *pata* (*pata* / פָּתָה) — étendre, élargir, faire de la place.
+De *patah* (*patah* / פָּתָה) — étendre, élargir, faire de la place.
 
 Le **Shem** porte donc ==une dotation avant qu'elle ne soit prononcée==, et le corpus le souligne : le nom contient déjà ce que [[Noach]] lui formulera plus tard — *qu'**Elohim** élargisse ==Yaphet==*.
 

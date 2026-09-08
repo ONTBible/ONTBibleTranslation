@@ -22,13 +22,13 @@ Les traductions hésitent entre « tu mourras certainement » et « tu deviendra
 
 Un point qui déroute, et qui est central.
 
-Dans ce corpus, mourir n'est pas ==cesser d'exister==. Le mort descend au **She'ol**, où il demeure dans le silence et l'attente. Ce n'est pas l'anéantissement grec, ni une âme qui s'envole : ==on descend, on ne s'évapore pas==.
+Dans ce corpus, mourir n'est pas ==cesser d'exister==. Le mort descend au **Sheʾol**, où il demeure dans le silence et l'attente. Ce n'est pas l'anéantissement grec, ni une âme qui s'envole : ==on descend, on ne s'évapore pas==.
 
 Et comme exister, ici, c'est ==tenir une fonction==, la mort est d'abord la perte de la place. Le mort n'est pas rien : il n'a plus de rôle.
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 2:17 et 3:4 ; les généalogies de *Bereshit* 5, où la formule *vayamot* referme chaque vie ; l'entrée **She'ol** du §3.2.
+*Bereshit* 2:17 et 3:4 ; les généalogies de *Bereshit* 5, où la formule *vayamot* referme chaque vie ; l'entrée **Sheʾol** du §3.2.
 
 ## Formes
 

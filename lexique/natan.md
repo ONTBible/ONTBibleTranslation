@@ -10,7 +10,7 @@ Un verbe si courant qu'on ne le regarde plus : donner. Mais l'hébreu s'en sert 
 
 ==Natan== (*Natan* / נָתַן) est ==un acte de placement précis et intentionnel==. On ne lâche pas une chose entre les mains de quelqu'un : on la ==met à un endroit==, pour qu'elle y tienne un rôle.
 
-Le premier chapitre le montre bien. **Elohim** ==natan== les luminaires dans le **raqia** — il ne les offre à personne, il les ==installe== à leur poste, pour qu'ils gouvernent le jour et la nuit. Le même verbe qu'on emploierait pour poser une pierre dans un mur.
+Le premier chapitre le montre bien. **Elohim** ==natan== les luminaires dans le **raqiaʿ** — il ne les offre à personne, il les ==installe== à leur poste, pour qu'ils gouvernent le jour et la nuit. Le même verbe qu'on emploierait pour poser une pierre dans un mur.
 
 Et il l'emploie encore pour la nourriture : *je vous ai ==natan== toute herbe portant semence*. Ce n'est pas un cadeau qu'on pourrait ne pas faire — c'est ==une assignation== : voilà ce qui vous revient, voilà de quoi vous vivrez. Le verbe distribue les domaines et ce qui va avec.
 

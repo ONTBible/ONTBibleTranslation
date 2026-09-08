@@ -9,13 +9,13 @@
 
 ² Aux jours du Jardin, votre père et moi étions revêtus de la **kavod** (*kavod* / כָּבוֹד) *[la densité, le poids fonctionnel d'existence — nous en étions revêtus comme d'un vêtement de lumière]*, et nous ne connaissions pas la nudité ; car il n'y avait entre nous et **YHWH** **Elohim** (*YHWH Elohim* / יְהוָה אֱלֹהִים) aucun écart, et nous marchions devant sa face sans nous détourner.
 
-³ Et **YHWH** **Elohim** nous avait donné tout arbre du Jardin pour nourriture ; un seul, il l'avait retenu — l'arbre de la connaissance de ce qui est **tov** (*tov* / טוֹב) *[ajusté à sa fonction dans l'ordre]* et de ce qui est **ra** (*ra* / רַע) *[l'opposé fonctionnel de **tov** — ce qui rate sa destination]* — disant : « Le jour où vous en mangerez, vous retournerez au sol concret. »
+³ Et **YHWH** **Elohim** nous avait donné tout arbre du Jardin pour nourriture ; un seul, il l'avait retenu — l'arbre de la connaissance de ce qui est **tov** (*tov* / טוֹב) *[ajusté à sa fonction dans l'ordre]* et de ce qui est **raʿ** (*raʿ* / רַע) *[l'opposé fonctionnel de **tov** — ce qui rate sa destination]* — disant : « Le jour où vous en mangerez, vous retournerez au sol concret. »
 
 ⁴ Or le serpent (*hanachash* / הַנָּחָשׁ) était le plus habile (*arum* / עָרוּם) *[habile : la capacité de percevoir les relations entre les choses]* de toutes les bêtes des champs. ⁵ Il vint à moi comme je me tenais seule près de l'arbre, et il formula sa parole de travers : « Est-ce vrai qu'**Elohim** a dit : vous ne mangerez d'aucun arbre du Jardin ? »
 
 ⁶ Et je lui répondis : « Nous mangeons des arbres du Jardin ; mais du fruit de l'arbre qui est au milieu, **Elohim** a dit : vous n'en mangerez pas, de peur que vous ne retourniez au sol concret. »
 
-⁷ Alors le serpent dit : « Vous ne retournerez pas au sol concret. ⁸ Car **Elohim** sait que le jour où vous en mangerez, vos yeux s'ouvriront, et vous serez comme **Elohim**, connaissants de ce qui est **tov** et de ce qui est **ra**. »
+⁷ Alors le serpent dit : « Vous ne retournerez pas au sol concret. ⁸ Car **Elohim** sait que le jour où vous en mangerez, vos yeux s'ouvriront, et vous serez comme **Elohim**, connaissants de ce qui est **tov** et de ce qui est **raʿ**. »
 
 ⁹ Et je regardai l'arbre, et je vis qu'il était **tov** pour la nourriture, et qu'il était un plaisir pour les yeux, et désirable pour rendre habile. ¹⁰ Et ma main se tendit avant que mon cœur eût jugé ; je pris de son fruit, et j'en mangeai ; et j'en donnai aussi à votre père qui était avec moi, et il mangea.
 

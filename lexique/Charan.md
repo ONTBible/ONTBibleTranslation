@@ -26,6 +26,6 @@ Le corpus ne dit pas que le nom du fils mort a retenu le père. Il place les deu
 
 ## Voir aussi
 
-Sa maison : [[Terach]] son père, [[Avraham]] et [[Nachor]] ses frères, [[Lot]], [[Milkah]] et [[Iska]] ses enfants.
+Sa maison : [[Terach]] son père, [[Avraham]] et [[Nachor]] ses frères, [[Lot]], [[Milkah]] et [[Iskah]] ses enfants.
 
 La ville dont le **Shem** résonne : Charan, où [[Terach]] s'arrête et meurt.

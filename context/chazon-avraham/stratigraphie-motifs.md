@@ -263,7 +263,7 @@ Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux
 **Triangulation :**
 - **Daniel 7-12** — la vision qui déplie l'histoire depuis le haut : **le mode Nistarot lui-même**.
 - **1QS 3-4** (Règle de la Communauté) — les **deux esprits**, les deux lots, la répartition des fils de lumière et de ténèbres. Hébreu, ancien, et **structurellement identique**.
-- ***Devarim* 30:15-19** — les deux voies posées devant : *« vois, j'ai mis devant toi la vie et le bien, la mort et le **ra** »*.
+- ***Devarim* 30:15-19** — les deux voies posées devant : *« vois, j'ai mis devant toi la vie et le bien, la mort et le **raʿ** »*.
 - ***Bereshit* 15:5** (ONT verrouillé) — « compte les étoiles » : le ch. 20 en fait le seuil du tableau.
 
 **Verdict : NOYAU ANCIEN** pour le tableau et pour la structure des deux lots. La droite et la gauche ne sont **pas** un dualisme métaphysique de deux principes rivaux : ce sont **deux lots assignés**, exactement comme Azazel a « la terre » pour lot (Motif 5) — la catégorie est celle du domaine attribué, native de tout le corpus. Et le ch. 26 le confirme en refermant sur la volonté : *ce qui est dans ta pensée est dans le monde*. Un dualisme n'aurait pas besoin de cette phrase.
@@ -274,7 +274,7 @@ Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux
 
 ## Motif 12 — La scène d'Eden dans le tableau (ch. 23)
 
-**Scène :** dans l'image, Avraham voit l'homme et la femme, de grande taille, enlacés ; derrière l'arbre, une figure ailée — six ailes à droite, six à gauche — tenant une grappe de raisin, qu'elle leur donne à manger. La figure est identifiée : **Azazel**. Avraham demande pourquoi ce pouvoir de corrompre lui a été donné ; réponse : sur ceux qui veulent le **ra**, je lui ai donné pouvoir.
+**Scène :** dans l'image, Avraham voit l'homme et la femme, de grande taille, enlacés ; derrière l'arbre, une figure ailée — six ailes à droite, six à gauche — tenant une grappe de raisin, qu'elle leur donne à manger. La figure est identifiée : **Azazel**. Avraham demande pourquoi ce pouvoir de corrompre lui a été donné ; réponse : sur ceux qui veulent le **raʿ**, je lui ai donné pouvoir.
 
 **Triangulation :**
 - ***Bereshit* 3** (ONT **verrouillé**) — le *nachash* y est **la plus rusée des bêtes du champ**, traité **fonctionnellement**. C'est une décision prise et verrouillée.

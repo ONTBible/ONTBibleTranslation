@@ -1,4 +1,4 @@
-# zera
+# zeraʿ
 
 ## Prononciation
 

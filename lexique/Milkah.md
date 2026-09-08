@@ -20,4 +20,4 @@ Le texte ne lui prête aucune parole. Elle est nommée, mariée, et sa descendan
 
 ## Voir aussi
 
-Sa maison : [[Charan]] son père, [[Nachor]] son **ish**, [[Lot]] et [[Iska]] ses frère et sœur.
+Sa maison : [[Charan]] son père, [[Nachor]] son **ish**, [[Lot]] et [[Iskah]] ses frère et sœur.

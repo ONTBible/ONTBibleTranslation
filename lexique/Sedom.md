@@ -20,6 +20,6 @@ C'est une manière de faire qu'il faut connaître pour lire ce chapitre : ==ne p
 
 ## Voir aussi
 
-Sa jumelle : [[Amorah]], et avec elles [[Adma]] et [[Tsevoim]].
+Sa jumelle : [[Amorah]], et avec elles [[Admah]] et [[Tsevoim]].
 
 Où le corpus la reprend : *Bereshit* 13 quand Lot y descend, *Bereshit* 14 pour la guerre des rois, *Bereshit* 18-19 pour le **mishpat**.

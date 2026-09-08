@@ -1,4 +1,4 @@
-# Ada
+# Adah
 
 ## Prononciation
 
