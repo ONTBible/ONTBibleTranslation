@@ -2,52 +2,58 @@
 
 ## Prononciation
 
-*Av-ra-HAM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*av-ra-HAM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* est un ==he==, et ==il se prononce== : un vrai souffle, comme le *h* de l'anglais *house*. Il est ==au milieu du mot==, non à la fin — c'est là toute la différence, car un he final serait muet. Ne pas le laisser tomber comme le fait le français.
 
-## Le Shem, et sa reformulation
+## Le Shem
 
-Il en porte deux, et le passage de l'un à l'autre est un acte.
+(*Avraham* / אַבְרָהָם) — le nom d'[[Avram]] avec, inscrit dedans, *hamon* (הֲמוֹן) : ==la multitude==. Père d'une multitude de **goyim**.
 
-*Avram* (*Avram* / אַבְרָם) se lit ==père élevé==, ou *père de hauteur* — un nom de dignité, tourné vers celui qui le porte.
+Écoutez ce qui se déplace. *Avram* disait ==ce qu'il est== : un père élevé, un homme de rang. *Avraham* dit ==ce dont il est l'origine==. Le nom cesse de le décrire pour désigner ce qui sortira de lui.
 
-*Avraham* (*Avraham* / אַבְרָהָם) y inscrit *hamon*, la multitude : ==père d'une multitude de **goyim**==. Le nom cesse de dire ce qu'il est pour dire ==ce dont il est l'origine==.
+Et il est donné à un homme de quatre-vingt-dix-neuf ans ==qui n'a qu'un fils, d'une **shiphchah**==. On l'appellera « père d'une multitude » pendant les années où il n'a personne. Chaque fois que quelqu'un le nomme, ==le nom dit ce qui n'est pas encore là==.
 
-C'est le même mouvement que pour sa **ishah** : *Sarai*, ma princesse, devient *Sarah*, la princesse. Dans les deux cas ==le possessif particulier tombe et l'universel s'ouvre==. Reformuler un **Shem**, dans ce monde, n'est pas changer d'étiquette : c'est ==changer d'assignation dans l'ordre==.
+C'est le régime des **Shemot** dans ce corpus : un nom n'enregistre pas un état, il ==assigne une place== dans un ordre — et l'ordre tient même quand le visible le contredit.
 
-## Celui à qui il est dit de partir
+Le même geste est fait au même moment sur sa **ishah** : [[Sarai]] devient [[Sarah]].
 
-Le corpus l'introduit par un ordre à deux mots dont l'ambiguïté est délibérée : *lekh-lekha* — va pour toi, va vers toi, va-t'en.
+## Le signe entré dans la chair
 
-Il quitte son pays, sa parenté, la maison de son père. Le texte ne dit pas qu'il croit ; il dit qu'il ==va==.
+Avec le nom vient la **milah**. Le signe de la **berith** n'est pas gravé sur une stèle ni consigné dans un contrat : ==il est incisé dans le corps==, et à l'endroit par lequel une descendance passe.
 
-Et ce qui lui est promis n'est pas une récompense : c'est ==une fonction==. Devenir un grand **goy**, être doté, et que par lui ==toutes les familles du sol soient dotées==. La forme du verbe est elle-même ambiguë — passive ou réflexive —, et l'ONT maintient les deux lectures.
+Tenez-vous là un instant. Ce qui est promis est une lignée ; le signe est posé ==sur l'organe même de la lignée==. Il ne se montre pas, il ne se retire pas, et il voyage avec celui qui le porte. Tous les hommes de sa maison le reçoivent le jour même, ==les esclaves compris==, achetés d'un étranger : la **berith** ne suit pas le sang, elle suit la maison.
 
-## Ce que la berith fait de lui
+## Celui qui discute le mishpat
 
-Trois moments le construisent, et ils ne disent pas la même chose.
+En *Bereshit* 18, il fait quelque chose que personne n'avait fait.
 
-En *Bereshit* 15, il est mené dehors et invité à compter les étoiles. Il ==**emuna**== en **YHWH** — il s'appuie, il traite comme ferme — et cela lui est compté à **tsedaqah**. Puis vient la **berith** entre les morceaux : ==**YHWH** seul passe==, dans une torpeur qui répond à celle de *Bereshit* 2. L'alliance est unilatérale, et rien ne lui est demandé en retour.
+**YHWH** descend voir [[Sedom]]. Avraham se tient devant lui et ==négocie== : et s'il y a cinquante **tsadiqim** ? quarante-cinq ? dix ?
 
-En *Bereshit* 17, **El Shaddai** lui apparaît, son **Shem** est reformulé, et la **milah** vient ==inscrire le signe dans la chair==.
+On lit souvent cela comme un marchandage pour sauver la ville. ==Ce n'est pas ce qu'il demande.== Sa phrase est celle-ci : *le **shofet** de toute la Terre ne fera-t-il pas **mishpat** ?* Il ne demande pas qu'on suspende le jugement — il demande qu'il soit ==juste==, c'est-à-dire qu'il ne balaie pas le **tsadiq** avec le **rashaʿ**.
 
-En *Bereshit* 18, il fait autre chose : il ==discute le **mishpat**==. Il descend de cinquante **tsadiqim** à dix, non pour obtenir la suspension du jugement, mais pour que le jugement soit ==complet== — et il pose la question qui tient tout le corpus : *le **shofet** de toute la Terre ne fera-t-il pas **mishpat** ?*
+Un homme se lève devant celui qui juge tout, et lui rappelle sa propre règle. Le corpus l'enregistre sans le blâmer.
 
 ## Ce qu'il n'est pas
 
-Il faut l'écrire, parce que le mot français le trahit.
+Il faut l'écrire, parce que le français le trahit deux fois.
 
-Il n'est pas ==un croyant== au sens où nous l'entendons — quelqu'un qui tient une proposition pour vraie. L'**emunah** n'est pas une opinion : c'est ==une posture d'appui==, la même que celle du poids qui se pose sur ce qui porte.
+Il n'est pas ==un croyant== au sens où nous l'entendons, quelqu'un qui tient une proposition pour vraie. L'**emunah** n'est pas une opinion : c'est ==la posture du poids qui se pose sur ce qui porte==.
 
-Et il n'est pas ==un juste== au sens moral. La **tsedaqah** qui lui est comptée est ==l'ajustement à l'ordre==, pas une note de conduite — le corpus raconte d'ailleurs qu'il fait passer sa **ishah** pour sa sœur, deux fois, par peur.
+Il n'est pas ==un juste== au sens moral. La **tsedaqah** qui lui est comptée est ==un ajustement à l'ordre==, non une note de conduite — et le même corpus raconte qu'il a fait passer sa **ishah** pour sa sœur, deux fois, par peur.
+
+## Ce sur quoi cette fiche repose
+
+*Bereshit* 17 à 25. Avant le changement de **Shem**, voir [[Avram]].
+
+Ce qui reste à venir : son cycle n'est pas entièrement écrit, et les *Igerot* de Shaul le relisent de bout en bout — cette fiche sera reprise quand elles le seront.
 
 ## Voir aussi
 
-Sa maison : ==Terach== son père, ==Sarai== devenue ==Sarah==, ==Lot== son neveu, [[Hagar]] la Mitsrit, ==Ishmaʿel== et ==Yitschaq==.
+Ce qu'il était : [[Avram]].
 
-Ce que son **Shem** touche : la **berith**, l'**emunah**, la **tsedaqah**, la **milah**, **El Shaddai**, et le **mishpat** qu'il discute.
+Sa maison : [[Sarah]] sa **ishah**, [[Hagar]] la **shiphchah**, ==Ishmaʿel== et ==Yitschaq==.
 
 Sa ligne : il descend de [[Shem-fils-de-Noach]] par ==Ever==, dont le nom donne *ivri*.
 
-Ce qui reste à écrire : son cycle occupe *Bereshit* 12 à 25, et la couche des Shemot n'y est pas encore portée. Cette fiche sera reprise — et les *Igerot* de Shaul, qui le relisent entièrement, la changeront encore.
+Ce que son **Shem** touche : la **berith**, la **milah**, **El Shaddai**, le **mishpat** qu'il discute, l'**emunah** et la **tsedaqah** qui lui sont comptées.

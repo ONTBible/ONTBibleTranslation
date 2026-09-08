@@ -26,7 +26,7 @@ Le texte emploie donc une désignation qui n'existait pas encore, pour situer un
 
 Ce lieu ne sert qu'à une chose dans le corpus, et elle est immense : ==c'est le point d'où l'on sort==.
 
-[[Charan]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[Avraham|Avram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kenaʿan]].
+[[Charan]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[Avram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kenaʿan]].
 
 Et ils n'y arrivent pas. Ils s'arrêtent à [[Charan]] — la ville, homonyme du fils mort, et l'homonymie n'est sûrement pas un hasard — et ils s'y établissent. ==Le premier voyage s'arrête à mi-chemin, et c'est là que Terach meurt.== Le *lekh-lekha* de *Bereshit* 12 reprendra une marche déjà commencée et interrompue.
 
@@ -42,7 +42,7 @@ Le lecteur qui connaît la suite du corpus reconnaît la phrase avant de savoir 
 
 Or celle-ci vient ==avant==. Avant la descente, avant l'esclavage, avant la mer. ==La première sortie du corpus n'est pas celle de Mitsrayim : c'est celle d'Ur.== Et elle ne sort de rien de terrible — on quitte une grande ville pour des tentes. Ce qu'on quitte n'est pas une oppression, c'est ==un monde qui fonctionnait sans **YHWH**==, la maison du dieu-lune et le pays de la naissance.
 
-C'est ce qui donne son poids au reproche implicite : au moment où [[Avraham|Avram]] demande une garantie sur la terre, **YHWH** lui rappelle qu'il l'a déjà fait sortir une fois.
+C'est ce qui donne son poids au reproche implicite : au moment où [[Avram]] demande une garantie sur la terre, **YHWH** lui rappelle qu'il l'a déjà fait sortir une fois.
 
 ## Ce que la fiche porte, et ce qu'elle attend
 
@@ -50,7 +50,7 @@ Elle repose sur *Bereshit* 11 et 15, les deux seules unités où le lieu paraît
 
 ## Voir aussi
 
-La maison qui en sort : [[Terach]] le père, [[Charan]] le fils qui y meurt, [[Avraham|Avram]], [[Sarai]], [[Lot]], [[Nachor]] et [[Milkah]].
+La maison qui en sort : [[Terach]] le père, [[Charan]] le fils qui y meurt, [[Avram]], [[Sarai]], [[Lot]], [[Nachor]] et [[Milkah]].
 
 L'étape où le voyage s'arrête : [[Charan]] la ville, homonyme du fils mort — le corpus laisse les deux se répondre sans expliquer.
 

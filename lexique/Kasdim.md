@@ -10,7 +10,7 @@
 
 Le français dit « les Chaldéens ». C'est la forme grecque *Chaldaioi* passée par le latin, et le §4.12 l'écarte comme il écarte Sodome pour [[Sedom]] et l'Égypte pour [[Mitsrayim]] : ==un nom qui a traversé deux langues avant d'arriver n'est plus le nom==. Kasdim est ce que le texte écrit.
 
-L'étymologie ne se laisse pas fixer, et le corpus ne la commente pas. On a rapproché le **Shem** de ==Kesed==, neveu d'[[Avraham|Avram]] par [[Nachor]] — la table des peuples aime ce genre de rattachement —, mais rien dans le texte ne l'établit. ==L'ONT ne comble pas.==
+L'étymologie ne se laisse pas fixer, et le corpus ne la commente pas. On a rapproché le **Shem** de ==Kesed==, neveu d'[[Avram]] par [[Nachor]] — la table des peuples aime ce genre de rattachement —, mais rien dans le texte ne l'établit. ==L'ONT ne comble pas.==
 
 ## Un nom qui arrive mille ans trop tôt
 
@@ -24,7 +24,7 @@ Le narrateur emploie donc une désignation qui n'existait pas encore, pour situe
 
 C'est le point qui donne à ce **Shem** tout son poids, et il faut le poser lentement parce que le texte, lui, ne le dit jamais.
 
-[[Avraham|Avram]] sort d'[[Ur Kasdim]]. C'est le premier départ du corpus, et **YHWH** s'en réclamera comme d'un acte fondateur : *je suis **YHWH** qui t'ai fait sortir d'Ur Kasdim*.
+[[Avram]] sort d'[[Ur Kasdim]]. C'est le premier départ du corpus, et **YHWH** s'en réclamera comme d'un acte fondateur : *je suis **YHWH** qui t'ai fait sortir d'Ur Kasdim*.
 
 Et mille ans plus tard, dans le même corpus, ce nom revient — mais comme ==l'empire==. Les Kasdim sont alors la puissance néo-babylonienne : celle qui monte contre Yerushalaim, qui brûle le Bayit, et qui emmène le peuple là d'où il était parti. *Yirmeyahu* les nomme sans cesse ; *Havaquq* bâtit tout son livre sur la question de savoir comment **YHWH** peut employer un tel instrument.
 
@@ -40,7 +40,7 @@ Elle repose sur *Bereshit* 11 et 15, et sur ce que le corpus fera de ce nom dans
 
 ## Voir aussi
 
-La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terach]] — [[Avraham|Avram]], [[Sarai]], [[Lot]], et [[Charan]] qui y meurt avant le voyage.
+La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terach]] — [[Avram]], [[Sarai]], [[Lot]], et [[Charan]] qui y meurt avant le voyage.
 
 Le pays et ses fleuves : [[Shinʿar]], l'autre nom de cette plaine dans le corpus, celle de [[Bavel]] ; et [[Prat]], le grand fleuve qui borne la promesse.
 

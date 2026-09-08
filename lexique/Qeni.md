@@ -20,7 +20,7 @@ Et le **Shem** touche à celui de [[Qayin]] par les mêmes consonnes. Le corpus 
 
 ## Ce que le texte en fait
 
-Ils ouvrent la liste des dix peuples que **YHWH** énumère à [[Avraham|Avram]] après la **berith** coupée entre les morceaux — la seule fois où le corpus les nomme jusqu'ici.
+Ils ouvrent la liste des dix peuples que **YHWH** énumère à [[Avram]] après la **berith** coupée entre les morceaux — la seule fois où le corpus les nomme jusqu'ici.
 
 La place n'est pas indifférente. Cette liste dit l'étendue de ce qui est promis, et elle commence par ==le peuple le moins territorial de tous==. Un forgeron nomade ne tient pas un pays ; il traverse ceux des autres. Le premier nom de la promesse est celui de gens qui n'ont pas de terre à céder.
 

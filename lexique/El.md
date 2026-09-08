@@ -18,7 +18,7 @@ C'est le point le plus contre-intuitif, et il faut s'y arrêter.
 
 On s'attendrait à ce qu'un texte qui refuse les dieux des nations refuse aussi leur vocabulaire. Il fait l'inverse : il ==garde le mot== et lui dispute son occupant.
 
-Regardez *Bereshit* 14. [[Malki-tsedeq]], roi de [[Shalem]], sort à la rencontre d'[[Avraham|Avram]] et le bénit par **El Elyon**, *fondateur des Cieux et de la Terre*. C'est un roi kenaʿani qui parle, dans les mots de son propre culte. Et [[Avraham|Avram]] répond en levant la main : *j'ai levé la main vers **YHWH**, **El Elyon**, fondateur des Cieux et de la Terre*.
+Regardez *Bereshit* 14. [[Malki-tsedeq]], roi de [[Shalem]], sort à la rencontre d'[[Avram]] et le bénit par **El Elyon**, *fondateur des Cieux et de la Terre*. C'est un roi kenaʿani qui parle, dans les mots de son propre culte. Et [[Avram]] répond en levant la main : *j'ai levé la main vers **YHWH**, **El Elyon**, fondateur des Cieux et de la Terre*.
 
 Il ne corrige pas le vocabulaire du roi. ==Il ajoute un nom devant.== L'échange n'a de sens que parce que ==les deux hommes emploient le même mot== — l'un désigne la place, l'autre dit qui l'occupe.
 

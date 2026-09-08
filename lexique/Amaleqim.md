@@ -20,7 +20,7 @@ Ce qu'on sait tient au pays. Les Amaleqim sont le peuple du désert méridional,
 
 Voici ce que cette entrée a de plus remarquable, et il faut le poser franchement : ==à l'heure du récit, ce peuple ne peut pas s'appeler ainsi==.
 
-==Amaleq== est le petit-fils d'==Esav==, qui n'est pas né. Son grand-père n'est pas né. [[Avraham|Avram]] n'a pas encore de fils. Quand [[Kedorlaomer]] frappe « tout le champ des Amaleqim », il frappe un territoire dont le nom sera formé plusieurs générations plus tard.
+==Amaleq== est le petit-fils d'==Esav==, qui n'est pas né. Son grand-père n'est pas né. [[Avram]] n'a pas encore de fils. Quand [[Kedorlaomer]] frappe « tout le champ des Amaleqim », il frappe un territoire dont le nom sera formé plusieurs générations plus tard.
 
 Ce n'est pas une erreur, c'est ==une manière de parler au lecteur==. Le narrateur situe un lieu par la désignation que son auditoire connaît, comme on dirait aujourd'hui « il traversa la Bourgogne » d'un voyageur du IVᵉ siècle. [[Ur Kasdim]] fonctionne exactement pareil : les [[Kasdim]] sont une puissance tardive de mille ans.
 

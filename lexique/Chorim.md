@@ -22,7 +22,7 @@ Ils paraissent une fois, dans la campagne des quatre rois de l'orient, et la men
 
 [[Kedorlaomer]] et ses alliés descendent en frappant tout ce qui se trouve sur leur route : les [[Refaim]], les [[Zouzim]], les [[Emim]] — puis les Chorim dans leur montagne de [[Seir]], jusqu'à [[El-Paran]] aux abords du désert. Quatre peuples anciens, quatre lieux, et pas un mot d'explication.
 
-Le texte ne juge pas cette campagne. Il énumère, et ==l'énumération est elle-même l'information== : elle dit l'étendue de ce que ces rois pouvaient balayer, et donc ce que [[Avraham|Avram]] affrontera avec trois cent dix-huit hommes.
+Le texte ne juge pas cette campagne. Il énumère, et ==l'énumération est elle-même l'information== : elle dit l'étendue de ce que ces rois pouvaient balayer, et donc ce que [[Avram]] affrontera avec trois cent dix-huit hommes.
 
 ## Ceux qui étaient là avant
 

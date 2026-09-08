@@ -12,7 +12,7 @@
 
 Il est [[Emori]], et c'est ce qui compte.
 
-[[Avraham]] habite aux chênes de [[Mamre]] l'[[Emori]], ==frère d'[[Eshkol]] et frère d'Aner==, et le texte précise qu'ils sont ==*baʿalei berit* d'[[Avraham|Avram]]==.
+[[Avraham]] habite aux chênes de [[Mamre]] l'[[Emori]], ==frère d'[[Eshkol]] et frère d'Aner==, et le texte précise qu'ils sont ==*baʿalei berit* d'[[Avram]]==.
 
 Celui à qui la terre est promise a donc ==des alliés parmi ceux qui l'habitent==, et il monte au combat avec eux.
 

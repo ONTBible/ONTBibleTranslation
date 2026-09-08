@@ -38,7 +38,7 @@ Ce n'est pas une fraude, et il faut voir précisément ce que ce régime déclar
 
 ## But
 
-*Bereshit* 15 contracte en vingt et un versets une nuit immense. **YHWH** commande cinq animaux, [[Avraham|Avram]] les partage, un rapace descend sur les corps, une *tardemah* tombe, une grande obscurité et un effroi le saisissent, il lui est dit quatre cents ans et une quatrième génération, un four fumant passe entre les morceaux — et le texte passe à [[Hagar]]. Ce livre relève ce que *Bereshit* laisse contracté :
+*Bereshit* 15 contracte en vingt et un versets une nuit immense. **YHWH** commande cinq animaux, [[Avram]] les partage, un rapace descend sur les corps, une *tardemah* tombe, une grande obscurité et un effroi le saisissent, il lui est dit quatre cents ans et une quatrième génération, un four fumant passe entre les morceaux — et le texte passe à [[Hagar]]. Ce livre relève ce que *Bereshit* laisse contracté :
 
 > *Que vit Avraham dans la grande obscurité, entre les morceaux de la **berith** ?*
 

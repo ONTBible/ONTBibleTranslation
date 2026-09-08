@@ -34,7 +34,7 @@ D'où l'effet, quand la confrontation viendra : ce n'est pas un homme qui fait f
 
 Elle est brève et elle donne le ton.
 
-[[Avraham|Avram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Parʿoh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
+[[Avram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Parʿoh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
 
 L'écho est dans les consonnes, et il ne survit à aucune traduction. *Sar* (*sar* / שַׂר) est ==la racine même du **Shem** de [[Sarai]]== : « ma souveraine ». Les souverains de Pharaon voient la souveraine, la louent devant lui, et elle est prise dans la maison.
 
@@ -50,6 +50,6 @@ Tout le reste est devant : *Bereshit* 40-41 avec ==Yoseph== devant la maison, pu
 
 Le pays et sa maison : [[Mitsrayim]], dont le **Shem** est un duel — les deux terres, la haute et la basse.
 
-La scène : [[Avraham|Avram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
+La scène : [[Avram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
 
 Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[Amrafel]], [[Beraʿ]] — la comparaison est ce qui rend le silence lisible.

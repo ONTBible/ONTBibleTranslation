@@ -127,7 +127,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**Neshamah**` / `**neshamah**`
 - `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
 - `**ish**` / `**Ish**` et formes dérivées : `**anashim**` (pluriel absolu), `**anshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
-- `**Shem**` quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
+- `**Shem**` / `**Shemot**` (pluriel) quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
 - `**Tahor**` / `**tahor**` / `**lo tahor**`
 - `**Olah**` / `**olah**` / `**Olot**` / `**olot**`
@@ -137,6 +137,10 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**nacham**`. Premier emploi *Bereshit* 5:29.
 - `**Adonai**` — s'écrit seul ou combiné : `**Adonai** **YHWH**`. Premier emploi *Bereshit* 15:2.
 - `**El**` — intraduisible depuis le 31 août 2026 : le nom du dieu au sommet de l'ordre (אֵל), au singulier. **Se balise aussi dans les gloses qui expliquent un Shem théophore** — « **El** entend » pour Yishmaʿel, « qui est comme **El** ? » pour Mikhaʾel, « **El** guérit » pour Rafaʾel : c'est le même **El**, et le lecteur doit pouvoir le toucher là où il le rencontre. ==Ne pas baliser== la particule à l'intérieur d'une translittération de niveau 3 — `(*el* / אֵל)` la porte déjà —, ni les composés qui ont leur propre entrée : `**El Elyon**`, `**El Roï**`, `**El Shaddai**`.
+- `**YHWH Elohim**` — deux mots, les deux en gras. La formule de *Bereshit* 2-3,
+  où elle paraît vingt fois de suite puis presque plus jamais dans la Torah : celui
+  qui a ordonné le cosmos est celui qui parle à cet homme-là. ==Ne pas anticiper le
+  traitement de **YHWH**==, que le §7 réserve à *Shemot* 3:1-15.
 - `**El Elyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **El Elyon**`. Premier emploi *Bereshit* 14.
 - `**El Roï**` — deux mots, les deux en gras. Premier emploi *Bereshit* 16:13.
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
