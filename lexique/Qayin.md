@@ -32,7 +32,7 @@ Il faut entendre ce que la phrase ose. Hors du Jardin, après la rupture, elle d
 
 Et le texte le retourne, méthodiquement.
 
-Il apporte une *minchah* (*minchah* / מִנְחָה) — un tribut de vassal — prise du fruit du sol qu'il travaille. Elle n'est pas regardée. Son visage tombe, et **YHWH** lui parle avant qu'il ait rien fait, pour lui dire que la **chattat** est tapie à sa porte, qu'elle le désire, ==et que lui doit la gouverner==. Le verbe est (*mashal* / מָשַׁל) : régner sur un domaine. On ne lui demande pas de résister à une tentation ; on lui rappelle une charge.
+Il apporte une *minchah* (*minchah* / מִנְחָה) — un tribut de vassal — prise du fruit du sol qu'il travaille. Elle n'est pas regardée. Son visage tombe, et **YHWH** lui parle avant qu'il ait rien fait, pour lui dire que la **chattat** est tapie à sa porte, qu'elle le désire, ==et que lui doit la ==gouverner====. Le verbe est (*mashal* / מָשַׁל) : régner sur un domaine. On ne lui demande pas de résister à une tentation ; on lui rappelle une charge.
 
 Il ne la tient pas. Et la sentence qui suit défait son **Shem** pièce par pièce : le sol qu'il travaillait ne lui rendra plus sa force, il sera (*na va-nad* / נָע וָנָד) — mouvant et errant. ==Celui dont le nom dit « j'ai obtenu » perd toute prise sur ce qu'il tenait.==
 
