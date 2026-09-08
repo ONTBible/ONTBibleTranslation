@@ -34,8 +34,8 @@ jamais autonome, jamais séparable de sa source — et pourtant elle peut passer
 
 C'est pourquoi le corpus dit sans difficulté *la **Ruach** d'Eliyahu*, comme il
 dit *la **Ruach** d'un roi* qui se répand sur sa maison. Le tour est ordinaire en
-hébreu. Il devient décisif dès qu'on l'applique à **YHWH** : *la **Ruach** de
-**YHWH*** ne nomme pas quelqu'un d'autre que lui — elle nomme ==sa puissance en
+hébreu. Il devient décisif dès qu'on l'applique à **YHWH** : ==la **Ruach** de
+**YHWH**== ne nomme pas quelqu'un d'autre que lui — elle nomme ==sa puissance en
 sortie==.
 
 ## Ce que la fiche porte, et ce qui reste à venir

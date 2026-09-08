@@ -16,7 +16,7 @@ C'est le même **Shem** que porte [[Lamekh-fils-de-Metoushael]], dans l'autre li
 
 Ce qu'il fait tient en un verset, et c'est considérable.
 
-Il engendre un fils et le nomme [[Noach]], en disant : *celui-ci nous* **nacham***era de notre ouvrage et de la peine de nos mains, à cause de l'*adamah* que **YHWH** a frappée de dysfonctionnement.*
+Il engendre un fils et le nomme [[Noach]], en disant : *celui-ci nous== **nacham**==era de notre ouvrage et de la peine de nos mains, à cause de l'*adamah* que **YHWH** a frappée de dysfonctionnement.*
 
 Il faut entendre ce qu'il y a dans cette phrase. Elle nomme ==le mal exact== dont sa génération souffre : non le péché, non la violence — ==le sol qui résiste==, depuis la sentence de *Bereshit* 3 et celle de [[Qayin]]. Des siècles de labeur sur une *adamah* qui ne rend plus sa force.
 

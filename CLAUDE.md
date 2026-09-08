@@ -370,6 +370,33 @@ Ce qui ne change pas : une fiche faite de blocs de texte voyage par la mise à
 jour réseau du corpus et atteint les apps **déjà installées**, sans compilation
 ni revue Apple.
 
+**Une fiche déclare les formes qui lui appartiennent.** Décision de l'auteur du
+8 septembre 2026. Après le corps, une section ==Formes== liste les formes
+fléchies que le corpus emploie et qui doivent mener ici.
+
+    ## Formes
+    vayomer · vayomru · amarti · vaʾomar
+
+**Pourquoi dans la fiche, et pas au §2.5.** Le §2.5 est une liste
+d'==intraduisibles== : y déclarer `vayomer` ferait d'`amar` un intraduisible, et
+lui ferait perdre son rendu « formuler » que le §3.1 fixe. ==Les deux registres
+doivent rester séparés== — ce qui se traduit, et ce qui se touche.
+
+La fiche, elle, ==sait mieux que quiconque quelles formes lui appartiennent==.
+L'information y vit avec le mot, se relit et se corrige comme le reste, et
+n'engage aucun statut.
+
+**Ce que ça produit.** Le lecteur touche `vayomer` dans une translittération de
+niveau 3 et arrive sur la fiche d'`amar`. Sans cette déclaration il ne touche
+rien — le mot reste lisible et ==inerte==.
+
+**Et ce qu'on ne fait pas, délibérément.** ==Aucune résolution morphologique.==
+Le pipeline ne devine pas une racine à partir d'une forme, et la raison n'est
+pas la difficulté mais ==le mode d'échec== : une règle qui se trompe ne rend pas
+le mot inerte, elle le rend ==touchable vers la mauvaise fiche==. Le lecteur
+arrive ailleurs sans que rien ne le lui dise. Une déclaration exacte est un gain
+permanent ; une devinette est une substitution silencieuse.
+
 **Toute fiche ouvre par sa prononciation.** ==Avant le titre de section
 suivant, avant la scène, avant tout le reste== — parce que c'est la première
 chose qu'un lecteur veut savoir d'un mot qu'il ne sait pas dire, et parce que la
@@ -1409,6 +1436,22 @@ Quand une glose écrit "hiphil de *aman*", elle dit : c'est la forme causative d
 Le lecteur occidental ne possède pas les réalités hébraïques en tête. Les gloses sont là pour expliciter ce que le lecteur hébreu comprenait implicitement par sa langue, sa culture et son vécu quotidien. Ce n'est pas de l'invention — c'est de la médiation culturelle nécessaire, dans la tradition des Targoums.
 
 **Règle absolue :** On n'invente jamais — on explicite seulement dans les gloses.
+
+**Une glose dit de quelle racine vient la forme.** Décision de l'auteur du
+8 septembre 2026. Quand le niveau 3 porte une ==forme fléchie== et non le lemme,
+la glose l'y ramène :
+
+    ==formula== (*vayomer* / וַיֹּאמֶר) *[*vayomer* — de *amar* : la parole
+    performative, qui accomplit ce qu'elle énonce]*
+
+Le corpus le faisait déjà ==trente-huit fois==, sans que ce soit écrit —
+*zeʿaqah* de *zaʿaq*, *vayitschaq* de *tsachaq*, *dibber* de *davar*. La règle
+ne fait qu'en tirer la pratique.
+
+**Elle double la déclaration de la fiche, et c'est voulu.** Elles ne servent pas
+le même lecteur : la fiche sert ==celui qui touche== — et le pipeline qui
+résout ; la glose sert ==celui qui lit== et veut savoir sur place, sans quitter
+la page.
 
 **Le sens du transport — décision de l'auteur du 30 août 2026.** *La restitution
 ramène le monde antique vers le lecteur, jamais l'inverse.* Que le lecteur se

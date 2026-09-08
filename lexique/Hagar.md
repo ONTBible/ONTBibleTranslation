@@ -22,7 +22,7 @@ Elle est **shiphchah** — attachée à la sphère de [[Sarai]], et c'est cette 
 
 Elle ne change pas de travail quand on la donne à Avram : elle ==change de sphère==. L'enfant qu'elle portera doit remonter, par-dessus elle, jusqu'à la maîtresse. Le droit familial du Proche-Orient prévoit le cas, avec ses clauses.
 
-Puis elle conçoit, et la hiérarchie se retourne : sa maîtresse ==devient légère== à ses yeux — elle perd de la **kavod**. [[Sarai]] l'accable, du verbe *anah*, ==celui-là même qui décrira l'affliction d'Israël en ==Mitsrayim==. Le corpus construit l'écho à l'envers : la Mitsrit est affligée par la maison de la promesse avant que la maison de la promesse ne le soit par ==Mitsrayim==.
+Puis elle conçoit, et la hiérarchie se retourne : sa maîtresse ==devient légère== à ses yeux — elle perd de la **kavod**. [[Sarai]] l'accable, du verbe *anah*, ==celui-là même qui décrira l'affliction d'Israël en [[Mitsrayim]]==. Le corpus construit l'écho à l'envers : la Mitsrit est affligée par la maison de la promesse avant que la maison de la promesse ne le soit par ==Mitsrayim==.
 
 Et elle s'enfuit.
 

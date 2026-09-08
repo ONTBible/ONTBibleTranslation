@@ -14,7 +14,7 @@ C'est l'un des rares noms de cette liste dont l'histoire écrite ailleurs confir
 
 Ce que le corpus en fait est frappant, et c'est une structure qu'il répète.
 
-Les *Neviʾim* les désignent comme ==l'instrument du **mishpat** de **YHWH** sur ==Bavel==. *Yeshayahu* 13:17 : *j'excite contre eux les* ==Madai==. *Yirmeyahu* 51:11 le reprend.
+Les *Neviʾim* les désignent comme ==l'instrument du **mishpat** de **YHWH** sur [[Bavel]]==. *Yeshayahu* 13:17 : *j'excite contre eux les* ==Madai==. *Yirmeyahu* 51:11 le reprend.
 
 Regardez ce que ça produit dans la table. ==Madai== est fils de [[Yaphet]] ; ==Bavel== relève de la lignée de [[Cham]] par [[Koush]] et [[Nimrod]]. ==Une lignée exécute donc le jugement prononcé sur une autre==, et le jugement, lui, vient de la lignée de [[Shem-fils-de-Noach]] par les *neviʾim*.
 

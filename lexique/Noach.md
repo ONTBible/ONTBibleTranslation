@@ -14,7 +14,7 @@ Le mot ne dit pas le sommeil ni l'inaction. Il dit ==l'arrêt de celui qui cherc
 
 C'est la même famille que *shavat* — la cessation souveraine de *Bereshit* 1, celle d'**Elohim** au septième jour. On n'y cesse pas de fatigue : ==on cesse parce que l'œuvre tient==.
 
-Et le **Shem** est posé sur un enfant né dans une génération qui ne tient rien. Son père le nomme en disant : *celui-ci nous* **nacham***era* — nous soulagera de notre ouvrage et de la peine de nos mains, à cause de l'*adamah* que **YHWH** a frappée de dysfonctionnement.
+Et le **Shem** est posé sur un enfant né dans une génération qui ne tient rien. Son père le nomme en disant : *celui-ci nous== **nacham**==era* — nous soulagera de notre ouvrage et de la peine de nos mains, à cause de l'*adamah* que **YHWH** a frappée de dysfonctionnement.
 
 Le nom est donc ==une attente formulée à voix haute==, dans un monde où le sol résiste depuis [[Qayin]].
 

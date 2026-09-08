@@ -36,17 +36,17 @@ Ce n'est pas une variation de style. **Elohim** dit ==celui qui ordonne le cosmo
 
 C'est dans les Shemot qu'*El* est le plus présent, et de loin. Un nom théophore est une phrase courte dont il est le sujet ou l'objet :
 
-[[Mikhaʾel]] — *qui est comme **El*** ? Une question, pas une affirmation, et elle attend qu'on réponde « personne ».
-[[Rafaʾel]] — ***El** guérit*.
-[[Yishmaʿel]] — ***El** entend*, et le récit de [[Hagar]] au désert le prouve avant même que l'enfant naisse.
-[[Baraqel]] — *éclair d'**El***, et c'est un père de **gibbaraya** qui le porte.
-[[Bet-El]] — *maison d'**El***, un lieu et non une personne.
+[[Mikhaʾel]] — ==qui est comme **El**== ? Une question, pas une affirmation, et elle attend qu'on réponde « personne ».
+[[Rafaʾel]] — ==**El** guérit==.
+[[Yishmaʿel]] — ==**El** entend==, et le récit de [[Hagar]] au désert le prouve avant même que l'enfant naisse.
+[[Baraqel]] — ==éclair d'**El**==, et c'est un père de **gibbaraya** qui le porte.
+[[Bet-El]] — ==maison d'**El**==, un lieu et non une personne.
 
 Il faut mesurer ce que ça produit. Chaque fois qu'on appelle quelqu'un par son nom dans ces récits, ==on énonce une phrase sur **El** sans y penser==. Un peuple entier porte dans ses noms propres la mémoire de ce qu'il croit — et le porte assez bas dans la langue pour ne plus l'entendre, comme nous ne pensons pas à la lumière en disant Clara.
 
 ## Ce que la fiche porte, et ce qui reste à venir
 
-Elle repose sur *Bereshit* 14 et 17, sur les Shemot du *Sefar Gibbaraya* et du *Toledot Adam ve-Chavah*, et sur le *Chazon Avraham*, où un enfant refuse le titre à un candidat après l'autre — *je ne l'appellerai pas **El***.
+Elle repose sur *Bereshit* 14 et 17, sur les Shemot du *Sefar Gibbaraya* et du *Toledot Adam ve-Chavah*, et sur le *Chazon Avraham*, où un enfant refuse le titre à un candidat après l'autre — ==je ne l'appellerai pas **El**==.
 
 Beaucoup reste devant. *Shemot* 3 posera la question du Nom, et le §7 la réserve à l'auteur comme ==la décision la plus importante du projet après **Elohim**==. *Yeshayahu* opposera *El* aux *elilim*, les riens, par un jeu de sons que le français perd. Cette fiche sera reprise alors.
 
