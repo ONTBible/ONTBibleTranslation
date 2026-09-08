@@ -26,6 +26,6 @@ C'est ce qui rapproche ce livre d'*Iyov* plutôt que de *Daniel*, et c'est pourq
 
 Son frère : [[Hahyah]] — ou [[Ahyah]], selon la vocalisation.
 
-Ceux dont ils sortent : les **'irin**, dont [[Shemikhazah]].
+Ceux dont ils sortent : les **irin**, dont [[Shemichazah]].
 
 Qui ils envoient : [[Mahaway]], vers [[Chanokh-qui-marche-avec-Elohim]].

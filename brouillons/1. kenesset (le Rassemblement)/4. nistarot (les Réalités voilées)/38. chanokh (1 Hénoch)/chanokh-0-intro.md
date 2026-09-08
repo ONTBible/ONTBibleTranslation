@@ -38,19 +38,19 @@ Ce que ce régime déclare est précis : ==cette vision appartient à celui qui 
 
 Sa réponse est architecturale : il fut mené à travers les étendues et il vit ==les structures que le regard ordinaire ne traverse pas== — le trône et ce qui l'entoure, les gardiens qui ont quitté leur garde, les luminaires et le compte des jours, les lots assignés, et le terme.
 
-## Les 'irin, et le mot que dix-huit siècles ont perdu
+## Les irin, et le mot que dix-huit siècles ont perdu
 
 *C'est ce que ce livre apporte de plus lourd au corpus, et c'est aussi ce que la chaîne a le plus abîmé.*
 
-Les **'irin** (עִירִין) — les éveillés, ceux qui ne dorment pas — sont les gardiens du domaine céleste. Le grec a rendu le mot par *egrēgoroi*, le latin par *vigiles*, le français par « Veilleurs », et l'anglais par *Watchers*. Chaque maillon a gardé le sens et perdu le mot.
+Les **irin** (עִירִין) — les éveillés, ceux qui ne dorment pas — sont les gardiens du domaine céleste. Le grec a rendu le mot par *egrēgoroi*, le latin par *vigiles*, le français par « Veilleurs », et l'anglais par *Watchers*. Chaque maillon a gardé le sens et perdu le mot.
 
-L'ONT ne traduit pas : ==**'irin** est intraduisible==, et il l'est déjà dans le corpus verrouillé — le *Sefar Gibbaraya* l'emploie. Ce n'est pas de la rigueur pour elle-même. « Veilleur » évoque une sentinelle, une figure de garde nocturne ; **'irin** dit ==l'état de ne pas dormir==, ce qui est autre chose : non pas une fonction qu'on prend, mais une condition qu'on est. Et le récit tient précisément à cela — des êtres qui ne dorment jamais ==ont quitté leur poste==, ce qui n'a de sens que si le poste était leur nature.
+L'ONT ne traduit pas : ==**irin** est intraduisible==, et il l'est déjà dans le corpus verrouillé — le *Sefar Gibbaraya* l'emploie. Ce n'est pas de la rigueur pour elle-même. « Veilleur » évoque une sentinelle, une figure de garde nocturne ; **irin** dit ==l'état de ne pas dormir==, ce qui est autre chose : non pas une fonction qu'on prend, mais une condition qu'on est. Et le récit tient précisément à cela — des êtres qui ne dorment jamais ==ont quitté leur poste==, ce qui n'a de sens que si le poste était leur nature.
 
 ## Ce que ce livre a déjà donné au corpus
 
 *Il est cité avant d'être écrit, et c'est rare.* Trois livres déjà verrouillés ou en cours s'appuient sur lui :
 
-- le *Sefar Gibbaraya* (n° 37) ==présuppose son récit== : les **'irin**, [[Shemikhazah]], [[Azazel]], les **gibbaraya** nés du franchissement des domaines, et [[Chanokh-qui-marche-avec-Elohim]] scribe et médiateur à qui l'on vient demander un verdict ;
+- le *Sefar Gibbaraya* (n° 37) ==présuppose son récit== : les **irin**, [[Shemichazah]], [[Azazel]], les **gibbaraya** nés du franchissement des domaines, et [[Chanokh-qui-marche-avec-Elohim]] scribe et médiateur à qui l'on vient demander un verdict ;
 - le *Chazon Avraham* (n° 39) partage son mode et son vocabulaire — la montée, les étendues, le tableau de l'histoire vue depuis le haut ;
 - *Bereshit* 6:1-4 (verrouillé) est ce qu'il déploie : quatre versets sur les fils des **elohim**, les **Nephilim** et les **gibborim**, que la Torah pose sans expliquer.
 
@@ -58,7 +58,7 @@ L'ONT ne traduit pas : ==**'irin** est intraduisible==, et il l'est déjà dans 
 
 ## Échos dans la Berit Hadashah
 
-*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **mal'akhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **'irin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
+*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **mal'akhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **irin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
 
 Il faut lire ce que ça produit dans le bon sens, et le vault le formule ainsi : la *Berit Hadashah* ==ne projette rien — elle corrobore==. Une lettre du corpus cite comme **davar** prophétique un texte de ce courant, et son auteur suppose que ses lecteurs le connaissent.
 
@@ -82,7 +82,7 @@ Et il faut donner au lecteur la date, parce qu'elle décide de ce qu'il a sous l
 
 *Ce n'est pas un livre mais cinq*, réunis tard sous un seul **Shem**, et l'ONT les traitera comme cinq mouvements distincts :
 
-① Le livre des **'irin** *(ch. 1-36)* — la couche la plus ancienne, et celle que Qumrân couvre le mieux. La descente des **'irin**, le serment sur l'Hermon, les **gibbaraya**, l'intercession refusée, le décret, et la première traversée des étendues.
+① Le livre des **irin** *(ch. 1-36)* — la couche la plus ancienne, et celle que Qumrân couvre le mieux. La descente des **irin**, le serment sur l'Hermon, les **gibbaraya**, l'intercession refusée, le décret, et la première traversée des étendues.
 
 ② Le livre des paraboles *(ch. 37-71)* — le trône, l'Élu, le Fils de l'Homme. ==Et il faut dire ici ce que les fragments ne disent pas== : c'est la seule des cinq parties dont ==aucun fragment araméen n'est sorti de Qumrân==. Le fait est réel et il ne se cache pas ; ce qu'il faut en conclure se décidera à son heure, sur le critère ontologique et non sur l'absence.
 

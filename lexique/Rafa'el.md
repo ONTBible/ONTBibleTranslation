@@ -24,4 +24,4 @@ Dans la tradition de 1 *Chanokh*, il est ==l'un des quatre **mal'akhim** du Cons
 
 Les autres envoyés nommés : [[Mikha'el]], [[Yaho'el]].
 
-Où il paraît : la lettre de [[Chanokh-qui-marche-avec-Elohim]] à [[Shemikhazah]].
+Où il paraît : la lettre de [[Chanokh-qui-marche-avec-Elohim]] à [[Shemichazah]].

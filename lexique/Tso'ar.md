@@ -1,10 +1,12 @@
-# Tsoar
+# Tso'ar
 
 ## Prononciation
 
-`Tso-AR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+`Tso-'AR` — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le `ts` est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
+Le `'` est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 
 ## Le Shem
 

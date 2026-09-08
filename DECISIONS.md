@@ -75,7 +75,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **chata** | — | *Bereshit* 4:7 | ✓ |
 | **chattat** | chata'ah, chata'im | *Bereshit* 4:7 | ✓ |
 | **davar** | devarim | *Bereshit* 11:1 | ✓ |
-| **'irin** | — | — | ✓ |
+| **irin** | — | — | ✓ |
 | **gibbaraya** | — | — | ✓ |
 | **parashah** | parashiot | — | ✓ |
 | **basar** | — | *Bereshit* 2:23 (*basar mibesari*) | ✓ |

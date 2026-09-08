@@ -7,7 +7,7 @@
 
 ¹ Voici la parole que [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (*Chanokh* / חֲנוֹךְ) *[scribe du domaine céleste et médiateur perceptif ; il écrit ce qui lui est montré]* écrivit sur la tablette :
 
-² "Au sujet de [[Shemikhazah]] (*Shemikhazah* / שמיחזה) et de tous ses compagnons, qu'il vous soit connu que vos œuvres (*ovadkhon* / עובדכון) *[actes accomplis, non idées intérieures ; le jugement porte sur ce qui a troublé l'ordre]* ne sont pas cachées.
+² "Au sujet de [[Shemichazah]] (*Shemichazah* / שמיחזה) et de tous ses compagnons, qu'il vous soit connu que vos œuvres (*ovadkhon* / עובדכון) *[actes accomplis, non idées intérieures ; le jugement porte sur ce qui a troublé l'ordre]* ne sont pas cachées.
 
 ³ Vous avez quitté votre garde, vous avez pris des **ishah** (*nashim* / נָשִׁים), vous avez engendré des fils de démesure, et vos œuvres ont rempli la Terre de dommage (*chabala* / חבלא) *[corruption, ruine, dommage infligé à la structure habitable]*.
 
@@ -25,7 +25,7 @@
 
 ### Notes philologiques
 
-- 4Q203 fragment 8 conserve une lettre de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] à [[Shemikhazah]] et à ses compagnons : écriture de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], œuvres, femmes, fils, corruption et [[Rafa'el]]. La formulation continue de cette lettre est reconstruite ; le corps narratif garde la voix antique, et le statut critique est signalé ici.
+- 4Q203 fragment 8 conserve une lettre de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] à [[Shemichazah]] et à ses compagnons : écriture de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], œuvres, femmes, fils, corruption et [[Rafa'el]]. La formulation continue de cette lettre est reconstruite ; le corps narratif garde la voix antique, et le statut critique est signalé ici.
 - Les versets ²-⁹ suivent de près les composantes attestées, sans prétendre fournir une traduction ligne à ligne.
 - Les versets ¹⁰-¹⁹ sont une expansion contrôlée reliant la lettre aux songes et au décret du **mabbul**.
 

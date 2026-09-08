@@ -1,12 +1,12 @@
-# Shemikhazah
+# Shemichazah
 
 ## Prononciation
 
-`She-mi-kha-ZAH` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+`She-mi-cha-ZAH` — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le `sh` est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est `sh` qui porte ce son, jamais `ch`==.
 
-Le `kh` est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un `k`, ni un « ch » de « chat »==.
+Le `ch` est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
 
 ## Le Shem
 
@@ -16,7 +16,7 @@ Un nom composé et transparent : *shemi* (*shemi* / שְׁמִי) — ==mon **Sh
 
 ## Ce que le corpus en fait
 
-Il est ==le chef des **'irin**==, ceux qui ont quitté leur garde.
+Il est ==le chef des **irin**==, ceux qui ont quitté leur garde.
 
 Et son **Shem** ==porte la mémoire de la transgression collective==. C'est là ce qu'il faut voir : dans un corpus où *chazah* est le verbe de la vision prophétique — celui du *machazeh*, celui du *chazon* —, ==le chef de ceux qui ont franchi le domaine s'appelle *ce que mon nom a vu*==.
 
@@ -26,7 +26,7 @@ C'est à lui et à ses compagnons que [[Chanokh-qui-marche-avec-Elohim]] adresse
 
 ## Voir aussi
 
-Ceux qu'il conduit : les **'irin**, dont [[Baraqel]] et [[Azazel]].
+Ceux qu'il conduit : les **irin**, dont [[Baraqel]] et [[Azazel]].
 
 Ce qui en naît : les **gibbaraya**, dont [[Ohyah]], [[Hahyah]], [[Mahaway]].
 

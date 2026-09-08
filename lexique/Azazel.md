@@ -14,7 +14,7 @@ Les deux lectures convergent vers ==une figure du déplacement vers le désert==
 
 ## Ce que le corpus en fait
 
-Il est l'un des **'irin**, dans le récit de la sortie de garde.
+Il est l'un des **irin**, dans le récit de la sortie de garde.
 
 Et son **Shem** ==porte plus loin que ce récit==. Le rituel de *Vayiqra* 16 enverra un bouc ==pour Azazel== dans le désert, chargé de ce que le camp ne peut pas garder — et le mot y est le même.
 
@@ -24,6 +24,6 @@ La règle de l'ONT est de ne pas fabriquer ce lien. On relève que ==le même mo
 
 ## Voir aussi
 
-Ses compagnons : [[Shemikhazah]] leur chef, [[Baraqel]], et les autres **'irin**.
+Ses compagnons : [[Shemichazah]] leur chef, [[Baraqel]], et les autres **irin**.
 
 Où le **Shem** revient : *Vayiqra* 16, le bouc envoyé au désert.

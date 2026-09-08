@@ -36,7 +36,7 @@ Le texte ne dit pas où, ni comment. La règle de l'ONT est de ne pas combler, e
 
 Six versets en *Bereshit*, et une stature immense partout ailleurs. C'est le trait le plus frappant de ce **Shem** : ==le corpus en dit peu et s'appuie sur lui énormément==.
 
-Le *Sefar Gibbaraya* le montre en fonction. Les **gibbaraya** — les démesurés nés du franchissement des domaines — sont pris dans des songes qu'ils ne savent pas lire. Ils ne consultent ni un devin ni un de leurs pères **'irin**. Ils envoient ==Mahaway== vers lui, à travers les régions sèches et les lieux où le chemin se perd, ==jusqu'au lieu où il demeurait, loin de l'assemblée des violents==.
+Le *Sefar Gibbaraya* le montre en fonction. Les **gibbaraya** — les démesurés nés du franchissement des domaines — sont pris dans des songes qu'ils ne savent pas lire. Ils ne consultent ni un devin ni un de leurs pères **irin**. Ils envoient ==Mahaway== vers lui, à travers les régions sèches et les lieux où le chemin se perd, ==jusqu'au lieu où il demeurait, loin de l'assemblée des violents==.
 
 Et le texte prend soin de dire comment il fut appelé :
 
@@ -44,7 +44,7 @@ Et le texte prend soin de dire comment il fut appelé :
 
 C'est la définition du **navi**, écrite en creux. Le **navi** ne prédit pas d'abord — il ==lit l'alliance dans l'histoire== et prononce le **mishpat** sur ce qu'il y voit. Ceux qui ont rompu les domaines viennent chercher, non un présage, mais ==un verdict sur ce qu'ils ont fait==.
 
-Il le rend, et il l'écrit. Le *Sefar Gibbaraya* 7 s'ouvre sur la parole qu'il ==écrivit sur la tablette==, au sujet de ==Shemikhazah== et de ses compagnons : les liens sont préparés, le délai n'est plus attribué, et le **mabbul** (*mabbul* / מַבּוּל) montera comme dé-création temporaire, afin que l'ordre puisse de nouveau être nommé.
+Il le rend, et il l'écrit. Le *Sefar Gibbaraya* 7 s'ouvre sur la parole qu'il ==écrivit sur la tablette==, au sujet de ==Shemichazah== et de ses compagnons : les liens sont préparés, le délai n'est plus attribué, et le **mabbul** (*mabbul* / מַבּוּל) montera comme dé-création temporaire, afin que l'ordre puisse de nouveau être nommé.
 
 Le corpus lui donne donc trois fonctions d'un seul tenant : ==scribe du domaine céleste==, ==médiateur perceptif==, et celui qui prononce le décret. Il voit, il transmet, il consigne.
 
@@ -52,7 +52,7 @@ Le corpus lui donne donc trois fonctions d'un seul tenant : ==scribe du domaine 
 
 Sa stature va plus loin que ses actes, et c'est un point d'ontologie plutôt que d'histoire.
 
-Tout un courant du Second Temple s'écrit ==sous son nom== — le cycle de 1 *Chanokh*, dont le *Sefar Gibbaraya* présuppose le récit des **'irin** et le déploie. Le §4.15 nomme ce régime : *auteur qui restitue*. Le nom ne désigne pas la main qui a tenu le calame ; il déclare ==à qui la vérité appartient==.
+Tout un courant du Second Temple s'écrit ==sous son nom== — le cycle de 1 *Chanokh*, dont le *Sefar Gibbaraya* présuppose le récit des **irin** et le déploie. Le §4.15 nomme ce régime : *auteur qui restitue*. Le nom ne désigne pas la main qui a tenu le calame ; il déclare ==à qui la vérité appartient==.
 
 Ce n'est donc pas une fraude, et il faut le dire clairement pour ne pas lire ces livres avec nos catégories. Écrire sous le **Shem** de ==Chanokh==, c'est affirmer que ce qu'on transmet relève du savoir de celui qui cheminait avec **Elohim** — ==le témoin des choses cachées==, et le seul de l'ère d'avant le **mabbul** à avoir traversé sans mourir.
 
@@ -62,7 +62,7 @@ Que la tradition hénochienne ait été *courante* dans le judaïsme du Second T
 
 Il y a un fait que le corpus relève et qui pèse lourd : ==les **shlichim** de Yeshua tenaient cette tradition pour réelle==.
 
-*Igeret Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » — c'est ==mot pour mot la sortie de garde des **'irin**==. Et quelques versets plus loin, il ==cite nommément Chanokh== et sa prophétie.
+*Igeret Yehudah* parle des **mal'akhim** « qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure » — c'est ==mot pour mot la sortie de garde des **irin**==. Et quelques versets plus loin, il ==cite nommément Chanokh== et sa prophétie.
 
 Ce n'est pas une allusion littéraire. Une lettre de la *Berit Hadashah* cite comme **davar** prophétique un texte du courant hénochien, et son auteur suppose que ses lecteurs le connaissent.
 
@@ -78,6 +78,6 @@ Sa lignée : [[Metoushelach]] son fils, qui vivra plus longtemps que quiconque, 
 
 Le verbe qu'il inaugure : *halakh* reviendra pour [[Noach]], qui *cheminait* aussi avec **Elohim**, et Avraham s'entendra dire de cheminer devant **El Shaddai**. Ils sont trois, et il est le premier.
 
-Le monde où il exerce : les **'irin**, les **gibbaraya**, ==Shemikhazah==, ==Mahaway==, et le **mabbul** qu'il annonce.
+Le monde où il exerce : les **irin**, les **gibbaraya**, ==Shemichazah==, ==Mahaway==, et le **mabbul** qu'il annonce.
 
 Ce qui reste à écrire : le livre de *Chanokh* lui-même (n° 38 du corpus) et l'*Igeret Yehudah* qui le cite. Cette fiche s'enrichira quand ils seront là — elle repose aujourd'hui sur ce que les livres déjà écrits en disent.

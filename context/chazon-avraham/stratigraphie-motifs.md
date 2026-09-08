@@ -185,9 +185,9 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 **Triangulation :**
 - ***Bereshit* 15:11** (ONT verrouillé) — *« le rapace descendit sur les corps, et Avram le chassa »*. Le livre **identifie** le rapace anonyme de la Torah. Toute la scène est une exégèse de ce demi-verset.
-- **1 *Chanokh* 8-10** — Azazel, chef des **'irin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
+- **1 *Chanokh* 8-10** — Azazel, chef des **irin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
 - ***Vayiqra* 16:8-10, 26** — le lot pour Azazel, le bouc envoyé au désert. **Non encore traité dans l'ONT.**
-- ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **'irin**, sans gras.
+- ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **irin**, sans gras.
 
 **Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Chanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **mal'akh** est défini par son envoi et non par sa nature (§3).
 
@@ -204,7 +204,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 - **✓ Qumrân, hébreu, verbatim** — *kol kevod Adam*, « toute la **kavod** d'Adam » : **1QS 4:22-23**, **CD 3:20**, **1QHᵃ 4:14-15**. Une **kavod** perdue et **à recouvrer**, attribuée à la communauté fidèle.
 - ***Bereshit* 7-8** (ONT verrouillé) — la logique **kavod** / *qalal* : la pesanteur fonctionnelle qu'on peut alléger sans la vider.
 
-**Verdict : NOYAU ANCIEN — et pièce maîtresse du livre.** Le *Chazon Avraham* fait à Avraham ce que *Toledot* fait à Adam : la **kavod** est un **vêtement fonctionnel qui se perd et se recouvre**, et qui *change de porteur*. Mieux : les deux livres se répondent. Adam perd la **kavod** ; Avraham la reçoit — et il reçoit précisément celle qu'un être du domaine haut a quittée en quittant son lot. La logique du **Sefar Gibbaraya** est là aussi (les **'irin** qui abandonnent leur garde), et elle boucle : *ce qu'on quitte, un autre le reçoit ; la fonction ne reste jamais vacante.*
+**Verdict : NOYAU ANCIEN — et pièce maîtresse du livre.** Le *Chazon Avraham* fait à Avraham ce que *Toledot* fait à Adam : la **kavod** est un **vêtement fonctionnel qui se perd et se recouvre**, et qui *change de porteur*. Mieux : les deux livres se répondent. Adam perd la **kavod** ; Avraham la reçoit — et il reçoit précisément celle qu'un être du domaine haut a quittée en quittant son lot. La logique du **Sefar Gibbaraya** est là aussi (les **irin** qui abandonnent leur garde), et elle boucle : *ce qu'on quitte, un autre le reçoit ; la fonction ne reste jamais vacante.*
 
 C'est le motif à mettre au centre de la feuille d'introduction. Il fait tenir ensemble les trois livres du corpus étendu déjà écrits.
 
@@ -280,14 +280,14 @@ Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux
 - ***Bereshit* 3** (ONT **verrouillé**) — le *nachash* y est **la plus rusée des bêtes du champ**, traité **fonctionnellement**. C'est une décision prise et verrouillée.
 - ***Toledot Adam ve-Chavah*, Motif 3** (ONT verrouillé) — verdict explicite : *« Décision structurante : ne pas faire du serpent un Satan dans le corps. »*
 - ***Toledot*, ré-audit par la Berit Hadashah** — la ligne « serpent = **ha-satan** » y est laissée **« à trancher avec l'auteur »**, corroborée par *Machazeh Yohanan* 12:9 (« l'antique serpent »), mais en tension avec *Bereshit* 3.
-- **1 *Chanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **'irin**, non celui d'Eden.
+- **1 *Chanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **irin**, non celui d'Eden.
 
 **Verdict : LE CARREFOUR — décision d'auteur, deuxième présentation (§D.3).**
 
 Il faut être précis sur ce qui est en jeu, car ce n'est pas la même question que dans *Toledot* :
 
 - *Toledot* demandait : le serpent est-il **ha-satan** (la *fonction* d'accusation) ? — question laissée ouverte.
-- *Chazon Avraham* demande : le corrupteur d'Eden est-il **Azazel** (un être **nommé**, du dossier des **'irin**) ? — question **différente et plus lourde**, parce qu'elle ne fusionne pas deux fonctions mais deux **dossiers** distincts du corpus : celui d'Eden et celui de la descente des gardiens.
+- *Chazon Avraham* demande : le corrupteur d'Eden est-il **Azazel** (un être **nommé**, du dossier des **irin**) ? — question **différente et plus lourde**, parce qu'elle ne fusionne pas deux fonctions mais deux **dossiers** distincts du corpus : celui d'Eden et celui de la descente des gardiens.
 
 Deux éléments de plus, à porter au débat :
 1. **Le détail de la grappe** est isolé, non corroboré ailleurs → **trace**, à tenir en note quoi qu'il advienne de l'identification.
@@ -441,7 +441,7 @@ Rien de ce qui suit n'entre au texte sans arbitrage. Classé par poids.
 
 **D.2 — Azazel.** Nom propre (UC4) comme dans *Sefar Gibbaraya*, ou terme chargé promu au glossaire ? Trois éléments pour décider : *(a)* il est **déjà** dans le corpus verrouillé comme nom propre, sans gras — changer de statut serait rétroactif ; *(b)* son locus légal est *Vayiqra* 16, **non traité**, et le §3 réserve ailleurs le traitement définitif à son locus central (précédent : **chesed** renvoyé à *Shemot* 34 et *Ruth*) ; *(c)* ici il n'est pas un concept mais **un personnage qui parle**. Recommandation : **maintenir UC4**, et réserver toute promotion à *Vayiqra* 16.
 
-**D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **'irin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
+**D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **irin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
 
 **D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsava'at Lévi*, 2 *Chanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Chanokh* (n° 38) — autant la traiter une fois.
 

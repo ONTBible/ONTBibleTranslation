@@ -1,6 +1,6 @@
 # Additions ONT apportées par Toledot Adam ve-Chavah
 
-Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *Sefar Gibbaraya* a introduit **'irin** et **gibbaraya** dans le CLAUDE.md du vault, ce livre introduit les éléments ci-dessous. Au moment de l'ajout, coller ces entrées aux sections indiquées du `CLAUDE.md` ONT, puis placer le fichier verrouillé dans le slot déjà réservé :
+Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *Sefar Gibbaraya* a introduit **irin** et **gibbaraya** dans le CLAUDE.md du vault, ce livre introduit les éléments ci-dessous. Au moment de l'ajout, coller ces entrées aux sections indiquées du `CLAUDE.md` ONT, puis placer le fichier verrouillé dans le slot déjà réservé :
 
 `locked/1. kenesset (le Rassemblement)/3. ketouvim (Écrits)/36. toledot-adam-ve-chavah (Vie d'Adam et Eve)/toledot-adam-ve-chavah.md`
 
@@ -91,7 +91,7 @@ Rendus d'abord en français, **retenus en intraduisibles** (décision d'auteur) 
 Ce livre introduit le **premier envoyé céleste nommé de tout l'ONT** (vérifié : aucun Mikha'el / Gavriel / Refael / Uriel dans le corpus actuel).
 
 **Traitement — aligné sur le précédent Sefar Gibbaraya :**
-- **Nom propre → sans gras**, avec niveau 3 + glose à la première occurrence : `Mikha'el (*Mikha'el* / מִיכָאֵל) *[« qui est comme El ? » — …]*`. Exactement comme Sefar Gibbaraya rend Shemikhazah / Azazel / Mahaway (sans gras).
+- **Nom propre → sans gras**, avec niveau 3 + glose à la première occurrence : `Mikha'el (*Mikha'el* / מִיכָאֵל) *[« qui est comme El ? » — …]*`. Exactement comme Sefar Gibbaraya rend Shemichazah / Azazel / Mahaway (sans gras).
 - **Fonctionnellement un **mal'akh**** (catégorie déjà au glossaire, en gras) : l'envoyé-fonctionnaire défini par sa mission, non « ange ».
 - **Règle des 5 premières occurrences (§4.12)** : maintenir une glose d'identification de Mikha'el sur ses cinq premières apparitions **à travers tout l'ONT** (pas seulement dans ce livre). Ici c'est l'occurrence n° 1.
 
@@ -111,7 +111,7 @@ Aucune addition au CLAUDE.md nécessaire — le traitement découle des règles 
 
 **À expliciter dans le CLAUDE.md ONT (§2.5), car cela vaut pour tout l'ONT.** La forme en gras d'un intraduisible **est sa translittération exacte** — apostrophes et diacritiques compris —, jamais une francisation. Le gras du corps et la translittération de niveau 3 doivent **coïncider caractère pour caractère**.
 
-Le corpus l'applique déjà implicitement : `**mal'akh**`, `**'irin**`, `**tov me'od**`, `**El Roï**`. On l'énonce désormais comme règle. Conséquence pour ce livre : **She'ol** (et non « Sheol ») — le gras porte l'apostrophe de l'aleph, comme la translittération *She'ol*.
+Le corpus l'applique déjà implicitement : `**mal'akh**`, `**irin**`, `**tov me'od**`, `**El Roï**`. On l'énonce désormais comme règle. Conséquence pour ce livre : **She'ol** (et non « Sheol ») — le gras porte l'apostrophe de l'aleph, comme la translittération *She'ol*.
 
 ---
 

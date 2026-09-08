@@ -24,6 +24,6 @@ En plaçant ==Gilgamesh== parmi eux, ==le corpus retourne une gloire==. Il ne ni
 
 ## Voir aussi
 
-Ceux avec qui il est rangé : [[Ohyah]], [[Hahyah]], [[Hobabish]], les **gibbaraya**.
+Ceux avec qui il est rangé : [[Ohyah]], [[Hahyah]], [[Chobabish]], les **gibbaraya**.
 
 Ce que son **Shem** touche : les **gibborim** et les **Nephilim** de *Bereshit* 6, et les *anshei ha-shem*.

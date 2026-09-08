@@ -15,7 +15,7 @@
 
 ¹⁶ [[Chanokh-qui-marche-avec-Elohim|Chanokh]] écouta. ¹⁷ Il ne se hâta pas vers l'assemblée pour flatter les puissants. ¹⁸ Il ne dit pas : "La force peut détourner ce qui est décrété." ¹⁹ Il se tint dans sa fonction de scribe et de témoin.
 
-²⁰ Alors [[Chanokh-qui-marche-avec-Elohim|Chanokh]] écrivit, non seulement pour les **gibbaraya**, mais pour [[Shemikhazah]] et tous ses compagnons. ²¹ Car les fils portaient la violence, mais les pères avaient franchi la garde.
+²⁰ Alors [[Chanokh-qui-marche-avec-Elohim|Chanokh]] écrivit, non seulement pour les **gibbaraya**, mais pour [[Shemichazah]] et tous ses compagnons. ²¹ Car les fils portaient la violence, mais les pères avaient franchi la garde.
 
 ### Notes philologiques
 
@@ -28,12 +28,12 @@
 
 - La force des **gibbaraya** ne lit pas le décret.
 - [[Chanokh-qui-marche-avec-Elohim|Chanokh]] ne modifie pas le domaine céleste ; il transmet ce qui lui est donné à comprendre.
-- La transgression première demeure celle des **'irin**.
+- La transgression première demeure celle des **irin**.
 
 ### Parallèles bibliques éventuels
 
 - *Bereshit* 5:24 : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] marche avec **Elohim** (*elohim* / אֱלֹהִים).
-- 1 *==Chanokh==* 12-16 : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] envoyé vers les **'irin**.
+- 1 *==Chanokh==* 12-16 : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] envoyé vers les **irin**.
 - *Daniel* 2 : le songe requiert révélation.
 
 ---

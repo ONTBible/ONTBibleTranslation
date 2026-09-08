@@ -153,7 +153,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**chata**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **ra** — **chata** est l'acte, **ra** est l'état. Premier emploi *Bereshit* 4:7.
 - `**chattat**` / `**chata'ah**` / `**chata'im**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
-- `**'irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Chanokh*).
+- `**irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Chanokh*).
 - `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un ==blanc== laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc ==mille ans avant== les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**basar**` — intraduisible : la chair en tant qu'==existence incarnée, fragile et partagée== (בָּשָׂר). Non « chair » au sens moral que le français a pris — ce n'est ni le contraire de l'esprit ni le siège du désir : c'est ==ce par quoi on est un vivant parmi les vivants==, ce qui meurt et ce qui peut ressusciter. C'est ce qu'un **mal'akh** n'a pas, et c'est pourquoi il ne peut ni mourir ni transformer ce qui meurt. Premier emploi *Bereshit* 2:23 (*basar mibesari*).
@@ -667,8 +667,9 @@ Trois choses en sont sorties, qu'il faut garder :
 - ==deux collisions homographes assumées== — `Hevron` devient `Chevron`, et
   `hut` (חוּט, le fil) devient `chut`. Le contexte les lève, mais elles
   surprendront ;
-- ==l'araméen est resté dehors== — `Hobabish`, `Shemikhazah` : le §2.9 ne
-  légifère que sur l'hébreu, et l'araméen a déjà son exception avec `**'irin**`.
+- ==l'araméen est resté dehors== — `Chobabish`, `Shemichazah` : le §2.9 ne
+  légifère que sur l'hébreu. ==Cette réserve est levée le jour même== : voir
+  « Ce que cette règle ne tranche pas encore », où l'araméen rejoint le système.
   ==À trancher par l'auteur== ;
 - ==un chantier annoncé qui n'existait pas==, et il vaut d'être gardé pour
   cela. J'avais relevé que `Chivi`, `Chamati`, `Chitti` et `Chorim` ont pour
@@ -717,13 +718,29 @@ tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
 
 #### Ce que cette règle ne tranche pas encore
 
-- **`**'irin**` garde son apostrophe initiale** (עִירִין), et c'est une
-  exception assumée — décision de l'auteur du 7 septembre 2026. Le §2.9 ne
-  légifère que sur l'hébreu ; `**'irin**` est de l'==araméen==, et l'apostrophe
-  y marque le ayin initial que la règle hébraïque laisse tomber. Sa fiche a été
-  renommée `lexique/'irin.md` pour que le terme et son fichier s'accordent.
-  C'est le seul terme du corpus dans ce cas, et c'est pourquoi il est écrit ici
-  plutôt que laissé à la mémoire.
+- ==La règle vaut pour l'araméen aussi== — décision de l'auteur du 8 septembre
+  2026. C'est ==le même alphabet, les mêmes lettres, les mêmes valeurs==, et le
+  corpus le faisait déjà sans que rien ne l'ait écrit : `chelmin` (חלמין),
+  `chabala` (חבלא), `qebalah` (קבלה), `ovadkhon` (עובדכון) suivent tous le
+  système. Deux mots seuls divergeaient, corrigés avec cette décision —
+  `Chobabish` (חובבש) et `Shemichazah` (שמיחזה), qui écrivaient leur het en `h`
+  et en `kh`.
+
+  ==L'exception de `**irin**` est tombée avec.== Elle avait été posée le 7
+  septembre au motif que l'araméen marquerait le ayin initial ; ==le corpus la
+  contredisait dans sa propre langue== — `Azazel` (עזאזל) et `ovadkhon`
+  (עובדכון) ont le même ayin initial et n'ont jamais porté d'apostrophe.
+
+  ==Et le critère retenu est linguistique, non pratique.== L'apostrophe de l'ONT
+  ne note pas une lettre : ==elle coupe une syllabe==. Sans elle, `mal'akh` se
+  lirait `malakh`, les deux `a` fondus. En position ==initiale== il n'y a rien à
+  couper — toute syllabe commence par une consonne —, donc l'apostrophe n'y
+  ajoute aucune information. Le terme s'écrit désormais `**irin**`, sa fiche
+  avec.
+
+  *(L'usage savant marque bien le ayin partout, mais avec `ʿ`, un demi-anneau —
+  un ==diacritique==, que l'ONT a écarté pour les raisons du §2.12. ==On ne
+  prend pas la moitié d'un système.==)*
 - Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
   selon l'oreille, sans système déclaré, et rien n'a encore divergé.
 
@@ -769,7 +786,7 @@ ce que quelqu'un a tapé n'est pas une correction, c'est une réécriture==.
 
 **Un chantier ouvert, mesuré et non traité : le het rendu `h`.** ==98
 appariements== où l'hébreu porte un ח et la translittération un `h` sans `ch` —
-*Terach* (תֶּרַח), *Nachor*, *Shelach*, *Chavila*, *Hobabish*, *mishpechotam*. Il est
+*Terach* (תֶּרַח), *Nachor*, *Shelach*, *Chavila*, *Chobabish*, *mishpechotam*. Il est
 ==bien plus délicat== que celui-ci : le het y est souvent ==final==, et un het
 final après voyelle ne se traite pas comme un het initial. Plusieurs de ces
 formes sont en outre des noms propres déjà fixés dans des chapitres verrouillés.

@@ -175,7 +175,7 @@ De là une échelle, et il faut la lire de haut en bas comme un seul mouvement :
 
     nommés par YHWH, fonction tournée vers El      les mal'akhim nommés
     sans nom, activés puis dissous                  les mal'akhim anonymes
-    sans nom, au conseil                            les **'irin** fidèles
+    sans nom, au conseil                            les **irin** fidèles
     nommés, fonction pervertie du dedans            les gardiens des nations
     nommés par eux-mêmes                            ceux qui sont tombés
 

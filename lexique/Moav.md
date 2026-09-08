@@ -12,7 +12,7 @@
 
 ## Ce que le corpus en fait
 
-C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tsoar]].
+C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tso'ar]].
 
 Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
 

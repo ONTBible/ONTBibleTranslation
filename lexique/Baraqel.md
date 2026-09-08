@@ -12,7 +12,7 @@ Le `q` est un ==qof== : un `k` produit ==tout au fond, contre la luette==.
 
 ## Ce que le corpus en fait
 
-Il est l'un des **'irin**, et ==le père de [[Mahaway]]==.
+Il est l'un des **irin**, et ==le père de [[Mahaway]]==.
 
 Ce **Shem** dit quelque chose de leur condition. Ces êtres portent ==des noms qui contiennent **El**== — l'éclair d'El, mon **Shem** a vu — et ce sont eux qui franchissent le domaine.
 
@@ -22,6 +22,6 @@ Le corpus le pose ici sans le commenter, et c'est plus dur ainsi.
 
 ## Voir aussi
 
-Ses compagnons : [[Shemikhazah]], [[Azazel]], et les **'irin**.
+Ses compagnons : [[Shemichazah]], [[Azazel]], et les **irin**.
 
 Son fils : [[Mahaway]].
