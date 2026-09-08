@@ -3307,17 +3307,33 @@ tire le vault au moment où elle tourne, et n'avait pas encore vu le travail du
 jour.
 
 C'est une **prémisse périmée** et non fausse — la distinction est déjà dans le
-skill `concerter-les-sessions`. Mais son constat, lui, n'y est pas, et il vaut
-mieux que la catégorie :
+skill `concerter-les-sessions`, avec les deux autres.
 
-> ==La donnée était exacte **et datée**, et rien dans sa forme ne portait sa
-> date.==
+**Et il faut dire comment cette entrée a rétréci avant d'être portée**, parce que
+c'est le meilleur du fil. Je l'avais d'abord écrite ainsi : *la donnée était
+exacte et datée, et rien dans sa forme ne portait sa date*. La session Android a
+rouvert le skill et m'a montré qu'il porte déjà l'exemple qui la contredit :
 
-Le skill demande déjà qu'un compte se rapporte avec ==son outil== et ==sa
-référence==. Il ne demande pas l'instant. Or les deux cas du jour ont ce trou :
-`git branch -r` d'un côté, « 235 > 224 » de l'autre — deux mesures justes dont la
-forme ne dit pas de quand elles datent. **Un relevé dont la validité expire doit
-porter ce qui l'a établi et quand**, ou il survivra à ce qu'il mesurait.
+    « 0 par `git grep -F` sur `origin/android-suite` @ `d120907` »
+
+Ce `@ d120907` ==date le relevé== : un SHA fixe un état. Pour tout ce qui se
+mesure sur git, la règle existante suffit, et ma formulation ne faisait que la
+redire — ==une règle qui en redit une autre les affaiblit toutes les deux==.
+
+**Ce qui reste, et qui est neuf, est plus étroit :**
+
+> ==Une mesure qui n'est pas une mesure git n'a aucun SHA à donner.==
+
+« 235 liens morts pour un plafond de 224 » ne se rattache à rien qui le date.
+« La CI est verte » non plus, ni une taille de disque, ni un temps de
+construction. Ce sont ==celles-là== qui périment en silence, parce que la règle
+de l'outil et de la référence ne leur donne aucune prise. Elles doivent porter
+==ce sur quoi elles ont été prises et quand== — pour un compte de pipeline, la
+révision du vault qu'il a lue ; pour un état de CI, l'exécution nommée.
+
+Et le fait que l'entrée ait rétréci ==avant== d'être portée dans les trois dépôts
+est le seul mérite du procédé : une formulation trop large, portée trois fois,
+aurait été trois fois plus longue à défaire.
 
 #### Ce que le vault a décidé d'autre, et qui traverse
 
