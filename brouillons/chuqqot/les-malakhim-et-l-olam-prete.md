@@ -173,11 +173,11 @@ reste.
 
 De là une échelle, et il faut la lire de haut en bas comme un seul mouvement :
 
-    nommés par YHWH, fonction tournée vers El      les malʾakhim nommés
-    sans nom, activés puis dissous                  les malʾakhim anonymes
-    sans nom, au conseil                            les **irin** fidèles
-    nommés, fonction pervertie du dedans            les gardiens des nations
-    nommés par eux-mêmes                            ceux qui sont tombés
+- les **malʾakhim** nommés — nommés par **YHWH**, fonction tournée vers **El**
+- les **malʾakhim** anonymes — sans nom, activés puis dissous
+- les **irin** fidèles — sans nom, au conseil
+- les gardiens des nations — nommés, fonction pervertie du dedans
+- ceux qui sont tombés — ==nommés par eux-mêmes==
 
 Plus on descend, plus le **Shem** ==se retourne vers soi== au lieu de pointer
 vers **El**.

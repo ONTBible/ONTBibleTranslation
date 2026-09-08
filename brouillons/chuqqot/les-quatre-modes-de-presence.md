@@ -227,8 +227,8 @@ montagne du [[Sinai]].
 
 Alors mets les deux scènes côte à côte, et le renversement est entier :
 
-    ce jour-là     YHWH descend sur la montagne, le peuple se tient au pied
-    maintenant     il habite le rassemblement lui-même
+- ==ce jour-là== — **YHWH** descend sur la montagne, le peuple se tient au pied
+- ==maintenant== — il habite le rassemblement lui-même
 
 > ==Le peuple est la montagne.==
 

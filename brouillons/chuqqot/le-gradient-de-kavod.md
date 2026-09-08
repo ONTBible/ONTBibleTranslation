@@ -58,8 +58,8 @@ d'autre, ce qu'il faut être pour se tenir là n'est pas le même.
 Dans le cosmos, il y a le *raqia*, la Voûte. Et il fait ==exactement la même
 chose==, à l'autre échelle.
 
-    dans le Bayit     le parokhet     entre le Lieu et le Lieu très qodesh
-    dans le cosmos    le raqia        entre l'espace habitable et ce qui est au-dessus
+- dans le *Bayit*, le *parokhet* — entre le Lieu et le Lieu très **qodesh**
+- dans le cosmos, le *raqia* — entre l'espace habitable et ce qui est au-dessus
 
 Ce n'est pas une comparaison poétique. ==C'est le même édifice==, décrit deux
 fois : le sanctuaire est une maquette du cosmos, le cosmos est le sanctuaire en

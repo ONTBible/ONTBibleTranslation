@@ -3372,3 +3372,49 @@ affirmation :
   le pipeline comme les autres. ==Attention au dérivé== : `kelim` retombe sur le
   lemme `kli`, et c'est la canonisation à l'émission qui le rabat — sans elle il
   paraît en lien mort, ce qu'il fait aujourd'hui quatre fois sur `dev`.
+
+---
+
+### 8 septembre 2026 — une PR peut porter une condition que sa branche ne connaît pas
+
+**La règle, d'abord, parce que c'est elle qui sert.**
+
+> Toute PR dont le corps porte une réserve de l'auteur — le bloc
+> ==⚠ Ne pas fusionner sans un mot de l'auteur== — exige, avant fusion, la
+> réponse de l'auteur ==citée dans la PR==. Quelle que soit la branche.
+
+Le ruleset dit ==ce que le dépôt autorise==. Le corps de la PR dit ==ce que
+celle-ci attend==. ==Les deux se lisent.==
+
+**Ce qui l'a fait écrire.** ONTBibleApp#232 a été fusionnée sans mot de
+l'auteur. La branche visée était `device`, et le `CLAUDE.md` de l'app est
+formel : *« `device` porte les signatures et interdit la réécriture, mais pas la
+pull request : c'est la voie de travail »*. La règle générale permettait donc la
+fusion, et elle a été vérifiée — pas crue — à l'API des règles :
+
+    device   deletion · non_fast_forward · required_signatures
+    dev      les mêmes, plus pull_request et required_status_checks
+
+**Mais le corps de la PR portait, ligne 43 :**
+
+> ## ⚠ Ne pas fusionner sans un mot de l'auteur
+> Il a dit **comprendre** la correction, sans donner le feu vert.
+
+Elle n'a pas été lue. Et il y a plus gênant que l'oubli : ==la même session avait
+relayé trois fois à l'auteur que cette PR attendait son mot==, puis l'a fusionnée
+sans le lui redemander. Ce n'est pas une contradiction pesée, c'est une réserve
+oubliée pendant qu'on vérifiait autre chose.
+
+**Ce que l'auteur a décidé** — par sélecteur, le jour même : ==garder la fusion
+et sanctuariser la règle==. Le correctif était mesuré et bon — 235 liens morts
+ramenés à 0 —, et détruire un correctif juste pour réparer un vice de forme
+aurait coûté plus que le vice.
+
+**Le motif, pour les trois dépôts.** Une permission de branche est ==générale et
+permanente== ; une réserve de PR est ==particulière et datée==. La seconde
+l'emporte, et elle ne se voit qu'en ouvrant la PR — jamais en interrogeant le
+ruleset, qui répondra toujours que tout va bien.
+
+C'est la forme exacte de ce que ce journal a nommé le même jour à propos des
+mesures : ==l'instrument répond juste à la question qu'on lui pose==, et la
+question n'était pas la bonne.

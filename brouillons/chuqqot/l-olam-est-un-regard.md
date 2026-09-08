@@ -172,8 +172,8 @@ aussitôt : le monde présent et l'autre monde, deux étages, deux lieux.
 C'est une lecture tardive, et elle est fausse. Ce sont ==deux états de
 visibilité== :
 
-    l'olam d'ici        ce qui est présentement accessible à un regard ordinaire
-    l'olam qui vient    ce qui excède ce seuil, ou ne s'y donne pas encore
+- ==l'**olam** d'ici== — ce qui est présentement accessible à un regard ordinaire
+- ==l'**olam** qui vient== — ce qui excède ce seuil, ou ne s'y donne pas encore
 
 ==Pas deux endroits. Deux régimes.== Et c'est pourquoi il n'y a jamais eu, dans
 l'hébreu ancien, de mur entre un monde matériel et un monde spirituel : ==il n'y

@@ -165,11 +165,11 @@ d'entrée==.
 
 Et les cinq dimensions convergent toutes vers cet unique office :
 
-    shaliach   il est lancé d'en haut vers ici
-    roʿeh      il voit d'en haut pour conduire ici
-    chozeh      il pénètre ce qui reste voilé
-    mevaser    il annonce ici ce qui est déjà acquis là-haut
-    moreh      il forme ici des kelim capables de tenir ce poids
+- le **shaliach** — il est lancé d'en haut vers ici
+- le **roʿeh** — il voit d'en haut pour conduire ici
+- le **chozeh** — il pénètre ce qui reste voilé
+- le **mevaser** — il annonce ici ce qui est déjà acquis là-haut
+- le **moreh** — il forme ici des **kelim** capables de tenir ce poids
 
 ### Pourquoi on l'a découpé en cinq métiers
 
