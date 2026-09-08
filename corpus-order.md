@@ -65,7 +65,7 @@ L'IDE trie alphabétiquement — les préfixes numériques forcent l'ordre fonct
 | 23 | *Tsefanyah* (Sophonie) |
 | 24 | *Haggai* (Aggée) |
 | 25 | *Zekharyah* (Zacharie) |
-| 26 | *Malakhi* (Malachie) |
+| 26 | *Mal'akhi* (Malachie) |
 
 ### Kenesset — Ketouvim (27-37)
 

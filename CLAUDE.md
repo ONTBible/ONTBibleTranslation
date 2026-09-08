@@ -494,7 +494,7 @@ où ils seront écrits.
 | Sophonie | *Tsefanyah* | צְפַנְיָה |
 | Aggée | *Haggai* | חַגַּי |
 | Zacharie | *Zekharyah* | זְכַרְיָה |
-| Malachie | *Malakhi* | מַלְאָכִי |
+| Malachie | *Mal'akhi* | מַלְאָכִי |
 
 **Répertoire des noms hébraïques — Ketouvim (Écrits) :**
 | Nom français | Translittération | Hébreu |
