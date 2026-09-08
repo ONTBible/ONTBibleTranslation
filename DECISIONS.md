@@ -13,6 +13,8 @@ désigné, et cet index n'en est qu'une table.*
 | `SYNCHRONISATION.md` | 2812 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `elohim`… |
+| `brouillons/khuqqot/les-quatre-modes-de-presence.md` | 141 | …sente khuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrem… |
+| `brouillons/khuqqot/les-quatre-modes-de-presence.md` | 143 | … mot paraisse une seule fois. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
 | `corpus-order.md` | 212 | …e survit qu'en guèze. | fichier À confirmer par l'auteur |
 | `corpus-order.md` | 217 | … son hébreu est perdu. | témoin À confirmer par l'auteur |
 | `lexique/Shem-fils-de-Noach.md` | 7 | …un arbitrage verset par verset, réservé à l'auteur. |
@@ -230,4 +232,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*379 fichiers parcourus · 320 fiches dans `lexique/`.*
+*380 fichiers parcourus · 320 fiches dans `lexique/`.*
