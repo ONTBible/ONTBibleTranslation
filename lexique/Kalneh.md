@@ -1,4 +1,4 @@
-# Khalneh
+# Kalneh
 
 ## Prononciation
 
@@ -8,13 +8,13 @@ Le *kh* est un ==khaf== : frottement contre le palais mou — le *ch* de l'allem
 
 ## Le Shem
 
-(*Khalneh* / כַּלְנֵה) — une ville du pays de [[Shinʿar]], dans le domaine de [[Nimrod]].
+(*Kalneh* / כַּלְנֵה) — une ville du pays de [[Shinʿar]], dans le domaine de [[Nimrod]].
 
 Sa localisation exacte reste incertaine, et l'ONT ne tranche pas.
 
 ## Ce que le corpus en fait
 
-Elle complète le quatuor du premier *mamlakhah* : [[Bavel]], [[Erekh]], [[Akkad]] et ==Khalneh==.
+Elle complète le quatuor du premier *mamlakhah* : [[Bavel]], [[Erekh]], [[Akkad]] et ==Kalneh==.
 
 Le corpus ne la reprend pas dans *Bereshit*. *Amos* 6:2 la nommera pour dire à Israël de regarder ce qu'elle est devenue — ==une ville qu'on cite en exemple de chute==.
 

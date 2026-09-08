@@ -961,7 +961,7 @@ mécanique aurait corrigé quatre formes de plus, toutes à tort :
 - `khen` — ==כֵן, un vrai khaf==. C'est la formule d'accomplissement du §2.4,
   *vayehi khen*. Dix occurrences justes, qu'un remplacement en masse aurait
   détruites ;
-- `kha`, `khaf`, `khol`, `khshad`, `Kheruvim`, `Khalneh` — ==tous des khaf==
+- `kha`, `khaf`, `khol`, `khshad`, `Keruvim`, `Kalneh` — ==tous des khaf==
   (כְּ, כ, כֹּל, כְּרֻבִים, כַּלְנֵה) ;
 - `khata` — c'est ==le contre-exemple pédagogique== de la section ci-dessus, qui
   cite la graphie fautive pour l'interdire. La corriger aurait effacé la règle ;

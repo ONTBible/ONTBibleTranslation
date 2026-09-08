@@ -11,7 +11,7 @@
 
 ⁵ [[Shet]] dit à la bête : « Tais-toi et retire-toi de devant celui qu'**Elohim** a établi, jusqu'au jour du **mishpat** (*mishpat* / מִשְׁפָּט) *[le jugement rendu dans l'ordre cosmique]*. » ⁶ Et la bête le laissa et s'en retourna dans son lieu.
 
-⁷ Ils vinrent à la porte du Jardin, là où se tenaient les [[Kheruvim]] et la flamme de l'épée tournoyante ; ⁸ et ils tombèrent la face contre terre, et supplièrent longtemps pour Adam.
+⁷ Ils vinrent à la porte du Jardin, là où se tenaient les [[Keruvim]] et la flamme de l'épée tournoyante ; ⁸ et ils tombèrent la face contre terre, et supplièrent longtemps pour Adam.
 
 ⁹ Alors [[Mikhaʾel]] (*Mikhaʾel* / מִיכָאֵל) *[« qui est comme **El** ? » — le **malʾakh** (*malʾakh* / מַלְאָךְ) posté à la garde : l'envoyé-mandaté de **YHWH**]* se tint à la porte et dit : ¹⁰ « [[Shet]], homme d'**Elohim**, ne te fatigue pas à supplier pour l'onction de l'arbre de la Vie : elle ne sera pas donnée maintenant. Le chemin demeure gardé jusqu'au temps fixé (*moʿed* / מוֹעֵד). ¹¹ Retourne vers ton père : le terme de sa mesure est venu, et cela aussi est dans l'ordre. »
 

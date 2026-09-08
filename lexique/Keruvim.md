@@ -1,4 +1,4 @@
-# Kheruvim
+# Keruvim
 
 ## Prononciation
 
@@ -10,7 +10,7 @@ Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de
 
 ## Le Shem
 
-(*Kheruvim* / הַכְּרֻבִים) — pluriel de *keruv*. L'étymologie est débattue ; on la rapproche d'une racine akkadienne qui dit ==celui qui intercède== ou ==qui bénit==.
+(*Keruvim* / הַכְּרֻבִים) — pluriel de *keruv*. L'étymologie est débattue ; on la rapproche d'une racine akkadienne qui dit ==celui qui intercède== ou ==qui bénit==.
 
 ## Ce que le corpus en fait
 

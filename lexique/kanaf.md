@@ -12,6 +12,6 @@ De ce glissement naît une des images les plus reprises du corpus, et elle cesse
 
 Le geste est même un acte juridique : rabattre son pan sur quelqu'un, c'est le prendre en charge. ==Ruth== le demande en toutes lettres à ==Boaz== — *étends ta ==kanaf== sur ta servante* —, et ce n'est pas une déclaration d'amour, c'est une demande de protection légale.
 
-Le mot revient enfin pour les êtres du domaine d'en haut. Les *kheruvim* du sanctuaire étendent leurs ==kanfei== au-dessus du couvercle, et les vivants de la **merkavah** en ont plusieurs paires. L'aile n'y dit pas qu'ils volent comme des oiseaux : elle dit ==qu'ils appartiennent au domaine d'en haut== et qu'ils couvrent ce qui est en dessous.
+Le mot revient enfin pour les êtres du domaine d'en haut. Les *keruvim* du sanctuaire étendent leurs ==kanfei== au-dessus du couvercle, et les vivants de la **merkavah** en ont plusieurs paires. L'aile n'y dit pas qu'ils volent comme des oiseaux : elle dit ==qu'ils appartiennent au domaine d'en haut== et qu'ils couvrent ce qui est en dessous.
 
 Un même mot pour l'aile d'un moineau, le pan d'un manteau et l'extrémité du monde — et rien d'incohérent là-dedans : partout, ==ce qui s'étend et abrite==.

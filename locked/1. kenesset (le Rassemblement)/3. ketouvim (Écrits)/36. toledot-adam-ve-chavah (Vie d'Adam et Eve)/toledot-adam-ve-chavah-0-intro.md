@@ -92,4 +92,4 @@ Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que
 - **merkavah** (*merkavah* / מֶרְכָּבָה) — *intraduisible* : le trône-char de **YHWH** **Elohim** vu en vision (Yehezqel, Ez 1) — déjà nommé au CLAUDE.md ; premier emploi en corps de texte ici.
 - [[Mikhaʾel]] — *premier envoyé céleste nommé de l'ONT* : nom propre (sans gras), fonctionnellement un **malʾakh** (non « ange »).
 - *Noms propres* (Adam, [[Chavah]], [[Shet]], [[Hevel]], [[Qayin]]) — sans gras, niveau 3 + glose à la première occurrence.
-- *Fondations parallèles* : *Bereshit* 2 (Eden-Temple, *Neshamah*, *ish* / *ishah*) et *Bereshit* 3 (le *nachash*, *tov vara*, la nudité, les [[Kheruvim]], l'arbre de la Vie).
+- *Fondations parallèles* : *Bereshit* 2 (Eden-Temple, *Neshamah*, *ish* / *ishah*) et *Bereshit* 3 (le *nachash*, *tov vara*, la nudité, les [[Keruvim]], l'arbre de la Vie).

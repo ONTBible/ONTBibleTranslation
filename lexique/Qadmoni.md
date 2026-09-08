@@ -23,7 +23,7 @@ Qadmoni dit donc ==celui de devant== — l'Oriental, et par la même syllabe l'A
 
 Elle traverse le corpus, et à chaque fois elle emporte les deux sens avec elle.
 
-Le Jardin est planté (*miqqedem* / מִקֶּדֶם) — à l'orient, ou depuis l'origine ; les deux lectures tiennent, et l'ONT ne les sépare pas. Les [[Kheruvim]] sont postés à l'orient du Jardin, du côté d'où l'on regarde. Et quand [[Lot]] choisit le bassin du [[Yarden]], le texte dit qu'il part *miqqedem* — un déplacement vers l'orient qui est, dans ce récit, ==un éloignement fonctionnel==.
+Le Jardin est planté (*miqqedem* / מִקֶּדֶם) — à l'orient, ou depuis l'origine ; les deux lectures tiennent, et l'ONT ne les sépare pas. Les [[Keruvim]] sont postés à l'orient du Jardin, du côté d'où l'on regarde. Et quand [[Lot]] choisit le bassin du [[Yarden]], le texte dit qu'il part *miqqedem* — un déplacement vers l'orient qui est, dans ce récit, ==un éloignement fonctionnel==.
 
 C'est pourquoi un peuple nommé « ceux de devant » n'est pas seulement situé sur une carte. Le **Shem** le place ==du côté de l'origine==, dans la direction d'où l'on vient.
 
@@ -41,7 +41,7 @@ Elle repose sur *Bereshit* 15:19, unique mention, et sur la racine *qedem* telle
 
 ## Voir aussi
 
-La racine ailleurs : le Jardin planté *miqqedem*, les [[Kheruvim]] postés à l'orient, et [[Lot]] qui s'en va *miqqedem* vers le bassin du [[Yarden]].
+La racine ailleurs : le Jardin planté *miqqedem*, les [[Keruvim]] postés à l'orient, et [[Lot]] qui s'en va *miqqedem* vers le bassin du [[Yarden]].
 
 Les neuf autres de la liste : [[Qeni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 

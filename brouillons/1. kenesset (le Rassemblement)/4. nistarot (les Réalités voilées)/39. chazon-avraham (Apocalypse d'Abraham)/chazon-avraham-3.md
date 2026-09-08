@@ -27,7 +27,7 @@
 
 ## Le feu
 
-¹³ que le feu (*esh* / אֵשׁ) descendit *[il ==descend==, comme la voix. Toute cette **parashah** est faite de choses qui viennent d'en haut, après deux **parashiot** où l'enfant essayait de remonter]*, ¹⁴ et il mangea (*akal* / אָכַל) *[le feu « mange » en hébreu — verbe ordinaire, non métaphore. Le même qu'à la **parashah** ②, où le feu avait mangé [[Barisat]], le dieu de bois posé pour le garder. ==Ce qui avait consumé un dieu consume maintenant la maison qui les fabriquait==]* [[Terach]] mon père, et sa maison, et tout ce qui était dedans *[le témoin le plus ancien nomme celui qui périt, et l'ONT le rend — ==il ne corrige pas un témoin sur la foi d'un autre== (§4.11).]* *[Ce que *Bereshit* 11:32 dit par ailleurs de la fin de [[Terach]] est une tension réelle, et elle est portée en note plutôt qu'effacée ici]*, ¹⁵ jusqu'au sol, quarante coudées *[==quarante== — unité fonctionnelle hébraïque de la transformation (§4.10) : la durée ou la mesure qu'il faut pour qu'une réalité change d'état.]* *[Elle ne dit pas une profondeur d'arpenteur mais ==l'achèvement d'un défaire==. Ce n'est pas la maison qui brûle, c'est le sol sous elle qui cesse d'être un lieu]*.
+¹³ que le feu (*esh* / אֵשׁ) descendit *[il ==descend==, comme la voix. Toute cette **parashah** est faite de choses qui viennent d'en haut, après deux **parashiot** où l'enfant essayait de remonter]*, ¹⁴ et il mangea (*akhal* / אָכַל) *[le feu « mange » en hébreu — verbe ordinaire, non métaphore. Le même qu'à la **parashah** ②, où le feu avait mangé [[Barisat]], le dieu de bois posé pour le garder. ==Ce qui avait consumé un dieu consume maintenant la maison qui les fabriquait==]* [[Terach]] mon père, et sa maison, et tout ce qui était dedans *[le témoin le plus ancien nomme celui qui périt, et l'ONT le rend — ==il ne corrige pas un témoin sur la foi d'un autre== (§4.11).]* *[Ce que *Bereshit* 11:32 dit par ailleurs de la fin de [[Terach]] est une tension réelle, et elle est portée en note plutôt qu'effacée ici]*, ¹⁵ jusqu'au sol, quarante coudées *[==quarante== — unité fonctionnelle hébraïque de la transformation (§4.10) : la durée ou la mesure qu'il faut pour qu'une réalité change d'état.]* *[Elle ne dit pas une profondeur d'arpenteur mais ==l'achèvement d'un défaire==. Ce n'est pas la maison qui brûle, c'est le sol sous elle qui cesse d'être un lieu]*.
 
 ¹⁶ Et il n'en resta rien qui se tînt debout (*qum* / קוּם) *[se tenir debout, et par là ==tenir==. Le verbe de la **berith** que **YHWH** *meqim*, fait se tenir. À la **parashah** ①, [[Terach]] avait dû s'y reprendre pour faire tenir [[Merumath]] debout ; ici plus rien ne tient, et personne ne recommence]*.
 
@@ -53,7 +53,7 @@
 
 - *==Asaf== (v.9) — « afin que tu ne sois pas emporté ». Le verbe dit *recueillir, ramasser avec*, et c'est ce qui écarte la lecture morale : ==il n'y a pas de sentence contre [[Avraham]]==, il y a un lot dont il sortirait ou non. Rester, c'est partager le sort de ce à quoi l'on tient. Le §4.7 interdit la culpabilité subjective comme catégorie ; le texte, lui, ne la connaît pas.*
 
-- *==Le feu qui avait déjà mangé.== Le même verbe *akal* revient de la **parashah** ②, où le feu avait mangé [[Barisat]], le dieu de bois qu'on avait posé pour le garder. ==Ce qui a consumé un dieu consume la maison qui les fabriquait== : le récit n'a pas besoin de le dire, il lui suffit de reprendre le mot.*
+- *==Le feu qui avait déjà mangé.== Le même verbe *akhal* revient de la **parashah** ②, où le feu avait mangé [[Barisat]], le dieu de bois qu'on avait posé pour le garder. ==Ce qui a consumé un dieu consume la maison qui les fabriquait== : le récit n'a pas besoin de le dire, il lui suffit de reprendre le mot.*
 
 - *==Le feu prend Terach, et c'est le témoin ancien qui le dit.== La question s'est posée en écrivant, et elle a été tranchée sur les manuscrits plutôt que sur la vraisemblance.*
 
@@ -69,7 +69,7 @@
 
     *Le §4.14 donne de quoi tenir les deux sans les confondre. Ce livre ne fait pas de chronologie — il dit ==ce que la maison est devenue==, et il le dit depuis une consignation postérieure au Ḥurban, portant une tradition et non un registre. La Torah dit où et quand [[Terach]] meurt ; ce témoin-ci dit ce que le feu a pris. Le lecteur reçoit les deux, et l'apparat lui dit qu'ils divergent.*
 
-- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *raʾah*, *akal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaf* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
+- *==Restitution du niveau 3== — le livre ne nous parvient dans aucune langue qui soit la sienne (intro). Restitués ici : *bara*, *raʾah*, *akhal*, *qum*, *lev*, que le corpus fixe déjà ; *qol*, *baqash*, *yatsa*, *asaf* ; et *esh*. Là où la chaîne ne donne rien, on s'abstient.*
 
 ### Ancrages dans le corpus ONT
 
