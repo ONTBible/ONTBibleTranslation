@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-*Ke-na-'a-NI* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Ke-na-ʿa-NI* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
 

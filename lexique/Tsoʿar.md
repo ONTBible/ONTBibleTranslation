@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-*Tso-'AR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*Tso-ʿAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 

@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-*te-vi-LAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*te-vi-LA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *te-vi-LA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
 
 On descend dans l'eau. On disparaît entièrement — la racine *taval* veut dire plonger, immerger, être recouvert. Puis on remonte. Le geste dure quelques secondes et il n'a rien de compliqué : c'est ==le corps qui fait ce que la teshuvah demande==.
 

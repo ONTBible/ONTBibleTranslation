@@ -22,6 +22,6 @@ Ce détail n'est pas décoratif. Le corpus place ==les matériaux du Mishkan et 
 
 ## Voir aussi
 
-Les autres fleuves : [[Guihon]], [[Chiddeqel]], [[Prat]].
+Les autres fleuves : [[Gichon]], [[Chiddeqel]], [[Prat]].
 
 Ce qu'il entoure : [[Chavilah]] et son or.

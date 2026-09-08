@@ -2,9 +2,9 @@
 
 ## Prononciation
 
-*ge-vou-RAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ge-vou-RA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *ge-vou-RA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
 
 Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
 

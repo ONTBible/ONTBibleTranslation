@@ -2,7 +2,7 @@
 
 ## Prononciation
 
-*She-'OL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*She-ʾOL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
 Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
