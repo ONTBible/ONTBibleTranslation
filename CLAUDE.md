@@ -1112,6 +1112,99 @@ quels, et le lecteur verrait les parenthèses. Les six chuqqot nomment donc les
 autres en toutes lettres, sans marque — ==c'est délibéré==, et cela se reprendra
 quand l'émission saura les lire.
 
+
+### 2.12 Comment se prononce ce qui est écrit
+
+**Décision de l'auteur du 8 septembre 2026.** La translittération donne ==les
+lettres==, jamais les sons — et rien dans le vault ne disait comment passer des
+unes aux autres. Cette section le dit, et chaque fiche de `lexique/` en porte
+l'application à son mot.
+
+**Le besoin est réel et il vient de l'auteur lui-même** : il prononçait
+`Chanokh` ==« cha-no-q »==, c'est-à-dire le `ch` de « chat » et le `kh` d'un
+`q`. Les deux consonnes sont fausses, et ==rien dans la graphie ne l'en
+avertissait==. C'est le défaut normal d'une translittération sans diacritiques :
+elle est faite pour ==remonter à la lettre==, pas pour guider la bouche.
+
+#### Les consonnes que le français n'a pas
+
+Cinq sons demandent un geste que le français ne fait jamais. Ce sont eux qui
+décident, et les autres suivent.
+
+| lettre | ONT | où ça se produit | comment le faire |
+|---|---|---|---|
+| **ח** het | `ch` | ==le pharynx== | Serre le fond de la gorge comme pour souffler sur une vitre, et souffle. C'est ==un souffle raclé==, sans vibration. Le ح arabe. ==Jamais le « ch » de « chat »== — celui-là se fait avec la langue et les lèvres, à l'avant. |
+| **כ ךְ** khaf | `kh` | ==le voile du palais== | Bien plus en avant que le het. C'est le *ch* de l'allemand *Bach*, la *jota* espagnole. La langue frotte contre le palais mou. |
+| **ק** qof | `q` | ==la luette== | Un `k` produit ==tout au fond==, contre la luette. Ferme puis relâche là où le `k` français ne va pas. |
+| **ע** ayin | *(rien)* | ==le pharynx, avec la voix== | Le même resserrement que le het, ==mais sonore== : les cordes vibrent. Un son plein, un peu étranglé. Il n'a aucun signe dans la graphie ONT hors position médiane. |
+| **א** alef | *(rien)* | ==la glotte== | Le petit arrêt entre deux voyelles quand on dit « ah ! ah ! » en français. En finale, ==il ne se prononce pas== (§2.9). |
+
+==Le het et le khaf sont le nœud==, parce que la graphie les sépare — `ch` et
+`kh` — mais que l'œil français lit `ch` comme « chat ». **La règle à retenir :
+dans l'ONT, `ch` ne fait jamais le son de « chat ».** Il fait toujours un souffle
+de gorge.
+
+#### Les consonnes qui ne surprennent pas
+
+`b`, `d`, `g` (toujours dur, comme « gare »), `l`, `m`, `n`, `p`, `t`, `v`, `z`
+se disent comme en français. `s` est toujours sourd — jamais le `z` de « rose ».
+`sh` est le « ch » de « chat » : ==c'est lui qui porte ce son, non le `ch`==.
+`ts` se dit d'un seul geste, comme dans « tsar ». `r` roule ou racle selon les
+traditions ; ==aucune n'est fautive==.
+
+#### Les voyelles
+
+L'hébreu ancien n'écrivait pas ses voyelles ; les points ont été ajoutés bien
+plus tard. Elles se lisent simplement, et ==aucune n'est nasale== — jamais le
+« on » de « bon » ni le « an » de « banc ». Un `o` suivi d'un `n` se dit ==o-n==,
+détaché.
+
+    a   comme « patte »           i   comme « lit »
+    e   comme « été » ou « mer »  o   comme « pot », jamais « bon »
+    ou  comme « loup »            é/è  selon le signe, sans conséquence de sens
+
+Deux points de plus, qui expliquent des formes du corpus :
+
+- ==le shva== est une voyelle très brève, presque avalée, notée `e` dans l'ONT :
+  *bereshit* se dit à peu près ==« be-ré-chit »==, avec un premier `e` fugitif ;
+- ==le patach furtif== glisse un `a` avant un het ou un ayin final, pour qu'il
+  puisse se prononcer. C'est lui qui fait **ruach** et non « rouh », et c'est la
+  raison pour laquelle le het final s'écrit `ch` (§2.9).
+
+#### L'accent tonique
+
+Il tombe ==presque toujours sur la dernière syllabe==. C'est le contraire du
+réflexe français, qui l'attire vers l'avant du mot.
+
+    Chanokh      cha-NOKH        et non CHA-nokh
+    Avraham      av-ra-HAM       et non a-VRA-ham
+    Elohim       é-lo-HIM        et non é-LO-him
+
+Quelques mots portent l'accent sur l'avant-dernière, et les fiches le signalent
+au cas par cas.
+
+#### Le cas de l'auteur, déplié
+
+`Chanokh` — חֲנוֹךְ
+
+    ח   het        souffle de gorge, pharyngal          [ħ]
+    ֲ   patach     a bref                                [a]
+    נ   noun       n                                     [n]
+    וֹ   holam      o long                                [oː]
+    ךְ   khaf       frottement contre le palais mou       [x]
+
+Soit ==deux syllabes==, accent sur la seconde : un souffle raclé, `a`, `no`, et
+un `kh` de *Bach*. Ce qu'il disait — « cha-no-q » — remplaçait le souffle de
+gorge par un « ch » de langue, et le frottement de palais par une occlusion de
+luette. ==Deux gestes justes, aux deux mauvais endroits.==
+
+#### Ce que chaque fiche porte
+
+Toute fiche de `lexique/` ouvre par une section ==Prononciation==, placée
+==avant tout le reste== : le mot découpé en syllabes avec l'accent, chaque
+lettre non triviale expliquée par ==le geste qui la produit==, et la faute
+probable d'un lecteur francophone quand elle existe. Voir §2.5 ter.
+
 ---
 
 ## 3. TERMINOLOGIE FIXÉE — GLOSSAIRE COMPLET
