@@ -10,7 +10,7 @@ Comme [[Pishon]], ==le nom dit le mouvement de l'eau== plutôt qu'un lieu.
 
 Second des quatre fleuves d'Eden. Il entoure ==le pays de [[Koush]]==.
 
-Les quatre fleuves posent une géographie qui ne se laisse pas cartographier : le [[Hiddeqel]] et le [[Prat]] sont réels et connus, le ==Guihon== et le [[Pishon]] ne le sont pas.
+Les quatre fleuves posent une géographie qui ne se laisse pas cartographier : le [[Chiddeqel]] et le [[Prat]] sont réels et connus, le ==Guihon== et le [[Pishon]] ne le sont pas.
 
 ==Le corpus ne s'en explique pas.== Il donne quatre noms, deux qu'on peut suivre et deux qu'on ne peut pas, et la règle de l'ONT est de ne pas résoudre ce que le texte laisse ainsi.
 
@@ -18,6 +18,6 @@ Le **Shem** reviendra pour ==la source de Yeroushalayim==, celle où Shelomo ser
 
 ## Voir aussi
 
-Les autres fleuves : [[Pishon]], [[Hiddeqel]], [[Prat]].
+Les autres fleuves : [[Pishon]], [[Chiddeqel]], [[Prat]].
 
 Ce qu'il entoure : le pays de [[Koush]].

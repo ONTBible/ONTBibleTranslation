@@ -18,7 +18,7 @@ Il revient. ==Barisat== est tombé à la renverse, les pieds dans le feu, affreu
 
 ## Ce que le père en fait, et qui le condamne
 
-[[Terah]] ne se trouble pas. Il conclut : *grande est la puissance de Barisat ! J'en ferai un autre aujourd'hui, et demain il préparera ma nourriture.*
+[[Terach]] ne se trouble pas. Il conclut : *grande est la puissance de Barisat ! J'en ferai un autre aujourd'hui, et demain il préparera ma nourriture.*
 
 Un dieu remplaçable à la journée, dont l'office est de chauffer un repas. Il vient de dire, ==pour le défendre==, exactement ce que son fils cherchait à lui faire dire.
 
@@ -28,4 +28,4 @@ Elle repose sur le chapitre V du *Chazon Avraham* et sur la rétroversion aramé
 
 ## Voir aussi
 
-[[Merumath]], la pierre dont le nom dit aussi ce qu'elle est. [[Zucheus]] et [[Joavon]], l'or et l'argent contre lesquels on le pèse. [[Terah]] qui le taille, [[Avraham]] qui le pose devant le feu.
+[[Merumath]], la pierre dont le nom dit aussi ce qu'elle est. [[Zucheus]] et [[Joavon]], l'or et l'argent contre lesquels on le pèse. [[Terach]] qui le taille, [[Avraham]] qui le pose devant le feu.

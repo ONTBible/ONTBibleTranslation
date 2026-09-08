@@ -8,7 +8,7 @@
 
 Elle est nommée une seule fois, ==et jamais reprise==.
 
-Fille de [[Haran]], sœur de [[Lot]] et de [[Milkah]]. Le texte la pose dans la liste et passe.
+Fille de [[Charan]], sœur de [[Lot]] et de [[Milkah]]. Le texte la pose dans la liste et passe.
 
 Une tradition ancienne a voulu l'identifier à [[Sarai]] — l'ONT ne suit pas cette lecture, parce que le corpus ne la propose pas et que la règle est de ne pas combler.
 
@@ -16,4 +16,4 @@ Ce qu'on peut relever tient à sa place : dans une généalogie qui ne nomme pre
 
 ## Voir aussi
 
-Sa maison : [[Haran]] son père, [[Lot]] et [[Milkah]] son frère et sa sœur, [[Terah]] son grand-père.
+Sa maison : [[Charan]] son père, [[Lot]] et [[Milkah]] son frère et sa sœur, [[Terach]] son grand-père.

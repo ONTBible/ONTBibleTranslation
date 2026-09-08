@@ -87,7 +87,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **orlah** | arel | — | ✓ |
 | **mishpat** | mishpatim | *Bereshit* 18 | ✓ |
 | **shofet** | shoftim | *Bereshit* 18:25 | ✓ |
-| **olam** | berith-olam, akhuzat-olam, ledorot-olam, ad-olam, le'olam, me'olam | *Bereshit* 3:22 (*vechai le'olam*) | ✓ |
+| **olam** | berith-olam, achuzat-olam, ledorot-olam, ad-olam, le'olam, me'olam | *Bereshit* 3:22 (*vechai le'olam*) | ✓ |
 | **She'ol** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **teshuvah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |

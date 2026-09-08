@@ -1,14 +1,14 @@
-# Hitti
+# Chitti
 
 ## Le Shem
 
-(*Hitti* / הַחִתִּי) — ==celui de [[Het]]==. Le **Shem** du peuple est celui de son père : la table des nations fait de [[Het]] le second fils de [[Kena'an]], et le corpus dit *benei Het*, ==les fils de Het==, là où il dira ailleurs « le Hitti ». Un seul mot au singulier gentilice pour toute une maison.
+(*Chitti* / הַחִתִּי) — ==celui de [[Chet]]==. Le **Shem** du peuple est celui de son père : la table des nations fait de [[Chet]] le second fils de [[Kena'an]], et le corpus dit *benei Chet*, ==les fils de Chet==, là où il dira ailleurs « le Chitti ». Un seul mot au singulier gentilice pour toute une maison.
 
 Le nom recouvre en réalité deux choses que le texte ne distingue pas, et il vaut mieux le savoir.
 
 Il y a les ==Hittites d'Anatolie== — une des grandes puissances de l'Âge du Bronze, avec sa capitale à Hattusa, ses archives sur tablettes, ses traités de vassalité rédigés selon une forme que les chercheurs comparent à celle de la **berith**. Un empire qui a tenu tête à [[Mitsrayim]] et signé avec lui le plus ancien traité de paix qu'on possède.
 
-Et il y a les ==fils de Het== de [[Kena'an]] — un groupe installé dans la montagne, autour de [[Hevron]], que le récit patriarcal fréquente de près.
+Et il y a les ==fils de Chet== de [[Kena'an]] — un groupe installé dans la montagne, autour de [[Chevron]], que le récit patriarcal fréquente de près.
 
 Le corpus emploie le même mot pour les deux, sans jamais s'expliquer. ==L'ONT restitue et ne tranche pas== : c'est une seule désignation dans le texte, ce sera une seule ici.
 
@@ -22,7 +22,7 @@ La place vaut d'être notée. Dans cette énumération de peuples dont la plupar
 
 Il faut le dire ici parce que ce **Shem** est de ceux dont le rôle est presque entièrement devant.
 
-*Bereshit* 23 fera des *benei Het* les interlocuteurs de la première transaction foncière du corpus. [[Sarai|Sarah]] meurt à [[Hevron]], et [[Avraham]] — à qui la terre entière vient d'être promise — se tient devant eux et dit qu'il est ==*ger vetoshav*==, un étranger résidant, et qu'il n'a pas où enterrer sa morte. Il achète la grotte de Makhpelah à Efron le Hitti, au poids d'argent, devant témoins, à la porte de la ville.
+*Bereshit* 23 fera des *benei Chet* les interlocuteurs de la première transaction foncière du corpus. [[Sarai|Sarah]] meurt à [[Chevron]], et [[Avraham]] — à qui la terre entière vient d'être promise — se tient devant eux et dit qu'il est ==*ger vetoshav*==, un étranger résidant, et qu'il n'a pas où enterrer sa morte. Il achète la grotte de Makhpelah à Efron le Chitti, au poids d'argent, devant témoins, à la porte de la ville.
 
 C'est un des passages les plus étranges du corpus : ==le seul morceau de la terre promise que le patriarche possède réellement est un tombeau, et il l'a payé==. La promesse porte sur tout le pays ; ce qu'il en tient de son vivant tient dans un caveau acheté à ce peuple-là.
 
@@ -30,8 +30,8 @@ Rien de cela n'est écrit dans l'ONT. Quand *Bereshit* 23 le sera, cette fiche d
 
 ## Voir aussi
 
-Sa maison : [[Het]] son père, [[Kena'an]] son grand-père, [[Cham]] au-dessus — et ses frères kena'ani, [[Tsidon]], [[Emori]], [[Girgashi]], [[Yevousi]], [[Hivi]].
+Sa maison : [[Chet]] son père, [[Kena'an]] son grand-père, [[Cham]] au-dessus — et ses frères kena'ani, [[Tsidon]], [[Emori]], [[Girgashi]], [[Yevousi]], [[Chivi]].
 
 Les neuf autres de la liste : [[Qeni]], [[Qadmoni]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
-Le lieu où on les rencontrera : [[Hevron]], premier ancrage durable d'[[Avraham]] dans le pays.
+Le lieu où on les rencontrera : [[Chevron]], premier ancrage durable d'[[Avraham]] dans le pays.

@@ -2,7 +2,7 @@
 
 ## Le dieu d'or, et pourquoi il gagne
 
-Il appartient à [[Haran]], le frère d'[[Avraham]], et il se tient dans le temple consacré. Quand l'enfant veut montrer à son père que son propre dieu ne vaut rien, c'est celui-ci qu'il met dans l'autre plateau.
+Il appartient à [[Charan]], le frère d'[[Avraham]], et il se tient dans le temple consacré. Quand l'enfant veut montrer à son père que son propre dieu ne vaut rien, c'est celui-ci qu'il met dans l'autre plateau.
 
 L'argument est d'un artisan, et il est imparable dans ses propres termes : ==Zucheus== est fait d'or, *que les gens estiment beaucoup*, et quand il vieillira ==on le refondra==. [[Merumath]], lui, est de pierre : abîmé, il ne sera pas renouvelé.
 
@@ -20,4 +20,4 @@ Elle repose sur le chapitre VI du *Chazon Avraham*. Aucun **Shem** hébreu n'est
 
 ## Voir aussi
 
-[[Joavon]], l'argent, qui se tient avec lui au-dessus des autres. [[Merumath]] la pierre et [[Barisat]] le bois, qu'il surpasse. [[Haran]], son propriétaire — que le témoin nomme aussi *Ora* et *Oron*. Et **kavod**, le mot que l'enfant emploie pour peser.
+[[Joavon]], l'argent, qui se tient avec lui au-dessus des autres. [[Merumath]] la pierre et [[Barisat]] le bois, qu'il surpasse. [[Charan]], son propriétaire — que le témoin nomme aussi *Ora* et *Oron*. Et **kavod**, le mot que l'enfant emploie pour peser.

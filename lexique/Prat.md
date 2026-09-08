@@ -16,6 +16,6 @@ Le ==Prat== paraît aussi en *Bereshit* 2, parmi ==les quatre fleuves qui sorten
 
 ## Voir aussi
 
-Où il paraît : *Bereshit* 2 avec le [[Hiddeqel]], et la **berith** de *Bereshit* 15.
+Où il paraît : *Bereshit* 2 avec le [[Chiddeqel]], et la **berith** de *Bereshit* 15.
 
 L'autre borne : le fleuve de [[Mitsrayim]].

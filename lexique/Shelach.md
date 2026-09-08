@@ -1,8 +1,8 @@
-# Shelah
+# Shelach
 
 ## Le Shem
 
-De *shalah* (*shalah* / שָׁלַח) — ==envoyer, lancer==. C'est le même *shalach* qui donne **shaliach**, l'envoyé-mandaté.
+De *shalach* (*shalach* / שָׁלַח) — ==envoyer, lancer==. C'est le même *shalach* qui donne **shaliach**, l'envoyé-mandaté.
 
 ## Ce que le corpus en fait
 

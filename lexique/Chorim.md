@@ -1,10 +1,10 @@
-# Horim
+# Chorim
 
 ## Le Shem
 
 Un trou dans la roche.
 
-(*hor* / חֹר) désigne le creux, la cavité, l'ouverture percée — le terrier où la bête se glisse, la faille où l'on se met à l'abri du vent. Les Horim sont ==ceux du creux== : ceux dont la demeure est dans la pierre, non posée dessus.
+(*chor* / חֹר) désigne le creux, la cavité, l'ouverture percée — le terrier où la bête se glisse, la faille où l'on se met à l'abri du vent. Les Chorim sont ==ceux du creux== : ceux dont la demeure est dans la pierre, non posée dessus.
 
 Il faut voir le pays pour entendre le nom. La montagne de [[Seir]] est un massif de grès rouge, tendre, strié, et le vent et l'eau y ont travaillé pendant des millénaires. On n'y bâtit pas d'abord : ==on y taille==. On agrandit une cavité, on lisse une paroi, on creuse un escalier, et l'on obtient une maison qui n'a coûté aucune pierre. C'est le pays qui produira plus tard les façades taillées de Pétra, dans la même roche et par le même geste.
 
@@ -14,7 +14,7 @@ Un **Shem** qui dit l'habitat plutôt que l'ancêtre est rare dans le corpus. La
 
 Ils paraissent une fois, dans la campagne des quatre rois de l'orient, et la mention est une ligne d'itinéraire.
 
-[[Kedorlaomer]] et ses alliés descendent en frappant tout ce qui se trouve sur leur route : les [[Refaim]], les [[Zouzim]], les [[Emim]] — puis les Horim dans leur montagne de [[Seir]], jusqu'à [[El-Paran]] aux abords du désert. Quatre peuples anciens, quatre lieux, et pas un mot d'explication.
+[[Kedorlaomer]] et ses alliés descendent en frappant tout ce qui se trouve sur leur route : les [[Refaim]], les [[Zouzim]], les [[Emim]] — puis les Chorim dans leur montagne de [[Seir]], jusqu'à [[El-Paran]] aux abords du désert. Quatre peuples anciens, quatre lieux, et pas un mot d'explication.
 
 Le texte ne juge pas cette campagne. Il énumère, et ==l'énumération est elle-même l'information== : elle dit l'étendue de ce que ces rois pouvaient balayer, et donc ce que [[Avraham|Avram]] affrontera avec trois cent dix-huit hommes.
 
@@ -24,7 +24,7 @@ Leur fonction dans le corpus est celle d'un ==peuple d'avant==, et ils la partag
 
 Le monde de *Bereshit* 14 n'est pas vide. Il est plein de peuples anciens, de stature redoutable ou de mémoire longue, que le récit nomme au passage sans les raconter. Ils ne sont pas les acteurs de l'alliance — ils sont ==le sol sur lequel elle sera posée==, et le texte tient à ce qu'on sache qu'il y avait quelqu'un.
 
-Et ils seront déplacés. *Devarim* 2:12 le dira sans détour : les fils d'==Esav== ont pris la montagne de [[Seir]] aux Horim, comme ==Israel== fera pour le pays de son héritage. Le rapprochement est du texte, non de nous — le corpus regarde sa propre installation à travers celle des autres, ==et ne se donne pas un régime à part==.
+Et ils seront déplacés. *Devarim* 2:12 le dira sans détour : les fils d'==Esav== ont pris la montagne de [[Seir]] aux Chorim, comme ==Israel== fera pour le pays de son héritage. Le rapprochement est du texte, non de nous — le corpus regarde sa propre installation à travers celle des autres, ==et ne se donne pas un régime à part==.
 
 ## Ce que la fiche porte, et ce qu'elle attend
 

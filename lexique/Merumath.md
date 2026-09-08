@@ -12,7 +12,7 @@ Rien. C'est tout le propos.
 
 [[Avraham]] le trouve ==déjà tombé==, face contre terre, aux pieds d'un dieu de fer. Personne ne l'a renversé. Il est trop lourd pour qu'un enfant le relève seul ; il faut deux hommes, et pendant qu'ils le soulèvent, ==la tête lui reste dans la main==.
 
-Alors [[Terah]] demande une hache. Il taille un corps neuf dans une autre pierre, y pose la tête tombée, et broie le reste. Ce qui se tient debout à la fin n'est plus rien de ce qui était là — et porte pourtant le même nom.
+Alors [[Terach]] demande une hache. Il taille un corps neuf dans une autre pierre, y pose la tête tombée, et broie le reste. Ce qui se tient debout à la fin n'est plus rien de ce qui était là — et porte pourtant le même nom.
 
 ## Pourquoi ce n'est pas un **Shem**, et pourquoi il en porte quand même la marque
 
@@ -26,4 +26,4 @@ Elle repose sur les quatre premiers chapitres du *Chazon Avraham* et sur la rét
 
 ## Voir aussi
 
-[[Barisat]], le dieu de bois que le feu mange, et dont le nom annonce aussi son sort. [[Nahon]], celui de fer, aux pieds de qui on le trouve. [[Terah]], qui le taille. Et **Shem**, pour ce qu'un vrai nom engage.
+[[Barisat]], le dieu de bois que le feu mange, et dont le nom annonce aussi son sort. [[Nahon]], celui de fer, aux pieds de qui on le trouve. [[Terach]], qui le taille. Et **Shem**, pour ce qu'un vrai nom engage.

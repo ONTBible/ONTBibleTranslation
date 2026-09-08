@@ -1,14 +1,14 @@
-# Het
+# Chet
 
 ## Le Shem
 
-(*Het* / חֵת) — ==les Hittites==. Il est l'ancêtre éponymique des *beni Het*, les fils de Het.
+(*Chet* / חֵת) — ==les Hittites==. Il est l'ancêtre éponymique des *beni Chet*, les fils de Chet.
 
 ## Ce que le corpus en fait
 
 Sa scène est l'une des plus importantes du cycle d'[[Avraham]], et elle est commerciale.
 
-*Bereshit* 23 : [[Sarai]] meurt, et [[Avraham]] ==négocie avec les fils de Het== la caverne où l'enterrer. Il pèse l'argent, il fait le compte devant témoins, il achète.
+*Bereshit* 23 : [[Sarai]] meurt, et [[Avraham]] ==négocie avec les fils de Chet== la caverne où l'enterrer. Il pèse l'argent, il fait le compte devant témoins, il achète.
 
 C'est ==le premier et le seul acte de propriété d'[[Avraham]] dans la terre promise==, et il l'obtient ==auprès des fils de [[Kena'an]]==.
 
@@ -16,6 +16,6 @@ La tension est entière et le corpus la laisse entière : ==la terre promise à 
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père. Ses frères kena'ani : [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
 
 Où le corpus le reprend : *Bereshit* 23, l'achat de la sépulture.

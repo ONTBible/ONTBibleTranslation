@@ -84,15 +84,15 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 
 ---
 
-## Motif 1 — L'atelier de Terah et l'échelle du discernement (ch. 1-8)
+## Motif 1 — L'atelier de Terach et l'échelle du discernement (ch. 1-8)
 
-**Scène (témoin) :** Avraham sert les idoles de son père. Marumath, la pierre, tombe et sa tête se brise ; Terah lui en retaille une autre. Barisat, le bois, placé pour garder le feu, y est réduit en cendres. Puis Avraham remonte l'échelle : le feu vaut mieux que les idoles, car il les brûle — l'eau mieux que le feu, car elle l'éteint — la terre mieux que l'eau, car elle la boit — le soleil mieux que la terre, car il la fait porter — mais le soleil se couche, la lune s'obscurcit, les étoiles pâlissent. Aucun ne tient. *Celui qui les a ordonnés, lui seul est El.*
+**Scène (témoin) :** Avraham sert les idoles de son père. Marumath, la pierre, tombe et sa tête se brise ; Terach lui en retaille une autre. Barisat, le bois, placé pour garder le feu, y est réduit en cendres. Puis Avraham remonte l'échelle : le feu vaut mieux que les idoles, car il les brûle — l'eau mieux que le feu, car elle l'éteint — la terre mieux que l'eau, car elle la boit — le soleil mieux que la terre, car il la fait porter — mais le soleil se couche, la lune s'obscurcit, les étoiles pâlissent. Aucun ne tient. *Celui qui les a ordonnés, lui seul est El.*
 
 **Triangulation :**
-- ***Yovelim* 11-12** — **livre n° 06 du corpus ONT.** Abram, enfant, se sépare du culte des idoles de Terah, raisonne sur les astres et finit par brûler la maison d'idoles ; Haran meurt en tentant de les sauver. Témoin juif ancien (IIᵉ s. av. l'ère), indépendant, **et déjà dans le corpus**.
+- ***Yovelim* 11-12** — **livre n° 06 du corpus ONT.** Abram, enfant, se sépare du culte des idoles de Terach, raisonne sur les astres et finit par brûler la maison d'idoles ; Charan meurt en tentant de les sauver. Témoin juif ancien (IIᵉ s. av. l'ère), indépendant, **et déjà dans le corpus**.
 - **Josèphe, *Antiquités* 1.155-156** — Abraham conclut à l'unicité d'El par l'irrégularité des astres : ce qui n'est pas maître de soi n'est pas El.
 - ***Bereshit Rabbah* 38:13** — le midrash de l'atelier : Abraham brise les idoles et met le bâton dans la main de la plus grande. Tardif, mais conserve la scène.
-- ***Bereshit* 11-12** (ONT, verrouillés) — Terah, Nachor, Haran, la sortie d'Our ; *lekh-lekha*. Substrat direct.
+- ***Bereshit* 11-12** (ONT, verrouillés) — Terach, Nachor, Charan, la sortie d'Our ; *lekh-lekha*. Substrat direct.
 
 **Verdict : NOYAU ANCIEN**, et parmi les mieux corroborés du livre — dont un témoin *à l'intérieur du corpus ONT*.
 
@@ -102,22 +102,22 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 
 ---
 
-## Motif 2 — Le feu sur la maison de Terah (ch. 8)
+## Motif 2 — Le feu sur la maison de Terach (ch. 8)
 
 **Scène :** la voix d'El dit à Avraham de sortir de la maison de son père ; à peine sorti, le feu descend et consume la maison avec tout ce qu'elle contient.
 
-**Triangulation :** ***Yovelim* 12:12-14** — Abram met le feu à la maison d'idoles ; Haran y périt. ***Bereshit* 11:28** (ONT verrouillé) — « Haran mourut *sur la face de* Terah son père, dans le pays de sa naissance » : une mort prématurée, en présence du père, que le texte ne s'explique pas. ***Bereshit* 12:1** (ONT verrouillé) — *lekh-lekha*, « va-t'en de la maison de ton père ».
+**Triangulation :** ***Yovelim* 12:12-14** — Abram met le feu à la maison d'idoles ; Charan y périt. ***Bereshit* 11:28** (ONT verrouillé) — « Charan mourut *sur la face de* Terach son père, dans le pays de sa naissance » : une mort prématurée, en présence du père, que le texte ne s'explique pas. ***Bereshit* 12:1** (ONT verrouillé) — *lekh-lekha*, « va-t'en de la maison de ton père ».
 
 **Verdict : NOYAU ANCIEN.**
 
 > ⚠️ **Correction du 1ᵉʳ septembre 2026 — vérifiée sur les manuscrits.** Ce
 > paragraphe affirmait que ce livre « lit *Bereshit* 11:28 comme une question
 > laissée ouverte et y répond », c'est-à-dire qu'il expliquerait la mort de
-> **Haran**. **C'est faux du texte de base.**
+> **Charan**. **C'est faux du texte de base.**
 >
 > Le **Codex Sylvester**, le plus ancien des six témoins slavons, ne nomme pas
-> Haran : le feu y prend **Terah**, sa maison et tout ce qu'elle contient,
-> « jusqu'au sol, quarante coudées ». La légende où Haran périt en sauvant les
+> Charan : le feu y prend **Terach**, sa maison et tout ce qu'elle contient,
+> « jusqu'au sol, quarante coudées ». La légende où Charan périt en sauvant les
 > idoles est une **insertion** de trois manuscrits tardifs — A, K, R — absente
 > du Sylvester (Box 1918, note au ch. VIII).
 >
@@ -125,8 +125,8 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 > et rejoint *Yovelim* 12:12-14. C'est une couche de copiste, du genre exact que
 > le filtre de ce livre écarte.
 >
-> La vraie tension n'est donc pas avec le silence sur Haran, mais **frontale
-> avec *Bereshit* 11:32**, qui fait mourir Terah bien plus tard à Haran la
+> La vraie tension n'est donc pas avec le silence sur Charan, mais **frontale
+> avec *Bereshit* 11:32**, qui fait mourir Terach bien plus tard à Charan la
 > ville. Décision de l'auteur : **restituer le témoin, gloser la divergence**,
 > ne pas harmoniser — on ne corrige pas un témoin sur la foi d'un autre. Rendu
 > dans la **parashah** ③.
@@ -353,8 +353,8 @@ Rendu : **olam** au corps, avec la règle de translittération du construit (§3
 
 | # | Motif | Statut ontologique | Destination |
 |---|---|---|---|
-| 1 | L'atelier de Terah, l'échelle du discernement | fidèle au réel | **corps** — rendre en discernement fonctionnel, jamais en démonstration |
-| 2 | Le feu sur la maison de Terah | fidèle au réel | **corps** |
+| 1 | L'atelier de Terach, l'échelle du discernement | fidèle au réel | **corps** — rendre en discernement fonctionnel, jamais en démonstration |
+| 2 | Le feu sur la maison de Terach | fidèle au réel | **corps** |
 | 3 | Le sacrifice de *Bereshit* 15 | fidèle au réel | **corps** — armature du livre |
 | 4 | Yaho'el, le **mal'akh** porteur du **Shem** | fidèle au réel *(fonction)* | **corps** — **le nom : §D.1** |
 | 5 | Azazel, l'oiseau impur | fidèle au réel | **corps** — **statut du nom : §D.2** |

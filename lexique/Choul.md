@@ -1,8 +1,8 @@
-# Houl
+# Choul
 
 ## Le Shem
 
-De *hul* (*hul* / חוּל) — ==tourbillonner, se tordre==. Le même verbe qui dit la danse et les douleurs de l'enfantement : ==un mouvement qui prend tout le corps==.
+De *chul* (*chul* / חוּל) — ==tourbillonner, se tordre==. Le même verbe qui dit la danse et les douleurs de l'enfantement : ==un mouvement qui prend tout le corps==.
 
 ## Ce que le corpus en fait
 

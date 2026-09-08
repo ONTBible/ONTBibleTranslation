@@ -12,4 +12,4 @@ Sa présence maintient la liste complète des fils d'[[Aram]]. C'est ce que fait
 
 ## Voir aussi
 
-Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Oust]], [[Houl]], [[Mash]].
+Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Oust]], [[Choul]], [[Mash]].

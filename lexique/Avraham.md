@@ -38,7 +38,7 @@ Et il n'est pas ==un juste== au sens moral. La **tsedaqah** qui lui est comptée
 
 ## Voir aussi
 
-Sa maison : ==Terah== son père, ==Sarai== devenue ==Sarah==, ==Lot== son neveu, [[Hagar]] la Mitsrit, ==Ishma'el== et ==Yitschaq==.
+Sa maison : ==Terach== son père, ==Sarai== devenue ==Sarah==, ==Lot== son neveu, [[Hagar]] la Mitsrit, ==Ishma'el== et ==Yitschaq==.
 
 Ce que son **Shem** touche : la **berith**, l'**emunah**, la **tsedaqah**, la **milah**, **El Shaddai**, et le **mishpat** qu'il discute.
 

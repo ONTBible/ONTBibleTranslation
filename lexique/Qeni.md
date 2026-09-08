@@ -30,6 +30,6 @@ Tout leur poids est devant. *Shemot* fera d'un Qeni le beau-père de Moshe — c
 
 Leur pays : [[Kena'an]] et [[Mitsrayim]] entre lesquels ils circulent, et [[Qadesh]] dans la même région sèche.
 
-Les neuf autres de la liste : [[Qadmoni]], [[Hitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]] — et le Qenizi, que le corpus nomme sans le gloser.
+Les neuf autres de la liste : [[Qadmoni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]] — et le Qenizi, que le corpus nomme sans le gloser.
 
 Le son que le **Shem** partage : [[Qayin]], dont le corpus tire le nom d'un autre verbe, et dont la lignée donne au monde le bronze et le fer par [[Tuval-Qayin]].

@@ -6,13 +6,13 @@
 
 Le français dit « les Chaldéens ». C'est la forme grecque *Chaldaioi* passée par le latin, et le §4.12 l'écarte comme il écarte Sodome pour [[Sedom]] et l'Égypte pour [[Mitsrayim]] : ==un nom qui a traversé deux langues avant d'arriver n'est plus le nom==. Kasdim est ce que le texte écrit.
 
-L'étymologie ne se laisse pas fixer, et le corpus ne la commente pas. On a rapproché le **Shem** de ==Kesed==, neveu d'[[Avraham|Avram]] par [[Nahor]] — la table des peuples aime ce genre de rattachement —, mais rien dans le texte ne l'établit. ==L'ONT ne comble pas.==
+L'étymologie ne se laisse pas fixer, et le corpus ne la commente pas. On a rapproché le **Shem** de ==Kesed==, neveu d'[[Avraham|Avram]] par [[Nachor]] — la table des peuples aime ce genre de rattachement —, mais rien dans le texte ne l'établit. ==L'ONT ne comble pas.==
 
 ## Un nom qui arrive mille ans trop tôt
 
 Voici ce qu'il faut tenir pour lire correctement les deux versets où il paraît.
 
-Les Kasdim comme puissance historique sont ==tardifs==. Ils apparaissent dans les sources au premier millénaire, s'installent dans le sud babylonien, et finissent par prendre Babylone elle-même. L'époque où le récit place [[Terah]] et sa maison à Ur est ==antérieure de mille ans==.
+Les Kasdim comme puissance historique sont ==tardifs==. Ils apparaissent dans les sources au premier millénaire, s'installent dans le sud babylonien, et finissent par prendre Babylone elle-même. L'époque où le récit place [[Terach]] et sa maison à Ur est ==antérieure de mille ans==.
 
 Le narrateur emploie donc une désignation qui n'existait pas encore, pour situer un lieu à l'usage de qui l'écoute. Il fait exactement pareil avec les [[Amaleqim]], nommés d'après un ancêtre qui n'est pas né. ==Le texte nomme les lieux dans la langue de son auditeur, non dans celle de ses personnages== — et le voir n'affaiblit rien : cela montre depuis quand on parle.
 
@@ -36,7 +36,7 @@ Elle repose sur *Bereshit* 11 et 15, et sur ce que le corpus fera de ce nom dans
 
 ## Voir aussi
 
-La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terah]] — [[Avraham|Avram]], [[Sarai]], [[Lot]], et [[Haran]] qui y meurt avant le voyage.
+La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terach]] — [[Avraham|Avram]], [[Sarai]], [[Lot]], et [[Charan]] qui y meurt avant le voyage.
 
 Le pays et ses fleuves : [[Shin'ar]], l'autre nom de cette plaine dans le corpus, celle de [[Bavel]] ; et [[Prat]], le grand fleuve qui borne la promesse.
 

@@ -14,4 +14,4 @@ Le corpus ne le reprend nulle part ailleurs. Il est ==un port dans une liste de 
 
 ## Voir aussi
 
-Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Havila]], [[Ra'ama]], [[Savtekha]].
+Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Seva]], [[Chavila]], [[Ra'ama]], [[Savtekha]].

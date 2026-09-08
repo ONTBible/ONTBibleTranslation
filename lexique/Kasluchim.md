@@ -1,8 +1,8 @@
-# Kasluhim
+# Kasluchim
 
 ## Le Shem
 
-(*Kasluhim* / כַּסְלֻחִים) — un peuple de la ==côte méditerranéenne orientale==. Sa localisation exacte est débattue, et l'ONT ne tranche pas.
+(*Kasluchim* / כַּסְלֻחִים) — un peuple de la ==côte méditerranéenne orientale==. Sa localisation exacte est débattue, et l'ONT ne tranche pas.
 
 ## Ce que le corpus en fait
 
@@ -14,6 +14,6 @@ Un nom qu'on ne reverra jamais porte donc ==le peuple qu'on rencontrera le plus=
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Naftuhim]], [[Patrusim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]].
 
 Ce qui sort de lui : [[Pelishtim]].

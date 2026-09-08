@@ -20,6 +20,6 @@ Il faudra que des **mal'akhim** le prennent par la main pour l'en faire sortir, 
 
 ## Voir aussi
 
-Sa maison : [[Haran]] son père mort avant [[Terah]], [[Avraham]] son oncle, [[Milkah]] et [[Iska]] ses sœurs.
+Sa maison : [[Charan]] son père mort avant [[Terach]], [[Avraham]] son oncle, [[Milkah]] et [[Iska]] ses sœurs.
 
 Ce que son **Shem** touche : [[Sedom]] où il descend, [[Tsoar]] où il se réfugie, et le **chesed** dont il dira qu'il a gardé son **Nefesh**.

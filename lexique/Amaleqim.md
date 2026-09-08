@@ -38,4 +38,4 @@ Leur pays et ses bornes : [[Kena'an]] au septentrion, [[Mitsrayim]] à l'occiden
 
 L'autre nom donné trop tôt : [[Ur Kasdim]], où le narrateur emploie de la même façon une désignation postérieure de mille ans.
 
-Ceux qui les frappent : [[Kedorlaomer]], [[Amrafel]], [[Aryokh]], [[Tid'al]], et les peuples anciens balayés dans la même descente — [[Refaim]], [[Zouzim]], [[Emim]], [[Horim]].
+Ceux qui les frappent : [[Kedorlaomer]], [[Amrafel]], [[Aryokh]], [[Tid'al]], et les peuples anciens balayés dans la même descente — [[Refaim]], [[Zouzim]], [[Emim]], [[Chorim]].

@@ -183,7 +183,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**orlah**` / `**arel**`
 - `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
 - `**shofet**` / `**shoftim**`. Premier emploi *Bereshit* 18:25.
-- `**olam**` — intraduisible : de la racine "caché, dissimulé" — la limite temporelle que le regard humain ne peut pas discerner. **Règle de rendu en corps de texte : translittérer le construit en entier** — `**berith-olam**`, `**akhuzat-olam**`, `**ledorot-olam**`, `**ad-olam**`, `**le'olam**`, `**me'olam**`. Premier emploi *Bereshit* 3:22 (*vechai le'olam*).
+- `**olam**` — intraduisible : de la racine "caché, dissimulé" — la limite temporelle que le regard humain ne peut pas discerner. **Règle de rendu en corps de texte : translittérer le construit en entier** — `**berith-olam**`, `**achuzat-olam**`, `**ledorot-olam**`, `**ad-olam**`, `**le'olam**`, `**me'olam**`. Premier emploi *Bereshit* 3:22 (*vechai le'olam*).
 - `**She'ol**` — intraduisible : le domaine des morts dans l'attente (שְׁאוֹל). Jamais « enfer » ni « séjour des morts » édulcoré. Le gras porte l'apostrophe de l'aleph, comme la translittération. Premier emploi *Toledot Adam ve-Chavah*.
 - `**teshuvah**` — intraduisible : le retour, le réalignement vers la présence quittée (תְּשׁוּבָה). Jamais « repentance » ni « pénitence ». Premier emploi *Toledot Adam ve-Chavah*.
 - `**ha-satan**` — intraduisible : l'accusateur, la *fonction* d'accusation du Conseil Divin (הַשָּׂטָן). L'article « ha- » marque la fonction — jamais un nom propre ni un dieu rival. Traitement définitif à *Iyov*. Premier emploi *Toledot Adam ve-Chavah*.
@@ -602,6 +602,63 @@ Ce n'est pas une commodité, c'est la phonétique : ==l'alef finale est
 quiescente== — elle ne se prononce pas, elle sert de support graphique à la
 voyelle qui précède. Le corpus suivait donc la langue sans que ce soit écrit.
 
+#### Le het se rend `ch` partout, finale comprise
+
+**Écrit le 8 septembre 2026, parce que la pratique existait sans la règle.**
+
+Le tableau des consonnes donne ח → `ch` sans distinguer la position, et la
+section sur l'alef pose une exception ==pour la finale==. On pouvait donc croire
+que le het en avait une aussi. ==Il n'en a pas.==
+
+**La raison est phonétique, et c'est la même qui fonde l'exception de l'alef.**
+L'alef finale ne porte pas d'apostrophe parce qu'elle est ==quiescente== : elle
+ne se prononce pas, elle sert de support graphique à la voyelle qui précède.
+
+Le het, lui, ==se prononce en finale==. L'hébreu va même jusqu'à insérer une
+voyelle pour qu'il le puisse : le ==patach furtif==, un /a/ qui se glisse avant
+le het final quand la voyelle précédente ne le permettrait pas. On le voit dans
+`רוּחַ` — **ruach**, et non « rouh » —, dans `מִזְבֵּחַ` — *mizbeach* —, dans
+`יָרֵחַ` — *yareach*.
+
+==Une lettre qui se prononce se translittère.== L'exception de l'alef ne
+s'étend donc pas au het, et il n'y a pas de règle du het final à part : il y a
+==la règle du het==, qui vaut partout.
+
+**Le corpus le faisait déjà, et massivement.** Relevé du jour sur les
+appariements translittération/hébreu :
+
+    het final rendu `ch`   54 occurrences, 32 formes   Noach, mizbeach, ruach, Metoushelach
+    het final rendu `h`    17 occurrences,  9 formes   Terah, Shelah, Kelah, yareah
+
+Et `Noach` seul paraît ==314 fois== dans le corpus. La pratique n'était donc pas
+en balance : elle était établie ==à quinze contre un==, et les dix-sept
+divergences ne se voyaient pas ==parce que rien ne les rendait comparables==.
+C'est la forme exacte que le §2.9 a été écrit pour fermer, et il l'avait laissée
+ouverte sur son propre terrain.
+
+**La passe qui a suivi.** ==540 occurrences== reprises, 56 formes, 92 fichiers,
+et vingt fiches de **Shemot** renommées avec elles — `Terah` → `Terach` (108),
+`Haran` → `Charan` (89), `Nahor` → `Nachor` (38), `Het` → `Chet` (30).
+
+Trois choses en sont sorties, qu'il faut garder :
+
+- ==deux collisions homographes assumées== — `Hevron` devient `Chevron`, et
+  `hut` (חוּט, le fil) devient `chut`. Le contexte les lève, mais elles
+  surprendront ;
+- ==l'araméen est resté dehors== — `Hobabish`, `Shemikhazah` : le §2.9 ne
+  légifère que sur l'hébreu, et l'araméen a déjà son exception avec `**'irin**`.
+  ==À trancher par l'auteur== ;
+- ==une faute plus profonde a paru sous celle-ci==. `Chivi`, `Chamati`,
+  `Chitti`, `Chorim` ont pour hébreu `הַחִוִּי`, `הַחֲמָתִי` — le premier ה est
+  ==l'article==, et la translittération ==l'avale==. Il faudrait `ha-Chivi`. Ce
+  n'est plus de la graphie, c'est le §2.6, et ==le chantier reste ouvert== sur
+  une cinquantaine d'occurrences.
+
+**Et le relevé du chantier `kh` était incomplet.** Trois formes portaient encore
+un het écrit `kh` — `akhuzat` (7), `akhoranit` (2) —, corrigées avec cette
+passe. Une troisième, `beiqekha` pour `בְּחֵיקֶךָ`, ==ne rend pas le het du
+tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
+
 #### Ce que cette règle ne tranche pas encore
 
 - **`**'irin**` garde son apostrophe initiale** (עִירִין), et c'est une
@@ -646,7 +703,7 @@ mécanique aurait corrigé quatre formes de plus, toutes à tort :
   (כְּ, כ, כֹּל, כְּרֻבִים, כַּלְנֵה) ;
 - `khata` — c'est ==le contre-exemple pédagogique== de la section ci-dessus, qui
   cite la graphie fautive pour l'interdire. La corriger aurait effacé la règle ;
-- `hanikh`, `hanakh` — un het rendu ==par `h` seul==, ce qui est ==un autre
+- `chanikh`, `hanakh` — un het rendu ==par `h` seul==, ce qui est ==un autre
   chantier==. Voir ci-dessous.
 
 Et `sessions/` est ==exclu du balayage== : ce sont les transcriptions de
@@ -656,7 +713,7 @@ ce que quelqu'un a tapé n'est pas une correction, c'est une réécriture==.
 
 **Un chantier ouvert, mesuré et non traité : le het rendu `h`.** ==98
 appariements== où l'hébreu porte un ח et la translittération un `h` sans `ch` —
-*Terah* (תֶּרַח), *Nahor*, *Shelah*, *Havila*, *Hobabish*, *mishpehotam*. Il est
+*Terach* (תֶּרַח), *Nachor*, *Shelach*, *Chavila*, *Hobabish*, *mishpechotam*. Il est
 ==bien plus délicat== que celui-ci : le het y est souvent ==final==, et un het
 final après voyelle ne se traite pas comme un het initial. Plusieurs de ces
 formes sont en outre des noms propres déjà fixés dans des chapitres verrouillés.
@@ -1103,7 +1160,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | צְדָקָה | *tsedaqah* | **tsedaqah** | Intraduisible. Forme nominale de **tsedeq** : ==l'état ou l'acte d'être ajusté à l'ordre==. Jamais « justice » (*dikaiosyne*, catégorie grecque) ni « justification » (catégorie théologique tardive) — deux rendus que toutes les traductions existantes emploient et que l'ONT refuse. Inséparable du **mishpat** : *tsedaqah umishpat*, l'ordre-juste et le jugement-juste, sont le couple du droit divin. C'est elle qui est ==comptée== à Avraham en *Bereshit* 15:6, non gagnée par lui. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
 | מַבּוּל | *mabbul* | **mabbul** | Intraduisible. Le terme technique des eaux de *Bereshit* 6-9, et de nulle part ailleurs dans la Torah — le corpus ne l'emploie pour aucune autre inondation. Non « le déluge » (mot latin banalisé, appliqué à toute crue) : le **mabbul** est ==une dé-création temporaire==, le retour des eaux d'en haut et d'en bas sur un monde dont les écluses se rouvrent. Ce que *Bereshit* 1 avait séparé se remêle, puis la **Ruach** repasse sur les eaux comme au commencement. Premier emploi *Bereshit* 6:17. Laissé en hébreu. |
 | חֶסֶד | *chesed* | **chesed** | Intraduisible. La fidélité loyale envers celui à qui l'on est lié par une **berith** : tenir parole et agir pour son bien, dans la durée. Non pas "bonté" (trop faible — rate la loyauté engagée), ni "grâce" (catégorie théologique tardive de la faveur imméritée — importée, §4.7), ni "miséricorde" (le **chesed** est *dû* à l'intérieur d'un lien, non simple pitié). S'étend de la fidélité de **YHWH** envers les siens (*chasdo* — qui « dure **le'olam** », *Tehilim* 136) jusqu'à la loyauté entre humains liés (Ruth envers Naomi). Premier emploi en *Bereshit* 19:19 — le **chesed** qui garde le **Nefesh** de Lot. Même logique relationnelle qu'**emunah** : une posture de fidélité, non un sentiment. Traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 (*rav chesed*) et *Ruth*. Laissé en hébreu. |
-| עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Akhuzat olam* → **akhuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
+| עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Achuzat olam* → **achuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Le'olam* → **le'olam**. *Me'olam* → **me'olam**. Premier emploi *Bereshit* 3:22 (*vechai le'olam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *mo'ed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
 | חַטָּאת | *chattat* | **chattat** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattat** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattat**, **chata'ah** (*Bereshit* 18:20), **chata'im** (le pluriel adjectival, *Bereshit* 13:13). ==Attention à la finale== : חַטָּאת se termine par un ==tav==, donc **chattat** — le corpus a longtemps écrit « chattah », qui est l'habit de l'autre mot, חַטָּאָה, finale en ==he==. Les deux existent en hébreu biblique et l'ONT emploie les deux : **chattat** en *Bereshit* 4:7, **chata'ah** en *Bereshit* 18:20. Corrigé le 28 août 2026. Laissée en hébreu. |
@@ -1132,7 +1189,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | קָנָה | *qanah* | fonder et maîtriser | Double dimension inséparable dans l'hébreu antique : créer/fonder ET acquérir/posséder. *Qoneh shamayim va'arets* = "fondateur et maître des Cieux et de la Terre" — formule du dieu suprême dans les textes proche-orientaux. |
 | שָׁלִיחַ | *shaliach* | **shaliach** | Intraduisible. De *shalach* (שָׁלַח) — envoyer, mandater. L'envoyé-mandaté : celui qui porte l'autorité de celui qui l'envoie et agit en son nom. Équivalent hébreu exact du grec *apostolos* — jamais "apôtre" dans l'ONT. Le *shaliach* est défini par sa mission, pas par son statut. Pluriel : *shlichim* (שְׁלִיחִים). Même logique fonctionnelle que *mal'akh* : défini par l'envoi, pas par la nature. |
 | שִׁפְחָה | *shiphchah* | **shiphchah** | Intraduisible. La servante attachée à la sphère d'une **ishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shiphchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais **à qui l'on est attaché**. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Bereshit* 16:1. Laissée en hébreu. |
-| דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim ahadim*). |
+| דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim achadim*). |
 | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" — le terme latin réduit l'acte à sa dimension physique et perd la dimension covenantale de l'inscription. Premier emploi en *Bereshit* 17. |
 | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
 | עָרְלָה / עָרֵל | *orlah* / *arel* | **orlah** / **arel** | Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**orlah** est le lieu du signe de la **berith** ; mais le terme s'étend métaphoriquement : **orlah** du cœur (*Devarim* 10:16), **orlah** des lèvres (*Shemot* 6:12), **orlah** du fruit (*Vayiqra* 19:23). **Arel** : celui qui a encore son **orlah**, dont la chair n'a pas reçu le signe. Premier emploi en *Bereshit* 17:11. |
@@ -1274,14 +1331,14 @@ Certains nombres hébreux sont des **unités fonctionnelles**, non des durées p
 
 **Dans les gloses :** présenter explicitement toutes les lectures disponibles dans l'hébreu sans en choisir une. Formuler : "Le texte ne tranche pas", "L'hébreu laisse les deux lectures disponibles", "L'ambiguïté est dans la structure même de la phrase."
 
-**Exemple appliqué :** *ahi Yafet haggadol* (*Bereshit* 10:21) — haggadol peut qualifier Yaphet ("le frère de Yaphet-l'aîné") ou qualifier ahi ("le frère aîné de Yaphet"). Le texte ne résout pas l'ordre de naissance — la glose présente les deux lectures sans trancher.
+**Exemple appliqué :** *achi Yafet haggadol* (*Bereshit* 10:21) — haggadol peut qualifier Yaphet ("le frère de Yaphet-l'aîné") ou qualifier achi ("le frère aîné de Yaphet"). Le texte ne résout pas l'ordre de naissance — la glose présente les deux lectures sans trancher.
 
 ### 4.12 Les noms propres
 
 **Règle absolue pour tout l'ONT :** Les prénoms et noms propres hébreux sont conservés dans leur forme hébraïque originale — jamais dans leur forme latine ou française traditionnelle.
 
 - Qayin (jamais Caïn), Hevel (jamais Abel), Chavah (jamais Ève), Noach (jamais Noé), Avraham (jamais Abraham), etc.
-- **Cette règle s'applique aussi aux noms géographiques :** Sedom (jamais Sodome), Amorah (jamais Gomorrhe), Yarden (jamais Jourdain), Hevron (jamais Hébron), Mitsrayim (jamais Égypte dans les renvois géographiques), Kena'an (jamais Canaan), etc. **Ethnonymes de même** : *Mitsri* (masc.) / *Mitsrit* (fém.) / *Mitsrim* (pl.) — jamais « Égyptien(ne) » (ex. « Hagar la Mitsrit », *Bereshit* 16 ; « les Mitsrim », *Bereshit* 12). Pour l'emploi **adjectival** (langue, culture, architecture d'un peuple), utiliser « de Mitsrayim » (ex. « fortifications de Mitsrayim », « titre royal de Mitsrayim »).
+- **Cette règle s'applique aussi aux noms géographiques :** Sedom (jamais Sodome), Amorah (jamais Gomorrhe), Yarden (jamais Jourdain), Chevron (jamais Hébron), Mitsrayim (jamais Égypte dans les renvois géographiques), Kena'an (jamais Canaan), etc. **Ethnonymes de même** : *Mitsri* (masc.) / *Mitsrit* (fém.) / *Mitsrim* (pl.) — jamais « Égyptien(ne) » (ex. « Hagar la Mitsrit », *Bereshit* 16 ; « les Mitsrim », *Bereshit* 12). Pour l'emploi **adjectival** (langue, culture, architecture d'un peuple), utiliser « de Mitsrayim » (ex. « fortifications de Mitsrayim », « titre royal de Mitsrayim »).
 - **La règle vaut dans le corps du texte ET dans les gloses** — ne jamais écrire la forme française même dans une glose d'explication.
 - Raison : les noms hébreux sont sémantiquement chargés — leur étymologie est partie intégrante du texte. Traduire le nom en efface le sens.
 - **Règle absolue — niveau 2 ET niveau 3 obligatoires :** À la première occurrence de chaque nom propre dans chaque **parashah**, le nom doit porter à la fois son niveau 3 (translittération / הָעִבְרִית) ET sa glose (expliquant l'étymologie et la signification fonctionnelle du Shem). Exemple : Yaphet (*Yaphet* / יֶפֶת) *[de pata : étendre, élargir — son Shem porte la dotation que Noach lui formulera]*. Les occurrences suivantes du même nom dans la même unité n'ont pas besoin de répéter la glose — le nom seul suffit.
@@ -1592,9 +1649,9 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 - **Bereshit 8** (Genèse 9:1-17) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-8.md` — la re-création après le *mabbul*, la *berith* noachide, *adam* intraduisible à partir d'ici, *olam*. (L'*olah* de Noach, Gn 8:20, est traitée en Bereshit 7, qui couvre Gn 7-8.)
 - **Bereshit 9** (Genèse 9:18-29) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-9.md` — l'incident de la vigne, *ish ha'adamah*, *galah*, *arur* sur Kena'an, dotations de Shem et Yaphet, *shakan* (ambiguïté du sujet maintenue).
 - **Bereshit 10** (Genèse 10:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-10.md` — table des nations, *toledot* des fils de Noach, Nimrod (*gibor*, écho des Nephilim), *mamlakhah*, *lifnei YHWH* (ambiguïté maintenue), Ever / *ivri*, Peleg / *palag*.
-- **Bereshit 11** (Genèse 11:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terah, *aqarah* (stérilité de Sarai), Haran personne / Haran ville (homonymie délibérée).
+- **Bereshit 11** (Genèse 11:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terach, *aqarah* (stérilité de Sarai), Charan personne / Charan ville (homonymie délibérée).
 - **Bereshit 12** (Genèse 12:1-20) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-12.md` — *lekh-lekha* (ambiguïté maintenue), promesse à Avraham, *vayera* (mode de la révélation aux patriarches), *zera* (premier emploi dans la promesse), *niverekhu* (passif ou réflexif — ambiguïté maintenue), descente en Égypte, *nega'im* (écho de Shemot).
-- **Bereshit 13** (Genèse 13:1-18) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh ba'arets*, Hevron comme premier ancrage durable.
+- **Bereshit 13** (Genèse 13:1-18) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh ba'arets*, Chevron comme premier ancrage durable.
 - **Bereshit 14** (Genèse 14:1-24) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **El Elyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim va'arets*, *ha-ivri* (double étymologie maintenue), *ba'alei berit*, *ma'aser* (ambiguïté du sujet maintenue), identification **YHWH**-**El Elyon** par Avram (v.22).
 - **Bereshit 15** (Genèse 15:1-21) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-15.md` — *berith bein habetarim*, **emunah** (intraduisible — verbe *he'emin* rendu "**emuna**"), **tsedaqah** (premier emploi — forme nominale de *tsedeq*), **tsadiq** (déjà posé en Bereshit 6:9), *machazeh* (vision intérieure, distinct de *vayera*), *tardemah* (écho délibéré de Bereshit 2:21), *ger* (premier emploi — étranger résident sans droits), *avon* (premier emploi — torsion structurelle, distinct de *chata* et *ra*), *berith* unilatérale confirmée (seul **YHWH** passe entre les morceaux), prophétie de l'exil et ambiguïté 400 ans / quatrième génération maintenue.
 - **Bereshit 16** (Genèse 16:1-16) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-16.md` — **mal'akh** **YHWH** (premier emploi — intraduisible, ambiguïté délibérée entre le **mal'akh** et **YHWH** maintenue), **El Roï** (premier emploi — unique dans toute la Bible, donné par Hagar), Hagar (*ger* sans droits — première occurrence d'un personnage non-hébreu central), Ishma'el ("El entend"), Beer-lachai-roi, *shiphchah* vs *amah*, ambiguïté de *acharei ro'i* (v.13b — trois lectures maintenues sans résolution).

@@ -1,10 +1,10 @@
-# Havilah
+# Chavilah
 
 ## Le Shem
 
-(*Havilah* / חֲוִילָה) — ==le pays de Havilah==, que le [[Pishon]] entoure.
+(*Chavilah* / חֲוִילָה) — ==le pays de Chavilah==, que le [[Pishon]] entoure.
 
-C'est ==la même graphie longue== de ce que la table des nations écrit [[Havila]] : deux formes du même **Shem**, et l'ONT garde celle que chaque unité porte.
+C'est ==la même graphie longue== de ce que la table des nations écrit [[Chavila]] : deux formes du même **Shem**, et l'ONT garde celle que chaque unité porte.
 
 ## Ce que le corpus en fait
 
@@ -18,6 +18,6 @@ Ce qui compte ici : ==ce qui ornera le Temple est nommé dans la description du 
 
 ## Voir aussi
 
-L'autre graphie : [[Havila]], dans la table des nations.
+L'autre graphie : [[Chavila]], dans la table des nations.
 
 Le fleuve qui l'entoure : [[Pishon]].

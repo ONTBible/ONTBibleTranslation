@@ -22,7 +22,7 @@ Le détail du dos tourné n'est pas un ornement narratif. Dans une scène dont t
 
 C'est ce que le corpus met sur ce nom-là. La ligne qui portera la **berith** n'est pas déclarée supérieure : elle est déclarée ==celle dont **YHWH** est l'**Elohim**==. La dotation passe par la relation, pas par le rang.
 
-De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe de l'autre côté== —, puis Terah, puis Avraham. Toute la suite du corpus descend de ce fils-là.
+De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe de l'autre côté== —, puis Terach, puis Avraham. Toute la suite du corpus descend de ce fils-là.
 
 ## Voir aussi
 

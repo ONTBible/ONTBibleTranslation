@@ -14,4 +14,4 @@ Dans un corpus où nommer c'est faire entrer dans l'ordre, ==être nommé une fo
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Lehabim]], [[Naftuhim]], [[Patrusim]], [[Kasluhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].

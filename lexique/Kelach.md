@@ -1,8 +1,8 @@
-# Kelah
+# Kelach
 
 ## Le Shem
 
-(*Kelah* / כֶּלַח) — une ==grande cité assyrienne==, probablement l'actuel Nimroud.
+(*Kelach* / כֶּלַח) — une ==grande cité assyrienne==, probablement l'actuel Nimroud.
 
 ## Ce que le corpus en fait
 

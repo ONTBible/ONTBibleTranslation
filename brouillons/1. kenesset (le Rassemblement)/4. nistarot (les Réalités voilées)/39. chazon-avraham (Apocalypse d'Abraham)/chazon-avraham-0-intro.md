@@ -70,7 +70,7 @@ Sa réponse est architecturale, non morale : il fut porté au-dessus du firmamen
 
 Le livre a deux versants, et une charnière nette.
 
-*Le premier versant* est terrestre et presque domestique. [[Avraham]] sert dans l'atelier de [[Terah]] son père, qui taille et vend des dieux. Une idole de pierre tombe et se brise ; son père lui retaille une tête. Une idole de bois, laissée à garder le feu, y est réduite en cendres — et [[Avraham]] rapporte à son père, avec ironie, qu'elle s'est admirablement occupée du foyer. De là il remonte l'échelle des éléments et n'y trouve personne qui tienne. Alors une voix vient des Cieux : *sors de la maison de ton père*. Il sort ; le feu descend et consume la maison.
+*Le premier versant* est terrestre et presque domestique. [[Avraham]] sert dans l'atelier de [[Terach]] son père, qui taille et vend des dieux. Une idole de pierre tombe et se brise ; son père lui retaille une tête. Une idole de bois, laissée à garder le feu, y est réduite en cendres — et [[Avraham]] rapporte à son père, avec ironie, qu'elle s'est admirablement occupée du foyer. De là il remonte l'échelle des éléments et n'y trouve personne qui tienne. Alors une voix vient des Cieux : *sors de la maison de ton père*. Il sort ; le feu descend et consume la maison.
 
 *La charnière est le sacrifice de la **berith***. La voix commande les cinq animaux de *Bereshit* 15:9 — une génisse de trois ans, une chèvre, un bélier, une tourterelle, un pigeon — et quarante jours sans pain ni eau. [[Avraham]] tombe face contre terre, sans souffle. Un **mal'akh** est envoyé pour le relever : [[Yaho'el]], en qui le **Shem** habite. Ils marchent quarante jours jusqu'à la montagne d'El.
 
@@ -80,7 +80,7 @@ Le livre a deux versants, et une charnière nette.
 
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
-| L'atelier de [[Terah]] | l'idole est une œuvre de main qui ne se sauve pas elle-même | *Yovelim* 11-12 ; Josèphe, *Ant.* 1.155 ; *Bereshit* 11 |
+| L'atelier de [[Terach]] | l'idole est une œuvre de main qui ne se sauve pas elle-même | *Yovelim* 11-12 ; Josèphe, *Ant.* 1.155 ; *Bereshit* 11 |
 | *L'échelle du discernement* | on ne prouve pas **El**, on discerne qui assigne les fonctions | *Bereshit* 1:14-18 (démythologisation des luminaires) |
 | Le sacrifice comme véhicule | la **berith** des morceaux n'est pas le cadre du livre : elle en est l'armature | *Bereshit* 15 (verrouillé) |
 | [[Yaho'el]], le **mal'akh** qui porte le **Shem** | l'envoyé en qui le Nom habite — sa fonction *est* son **Shem** | *Shemot* 23:20-21 ; *Bereshit* 16 (ambiguïté déjà maintenue) |
@@ -113,7 +113,7 @@ Enfin le *Machazeh Yohanan* (n° 70), qui occupe dans la *Berit Hadashah* le mod
 
 *Découpage en **parashiot** proposé.* Les chapitres slavons sont indiqués entre parenthèses à titre de repère critique ; l'ONT suit la fonction accomplie, non la division du manuscrit (§2.3).
 
-*La maison de ==Terah== :* ① l'atelier, la pierre brisée et le bois consumé (sl. 1-4) → ② l'échelle du discernement (sl. 5-7) → ③ la voix, la sortie, le feu sur la maison (sl. 8).
+*La maison de ==Terach== :* ① l'atelier, la pierre brisée et le bois consumé (sl. 1-4) → ② l'échelle du discernement (sl. 5-7) → ③ la voix, la sortie, le feu sur la maison (sl. 8).
 
 *La charnière — la **berith** :* ④ les cinq animaux commandés et les quarante jours (sl. 9) → ⑤ [[Yaho'el]] envoyé pour le relever (sl. 10-11) → ⑥ l'Horeb, les corps disposés, l'oiseau impur chassé (sl. 12-14).
 
@@ -143,8 +143,8 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 - **kavod** (*kavod* / כָּבוֹד) — *intraduisible déjà posé*. Pièce maîtresse du livre sous la forme du ==vêtement== : ce qu'un être du domaine haut a quitté est mis en réserve pour [[Avraham]]. Même ontologie que la **kavod** d'Adam (*Toledot*), et même logique **kavod** / *qalal* que *Bereshit* 7-8.
 - **merkavah**, **mal'akh**, **mishpat**, **berith**, **goyim**, **tsedaqah**, **Shem** — *tous déjà posés*. Ce livre n'introduit ==aucun intraduisible neuf== : il réactive un vocabulaire acquis dans un registre nouveau.
 - *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ophanim* (les roues), *tardemah* (déjà posé, *Bereshit* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
-- Noms propres déjà dans le corpus : [[Avraham]], [[Terah]], Nachor, [[Haran]] (*Bereshit* 11-12, verrouillés). Adam et [[Chavah]] au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
-- *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 ([[Terah]], *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Chanokh==* 8-10 ; *Yovelim* 11-12.
+- Noms propres déjà dans le corpus : [[Avraham]], [[Terach]], Nachor, [[Charan]] (*Bereshit* 11-12, verrouillés). Adam et [[Chavah]] au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
+- *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 ([[Terach]], *lekh-lekha*), *Bereshit* 16 (le **mal'akh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Chanokh==* 8-10 ; *Yovelim* 11-12.
 
 ## Sources à consulter
 

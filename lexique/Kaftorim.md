@@ -8,7 +8,7 @@
 
 Ils sont peut-être ==les ancêtres des « Peuples de la Mer »== qui bouleverseront le Proche-Orient au douzième siècle avant l'ère commune — la vague de migrations qui a fait tomber des empires.
 
-Leur position dans la liste est double et un peu troublante : ils y figurent ==comme frères des [[Kasluhim]]==, et *Amos* 9:7 fait monter les [[Pelishtim]] ==de Kaphtor==.
+Leur position dans la liste est double et un peu troublante : ils y figurent ==comme frères des [[Kasluchim]]==, et *Amos* 9:7 fait monter les [[Pelishtim]] ==de Kaphtor==.
 
 Le corpus n'aplanit pas cette double présence. ==Elle reflète les entrelacs réels des migrations méditerranéennes== — des peuples qui se déplacent, se mêlent, et qu'on rattache tantôt à l'un tantôt à l'autre selon ce qu'on veut dire.
 

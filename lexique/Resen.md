@@ -2,7 +2,7 @@
 
 ## Le Shem
 
-(*Resen* / רֶסֶן) — une ville d'[[Assur]], située ==entre [[Ninveh]] et [[Kelah]]==.
+(*Resen* / רֶסֶן) — une ville d'[[Assur]], située ==entre [[Ninveh]] et [[Kelach]]==.
 
 ## Ce que le corpus en fait
 
@@ -16,4 +16,4 @@ Ce qu'on peut dire : le premier royaume humain n'est pas décrit comme un campem
 
 ## Voir aussi
 
-Sa position : entre [[Ninveh]] et [[Kelah]], dans [[Assur]] — fondée par [[Nimrod]].
+Sa position : entre [[Ninveh]] et [[Kelach]], dans [[Assur]] — fondée par [[Nimrod]].

@@ -16,6 +16,6 @@ Ce n'est pas un hasard, et le corpus le permet en rangeant ce pays ici, longtemp
 
 ## Voir aussi
 
-Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Houl]], [[Geter]], [[Mash]].
+Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Choul]], [[Geter]], [[Mash]].
 
 Ce qui s'y passe : le livre d'*Iyov*, et le Conseil Divin où **ha-satan** prend la parole.

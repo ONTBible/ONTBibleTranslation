@@ -1,8 +1,8 @@
-# Yerah
+# Yerach
 
 ## Le Shem
 
-De *yerah* (*yerah* / יֶרַח) — ==la lune==, et par extension ==le mois lunaire==.
+De *yerach* (*yerach* / יֶרַח) — ==la lune==, et par extension ==le mois lunaire==.
 
 ## Ce que le corpus en fait
 

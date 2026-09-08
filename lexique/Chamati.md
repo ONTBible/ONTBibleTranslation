@@ -1,8 +1,8 @@
-# Hamati
+# Chamati
 
 ## Le Shem
 
-(*Hamati* / הַחֲמָתִי) — ==Hamat==, ville sur l'Oronte, en Syrie.
+(*Chamati* / הַחֲמָתִי) — ==Hamat==, ville sur l'Oronte, en Syrie.
 
 ## Ce que le corpus en fait
 
@@ -14,4 +14,4 @@ Elle ferme donc, au septentrion, la portion de liste que [[Tsidon]] ouvrait au m
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].

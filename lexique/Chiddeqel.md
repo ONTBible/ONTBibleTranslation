@@ -1,8 +1,8 @@
-# Hiddeqel
+# Chiddeqel
 
 ## Le Shem
 
-(*Hiddeqel* / חִדֶּקֶל) — ==le Tigre==, l'un des deux grands fleuves de Mésopotamie.
+(*Chiddeqel* / חִדֶּקֶל) — ==le Tigre==, l'un des deux grands fleuves de Mésopotamie.
 
 ## Ce que le corpus en fait
 

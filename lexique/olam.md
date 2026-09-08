@@ -159,7 +159,7 @@ empêche un état d'être ==sans horizon==.
 Quand ==olam== entre dans un construit, le vault translittère ==le groupe
 entier== plutôt que d'en traduire la moitié :
 
-    berith-olam · akhuzat-olam · ledorot-olam · ad-olam · le'olam · me'olam
+    berith-olam · achuzat-olam · ledorot-olam · ad-olam · le'olam · me'olam
 
 Couper le construit reviendrait à rendre en français le mot qui porte justement
 ce que le français ne sait pas dire. Et une *berith-==olam==* cesse alors d'être

@@ -18,6 +18,6 @@ Et la famille d'[[Avraham]] viendra de là. Paddan-Aram est le pays d'où l'on r
 
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[Elam]], [[Assur]], [[Arpakhshad]], [[Loud]].
 
-Ses fils : [[Oust]], [[Houl]], [[Geter]], [[Mash]].
+Ses fils : [[Oust]], [[Choul]], [[Geter]], [[Mash]].
 
 Ce que sa langue porte : le *Sefar Gibbaraya*, et des parties de *Daniel* et d'*Ezra*.

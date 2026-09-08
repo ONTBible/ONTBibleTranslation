@@ -12,6 +12,6 @@ L'ONT garde ce que *Bereshit* écrit, et signale la variante sans trancher. C'es
 
 ## Voir aussi
 
-Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Oust]], [[Houl]], [[Geter]].
+Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Oust]], [[Choul]], [[Geter]].
 
 La forme voisine dans l'autre lignée : [[Meshekh]].

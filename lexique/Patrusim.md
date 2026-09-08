@@ -4,7 +4,7 @@
 
 (*Patrusim* / פַּתְרֻסִים) — ==Patros==, la Haute [[Mitsrayim]] : le pays du midi, en amont du fleuve.
 
-Avec [[Naftuhim]], il forme l'autre moitié du duel que porte le **Shem** de son père.
+Avec [[Naftuchim]], il forme l'autre moitié du duel que porte le **Shem** de son père.
 
 ## Ce que le corpus en fait
 
@@ -16,6 +16,6 @@ C'est un motif que la table des nations rend possible et qu'il faut savoir lire 
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; son pendant du septentrion, [[Naftuhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; son pendant du septentrion, [[Naftuchim]].
 
 Où le corpus le reprend : *Yeshayahu* 11, le rassemblement des restes.

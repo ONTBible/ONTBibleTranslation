@@ -8,7 +8,7 @@
 
 Ce qui compte ici n'est pas le sens du nom, c'est ==la position==.
 
-Il est ==l'ancêtre direct de la lignée qui conduira à [[Avraham]]== — la ligne généalogique centrale de tout le corpus. De lui vient [[Shelah]], puis [[Ever]], puis [[Peleg]], et ainsi jusqu'à Terah et son fils.
+Il est ==l'ancêtre direct de la lignée qui conduira à [[Avraham]]== — la ligne généalogique centrale de tout le corpus. De lui vient [[Shelach]], puis [[Ever]], puis [[Peleg]], et ainsi jusqu'à Terach et son fils.
 
 Le texte ne le souligne pas. Il le nomme comme les autres, entre [[Assur]] et [[Loud]], sans un mot pour indiquer que ==toute la suite passe par lui==.
 
@@ -18,4 +18,4 @@ C'est la manière du chapitre, et elle demande d'être lue à l'envers : on ne s
 
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[Elam]], [[Assur]], [[Loud]], [[Aram]].
 
-Sa ligne : [[Shelah]] son fils, puis [[Ever]], [[Peleg]], et jusqu'à [[Avraham]].
+Sa ligne : [[Shelach]] son fils, puis [[Ever]], [[Peleg]], et jusqu'à [[Avraham]].

@@ -2640,13 +2640,13 @@ n'est vaut moins que pas de garde.
 
 ### 1ᵉʳ septembre 2026 — une stratigraphie écrite sans son apparat
 
-Le *Chazon Avraham* fait descendre un feu sur la maison de Terah. La
+Le *Chazon Avraham* fait descendre un feu sur la maison de Terach. La
 stratigraphie du livre affirmait que le récit **répondait au silence de
-*Bereshit* 11:28** sur la mort de Haran.
+*Bereshit* 11:28** sur la mort de Charan.
 
 Vérification faite au texte : **c'est faux du témoin de base.** Le Codex
-Sylvester, le plus ancien des six slavons, fait périr **Terah**. La version où
-Haran meurt est une **insertion** de trois manuscrits tardifs, et cette
+Sylvester, le plus ancien des six slavons, fait périr **Terach**. La version où
+Charan meurt est une **insertion** de trois manuscrits tardifs, et cette
 insertion **harmonise** — elle comble le silence de la Torah et rejoint
 *Yovelim*. Une couche de copiste, du genre exact que le filtre du livre écarte.
 

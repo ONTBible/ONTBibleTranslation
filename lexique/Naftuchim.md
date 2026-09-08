@@ -1,8 +1,8 @@
-# Naftuhim
+# Naftuchim
 
 ## Le Shem
 
-(*Naftuhim* / נַפְתֻּחִים) — peut-être ==le Delta du Nil==, la Basse [[Mitsrayim]] dans sa dimension propre : Memphis et ses environs.
+(*Naftuchim* / נַפְתֻּחִים) — peut-être ==le Delta du Nil==, la Basse [[Mitsrayim]] dans sa dimension propre : Memphis et ses environs.
 
 ## Ce que le corpus en fait
 
@@ -14,6 +14,6 @@ La géopolitique réelle d'un pays à deux terres est donc ==inscrite dans la g�
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Patrusim]], [[Kasluhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Patrusim]], [[Kasluchim]].
 
 Son pendant du midi : [[Patrusim]], la Haute Mitsrayim.

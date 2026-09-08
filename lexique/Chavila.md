@@ -1,8 +1,8 @@
-# Havila
+# Chavila
 
 ## Le Shem
 
-(*Havila* / חֲוִילָה) — et c'est ==la même Havila qu'en *Bereshit* 2==, celle que le premier fleuve du Jardin entoure.
+(*Chavila* / חֲוִילָה) — et c'est ==la même Chavila qu'en *Bereshit* 2==, celle que le premier fleuve du Jardin entoure.
 
 Là, elle était nommée par ce qu'elle contient : ==l'or, la bdellium et la pierre de shoham==. Le texte prenait soin de dire que l'or y était bon.
 

@@ -6,7 +6,7 @@
 
 ## Ce que le corpus en fait
 
-Maillon de la ligne entre [[Re'u]] et [[Nahor]], grand-père de [[Terah]].
+Maillon de la ligne entre [[Re'u]] et [[Nachor]], grand-père de [[Terach]].
 
 Le corpus ne lui donne ni parole ni acte. Il tient une place dans la descente qui mène d'[[Ever]] à [[Avraham]], et c'est cette place qui compte.
 
@@ -14,4 +14,4 @@ On peut relever que la liste de *Bereshit* 11 ==ne dit jamais « et il mourut »
 
 ## Voir aussi
 
-Sa ligne : [[Re'u]] son père, [[Nahor]] son fils, puis [[Terah]] et [[Avraham]].
+Sa ligne : [[Re'u]] son père, [[Nachor]] son fils, puis [[Terach]] et [[Avraham]].
