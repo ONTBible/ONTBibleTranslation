@@ -1682,6 +1682,72 @@ La notion antique d'auteur est **fonctionnelle**, non moderne-individuelle. Deux
 
 Ainsi la Torah est mosaïque par **autorité**, non par chaque trait de plume : *Devarim* 34 raconte la mort de Mosheh, et *Bava Batra* 14b-15a le reconnaît depuis toujours (Yehoshua écrivit les derniers versets). Le régime d'auteur nomme *à qui la vérité appartient*, pas seulement *quelle main a tenu le calame*.
 
+### 4.16 L'infinitif absolu — l'hébreu double le verbe, le français aussi
+
+**Décision de l'auteur du 8 septembre 2026.** L'hébreu pose parfois le verbe
+==deux fois== : d'abord à l'infinitif nu, puis conjugué — *mot tamut*
+(מוֹת תָּמוּת), *harbeh arbeh* (הַרְבָּה אַרְבֶּה). Ce n'est pas une redondance de
+style : la forme nue ==renforce== la forme conjuguée, et le français n'a pas
+cette machine.
+
+**La forme retenue : infinitif, virgule, verbe conjugué.**
+
+    mot tamut        mourir, tu mourras
+    akhol tokhel     manger, tu mangeras
+    harbeh arbeh     multiplier, je multiplierai
+    yadoaʿ tedaʿ     savoir, tu sauras
+    hayo yihyeh      devenir, il deviendra
+
+**Pourquoi l'infinitif et non le participe.** « Mourant, tu mourras » se lit
+==pendant que tu meurs, tu mourras== : le participe français pose une
+==simultanéité==. L'hébreu ne pose aucun temps — *mot* est une forme ==nue==,
+sans personne et sans moment, qui nomme l'action sans la situer.
+
+L'infinitif français fait ==la même opération==, et placé en tête il est une
+vraie tournure d'insistance : *« Mourir, tu mourras »* se lit *« pour ce qui
+est de mourir : tu mourras »*. Ce n'est pas un calque, c'est ==une
+topicalisation== — exactement ce que l'hébreu fait en avançant l'infinitif.
+
+**La valeur se dit dans la glose, jamais dans le corps.** La construction porte
+==deux valeurs== selon le contexte, et le corps ne les distingue pas :
+
+- ==la certitude== — *mot tamut* ne dit pas « tu risques de mourir » mais que
+  ==cela aura lieu==. C'est le cas des verbes d'état ;
+- ==l'intensité== — *harbeh arbeh* ne dit pas « il est sûr que je multiplierai »
+  mais ==en très grande mesure==. C'est le cas des verbes de quantité.
+
+Le corps double toujours de la même façon ; ==c'est la glose qui nomme la
+valeur==. Le lecteur voit ainsi la même opération partout et apprend à la lire,
+au lieu de rencontrer deux tournures françaises sans savoir qu'elles rendent
+un seul geste hébreu.
+
+**L'état où la règle a été trouvée.** ==Sept occurrences, six traitements== —
+et deux versets consécutifs du même chapitre en portaient deux différents :
+
+    akhol tokhel   Bereshit 2:12   « tu peux manger en mangeant »      gérondif
+    mot tamut      Bereshit 2:13   « mourant, tu mourras »             participe
+    lo mot temutun Bereshit 3:4    « Mourants, vous ne mourrez pas »   participe pluriel
+    harbeh arbeh   Bereshit 3:16   « J'augmenterai grandement »        ==effacé==
+    yadoaʿ tedaʿ   Bereshit 15:13  « Sache, sache »                    impératif doublé
+    harbeh arbeh   Bereshit 16:10  « Je multiplierai, multipliant »    verbe + participe
+    hayo yihyeh    Bereshit 18:18  « deviendra vraiment »              ==effacé==
+
+==Les gloses nommaient déjà la construction== là où le corps l'écrasait : celle
+de 2:13 décrit le doublement de 2:12 ==et en donne le bon rendu==, que le corps
+de 2:12 n'employait pas. L'apparat savait ; le corps ne suivait pas.
+
+**Ce que l'effacement coûte, mesuré sur un cas.** En *Bereshit* 3:4, le serpent
+ne discute pas la parole du Jardin : ==il en reprend la forme==. *Mot tamut*
+devient *lo mot temutun* — la construction qui portait l'irréversibilité de la
+mort, retournée pour porter celle de la survie. ==Une contre-parole de puissance
+formelle égale.== Rendre l'une par un doublement et l'autre par un adverbe
+==efface l'affrontement== et laisse une simple contradiction de contenu.
+
+**Deux coquilles sorties de la même passe.** Le corpus écrivait *akol tokhel* —
+or אָכֹל porte un ==kaf sans dagesh==, donc `kh` (§2.9) : *akhol*. Et la même
+formule s'écrivait *harbeh* en *Bereshit* 3 et *harba* en *Bereshit* 16. Le
+premier mot de *yadoaʿ tedaʿ* perdait en outre son ==ayin final==.
+
 ---
 
 ## 5. CE QUI DISTINGUE L'ÊTRE HUMAIN DE L'ANIMAL
