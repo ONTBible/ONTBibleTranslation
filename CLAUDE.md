@@ -868,6 +868,81 @@ quand 1 *Chanokh* sera écrit.==
   l'ONT==`). L'accentuation ne disparaît pas, elle cesse seulement de servir aux
   noms propres.
 
+### 2.11 Les renvois entre chuqqot — la quatrième couche
+
+**Décision de l'auteur du 8 septembre 2026.** Une chuqqah qui en cite une autre
+la ==rend touchable==, et le renvoi porte sa propre couleur.
+
+#### La marque : rien de neuf
+
+Le lien natif d'Obsidian, avec libellé : `[[cible|libellé]]`. Le pipeline le lit
+déjà — la cible joint, le libellé s'affiche.
+
+    La première chuqqah — [[l-olam-est-un-regard|L'olam est un regard]] —
+    a posé que l'**olam** est ==un rapport de perceptibilité==.
+
+==La distinction se fait sur la cible, non sur la marque.== Si elle retombe sur
+une fiche de `lexique/`, c'est un **Shem** ; si elle retombe sur une chuqqah,
+c'est un renvoi. Le traducteur n'a donc ==aucune marque de plus à retenir==, et
+le lien reste cliquable dans Obsidian même — le critère qui avait fait choisir
+`[[…]]` pour les Shemot.
+
+#### La couleur : un bronze, et pour la première fois la teinte ne traverse pas
+
+    #953D0E   parchemin 6,55:1   clair 7,11:1     teinte  21°
+    #D08C43   sombre    6,55:1   mystique 6,93:1  teinte  31°
+
+**Le §2.10 posait que ce qui est commun est la teinte et le nom de la couche, et
+que seule la valeur se remesure. ==Cette couche y déroge, et il faut dire
+pourquoi.==**
+
+L'auteur voulait un bronze. Le §2.10 l'avait écarté pour les Shemot — ==ΔE 11 de
+l'or==, très sous le plancher de 25 —, mais la question se repose autrement pour
+une quatrième couche, et elle a été ==remesurée== plutôt que déduite de la
+première décision.
+
+Le résultat est ==asymétrique==, et personne ne l'attendait :
+
+- ==de nuit, le bronze passe==. 226 valeurs tiennent les quatre écarts et le
+  plancher de 6,5:1. `#D08C43` donne ΔE 31 de l'or, 51 du bordeaux, 25 de la
+  terre brûlée, 48 de l'encre ;
+- ==de jour, aucune==. Le moins mauvais bronze manque des deux côtés à la fois —
+  ΔE 24 pour 25, contraste 6,36 pour 6,5 — et ce n'est déjà plus un bronze.
+
+**La raison est structurelle.** Sur fond clair, il faut être ==sombre== pour
+tenir 6,5:1 ; or c'est exactement là que vit la terre brûlée des Shemot. Deux
+bruns chauds ne peuvent pas occuper la même case de clarté. Sur fond sombre, il
+faut être ==clair==, et l'or y est — mais un bronze plus saturé et plus orangé
+s'en écarte assez.
+
+D'où la valeur de jour : `#953D0E`, une ==sienne brûlée== à 21°. C'est ==la
+teinte la plus proche du bronze== qui passe sans rien abaisser — dix degrés
+d'écart, et tous les écarts confortables : or 38, bordeaux 38, terre 27, encre
+56.
+
+**Ce qui a été refusé, et pourquoi le dire compte.** Deux relâchements auraient
+laissé passer un vrai bronze de jour, et les deux ont été mesurés :
+
+- ==plancher ΔE ramené à 21== — `#8F4119` passe, mais son écart aux **Shemot**
+  tombe à 21. Un nom propre et un renvoi dans le même paragraphe cesseraient de
+  se distinguer, ce qui est précisément le défaut que la mesure existe pour
+  prévenir ;
+- ==contraste ramené au seuil AA de 4,5== — `#A0481C` passe, à 5,62:1 sur
+  parchemin. Écarté : c'est le plancher qui sert le plus le lecteur, et le
+  projet s'est donné 6,5 délibérément (§2.10).
+
+**Et la valeur se remesure sur chaque fond, comme toujours.** Ces deux-ci sont
+mesurées sur les fonds de l'app. Le site a sa propre nuit — une aubergine — et
+devra dériver les siennes, ==en gardant les teintes 21° et 31°==, non les hex.
+
+#### Ce que la couche attend encore
+
+==Elle n'est pas rendue.== Le pipeline ne distingue pas encore la cible d'un
+`[[…]]`, donc un renvoi écrit aujourd'hui sortirait ==en terre brûlée== et le
+lecteur croirait toucher un nom propre. Les chuqqot écrites ne portent donc
+aucun renvoi touchable, et ==c'est délibéré== : elles nomment les autres en
+toutes lettres, sans lien, jusqu'à ce que l'émission sache trancher.
+
 ---
 
 ## 3. TERMINOLOGIE FIXÉE — GLOSSAIRE COMPLET
