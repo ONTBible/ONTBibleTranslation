@@ -3335,6 +3335,31 @@ Et le fait que l'entrée ait rétréci ==avant== d'être portée dans les trois 
 est le seul mérite du procédé : une formulation trop large, portée trois fois,
 aurait été trois fois plus longue à défaire.
 
+#### Annoncer le geste ne suffit pas — il faut annoncer le contenu
+
+Constat de la session Android, sur cette entrée même. Le skill
+`concerter-les-sessions` demande d'annoncer ==avant== de toucher à ce qui est
+partagé. Il ne demande pas d'annoncer ==quoi==.
+
+La différence est entière pour celui qui reçoit :
+
+> Une annonce qui dit seulement le geste le laisse choisir entre faire confiance
+> et tout relire. Une annonce qui dit le contenu lui permet de vérifier ==la
+> partie qui le concerne==, et rien d'autre.
+
+Éprouvé ici : l'annonce portait les deux points mécaniques qui engageaient
+l'app, et la session Android les a ==vérifiés dans son code== au lieu de les
+découvrir dans un diff. Les deux ont tenu, et sa vérification vaut mieux que mon
+affirmation :
+
+- son nœud est `data class Shem(val value: String, val lemma: String)` — il ne
+  porte ==aucun genre==. La distinction identité / fonction vit dans la fiche,
+  jamais dans le nœud, donc le rendu ==ne peut pas diverger par construction==.
+  C'est plus solide qu'une décision de ne rien changer : il n'y a rien à changer ;
+- si la canonisation de `kelim` ratait, l'app ne casse pas — elle affiche que le
+  terme est balisé sans avoir encore d'entrée. ==Visible sans être grave==, ce
+  qui est la bonne façon d'échouer.
+
 #### Ce que le vault a décidé d'autre, et qui traverse
 
 - **La couche des Shemot distingue un `Shem` d'identité d'un `Shem` de
