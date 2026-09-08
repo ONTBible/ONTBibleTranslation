@@ -14,10 +14,31 @@ mot sort en or et le lecteur le touche. Employé pour insister — « le poids
 Le pipeline le relève déjà dans son rapport ; ce script le **corrige**, ce qui
 est plus utile quand on écrit cent fiches d'affilée.
 
-**Les blocs que la liseuse ne rend pas.** `TermSheet.swift` n'affiche que les
-paragraphes et laisse tomber le reste **sans rien dire** : un titre
-intermédiaire ou une liste disparaîtrait chez le lecteur, en silence. Seul le
-titre `#` de première ligne est admis — le pipeline l'ignore.
+**Les blocs que la liseuse ne rend pas.** Elle en avale certains **sans rien
+dire** : ils disparaissent chez le lecteur, en silence, et rien ne le signale.
+
+Ce contrôle ne vaut donc que s'il décrit **ce que le consommateur fait
+aujourd'hui**. Relevé dans `BlocDeFiche.swift` le 8 septembre 2026, en lisant
+son `switch` :
+
+    .paragraph  .heading  .list  .quote  .rule    rendus
+    .verses  .table                               EmptyView() — avalés
+
+Seuls les **tableaux** sont donc à signaler. Les versets ne concernent pas une
+fiche, qui n'en porte pas.
+
+**Ce que ce commentaire disait avant, et pourquoi c'est instructif.** Il tenait
+les titres et les listes pour perdus, en nommant un `TermSheet.swift` qui ne
+fait plus le rendu. C'était vrai jusqu'au 30 août 2026, date à laquelle le §2.5
+ter a permis les titres intermédiaires *parce que la liseuse avait appris à les
+rendre*. Le script n'a pas suivi, et il a signalé pendant neuf jours des fautes
+qui n'en étaient plus — sur des fiches parfaitement rendues.
+
+C'est le motif que le journal a nommé le 8 septembre : **une mesure juste dont
+la fraîcheur est invisible**. Rien dans la sortie ne disait de quand datait la
+capacité qu'elle supposait. D'où le relevé daté ci-dessus, et la règle qui
+suit : **avant de croire ce contrôle, rouvrir `BlocDeFiche.swift` et comparer
+son `switch` au tableau.**
 
 ## Pourquoi il lit `dist/glossary.json`
 
@@ -62,7 +83,9 @@ def main() -> None:
 
         for n, ligne in enumerate(texte.split("\n"), 1):
             nu = ligne.strip()
-            if n > 1 and (nu.startswith("#") or nu.startswith(("- ", "* ", "> ", "| "))):
+            # Seuls les tableaux : voir le relevé daté de l'en-tête. Les titres,
+            # listes, citations et filets sont rendus depuis le 30 août 2026.
+            if n > 1 and nu.startswith("| "):
                 blocs.append(f"{f.name}:{n} — {nu[:60]}")
 
         def convertir(m: re.Match) -> str:
