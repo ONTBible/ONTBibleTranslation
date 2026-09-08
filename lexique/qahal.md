@@ -60,4 +60,4 @@ on croit lire deux choses différentes. Garde le mot, et tu vois ce qui a bougé
 
 [[Sinai]], où le mot est posé. **kavod** et **Ruach ha-Qodesh**, pour ce qui
 descend et pour ce qui demeure. **olam**, pour ce que la nuée cache. Et la
-khuqqah des quatre modes de présence, dont ce mot porte la quatrième strate.
+chuqqah des quatre modes de présence, dont ce mot porte la quatrième strate.

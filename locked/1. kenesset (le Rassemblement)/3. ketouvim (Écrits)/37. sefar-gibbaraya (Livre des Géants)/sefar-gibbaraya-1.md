@@ -17,7 +17,7 @@
 
 ⁷ Leur nombre fut grand, et le souvenir de leurs chefs fut transmis parmi les scribes.
 
-⁸ [[Shemikhazah]] (*Shemikhazah* / שמיחזה) *[*shemi* (שְׁמִי) : mon **shem** + *khazah* (חָזָה) : a vu — "Mon **shem** a vu" ; chef des **'irin**, son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; [[Azazel]] (*Azazel* / עזאזל) *[étymologie débattue — *az* (עַז) : fort, bouc + *el* (אֵל), ou de *azal* : s'en aller entièrement ; figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; [[Baraqel]] (*Baraqel* / ברקאל) *[*baraq* (בָּרָק) : éclair + *el* (אֵל) — "éclair d'El" ; père de [[Mahaway]]]* fut compté parmi les pères de la génération de démesure.
+⁸ [[Shemikhazah]] (*Shemikhazah* / שמיחזה) *[*shemi* (שְׁמִי) : mon **shem** + *chazah* (חָזָה) : a vu — "Mon **shem** a vu" ; chef des **'irin**, son **shem** porte la mémoire de la transgression collective]* se tint parmi eux ; [[Azazel]] (*Azazel* / עזאזל) *[étymologie débattue — *az* (עַז) : fort, bouc + *el* (אֵל), ou de *azal* : s'en aller entièrement ; figure du déplacement vers le désert et de la faute portée hors du camp]* fut nommé avec eux ; [[Baraqel]] (*Baraqel* / ברקאל) *[*baraq* (בָּרָק) : éclair + *el* (אֵל) — "éclair d'El" ; père de [[Mahaway]]]* fut compté parmi les pères de la génération de démesure.
 
 ⁹ Ils descendirent vers la Terre, non comme **mal'akhim** mandatés, mais comme puissances qui quittent leur place. ¹⁰ Alors ils connurent des secrets (*razin* / רָזִין) *[araméen : mystères, secrets célestes. Le problème n'est pas le savoir en lui-même, mais sa transmission hors mandat]* qui n'avaient pas été remis aux fils de **l'Être façonné du sol**.
 

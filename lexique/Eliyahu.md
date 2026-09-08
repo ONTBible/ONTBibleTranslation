@@ -40,5 +40,5 @@ n'est encore dans le vault. ==Cette fiche sera reprise== quand ils y seront.
 ## Voir aussi
 
 **Ruach**, dont il est le meilleur exemple hébraïque. **El**, qui est dans son
-nom. **navi**, pour sa fonction. Et la khuqqah des quatre modes de présence, où
+nom. **navi**, pour sa fonction. Et la chuqqah des quatre modes de présence, où
 sa **Ruach** sert à établir ce qu'une *ruach* est.

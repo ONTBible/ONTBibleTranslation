@@ -48,5 +48,5 @@ tenir sa place.==
 
 **Nefesh**, l'autre façon de dire l'être entier. **mal'akh** et **olam**, pour
 ce qui n'en a pas. **echad**, pour l'unité que deux **basar** peuvent faire. Et
-la khuqqah des quatre modes de présence, où cette contrainte commande la
+la chuqqah des quatre modes de présence, où cette contrainte commande la
 troisième strate.

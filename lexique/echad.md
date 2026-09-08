@@ -50,6 +50,6 @@ commettre, mais qu'il rend inutile.
 ## Voir aussi
 
 **basar**, dont deux font un. **Elohim**, pluriel de forme et singulier
-d'accord — l'hébreu fait ailleurs le même geste grammatical. Et la khuqqah des
+d'accord — l'hébreu fait ailleurs le même geste grammatical. Et la chuqqah des
 quatre modes de présence, où ce mot porte la réponse à la question « plusieurs
 **Elohim** ? ».

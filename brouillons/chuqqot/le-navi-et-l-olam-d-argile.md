@@ -1,6 +1,6 @@
 # Le **navi** est un **mal'akh** avec un **olam** d'argile
 
-*(khuqqah — cinquième du corpus)*
+*(chuqqah — cinquième du corpus)*
 
 ---
 
@@ -57,9 +57,9 @@ part== pour **YHWH**, ce que porte la racine du **qodesh**.
 
 ### Pourquoi il fallait un **basar**
 
-Voici la nécessité, et elle est le cœur de la khuqqah.
+Voici la nécessité, et elle est le cœur de la chuqqah.
 
-La quatrième khuqqah l'a posé : un **mal'akh** n'a pas de **basar**. Il prend un
+La quatrième chuqqah l'a posé : un **mal'akh** n'a pas de **basar**. Il prend un
 **olam** pour sa mission et il le rend. Hors mission, ==il n'y a personne==.
 
 Le **navi**, lui, a un **basar** ==permanent==. Il ne cesse pas d'être homme
@@ -203,7 +203,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 ==La liste des cinq vient d'un texte grec, et il faut le dire.==
 
-C'est une lettre de Shaul qui énumère ces cinq-là. La khuqqah soutient que ce
+C'est une lettre de Shaul qui énumère ces cinq-là. La chuqqah soutient que ce
 sont cinq facettes d'une seule réalité et non cinq métiers — mais elle le
 soutient ==à partir d'une liste que le grec a formulée==. Elle défait donc une
 fragmentation ==avec l'outil qui l'a produite==, et un lecteur a le droit de
@@ -215,23 +215,23 @@ regroupement en cinq==, non les cinq réalités.
 
 ==Et une seconde limite.== Dire que le **navi** contient les cinq ne dit pas
 ==dans quelle proportion==. Le corpus montre des hommes chez qui l'une domine —
-l'un enseigne surtout, l'autre voit surtout. La khuqqah tient que l'identité ne
+l'un enseigne surtout, l'autre voit surtout. La chuqqah tient que l'identité ne
 se fragmente pas ; elle ==ne prétend pas== que les cinq soient également
 développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après deux conversations de l'auteur==, déposées dans `restranscriptions/`. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **mal'akh** avec un **olam** d'argile, un **olam** d'homme, et le **mal'akh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *ro'eh* / *hozeh* sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans `restranscriptions/`. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **mal'akh** avec un **olam** d'argile, un **olam** d'homme, et le **mal'akh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *ro'eh* / *hozeh* sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
 - *==Elle referme la quatrième.== Celle-là décrivait le **mal'akh** par ce qu'il n'a pas ; celle-ci décrit le **navi** par ce qu'il a en plus, et les deux ne se comprennent qu'ensemble. La quatrième portait déjà le critère du surplus, qui est ici tout l'énoncé.*
 
 - *==Cinq termes travaillent ici sans être déclarés== : *ro'eh*, *hozeh*, *mevaser*, *moreh*, et *lakach* — la saisie souveraine dont l'auteur fait le mode de constitution du **navi**. ==À trancher par l'auteur== : au moins *hozeh* me semble en être, puisque la distinction d'avec *ro'eh* est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
 
-- *==Ce que la khuqqah laisse dehors.== La matière porte une application à la constitution propre de l'auteur et à la communauté qu'il prépare. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une critique de l'institution ecclésiale contemporaine, réduite ici au seul constat structurel — l'ONT affirme, il ne polémique pas (§10).*
+- *==Ce que la chuqqah laisse dehors.== La matière porte une application à la constitution propre de l'auteur et à la communauté qu'il prépare. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une critique de l'institution ecclésiale contemporaine, réduite ici au seul constat structurel — l'ONT affirme, il ne polémique pas (§10).*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Devarim* 18:18 (à écrire) — *je mettrai mes **devarim** dans sa bouche*, la définition fonctionnelle.
 - *Devarim* 18:20-22 (à écrire) — le critère de vérification des paroles.
@@ -241,4 +241,4 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

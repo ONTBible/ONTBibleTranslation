@@ -1,6 +1,6 @@
 # **YHWH** n'est pas *dans* un lieu — il *est* le lieu
 
-*(khuqqah — deuxième du corpus)*
+*(chuqqah — deuxième du corpus)*
 
 ---
 
@@ -58,7 +58,7 @@ réponse ne se renverse pas : ce qui tient n'a besoin de rien pour être tenu.
 
 ### Ce que ça fait à la question de l'**olam**
 
-La première khuqqah a posé que l'**olam** est ==un rapport de perceptibilité== —
+La première chuqqah a posé que l'**olam** est ==un rapport de perceptibilité== —
 le fait que quelque chose se dérobe à un regard.
 
 Alors ceci suit, et c'est la charnière du corpus entier :
@@ -160,7 +160,7 @@ pas contraint. Un dieu attaché à son sanctuaire n'y habite pas : il y est rete
 Celui qui est le *maqom* de tout, quand il se pose en un lieu, ==fait quelque
 chose== — il rend approchable ce qui ne l'était pas.
 
-C'est ce que la khuqqah suivante déplie : ==comment celui qui n'a aucun **olam**
+C'est ce que la chuqqah suivante déplie : ==comment celui qui n'a aucun **olam**
 se rend perceptible==.
 
 Voici la vérité, au regard de l'ontologie hébraïque antique.
@@ -170,7 +170,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 ==Le nom n'est pas biblique, et il ne faut pas le faire croire.==
 
 *ha-Maqom* comme nom de **YHWH** appartient à la couche rabbinique. Aucun
-**navi** ne l'emploie. La khuqqah tient que la ==structure== est ancienne et
+**navi** ne l'emploie. La chuqqah tient que la ==structure== est ancienne et
 attestée — la plénitude, le refus des distances, la **merkavah** en exil —, mais
 ==la formule qui la nomme est postérieure==, et un lecteur a le droit de peser
 autrement la distance entre les deux.
@@ -184,7 +184,7 @@ qui vient d'ailleurs ==finit toujours par apporter avec elle ce qu'on n'avait pa
 demandé==. Ici : l'idée d'une loi impersonnelle, quand *qum* dit ==quelqu'un qui
 tient debout==.
 
-==Et ce que la khuqqah ne tranche pas.== Si le monde est en lui, en quel sens
+==Et ce que la chuqqah ne tranche pas.== Si le monde est en lui, en quel sens
 est-il ==distinct== de lui ? Le corpus maintient les deux — rien n'est hors de
 **YHWH**, et le monde n'est pas **YHWH** — sans jamais expliquer comment les deux
 tiennent ensemble. Le §4.11 s'applique : ==on restitue l'ambiguïté, on ne la
@@ -192,17 +192,17 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après une question de l'auteur==, déposée dans `restranscriptions/` : *« **YHWH** ha-maqom cherche à décrire qu'**Adonai** est lui-même le lieu dans lequel le réel prend place ? Quel **navi** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une question de l'auteur==, déposée dans `restranscriptions/` : *« **YHWH** ha-maqom cherche à décrire qu'**Adonai** est lui-même le lieu dans lequel le réel prend place ? Quel **navi** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
-- *==C'est la charnière du corpus.== La première khuqqah pose que l'**olam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **olam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
+- *==C'est la charnière du corpus.== La première chuqqah pose que l'**olam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **olam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
 
 - *==maqom n'est pas déclaré intraduisible==, et il travaille pourtant ici de bout en bout. « Lieu » en français dit un emplacement ; le *maqom* dit une ==tenue==, et la racine *qum* est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Ce que la khuqqah laisse dehors.== La matière porte une application au **kli** que l'auteur prépare et à sa propre mission. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une lecture de *Yeshayahu* 57:15 — il demeure dans la hauteur et avec le cœur brisé —, écartée non parce qu'elle est fausse mais parce qu'elle demande le traitement du §7 sur *Yeshayahu*, qui n'est pas écrit.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte une application au **kli** que l'auteur prépare et à sa propre mission. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une lecture de *Yeshayahu* 57:15 — il demeure dans la hauteur et avec le cœur brisé —, écartée non parce qu'elle est fausse mais parce qu'elle demande le traitement du §7 sur *Yeshayahu*, qui n'est pas écrit.*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Yeshayahu* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol ha'aretz kevodo*.
 - *Yeshayahu* 66:1-2 (à écrire) — le trône, le tabouret, et le *maqom* du repos.
@@ -212,4 +212,4 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

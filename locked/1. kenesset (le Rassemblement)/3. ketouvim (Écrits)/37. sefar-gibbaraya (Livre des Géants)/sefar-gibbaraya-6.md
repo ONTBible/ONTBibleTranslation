@@ -5,7 +5,7 @@
 
 ## Mahaway devant Chanokh
 
-¹ Alors les **gibbaraya** appelèrent [[Mahaway]] (*Mahaway* / מהוי), fils de [[Baraqel]] (*Baraqel* / ברקאל). ² Ils lui dirent : "Va vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (*Chanokh* / חֲנוֹךְ) *[*khanak* (חָנַךְ) : dédier, initier — "le dédicacé, l'initié" ; celui qui marche avec **Elohim**, scribe du domaine céleste et médiateur perceptif]*. ³ Porte devant lui nos paroles, nos songes et notre trouble. ⁴ Qu'il nous fasse connaître le déchiffrement (*peshar* / פֵּשֶׁר) *[interprétation révélée du sens caché d'une vision ou d'un événement]*, car la vision est lourde et le sens nous dépasse."
+¹ Alors les **gibbaraya** appelèrent [[Mahaway]] (*Mahaway* / מהוי), fils de [[Baraqel]] (*Baraqel* / ברקאל). ² Ils lui dirent : "Va vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (*Chanokh* / חֲנוֹךְ) *[*chanak* (חָנַךְ) : dédier, initier — "le dédicacé, l'initié" ; celui qui marche avec **Elohim**, scribe du domaine céleste et médiateur perceptif]*. ³ Porte devant lui nos paroles, nos songes et notre trouble. ⁴ Qu'il nous fasse connaître le déchiffrement (*peshar* / פֵּשֶׁר) *[interprétation révélée du sens caché d'une vision ou d'un événement]*, car la vision est lourde et le sens nous dépasse."
 
 ⁵ [[Mahaway]] sortit de l'assemblée. ⁶ Il traversa les régions sèches, les lieux de rocs et les espaces où le chemin se perd. ⁷ Il passa vers les montagnes, et son mouvement fut rapide. ⁸ Il alla jusqu'au lieu où [[Chanokh-qui-marche-avec-Elohim|Chanokh]] demeurait, loin de l'assemblée des violents.
 

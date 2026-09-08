@@ -171,5 +171,5 @@ redevenir ce qu'elle est : ==un engagement dont on ne verra pas le terme==, fait
 
 **mal'akh**, qui n'en a pas et en reçoit un. **navi**, dont le seuil se déplace.
 [[Moshe]], qui n'en voit que le dos. **kavod**, dont les portes s'ouvrent.
-**berith**, dont la durée se mesure par ce mot. Et la khuqqah des quatre modes de
+**berith**, dont la durée se mesure par ce mot. Et la chuqqah des quatre modes de
 présence, où les emplois travaillent tous ensemble.

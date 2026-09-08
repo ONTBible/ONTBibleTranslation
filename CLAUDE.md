@@ -598,7 +598,7 @@ voyelle qui précède. Le corpus suivait donc la langue sans que ce soit écrit.
 - Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
   selon l'oreille, sans système déclaré, et rien n'a encore divergé.
 
-#### Une divergence relevée et corrigée
+#### Deux divergences relevées et corrigées
 
 **`Khanokh` → `Chanokh`**, le 29 août 2026. חֲנוֹךְ commence par un **het**, donc
 `Ch` — le seul mot du corpus qui écrivait le het en `kh`, sans doute par
@@ -606,6 +606,46 @@ contagion de « Hénoch ». 115 occurrences, et les dossiers `38. khanokh` des d
 arborescences renommés : le livre n'étant pas encore écrit, le renommage était
 gratuit, exactement le moment que le §2.6 décrit pour les identifiants.
 
+**Cinq formes, le 8 septembre 2026 — et la passe précédente n'était pas close.**
+Relevé exhaustif du dépôt : ==101 occurrences== écrivaient un het en `kh`.
+
+    khuqqah / Khuqqah / khuqqot   →   chuqqah / Chuqqah / chuqqot     92
+    khazah  (חָזָה)                →   chazah                           4
+    khemar  (חֵמָר)                →   chemar                           2
+    Khanokh (חֲנוֹךְ)               →   Chanokh                          2
+    khanak  (חָנַךְ)                →   chanak                           1
+
+Les deux derniers `Khanokh` sont ==le reste de la passe du 29 août==, que ce
+document annonçait pourtant terminée. Et `khanak` paraissait ==sur la même ligne
+que `Chanokh`==, dans la glose qui en donne la racine : deux graphies du même
+het, à quinze caractères l'une de l'autre, dans un fichier verrouillé.
+
+**Ce que le relevé a écarté, et c'est la moitié du travail.** Un balayage
+mécanique aurait corrigé quatre formes de plus, toutes à tort :
+
+- `khen` — ==כֵן, un vrai khaf==. C'est la formule d'accomplissement du §2.4,
+  *vayehi khen*. Dix occurrences justes, qu'un remplacement en masse aurait
+  détruites ;
+- `kha`, `khaf`, `khol`, `khshad`, `Kheruvim`, `Khalneh` — ==tous des khaf==
+  (כְּ, כ, כֹּל, כְּרֻבִים, כַּלְנֵה) ;
+- `khata` — c'est ==le contre-exemple pédagogique== de la section ci-dessus, qui
+  cite la graphie fautive pour l'interdire. La corriger aurait effacé la règle ;
+- `hanikh`, `hanakh` — un het rendu ==par `h` seul==, ce qui est ==un autre
+  chantier==. Voir ci-dessous.
+
+Et `sessions/` est ==exclu du balayage== : ce sont les transcriptions de
+conversations de l'auteur, où sa propre frappe est archivée. Trente-quatre
+`Khanokh` y subsistent, et ils doivent y subsister — ==corriger l'orthographe de
+ce que quelqu'un a tapé n'est pas une correction, c'est une réécriture==.
+
+**Un chantier ouvert, mesuré et non traité : le het rendu `h`.** ==98
+appariements== où l'hébreu porte un ח et la translittération un `h` sans `ch` —
+*Terah* (תֶּרַח), *Nahor*, *Shelah*, *Havila*, *Hobabish*, *mishpehotam*. Il est
+==bien plus délicat== que celui-ci : le het y est souvent ==final==, et un het
+final après voyelle ne se traite pas comme un het initial. Plusieurs de ces
+formes sont en outre des noms propres déjà fixés dans des chapitres verrouillés.
+==À trancher par l'auteur== : ce document ne dit rien du het final, et c'est
+précisément le trou que le §2.9 avait vocation à fermer.
 
 ### 2.10 Les Shemot — la troisième couche, `[[Nom]]`
 

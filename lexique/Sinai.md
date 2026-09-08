@@ -45,5 +45,5 @@ n'est que ce qui a déjà servi à comprendre autre chose.
 ## Voir aussi
 
 [[Moshe]], qui y monte. **olam**, pour ce que la nuée cache. **kavod**, pour ce
-qui pèse sur la montagne. Et la khuqqah des quatre modes de présence, où ce lieu
+qui pèse sur la montagne. Et la chuqqah des quatre modes de présence, où ce lieu
 sert de mesure au dernier.

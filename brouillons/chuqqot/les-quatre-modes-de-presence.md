@@ -1,6 +1,6 @@
 # Les quatre modes de présence d'**Adonai** dans l'**olam**
 
-*(khuqqah — la première du corpus)*
+*(chuqqah — la première du corpus)*
 
 ---
 
@@ -17,7 +17,7 @@ intime.
 
 ## La nécessité
 
-### D'abord, de quoi cette khuqqah parle vraiment
+### D'abord, de quoi cette chuqqah parle vraiment
 
 Elle parle de l'**olam**, et il faut commencer par là, sinon tout le reste
 paraîtra une curiosité de vocabulaire.
@@ -37,7 +37,7 @@ pour toi, sans que la chose ait bougé d'un pouce. Ce qui a changé n'est pas
 déplie ; ici il suffit de retenir ceci : parler d'**olam**, c'est ==toujours
 parler d'un rapport de perceptibilité==, jamais d'un territoire.
 
-Alors la question de cette khuqqah se reformule, et elle devient nette :
+Alors la question de cette chuqqah se reformule, et elle devient nette :
 
 > Comment celui qui est ==entièrement hors de tout regard== se rend-il
 > perceptible, sans cesser de l'être ?
@@ -109,7 +109,7 @@ pas. Le corpus dit tantôt *« **YHWH** lui apparut »*, tantôt *« le **mal'ak
 **YHWH** lui apparut »*, et il ne choisit pas. Ce n'est pas un flottement :
 ==c'est le même événement, dit une fois par sa source et une fois par son mode==.
 
-*(La deuxième khuqqah, `les-malakhim-nont-pas-dolam.md`, ne traite que de cette
+*(La deuxième chuqqah, `les-malakhim-nont-pas-dolam.md`, ne traite que de cette
 strate et donne le verset qui la formalise.)*
 
 Mais ==un **olam** emprunté se rend==. Et ce qui se rend n'accomplit rien qui
@@ -254,7 +254,7 @@ sans mode d'existence propre. Il faut lui accorder ceci, qui est vrai :
 obligeait. Ce qui est dit ici n'est donc pas qu'il le fallait, mais ==qu'il l'a
 fait==.
 
-==Et c'est là que la khuqqah cesse de tenir toute seule==, ce qu'il faut savoir
+==Et c'est là que la chuqqah cesse de tenir toute seule==, ce qu'il faut savoir
 en la lisant. Le **davar** et la **Ruach** sont l'un et l'autre personnels dans
 le corpus — ==ils contristèrent sa **Ruach** de **qodesh**== —, mais
 ==« personnel » entraîne-t-il « mode d'existence incarné distinct » ?== La suite
@@ -262,23 +262,23 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après trois interventions de l'auteur==, dans une conversation du 27 juillet 2026. Elle n'est pas une transcription : la matière était un échange, et elle est rendue ici ==en un seul corps==, dans sa voix, à sa demande. Les constats de nécessité, l'ordre des raisons et l'image de l'engin sont les siens ; la mise en forme et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après trois interventions de l'auteur==, dans une conversation du 27 juillet 2026. Elle n'est pas une transcription : la matière était un échange, et elle est rendue ici ==en un seul corps==, dans sa voix, à sa demande. Les constats de nécessité, l'ordre des raisons et l'image de l'engin sont les siens ; la mise en forme et le balisage sont du vault.*
 
-- *==Reprise du 8 septembre 2026, pour le lecteur qui arrive sans rien.== La première version disait la même chose et la disait pour qui savait déjà. Elle a été rouverte après la deuxième khuqqah, qui a fixé le registre : des paliers, les analogies dépliées, et le rattachement explicite à l'**olam**. C'est ce dernier point qui manquait le plus — les quatre modes ne sont pas quatre lieux, ce sont ==quatre régimes de perceptibilité==, et la khuqqah ne le disait nulle part. Le contenu n'a pas changé ; ce qui a changé, c'est ce qu'il faut savoir pour l'aborder.*
+- *==Reprise du 8 septembre 2026, pour le lecteur qui arrive sans rien.== La première version disait la même chose et la disait pour qui savait déjà. Elle a été rouverte après la deuxième chuqqah, qui a fixé le registre : des paliers, les analogies dépliées, et le rattachement explicite à l'**olam**. C'est ce dernier point qui manquait le plus — les quatre modes ne sont pas quatre lieux, ce sont ==quatre régimes de perceptibilité==, et la chuqqah ne le disait nulle part. Le contenu n'a pas changé ; ce qui a changé, c'est ce qu'il faut savoir pour l'aborder.*
 
-- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente khuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
+- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
-- *==Le **kli** a été déclaré le 8 septembre 2026==, et la khuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche `lexique/kli.md`, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
+- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche `lexique/kli.md`, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
 
 - *==Un terme travaille encore sans être déclaré== : *rachaph*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Les trois Shemot que cette khuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
+- *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Moshe]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
-- *==Ce que la khuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
+- *==Ce que la chuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Bereshit* 1:2 (verrouillé) — la **Ruach** qui plane sur les eaux, lue comme un geste de couvaison et non de souffle.
 - *Bereshit* 2:24 (brouillon) — *basar echad*, d'où se lit l'unité composée du *Shema*.
@@ -288,4 +288,4 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

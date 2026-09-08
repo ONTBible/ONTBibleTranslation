@@ -1,6 +1,6 @@
 # L'**olam** est un regard, non un lieu
 
-*(khuqqah — la première du corpus)*
+*(chuqqah — la première du corpus)*
 
 ---
 
@@ -183,7 +183,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 ## Le joint faible
 
-==Cette khuqqah dit ce que le mot nomme, non ce qui existe.==
+==Cette chuqqah dit ce que le mot nomme, non ce qui existe.==
 
 C'est sa limite, et il faut la tenir fermement, parce qu'on la franchit sans
 s'en apercevoir. Dire que l'**olam** est un rapport de perception ne dit ==rien==
@@ -191,29 +191,29 @@ sur ce qui se tient de l'autre côté du seuil, ni si quelque chose s'y tient.
 Le mot nomme le dérobement ; ==il ne décrit pas ce qui se dérobe==.
 
 Qui conclurait « donc tout est affaire de perception, et rien n'est réellement
-là » aurait fait exactement ==la faute que la khuqqah combat==, mais dans l'autre
+là » aurait fait exactement ==la faute que la chuqqah combat==, mais dans l'autre
 sens : il aurait encore pris un rapport pour une substance.
 
 ==Et une seconde limite, plus discrète.== Les voyelles de l'hébreu ancien ont
 été notées ==bien après== que ces textes furent écrits. *elem*, *almah* et
 **olam** partagent les mêmes consonnes ; que la langue ait senti la parenté est
 sûr, et le corpus la fait travailler. Mais ==une parenté de racine n'est pas une
-démonstration==, et cette khuqqah s'appuie d'abord sur les emplois — sur ce que
+démonstration==, et cette chuqqah s'appuie d'abord sur les emplois — sur ce que
 les textes ==font== du mot —, non sur l'étymologie seule.
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après une conjecture de l'auteur==, déposée dans `restranscriptions/`. Elle n'est pas une transcription : la matière était un échange, et elle est rendue en un seul corps, dans sa voix, à sa demande. La conjecture — *le mot ne porte pas le lieu d'où on le regarde, il porte uniquement le fait qu'on le regarde* — est la sienne ; l'invariant qui la formule, la mise en forme et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une conjecture de l'auteur==, déposée dans `restranscriptions/`. Elle n'est pas une transcription : la matière était un échange, et elle est rendue en un seul corps, dans sa voix, à sa demande. La conjecture — *le mot ne porte pas le lieu d'où on le regarde, il porte uniquement le fait qu'on le regarde* — est la sienne ; l'invariant qui la formule, la mise en forme et le balisage sont du vault.*
 
-- *==Elle est la première parce qu'elle fonde les autres.== Toutes les khuqqot du corpus disent une facette de l'**olam** — voir la feuille d'introduction. Celle-ci n'en est pas une : elle pose ce dont les autres sont des facettes. C'est une propriété de la khuqqah, non un rang de tri ; l'ordre est déclaré dans la feuille d'introduction, et nulle part ailleurs.*
+- *==Elle est la première parce qu'elle fonde les autres.== Toutes les chuqqot du corpus disent une facette de l'**olam** — voir la feuille d'introduction. Celle-ci n'en est pas une : elle pose ce dont les autres sont des facettes. C'est une propriété de la chuqqah, non un rang de tri ; l'ordre est déclaré dans la feuille d'introduction, et nulle part ailleurs.*
 
 - *==Deux termes travaillent ici sans être déclarés== : *tevel*, la terre habitée, et *nistar* / *seter*, le caché et la cachette. Ils ne paraissent que pour montrer ce que l'**olam** ==n'est pas==, et le corpus ne les emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa propre entrée le jour où un texte l'emploie.*
 
-- *==Ce que la khuqqah laisse dehors.== La matière porte une articulation avec la taxonomie prophétique de l'auteur — *nigleh* et *nistar*, ce qui est dévoilé et ce qui est retenu —, et une application à sa propre constitution. Rien de cela n'entre ici : la première relève d'une khuqqah à venir sur le **navi**, la seconde appartient à son archive personnelle et n'a pas à en sortir.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte une articulation avec la taxonomie prophétique de l'auteur — *nigleh* et *nistar*, ce qui est dévoilé et ce qui est retenu —, et une application à sa propre constitution. Rien de cela n'entre ici : la première relève d'une chuqqah à venir sur le **navi**, la seconde appartient à son archive personnelle et n'a pas à en sortir.*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Bereshit* 3:22 (verrouillé) — *vechai le'olam*, premier emploi du mot dans l'ONT.
 - *Qohelet* 3:11 (à écrire) — l'**olam** mis dans le cœur, le texte le plus décisif.
@@ -223,4 +223,4 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

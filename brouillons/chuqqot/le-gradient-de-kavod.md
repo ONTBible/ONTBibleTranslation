@@ -1,6 +1,6 @@
 # On ne compte pas les Cieux — on les traverse
 
-*(khuqqah — sixième du corpus)*
+*(chuqqah — sixième du corpus)*
 
 ---
 
@@ -124,20 +124,20 @@ Dans les récits de traversée, l'homme tombe sans souffle, un **mal'akh** est
 ==envoyé== pour le relever, et il est ==porté==. La forme est ascensionnelle ; la
 structure reste descendante. ==C'est la structure qu'on rend.==
 
-C'est aussi pourquoi la troisième khuqqah parle de ==modes de présence== et non
+C'est aussi pourquoi la troisième chuqqah parle de ==modes de présence== et non
 de degrés d'accès : les quatre modes sont autant de façons dont ==le poids
 descend jusqu'à devenir soutenable==.
 
 ### Ce que devient le **kli**, dans cette lumière
 
-La première khuqqah a posé que l'**olam** dépend du **kli** — de ce qui est apte
+La première chuqqah a posé que l'**olam** dépend du **kli** — de ce qui est apte
 à recevoir. Le gradient dit ==pourquoi== l'aptitude compte à ce point.
 
 Un **kli** ne se contente pas de percevoir plus ou moins. Il ==soutient== plus ou
 moins de **kavod**. Ce n'est pas une question d'acuité, c'est une question de
 ==résistance==.
 
-D'où la fonction du **navi**, telle que la cinquième khuqqah la donne : il n'est
+D'où la fonction du **navi**, telle que la cinquième chuqqah la donne : il n'est
 pas seulement celui qui voit plus loin. Il est ==celui qui transforme
 l'intensité== — qui la rend portable pour ceux qui ne la soutiendraient pas.
 ==Son **basar** est ce qui absorbe l'écart.==
@@ -162,27 +162,27 @@ dépasse, non une carte. Mais d'autres traditions lisent autrement, et le §4.11
 tranche la façon de faire, à défaut de trancher la question : ==on restitue
 l'ambiguïté, on ne la résout pas==.
 
-==Et une seconde chose, plus gênante à dire.== Cette khuqqah refuse les chiffres
+==Et une seconde chose, plus gênante à dire.== Cette chuqqah refuse les chiffres
 en les renvoyant à leur origine — sept planètes, sept degrés de ziggurat. C'est
 un argument de ==provenance==, et un argument de provenance ne démontre jamais
-qu'une chose est fausse : il montre seulement ==d'où elle vient==. La khuqqah
+qu'une chose est fausse : il montre seulement ==d'où elle vient==. La chuqqah
 tient donc que le compte ne doit pas entrer ==dans le corps de la traduction==,
 parce qu'il installerait une structure étrangère. Elle ne prétend pas que les
 textes qui comptent se trompent sur ce qu'ils ont vu.
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après une conversation de l'auteur==, déposée dans `restranscriptions/`, qui s'ouvre sur sa question — *« 7 cieux ou 3 ? »* — et se referme sur sa propre formulation : *« les shamayim de shamayim sont ce que c'est le Saint des Saints, comme si les cieux est temple, temple stratifié, et la stratification est nécessairement et structurellement liée à la **kavod** **YHWH** »*. C'est cette phrase qui est l'énoncé ; le reste la déplie.*
+- *==Cette chuqqah est écrite d'après une conversation de l'auteur==, déposée dans `restranscriptions/`, qui s'ouvre sur sa question — *« 7 cieux ou 3 ? »* — et se referme sur sa propre formulation : *« les shamayim de shamayim sont ce que c'est le Saint des Saints, comme si les cieux est temple, temple stratifié, et la stratification est nécessairement et structurellement liée à la **kavod** **YHWH** »*. C'est cette phrase qui est l'énoncé ; le reste la déplie.*
 
-- *==Elle est en partie déjà dans le document de référence.== Le §6 a été réécrit le 30 août sur cette même matière, et il porte le gradient, l'homologie du *raqia* et du *parokhet*, et le refus de compter. La khuqqah ne le redit pas pour le plaisir : le §6 s'adresse ==au traducteur== et dit ce qu'il faut rendre ; celle-ci s'adresse ==au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite d'un côté ou de l'autre.*
+- *==Elle est en partie déjà dans le document de référence.== Le §6 a été réécrit le 30 août sur cette même matière, et il porte le gradient, l'homologie du *raqia* et du *parokhet*, et le refus de compter. La chuqqah ne le redit pas pour le plaisir : le §6 s'adresse ==au traducteur== et dit ce qu'il faut rendre ; celle-ci s'adresse ==au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite d'un côté ou de l'autre.*
 
 - *==Trois termes travaillent ici sans être déclarés== : *raqia*, la Voûte — traduit au §3.2, donc pas un intraduisible ; *parokhet*, le voile du sanctuaire, qui n'a encore aucune occurrence dans le corpus écrit ; et *shamayim*, également traduit. ==À trancher par l'auteur== le jour où *Shemot* fera paraître le *parokhet*.*
 
-- *==Ce que la khuqqah laisse dehors.== La matière porte le parallèle entre le **navi** et le **mal'akh**, qui fait l'objet de la cinquième khuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte le parallèle entre le **navi** et le **mal'akh**, qui fait l'objet de la cinquième chuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Shemot* 33:20 (à écrire) — *l'homme ne peut me voir et vivre*, la raison du gradient.
 - *Shemot* 26:33 (à écrire) — le *parokhet*, et ce qu'il sépare.
@@ -193,4 +193,4 @@ textes qui comptent se trompent sur ce qu'ils ont vu.
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

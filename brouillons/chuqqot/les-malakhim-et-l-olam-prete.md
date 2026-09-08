@@ -1,6 +1,6 @@
 # Les **mal'akhim** n'ont pas d'**olam** à eux
 
-*(khuqqah — deuxième du corpus)*
+*(chuqqah — deuxième du corpus)*
 
 ---
 
@@ -147,7 +147,7 @@ c'est **YHWH** qui nomme la fonction qu'il institue.
 
 ### Il y a donc deux espèces de **Shem**, et le corpus ne les confond pas
 
-C'est ici que la khuqqah touche quelque chose de plus large qu'elle.
+C'est ici que la chuqqah touche quelque chose de plus large qu'elle.
 
 Un **Shem** ==d'identité== désigne quelqu'un qui ==est== quelque chose,
 indépendamment de ce qu'il fait à un moment donné. Il suppose un **basar**, une
@@ -212,35 +212,35 @@ la produit.
 la flamme== de l'autel. Il ne s'en va pas quelque part. ==Il se résorbe dans sa
 source.==
 
-==Et ce que la khuqqah ne peut pas dire.== Où sont-ils entre deux missions —
-s'ils sont quelque part —, et ce que cela veut dire pour eux, la khuqqah ne le
+==Et ce que la chuqqah ne peut pas dire.== Où sont-ils entre deux missions —
+s'ils sont quelque part —, et ce que cela veut dire pour eux, la chuqqah ne le
 tranche pas. Le corpus emploie des images de repos et de veille sans jamais
 décrire un état. On peut dire ce qu'ils sont ==en mission==. Ce qu'ils sont hors
 d'elle ne se déduit pas de ce qui précède.
 
 ---
 
-### Notes de la khuqqah
+### Notes de la chuqqah
 
-- *==Cette khuqqah est écrite d'après une conversation de l'auteur== déposée dans `restranscriptions/`, en neuf échanges. Elle n'est pas une transcription : la matière était un dialogue, et elle est rendue en un seul corps, dans sa voix, à sa demande. L'image du caillou, celle de la boîte à outils et celle du soleil sont les siennes ; la mise en forme et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une conversation de l'auteur== déposée dans `restranscriptions/`, en neuf échanges. Elle n'est pas une transcription : la matière était un dialogue, et elle est rendue en un seul corps, dans sa voix, à sa demande. L'image du caillou, celle de la boîte à outils et celle du soleil sont les siennes ; la mise en forme et le balisage sont du vault.*
 
-- *==C'est une facette de l'olam, et non un sujet à part.== Décision de l'auteur : chaque khuqqah éclaire une part de ce que l'**olam** est. Celle-ci porte la deuxième strate des quatre modes de présence, et elle repose entièrement sur un point de la fiche `lexique/olam.md` : un **mal'akh** n'a pas d'**olam** propre parce qu'il n'a rien qui soit perceptible de lui-même.*
+- *==C'est une facette de l'olam, et non un sujet à part.== Décision de l'auteur : chaque chuqqah éclaire une part de ce que l'**olam** est. Celle-ci porte la deuxième strate des quatre modes de présence, et elle repose entièrement sur un point de la fiche `lexique/olam.md` : un **mal'akh** n'a pas d'**olam** propre parce qu'il n'a rien qui soit perceptible de lui-même.*
 
 - *==[[Gavriel]] a reçu sa fiche le 8 septembre 2026==, sur décision de l'auteur, et il est donc balisé comme [[Mikha'el]] et [[Rafa'el]]. La graphie ne relevait pas de l'arbitrage : le §2.9 rend le *bet* sans dagesh par `v`, donc Gavriel et non « Gabriel », qui est passé par le grec. La fiche déclare ce qu'elle n'a pas — ==aucune occurrence dans une **parashah** écrite== —, et qu'elle sera reprise quand *Daniel* le sera.*
 
 - *==La distinction est entrée au §2.10 le 8 septembre 2026.== Décision de l'auteur : la couche sépare désormais un **Shem** d'identité d'un **Shem** de fonction, ==sans changer la marque==. Un **mal'akh** nommé garde `[[Nom]]` et la terre brûlée — l'espace chaud est saturé et une quatrième couleur n'y tiendrait pas. C'est ==la fiche== qui déclare qu'elle nomme une charge et non une personne, et qui se garde de la biographie : il n'y en a pas à écrire. La fiche de [[Gavriel]] en est le premier cas.*
 
-- *==Ce que la khuqqah laisse dehors.== La matière contient une échelle complète des êtres célestes — gardiens des nations, chiffre des peuples, ceux qui sont tombés et ce qu'ils ont cherché. Rien de tout cela n'entre ici : *Daniel* et 1 *Chanokh* ne sont pas écrits, et le *Sefar Gibbaraya* traite la chute pour lui-même. La khuqqah s'arrête où le corpus s'arrête.*
+- *==Ce que la chuqqah laisse dehors.== La matière contient une échelle complète des êtres célestes — gardiens des nations, chiffre des peuples, ceux qui sont tombés et ce qu'ils ont cherché. Rien de tout cela n'entre ici : *Daniel* et 1 *Chanokh* ne sont pas écrits, et le *Sefar Gibbaraya* traite la chute pour lui-même. La chuqqah s'arrête où le corpus s'arrête.*
 
-### Ce que la khuqqah engage dans le corpus
+### Ce que la chuqqah engage dans le corpus
 
 - *Bereshit* 16 (verrouillé) — [[Hagar]] nomme **YHWH** après avoir parlé au **mal'akh**. L'oscillation y est lisible pour la première fois.
 - *Bereshit* 18 (verrouillé) — trois hommes qui mangent, et que le texte ne nomme jamais **mal'akhim**.
 - *Shemot* 3 (à écrire, §7) — la flamme, et le passage immédiat au Nom.
-- *Shemot* 23:21 (à écrire) — *ki shemi bekirbo*, la clef de toute la khuqqah.
+- *Shemot* 23:21 (à écrire) — *ki shemi bekirbo*, la clef de toute la chuqqah.
 - *Shoftim* 13:20 (à écrire) — le **mal'akh** qui monte dans la flamme.
 - *Tehilim* 104:4 (à écrire) — *asah*, le verbe qui assigne la forme.
 
 ---
 
-*Khuqqah — à valider.*
+*Chuqqah — à valider.*

@@ -1,8 +1,8 @@
-# Les khuqqot — ce qu'elles sont, et dans quel ordre les lire
+# Les chuqqot — ce qu'elles sont, et dans quel ordre les lire
 
-*(feuille d'introduction du corpus des khuqqot — §2.7)*
+*(feuille d'introduction du corpus des chuqqot — §2.7)*
 
-Une khuqqah (*khuqqah* / חֻקָּה) est un ==énoncé permanent== : ce que l'ontologie
+Une chuqqah (*chuqqah* / חֻקָּה) est un ==énoncé permanent== : ce que l'ontologie
 hébraïque antique tient pour établi, écrit une fois et opposable partout. De
 *chaqaq* (חָקַק) — ==graver, inciser dans la pierre==. *(Le mot lui-même n'est pas
 déclaré intraduisible au §2.5, alors qu'il a la même forme que* **parashah** *:
@@ -16,8 +16,8 @@ d'une même chose==.
 
 ## Cette chose est l'**olam**
 
-Décision de l'auteur : le corpus des khuqqot est ordonné autour de l'**olam**,
-et chaque khuqqah en éclaire une part.
+Décision de l'auteur : le corpus des chuqqot est ordonné autour de l'**olam**,
+et chaque chuqqah en éclaire une part.
 
 Ce n'est pas un thème choisi. C'est que l'**olam** ==commande tout le reste== :
 si l'**olam** est le fait qu'il y ait quelque chose qui échappe à un regard
@@ -48,7 +48,7 @@ perceptible, puis les êtres que ces façons emploient, puis enfin la structure
 qui rend tout cela nécessaire.
 
 ==On peut en lire une seule.== Chacune redit le peu qu'il faut savoir des
-autres, et renvoie à elles pour le reste — c'est délibéré : ==une khuqqah qui
+autres, et renvoie à elles pour le reste — c'est délibéré : ==une chuqqah qui
 exige d'avoir lu les cinq précédentes n'est pas un énoncé permanent, c'est un
 chapitre==.
 
@@ -60,12 +60,12 @@ Cinq mouvements, toujours les mêmes :
 - ==la nécessité== — pourquoi il ne pouvait pas en être autrement ;
 - ==la stratigraphie== — les couches, et ce qui les sépare ;
 - ==les conséquences== — ce qui suit, et qu'on ne voit pas d'abord ;
-- ==le joint faible== — ==où la khuqqah cesse de tenir toute seule==, dit par
+- ==le joint faible== — ==où la chuqqah cesse de tenir toute seule==, dit par
   elle-même.
 
 Le dernier mouvement n'est pas une précaution de style. Un énoncé qui ne dirait
 pas où il s'arrête se ferait passer pour plus solide qu'il n'est, et le lecteur
-n'aurait aucun moyen de le savoir. ==Une khuqqah déclare son assise.==
+n'aurait aucun moyen de le savoir. ==Une chuqqah déclare son assise.==
 
 ## Pour qui elles sont écrites
 
@@ -83,7 +83,7 @@ croit avoir été sobre quand on a été muet.
 
 ## D'où vient leur matière
 
-De conversations de l'auteur, déposées dans `restranscriptions/`. Une khuqqah
+De conversations de l'auteur, déposées dans `restranscriptions/`. Une chuqqah
 n'en est jamais la transcription : la matière était un échange, elle est rendue
 ==en un seul corps, dans sa voix==. Chacune dit en note de quoi elle est tirée,
 et ce qu'elle a laissé dehors.

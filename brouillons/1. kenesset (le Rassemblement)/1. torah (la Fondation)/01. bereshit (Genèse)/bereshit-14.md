@@ -25,7 +25,7 @@
 
 ## La chute de Sedom et la capture de Lot
 
-¹⁰ Et la vallée de [[Siddim]] était pleine, puits sur puits, de bitume (*be'erot be'erot khemar* / בֶּארֹת בֶּארֹת חֵמָר) *[be'erot be'erot — répétition intensive hébraïque : puits sur puits. *Khemar* : l'asphalte naturel, le goudron. Les gisements de bitume du bassin de la mer de Sel sont attestés dans l'Antiquité — le terrain lui-même est un piège pour les fuyards]* — et les rois de [[Sedom]] et d'Amorah s'enfuirent et y tombèrent (*vayipelu-shammah* / וַיִּפְּלוּ-שָׁמָּה) *[vayipelu shammah — ils tombèrent là. Dans les puits de bitume de leur propre vallée : la défaite se referme sur eux dans le sol même de leur territoire]* — et les rescapés (*hanish'arim* / הַנִּשְׁאָרִים) fuyèrent vers la montagne.
+¹⁰ Et la vallée de [[Siddim]] était pleine, puits sur puits, de bitume (*be'erot be'erot chemar* / בֶּארֹת בֶּארֹת חֵמָר) *[be'erot be'erot — répétition intensive hébraïque : puits sur puits. *Chemar* : l'asphalte naturel, le goudron. Les gisements de bitume du bassin de la mer de Sel sont attestés dans l'Antiquité — le terrain lui-même est un piège pour les fuyards]* — et les rois de [[Sedom]] et d'Amorah s'enfuirent et y tombèrent (*vayipelu-shammah* / וַיִּפְּלוּ-שָׁמָּה) *[vayipelu shammah — ils tombèrent là. Dans les puits de bitume de leur propre vallée : la défaite se referme sur eux dans le sol même de leur territoire]* — et les rescapés (*hanish'arim* / הַנִּשְׁאָרִים) fuyèrent vers la montagne.
 
 ¹¹ Et ils prirent tous les biens de [[Sedom]] et d'Amorah et tous leurs vivres (*okhel* / אֹכֶל) — et ils s'en allèrent.
 
