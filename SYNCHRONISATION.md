@@ -3250,3 +3250,84 @@ ligne absente du tronc du vault==. Et la mesure retournée révèle l'autre sens
 qu'on ne cherchait pas : il ne manquait à l'app que ==deux entrées==, déjà sur sa
 branche d'intégration. La concordance était presque faite depuis le début ; c'est
 l'instrument qui la disait rompue.
+
+---
+
+### 8 septembre 2026 — une règle que son porteur viole n'est pas violée, elle a un périmètre non écrit
+
+Le §2.5 du `CLAUDE.md` du vault interdit le gras d'insistance « partout, y
+compris dans les feuilles d'introduction et les notes ». Relevé du jour : le
+document qui porte la règle l'employait **337 fois**, et ==trois fois dans la
+phrase même de l'interdit== — dont une sur le mot « accentuation », dans la
+clause qui renvoie à `==…==`.
+
+**Ce n'est pas de l'étourderie, et c'est ce qu'il faut voir.** Une règle qu'on
+enfreint à chaque page depuis toujours, sans que personne ne le remarque, n'est
+pas une règle enfreinte : c'est une règle dont ==le périmètre n'a jamais été
+écrit==. Elle ne se compare à rien, donc elle ne peut pas diverger visiblement.
+C'est exactement la forme que le §2.9 du vault avait déjà nommée pour les
+translittérations.
+
+**Le périmètre est celui de la raison d'être de l'interdit**, et cette raison est
+mécanique : Affinity applique son style au copier-coller, l'app affiche le mot en
+or et le rend touchable. ==Un fichier qui ne passe ni dans l'un ni dans l'autre
+ne peut produire ni l'un ni l'autre.== La règle vaut donc pour ce qui est
+distribué — corps, gloses, notes, feuilles d'introduction, fiches de `lexique/` —
+et non pour les documents de travail des dépôts, ce journal compris.
+
+**L'exception est le vrai critère, et il ne porte pas sur le fichier :**
+==ce qui compte est ce qui fabrique un lemme==. Les entrées de glossaire sont
+lues par le pipeline et émises vers `dist/`.
+
+#### Ce qui vaut pour les trois dépôts : la règle a été écrite d'après une mesure
+
+J'allais écrire « les puces du §2.5 **et** les cases du §3 fabriquent des
+lemmes », par lecture du code. Deux témoins plantés, un dans chaque, puis une
+construction :
+
+    dans une puce du §2.5   → devient un lemme, signalé en lien mort
+    dans une case du §3     → rien
+
+Le §2.5 a la préséance sur le §3 pour la définition, et le terme témoin avait
+déjà sa puce : sa case n'était pas lue. ==Le §3 ne mord donc que pour les termes
+sans puce au §2.5.== La règle écrite dit ce que le code fait, non ce qu'il a
+l'air de faire.
+
+**Et la moitié qu'on oublie a deux moitiés.** Retirer les témoins, oui. Mais
+==avoir copié le fichier avant de les planter== est ce qui a rendu le retrait
+vérifiable : le compte est revenu à 235, c'est-à-dire exactement l'état d'avant.
+Sans la copie, il aurait fallu croire qu'on avait bien remis les choses.
+
+#### Une catégorie de plus pour « vérifier ce qu'un pair affirme »
+
+La session Android a corrigé une erreur que j'allais porter à l'auteur. J'avais
+écrit « la CI de `dev` est rouge », déduit d'un compte exact — 235 liens morts
+pour un plafond de 224. Ses trois dernières exécutions étaient ==vertes== : la CI
+tire le vault au moment où elle tourne, et n'avait pas encore vu le travail du
+jour.
+
+C'est une **prémisse périmée** et non fausse — la distinction est déjà dans le
+skill `concerter-les-sessions`. Mais son constat, lui, n'y est pas, et il vaut
+mieux que la catégorie :
+
+> ==La donnée était exacte **et datée**, et rien dans sa forme ne portait sa
+> date.==
+
+Le skill demande déjà qu'un compte se rapporte avec ==son outil== et ==sa
+référence==. Il ne demande pas l'instant. Or les deux cas du jour ont ce trou :
+`git branch -r` d'un côté, « 235 > 224 » de l'autre — deux mesures justes dont la
+forme ne dit pas de quand elles datent. **Un relevé dont la validité expire doit
+porter ce qui l'a établi et quand**, ou il survivra à ce qu'il mesurait.
+
+#### Ce que le vault a décidé d'autre, et qui traverse
+
+- **La couche des Shemot distingue un `Shem` d'identité d'un `Shem` de
+  fonction.** Le critère est le surplus : un **navi** excède sa mission, un
+  **mal'akh** ==est== sa mission sans reste. ==La marque ne bouge pas== — l'app
+  et le site gardent la terre brûlée et la zone touchable, l'espace chaud étant
+  saturé sous ΔE 25. C'est la ==fiche== qui déclare qu'elle nomme une charge et
+  non une personne. Rien à faire côté rendu.
+- **`kli` / `Kli` / `kelim` devient intraduisible**, avec sa fiche. Il arrive par
+  le pipeline comme les autres. ==Attention au dérivé== : `kelim` retombe sur le
+  lemme `kli`, et c'est la canonisation à l'émission qui le rabat — sans elle il
+  paraît en lien mort, ce qu'il fait aujourd'hui quatre fois sur `dev`.
