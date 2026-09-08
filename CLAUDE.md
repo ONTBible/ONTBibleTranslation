@@ -961,8 +961,12 @@ mécanique aurait corrigé quatre formes de plus, toutes à tort :
 - `khen` — ==כֵן, un vrai khaf==. C'est la formule d'accomplissement du §2.4,
   *vayehi khen*. Dix occurrences justes, qu'un remplacement en masse aurait
   détruites ;
-- `kha`, `khaf`, `khol`, `khshad`, `Keruvim`, `Kalneh` — ==tous des khaf==
-  (כְּ, כ, כֹּל, כְּרֻבִים, כַּלְנֵה) ;
+- `kha`, `khaf`, `khol`, `khshad` — ==tous des khaf== (כְּ, כ, כֹּל) ;
+- `Kheruvim` et `Khalneh` figuraient ici ==à tort==, et la contradiction se
+  voyait dans la ligne même : l'hébreu qu'elle citait — כְּרֻבִים, כַּלְנֵה —
+  ==porte un dagesh==, donc un kaf occlusif, donc `k`. Corrigés le 8 septembre
+  2026 en `Keruvim` (17 occurrences) et `Kalneh` (6), fiches renommées avec.
+  ==Un relevé qui cite son propre contre-exemple sans le lire== ;
 - `khata` — c'est ==le contre-exemple pédagogique== de la section ci-dessus, qui
   cite la graphie fautive pour l'interdire. La corriger aurait effacé la règle ;
 - `chanikh`, `hanakh` — un het rendu ==par `h` seul==, ce qui est ==un autre
