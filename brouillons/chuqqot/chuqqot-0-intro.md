@@ -2,7 +2,7 @@
 
 *(feuille d'introduction du corpus des chuqqot — §2.7)*
 
-Une chuqqah (*chuqqah* / חֻקָּה) est un ==énoncé permanent== : ce que l'ontologie
+Une **chuqqah** (*chuqqah* / חֻקָּה) est un ==énoncé permanent== : ce que l'ontologie
 hébraïque antique tient pour établi, écrit une fois et opposable partout. De
 *chaqaq* (חָקַק) — ==graver, inciser dans la pierre==. *(Le mot lui-même n'est pas
 déclaré intraduisible au §2.5, alors qu'il a la même forme que* **parashah** *:
