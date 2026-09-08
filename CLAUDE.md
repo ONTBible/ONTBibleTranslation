@@ -694,16 +694,16 @@ l'auteur a soulevé le jour même, et il faut l'inscrire ici parce que la sectio
 voisine dit le contraire ==pour une autre lettre==.
 
 Le ה final est ==une mater lectionis== : une lettre-support, qui porte la
-voyelle sans ajouter de son. *Sarah* se dit **sa-RA**, *emunah* **e-mou-NA**,
-*Mosheh* **mo-SHÉ**. Le `h` y note ==la lettre==, non ==le son==.
+voyelle sans ajouter de son. *Sarah* se dit *sa-RA*, *emunah* *e-mou-NA*,
+*Mosheh* *mo-SHÉ*. Le `h` y note ==la lettre==, non ==le son==.
 
 Les deux décisions du 8 septembre reposent donc sur ==deux principes
 distincts==, et les confondre conduirait à défaire l'une par l'autre :
 
 | décision | ce qui la fonde |
 |---|---|
-| **ayin final → `ʿ`** | la ==phonétique== — il s'entend, avec patach furtif |
-| **he final → `h`** | la ==graphie== — deux lettres qu'une seule écriture confondrait |
+| ayin final → `ʿ` | la ==phonétique== — il s'entend, avec patach furtif |
+| he final → `h` | la ==graphie== — deux lettres qu'une seule écriture confondrait |
 
 ==La phrase « une lettre qui se prononce se translittère » ne vaut que pour le
 ayin.== Appliquée au he, elle conduirait à ==retirer== le `h` final — l'inverse
