@@ -19,17 +19,17 @@ Il ne se tient pas *dans* l'espace. Le réel prend place ==en lui==, ==par lui==
 
 ## La nécessité
 
-### Un *maqom* n'est pas un espace vide
+### Un **maqom** n'est pas un espace vide
 
 Le mot vient de *qum* (*qum* / קוּם) — ==se lever, se tenir debout, prendre
 position==. C'est la racine du relèvement, celle qu'on emploie pour ce qui est
 remis debout.
 
-Un *maqom* (*maqom* / מָקוֹם) est donc ==le lieu où une chose tient debout==.
+Un **maqom** (*maqom* / מָקוֹם) est donc ==le lieu où une chose tient debout==.
 
 Ça n'a rien d'un contenant. Le mot que les Grecs emploient, *topos*, désigne un
 espace neutre, géométrique, qui existerait tout aussi bien vide — une boîte
-avant qu'on y range quoi que ce soit. Le *maqom* hébreu ne se conçoit pas vide :
+avant qu'on y range quoi que ce soit. Le **maqom** hébreu ne se conçoit pas vide :
 ==il est ce qui maintient debout ce qui s'y trouve==.
 
 La différence est celle-ci, et elle décide de tout :
@@ -37,7 +37,7 @@ La différence est celle-ci, et elle décide de tout :
 | | ce que c'est | rapport à ce qui s'y trouve |
 |---|---|---|
 | *topos* | un contenant | ==indifférent== — la boîte ne fait rien à ce qu'elle contient |
-| *maqom* | une tenue | ==actif== — sans lui, la chose ne se tiendrait pas |
+| **maqom** | une tenue | ==actif== — sans lui, la chose ne se tiendrait pas |
 
 ### Le renversement, et pourquoi il n'est pas une pieuse image
 
@@ -68,7 +68,7 @@ Alors ceci suit, et c'est la charnière du corpus entier :
 
 Ce n'est pas un degré de plus dans le secret. C'est ==une autre catégorie==. Un
 **olam** suppose un dedans et un dehors, un regard et ce qui lui échappe. Celui
-qui est le *maqom* de tout cela n'a pas de dehors où se retirer.
+qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 
 ## La stratigraphie
 
@@ -86,7 +86,7 @@ je ne remplis pas les Cieux et la Terre ?==
 ==L'impossibilité de le loger.== *Yeshayahu* 66:1 démonte le Temple comme
 contenant, et il le fait par l'absurde : si les Cieux sont son trône et la Terre
 le tabouret de ses pieds, ==quelle maison bâtirait-on pour un être de cette
-taille ?== Le verset emploie le mot lui-même : ==quel *maqom* serait mon
+taille ?== Le verset emploie le mot lui-même : ==quel **maqom** serait mon
 repos ?==
 
 Attention à ne pas y lire un abandon du Temple. Ce n'est pas *« il n'habite
@@ -157,7 +157,7 @@ l'inverse.
 
 Il ==choisit== d'habiter quelque part — et un choix n'a de poids que s'il n'était
 pas contraint. Un dieu attaché à son sanctuaire n'y habite pas : il y est retenu.
-Celui qui est le *maqom* de tout, quand il se pose en un lieu, ==fait quelque
+Celui qui est le **maqom** de tout, quand il se pose en un lieu, ==fait quelque
 chose== — il rend approchable ce qui ne l'était pas.
 
 C'est ce que la chuqqah suivante déplie : ==comment celui qui n'a aucun **olam**
@@ -198,14 +198,14 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 - *==C'est la charnière du corpus.== La première chuqqah pose que l'**olam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **olam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
 
-- *==maqom n'est pas déclaré intraduisible==, et il travaille pourtant ici de bout en bout. « Lieu » en français dit un emplacement ; le *maqom* dit une ==tenue==, et la racine *qum* est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
+- *==maqom n'est pas déclaré intraduisible==, et il travaille pourtant ici de bout en bout. « Lieu » en français dit un emplacement ; le **maqom** dit une ==tenue==, et la racine *qum* est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
 - *==Ce que la chuqqah laisse dehors.== La matière porte une application au **kli** que l'auteur prépare et à sa propre mission. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une lecture de *Yeshayahu* 57:15 — il demeure dans la hauteur et avec le cœur brisé —, écartée non parce qu'elle est fausse mais parce qu'elle demande le traitement du §7 sur *Yeshayahu*, qui n'est pas écrit.*
 
 ### Ce que la chuqqah engage dans le corpus
 
 - *Yeshayahu* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol ha'aretz kevodo*.
-- *Yeshayahu* 66:1-2 (à écrire) — le trône, le tabouret, et le *maqom* du repos.
+- *Yeshayahu* 66:1-2 (à écrire) — le trône, le tabouret, et le **maqom** du repos.
 - *Yirmeyahu* 23:23-24 (à écrire) — de près et de loin, et le verbe *male*.
 - *Yehezqel* 1 (à écrire) — la **merkavah** vue à Bavel, la preuve par l'événement.
 - *Tehilim* 139:7-10 (à écrire) — les Cieux, le **She'ol**, les ailes de l'aurore.

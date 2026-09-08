@@ -27,7 +27,7 @@ C'est un mot qui décrit ==une fonction== : quelqu'un qui transmet un message. I
 ne dit rien de ce que la personne ==est==.
 
 Or les traducteurs grecs ont pris ==trois mots hébreux distincts== — *navi*,
-*ro'eh*, *hozeh* — et les ont rendus par ce seul mot. Puis le latin a repris le
+**ro'eh**, **chozeh** — et les ont rendus par ce seul mot. Puis le latin a repris le
 grec, et le français le latin. Nous lisons donc à ==deux traductions de
 distance==, et ce qui a été perdu au premier pas ne peut plus se retrouver aux
 suivants.
@@ -111,37 +111,37 @@ en cinq métiers différents, confiés à cinq personnes différentes.
 | dimension | la racine | ce qu'elle est | découpée en |
 |---|---|---|---|
 | ==**shaliach**== | *shalach* — envoyer | il est ==lancé==, il ne part pas de lui-même | « apôtre » |
-| ==*ro'eh*== | *ra'ah* — voir · *ra'ah* — paître | il ==conduit parce qu'il voit== | « pasteur » |
-| ==*hozeh*== | *chazah* — contempler | il ==pénètre== ce qui est voilé | « prophète » |
-| ==*mevaser*== | *basar* — annoncer une bonne nouvelle | il ==porte== ce qui est déjà acquis vers qui l'ignore | « évangéliste » |
-| ==*moreh*== | *yarah* — pointer du doigt | il ==indique la direction== et forme des **kelim** | « docteur » |
+| ==**ro'eh**== | *ra'ah* — voir · *ra'ah* — paître | il ==conduit parce qu'il voit== | « pasteur » |
+| ==**chozeh**== | *chazah* — contempler | il ==pénètre== ce qui est voilé | « prophète » |
+| ==**mevaser**== | *basar* — annoncer une bonne nouvelle | il ==porte== ce qui est déjà acquis vers qui l'ignore | « évangéliste » |
+| ==**moreh**== | *yarah* — pointer du doigt | il ==indique la direction== et forme des **kelim** | « docteur » |
 
 Deux choses sautent aux yeux quand on met les racines côte à côte.
 
 ==*Ro'eh* est un seul mot pour deux verbes.== Voir, et paître. Ce n'est pas un
 hasard de la langue : celui qui conduit le troupeau ==voit le chemin avant que
 le troupeau n'y marche==, et discerne le danger que les bêtes ne discernent pas.
-Un « pasteur » qui ne voit rien n'est pas un *ro'eh* — c'est un gestionnaire.
+Un « pasteur » qui ne voit rien n'est pas un **ro'eh** — c'est un gestionnaire.
 
 ==*Moreh* et *Torah* ont la même racine.== Celle qui veut dire ==pointer du
 doigt==. La *Torah* n'est donc pas d'abord un code : c'est ==une direction
-indiquée==. Et le *moreh* enseigne depuis la **da'at** — le connaître par
+indiquée==. Et le **moreh** enseigne depuis la **da'at** — le connaître par
 participation — non depuis une information qu'on aurait lue. ==Il a visité le
 territoire dont il donne la carte.==
 
-### La distinction que le grec a écrasée : *ro'eh* et *hozeh*
+### La distinction que le grec a écrasée : **ro'eh** et **chozeh**
 
 C'est la perte la plus fine, et l'auteur la relève à juste titre : en français
 on dirait « prophète et prophète », comme si l'on se répétait.
 
-| | *ro'eh* | *hozeh* |
+| | **ro'eh** | **chozeh** |
 |---|---|---|
 | racine | *ra'ah* — voir | *chazah* — contempler |
 | mode | perception prophétique ordinaire | ==vision ouverte==, intense |
 | ce que ça suppose | qu'on voie | qu'on ==pénètre== ce qui reste voilé aux autres |
 
 Un texte ancien signale d'ailleurs la bascule des mots : ==celui qu'on appelle
-aujourd'hui **navi** s'appelait autrefois *ro'eh*==. Ce n'est pas dire que les
+aujourd'hui **navi** s'appelait autrefois **ro'eh**==. Ce n'est pas dire que les
 deux sont un ; c'est dire que ==l'usage a bougé==, et l'ONT s'en tient à ce que
 le texte porte.
 
@@ -167,7 +167,7 @@ Et les cinq dimensions convergent toutes vers cet unique office :
 
     shaliach   il est lancé d'en haut vers ici
     ro'eh      il voit d'en haut pour conduire ici
-    hozeh      il pénètre ce qui reste voilé
+    chozeh      il pénètre ce qui reste voilé
     mevaser    il annonce ici ce qui est déjà acquis là-haut
     moreh      il forme ici des kelim capables de tenir ce poids
 
@@ -223,11 +223,11 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans `restranscriptions/`. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **mal'akh** avec un **olam** d'argile, un **olam** d'homme, et le **mal'akh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *ro'eh* / *hozeh* sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans `restranscriptions/`. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **mal'akh** avec un **olam** d'argile, un **olam** d'homme, et le **mal'akh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *ro'eh* / **chozeh** sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
 - *==Elle referme la quatrième.== Celle-là décrivait le **mal'akh** par ce qu'il n'a pas ; celle-ci décrit le **navi** par ce qu'il a en plus, et les deux ne se comprennent qu'ensemble. La quatrième portait déjà le critère du surplus, qui est ici tout l'énoncé.*
 
-- *==Cinq termes travaillent ici sans être déclarés== : *ro'eh*, *hozeh*, *mevaser*, *moreh*, et *lakach* — la saisie souveraine dont l'auteur fait le mode de constitution du **navi**. ==À trancher par l'auteur== : au moins *hozeh* me semble en être, puisque la distinction d'avec *ro'eh* est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
+- *==Cinq termes travaillent ici sans être déclarés== : **ro'eh**, **chozeh**, **mevaser**, **moreh**, et **laqach** — la saisie souveraine dont l'auteur fait le mode de constitution du **navi**. ==À trancher par l'auteur== : au moins **chozeh** me semble en être, puisque la distinction d'avec **ro'eh** est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
 
 - *==Ce que la chuqqah laisse dehors.== La matière porte une application à la constitution propre de l'auteur et à la communauté qu'il prépare. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une critique de l'institution ecclésiale contemporaine, réduite ici au seul constat structurel — l'ONT affirme, il ne polémique pas (§10).*
 
@@ -235,8 +235,8 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 - *Devarim* 18:18 (à écrire) — *je mettrai mes **devarim** dans sa bouche*, la définition fonctionnelle.
 - *Devarim* 18:20-22 (à écrire) — le critère de vérification des paroles.
-- *1 Shemuel* 9:9 (à écrire) — la bascule de *ro'eh* vers **navi**, signalée par le texte lui-même.
-- *Yeshayahu* 52:7 (à écrire) — le *mevaser* et ses pieds sur les montagnes.
+- *1 Shemuel* 9:9 (à écrire) — la bascule de **ro'eh** vers **navi**, signalée par le texte lui-même.
+- *Yeshayahu* 52:7 (à écrire) — le **mevaser** et ses pieds sur les montagnes.
 - *Bereshit* 18 (verrouillé) — Avraham qui marchande : l'interface dans l'autre sens, qu'un **mal'akh** ne fait jamais.
 
 ---
