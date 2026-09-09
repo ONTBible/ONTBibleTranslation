@@ -7,13 +7,20 @@ régénérable : ces fichiers ne se reconstruisent depuis aucune source.
 **La règle, et sa raison.** Le `CLAUDE.md` du dépôt l'écrit au §2.9, à propos de
 la passe orthographique du 8 septembre 2026 :
 
-> Trente-quatre `Khanokh` y subsistent, et ils doivent y subsister — corriger
-> l'orthographe de ce que quelqu'un a tapé n'est pas une correction, c'est une
-> réécriture.
+> Trente-quatre graphies périmées d'un nom y subsistent, et elles doivent y
+> subsister — corriger l'orthographe de ce que quelqu'un a tapé n'est pas une
+> correction, c'est une réécriture.
 
-Ce compte est un **témoin** : il vaut contrôle d'intégrité. `grep -roh "Khanokh"
-sessions | wc -l` doit rendre **34**. S'il rend autre chose, quelque chose a
-touché à ce dossier.
+Ce compte est un **témoin** : il vaut contrôle d'intégrité, et il porte sur la
+graphie que la passe du 8 septembre a partout remplacée par `Chanokh`.
+
+    grep -rohc --include='*.txt' --include='*.md' 'Kh'"'"'anokh' sessions | paste -sd+ - | bc
+
+doit rendre **34**. S'il rend autre chose, quelque chose a touché à ce dossier.
+
+*Cette page s'exclut du compte en coupant le mot* — sans quoi la garde
+fausserait le contrôle qu'elle définit. Elle l'a fait une fois, le jour même où
+elle a été écrite.
 
 **Ce qui est donc interdit ici**, sans exception et quelle que soit la passe :
 
