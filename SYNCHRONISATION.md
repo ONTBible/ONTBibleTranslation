@@ -3458,3 +3458,75 @@ contenu.
 - **`ONTBibleTranslation`** — rien à écrire pour le transport. Le §12 devra
   dire ce qu'il advient des **chuqqot** dans le flux `brouillons/` → `locked/`,
   puisqu'elles ne sont ni une intro ni un chapitre de slot.
+
+---
+
+### 9 septembre 2026 — une glose qui enjambe un blanc avale ce qui la suit
+
+**Le défaut, d'abord.** Une glose `*[…]*` qui ==enjambe un blanc de paragraphe==
+n'est plus une glose. Le pipeline analyse par paragraphe : le marqueur reste
+ouvert, et ==tout ce qui suit dans le paragraphe est emporté avec lui==.
+
+Huit gloses de *Bereshit* 1 étaient dans cet état, écrites le jour même. La
+cause est banale et vaut d'être dite : elles étaient devenues ==longues au point
+de vouloir respirer==, et leur auteur y a mis des blancs.
+
+**Ce que la réparation a rendu, et qui ne se lit pas dans le zéro.**
+
+    niveaux 3 au total    2 075 → 2 089    +14
+    résolus               1 065 → 1 074     +9
+    inertes                 992 →   997     +5
+
+Les gloses cassées ==avalaient quatorze translittérations==. Elles n'étaient pas
+inertes : elles ==n'existaient pas== pour le pipeline. La réparation ne nettoie
+donc pas un affichage, elle ==rend au corpus de la matière==.
+
+==Le compte d'inertes monte, et il ne faut pas le lire seul.== 992 → 997 se lit
+comme une régression pour qui ignore le total. C'est l'inverse : c'est de la
+matière qui redevient visible.
+
+**Le contrôle qui manquait.** Aucun n'a vu le défaut, et pour une raison qui
+n'est pas l'inattention : ils comptaient les gras et les accentuations, ==jamais
+les marqueurs de glose==. Le contrôle était vert ==sur ce qu'il mesurait==, et
+muet sur le reste.
+
+> **Un contrôle vert ne dit rien d'un contrôle qu'on n'a pas écrit.**
+
+`ONTBibleTranslation/scripts/verifier-le-balisage.py` mesure désormais les
+trois, par paragraphe.
+
+**Son écriture a coûté quatre tentatives, et c'est la partie instructive.**
+
+    comptage naïf            15 signalés    8 réels, 7 faux positifs
+    délimiteurs resserrés   101
+    liens neutralisés        90
+    balayage atomique         0             juste
+
+Un lien de **Shem** voisine les mêmes caractères qu'une glose et produit des
+faux positifs ==dans les deux sens== : `*[[Enosh]]` est une italique ouvrant sur
+un lien, `[[Avraham]]*` un lien fermant une italique, et `*[[[Amrafel]] …]*` une
+==vraie== glose ouvrant sur un lien. Aucun délimiteur ne les sépare.
+
+> **Un instrument plus fin n'est pas un instrument plus juste.**
+
+Les deux versions « améliorées » étaient ==six fois pires== que le comptage
+naïf. C'est le §13.2 vu de l'autre côté : là, un relevé bien formé mesurait
+autre chose que la question ; ici, un raffinement bien intentionné s'éloigne de
+la réponse. Ce qui sauve est le même geste — ==éprouver sur un cas dont on
+connaît la réponse==, et dans les deux sens : 404 fichiers rendus propres, et un
+témoin cassé exprès que le contrôle attrape.
+
+**Deux instruments sans rien de commun sont tombés au même endroit.** Le script
+Python balaie du Markdown en sautant les liens ; le pipeline lit ce que son
+analyseur Rust a produit. Mêmes huit paragraphes, dans le même ordre, sur les
+deux états. ==Cela vaut mieux que deux relevés concordants du même outil== — et
+c'est exactement ce que le 25 août avait manqué, quand trois instruments fautifs
+s'étaient accordés sur une conclusion sans que l'accord ne prouve rien.
+
+**Et une seconde erreur, trouvée en cherchant la première.** Une glose s'était
+insérée dans le ==pied de page== d'un chapitre, à l'intérieur d'une puce déjà en
+italique. Le motif cherchait « un niveau 3 sans glose derrière » ==sans regarder
+où il se trouvait==.
+
+> **Un motif qui ne distingue pas le corps de l'apparat écrira toujours quelque
+> part.**
