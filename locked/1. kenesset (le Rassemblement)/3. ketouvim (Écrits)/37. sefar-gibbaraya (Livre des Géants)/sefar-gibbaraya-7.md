@@ -5,19 +5,19 @@
 
 ## La lettre du scribe
 
-¹ Voici la parole que [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (*Chanokh* / חֲנוֹךְ) *[scribe du domaine céleste et médiateur perceptif ; il écrit ce qui lui est montré]* écrivit sur la tablette :
+¹ *[==une lettre, et il faut voir le genre==. Ce chapitre n'est pas un récit : c'est ==un acte écrit==, avec un émetteur, des destinataires nommés, un exposé des faits, un attendu et un dispositif. Le monde du Second Temple connaissait cette forme — ==c'est celle d'une notification judiciaire==, et le texte l'emploie parce que ce qui se passe ici est une procédure, non une colère]* Voici la parole que [[Chanokh-qui-marche-avec-Elohim|Chanokh]] (*Chanokh* / חֲנוֹךְ) *[scribe du domaine céleste et médiateur perceptif ; il écrit ce qui lui est montré]* écrivit sur la tablette :
 
 ² "Au sujet de [[Shemichazah]] (*Shemichazah* / שמיחזה) et de tous ses compagnons, qu'il vous soit connu que vos œuvres (*ovadkhon* / עובדכון) *[actes accomplis, non idées intérieures ; le jugement porte sur ce qui a troublé l'ordre]* ne sont pas cachées.
 
-³ Vous avez quitté votre garde, vous avez pris des **ishah** (*nashim* / נָשִׁים), vous avez engendré des fils de démesure, et vos œuvres ont rempli la Terre de dommage (*chabala* / חבלא) *[corruption, ruine, dommage infligé à la structure habitable]*.
+³ Vous avez quitté votre garde *[==la garde== est le mot qui juge, et il ne dit pas une interdiction : il dit ==un poste==. Un **malʾakh** ==est== sa mission (§2.10), il n'a pas de vie en dehors d'elle. Quitter sa garde n'est donc pas désobéir à une règle, ==c'est cesser d'être ce qu'on est==]*, vous avez pris des **ishah** (*nashim* / נָשִׁים), vous avez engendré des fils de démesure, et vos œuvres ont rempli la Terre de dommage (*chabala* / חבלא) *[corruption, ruine, dommage infligé à la structure habitable]*.
 
 ⁴ Vos fils ont versé le sang. ⁵ Ils ont combattu toute chair. ⁶ Ils ont mangé ce que la Terre produisait, et ce que la Terre produisait ne leur suffisait pas.
 
-⁷ La plainte (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les œuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
+⁷ La plainte *[==la Terre est partie au procès==, et c'est elle qui l'a ouvert. Ce n'est pas **YHWH** qui constate d'en haut : ==quelque chose est monté d'en bas==, comme le sang de [[Hevel]] et comme le cri de [[Sedom]]. Dans ce corpus, ==le jugement descend parce qu'une plainte est montée==]* (*qebalah* / קבלה) *[réclamation portée devant une autorité ; non sentiment privé mais dossier de jugement]* est montée contre vous et contre les œuvres de vos fils. ⁸ Le dommage dont vous avez endommagé la Terre est porté devant le Saint (*qaddisha* / קדישא) *[celui qui appartient au domaine séparé et souverain]*.
 
 ⁹ Le décret est parvenu jusqu'à [[Rafaʾel]] (*Rafaʾel* / רָפָאֵל) *[*rafa* (רָפָא) : guérir + *el* (אֵל) — "**El** guérit" ; **malʾakh** du domaine céleste chargé du jugement et de la restauration de la Terre — dans la tradition de 1 *==Chanokh==*, l'un des quatre **malʾakhim** du Conseil céleste]*, et les liens sont préparés pour ceux qui ont quitté leur limite.
 
-¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
+¹⁰ Vous avez demandé délai, mais le délai n'est plus attribué *[==trois demandes, trois refus==, et ils forment le dispositif de la lettre. Le texte ne les commente pas : ==il les enregistre==, comme un greffe. La forme dit ce que le contenu ne dit pas — ==il n'y a plus de discussion==]*. ¹¹ Vous avez demandé que vos fils demeurent, mais ce qui est né de la rupture ne peut fonder l'ordre *[==et c'est un motif, non une sévérité==. Un ordre se transmet par ce qui a reçu sa place ; ce qui naît d'un franchissement ==n'a pas de place à transmettre==. Le refus ne punit pas les fils de leurs pères — ==il constate qu'il n'y a rien à continuer==]*. ¹² Vous avez demandé que votre **shem** soit conservé, mais votre **shem** sera gardé comme avertissement, non comme établissement.
 
 ¹³ Le jardin sera visité par le feu et par les eaux. ¹⁴ La tablette sera lavée. ¹⁵ Les noms seront effacés, et un reste seulement demeurera. ¹⁶ Ce reste ne vient pas de vous ; il vient de celui qui a été gardé pour que la Terre soit réinstallée après les eaux.
 
