@@ -49,7 +49,7 @@
 - *Berith — "alliance" confirmé. Première occurrence développée : unilatérale, **Elohim** seul s'engage. Niveau 3 : **berith** (*beriti* / בְּרִיתִי))*
 - *Meqim — "établissant" (qum : faire se tenir — non karat : couper)*
 - *Zakar — "porter attention à" (engagement actif, non rappel cognitif)*
-- *Zikaron — "mémorial vivant" (*zikaron* / זִכָּרוֹן) *[de *zakhar* (זָכַר) — se souvenir. ==Un mémorial n'est pas un souvenir== : c'est ==un objet posé pour que quelqu'un se souvienne==, et ici c'est **Elohim** qui regardera. Le signe n'est pas fait pour l'**adam**]* — présence fonctionnelle active, non trace du passé*
+- *Zikaron — "mémorial vivant" (*zikaron* / זִכָּרוֹן) — présence fonctionnelle active, non trace du passé*
 - *==Olam== — intraduisible (décision rétroactive) : de la racine "caché, dissimulé" — l'horizon temporel que le regard humain ne peut pas discerner. Non pas l'éternité abstraite des Grecs. Construits translittérés en entier : **berith-olam**, **ledorot-olam***
 - *Mora / Chitah — "crainte / terreur" — les deux termes de la nouvelle relation humains-animaux post-déluge*
 - *Dam — "sang" identifié au **Nefesh** : prohibition universelle et ante-Sinaï*
