@@ -63,7 +63,7 @@
 *Bereshit 6 — Version 1.0 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 6 :*
 - *Benei ha-elohim — "les fils d'**Elohim**" (membres du Conseil Divin — êtres célestes, non hommes pieux)*
-- ***Nefilim** — laissé en hébreu (intraduisible — ambiguïté délibérée du texte)*
+- *==Nefilim== — laissé en hébreu (intraduisible — ambiguïté délibérée du texte)*
 - *Berith — "alliance" (première occurrence — cadre d'existence établi unilatéralement par **YHWH**, [[Noach]] entre dedans sans en être le co-signataire)*
 - *Nacham — laissé en hébreu (intraduisible — viscéral et délibératif simultanément)*
 - *Chen — "faveur" (initiative du donneur — le texte ne dit rien de plus)*

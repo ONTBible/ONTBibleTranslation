@@ -63,8 +63,8 @@
 
 *Bereshit 14 — Version 1.0 — en cours*
 *Décisions terminologiques propres à ce Bereshit 14 :*
-- ***El Elyon** (אֵל עֶלְיוֹן) — intraduisible, laissé en hébreu. *Elyon* de *alah* (monter, s'élever) — **El** le Souverain élevé. Combiné avec **YHWH** au v.22 : **YHWH** **El Elyon** — identification explicite par [[Avram]] des deux noms divins*
-- ***Kohen** (כֹּהֵן) — intraduisible. Non pas "prêtre" (catégorie romaine anachronique) : l'intermédiaire fonctionnel entre les deux domaines. Premier emploi — [[Malki-tsedeq]], roi-**kohen** de [[Shalem]]*
+- *==El Elyon== (אֵל עֶלְיוֹן) — intraduisible, laissé en hébreu. *Elyon* de *alah* (monter, s'élever) — **El** le Souverain élevé. Combiné avec **YHWH** au v.22 : **YHWH** **El Elyon** — identification explicite par [[Avram]] des deux noms divins*
+- *==Kohen== (כֹּהֵן) — intraduisible. Non pas "prêtre" (catégorie romaine anachronique) : l'intermédiaire fonctionnel entre les deux domaines. Premier emploi — [[Malki-tsedeq]], roi-**kohen** de [[Shalem]]*
 - *Tsedeq (צֶדֶק) — l'ordre juste cosmique. Dans le Shem de [[Malki-tsedeq]] : "mon roi est l'ordre juste"*
 - *Qoneh shamayim vaʾarets — "fondateur et maître des Cieux et de la Terre" : double dimension de *qanah* (fonder/créer ET posséder/maîtriser)*
 - *Ha-ivri (הָעִבְרִי) — "l'Hébreu". Première occurrence. Double étymologie : de *avar* (traverser) ET descendant d'*==Ever==* (Bereshit 10). Ambiguïté maintenue*

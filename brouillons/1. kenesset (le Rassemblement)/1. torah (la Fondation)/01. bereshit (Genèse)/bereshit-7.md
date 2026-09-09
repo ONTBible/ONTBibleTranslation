@@ -123,16 +123,16 @@ ne marqueront pas de cessation (*lo yishbotu* / לֹא יִשְׁבֹּתוּ) *
 
 *Bereshit 7 — Version 1.1 — en cours*
 *Décisions terminologiques propres à ce Bereshit 7 :*
-- ***Tahor** / **lo tahor** — laissé en hébreu (pureté fonctionnelle rituelle — intraduisible)*
-- ***Ishah** / **ishto** / **eshet** / **neshei** — laissé en hébreu (déjà en pratique depuis Bereshit 2, formalisé dans le CLAUDE.md aujourd'hui)*
+- *==Tahor== / ==lo tahor== — laissé en hébreu (pureté fonctionnelle rituelle — intraduisible)*
+- *==Ishah== / ==ishto== / ==eshet== / ==neshei== — laissé en hébreu (déjà en pratique depuis Bereshit 2, formalisé dans le CLAUDE.md aujourd'hui)*
 - *Tsippor — "petit oiseau" (de tsafar : pépier — l'individu concret, distinct d'of la catégorie fonctionnelle)*
 - *Yiqum — "ce qui se tient dans l'existence" (de qum : tout ce qui a une stature dans le cosmos créé)*
 - *Zakar — "se souvint" (engagement actif — tournant du chiasme en 8:1)*
 - *Reah hannichoach — "arôme de repos" (de nuach — même racine que [[Noach]] : son **Shem** s'accomplit)*
-- ***Olot** — laissé en hébreu (offrandes ascendantes — de alah : monter. Jamais "holocauste")*
+- *==Olot== — laissé en hébreu (offrandes ascendantes — de alah : monter. Jamais "holocauste")*
 - *Mizbeach — "autel" + niveau 3 (de zavach : le lieu d'égorgement)*
-- ***Kavod** — laissé en hébreu (de kaved : pesanteur fonctionnelle d'une réalité dans l'ordre cosmique)*
+- *==Kavod== — laissé en hébreu (de kaved : pesanteur fonctionnelle d'une réalité dans l'ordre cosmique)*
 - *Qallel — "retirer de sa **Kavod**" (de qalal : alléger — opposé exact de barakh. Allège sans supprimer)*
 - *Lo yishbotu — "ne marqueront pas de cessation" (de shavat — même racine que le Shabbat)*
 - *Lemishpechoteihem — "selon leurs familles" (distinction avec leminim/espèces de Bereshit 1)*
-- ***Neshamah** — à signaler à l'auteur : premier emploi hors du contexte de Bereshit 2 (PRIORITÉ ABSOLUE)*
+- *==Neshamah== — à signaler à l'auteur : premier emploi hors du contexte de Bereshit 2 (PRIORITÉ ABSOLUE)*

@@ -57,7 +57,7 @@
 - *Mashqeh — "irriguée" : de shaqa (abreuver)*
 - *Miqqedem — "vers l'Orient" : le mouvement vers l'orient comme mouvement d'éloignement fonctionnel (écho de Bereshit 3, 4, 11)*
 - *Raʿim vechatahim — foncièrement **raʿ** et **chataʾim** : **raʿ** (état) + **chata** (acte) — les deux dimensions cumulées*
-- ***Ad-olam** — intraduisible : jusqu'à l'**olam**, jusqu'à l'horizon temporel que le regard humain ne peut pas discerner (construit translittéré en entier ; **olam** posé en *Bereshit* 3:22)*
+- *==Ad-olam== — intraduisible : jusqu'à l'**olam**, jusqu'à l'horizon temporel que le regard humain ne peut pas discerner (construit translittéré en entier ; **olam** posé en *Bereshit* 3:22)*
 - *Keʿafar haʾarets — "comme la poussière de la Terre" : afar = même terme que la matière d'où l'adam a été façonné*
 - *Hithalekh baʾarets — "parcours la Terre" : même verbe que le cheminement de [[Chanokh-qui-marche-avec-Elohim|Chanokh]] et [[Noach]] avec YHWH — ici appliqué à la Terre promise*
 - *Elonei [[Mamre]] — "chênes/térébinthes de [[Mamre]]" : lieu de présence dans les traditions proche-orientales*

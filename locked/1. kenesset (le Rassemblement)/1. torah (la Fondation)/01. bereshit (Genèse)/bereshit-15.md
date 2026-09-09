@@ -57,8 +57,8 @@
 
 *Bereshit 15 — Version 1.0 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 15 :*
-- ***emunah** (אֱמוּנָה) — intraduisible. Forme verbale *heʾemin* rendue par "**emuna**" (verbe construit sur la même racine : Avram **emuna** en **YHWH**)*
-- ***tsedaqah** (צְדָקָה) — intraduisible. Forme nominale de *tsedeq* — état de juste-ordre cosmique. **YHWH** inscrit l'**emunah** d'Avram dans la colonne de la **tsedaqah***
+- *==emunah== (אֱמוּנָה) — intraduisible. Forme verbale *heʾemin* rendue par "**emuna**" (verbe construit sur la même racine : Avram **emuna** en **YHWH**)*
+- *==tsedaqah== (צְדָקָה) — intraduisible. Forme nominale de *tsedeq* — état de juste-ordre cosmique. **YHWH** inscrit l'**emunah** d'Avram dans la colonne de la **tsedaqah***
 - *Machazeh (מַחֲזֶה) — la vision intérieure. De *hazah* : voir avec les yeux de la **Nefesh**. Distinct de *vayera* (apparition visible)*
 - *Magen (מָגֵן) — bouclier : **YHWH** se pose lui-même comme bouclier d'Avram. Écho de *migen* en Bereshit 14:20*
 - *Tardemah (תַּרְדֵּמָה) — sommeil profond. Écho délibéré de Bereshit 2:21 (sommeil de l'adam)*
@@ -68,5 +68,5 @@
 - *Karat berith — couper une alliance : le rite de découpe des animaux donne son verbe au traité lui-même*
 - *Tannur ashan / lapid esh — four fumant et torche de feu : théophanie de feu et de fumée, anticipe le Sinaï*
 - *Berith unilatérale confirmée : seul **YHWH** passe entre les morceaux — même logique que Bereshit 8-9*
-- ***Adonai** (אֲדֹנָי) — intraduisible. De *adon* : le maître, le seigneur. Titre de maîtrise souveraine adressé à **YHWH** — distinct d'**Elohim** et de **YHWH**. Combiné : **Adonai** **YHWH** (v.2 et v.8). Premier emploi dans l'ONT*
+- *==Adonai== (אֲדֹנָי) — intraduisible. De *adon* : le maître, le seigneur. Titre de maîtrise souveraine adressé à **YHWH** — distinct d'**Elohim** et de **YHWH**. Combiné : **Adonai** **YHWH** (v.2 et v.8). Premier emploi dans l'ONT*
 - *Bereshit 16 : Genèse 16:1-16 — [[Hagar]] et Ishmaël. Traitable en autonomie : *shifchah* (servante), *maʾlakh YHWH* (premier emploi — à signaler), *El Roï* (nouveau nom divin — PRUDENCE : décision à traiter avec l'auteur)*

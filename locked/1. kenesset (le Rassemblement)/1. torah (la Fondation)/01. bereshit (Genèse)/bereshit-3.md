@@ -92,7 +92,7 @@ Frappé de dysfonctionnement (*arur* / אָרוּר) sera le sol concret (*haʾa
 - *Nachash — "serpent" (traduit — pas un intraduisible)*
 - *Arum — "habile" (capacité fonctionnelle neutre, non jugement moral)*
 - *Arur — "frappé de dysfonctionnement" (la dotation demeure mais devient dysfonctionnelle — non son absence totale)*
-- ***Ish** / **Ishah** — (*ish* / אִישׁ) et (*ishah* / אִשָּׁה) — niveau 3 appliqué systématiquement en corps de texte*
+- *==Ish== / ==Ishah== — (*ish* / אִישׁ) et (*ishah* / אִשָּׁה) — niveau 3 appliqué systématiquement en corps de texte*
 - *Kotnot or — "enveloppes de peau" (or = dépouille animale — mort d'une créature implicite ; nouvelle condition d'existence entourée de l'extérieur, non commentée par le texte)*
 - *Teshuqah — "aspiration" (orientation profonde de l'être vers)*
 - *Itsavon — "douleur" (travail douloureux / gestation douloureuse)*

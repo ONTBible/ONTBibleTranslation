@@ -50,9 +50,9 @@
 - *Meqim — "établissant" (qum : faire se tenir — non karat : couper)*
 - *Zakar — "porter attention à" (engagement actif, non rappel cognitif)*
 - *Zikaron — "mémorial vivant" (*zikaron* / זִכָּרוֹן) — présence fonctionnelle active, non trace du passé*
-- ***Olam** — intraduisible (décision rétroactive) : de la racine "caché, dissimulé" — l'horizon temporel que le regard humain ne peut pas discerner. Non pas l'éternité abstraite des Grecs. Construits translittérés en entier : **berith-olam**, **ledorot-olam***
+- *==Olam== — intraduisible (décision rétroactive) : de la racine "caché, dissimulé" — l'horizon temporel que le regard humain ne peut pas discerner. Non pas l'éternité abstraite des Grecs. Construits translittérés en entier : **berith-olam**, **ledorot-olam***
 - *Mora / Chitah — "crainte / terreur" — les deux termes de la nouvelle relation humains-animaux post-déluge*
 - *Dam — "sang" identifié au **Nefesh** : prohibition universelle et ante-Sinaï*
 - *Hineni — "me voici" — auto-déclaration solennelle de présence engagée*
-- ***Adam** — intraduisible à partir de Bereshit 8 : laissé en hébreu en gras comme **Nefesh** et **Ruach**. Dans les contextes légaux et covenantaux de Bereshit 8-9, l'hébreu dit ha-adam dans sa dimension universelle — toute humanité, tout être façonné du sol. La périphrase complète brise le chiasme de v.6 (shofekh dam ha-adam / ba-adam damo yishafekh) et alourdit la formulation du droit divin*
+- *==Adam== — intraduisible à partir de Bereshit 8 : laissé en hébreu en gras comme **Nefesh** et **Ruach**. Dans les contextes légaux et covenantaux de Bereshit 8-9, l'hébreu dit ha-adam dans sa dimension universelle — toute humanité, tout être façonné du sol. La périphrase complète brise le chiasme de v.6 (shofekh dam ha-adam / ba-adam damo yishafekh) et alourdit la formulation du droit divin*
 - *Bereshit 9 : Genèse 9:18-29 — l'incident de la vigne, la malédiction de [[Kenaʿan]]*

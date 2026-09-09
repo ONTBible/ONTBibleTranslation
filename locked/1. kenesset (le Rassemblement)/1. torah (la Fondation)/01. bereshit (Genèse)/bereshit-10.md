@@ -85,7 +85,7 @@
 
 *Bereshit 10 — Version 1.2 — verrouillée*
 *Décisions terminologiques propres à ce Bereshit 10 :*
-- ***goyim** — intraduisible à partir de ce verset (décision rétroactive actée en *Bereshit* 17). De *goy* (גּוֹי) : peuple-nation constitué. Voir CLAUDE.md §3.2.*
+- *==goyim== — intraduisible à partir de ce verset (décision rétroactive actée en *Bereshit* 17). De *goy* (גּוֹי) : peuple-nation constitué. Voir CLAUDE.md §3.2.*
 - *Mishpahot — "clans"*
 - *Leshon — "langue"*
 - *Nifredah/nifredou — "se dispersèrent" (de prd : même racine que vayipared de Bereshit 2:10 — ramification depuis un point d'origine)*
