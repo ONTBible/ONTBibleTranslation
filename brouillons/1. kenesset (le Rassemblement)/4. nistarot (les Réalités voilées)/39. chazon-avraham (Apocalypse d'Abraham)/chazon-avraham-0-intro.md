@@ -5,10 +5,10 @@
 
 ---
 
-Titre & **Shem** — *Chazon ==Avraham==* (חֲזוֹן אַבְרָהָם) : « la vision d'Avraham ». *Chazon* est le terme natif du Second Temple pour la vision reçue (Daniel 7:1, 8:1 ; titres de Yeshayahu, Ovadyah, Nahum, Havaquq) — jamais *giluy*, calque rabbinique tardif du grec. Le français « Apocalypse d'Abraham » n'est qu'un pont.
-*Régime d'auteur* — Restitution (récit à la première personne sous le **Shem** d'Avraham — *voir plus bas*).
+Titre & **Shem** — *Chazon ==Avraham==* (חֲזוֹן אַבְרָהָם) : « la vision d'[[ʾAvraham]] ». *Chazon* est le terme natif du Second Temple pour la vision reçue (Daniel 7:1, 8:1 ; titres de Yeshayahu, Ovadyah, Nahum, Havaquq) — jamais *giluy*, calque rabbinique tardif du grec. Le français « Apocalypse d'Abraham » n'est qu'un pont.
+*Régime d'auteur* — Restitution (récit à la première personne sous le **Shem** d'[[ʾAvraham]] — *voir plus bas*).
 *Thème* — Que vit [[ʾAvraham]] dans la grande obscurité, entre les morceaux de la **berith** ?
-*Date d'émergence* — les jours patriarcaux, à la **berith** des morceaux : ce que *Bereshit* 15 dit qu'Avraham a traversé (la réalité).
+*Date d'émergence* — les jours patriarcaux, à la **berith** des morceaux : ce que *Bereshit* 15 dit qu'[[ʾAvraham]] a traversé (la réalité).
 *Date de consignation* — après le Ḥurban de 70 de l'ère : le livre voit le Temple brûlé (ch. 27) — vraisemblablement fin du Iᵉʳ, début du IIᵉ siècle (l'écrit).
 
 ---
@@ -24,17 +24,17 @@ Titre & **Shem** — *Chazon ==Avraham==* (חֲזוֹן אַבְרָהָם) : «
 *Distinguer le témoin du texte.* Ce sont des scribes chrétiens qui ont copié ce livre pendant mille ans, et c'est à eux que nous devons de l'avoir. Mais un copiste qui transmet est aussi un copiste qui commente : le livre a pris en route une greffe caractérisée (voir *Ce qui n'entre pas au corps*). Le témoin est chrétien, tardif et précieux ; le texte est juif, hébreu et ancien.
 
 *Datation — à ne pas confondre (standard §B, CLAUDE.md §4.14).* L'histoire ontologico-fonctionnelle distingue :
-- *émergence* : la réalité — ce qu'Avraham a vu quand la *tardemah* et la grande obscurité tombèrent sur lui — *est* aux jours patriarcaux, et *Bereshit* 15 en porte déjà le noyau ;
-- *transmission* : la mémoire d'Avraham arraché aux idoles était *courante* au Second Temple — *Yovelim* 11-12 la porte au IIᵉ siècle avant l'ère, Josèphe la connaît, le midrash la conservera ;
+- *émergence* : la réalité — ce qu'[[ʾAvraham]] a vu quand la *tardemah* et la grande obscurité tombèrent sur lui — *est* aux jours patriarcaux, et *Bereshit* 15 en porte déjà le noyau ;
+- *transmission* : la mémoire d'[[ʾAvraham]] arraché aux idoles était *courante* au Second Temple — *Yovelim* 11-12 la porte au IIᵉ siècle avant l'ère, Josèphe la connaît, le midrash la conservera ;
 - *consignation* : le témoin que nous tenons est écrit après 70 de l'ère, car il voit le sanctuaire brûlé et le peuple emmené (ch. 27).
 
 *Ce livre est donc un cas d'école de la datation à trois niveaux* — et sa place dans le corpus le montre. Il est consigné en même temps que *Chazon Ezra* et *Chazon Barukh* (n° 42 et 43), tous trois sous le coup du Ḥurban ; mais il est rangé au n° 39, avant Daniel, parce que l'ordre des Nistarot suit la ==chronologie du visionnaire== et non celle du scribe. Dater ce livre « du IIᵉ siècle » et croire l'avoir situé, ce serait prendre la consignation pour l'origine.
 
 ## Régime d'auteur
 
-*Restitution* (standard §A). Le livre parle à la première personne sous le **Shem** d'Avraham, et il n'est évidemment pas de sa main : il voit le Temple brûlé, deux mille ans après lui. Le **Shem** marque ici la ==provenance et l'autorité== d'une vérité, non le scribe physique — le même régime que la Torah, mosaïque par autorité et non par chaque trait de plume.
+*Restitution* (standard §A). Le livre parle à la première personne sous le **Shem** d'[[ʾAvraham]], et il n'est évidemment pas de sa main : il voit le Temple brûlé, deux mille ans après lui. Le **Shem** marque ici la ==provenance et l'autorité== d'une vérité, non le scribe physique — le même régime que la Torah, mosaïque par autorité et non par chaque trait de plume.
 
-Ce n'est pas une fraude, et il faut voir précisément ce que ce régime déclare. Écrire sous le **Shem** d'Avraham, c'est dire : *cette vision appartient à celui à qui la **berith** fut donnée*. Le livre ne s'invente pas un patron prestigieux — il rattache son contenu au seul homme dont la Torah dit qu'il fut plongé dans une obscurité épaisse et à qui il fut montré ce qui viendrait (*Bereshit* 15:12-16). La revendication est exacte : il déploie ce que sa source contracte.
+Ce n'est pas une fraude, et il faut voir précisément ce que ce régime déclare. Écrire sous le **Shem** d'[[ʾAvraham]], c'est dire : *cette vision appartient à celui à qui la **berith** fut donnée*. Le livre ne s'invente pas un patron prestigieux — il rattache son contenu au seul homme dont la Torah dit qu'il fut plongé dans une obscurité épaisse et à qui il fut montré ce qui viendrait (*Bereshit* 15:12-16). La revendication est exacte : il déploie ce que sa source contracte.
 
 ## But
 
@@ -103,9 +103,9 @@ Et une convergence qui mérite d'être relevée. Le livre se referme sur « le q
 
 L'écho le plus net est aussi le plus surprenant. Dans *Bereshit ha-Yohanan* 8:56, Yeshua dit : *« [[ʾAvraham]] votre père a tressailli de voir mon jour ; il l'a vu, et il s'est réjoui. »* La phrase suppose acquise, chez ses auditeurs, ==une tradition où il fut montré à Avraham ce qui viendrait== — ce qui est précisément la revendication de ce livre. Elle ne la tire pas d'ici, et ce livre ne la tire pas de là : les deux témoignent d'un réel qui circulait.
 
-Shaul, de la même génération, argumente tout entier sur le chapitre que ce livre traverse : *« [[ʾAvraham]] fit **ʾemuna** à **ʾElohim**, et cela lui fut compté comme **tsedaqah** »* (*Bereshit* 15:6, repris en *El HaRomiyim* 4 et *El HaGalatiyim* 3). Deux lectures d'un même chapitre, contemporaines et indépendantes : l'une déploie ce qu'Avraham *crut*, l'autre ce qu'il *vit*.
+Shaul, de la même génération, argumente tout entier sur le chapitre que ce livre traverse : *« [[ʾAvraham]] fit **ʾemuna** à **ʾElohim**, et cela lui fut compté comme **tsedaqah** »* (*Bereshit* 15:6, repris en *El HaRomiyim* 4 et *El HaGalatiyim* 3). Deux lectures d'un même chapitre, contemporaines et indépendantes : l'une déploie ce qu'[[ʾAvraham]] *crut*, l'autre ce qu'il *vit*.
 
-Shaul encore, ravi jusqu'au troisième ciel et ne sachant dire si ce fut dans le corps ou hors du corps (*El HaQorintiyim* 12:2-4) : la montée d'Avraham est du même ordre — portée, corporelle, sans que rien se détache. C'est la cosmologie native d'un Hébreu du Second Temple, non le vol d'une âme.
+Shaul encore, ravi jusqu'au troisième ciel et ne sachant dire si ce fut dans le corps ou hors du corps (*El HaQorintiyim* 12:2-4) : la montée d'[[ʾAvraham]] est du même ordre — portée, corporelle, sans que rien se détache. C'est la cosmologie native d'un Hébreu du Second Temple, non le vol d'une âme.
 
 Enfin le *Machazeh Yohanan* (n° 70), qui occupe dans la *Berit Hadashah* le mode que ce livre ouvre dans la Kenesset : le trône, les vivants, les yeux, la trompette du rassemblement. Le vocabulaire est le même parce que la traversée est la même.
 
