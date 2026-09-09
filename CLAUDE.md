@@ -1826,6 +1826,33 @@ Dater un texte par son seul manuscrit est l'erreur de l'historien moderne. L'ONT
 
 Les trois découlent du modèle **déclin → recouvrement** : la réalité est ancienne, l'écrit est tardif — un fragment recouvré. Le moderne colle tout sur la consignation et croit avoir daté le texte.
 
+**On ne glose pas la syntaxe d'un passage que l'ONT a reconstruit.** Règle
+écrite le 9 septembre 2026, sur un cas du *Sefar Gibbaraya*.
+
+Plusieurs livres du corpus étendu ne nous parviennent qu'en fragments, et leurs
+feuilles d'introduction disent lesquels de leurs versets ==suivent de près les
+composantes attestées== et lesquels sont ==une expansion contrôlée==. Cette
+distinction n'est pas un scrupule d'apparat : ==elle commande ce qu'une glose
+peut dire==.
+
+Sur un passage attesté, l'ordre des mots, le choix d'un passif, la place d'un
+nom sont ==des faits du témoin== et se glosent comme tels. Sur une expansion,
+ce sont ==des faits du restituteur== — et les commenter revient à ==prêter au
+texte ancien une intention qui est celle de sa reconstruction==.
+
+    ✗  « trois verbes de suite et pas un sujet — la lettre ne dit jamais qui »
+    ✗  « l'ordre des mots est instructif : ici la place arrive avant le nom »
+
+Ce qui reste permis, et qui est l'essentiel : ==gloser ce que le passage porte==
+— la realia, le genre, les échos vers le corpus attesté, la logique du monde
+qu'il met en scène. Ce sont des choses que la reconstruction ==transmet== ; sa
+syntaxe est ce qu'elle ==ajoute==.
+
+==Le contrôle est simple== : avant de gloser une forme, regarder si la feuille
+d'introduction range ce verset parmi les composantes attestées ou parmi
+l'expansion. Le §4.14 dit déjà de s'abstenir de niveau 3 là où la chaîne ne
+donne rien ; ==la même prudence vaut pour la glose de forme==.
+
 ### 4.15 Le régime d'auteur
 
 La notion antique d'auteur est **fonctionnelle**, non moderne-individuelle. Deux régimes :
