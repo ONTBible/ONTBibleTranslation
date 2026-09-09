@@ -4,9 +4,9 @@
 
 Une **chuqqah** (*chuqqah* / חֻקָּה) est un ==énoncé permanent== : ce que l'ontologie
 hébraïque antique tient pour établi, écrit une fois et opposable partout. De
-*chaqaq* (חָקַק) — ==graver, inciser dans la pierre==. *(Le mot lui-même n'est pas
-déclaré intraduisible au §2.5, alors qu'il a la même forme que* **parashah** *:
-==à trancher par l'auteur==. Il s'écrit donc nu ici.)* Non pas une opinion qu'on
+*chaqaq* (חָקַק) — ==graver, inciser dans la pierre==. *(Le mot s'écrit nu ici, et
+le §2.5 dit pourquoi : ==un mot qui nomme le texte qu'on lit ne se balise pas==. Le
+gras promet qu'un mot cache ce que le français rate, et il n'y a rien à apprendre en touchant le nom de ce qu'on est en train de lire.)* Non pas une opinion qu'on
 défend, non pas un commentaire qui accompagne un texte : ce qui est gravé tient
 de soi-même, et le reste s'y appuie.
 

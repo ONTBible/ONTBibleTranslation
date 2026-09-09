@@ -176,6 +176,32 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
   marque*, parce que le contexte porte déjà la chose. On balise donc `**chuqqah**`
   ==là où il désigne la chose elle-même== — la feuille d'introduction, une fiche,
   un passage qui l'explique —, et nulle part ailleurs.
+- `**tevel**` — intraduisible : la terre ==en tant qu'elle est habitée et
+  productive== (תֵּבֵל). Non « le monde », qui importe le *kosmos* grec — un tout
+  ordonné qu'on contemple du dehors —, ni « l'univers ». Le mot ==ne prend jamais
+  l'article== : il fonctionne comme un nom propre, et l'hébreu l'apparie à
+  *ʾeretz* dans le parallélisme poétique sans que les deux se confondent. C'est
+  ==la troisième terre== du corpus : l'**ʾeretz** est le domaine, l'*ʾadamah* est
+  le sol qu'on travaille, le **tevel** est l'étendue en tant qu'elle porte des
+  vivants. Les rendre tous trois par « terre » ferait disparaître deux
+  distinctions que la langue tient. Premier emploi *1 Shemuel* 2:8.
+- `**seter**` — intraduisible : ==le couvert, l'endroit d'où l'on n'est pas vu==
+  (סֵתֶר). De *satar* (סָתַר) — se dérober à la perception. Non « secret », qui en
+  français désigne ==un contenu qu'on retient== : le **seter** n'est pas une
+  information, c'est ==une position==. On est *ba-seter*, à couvert — et c'est de
+  là que **YHWH** parle à Mosheh, comme c'est de là que le méchant tend son
+  embuscade : ==le mot ne juge pas ce qui s'y tient==. Premier emploi *Devarim*
+  13:7.
+- `**nistar**` / `**nistarot**` / `**Nistarot**` — intraduisible : ==ce qui est
+  structurellement voilé== (נִסְתָּר). Niphal de *satar* : non pas ce qu'on a
+  caché, mais ==ce qui se dérobe de soi-même== — la forme passive ne désigne
+  aucun acte de dissimulation. Non « les mystères » (catégorie des cultes
+  hellénistiques : un savoir réservé à des initiés) ni « les choses secrètes »
+  (qui suggère un contenu qu'on pourrait divulguer). Le §1 emploie déjà la
+  majuscule pour ==le quatrième mode de la Kenesset==, d'après *Devarim* 29:28 —
+  *hanistarot laYHWH ʾEloheinu* : ce qui est voilé appartient à **YHWH**, et
+  ==cela reste vrai après qu'on l'a vu==. La forme minuscule vaut pour le concept
+  partout ailleurs.
 - `**maqom**` / `**Maqom**` / `**ha-Maqom**` — intraduisible : ==le lieu où une chose tient debout== (מָקוֹם). De *qum* (קוּם) — se lever, prendre position ; c'est la racine du relèvement. Non « lieu » au sens d'un emplacement, ni *topos* au sens grec d'un contenant ==indifférent à ce qu'il contient== : le **maqom** est ==actif==, il maintient debout ce qui s'y trouve. Composé `**ha-Maqom**` — ==le Lieu== —, titre divin : **YHWH** est le **maqom** du monde, et le monde n'est pas son **maqom**.
 - `**chozeh**` / `**Chozeh**` — intraduisible : ==celui qui contemple ce qui reste voilé== (חֹזֶה). De *chazah* (חָזָה) — contempler, percevoir dans la vision. ==Distinct de `**roʿeh**`==, et c'est toute la question : le grec a fondu les deux en un seul mot, effaçant ==la gradation de profondeur== dans l'accès visionnaire. Le **roʿeh** voit ; le **chozeh** ==pénètre==. Écrire « hozeh » mettrait un `h` là où le §2.9 veut `ch`.
 - `**roʿeh**` / `**Roʿeh**` — intraduisible : ==celui qui conduit parce qu'il voit== (רֹאֶה). Un seul mot pour ==deux verbes== que l'hébreu écrit pareil — *raʾah* (רָאָה) voir, et *raʾah* (רָעָה) paître. Ce n'est pas un hasard de la langue : le berger ==voit le chemin avant que le troupeau n'y marche==. Non « pasteur », qui ne garde que la conduite : un « pasteur » qui ne voit rien n'est pas un **roʿeh**, c'est un gestionnaire.
