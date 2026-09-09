@@ -10,7 +10,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-De *shamaʿ* (*shamaʿ* / שָׁמַע) — ==entendre== — et d'==**El**==. ==**El** entend==, ou ==**El** a entendu==.
+De *shamaʿ* (*shamaʿ* / שָׁמַע) — ==entendre== — et d'==**ʾEl**==. ==**ʾEl** entend==, ou ==**ʾEl** a entendu==.
 
 C'est un **Shem** théophore, et il est donné avant la naissance : ==l'existence même de cet enfant dira un acte de **YHWH**==.
 
@@ -24,10 +24,10 @@ Et ce qu'il a entendu, c'est ==l'affliction d'une **shifchah** égyptienne sans 
 
 Le **malʾakh** annonce aussi ce qu'il sera : ==un onagre d'homme==, sa main contre tous et la main de tous contre lui, et il demeurera ==en face de tous ses frères==. Le corpus ne le condamne pas — il décrit une liberté rétive, et il la place en face, non à l'écart.
 
-[[Avraham]] le circoncira à treize ans, dans la même journée que lui-même.
+[[ʾAvraham]] le circoncira à treize ans, dans la même journée que lui-même.
 
 ## Voir aussi
 
-Sa maison : [[Hagar]] sa mère, [[Avraham]] son père, [[Sarai]] la maîtresse de sa mère, [[Yitschaq]] son frère.
+Sa maison : [[Hagar]] sa mère, [[ʾAvraham]] son père, [[Sarai]] la maîtresse de sa mère, [[Yitschaq]] son frère.
 
 Où il est nommé : près du puits de [[Beer-lachai-roi]], dans le désert de [[Shur]].

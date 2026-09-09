@@ -30,7 +30,7 @@ Et *arur* ne signifie pas la suppression. C'est ==la dotation qui demeure mais d
 
 Le **Shem** devient ensuite ==celui d'un pays==, et c'est là que le corpus l'emploie le plus.
 
-Le pays de ==Kenaʿan== est la terre promise à Avraham, celle qu'il traverse sans la posséder, celle où il achète une seule caverne pour y enterrer sa **ishah**. Ses peuples figureront dans la liste de ceux qu'il faudra déposséder — sept peuples ==dont l'*avon* était complet au temps de la conquête==, précise le corpus.
+Le pays de ==Kenaʿan== est la terre promise à Avraham, celle qu'il traverse sans la posséder, celle où il achète une seule caverne pour y enterrer sa **ʾishah**. Ses peuples figureront dans la liste de ceux qu'il faudra déposséder — sept peuples ==dont l'*avon* était complet au temps de la conquête==, précise le corpus.
 
 Ce dernier point est décisif pour ne pas mal lire : ==ce n'est pas le *arur* d'un ancêtre qui justifie la dépossession==, c'est un *avon* accompli. Le corpus tient les deux séparés.
 

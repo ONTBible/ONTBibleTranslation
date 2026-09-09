@@ -14,7 +14,7 @@ Un nom en trois morceaux : *beʾer*, ==le puits== ; *lachai*, ==du Vivant== ; *r
 
 ## Ce que le corpus en fait
 
-C'est [[Hagar]] qui le donne, après avoir nommé **El Roï**.
+C'est [[Hagar]] qui le donne, après avoir nommé **ʾEl Roï**.
 
 Et il faut mesurer ce qui se passe là. Une **shifchah** égyptienne, enceinte, en fuite, sans statut ni recours, ==donne un **Shem** à **YHWH**== — le seul nom divin de tout le corpus donné par un être humain. Puis ==elle nomme le lieu== d'après ce qu'elle vient de comprendre.
 
@@ -24,6 +24,6 @@ Et le corpus y revient : c'est près de ce puits que [[Yitschaq]] habitera, bien
 
 ## Voir aussi
 
-Qui le nomme : [[Hagar]], après **El Roï**.
+Qui le nomme : [[Hagar]], après **ʾEl Roï**.
 
 Où il se trouve : entre [[Qadesh]] et [[Bared]], sur le chemin de [[Shur]].

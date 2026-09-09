@@ -14,7 +14,7 @@ Le verbe est ordinaire et il est partout dans le corpus : on *descend* en ==Mits
 
 Ce qui rend ce **Shem** frappant est ce qui vient après lui.
 
-Il engendre [[Chanokh-qui-marche-avec-Elohim]] — l'homme que le texte refuse de faire mourir, celui dont il écrit ==il n'était plus, car **Elohim** l'avait pris==.
+Il engendre [[Chanokh-qui-marche-avec-Elohim]] — l'homme que le texte refuse de faire mourir, celui dont il écrit ==il n'était plus, car **ʾElohim** l'avait pris==.
 
 Le père s'appelle ==la descente==, et le fils est le seul du corpus hébreu à ne pas descendre au **Sheʾol**. Le corpus ne commente pas ce voisinage. Il place les deux noms l'un après l'autre, et passe à la génération suivante.
 

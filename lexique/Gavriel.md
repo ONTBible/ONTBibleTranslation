@@ -13,15 +13,15 @@ il y a une charge, et le nom la nomme.
 
 ## Ce que le nom dit
 
-Gavriel (*Gavriel* / גַּבְרִיאֵל) se compose de *gever* (גֶּבֶר) et de **El**.
+Gavriel (*Gavriel* / גַּבְרִיאֵל) se compose de *gever* (גֶּבֶר) et de **ʾEl**.
 
 *Gever* vient de *gabar* (גָּבַר) — l'emporter, prévaloir. C'est la racine de la
 **gevurah**, la capacité d'accomplir, et celle du **gibbor**, celui qui pèse. Le
-nom dit donc : ==la **gevurah** de **El**==.
+nom dit donc : ==la **gevurah** de **ʾEl**==.
 
 Et remarque où il pointe. Il ne dit pas ce que Gavriel est ; il dit ==ce que
-**El** fait==. Comme [[Mikhaʾel]] — « qui est comme **El** ? » — et comme
-[[Rafaʾel]] — « **El** guérit ». ==Les trois noms se terminent sur **El**, et
+**ʾEl** fait==. Comme [[Mikhaʾel]] — « qui est comme **ʾEl** ? » — et comme
+[[Rafaʾel]] — « **ʾEl** guérit ». ==Les trois noms se terminent sur **ʾEl**, et
 aucun ne parle de son porteur.==
 
 On écrit parfois « Gabriel ». Cette forme est passée par le grec : le *bet* sans
@@ -31,10 +31,10 @@ translittération de l'ONT rend ce que l'hébreu porte.
 ## Pourquoi c'est un nom d'office, et non de personne
 
 Un **malʾakh** est ==l'être-de-mission==. Il n'existe pleinement qu'envoyé, et
-n'a pas d'**olam** à lui : il en prend un pour la mission, et il le rend.
+n'a pas d'**ʿolam** à lui : il en prend un pour la mission, et il le rend.
 
-Compare-le à un **navi**, qui fait pourtant le même geste — recevoir un
-**davar**, le porter aux hommes. La différence est ==le surplus==. Le **navi**
+Compare-le à un **naviʾ**, qui fait pourtant le même geste — recevoir un
+**davar**, le porter aux hommes. La différence est ==le surplus==. Le **naviʾ**
 ==excède== sa mission : entre deux **devarim**, il a une vie, un **basar** qui
 vieillit, une souffrance qui authentifie ce qu'il porte. Le **malʾakh**, lui,
 ==est== sa mission. ==Hors d'elle, il n'y a personne qui reste.==

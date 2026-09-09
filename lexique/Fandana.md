@@ -8,13 +8,13 @@ La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » 
 
 ## D'où viennent les marchands
 
-Un enfant conduit un âne chargé de cinq dieux vers l'auberge, pour les vendre. Sur la route, il croise des marchands venus de ==Fandana== en [[Aram]], avec des chameaux, qui descendent vers [[Mitsrayim]] pour commercer.
+Un enfant conduit un âne chargé de cinq dieux vers l'auberge, pour les vendre. Sur la route, il croise des marchands venus de ==Fandana== en [[ʾAram]], avec des chameaux, qui descendent vers [[Mitsrayim]] pour commercer.
 
 Ce sont eux qui achèteront les débris.
 
 ## Probablement Paddan-Aram, et pourquoi on ne le remplace pas
 
-L'éditeur du livre le note : ==Fandana== recouvre selon toute vraisemblance *Paddan-Aram* — la « plaine d'Aram » de *Bereshit* 25:20 —, le pays de la parenté d'[[Avraham]], celui d'où viendra l'épouse de [[Yitschaq]], et où son petit-fils servira quatorze ans.
+L'éditeur du livre le note : ==Fandana== recouvre selon toute vraisemblance *Paddan-Aram* — la « plaine d'Aram » de *Bereshit* 25:20 —, le pays de la parenté d'[[ʾAvraham]], celui d'où viendra l'épouse de [[Yitschaq]], et où son petit-fils servira quatorze ans.
 
 L'ONT garde pourtant la forme du témoin. La raison est de méthode : ==signaler une identification n'est pas l'imposer==. Remplacer le nom donnerait au lecteur une certitude que la chaîne ne porte pas — six manuscrits slavons, deux traductions savantes, et un éditeur qui écrit « probablement ».
 
@@ -30,4 +30,4 @@ Elle repose sur le chapitre II du *Chazon Avraham* et sur la note de son éditeu
 
 ## Voir aussi
 
-[[Aram]], le pays. [[Mitsrayim]], où va la caravane. [[Gur]], le fleuve où finissent les débris.
+[[ʾAram]], le pays. [[Mitsrayim]], où va la caravane. [[Gur]], le fleuve où finissent les débris.

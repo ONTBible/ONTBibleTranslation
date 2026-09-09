@@ -31,7 +31,7 @@ lieues : c'est ==combien de **kavod** on peut y soutenir sans être détruit==.
 
 ### Pourquoi il faut que ce soit gradué
 
-Le corpus donne la raison sans détour : ==l'**adam** ne peut pas me voir et vivre==.
+Le corpus donne la raison sans détour : ==l'**ʾadam** ne peut pas me voir et vivre==.
 
 Nous l'entendons comme un interdit — une porte fermée, une règle. ==Ce n'en est
 pas un.== C'est un constat sur ce qui arrive.
@@ -100,7 +100,7 @@ gradient de **kavod** est hébreu, et il se restitue entier.
 |---|---|
 | au-dessus de la Voûte | les eaux d'en haut, retenues |
 | la Voûte | ce qui sépare, et où les luminaires sont enchâssés |
-| l'espace habitable | l'**adam**, les créatures ailées |
+| l'espace habitable | l'**ʾadam**, les créatures ailées |
 | la Terre | le sol, posé sur les eaux d'en bas |
 | plus bas | le **Sheʾol**, où descendent les morts |
 
@@ -113,14 +113,14 @@ qu'on y trouve==, et c'est ainsi qu'elles se distinguent.
 
 C'est la conséquence qui renverse le plus d'images reçues.
 
-Nous imaginons la rencontre comme ==une montée== : l'**adam** s'élève, se purifie,
+Nous imaginons la rencontre comme ==une montée== : l'**ʾadam** s'élève, se purifie,
 franchit des degrés, et parvient. C'est le schéma de l'ascension, et il est
 partout dans ce que nous avons hérité.
 
 Le corpus fait l'inverse. ==**YHWH** descend, et il prend.==
 
 Et quand un texte ==paraît== raconter une montée, il faut ==regarder qui agit==.
-Dans les récits de traversée, l'**ish** tombe sans souffle, un **malʾakh** est
+Dans les récits de traversée, l'**ʾish** tombe sans souffle, un **malʾakh** est
 ==envoyé== pour le relever, et il est ==porté==. La forme est ascensionnelle ; la
 structure reste descendante. ==C'est la structure qu'on rend.==
 
@@ -130,14 +130,14 @@ descend jusqu'à devenir soutenable==.
 
 ### Ce que devient le **kli**, dans cette lumière
 
-La première chuqqah a posé que l'**olam** dépend du **kli** — de ce qui est apte
+La première chuqqah a posé que l'**ʿolam** dépend du **kli** — de ce qui est apte
 à recevoir. Le gradient dit ==pourquoi== l'aptitude compte à ce point.
 
 Un **kli** ne se contente pas de percevoir plus ou moins. Il ==soutient== plus ou
 moins de **kavod**. Ce n'est pas une question d'acuité, c'est une question de
 ==résistance==.
 
-D'où la fonction du **navi**, telle que la cinquième chuqqah la donne : il n'est
+D'où la fonction du **naviʾ**, telle que la cinquième chuqqah la donne : il n'est
 pas seulement celui qui voit plus loin. Il est ==celui qui transforme
 l'intensité== — qui la rend portable pour ceux qui ne la soutiendraient pas.
 ==Son **basar** est ce qui absorbe l'écart.==
@@ -180,7 +180,7 @@ textes qui comptent se trompent sur ce qu'ils ont vu.
 
 - *==Trois termes travaillent ici sans être déclarés== : *raqia*, la Voûte — traduit au §3.2, donc pas un intraduisible ; *parokhet*, le voile du sanctuaire, qui n'a encore aucune occurrence dans le corpus écrit ; et *shamayim*, également traduit. ==À trancher par l'auteur== le jour où *Shemot* fera paraître le *parokhet*.*
 
-- *==Ce que la chuqqah laisse dehors.== La matière porte le parallèle entre le **navi** et le **malʾakh**, qui fait l'objet de la cinquième chuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte le parallèle entre le **naviʾ** et le **malʾakh**, qui fait l'objet de la cinquième chuqqah, et une application à la constitution propre de l'auteur, qui appartient à son archive personnelle. Elle porte aussi une lecture du trône et du **kavod** que le §7 réserve à l'auteur — *Yehezqel* et le Nom divin.*
 
 ### Ce que la chuqqah engage dans le corpus
 

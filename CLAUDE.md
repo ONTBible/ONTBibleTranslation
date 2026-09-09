@@ -109,9 +109,9 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 
 **Formule d'évaluation divine :** "Et Elohim examina et constata que c'était **tov**" (*vayar / ki tov* / וַיַּרְא כִּי-טוֹב)
 
-**Formule du soir et du matin :** "Il y eut un soir (*erev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le [N]e jour (*yom* / יוֹם)"
+**Formule du soir et du matin :** "Il y eut un soir (*ʿerev* / עֶרֶב), puis un matin (*boqer* / בֹּקֶר) — ce fut le [N]e jour (*yom* / יוֹם)"
 
-**Exception Jour Un :** "ce fut le Jour Un (*yom echad* / יוֹם אֶחָד)" — avec majuscules, car *echad* est le cardinal "un" pas l'ordinal "premier".
+**Exception Jour Un :** "ce fut le Jour Un (*yom ʾechad* / יוֹם אֶחָד)" — avec majuscules, car *echad* est le cardinal "un" pas l'ordinal "premier".
 
 ### 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
@@ -120,34 +120,34 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 **Cette règle s'applique partout** : corps de la traduction (niveau 1), gloses (niveau 2), et notes de bas de section. Elle ne s'applique PAS à l'intérieur des translittérations de niveau 3 `(*terme* / הֵבְרִי)` — le terme y est déjà balisé.
 
 **Liste complète des termes à baliser :**
-- `**Elohim**` / `**elohim**`
+- `**ʾElohim**` / `**ʾelohim**`
 - `**YHWH**`
 - `**Ruach**` / `**ruach**`
 - `**Nefesh**` / `**nefesh**`
 - `**Neshamah**` / `**neshamah**`
-- `**ishah**` / `**Ishah**` et formes dérivées : `**ishto**`, `**eshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
-- `**ish**` / `**Ish**` et formes dérivées : `**anashim**` (pluriel absolu), `**anshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
+- `**ʾishah**` / `**ʾIshah**` et formes dérivées : `**ʾishto**`, `**ʾeshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
+- `**ʾish**` / `**ʾIsh**` et formes dérivées : `**ʾanashim**` (pluriel absolu), `**ʾanshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
 - `**Shem**` / `**Shemot**` (pluriel) quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
 - `**Tahor**` / `**tahor**` / `**lo tahor**`
-- `**Olah**` / `**olah**` / `**Olot**` / `**olot**`
+- `**ʿOlah**` / `**ʿolah**` / `**ʿOlot**` / `**ʿolot**`
 - `**L'Être façonné du sol**` / `**l'Être façonné du sol**` (Bereshit 1-7 ; et tout récit en régime antédiluvien, avant le **mabbul** — ex. *Sefar Gibbaraya*). ==Ne vise que le générique== *ha-adam* / *benei ha-adam* (l'humanité). Le ==nom propre== Adam d'un individu (le personnage, ex. *Toledot Adam ve-Chavah*) reste un ==nom propre== (§4.12) — ni traduit, ni balisé.
-- `**adam**` (Bereshit 8 et suivants)
+- `**ʾadam**` (Bereshit 8 et suivants)
 - `**mabbul**` — terme technique du déluge de Noach, utilisé sans traduction française dans le corps du texte à partir de Bereshit 8
 - `**nacham**`. Premier emploi *Bereshit* 5:29.
-- `**Adonai**` — s'écrit seul ou combiné : `**Adonai** **YHWH**`. Premier emploi *Bereshit* 15:2.
-- `**El**` — intraduisible depuis le 31 août 2026 : le nom du dieu au sommet de l'ordre (אֵל), au singulier. **Se balise aussi dans les gloses qui expliquent un Shem théophore** — « **El** entend » pour Yishmaʿel, « qui est comme **El** ? » pour Mikhaʾel, « **El** guérit » pour Rafaʾel : c'est le même **El**, et le lecteur doit pouvoir le toucher là où il le rencontre. ==Ne pas baliser== la particule à l'intérieur d'une translittération de niveau 3 — `(*el* / אֵל)` la porte déjà —, ni les composés qui ont leur propre entrée : `**El Elyon**`, `**El Roï**`, `**El Shaddai**`.
+- `**ʾAdonai**` — s'écrit seul ou combiné : `**ʾAdonai** **YHWH**`. Premier emploi *Bereshit* 15:2.
+- `**ʾEl**` — intraduisible depuis le 31 août 2026 : le nom du dieu au sommet de l'ordre (אֵל), au singulier. **Se balise aussi dans les gloses qui expliquent un Shem théophore** — « **ʾEl** entend » pour Yishmaʿel, « qui est comme **ʾEl** ? » pour Mikhaʾel, « **ʾEl** guérit » pour Rafaʾel : c'est le même **ʾEl**, et le lecteur doit pouvoir le toucher là où il le rencontre. ==Ne pas baliser== la particule à l'intérieur d'une translittération de niveau 3 — `(*ʾel* / אֵל)` la porte déjà —, ni les composés qui ont leur propre entrée : `**ʾEl ʿElyon**`, `**ʾEl Roï**`, `**ʾEl Shaddai**`.
 - `**YHWH Elohim**` — deux mots, les deux en gras. La formule de *Bereshit* 2-3,
   où elle paraît vingt fois de suite puis presque plus jamais dans la Torah : celui
   qui a ordonné le cosmos est celui qui parle à cet homme-là. ==Ne pas anticiper le
   traitement de **YHWH**==, que le §7 réserve à *Shemot* 3:1-15.
-- `**El Elyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **El Elyon**`. Premier emploi *Bereshit* 14.
-- `**El Roï**` — deux mots, les deux en gras. Premier emploi *Bereshit* 16:13.
+- `**ʾEl ʿElyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **ʾEl ʿElyon**`. Premier emploi *Bereshit* 14.
+- `**ʾEl Roï**` — deux mots, les deux en gras. Premier emploi *Bereshit* 16:13.
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
 - `**malʾakh**` / `**malʾakhim**` — combiné : `**malʾakh** **YHWH**`. Premier emploi *Bereshit* 16:7.
 - `**shaliach**` / `**shlichim**`
-- `**shifchah**` / `**shefachot**` (pluriel) — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
-- `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
+- `**shifchah**` / `**shefachot**` (pluriel) — la servante attachée à la sphère d'une **ʾishah**, distincte de l'*amah* (servante d'un **ʾish**). Premier emploi *Bereshit* 16:1.
+- `**ʾemunah**` / `**ʾEmunah**` (nom) — forme verbale : `**ʾemuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
 - `**tsedaqah**` / `**tsedaqah umishpat**` — le construit apparié, couple constitutif du droit divin, déclaré ici comme **yirat YHWH** l'est sous **yirah**. Premier emploi *Bereshit* 15:6.
 - `**berith**` / `**Berith**` — intraduisible depuis le 8 septembre 2026 : la structure d'engagement (בְּרִית). Non « alliance », qui suggère un contrat entre égaux : la **berith** de *Bereshit* 15 est ==unilatérale== — **YHWH** seul passe entre les morceaux, et Avraham dort. Elle ne se conclut pas, elle se ==fait tenir debout== (*meqim*, de *qum*), et c'est pourquoi elle ne dépend pas de la fidélité de celui qui la reçoit. ==La pratique avait déjà tranché== : le corpus l'écrivait en gras 65 fois pour 59 « alliance », et le §3.2 disait encore l'inverse.
 - `**tsedeq**` — intraduisible : l'ordre juste cosmique (צֶדֶק). Le §3.2 le déclarait déjà, ==sans que le §2.5 le liste== — donc le pipeline ne savait pas le résoudre et il sortait en or sans fiche. Oubli de liste corrigé le 8 septembre 2026. Ses trois dérivés y étaient, eux : **tsadiq**, **tsedaqah**, et le rendu du couple **tsedaqah umishpat**.
@@ -156,16 +156,16 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**chesed**`. Premier emploi *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth*.
 - `**tov**` / `**tov meʾod**` / `**tov varaʿ**` / `**Tov varaʿ**` — le construit de l'arbre (*etz hadaʿat tov vara*, *Bereshit* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Bereshit* 1:4.
 - `**raʿ**` / `**raʿat**` / `**raʿim**`. Premier emploi *Bereshit* 2:9.
-- `**chata**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **raʿ** — **chata** est l'acte, **raʿ** est l'état. Premier emploi *Bereshit* 4:7.
-- `**chattat**` / `**chataʾah**` / `**chataʾim**` — les formes nominales de **chata** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
+- `**chataʾ**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **raʿ** — **chataʾ** est l'acte, **raʿ** est l'état. Premier emploi *Bereshit* 4:7.
+- `**chattat**` / `**chataʾah**` / `**chataʾim**` — les formes nominales de **chataʾ** : le manquement devenu une chose qu'on peut nommer, et qui en *Bereshit* 4:7 se tapit à la porte. Premier emploi *Bereshit* 4:7.
 - `**davar**` / `**devarim**` — combiné : "le **davar** de **YHWH**". Premier emploi *Bereshit* 11:1.
-- `**irin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Chanokh*).
-- `**gibbaraya**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
+- `**ʿirin**` — araméen : les éveillés, les gardiens (עִירִין). Jamais "Veilleurs". Pluriel uniquement dans les textes araméens (*Sefar Gibbaraya*, 1 *Chanokh*).
+- `**gibbarayaʾ**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Bereshit* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un ==blanc== laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc ==mille ans avant== les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**basar**` — intraduisible : la chair en tant qu'==existence incarnée, fragile et partagée== (בָּשָׂר). Non « chair » au sens moral que le français a pris — ce n'est ni le contraire de l'esprit ni le siège du désir : c'est ==ce par quoi on est un vivant parmi les vivants==, ce qui meurt et ce qui peut ressusciter. C'est ce qu'un **malʾakh** n'a pas, et c'est pourquoi il ne peut ni mourir ni transformer ce qui meurt. Premier emploi *Bereshit* 2:23 (*basar mibesari*).
 - `**qahal**` / `**Qahal**` — intraduisible : l'assemblée ==convoquée par une autorité== (קָהָל). De *qahal* — rassembler, convoquer. Non « assemblée » ni « communauté », qui laissent croire à une réunion qu'on décide : au **qahal** on ==est appelé==. C'est le mot du jour du [[Sinai]] (*Devarim* 9:10, *yom ha-qahal*), et c'est celui que le grec rendra par *ekklesia*.
-- `**echad**` — intraduisible : l'unité qui ==compose== (אֶחָד). Non « un » au sens du compte, et surtout pas l'unité qui exclut, qui se dirait *yachid* (יָחִיד). C'est le mot de *basar echad* en *Bereshit* 2:24 — deux qui deviennent un sans cesser d'être deux — et c'est celui du *Shema*. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux ne multiplient pas le fleuve. Premier emploi *Bereshit* 1:5 (*yom echad*).
-- `**kli**` / `**Kli**` / `**kelim**` — intraduisible : ==ce qui est apte à recevoir== (כְּלִי). De la racine כלה — contenir, mener à complétion. Non « vase » ni « récipient », qui disent un contenant passif qu'on remplit : un **kli** est ==constitué pour==, et son aptitude décide de ce qu'il peut recevoir. C'est le mot des ustensiles du Mishkan — *klei ha-qodesh*, mis à part non par leur matière mais par leur destination. Il commande toute la question de l'**olam** : ce qui change le régime de perceptibilité n'est pas la chose regardée, c'est ==le **kli** qui regarde==. La **Ruach** ne se pose jamais sans lui — un **navi**, une tente, un sol, un **qahal**. Pluriel `**kelim**`. Locus définitif *Shemot* 25-31, les **kelim** du Mishkan.
+- `**ʾechad**` — intraduisible : l'unité qui ==compose== (אֶחָד). Non « un » au sens du compte, et surtout pas l'unité qui exclut, qui se dirait *yachid* (יָחִיד). C'est le mot de *basar echad* en *Bereshit* 2:24 — deux qui deviennent un sans cesser d'être deux — et c'est celui du *Shema*. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux ne multiplient pas le fleuve. Premier emploi *Bereshit* 1:5 (*yom echad*).
+- `**kli**` / `**Kli**` / `**kelim**` — intraduisible : ==ce qui est apte à recevoir== (כְּלִי). De la racine כלה — contenir, mener à complétion. Non « vase » ni « récipient », qui disent un contenant passif qu'on remplit : un **kli** est ==constitué pour==, et son aptitude décide de ce qu'il peut recevoir. C'est le mot des ustensiles du Mishkan — *klei ha-qodesh*, mis à part non par leur matière mais par leur destination. Il commande toute la question de l'**ʿolam** : ce qui change le régime de perceptibilité n'est pas la chose regardée, c'est ==le **kli** qui regarde==. La **Ruach** ne se pose jamais sans lui — un **naviʾ**, une tente, un sol, un **qahal**. Pluriel `**kelim**`. Locus définitif *Shemot* 25-31, les **kelim** du Mishkan.
 - `**chuqqah**` / `**Chuqqah**` / `**chuqqot**` — intraduisible : ==l'ordonnance permanente== (חֻקָּה). De *chaqaq* (חָקַק) — ==graver, inciser dans la pierre==. Non « loi » ni « décret » : ce qui est gravé ==tient de soi-même==, on ne le rediscute pas, et le reste s'y appuie. À distinguer du masculin *choq* (חֹק), qui est la prescription ==ponctuelle== — l'hébreu apparie souvent les deux. C'est le nom ONT des énoncés permanents du corpus, et le pluriel donne son nom au dossier.
   ==Un mot qui nomme le texte qu'on lit ne se balise pas.== *« la première
   chuqqah »*, *« cette chuqqah dit »* restent nus : le mot y désigne ==le genre
@@ -181,24 +181,24 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**roʿeh**` / `**Roʿeh**` — intraduisible : ==celui qui conduit parce qu'il voit== (רֹאֶה). Un seul mot pour ==deux verbes== que l'hébreu écrit pareil — *raʾah* (רָאָה) voir, et *raʾah* (רָעָה) paître. Ce n'est pas un hasard de la langue : le berger ==voit le chemin avant que le troupeau n'y marche==. Non « pasteur », qui ne garde que la conduite : un « pasteur » qui ne voit rien n'est pas un **roʿeh**, c'est un gestionnaire.
 - `**mevaser**` / `**Mevaser**` — intraduisible : ==celui qui porte l'annonce d'une chose déjà accomplie== (מְבַשֵּׂר). De *basar* (בָּשַׂר) — annoncer une bonne nouvelle ; même racine que **basar**, la chair, ==ce qui suggère une annonce portée par un corps qui court==. Non « évangéliste » (métier tardif) : le **mevaser** est le crieur qui apporte ==la victoire déjà remportée== à ceux qui ne la savent pas encore.
 - `**moreh**` / `**Moreh**` — intraduisible : ==celui qui pointe du doigt la direction== (מוֹרֶה). De *yarah* (יָרָה) — indiquer, viser. ==Même racine que *Torah*==, et c'est ce qui la découvre : la *Torah* n'est pas d'abord un code, c'est ==une direction indiquée==. Non « docteur » ni « enseignant » (savoir transmis) : le **moreh** enseigne depuis la **daʿat**, ==il a visité le territoire dont il donne la carte==.
-- `**laqach**` / `**Laqach**` — intraduisible : ==la saisie souveraine== (לָקַח). Prendre, saisir, emmener. Non « appeler » ni « choisir », qui laissent au saisi une part d'initiative : le **laqach** ==ne se négocie pas==. C'est le mode de constitution du **navi** — il n'est pas quelqu'un qui décide de prophétiser, il est ==celui sur qui la main s'est posée==. Écrire « lakach » manquerait deux lettres : le ==qof== veut `q`, et la finale est un ==het==.
+- `**laqach**` / `**Laqach**` — intraduisible : ==la saisie souveraine== (לָקַח). Prendre, saisir, emmener. Non « appeler » ni « choisir », qui laissent au saisi une part d'initiative : le **laqach** ==ne se négocie pas==. C'est le mode de constitution du **naviʾ** — il n'est pas quelqu'un qui décide de prophétiser, il est ==celui sur qui la main s'est posée==. Écrire « lakach » manquerait deux lettres : le ==qof== veut `q`, et la finale est un ==het==.
 
-- `**El Shaddai**` — deux mots, les deux en gras. Même traitement qu'**El Elyon** et **El Roï**. Premier emploi *Bereshit* 17:1.
+- `**ʾEl Shaddai**` — deux mots, les deux en gras. Même traitement qu'**ʾEl ʿElyon** et **ʾEl Roï**. Premier emploi *Bereshit* 17:1.
 - `**milah**`. Premier emploi *Bereshit* 17.
 - `**goy**` / `**goyim**` — forme construite : *goyei* → toujours **goyim**, jamais "nations"
-- `**orlah**` / `**arel**`
+- `**ʿorlah**` / `**ʿarel**`
 - `**mishpat**` / `**mishpatim**`. Premier emploi *Bereshit* 18.
 - `**shofet**` / `**shoftim**`. Premier emploi *Bereshit* 18:25.
-- `**olam**` — intraduisible : de la racine "caché, dissimulé" — la limite temporelle que le regard humain ne peut pas discerner. **Règle de rendu en corps de texte : translittérer le construit en entier** — `**berith-olam**`, `**achuzat-olam**`, `**ledorot-olam**`, `**ad-olam**`, `**leʿolam**`, `**meʿolam**`. Premier emploi *Bereshit* 3:22 (*vechai leʿolam*).
+- `**ʿolam**` — intraduisible : de la racine "caché, dissimulé" — la limite temporelle que le regard humain ne peut pas discerner. **Règle de rendu en corps de texte : translittérer le construit en entier** — `**berith-olam**`, `**ʾachuzat-ʿolam**`, `**ledorot-olam**`, `**ʿad-ʿolam**`, `**leʿolam**`, `**meʿolam**`. Premier emploi *Bereshit* 3:22 (*vechai leʿolam*).
 - `**Sheʾol**` — intraduisible : le domaine des morts dans l'attente (שְׁאוֹל). Jamais « enfer » ni « séjour des morts » édulcoré. Le gras porte l'apostrophe de l'alef, comme la translittération. Premier emploi *Toledot Adam ve-Chavah*.
 - `**teshuvah**` — intraduisible : le retour, le réalignement vers la présence quittée (תְּשׁוּבָה). Jamais « repentance » ni « pénitence ». Premier emploi *Toledot Adam ve-Chavah*.
 - `**ha-satan**` — intraduisible : l'accusateur, la *fonction* d'accusation du Conseil Divin (הַשָּׂטָן). L'article « ha- » marque la fonction — jamais un nom propre ni un dieu rival. Traitement définitif à *Iyov*. Premier emploi *Toledot Adam ve-Chavah*.
 - `**tevilah**` — intraduisible : l'immersion de retour, passer par les eaux pour se retourner vers la source (טְבִילָה). Non « baptême » ni simple « bain ». Premier emploi *Toledot Adam ve-Chavah*.
-- `**merkavah**` — intraduisible : le trône-char de **YHWH** **Elohim** vu en vision (מֶרְכָּבָה). Non « chariot » ordinaire. Premier emploi en corps de texte : *Toledot Adam ve-Chavah*.
+- `**merkavah**` — intraduisible : le trône-char de **YHWH** **ʾElohim** vu en vision (מֶרְכָּבָה). Non « chariot » ordinaire. Premier emploi en corps de texte : *Toledot Adam ve-Chavah*.
 - `**Nefilim**` — intraduisible : les êtres nés du franchissement des domaines (נְפִילִים). De *napal* (נָפַל) : tomber. ==L'ambiguïté est maintenue== — ceux qui sont tombés, ceux qui font tomber, les êtres de la chute : le texte ne tranche pas, la traduction non plus. Jamais « géants » (la Septante a lu *gigantes*, et vingt siècles d'imagerie ont suivi ; le mot ne dit pas la taille). La majuscule est celle d'une catégorie d'êtres, non d'un peuple : c'est un pluriel sans singulier attesté dans le corpus. Premier emploi *Bereshit* 6:4.
-- `**gibbor**` / `**gibborim**` — intraduisible : le puissant, celui dont la force brute fait le poids (גִּבֹּר). De *gabar* (גָּבַר) : l'emporter, prévaloir. Non « héros » (catégorie grecque de l'excellence) ni « vaillant » (vertu morale) : le **gibbor** pèse par sa capacité de contrainte, jamais par la sagesse ni par la fidélité. Le corpus écrit aussi `**gibor**` — deux orthographes du même mot, les deux retombent sur cette entrée. Équivalent araméen : **gibbaraya**, qui donne son titre au *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4.
+- `**gibbor**` / `**gibborim**` — intraduisible : le puissant, celui dont la force brute fait le poids (גִּבֹּר). De *gabar* (גָּבַר) : l'emporter, prévaloir. Non « héros » (catégorie grecque de l'excellence) ni « vaillant » (vertu morale) : le **gibbor** pèse par sa capacité de contrainte, jamais par la sagesse ni par la fidélité. Le corpus écrit aussi `**gibor**` — deux orthographes du même mot, les deux retombent sur cette entrée. Équivalent araméen : **gibbarayaʾ**, qui donne son titre au *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4.
 
-- `**navi**` / `**neviʾim**` / `**Neviʾim**` — intraduisible : celui que **YHWH** envoie porter son **davar** dans le temps visible (נָבִיא). Jamais « prophète » au sens courant — devin, annonceur d'avenir : le **navi** ne prédit pas d'abord, il ==lit l'alliance dans l'histoire== et prononce le **mishpat** sur ce qu'il y voit. Sa fonction est celle du **shaliach** (§2.6, note terminologique) : une seule réalité, que le grec a décomposée. Pluriel **neviʾim** ; forme construite dans *Gevurot ha-Neviʾim*, nom ONT du n° 44.
+- `**naviʾ**` / `**neviʾim**` / `**Neviʾim**` — intraduisible : celui que **YHWH** envoie porter son **davar** dans le temps visible (נָבִיא). Jamais « prophète » au sens courant — devin, annonceur d'avenir : le **naviʾ** ne prédit pas d'abord, il ==lit l'alliance dans l'histoire== et prononce le **mishpat** sur ce qu'il y voit. Sa fonction est celle du **shaliach** (§2.6, note terminologique) : une seule réalité, que le grec a décomposée. Pluriel **neviʾim** ; forme construite dans *Gevurot ha-Neviʾim*, nom ONT du n° 44.
 - `**qodesh**` — intraduisible : l'état d'être mis à part pour un office (קֹדֶשׁ). Jamais « sainteté » — l'hébreu ne nomme pas une perfection morale mais une ==assignation==. Forme adjectivale déjà fixée au §3 : **qadosh**.
 - `**Ruach ha-Qodesh**` — intraduisible : la **Ruach** en tant qu'elle met à part (רוּחַ הַקֹּדֶשׁ). Jamais « le Saint-Esprit » (§4.7). ==Capitalisée comme Ruach, Nefesh et Neshamah== — les intraduisibles majeurs portent la majuscule, et le composé la garde sur ses deux termes pleins : `Ruach ha-Qodesh`, jamais `ruach ha-qodesh`. Les trois mots en gras d'un seul tenant, l'article compris. C'est elle qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités ci-dessous.
 
@@ -209,7 +209,7 @@ que rien ne le signale. `gevurot` l'a été.)*
 
 Le passage pose une **ruach** unique — celle de **YHWH** — et six capacités
 qu'elle porte, appariées trois par trois : `**chokhmah**` et `**binah**`,
-`**etsah**` et `**gevurah**`, `**daʿat**` et `**yirat YHWH**`. Les six sont
+`**ʿetsah**` et `**gevurah**`, `**daʿat**` et `**yirat YHWH**`. Les six sont
 intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où
 elles paraissent — y compris hors de *Yeshayahu*.
 
@@ -222,11 +222,11 @@ intelligence », « conseil et force » : chaque paire hébraïque oppose deux
 opérations distinctes, et les synonymes français les écrasent en une seule.
 
 - `**chokhmah**` — intraduisible : la compétence qui fait aboutir (חָכְמָה). Non « sagesse » (contemplation, catégorie grecque) : la **chokhmah** est ==opératoire==. C'est elle dont Betsalel est rempli pour bâtir le Mishkan, elle qu'ont le tisserand, le marin, le forgeron. Elle ajuste une chose à sa destination — l'opération dont **tov** est le résultat. Locus définitif *Yeshayahu* 11:2.
-- `**binah**` — intraduisible : le discernement qui ==sépare entre== (בִּינָה). De *bin*, apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **Elohim** sépare en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Locus définitif *Yeshayahu* 11:2.
-- `**etsah**` — intraduisible : le dessein arrêté (עֵצָה). De *yaʿats* (יָעַץ) — délibérer, résoudre. Non « conseil » au sens d'un avis qu'on donne et qu'on peut ne pas suivre : l'**etsah** est le plan qu'on a ==résolu== de tenir. C'est le terme du Conseil Divin. Locus définitif *Yeshayahu* 11:2.
+- `**binah**` — intraduisible : le discernement qui ==sépare entre== (בִּינָה). De *bin*, apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **ʾElohim** sépare en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Locus définitif *Yeshayahu* 11:2.
+- `**ʿetsah**` — intraduisible : le dessein arrêté (עֵצָה). De *yaʿats* (יָעַץ) — délibérer, résoudre. Non « conseil » au sens d'un avis qu'on donne et qu'on peut ne pas suivre : l'**ʿetsah** est le plan qu'on a ==résolu== de tenir. C'est le terme du Conseil Divin. Locus définitif *Yeshayahu* 11:2.
 - `**gevurah**` / `**gevurot**` — intraduisible : la capacité d'accomplir (גְּבוּרָה). De *gabar* (גָּבַר) — l'emporter, prévaloir ; même racine que **gibbor**, et c'est la distinction à tenir : le **gibbor** est celui qui pèse, la **gevurah** est le pouvoir de faire aboutir. Non « force » (physique) ni « puissance » (domination). Pluriel `**gevurot**` : les actes où elle se manifeste — d'où *Gevurot ha-Neviʾim*, le nom ONT du n° 44. Locus définitif *Yeshayahu* 11:2.
 - `**daʿat**` — intraduisible : le connaître par participation (דַּעַת). De *yada* (יָדַע). Non « connaissance » (un regard extérieur posé sur un objet) : la **daʿat** suppose d'être ==à l'intérieur== de ce que l'on connaît — d'où son emploi pour l'union conjugale en *Bereshit* 4:1. C'est la **daʿat** de l'arbre de *Bereshit* 2:9 (*etz hadaʿat tov vara*). Locus définitif *Yeshayahu* 11:2.
-- `**yirah**` / `**yirat YHWH**` — intraduisible : la reconnaissance de sa place devant ce qui dépasse (יִרְאָה). De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect, c'est une ==posture== : se tenir au rang qui est le sien devant **YHWH**. Même logique fonctionnelle qu'**emunah** et **teshuvah**. *Yeshayahu* 11:3 la scelle par un jeu de racines que la traduction perd : *vaharicho* (וַהֲרִיחוֹ) — « il respirera » — vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Locus définitif *Yeshayahu* 11:3.
+- `**yirah**` / `**yirat YHWH**` — intraduisible : la reconnaissance de sa place devant ce qui dépasse (יִרְאָה). De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect, c'est une ==posture== : se tenir au rang qui est le sien devant **YHWH**. Même logique fonctionnelle qu'**ʾemunah** et **teshuvah**. *Yeshayahu* 11:3 la scelle par un jeu de racines que la traduction perd : *vaharicho* (וַהֲרִיחוֹ) — « il respirera » — vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Locus définitif *Yeshayahu* 11:3.
 
 **Appliquer dès la rédaction** — ne pas attendre une passe séparée.
 
@@ -291,7 +291,7 @@ C'est le surlignage natif d'Obsidian : il se voit en écrivant, et il n'était e
 | texte nu | encre | non |
 | `==mot==` | **bordeaux clair `#862742`**, semi-gras | non |
 | `[[Nom]]` | **terre brûlée `#603518`**, semi-gras — §2.10 | **oui** → fiche de **Shem** |
-| `**mot**` | **or**, semi-gras | **oui** → fiche de lexique |
+| `**mot**` | **ʾor**, semi-gras | **oui** → fiche de lexique |
 | `*mot*` | italique | non |
 
 **Quand employer `==...==` :**
@@ -342,10 +342,10 @@ s'écrit pas ici, mais dans `lexique/`, un fichier par terme, nommé par son
 lemme — `lexique/chesed.md`.
 
 **Pourquoi une seconde source.** Ce document est écrit *pour le traducteur* :
-ses entrées consignent un arbitrage — pourquoi **Elohim** reste en hébreu, ce
+ses entrées consignent un arbitrage — pourquoi **ʾElohim** reste en hébreu, ce
 que « grâce » raterait de **chesed**. Le lecteur du 21ᵉ siècle qui touche le mot
 n'a pas cette question. Il en a une autre, à laquelle rien ne répondait : ce que
-le mot voulait dire pour qui l'écrivait. La fiche d'**Elohim** tenait en deux
+le mot voulait dire pour qui l'écrivait. La fiche d'**ʾElohim** tenait en deux
 phrases, celle de **YHWH** était la plus courte des cent cinq.
 
 Ce n'est pas une source de vérité dédoublée : **une seule source par *fait***.
@@ -432,7 +432,7 @@ l'objet du corpus.
 |---|---|
 | **chokhmah** | **aboutir**. Elle est opératoire : de l'érudition qui ne produit pas de compréhension a raté son office. |
 | **binah** | **séparer entre**. Trancher ce que le mot français confond — « sagesse » d'avec habileté, « crainte » d'avec posture. |
-| **etsah** | tenir un **dessein arrêté**. Une fiche va quelque part ; ce n'est pas un commentaire qui vagabonde. |
+| **ʿetsah** | tenir un **dessein arrêté**. Une fiche va quelque part ; ce n'est pas un commentaire qui vagabonde. |
 | **gevurah** | **mener jusqu'au bout**. Pas de demi-explication laissée au lecteur. |
 | **daʿat** | **faire connaître du dedans** — la centrale. |
 | **yirah** | **se tenir à son rang**. Ne pas inventer, ne pas dépasser ce que le texte porte. |
@@ -677,83 +677,55 @@ En revanche `t` rend indifféremment le **tet** et le **tav** : la distinction
 existe en hébreu, l'ONT ne la porte pas, et l'hébreu de niveau 3 la rétablit
 pour qui la cherche.
 
-#### L'alef et le ayin — deux lettres, deux traitements en finale
+#### L'alef et le ayin se marquent partout — 9 septembre 2026
 
-**Au milieu d'un mot, un demi-anneau.** L'alef et le ayin y gardent leur coup de
-glotte et coupent la syllabe : **malʾakh**, **Sheʾol**, **chataʾah**,
-**tov meʾod**, *maʿaser*, *zeʿaqah*, **raʿat**.
+**Décision de l'auteur.** L'ONT adopte ==la convention savante== : l'alef prend
+son demi-anneau `ʾ` et le ayin le sien `ʿ`, ==à l'initiale, au milieu et en
+finale==, sans exception de position.
 
-**À l'initiale, rien.** *Elohim* (אֱלֹהִים), *eretz* (אֶרֶץ), **olam** (עוֹלָם),
-*asah* (עָשָׂה), **etsah** (עֵצָה), **orlah** (עָרְלָה) ne portent pas de marque
-initiale.
+    ʾElohim     אֱלֹהִים        ʿolam      עוֹלָם
+    naviʾ       נָבִיא          zeraʿ      זֶרַע
+    ʾish        אִישׁ           ʿirin      עִירִין
+    baraʾ       בָּרָא          chataʾ     חָטָא
 
-**Un clitique rend médiale l'alef ou le ayin qu'il précède — et elle prend
-alors son demi-anneau.** Décision de l'auteur du 8 septembre 2026.
+==Ce que cette décision remplace, et pourquoi il faut le garder écrit.== Le
+matin même, ce document posait l'inverse sur deux points : l'alef finale ne se
+notait pas ==parce qu'elle est quiescente==, et rien ne se notait à l'initiale
+==parce qu'il n'y a là aucune syllabe à couper==. Le second argument avait servi
+à retirer sa marque à `**irin**`, et l'auteur l'avait demandé ==explicitement
+linguistique==.
 
-`בְּעֶצֶב` donne **beʿetsev**, `וַאֲנִי` donne **vaʾani**, `לָעֵינַיִם` donne
-**laʿeinayim**. La lettre n'a pas changé ; ==sa position, si==. Ce qui était
-initial — donc non marqué, faute d'avoir quoi que ce soit à couper — se
-retrouve entre deux voyelles, et l'apostrophe y reprend son office.
+Les deux raisonnements étaient justes ==sur leur propre question==, qui était :
+*qu'est-ce qui s'entend ?* La convention savante répond à une autre question :
+*quelle lettre est là ?* Elle note ==le squelette consonantique==, et une lettre
+muette est une lettre.
 
-==C'est le critère retenu pour `irin`, appliqué à l'envers.== Le demi-anneau de
-l'ONT ne note pas une lettre : il ==coupe une syllabe==. À l'initiale il n'y a
-rien à couper ; préfixée, il y a tout à couper — sans lui, `beetsev` fond ses
-deux voyelles et `haaf` devient illisible.
+==On ne prend pas la moitié d'un système== — ce document le disait déjà en
+écartant le demi-anneau savant pour le seul ayin initial. Le prendre entier, ou
+pas du tout. Il est pris entier.
 
-**Trois cas n'en relèvent pas, et chacun pour une raison qui se vérifie.**
+==Ce que ça n'a pas changé.== Le `t` rend toujours indifféremment le **tet** et
+le **tav** : la convention savante les distingue par des points souscrits, que
+l'ONT n'emploie pas. ==La décision porte sur les demi-anneaux, non sur les
+diacritiques en général.==
 
-- ==Quand la translittération ne porte pas l'article.== Les ethnonymes se
-  nomment par leur forme nue — `Emori` pour הָאֱמֹרִי, `Arqi` pour הָעַרְקִי —,
-  le français fournissant l'article. Il n'y a pas de clitique à séparer.
-- ==Quand un trait d'union sépare déjà.== `ha-adam`, `ha-elohim`, `ba-adam`,
-  `ha-ivri` : le trait fait exactement le travail que le demi-anneau ferait, et
-  `**ha-adam**` est d'ailleurs déclaré tel quel au §2.5. ==On ne cumule pas
-  deux marques pour une seule coupe.==
-- ==Quand l'alef est quiescente.== `לֵאמֹר` se dit *lemor* et `כֵּאלֹהִים`
-  *kelohim* : l'alef y est muette, ==elle ne coupe rien==, et la marquer
-  promettrait une glotte qui ne se prononce pas.
+==La passe.== ==2339 marques== — 635 sur les niveaux 3, 1704 sur les termes en
+gras et les liens de **Shemot** —, et ==59 fiches renommées==. Différentiel
+vérifié : 628 marques sans fiche avant, 628 après, ==aucun lien cassé==. Le slug
+du pipeline retire les demi-anneaux sans séparateur, donc `naviʾ` et `navi`
+retombent au même endroit.
 
-**Un piège de méthode, payé pour l'apprendre.** Une passe faite ==au motif== —
-« clitique + alef » — a produit `mʾeod` pour מְאֹד, où le mem n'est pas un
-clitique mais ==la première consonne du mot==, ainsi que `lʾemor` et `vʾira`.
-Elle a écrit avant qu'on la lise.
+==Le danger était `El`==, et il valait d'être vu. Le mot vit dans `**ʾEl
+ʿElyon**`, dans `Bet-El`, et dans les **Shemot** théophores — `Mikhaʾel`,
+`Yishmaʿel`, `Rafaʾel`. Un remplacement au motif les aurait tous détruits. Les
+délimiteurs de gras et de lien l'ont évité : `**El**` et `[[ʾEl]]` ne matchent
+que le mot seul. ==C'est la troisième fois de la journée qu'une liste blanche
+sauve une passe== — après le pe et l'alef préfixée.
 
-==Une liste blanche vérifiée sur l'hébreu, jamais un motif.== C'est la même
-leçon que le pe, où un filtre par exclusion allait convertir *Pharaon* et
-*Euphrate* : on énumère ce qu'on veut toucher, on ne soustrait pas ce qu'on veut
-épargner.
-
-**En finale, l'alef non, le ayin oui.** C'est la correction du 8 septembre 2026,
-et la règle qu'elle remplace disait « à la fin, rien » ==pour les deux==.
-
-L'alef finale ne se note pas parce qu'elle est ==quiescente== : elle ne se
-prononce pas, elle sert de support graphique à la voyelle qui précède. *bara*
-(בָּרָא), *qara* (קָרָא), **chata** (חָטָא).
-
-Le ayin final, lui, ==se prononce==. L'hébreu insère même une voyelle pour qu'il
-le puisse — le ==patach furtif==, ce /a/ qui se glisse avant lui quand la voyelle
-précédente ne le permettrait pas. C'est le mécanisme exact que la section sur le
-het invoque pour **ruach**, et il vaut ici : `רָקִיעַ` donne **raqiaʿ**, `זֶרַע`
-donne **zeraʿ**, `יְהוֹשֻׁעַ` donne *Yehoshuaʿ*.
-
-==Une lettre qui se prononce se translittère.== La règle ancienne avait été
-écrite ==en regardant l'alef==, et avait emporté le ayin sans le vérifier.
-
-**Le corpus se contredisait déjà, et c'est ce qui l'a révélé.** `**raʿat**`,
-`**raʿim**` et `**reshaʿim**` portaient le demi-anneau ; leurs lemmes `**ra**` et
-`**rasha**` ne le portaient pas. ==Une forme dérivée notait une lettre que son
-lemme laissait tomber.== La décision ne crée donc pas une règle : elle ferme une
-contradiction que le corpus tenait sans la voir.
-
-**La passe qui a suivi** — 63 translittérations de niveau 3, 199 marques, seize
-fiches renommées : `ra` → `raʿ` (52), `rasha` → `rashaʿ` (19), `raqia` → `raqiaʿ`,
-`zera` → `zeraʿ`, `yada` → `yadaʿ`, et les **Shemot** `Belaʿ`, `Beraʿ`, `Birshaʿ`,
-`Leshaʿ`, `Raʿamah`.
-
-Le nom de fichier suit le terme, comme pour `irin` : `lexique/raʿ.md`. Le slug du
-pipeline retire les demi-anneaux sans séparateur, donc `raʿ` et `ra` retombent au
-même endroit — ==aucun lien ne casse==, et le différentiel l'a vérifié : 716
-marques sans fiche avant, 716 après.
+==Et un contrôle a servi en passant.== La règle du §3.2 sur le possessif —
+*toujours ta/sa/ma **ʾishah**, jamais ton/son/mon* — était violée une fois. Le
+glossaire la signale comme « erreur récurrente à ne jamais reproduire » ; elle
+l'était en effet.
 
 #### Le he final se rend `h` — sauf quand il est directionnel
 
@@ -793,7 +765,7 @@ C'est la forme que le §2.9 existe pour fermer, rencontrée une fois de plus sur
 son propre terrain.
 
 **Le cas qui tranche est une collision.** אֱלִישָׁ**ה**, fils de [[Yavan]] en
-*Bereshit* 10, finit par un ==he==. אֱלִישָׁ**ע**, le **navi**, finit par un
+*Bereshit* 10, finit par un ==he==. אֱלִישָׁ**ע**, le **naviʾ**, finit par un
 ==ayin==. Deux lettres, deux noms, deux personnes. Les rendre tous deux par
 `Elisha` ferait porter une seule graphie à deux **Shemot** distincts — ce que le
 tableau des consonnes refuse déjà pour `ch`/`kh` et `k`/`q`.
@@ -915,21 +887,27 @@ tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
   `Chobabish` (חובבש) et `Shemichazah` (שמיחזה), qui écrivaient leur het en `h`
   et en `kh`.
 
-  ==L'exception de `**irin**` est tombée avec.== Elle avait été posée le 7
-  septembre au motif que l'araméen marquerait le ayin initial ; ==le corpus la
-  contredisait dans sa propre langue== — `Azazel` (עזאזל) et `ovadkhon`
-  (עובדכון) ont le même ayin initial et n'ont jamais porté d'apostrophe.
+  ==L'exception de `**ʿirin**` a été posée, puis retirée, puis remise.== Ce
+  va-et-vient vaut d'être gardé parce qu'il montre ==deux critères qui ne
+  posaient pas la même question==.
 
-  ==Et le critère retenu est linguistique, non pratique.== L'apostrophe de l'ONT
-  ne note pas une lettre : ==elle coupe une syllabe==. Sans elle, `malʾakh` se
-  lirait `malakh`, les deux `a` fondus. En position ==initiale== il n'y a rien à
-  couper — toute syllabe commence par une consonne —, donc l'apostrophe n'y
-  ajoute aucune information. Le terme s'écrit désormais `**irin**`, sa fiche
-  avec.
+  Elle avait été posée le 7 septembre au motif que l'araméen marquerait le ayin
+  initial. ==Le corpus la contredisait dans sa propre langue== — `ʿAzazel`
+  (עזאזל) et `ʿovadkhon` (עובדכון) ont le même ayin initial et ne portaient
+  aucune marque —, et le 8 septembre elle est tombée sur un critère
+  ==linguistique== : le demi-anneau ne note pas une lettre, ==il coupe une
+  syllabe==. Sans lui, `malʾakh` se lirait `malakh`, les deux `a` fondus. À
+  l'initiale il n'y a rien à couper, donc rien à marquer.
 
-  *(L'usage savant marque bien le ayin partout, mais avec `ʿ`, un demi-anneau —
-  un ==diacritique==, que l'ONT a écarté pour les raisons du §2.12. ==On ne
-  prend pas la moitié d'un système.==)*
+  Le 9 septembre, l'auteur a adopté la convention savante entière, et la marque
+  est revenue — ==non parce que le critère précédent était faux==, mais parce
+  qu'il répondait à *qu'est-ce qui s'entend ?* quand la convention savante
+  répond à *quelle lettre est là ?*. Le terme s'écrit `**ʿirin**`, et
+  `ʿAzazel` et `ʿovadkhon` avec lui.
+
+  *(La formule qui avait servi à écarter la convention savante — ==on ne prend
+  pas la moitié d'un système== — est celle qui a fini par la faire adopter en
+  entier.)*
 - Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
   selon l'oreille, sans système déclaré, et rien n'a encore divergé.
 
@@ -1016,7 +994,7 @@ Il a été retenu sur trois faits, non sur le goût :
 - le pipeline le **reconnaissait déjà** (`inline.rs`, étape 4 de sa grammaire) et
   le corpus n'en comptait **aucun emploi** — rien à migrer ;
 - et il travaille pour le traducteur : `lexique/<Nom>.md` étant une vraie note,
-  `[[Avraham]]` devient ==cliquable dans Obsidian même==. On touche le nom dans
+  `[[ʾAvraham]]` devient ==cliquable dans Obsidian même==. On touche le nom dans
   l'éditeur, on arrive sur la fiche. Aucune autre marque ne fait ça.
 
 #### Ce que chaque marque produit dans La Bible ONT
@@ -1159,16 +1137,16 @@ voir qu'elle a été reprise, et pourquoi.
 nommait pareil : un **Shem** qui nomme ==un porteur==, et un **Shem** qui nomme
 ==un office==.
 
-**Ce qui les sépare, et ce n'est pas une nuance.** Un **navi** et un **malʾakh**
+**Ce qui les sépare, et ce n'est pas une nuance.** Un **naviʾ** et un **malʾakh**
 font le même geste — recevoir un **davar** des *shamayim*, le porter sur
-l'*eretz*. Ce qui diffère est ==le surplus== : le **navi** ==excède== sa mission,
+l'*eretz*. Ce qui diffère est ==le surplus== : le **naviʾ** ==excède== sa mission,
 il a une vie entre deux **devarim**, un **basar** qui vieillit, une souffrance
 qui authentifie ce qu'il porte. Le **malʾakh**, lui, ==est== sa mission, et rien
 de plus : hors d'elle, il n'y a personne qui subsiste.
 
 Donc un nom de **malʾakh** ne désigne pas quelqu'un. Il ==cristallise une
 fonction== que **YHWH** a instituée — et c'est pourquoi ces noms finissent tous
-par **El** et pointent vers lui, jamais vers celui qui les porte.
+par **ʾEl** et pointent vers lui, jamais vers celui qui les porte.
 
 **Le corpus le dit lui-même.** *Shoftim* 13:18 : Manoach demande son nom au
 **malʾakh**, qui refuse — il est *pele* (*pele* / פֶּלִאי), insondable. Ce n'est pas
@@ -1218,7 +1196,7 @@ la ==rend touchable==, et le renvoi porte sa propre couleur.
 parenthèses== :
 
     La première chuqqah — ((l-olam-est-un-regard|L'olam est un regard)) —
-    a posé que l'**olam** est ==un rapport de perceptibilité==.
+    a posé que l'**ʿolam** est ==un rapport de perceptibilité==.
 
 La cible joint, le libellé s'affiche — même convention que `[[…]]`.
 
@@ -1247,7 +1225,7 @@ l'éditeur, comme on le fait avec `[[Nom]]` vers une fiche.
 ==Ce prix n'en est plus un==, et c'est un fait qu'il faut inscrire parce que
 rien d'autre ne le dirait. **L'auteur ne lit plus le corpus dans Obsidian** : il
 le lit ==dans la liseuse du Mac==, écrite pour cela. Le §2.10 avait retenu
-`[[…]]` sur trois faits, dont *« il travaille pour le traducteur : `[[Avraham]]`
+`[[…]]` sur trois faits, dont *« il travaille pour le traducteur : `[[ʾAvraham]]`
 devient cliquable dans Obsidian même »*. ==Ce troisième argument a cessé de
 peser==, et il ne doit plus être invoqué pour trancher une marque.
 
@@ -1482,7 +1460,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | מָשַׁל | *mashal* | gouverner | Gouvernance fonctionnelle sur un domaine temporel. |
 | עָבַד | *avad* | servir | Service sacerdotal — les lévites *avad* le Tabernacle, les prêtres *avad* le Temple. L'adam dans le Jardin est un prêtre, pas un agriculteur. |
 | בָּנָה | *banah* | édifia | Bâtir, construire — terme de l'architecte. Distinct de *yatsar* (potier). La femme est érigée comme on construit un temple ou une ville. |
-| חָטָא | *chata* | **chata** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chata** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **raʿ**, qui est l'état dysfonctionnel : **chata** est ==l'acte==, **raʿ** est ==l'état==. Les formes nominales suivent — **chattat**, **chataʾah**, **chataʾim**. Laissé en hébreu. |
+| חָטָא | *chata* | **chataʾ** | Intraduisible — ==le premier verbe intraduisible de l'ONT==, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, de manquer sa marque : le tireur qui vise et dont la flèche passe à côté, l'homme qui marche et dont le pied ne trouve pas la pierre. Non « dévier », qui suppose une route dont on s'écarte — l'hébreu ne connaît pas la route, il connaît ==la cible==. Et surtout non « pécher » : le français a reçu ce mot chargé de faute morale, alors que **chataʾ** dit d'abord un ==manque d'ajustement==, un geste qui n'atteint pas ce à quoi il était destiné. Distinct de **raʿ**, qui est l'état dysfonctionnel : **chataʾ** est ==l'acte==, **raʿ** est ==l'état==. Les formes nominales suivent — **chattat**, **chataʾah**, **chataʾim**. Laissé en hébreu. |
 | הָלַךְ | *halakh* | marcher | Se mouvoir, aller. Au ==hitpael== — *hithalekh* — il prend le sens d'==une marche partagée==, un aller-avec dans la durée : c'est la forme employée pour Chanokh et pour Noach. Le simple *halakh* dit le déplacement, le *hithalekh* dit ==la compagnie==. |
 | מוּת | *mut* | mourir | Cesser de vivre. ==Non l'anéantissement== : le mort descend au **Sheʾol**, où il demeure dans le silence et l'attente. L'infinitif absolu redoublé — *mot tamut* (§4.16) — n'ajoute pas d'intensité mais ==la certitude== : mourir est ce que l'acte est. |
 | יָדַע | *yadaʿ* | connaître | ==Connaître par participation==, en étant engagé dans ce qu'on connaît — d'où son emploi pour l'union conjugale en *Bereshit* 4:1, qui n'est pas un euphémisme mais le sens plein. Donne la **daʿat**. Non « savoir », qui pose un regard extérieur. |
@@ -1503,7 +1481,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | שָׁמַיִם | *shamayim* | Cieux | Ce qu'on voit au-dessus de nous. Étymologiquement "là où sont les eaux". |
 | אֶרֶץ | *eretz* | Terre | Le domaine terrestre habitable — avec majuscule une fois nommé. |
 | אֲדָמָה | *adamah* | sol concret | La glaise, la terre cultivable dans sa dimension physique. Même racine qu'Adam. |
-| אָדָם | *adam* | l'Être façonné du sol (Bereshit 1-7) / **adam** intraduisible (Bereshit 8+) | Bereshit 1-7 : traduit "l'Être façonné du sol" pour rendre visible l'étymologie adamah/adam. Bereshit 8+ : intraduisible — laissé en hébreu en gras. Dans les contextes légaux et covenantaux de Gn 9, ha-adam désigne l'humanité dans son universalité ; la périphrase complète brise les chiasmes et alourdit la formulation du droit divin. Décision actée en Bereshit 8, v.5. Extension : le critère est l'ère, non le livre — dans un récit hors *Bereshit* mais en régime antédiluvien (avant le **mabbul**, ex. *Sefar Gibbaraya*), la périphrase "l'Être façonné du sol" vaut également, car c'est l'ère de *Bereshit* 1-7. ==Distinction essentielle== : la périphrase rend le ==générique== *ha-adam* / *benei ha-adam* (l'humanité, l'espèce). Le ==nom propre== Adam d'un personnage individuel (ex. *Toledot Adam ve-Chavah*, où Adam et Chavah sont des personnes nommées) demeure un ==nom propre== (§4.12) — ni traduit, ni balisé, glosé à la première occurrence. |
+| אָדָם | *adam* | l'Être façonné du sol (Bereshit 1-7) / **ʾadam** intraduisible (Bereshit 8+) | Bereshit 1-7 : traduit "l'Être façonné du sol" pour rendre visible l'étymologie adamah/adam. Bereshit 8+ : intraduisible — laissé en hébreu en gras. Dans les contextes légaux et covenantaux de Gn 9, ha-adam désigne l'humanité dans son universalité ; la périphrase complète brise les chiasmes et alourdit la formulation du droit divin. Décision actée en Bereshit 8, v.5. Extension : le critère est l'ère, non le livre — dans un récit hors *Bereshit* mais en régime antédiluvien (avant le **mabbul**, ex. *Sefar Gibbaraya*), la périphrase "l'Être façonné du sol" vaut également, car c'est l'ère de *Bereshit* 1-7. ==Distinction essentielle== : la périphrase rend le ==générique== *ha-adam* / *benei ha-adam* (l'humanité, l'espèce). Le ==nom propre== Adam d'un personnage individuel (ex. *Toledot Adam ve-Chavah*, où Adam et Chavah sont des personnes nommées) demeure un ==nom propre== (§4.12) — ni traduit, ni balisé, glosé à la première occurrence. |
 | אִשָּׁה / אִישׁ | *ishah* / *ish* | Ishah / Ish | Intraduisible. Non pas "femme/homme" au sens social. L'ishah est édifiée (banah) pour faire face à l'ish — "os de mes os, chair de ma chair." Le lien ish/ishah est une alliance de l'être même. *Ishto* = sa ishah (forme possessive). *Eshet* = ishah de (forme construite). *Neshei* = pluriel construit. Laissé en hébreu comme Ruach et Nefesh. ==RÈGLE ABSOLUE — accord du possessif : toujours "ta/sa/ma ishah", jamais "ton/son/mon ishah" même devant voyelle. Le hiatus est délibéré — il rend le genre féminin visible. Erreur récurrente à ne jamais reproduire.== |
 | נֶפֶשׁ | *nefesh* | Nefesh | Intraduisible. Non pas "l'âme" grecque — le principe vital concret et incarné. Toujours laissé en hébreu. |
 | צֶלֶם | *tselem* | représentant fonctionnel | Statue représentative d'un roi. L'être humain est le tselem d'Elohim sur la Terre. |
@@ -1514,58 +1492,58 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | רַע | *raʿ* | **raʿ** | Intraduisible. Opposé fonctionnel de **tov** — ce qui rate sa destination, ce qui s'écarte de l'ordre cosmique. Non pas "le Mal" au sens moral grec. Formes : *ra* (adjectif/nom), *raʿat* (construit : "le ra de"), *raʿim* (pluriel). |
 | מְלַאכָה | *melakhah* | œuvre architecturale | Travail qualifié de l'architecte. Même mot pour la construction du Tabernacle. |
 | קָדוֹשׁ | *qadosh* | consacré / sacré | Mis à part fonctionnellement pour le domaine divin. Non pas "moralement pur". |
-| נָבִיא | *navi* | **navi** | Intraduisible. Celui que **YHWH** envoie porter son **davar** dans le temps visible. De la racine *nava* — être appelé, porter la parole d'un autre. Non « prophète » au sens que le français a pris : un devin, quelqu'un qui annonce l'avenir. Le **navi** annonce parfois, mais ce n'est pas sa fonction — sa fonction est de ==lire l'alliance dans l'histoire== et de prononcer le **mishpat** sur ce qu'il y voit : où le peuple, le roi, le Temple sont alignés ou désalignés. Il regarde le présent avant le futur. Sa réalité fonctionnelle est celle du **shaliach**, l'envoyé : le grec les a décomposés en fonctions distinctes (§2.6, note terminologique), l'hébreu n'en connaît qu'une. Pluriel **neviʾim** — d'où *Gevurot ha-Neviʾim*, nom ONT du n° 44 : les **gevurot** de **YHWH** accomplies *à travers* ses **neviʾim**, où **YHWH** est le sujet et le **navi** l'instrument. Laissé en hébreu. |
+| נָבִיא | *navi* | **naviʾ** | Intraduisible. Celui que **YHWH** envoie porter son **davar** dans le temps visible. De la racine *nava* — être appelé, porter la parole d'un autre. Non « prophète » au sens que le français a pris : un devin, quelqu'un qui annonce l'avenir. Le **naviʾ** annonce parfois, mais ce n'est pas sa fonction — sa fonction est de ==lire l'alliance dans l'histoire== et de prononcer le **mishpat** sur ce qu'il y voit : où le peuple, le roi, le Temple sont alignés ou désalignés. Il regarde le présent avant le futur. Sa réalité fonctionnelle est celle du **shaliach**, l'envoyé : le grec les a décomposés en fonctions distinctes (§2.6, note terminologique), l'hébreu n'en connaît qu'une. Pluriel **neviʾim** — d'où *Gevurot ha-Neviʾim*, nom ONT du n° 44 : les **gevurot** de **YHWH** accomplies *à travers* ses **neviʾim**, où **YHWH** est le sujet et le **naviʾ** l'instrument. Laissé en hébreu. |
 | קֹדֶשׁ | *qodesh* | **qodesh** | Intraduisible. La forme nominale de **qadosh** : non pas la qualité d'être pur, mais ==l'état d'être mis à part pour un office==. De la racine *qadash* — séparer, réserver. Un ustensile devient **qodesh** quand il cesse d'être disponible pour l'usage ordinaire ; un temps devient **qodesh** quand il est retiré du compte des jours utiles. Rien n'est **qodesh** par nature : tout l'est par assignation. Le mot appartient donc à la même famille d'opérations que **binah** — séparer entre —, et c'est ce qui le rend intraduisible : « sainteté » en français nomme une perfection morale, là où l'hébreu nomme une ==mise à part fonctionnelle==. Laissé en hébreu. |
-| רוּחַ הַקֹּדֶשׁ | *Ruach ha-Qodesh* | **Ruach ha-Qodesh** | Intraduisible. La **Ruach** en tant qu'elle ==met à part== — non « le Saint-Esprit » (formule chargée de dix-sept siècles de dogmatique trinitaire, §4.7), non « souffle sacré » (qui en ferait une qualité au lieu d'une opération). L'article *ha-* porte tout le sens : ce n'est pas une **Ruach** parmi d'autres, c'est ==la== **Ruach**, celle de **YHWH**, désignée par ce qu'elle fait — elle sépare, assigne, consacre à un office. C'est la même **Ruach** qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités : **chokhmah**, **binah**, **etsah**, **gevurah**, **daʿat** et **yirat YHWH**. Formes attestées dans le corpus hébreu : *Tehilim* 51:13, *Yeshayahu* 63:10-11. Traitement définitif réservé à son locus. Laissée en hébreu. |
+| רוּחַ הַקֹּדֶשׁ | *Ruach ha-Qodesh* | **Ruach ha-Qodesh** | Intraduisible. La **Ruach** en tant qu'elle ==met à part== — non « le Saint-Esprit » (formule chargée de dix-sept siècles de dogmatique trinitaire, §4.7), non « souffle sacré » (qui en ferait une qualité au lieu d'une opération). L'article *ha-* porte tout le sens : ce n'est pas une **Ruach** parmi d'autres, c'est ==la== **Ruach**, celle de **YHWH**, désignée par ce qu'elle fait — elle sépare, assigne, consacre à un office. C'est la même **Ruach** qui repose sur le roi promis en *Yeshayahu* 11:2 et qui y porte les six capacités : **chokhmah**, **binah**, **ʿetsah**, **gevurah**, **daʿat** et **yirat YHWH**. Formes attestées dans le corpus hébreu : *Tehilim* 51:13, *Yeshayahu* 63:10-11. Traitement définitif réservé à son locus. Laissée en hébreu. |
 | בְּרִית | *berith* | **berith** | Structure fonctionnelle d'engagement. Développé en Bereshit 8 : ici unilatérale — Elohim seul s'engage, Noach n'est pas invité à promettre. Non pas un contrat bilatéral mais une déclaration souveraine de fidélité permanente. Meqim (qum : faire se tenir) et non karat (couper) — l'alliance se tient debout par la parole d'Elohim seul. |
-| נְשָׁמָה | *neshamah* | **Neshamah** | Intraduisible. Le souffle qu'**Elohim** insuffle dans les narines de **l'Être façonné du sol** — *vayipach beʾapav nishmat chayim*. À ne pas confondre avec la **Ruach**, qui est aussi le vent et l'esprit, ni avec le **Nefesh**, que les animaux ont également. La **Neshamah** est ==ce qui est donné de bouche à narines==, dans un geste de proximité que le corpus ne répète pour aucune autre créature. Non « l'âme » (catégorie grecque : une part détachable qui survit au corps). Premier emploi *Bereshit* 2:7. Laissée en hébreu. |
-| אֱמוּנָה | *emunah* | **emunah** | Intraduisible. De *aman* (אָמַן) — être ferme, porter, tenir bon ; le mot dont vient *amen*. ==Ce sur quoi on peut poser son poids.== Non « la foi » au sens d'une opinion tenue pour vraie : l'**emunah** n'est pas un contenu de croyance mais ==une posture d'appui==. Le verbe est un hiphil — *heʾemin*, traiter comme ferme, s'appuyer sur —, que l'ONT rend **emuna** (sans h, délibéré). Même logique fonctionnelle que **teshuvah** et **yirah** : une manière de se tenir, non un sentiment. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
+| נְשָׁמָה | *neshamah* | **Neshamah** | Intraduisible. Le souffle qu'**ʾElohim** insuffle dans les narines de **l'Être façonné du sol** — *vayipach beʾapav nishmat chayim*. À ne pas confondre avec la **Ruach**, qui est aussi le vent et l'esprit, ni avec le **Nefesh**, que les animaux ont également. La **Neshamah** est ==ce qui est donné de bouche à narines==, dans un geste de proximité que le corpus ne répète pour aucune autre créature. Non « l'âme » (catégorie grecque : une part détachable qui survit au corps). Premier emploi *Bereshit* 2:7. Laissée en hébreu. |
+| אֱמוּנָה | *emunah* | **ʾemunah** | Intraduisible. De *aman* (אָמַן) — être ferme, porter, tenir bon ; le mot dont vient *amen*. ==Ce sur quoi on peut poser son poids.== Non « la foi » au sens d'une opinion tenue pour vraie : l'**ʾemunah** n'est pas un contenu de croyance mais ==une posture d'appui==. Le verbe est un hiphil — *heʾemin*, traiter comme ferme, s'appuyer sur —, que l'ONT rend **ʾemuna** (sans h, délibéré). Même logique fonctionnelle que **teshuvah** et **yirah** : une manière de se tenir, non un sentiment. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
 | צַדִּיק | *tsadiq* | **tsadiq** | Intraduisible. Forme adjectivale de **tsedeq** : ==celui qui est ajusté à l'ordre juste==. Non « le juste » au sens moral — la **tsedaqah** n'est pas une vertu de caractère mais ==une conformité structurelle==, et le corpus le montre en appelant **tsadiq** un Noach qui finira ivre sous sa tente. Opposé fonctionnel : **rashaʿ**, celui qui est de travers. La paire est constitutive du droit divin hébraïque. Pluriel **tsadiqim**. Premier emploi *Bereshit* 6:9. Laissé en hébreu. |
 | צְדָקָה | *tsedaqah* | **tsedaqah** | Intraduisible. Forme nominale de **tsedeq** : ==l'état ou l'acte d'être ajusté à l'ordre==. Jamais « justice » (*dikaiosyne*, catégorie grecque) ni « justification » (catégorie théologique tardive) — deux rendus que toutes les traductions existantes emploient et que l'ONT refuse. Inséparable du **mishpat** : *tsedaqah umishpat*, l'ordre-juste et le jugement-juste, sont le couple du droit divin. C'est elle qui est ==comptée== à Avraham en *Bereshit* 15:6, non gagnée par lui. Premier emploi *Bereshit* 15:6. Laissée en hébreu. |
 | מַבּוּל | *mabbul* | **mabbul** | Intraduisible. Le terme technique des eaux de *Bereshit* 6-9, et de nulle part ailleurs dans la Torah — le corpus ne l'emploie pour aucune autre inondation. Non « le déluge » (mot latin banalisé, appliqué à toute crue) : le **mabbul** est ==une dé-création temporaire==, le retour des eaux d'en haut et d'en bas sur un monde dont les écluses se rouvrent. Ce que *Bereshit* 1 avait séparé se remêle, puis la **Ruach** repasse sur les eaux comme au commencement. Premier emploi *Bereshit* 6:17. Laissé en hébreu. |
-| חֶסֶד | *chesed* | **chesed** | Intraduisible. La fidélité loyale envers celui à qui l'on est lié par une **berith** : tenir parole et agir pour son bien, dans la durée. Non pas "bonté" (trop faible — rate la loyauté engagée), ni "grâce" (catégorie théologique tardive de la faveur imméritée — importée, §4.7), ni "miséricorde" (le **chesed** est *dû* à l'intérieur d'un lien, non simple pitié). S'étend de la fidélité de **YHWH** envers les siens (*chasdo* — qui « dure **leʿolam** », *Tehilim* 136) jusqu'à la loyauté entre humains liés (Ruth envers Naomi). Premier emploi en *Bereshit* 19:19 — le **chesed** qui garde le **Nefesh** de Lot. Même logique relationnelle qu'**emunah** : une posture de fidélité, non un sentiment. Traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 (*rav chesed*) et *Ruth*. Laissé en hébreu. |
-| עוֹלָם | *olam* | **olam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Achuzat olam* → **achuzat-olam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ad-olam**. *Leʿolam* → **leʿolam**. *Meʿolam* → **meʿolam**. Premier emploi *Bereshit* 3:22 (*vechai leʿolam*). |
+| חֶסֶד | *chesed* | **chesed** | Intraduisible. La fidélité loyale envers celui à qui l'on est lié par une **berith** : tenir parole et agir pour son bien, dans la durée. Non pas "bonté" (trop faible — rate la loyauté engagée), ni "grâce" (catégorie théologique tardive de la faveur imméritée — importée, §4.7), ni "miséricorde" (le **chesed** est *dû* à l'intérieur d'un lien, non simple pitié). S'étend de la fidélité de **YHWH** envers les siens (*chasdo* — qui « dure **leʿolam** », *Tehilim* 136) jusqu'à la loyauté entre humains liés (Ruth envers Naomi). Premier emploi en *Bereshit* 19:19 — le **chesed** qui garde le **Nefesh** de Lot. Même logique relationnelle qu'**ʾemunah** : une posture de fidélité, non un sentiment. Traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 (*rav chesed*) et *Ruth*. Laissé en hébreu. |
+| עוֹלָם | *olam* | **ʿolam** | Intraduisible. De la racine "caché, dissimulé" : la limite temporelle que le regard humain ne peut pas discerner — l'horizon qui se dérobe. Non pas l'éternité abstraite des Grecs (*aeternitas*), mais ce qui est au-delà du visible. ==Règle de rendu en corps de texte : translittérer le construit en entier.== *Berit olam* → **berith-olam**. *Achuzat olam* → **ʾachuzat-ʿolam**. *Ledorot olam* → **ledorot-olam**. *Ad-olam* → **ʿad-ʿolam**. *Leʿolam* → **leʿolam**. *Meʿolam* → **meʿolam**. Premier emploi *Bereshit* 3:22 (*vechai leʿolam*). |
 | פָּנִים | *panim* | face | Non pas une surface neutre — une surface orientée vers, en relation avec. |
 | מוֹעֵד | *moʿed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
-| חַטָּאת | *chattat* | **chattat** | Intraduisible. Forme nominale de **chata** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattat** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattat**, **chataʾah** (*Bereshit* 18:20), **chataʾim** (le pluriel adjectival, *Bereshit* 13:13). ==Attention à la finale== : חַטָּאת se termine par un ==tav==, donc **chattat** — le corpus a longtemps écrit « chattah », qui est l'habit de l'autre mot, חַטָּאָה, finale en ==he==. Les deux existent en hébreu biblique et l'ONT emploie les deux : **chattat** en *Bereshit* 4:7, **chataʾah** en *Bereshit* 18:20. Corrigé le 28 août 2026. Laissée en hébreu. |
+| חַטָּאת | *chattat* | **chattat** | Intraduisible. Forme nominale de **chataʾ** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Bereshit* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattat** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattat**, **chataʾah** (*Bereshit* 18:20), **chataʾim** (le pluriel adjectival, *Bereshit* 13:13). ==Attention à la finale== : חַטָּאת se termine par un ==tav==, donc **chattat** — le corpus a longtemps écrit « chattah », qui est l'habit de l'autre mot, חַטָּאָה, finale en ==he==. Les deux existent en hébreu biblique et l'ONT emploie les deux : **chattat** en *Bereshit* 4:7, **chataʾah** en *Bereshit* 18:20. Corrigé le 28 août 2026. Laissée en hébreu. |
 | מִנְחָה | *minchah* | tribut | Geste du vassal vers son suzerain — non pas encore un terme sacrificiel technique. Apporter un tribut c'est reconnaître une autorité supérieure. |
 | אָרוּר | *arur* | frappé de dysfonctionnement | Opposé de *barakh* (doter) — non pas l'absence de dotation, mais sa perversion. La dotation demeure mais devient dysfonctionnelle. Le serpent continue de se mouvoir, l'adamah continue de produire, Qayin continue de vivre : mais tout cela est atteint dans sa fonction. |
 | קַלֵּל | *qallel* | retirer de sa kavod | De *qalal* — alléger, réduire le poids fonctionnel. Non pas supprimer totalement : l'adamah conserve de la kavod après *Bereshit* 3, elle fonctionne encore. *Qallel* allège — il ne vide pas. Opposé exact de *barakh* (doter, alourdir de capacité). Première occurrence *Bereshit* 8:21 — YHWH promet de ne plus en retirer davantage. |
 | כָּבוֹד | *kavod* | kavod | Intraduisible. De *kaved* (כָּבֵד) — être lourd, peser. La pesanteur fonctionnelle d'une réalité dans l'ordre cosmique : sa substance, son poids d'existence, sa densité dans l'ordre divin. Opposé de *qalal* (légèreté, vide). S'étend de la kavod d'une réalité créée jusqu'à la kavod de YHWH lui-même — la même racine, la même logique de pesanteur fonctionnelle. Laissé en hébreu. |
 | חָכְמָה | *chokhmah* | **chokhmah** | Intraduisible. La compétence qui fait aboutir. Non « sagesse » — la sagesse grecque contemple, la **chokhmah** *opère* : elle est ce dont Betsalel est rempli pour bâtir le Mishkan (*Shemot* 31:3), ce qu'ont le tisserand, le marin, le forgeron. Savoir-faire qui ajuste une chose à sa destination — l'opération dont **tov** est le résultat constaté. Première des six ==ruachim== de *Yeshayahu* 11:2, appariée à **binah**. Laissée en hébreu. |
-| בִּינָה | *binah* | **binah** | Intraduisible. Le discernement qui ==sépare entre==. De *bin* (בִּין), apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **Elohim** sépare la lumière de l'obscurité en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Deuxième des six ==ruachim== de *Yeshayahu* 11:2. Laissée en hébreu. |
-| עֵצָה | *etsah* | **etsah** | Intraduisible. Le dessein arrêté. De *yaʿats* (יָעַץ) — délibérer, résoudre. Non « conseil » au sens d'un avis qu'on donne et qu'on peut écarter : l'**etsah** est le plan qu'on a *résolu* de tenir, et qui engage celui qui l'a formé. Terme du Conseil Divin, où l'**etsah** de **YHWH** se forme et tient. Troisième des six ==ruachim== de *Yeshayahu* 11:2, appariée à **gevurah** — le dessein et le pouvoir de l'accomplir. Laissée en hébreu. |
+| בִּינָה | *binah* | **binah** | Intraduisible. Le discernement qui ==sépare entre==. De *bin* (בִּין), apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **ʾElohim** sépare la lumière de l'obscurité en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Deuxième des six ==ruachim== de *Yeshayahu* 11:2. Laissée en hébreu. |
+| עֵצָה | *etsah* | **ʿetsah** | Intraduisible. Le dessein arrêté. De *yaʿats* (יָעַץ) — délibérer, résoudre. Non « conseil » au sens d'un avis qu'on donne et qu'on peut écarter : l'**ʿetsah** est le plan qu'on a *résolu* de tenir, et qui engage celui qui l'a formé. Terme du Conseil Divin, où l'**ʿetsah** de **YHWH** se forme et tient. Troisième des six ==ruachim== de *Yeshayahu* 11:2, appariée à **gevurah** — le dessein et le pouvoir de l'accomplir. Laissée en hébreu. |
 | גְּבוּרָה | *gevurah* | **gevurah** | Intraduisible. La capacité d'accomplir. De *gabar* (גָּבַר) — l'emporter, prévaloir ; même racine que **gibbor**, et la distinction est le cœur de l'entrée : le **gibbor** est *celui qui pèse*, la **gevurah** est *le pouvoir de faire aboutir*. Non « force » (physique) ni « puissance » (domination) : la **gevurah** ne se mesure pas à ce qu'elle écrase mais à ce qu'elle mène à terme. Pluriel **gevurot** — les actes où elle se manifeste, d'où *Gevurot ha-Neviʾim*, nom ONT du n° 44 (§2.6). Quatrième des six ==ruachim== de *Yeshayahu* 11:2. Laissée en hébreu. |
 | דַּעַת | *daʿat* | **daʿat** | Intraduisible. Le connaître par participation. De *yada* (יָדַע) — connaître en étant engagé dans ce que l'on connaît. Non « connaissance » : le savoir français est un regard *extérieur* posé sur un objet, la **daʿat** suppose d'être ==à l'intérieur==. D'où son emploi pour l'union conjugale en *Bereshit* 4:1, qui n'est pas un euphémisme mais le sens plein. C'est la **daʿat** de l'arbre — *etz hadaʿat tov vara*, *Bereshit* 2:9 — et ce que l'arbre propose n'est pas un contenu de plus, c'est une *modalité* : juger l'ordre depuis le dehors au lieu d'y participer. Cinquième des six ==ruachim== de *Yeshayahu* 11:2. Laissée en hébreu. |
-| יִרְאָה | *yirah* | **yirah** | Intraduisible. La reconnaissance de sa place devant ce qui dépasse. De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect mais une ==posture==, celle qui se tient au rang qui est le sien devant **YHWH** ; même logique fonctionnelle qu'**emunah** et **teshuvah**, qui ne sont pas non plus des sentiments. Forme construite **yirat YHWH**. Sixième des six ==ruachim== de *Yeshayahu* 11:2 — et *Yeshayahu* 11:3 les scelle par un jeu de racines que toute traduction perd : *vaharicho* (וַהֲרִיחוֹ), « il respirera », vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Laissée en hébreu. |
+| יִרְאָה | *yirah* | **yirah** | Intraduisible. La reconnaissance de sa place devant ce qui dépasse. De *yare* (יָרֵא). Non « crainte » ni « peur » — ce n'est pas un affect mais une ==posture==, celle qui se tient au rang qui est le sien devant **YHWH** ; même logique fonctionnelle qu'**ʾemunah** et **teshuvah**, qui ne sont pas non plus des sentiments. Forme construite **yirat YHWH**. Sixième des six ==ruachim== de *Yeshayahu* 11:2 — et *Yeshayahu* 11:3 les scelle par un jeu de racines que toute traduction perd : *vaharicho* (וַהֲרִיחוֹ), « il respirera », vient de רו״ח, les consonnes mêmes de **ruach**. Les six capacités se referment sur le souffle qui les portait. Laissée en hébreu. |
 | טָהוֹר / לֹא טָהוֹר | *tahor* / *lo tahor* | Tahor / lo tahor | Intraduisible. Non pas "pur/impur" au sens moral ou hygiénique — pureté fonctionnelle rituelle : ce qui peut entrer en contact avec le domaine sacré sans le perturber, et ce qui ne le peut pas. Première occurrence en *Bereshit* 7:2 — catégorie déjà opératoire avant le Sinai. Laissé en hébreu dans le corps du texte, expliqué dans les gloses. |
 | עֹלָה | *olah* | Olah | Intraduisible. De *alah* (עָלָה) — monter, s'élever. L'offrande qui monte vers Elohim dans la fumée. Jamais "holocauste" (terme grec chargé d'histoire moderne) ni "burnt offering" (catégorie rituelle chrétienne). Premier emploi en *Bereshit* 8:20 — acte inaugural après la re-création. Laissé en hébreu dans le corps du texte, expliqué dans les gloses. |
 | מִזְבֵּחַ | *mizbeach* | autel | De *zavach* — égorger, sacrifier. Littéralement "le lieu d'égorgement". Traduit "autel" avec niveau 3 obligatoire à chaque première occurrence dans une Fondation : ==autel== (*mizbeach* / מִזְבֵּחַ). |
-| כֹּהֵן | *kohen* | Kohen | Intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique qui réduit le terme à la fonction sacrificielle). Le **kohen** hébreu est l'intermédiaire fonctionnel qui maintient l'interface entre le domaine humain et le domaine divin — il tient les deux côtés ouverts l'un à l'autre. Pluriel : **kohanim**. Forme construite : *kohen* de/de l'alliance. Premier emploi en *Bereshit* 14:18 — Malki-tsedeq, **kohen** de **El Elyon**. Central dans tout Vayiqra. Laissé en hébreu. |
+| כֹּהֵן | *kohen* | Kohen | Intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique qui réduit le terme à la fonction sacrificielle). Le **kohen** hébreu est l'intermédiaire fonctionnel qui maintient l'interface entre le domaine humain et le domaine divin — il tient les deux côtés ouverts l'un à l'autre. Pluriel : **kohanim**. Forme construite : *kohen* de/de l'alliance. Premier emploi en *Bereshit* 14:18 — Malki-tsedeq, **kohen** de **ʾEl ʿElyon**. Central dans tout Vayiqra. Laissé en hébreu. |
 | צֶדֶק | *tsedeq* | tsedeq | Intraduisible. L'ordre juste cosmique, la conformité structurelle au bon fonctionnement de la réalité. Non pas "justice" au sens moral grec (*dikaiosyne*). Trois formes intraduisibles issues de cette racine : **tsedeq** (le concept), **tsadiq** (l'adjectif : celui qui est dans l'ordre juste — premier emploi Bereshit 6:9), **tsedaqah** (la forme nominale : l'état ou l'acte de juste-ordre — premier emploi Bereshit 15:6). |
 | רָשָׁע | *rashaʿ* | **rashaʿ** | Intraduisible. L'opposé fonctionnel de **tsadiq** : celui dont l'existence est structurellement déviée de l'ordre cosmique. Non pas "méchant" au sens moral subjectif — celui qui est de travers dans l'ordre fonctionnel. La paire **tsadiq**/**rashaʿ** est constitutive du droit divin hébraïque et de tout le corpus des Neviʾim. Pluriel : **reshaʿim**. Premier emploi en *Bereshit* 18:23. |
-| אֲדֹנָי | *Adonai* | Adonai | Intraduisible. De *adon* (אָדוֹן) : le maître, le seigneur — *Adonai* = "mon seigneur/maître". Titre de maîtrise souveraine absolue adressé à **YHWH**. Distinct d'**Elohim** et de **YHWH**. Dans l'usage liturgique hébreu, *Adonai* deviendra la substitution prononcée pour **YHWH**. S'écrit seul ou combiné : **Adonai** **YHWH**. Premier emploi en *Bereshit* 15:2. |
-| אֵל | *El* | **El** | Intraduisible depuis le 31 août 2026. Le nom du dieu au sommet de l'ordre, au ==singulier== — la forme que tout le Levant partage, et derrière laquelle **Elohim** est le pluriel. Non « Dieu » : le mot français arrive chargé de dix-sept siècles de dogmatique, quand *El* ne dit qu'==une place== — celui qui assigne, celui dont dépend ce qui ne dépend de rien d'autre. C'est ce partage du mot avec les voisins qui rend possible la scène de *Bereshit* 14 : Malki-tsedeq bénit par **El Elyon**, et Avram répond en identifiant ce nom à **YHWH** — l'échange n'a de sens que si les deux hommes emploient ==le même mot==. Il vit surtout ==dans les Shemot== : Mikhaʾel (« qui est comme **El** ? »), Rafaʾel (« **El** guérit »), Yishmaʿel (« **El** entend »), Israel, Bet-El. Composés déclarés à part : **El Elyon**, **El Roï**, **El Shaddai**. Laissé en hébreu. |
-| אֵל עֶלְיוֹן | *El Elyon* | El Elyon | Intraduisible. *Elyon* de *alah* (עָלָה) : monter, s'élever — El le Souverain élevé, l'El au sommet de l'ordre cosmique. Titre du dieu suprême dans les cosmologies proche-orientales voisines. En *Bereshit* 14, Malki-tsedeq l'emploie, Avram l'identifie à **YHWH** : **YHWH** **El Elyon**. Laissé en hébreu. |
+| אֲדֹנָי | *Adonai* | Adonai | Intraduisible. De *adon* (אָדוֹן) : le maître, le seigneur — *Adonai* = "mon seigneur/maître". Titre de maîtrise souveraine absolue adressé à **YHWH**. Distinct d'**ʾElohim** et de **YHWH**. Dans l'usage liturgique hébreu, *Adonai* deviendra la substitution prononcée pour **YHWH**. S'écrit seul ou combiné : **ʾAdonai** **YHWH**. Premier emploi en *Bereshit* 15:2. |
+| אֵל | *El* | **ʾEl** | Intraduisible depuis le 31 août 2026. Le nom du dieu au sommet de l'ordre, au ==singulier== — la forme que tout le Levant partage, et derrière laquelle **ʾElohim** est le pluriel. Non « Dieu » : le mot français arrive chargé de dix-sept siècles de dogmatique, quand *El* ne dit qu'==une place== — celui qui assigne, celui dont dépend ce qui ne dépend de rien d'autre. C'est ce partage du mot avec les voisins qui rend possible la scène de *Bereshit* 14 : Malki-tsedeq bénit par **ʾEl ʿElyon**, et Avram répond en identifiant ce nom à **YHWH** — l'échange n'a de sens que si les deux hommes emploient ==le même mot==. Il vit surtout ==dans les Shemot== : Mikhaʾel (« qui est comme **ʾEl** ? »), Rafaʾel (« **ʾEl** guérit »), Yishmaʿel (« **ʾEl** entend »), Israel, Bet-El. Composés déclarés à part : **ʾEl ʿElyon**, **ʾEl Roï**, **ʾEl Shaddai**. Laissé en hébreu. |
+| אֵל עֶלְיוֹן | *El Elyon* | El Elyon | Intraduisible. *Elyon* de *alah* (עָלָה) : monter, s'élever — El le Souverain élevé, l'El au sommet de l'ordre cosmique. Titre du dieu suprême dans les cosmologies proche-orientales voisines. En *Bereshit* 14, Malki-tsedeq l'emploie, Avram l'identifie à **YHWH** : **YHWH** **ʾEl ʿElyon**. Laissé en hébreu. |
 | אֵל רֳאִי | *El Roï* | El Roï | Intraduisible. De *El* (אֵל) + *roʿi* (רֳאִי) de *raʾah* (voir) : "El qui me voit", "El de la vision de moi". Nom divin unique dans toute la Bible — donné une seule fois, par Hagar, une servante égyptienne en fuite dans le désert. Première et unique occurrence en *Bereshit* 16:13. Laissé en hébreu. |
 | אֵל שַׁדַּי | *El Shaddai* | El Shaddai | Intraduisible. Étymologie débattue : *shadad* (שָׁדַד) : puissance absolue ; ou akkadien *šadu* : montagne ; ou *she-dai* (שֶׁ-דַּי) : "Celui-qui-suffit". Ce nom accompagne les moments où **YHWH** accomplit l'impossible humain. Premier emploi en *Bereshit* 17:1. Laissé en hébreu. |
 | מַלְאַךְ | *malʾakh* | malʾakh | Intraduisible. Non pas "ange" (catégorie grecque anachronique). L'envoyé-fonctionnaire de **YHWH** — de la racine *laʾakh* (envoyer, déléguer) : celui que **YHWH** mandate pour accomplir un acte dans le monde humain. Il n'est pas défini par sa nature mais par sa mission. Ambiguïté délibérée du texte : le **malʾakh** **YHWH** parle parfois en son propre nom, parfois comme **YHWH** lui-même. Pluriel : **malʾakhim**. Forme combinée : **malʾakh** **YHWH**. Premier emploi en *Bereshit* 16:7. ==Malʾakhim nommés== : quand un envoyé céleste porte un nom (Mikhaʾel — premier de l'ONT, *Toledot Adam ve-Chavah* ; Rafaʾel — *Sefar Gibbaraya*), c'est un ==nom propre== (sans gras, niveau 3 + glose à la première occurrence, §4.12), non un intraduisible — il garde la fonction de **malʾakh**. Tout nouvel être céleste nommé se décide avec l'auteur (règle des termes chargés). |
 | קָנָה | *qanah* | fonder et maîtriser | Double dimension inséparable dans l'hébreu antique : créer/fonder ET acquérir/posséder. *Qoneh shamayim vaʾarets* = "fondateur et maître des Cieux et de la Terre" — formule du dieu suprême dans les textes proche-orientaux. |
 | שָׁלִיחַ | *shaliach* | **shaliach** | Intraduisible. De *shalach* (שָׁלַח) — envoyer, mandater. L'envoyé-mandaté : celui qui porte l'autorité de celui qui l'envoie et agit en son nom. Équivalent hébreu exact du grec *apostolos* — jamais "apôtre" dans l'ONT. Le *shaliach* est défini par sa mission, pas par son statut. Pluriel : *shlichim* (שְׁלִיחִים). Même logique fonctionnelle que *malʾakh* : défini par l'envoi, pas par la nature. |
-| שִׁפְחָה | *shifchah* | **shifchah** | Intraduisible. La servante attachée à la sphère d'une **ishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shifchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais ==à qui l'on est attaché==. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Bereshit* 16:1. Laissée en hébreu. |
+| שִׁפְחָה | *shifchah* | **shifchah** | Intraduisible. La servante attachée à la sphère d'une **ʾishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shifchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ʾishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ʾish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais ==à qui l'on est attaché==. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Bereshit* 16:1. Laissée en hébreu. |
 | דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Bereshit* 11:1 (*devarim achadim*). |
 | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" — le terme latin réduit l'acte à sa dimension physique et perd la dimension covenantale de l'inscription. Premier emploi en *Bereshit* 17. |
 | גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Bereshit* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
-| עָרְלָה / עָרֵל | *orlah* / *arel* | **orlah** / **arel** | Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**orlah** est le lieu du signe de la **berith** ; mais le terme s'étend métaphoriquement : **orlah** du cœur (*Devarim* 10:16), **orlah** des lèvres (*Shemot* 6:12), **orlah** du fruit (*Vayiqra* 19:23). **arel** : celui qui a encore son **orlah**, dont la chair n'a pas reçu le signe. Premier emploi en *Bereshit* 17:11. |
+| עָרְלָה / עָרֵל | *orlah* / *arel* | **ʿorlah** / **ʿarel** | Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**ʿorlah** est le lieu du signe de la **berith** ; mais le terme s'étend métaphoriquement : **ʿorlah** du cœur (*Devarim* 10:16), **ʿorlah** des lèvres (*Shemot* 6:12), **ʿorlah** du fruit (*Vayiqra* 19:23). **ʿarel** : celui qui a encore son **ʿorlah**, dont la chair n'a pas reçu le signe. Premier emploi en *Bereshit* 17:11. |
 | מִשְׁפָּט | *mishpat* | **mishpat** | Intraduisible. De *shafat* (שָׁפַט) : juger, rendre une décision. L'acte de jugement rendu dans l'ordre cosmique — la décision qui discerne et ordonne correctement les parties. Non pas "justice" au sens abstrait grec (*dikaiosyne*) : le **mishpat** est concret, situationnel. Inséparable de **tsedaqah** dans tout le corpus : *tsedaqah umishpat* — l'ordre-juste et le jugement-juste sont le couple constitutif du droit divin hébraïque. Pluriel : **mishpatim**. Premier emploi en *Bereshit* 18. |
 | נָחַם | *nacham* | **nacham** | Intraduisible. Deux dimensions indissociables : être saisi au fond des entrailles — une émotion viscérale qui ébranle la totalité de l'être — ET reconsidérer depuis cet endroit affecté. Non pas un simple chagrin ni un simple changement d'avis. Même racine : le **shem** de Noach (*Bereshit* 5:29 — *yenachameinu* : "il nous **nacham**era") et la consolation prophétique (*Yeshayahu* 40:1 — *nachamu nachamu ami*). Appliqué à **YHWH** en *Bereshit* 6:6 — le texte ne l'atténue pas. Premier emploi *Bereshit* 5:29. |
 | שֹׁפֵט | *shofet* | **shofet** | Intraduisible. De *shafat* (שָׁפַט) — même racine que **mishpat**. Celui qui exerce le **mishpat** dans une situation concrète : non pas le magistrat de tribunal (catégorie juridique moderne), mais celui qui rétablit l'ordre fonctionnel, qui discerne et ordonne. *Shofet kol haʾarets* ("le **shofet** de toute la Terre") — titre de souveraineté cosmique universelle de **YHWH** en *Bereshit* 18:25. Le titre du livre *Shoftim* résonne directement : les **shoftim** d'Israël sont ceux qui exercent le **mishpat** de **YHWH** dans l'histoire concrète. Pluriel : **shoftim**. Premier emploi en *Bereshit* 18:25. |
 | שְׁאוֹל | *Sheʾol* | **Sheʾol** | Intraduisible. Le domaine bas où descendent les morts — non pas « l'enfer » (lieu de tourment, catégorie grecque/chrétienne tardive) ni « le séjour des morts » édulcoré. Le lieu du silence et de l'attente sous la Terre, où descend tout mort — **tsadiq** comme **rashaʿ** — dans la cosmologie hébraïque (§6). Opposé structurel de la montée de l'âme grecque : on descend au **Sheʾol**, on ne s'envole pas. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
-| תְּשׁוּבָה | *teshuvah* | **teshuvah** | Intraduisible. De *shuv* (שׁוּב) : se retourner, revenir. Le mouvement de retour vers **YHWH** **Elohim** — se réorienter vers la présence quittée. Non pas « repentance » (culpabilité subjective, §4.7) ni « pénitence » (mérite/satisfaction). Même logique fonctionnelle qu'**emunah** — une posture relationnelle, non un sentiment. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| תְּשׁוּבָה | *teshuvah* | **teshuvah** | Intraduisible. De *shuv* (שׁוּב) : se retourner, revenir. Le mouvement de retour vers **YHWH** **ʾElohim** — se réorienter vers la présence quittée. Non pas « repentance » (culpabilité subjective, §4.7) ni « pénitence » (mérite/satisfaction). Même logique fonctionnelle qu'**ʾemunah** — une posture relationnelle, non un sentiment. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
 | הַשָּׂטָן | *ha-satan* | **ha-satan** | Intraduisible. De *satan* (שָׂטָן) : accuser, s'opposer. **ha-satan** = *l'*accusateur, une ==fonction== du Conseil Divin (*Iyov* 1-2 ; *Zekharyah* 3) — non un nom propre : l'article défini « ha- » l'atteste. Non le « Satan » dualiste (dieu rival, principe métaphysique du mal), ni le serpent d'Eden (qui reste le *nachash* fonctionnel). Sa capacité à se transfigurer en lumière est corroborée par Shaul (2 Co 11:14). Traitement définitif réservé à *Iyov* ; introduit provisoirement en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
-| טְבִילָה | *tevilah* | **tevilah** | Intraduisible. De *taval* (טָבַל) : plonger, immerger. L'immersion de retour — passer par les eaux pour se retourner vers **YHWH** **Elohim** : le mouvement de la **teshuvah** rendu par le corps. Non « baptême » (catégorie chrétienne tardive) ni « pénitence » (mérite). Le mikveh du Second Temple ; l'immersion de Yohanan « pour la teshuvah » (Mc 1:4). Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
-| מֶרְכָּבָה | *merkavah* | **merkavah** | Intraduisible. De *rakhav* (רָכַב) : monter (un char). Le ==trône-char== de **YHWH** **Elohim**, contemplé en vision — Yehezqel (Ez 1), mode de la traversée architecturale (Nistarot) ; Shaul ravi au troisième ciel (2 Co 12). Non un « chariot » ordinaire. Premier emploi en corps de texte en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
-| גַּן | *gan* | Jardin | De *ganan* (גָּנַן) — ==protéger, entourer==. Un espace ==clos et gardé==, non « la nature » : il a des bords, on peut en être chassé. Planté par **YHWH** **Elohim**, et confié à l'**adam** pour qu'il le ==serve== et le ==garde== — deux verbes du service sacerdotal. Non *paradeisos*, le parc royal perse dont le grec a fait un séjour d'après la mort. |
+| טְבִילָה | *tevilah* | **tevilah** | Intraduisible. De *taval* (טָבַל) : plonger, immerger. L'immersion de retour — passer par les eaux pour se retourner vers **YHWH** **ʾElohim** : le mouvement de la **teshuvah** rendu par le corps. Non « baptême » (catégorie chrétienne tardive) ni « pénitence » (mérite). Le mikveh du Second Temple ; l'immersion de Yohanan « pour la teshuvah » (Mc 1:4). Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| מֶרְכָּבָה | *merkavah* | **merkavah** | Intraduisible. De *rakhav* (רָכַב) : monter (un char). Le ==trône-char== de **YHWH** **ʾElohim**, contemplé en vision — Yehezqel (Ez 1), mode de la traversée architecturale (Nistarot) ; Shaul ravi au troisième ciel (2 Co 12). Non un « chariot » ordinaire. Premier emploi en corps de texte en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| גַּן | *gan* | Jardin | De *ganan* (גָּנַן) — ==protéger, entourer==. Un espace ==clos et gardé==, non « la nature » : il a des bords, on peut en être chassé. Planté par **YHWH** **ʾElohim**, et confié à l'**ʾadam** pour qu'il le ==serve== et le ==garde== — deux verbes du service sacerdotal. Non *paradeisos*, le parc royal perse dont le grec a fait un séjour d'après la mort. |
 | זֶרַע | *zeraʿ* | semence | Ce qui contient de quoi se continuer. Dit ==à la fois la graine et la descendance==, sans que l'hébreu sépare les deux — et c'est ce qui rend la promesse à Avraham lisible : le mot qui nomme le grain nomme la lignée. |
 | תּוֹלְדוֹת | *toledot* | engendrements | De *yalad* (יָלַד) — enfanter. ==La formule qui structure tout *Bereshit*== : non une liste de noms mais ==ce qui est sorti de==. S'applique aussi aux Cieux et à la Terre (*Bereshit* 2:4), ce qui interdit d'y voir une simple généalogie. |
 | עֶרֶב | *erev* | soir | De *arav* (עָרַב) — ==se mêler== : le moment où les contours cessent d'être distincts. Non une position du soleil, ==une phase de la distinction== — ce qui est cohérent avec une Lumière posée trois jours avant les luminaires. |
@@ -1585,9 +1563,9 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | רֶמֶשׂ | *remes* | rampants | De *ramas* — se mouvoir au ras du sol. |
 | חַיָּה | *chayah* | bêtes sauvages | La vitalité brute, la force animale non domestiquée. |
 | נְפִילִים | *nefilim* | **Nefilim** | Intraduisible. De *napal* (נָפַל) — tomber. Ceux qui sont tombés, ceux qui font tomber, ou les êtres de la chute : ==l'ambiguïté est délibérément maintenue==, le texte ne tranche pas. Jamais « géants » — la Septante a lu *gigantes* et l'imagerie a suivi, mais le mot ne dit rien de la taille. Ce sont des êtres ==sans identité fonctionnelle== : ni gardiens des Cieux ni serviteurs de la Terre, un poids déplacé entre les domaines que le franchissement de *Bereshit* 6:1-4 a produit. Leur écho traverse le corpus — les **gibborim** du même verset, les ==Refaim== de *Bereshit* 14, ==Nimrod== « inauguration du **gibbor** » en *Bereshit* 10:8, et tout le *Sefar Gibbaraya*. Premier emploi *Bereshit* 6:4. Laissé en hébreu. |
-| גִּבֹּר | *gibbor* | **gibbor** | Intraduisible. De *gabar* (גָּבַר) — l'emporter, prévaloir. Celui dont la force brute fait le poids dans l'ordre des hommes. Non « héros » (l'excellence grecque) ni « vaillant » (vertu morale) : le **gibbor** ne pèse ni par la sagesse ni par la fidélité, seulement par sa capacité de contrainte. Pluriel **gibborim** ; le corpus écrit aussi *gibor*. Équivalent araméen **gibbaraya**, titre du livre n° 37. *Bereshit* 6:4 les nomme *anshei ha-shem* — « les hommes du **Shem** » : leur renom est un **Shem** de démesure, non d'ordre, et c'est ce que le *Sefar Gibbaraya* retourne en plaçant ==Gilgamesh== parmi eux. Premier emploi *Bereshit* 6:4. Laissé en hébreu. |
-| זָכָר | *zakhar* | mâle | Terme ==fonctionnel et biologique==, non social. Employé pour les animaux comme pour l'humain, et c'est le point : *Bereshit* 1:27 ne décrit pas des rôles mais ==une capacité d'engendrer==. Distinct d'**ish**, qui dit la relation. |
-| נְקֵבָה | *neqevah* | femelle | De *naqav* (נָקַב) — ==percer==. Terme fonctionnel apparié à *zakhar*, et employé de même pour les bêtes. Distinct d'**ishah** comme *zakhar* l'est d'**ish** : ==le couple biologique n'est pas le couple relationnel==. |
+| גִּבֹּר | *gibbor* | **gibbor** | Intraduisible. De *gabar* (גָּבַר) — l'emporter, prévaloir. Celui dont la force brute fait le poids dans l'ordre des hommes. Non « héros » (l'excellence grecque) ni « vaillant » (vertu morale) : le **gibbor** ne pèse ni par la sagesse ni par la fidélité, seulement par sa capacité de contrainte. Pluriel **gibborim** ; le corpus écrit aussi *gibor*. Équivalent araméen **gibbarayaʾ**, titre du livre n° 37. *Bereshit* 6:4 les nomme *anshei ha-shem* — « les hommes du **Shem** » : leur renom est un **Shem** de démesure, non d'ordre, et c'est ce que le *Sefar Gibbaraya* retourne en plaçant ==Gilgamesh== parmi eux. Premier emploi *Bereshit* 6:4. Laissé en hébreu. |
+| זָכָר | *zakhar* | mâle | Terme ==fonctionnel et biologique==, non social. Employé pour les animaux comme pour l'humain, et c'est le point : *Bereshit* 1:27 ne décrit pas des rôles mais ==une capacité d'engendrer==. Distinct d'**ʾish**, qui dit la relation. |
+| נְקֵבָה | *neqevah* | femelle | De *naqav* (נָקַב) — ==percer==. Terme fonctionnel apparié à *zakhar*, et employé de même pour les bêtes. Distinct d'**ʾishah** comme *zakhar* l'est d'**ʾish** : ==le couple biologique n'est pas le couple relationnel==. |
 | מְאֹרֹת | *meorot* | luminaires | De *or* (אוֹר), la Lumière du premier jour — ==mais ce ne sont pas la même chose==. Le verset 3 inaugure l'Ordre ; les *meorot* sont ==les instruments par lesquels il se mesure==. Délibérément non nommés « soleil » et « lune », qui sont des noms de divinités chez les voisins (§4.3). |
 
 ### 3.4 Les formes verbales hébraïques (*binyanim*)
@@ -1768,7 +1746,7 @@ Quand le texte hébreu lui-même ne commente pas une scène, les gloses doivent 
 
 Certains nombres hébreux sont des **unités fonctionnelles**, non des durées physiques exactes. Signaler dans les gloses leur valeur fonctionnelle à leur première occurrence dans chaque contexte.
 
-- **40** (*arbaʿim* / אַרְבָּעִים) — unité de transformation : la durée qu'il faut pour qu'une réalité se transforme fondamentalement. 40 jours de pluie (Gn 7), 40 ans au désert, 40 jours de Moïse sur la montagne. Signaler : *[quarante — unité fonctionnelle hébraïque de la période de transformation]*.
+- **40** (*ʾarbaʿim* / אַרְבָּעִים) — unité de transformation : la durée qu'il faut pour qu'une réalité se transforme fondamentalement. 40 jours de pluie (Gn 7), 40 ans au désert, 40 jours de Moïse sur la montagne. Signaler : *[quarante — unité fonctionnelle hébraïque de la période de transformation]*.
 - **7** (*shevaʿ* / שֶׁבַע) — unité de plénitude et d'accomplissement.
 
 ### 4.11 Restituer les ambiguïtés — ne pas résoudre ce que le texte ne résout pas
@@ -2166,11 +2144,11 @@ Les Fondations verrouillées sont la référence stylistique et terminologique a
 - **Bereshit 11** (Genèse 11:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terach, *aqarah* (stérilité de Sarai), Charan personne / Charan ville (homonymie délibérée).
 - **Bereshit 12** (Genèse 12:1-20) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-12.md` — *lekh-lekha* (ambiguïté maintenue), promesse à Avraham, *vayera* (mode de la révélation aux patriarches), *zera* (premier emploi dans la promesse), *niverekhu* (passif ou réflexif — ambiguïté maintenue), descente en Égypte, *negaʿim* (écho de Shemot).
 - **Bereshit 13** (Genèse 13:1-18) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh baʾarets*, Chevron comme premier ancrage durable.
-- **Bereshit 14** (Genèse 14:1-24) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **El Elyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim vaʾarets*, *ha-ivri* (double étymologie maintenue), *baʿalei berit*, *maʿaser* (ambiguïté du sujet maintenue), identification **YHWH**-**El Elyon** par Avram (v.22).
-- **Bereshit 15** (Genèse 15:1-21) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-15.md` — *berith bein habetarim*, **emunah** (intraduisible — verbe *heʾemin* rendu "**emuna**"), **tsedaqah** (premier emploi — forme nominale de *tsedeq*), **tsadiq** (déjà posé en Bereshit 6:9), *machazeh* (vision intérieure, distinct de *vayera*), *tardemah* (écho délibéré de Bereshit 2:21), *ger* (premier emploi — étranger résident sans droits), *avon* (premier emploi — torsion structurelle, distinct de *chata* et *ra*), *berith* unilatérale confirmée (seul **YHWH** passe entre les morceaux), prophétie de l'exil et ambiguïté 400 ans / quatrième génération maintenue.
-- **Bereshit 16** (Genèse 16:1-16) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-16.md` — **malʾakh** **YHWH** (premier emploi — intraduisible, ambiguïté délibérée entre le **malʾakh** et **YHWH** maintenue), **El Roï** (premier emploi — unique dans toute la Bible, donné par Hagar), Hagar (*ger* sans droits — première occurrence d'un personnage non-hébreu central), Ishmaʿel ("El entend"), Beer-lachai-roi, *shifchah* vs *amah*, ambiguïté de *acharei roʿi* (v.13b — trois lectures maintenues sans résolution).
-- **Bereshit 17** (Genèse 17:1-27) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-17.md` — **El Shaddai** (premier emploi — accompagne les moments où **YHWH** accomplit l'impossible humain), **milah** (premier emploi — l'inscription covenantale dans la chair), **orlah** / **arel** (premier emploi — portée métaphorique large : cœur, lèvres, fruit), **goyim** / **goy** (actif dans la promesse : *av hamon goyim*), Avram → Avraham / Sarai → Sarah (reformulation des **Shem** covenantaux : possessif particulier → souverain universel), *tamim* = "intègre" (cohérence avec Noach en *Bereshit* 6:9), *karet* (retranchement du peuple — sanction la plus grave du droit divin), formule covenantale *lihyot lekha l'Elohim* (v.7 — le nom cosmique comme engagement de relation personnelle).
-- **Bereshit 18** (Genèse 18:1-33) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-18.md` — **mishpat** / **mishpatim** (premier emploi — l'acte de jugement concret dans l'ordre cosmique ; *tsedaqah umishpat* posé en v.19), **rashaʿ** / **reshaʿim** (premier emploi — opposé fonctionnel de **tsadiq**, paire constitutive du droit divin hébraïque), **shofet** / **shoftim** (premier emploi — même racine que **mishpat** ; *shofet kol haʾarets* titre de souveraineté cosmique universelle ; écho vers le livre *Shoftim*), ambiguïté des trois **ish** maintenue (jamais nommés **malʾakhim** dans ce texte — titre donné seulement en *Bereshit* 19:1), *zeʿaqah* (cri judiciaire de l'opprimé — déclenche la descente du **mishpat**), intercession 50→10 (Avraham demande un **mishpat** complet, non sa suspension).
+- **Bereshit 14** (Genèse 14:1-24) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **ʾEl ʿElyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim vaʾarets*, *ha-ivri* (double étymologie maintenue), *baʿalei berit*, *maʿaser* (ambiguïté du sujet maintenue), identification **YHWH**-**ʾEl ʿElyon** par Avram (v.22).
+- **Bereshit 15** (Genèse 15:1-21) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-15.md` — *berith bein habetarim*, **ʾemunah** (intraduisible — verbe *heʾemin* rendu "**ʾemuna**"), **tsedaqah** (premier emploi — forme nominale de *tsedeq*), **tsadiq** (déjà posé en Bereshit 6:9), *machazeh* (vision intérieure, distinct de *vayera*), *tardemah* (écho délibéré de Bereshit 2:21), *ger* (premier emploi — étranger résident sans droits), *avon* (premier emploi — torsion structurelle, distinct de *chata* et *ra*), *berith* unilatérale confirmée (seul **YHWH** passe entre les morceaux), prophétie de l'exil et ambiguïté 400 ans / quatrième génération maintenue.
+- **Bereshit 16** (Genèse 16:1-16) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-16.md` — **malʾakh** **YHWH** (premier emploi — intraduisible, ambiguïté délibérée entre le **malʾakh** et **YHWH** maintenue), **ʾEl Roï** (premier emploi — unique dans toute la Bible, donné par Hagar), Hagar (*ger* sans droits — première occurrence d'un personnage non-hébreu central), Ishmaʿel ("El entend"), Beer-lachai-roi, *shifchah* vs *amah*, ambiguïté de *acharei roʿi* (v.13b — trois lectures maintenues sans résolution).
+- **Bereshit 17** (Genèse 17:1-27) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-17.md` — **ʾEl Shaddai** (premier emploi — accompagne les moments où **YHWH** accomplit l'impossible humain), **milah** (premier emploi — l'inscription covenantale dans la chair), **ʿorlah** / **ʿarel** (premier emploi — portée métaphorique large : cœur, lèvres, fruit), **goyim** / **goy** (actif dans la promesse : *av hamon goyim*), Avram → Avraham / Sarai → Sarah (reformulation des **Shem** covenantaux : possessif particulier → souverain universel), *tamim* = "intègre" (cohérence avec Noach en *Bereshit* 6:9), *karet* (retranchement du peuple — sanction la plus grave du droit divin), formule covenantale *lihyot lekha l'Elohim* (v.7 — le nom cosmique comme engagement de relation personnelle).
+- **Bereshit 18** (Genèse 18:1-33) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-18.md` — **mishpat** / **mishpatim** (premier emploi — l'acte de jugement concret dans l'ordre cosmique ; *tsedaqah umishpat* posé en v.19), **rashaʿ** / **reshaʿim** (premier emploi — opposé fonctionnel de **tsadiq**, paire constitutive du droit divin hébraïque), **shofet** / **shoftim** (premier emploi — même racine que **mishpat** ; *shofet kol haʾarets* titre de souveraineté cosmique universelle ; écho vers le livre *Shoftim*), ambiguïté des trois **ʾish** maintenue (jamais nommés **malʾakhim** dans ce texte — titre donné seulement en *Bereshit* 19:1), *zeʿaqah* (cri judiciaire de l'opprimé — déclenche la descente du **mishpat**), intercession 50→10 (Avraham demande un **mishpat** complet, non sa suspension).
 
 ---
 
@@ -2187,7 +2165,7 @@ Sept termes étaient écrits `**...**`, donc **déclarés intraduisibles**, sans
 | terme | issue |
 |---|---|
 | `tsadiqim` | forme dérivée de **tsadiq** — rattachée à sa puce, retombe sur `lexique/tsadiq.md` |
-| `nashim` | forme dérivée d'**ishah** (pluriel absolu, à côté de `neshei`) |
+| `nashim` | forme dérivée d'**ʾishah** (pluriel absolu, à côté de `neshei`) |
 | `tsedaqah umishpat` | construit apparié, déclaré sous **tsedaqah** comme **yirat YHWH** sous **yirah** |
 | `Tov vara` | construit de l'arbre (*Bereshit* 2:9), déclaré sous **tov** — les deux graphies, il ouvre parfois la phrase |
 | `shaliachim` | **faute d'orthographe**, pas un arbitrage : le §2.5 fixe `shlichim`. Deux occurrences corrigées |
@@ -2196,7 +2174,7 @@ Sept termes étaient écrits `**...**`, donc **déclarés intraduisibles**, sans
 
 **La question posée sur `shifchah` était incomplète, et il faut le noter.** Le §13 le donnait pour une occurrence isolée dans un titre. En ouvrant le chapitre, le pied verrouillé de *Bereshit* 16 portait la décision **inverse** — « traduit "servante" avec niveau 3 » — et le corps s'y tenait sur huit occurrences. Le titre contredisait son propre chapitre. L'auteur a maintenu l'intraduisible en connaissance de la reprise que cela demandait. *Un relevé qui compte les balises ne voit pas les décisions déjà prises autour d'elles.*
 
-**`chataʾah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattat* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chata** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
+**`chataʾah` a entraîné sa racine entière.** Lui écrire une entrée posait la question de *chata* (« dévier ») et *chattat* (« la déviation »), tous deux traduits : garder un mot en hébreu et ses voisins en français aurait été le vrai défaut. L'auteur a tranché pour l'hébreu entier, ==verbe compris== — **chataʾ** est le premier verbe intraduisible de l'ONT, et la décision a été prise en connaissance du précédent qu'elle ouvre.
 
 **Réglé le 20 août 2026 — `Nefilim`, `gibbor` / `gibborim` / `gibor`.** Issue A
 pour les trois : ce sont de vrais intraduisibles, désormais au §2.5 et au §3.3.

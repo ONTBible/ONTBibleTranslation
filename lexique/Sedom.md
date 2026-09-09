@@ -12,7 +12,7 @@
 
 Sa présence ici est ==un pur repère de frontière== : la liste des limites du territoire kenaʿani la nomme au passage, sans un mot de plus.
 
-Et c'est ce qui rend sa mention frappante quand on connaît la suite. ==Elle sera détruite en *Bereshit* 18-19==, avec [[Amorah]], après le *zeʿaqah* qui monte d'elle et l'intercession d'[[Avraham]] — cinquante **tsadiqim**, puis quarante-cinq, jusqu'à dix.
+Et c'est ce qui rend sa mention frappante quand on connaît la suite. ==Elle sera détruite en *Bereshit* 18-19==, avec [[ʿAmorah]], après le *zeʿaqah* qui monte d'elle et l'intercession d'[[ʾAvraham]] — cinquante **tsadiqim**, puis quarante-cinq, jusqu'à dix.
 
 Le corpus la nomme ici ==sans charge==. Comme pour [[Bavel]], ==la charge s'accumule à travers le corpus== : le texte pose un nom neutre, et revient bien plus tard le remplir.
 
@@ -20,6 +20,6 @@ C'est une manière de faire qu'il faut connaître pour lire ce chapitre : ==ne p
 
 ## Voir aussi
 
-Sa jumelle : [[Amorah]], et avec elles [[Admah]] et [[Tsevoim]].
+Sa jumelle : [[ʿAmorah]], et avec elles [[ʾAdmah]] et [[Tsevoim]].
 
 Où le corpus la reprend : *Bereshit* 13 quand Lot y descend, *Bereshit* 14 pour la guerre des rois, *Bereshit* 18-19 pour le **mishpat**.

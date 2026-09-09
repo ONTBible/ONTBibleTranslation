@@ -16,7 +16,7 @@ Elle ne désigne pas une vertu qu'on posséderait. Notre justice est une qualit�
 
 Elle va toujours avec le **mishpat**, et c'est le couple qu'il faut tenir : la ==tsedaqah== est ==l'ordre juste==, le **mishpat** est ==la décision qui le rétablit== quand il s'est rompu. L'un est l'état, l'autre l'acte. Le français a fondu les deux dans « justice », et il n'en dit plus aucun.
 
-C'est ce qui rend lisible la scène la plus étonnante du corpus sur ce point. ==Avram== n'a rien fait — pas d'exploit, pas de sacrifice, pas de promesse. Il s'est appuyé. Et le texte dit que **YHWH** ==le lui compta comme tsedaqah==, avec le verbe du comptable qui inscrit une somme dans une colonne. L'acte d'**emunah** entre au registre de l'ordre juste.
+C'est ce qui rend lisible la scène la plus étonnante du corpus sur ce point. ==Avram== n'a rien fait — pas d'exploit, pas de sacrifice, pas de promesse. Il s'est appuyé. Et le texte dit que **YHWH** ==le lui compta comme tsedaqah==, avec le verbe du comptable qui inscrit une somme dans une colonne. L'acte d'**ʾemunah** entre au registre de l'ordre juste.
 
 Ni un mérite gagné, ni un cadeau sans rapport avec ce qu'on fait : ==une inscription==, portée par un autre. La distinction paraît subtile et elle a occupé des siècles de théologie — qui discutaient d'ailleurs sur une traduction, « justice », dont ni l'un ni l'autre des deux mots hébreux ne portait le sens.
 

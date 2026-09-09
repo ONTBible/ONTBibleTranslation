@@ -16,7 +16,7 @@ De *shalach* (*shalach* / שָׁלַח) — ==envoyer, lancer==. C'est le même 
 
 Son **Shem** est donc ==un mouvement orienté vers==, et sa place dans la lignée le confirme.
 
-Il est ==le maillon entre [[Arpakhshad]] et [[Ever]]== — le chaînon par lequel la ligne centrale du corpus passe pour arriver à la désignation *ivri*.
+Il est ==le maillon entre [[ʾArpakhshad]] et [[ʿEver]]== — le chaînon par lequel la ligne centrale du corpus passe pour arriver à la désignation *ivri*.
 
 Le texte ne dit rien de lui : ni acte, ni parole, ni durée qui frappe. Il ==transmet==, et son nom dit exactement cela.
 
@@ -24,6 +24,6 @@ Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoi
 
 ## Voir aussi
 
-Sa maison : [[Arpakhshad]] son père, [[Ever]] son fils ; plus haut [[Shem-fils-de-Noach]].
+Sa maison : [[ʾArpakhshad]] son père, [[ʿEver]] son fils ; plus haut [[Shem-fils-de-Noach]].
 
 Ce que son **Shem** touche : **shaliach**, et le **malʾakh** — tous deux définis par l'envoi, non par la nature.

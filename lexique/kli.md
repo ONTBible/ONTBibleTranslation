@@ -36,20 +36,20 @@ Voici ce qui rend le **kli** central, bien au-delà de l'atelier.
 
 La **Ruach** de **YHWH** ==ne se pose jamais sans **kli**==. Le corpus ne la
 montre pas une seule fois flottant à l'état libre. Elle cherche toujours quelque
-chose sur quoi reposer — un **navi**, une tente, un sol, une montagne, un
+chose sur quoi reposer — un **naviʾ**, une tente, un sol, une montagne, un
 **qahal**.
 
 Ce n'est pas une faiblesse. C'est ==la condition même de la perceptibilité==.
 Pour qu'une chose entre dans le regard de quelqu'un, il faut qu'elle ait quelque
 chose de perceptible ; et le **kli**, c'est exactement ça.
 
-D'où la conséquence, qui touche l'**olam** :
+D'où la conséquence, qui touche l'**ʿolam** :
 
 > ==Ce qui change le régime de perceptibilité n'est pas la chose regardée. C'est
 > le **kli** qui regarde.==
 
-Une chose peut être dans l'**olam** pour toi et pas pour moi, ==sans avoir
-bougé==. Ce qui diffère est notre constitution. Le **navi** ne voit pas parce
+Une chose peut être dans l'**ʿolam** pour toi et pas pour moi, ==sans avoir
+bougé==. Ce qui diffère est notre constitution. Le **naviʾ** ne voit pas parce
 qu'on lui a montré davantage : il voit parce que ==son **kli** est constitué
 autrement==. La fiche `lexique/olam.md` déplie ce point ; le mot qui le porte est
 celui-ci.
@@ -71,8 +71,8 @@ aptitude==.
 ## Ce sur quoi cette fiche repose
 
 *Shemot* 25-31 et 35-40, où les **kelim** du Mishkan sont commandés puis faits ;
-le vocabulaire des *klei ha-qodesh* ; et la question de l'**olam** telle que
-l'auteur l'a formulée — l'**olam** est fonction du regard, jamais objet du
+le vocabulaire des *klei ha-qodesh* ; et la question de l'**ʿolam** telle que
+l'auteur l'a formulée — l'**ʿolam** est fonction du regard, jamais objet du
 regard, donc ==du **kli**==.
 
 Le locus définitif est *Shemot*, qui n'est pas écrit. La fiche sera reprise quand

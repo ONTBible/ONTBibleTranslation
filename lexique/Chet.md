@@ -12,11 +12,11 @@ Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 ## Ce que le corpus en fait
 
-Sa scène est l'une des plus importantes du cycle d'[[Avraham]], et elle est commerciale.
+Sa scène est l'une des plus importantes du cycle d'[[ʾAvraham]], et elle est commerciale.
 
-*Bereshit* 23 : [[Sarai]] meurt, et [[Avraham]] ==négocie avec les fils de Chet== la caverne où l'enterrer. Il pèse l'argent, il fait le compte devant témoins, il achète.
+*Bereshit* 23 : [[Sarai]] meurt, et [[ʾAvraham]] ==négocie avec les fils de Chet== la caverne où l'enterrer. Il pèse l'argent, il fait le compte devant témoins, il achète.
 
-C'est ==le premier et le seul acte de propriété d'[[Avraham]] dans la terre promise==, et il l'obtient ==auprès des fils de [[Kenaʿan]]==.
+C'est ==le premier et le seul acte de propriété d'[[ʾAvraham]] dans la terre promise==, et il l'obtient ==auprès des fils de [[Kenaʿan]]==.
 
 La tension est entière et le corpus la laisse entière : ==la terre promise à la lignée de [[Shem-fils-de-Noach]] est habitée, et il faut l'acheter==. Celui à qui tout le pays est donné n'y possède qu'un tombeau, payé au prix fort.
 

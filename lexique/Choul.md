@@ -18,4 +18,4 @@ Ce qu'on peut en dire tient au **Shem** seul, et il faut se garder d'en tirer tr
 
 ## Voir aussi
 
-Sa maison : [[Aram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[Oust]], [[Geter]], [[Mash]].
+Sa maison : [[ʾAram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[ʿOust]], [[Geter]], [[Mash]].

@@ -469,7 +469,7 @@ embarqués — décision qui appartient au site, mais que le vault déclenche.
 **Source : le vault.** Les fiches d'intraduisibles étaient engendrées depuis
 `ONTBibleTranslation/CLAUDE.md`, qui est une *référence de traduction* : le
 lecteur qui touchait un mot d'or recevait l'arbitrage du traducteur — deux
-phrases pour **Elohim**, 238 octets pour **YHWH**, trois lignes de médiane.
+phrases pour **ʾElohim**, 238 octets pour **YHWH**, trois lignes de médiane.
 L'explication au lecteur vit désormais dans **`lexique/<lemme>.md`** (§2.5 ter).
 
 **Pour l'app :** `pipeline/src/reference.rs` lit ce dossier et **recouvre le
@@ -1036,8 +1036,8 @@ suit vaut pour les trois dépôts.
 
 **Ce que le vault a décidé.** Les sept termes que le pipeline signalait balisés
 sans entrée de glossaire sont réglés, et deux décisions dépassent le balisage :
-**shifchah** devient intraduisible, et surtout la famille **chata** passe
-entière en hébreu — **chata** est le ==premier verbe intraduisible de l'ONT==,
+**shifchah** devient intraduisible, et surtout la famille **chataʾ** passe
+entière en hébreu — **chataʾ** est le ==premier verbe intraduisible de l'ONT==,
 tous les verbes du §3.1 étaient traduits jusqu'ici. Le §2.3 reçoit par ailleurs
 l'argument d'exactitude sur le registre : « Chapitre 7 » pour une unité qui
 couvre *Bereshit* 7 et 8 est un intitulé faux, pas une commodité.
@@ -1311,7 +1311,7 @@ remplacer ferait cesser d'être reconnues toutes les installations de test.
 
 Pour le **vault** : rien à corriger. Les astérisques des décisions
 terminologiques viennent de l'analyseur du pipeline, qui ne sait pas ouvrir une
-emphase juste avant un gras — `***Elohim** / …*` est du Markdown valide. Le
+emphase juste avant un gras — `***ʾElohim** / …*` est du Markdown valide. Le
 mot d'or s'appelle alors littéralement `*Elohim`, vingt-six fois dans
 *bereshit*. Le lien de la fiche reste juste ; seul l'affichage est faux.
 
@@ -3363,7 +3363,7 @@ affirmation :
 #### Ce que le vault a décidé d'autre, et qui traverse
 
 - **La couche des Shemot distingue un `Shem` d'identité d'un `Shem` de
-  fonction.** Le critère est le surplus : un **navi** excède sa mission, un
+  fonction.** Le critère est le surplus : un **naviʾ** excède sa mission, un
   **malʾakh** ==est== sa mission sans reste. ==La marque ne bouge pas== — l'app
   et le site gardent la terre brûlée et la zone touchable, l'espace chaud étant
   saturé sous ΔE 25. C'est la ==fiche== qui déclare qu'elle nomme une charge et
@@ -3503,8 +3503,8 @@ trois, par paragraphe.
     balayage atomique         0             juste
 
 Un lien de **Shem** voisine les mêmes caractères qu'une glose et produit des
-faux positifs ==dans les deux sens== : `*[[Enosh]]` est une italique ouvrant sur
-un lien, `[[Avraham]]*` un lien fermant une italique, et `*[[[Amrafel]] …]*` une
+faux positifs ==dans les deux sens== : `*[[ʾEnosh]]` est une italique ouvrant sur
+un lien, `[[ʾAvraham]]*` un lien fermant une italique, et `*[[[ʾAmrafel]] …]*` une
 ==vraie== glose ouvrant sur un lien. Aucun délimiteur ne les sépare.
 
 > **Un instrument plus fin n'est pas un instrument plus juste.**

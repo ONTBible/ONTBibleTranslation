@@ -18,16 +18,16 @@ Le français fait de l'ombre un manque de lumière. L'hébreu en fait ==un abri=
 
 ## L'ombre qui enfante le tranchant
 
-Seconde des deux **ishah** de [[Lamekh-fils-de-Metoushael]], nommée après [[Adah]]. Comme elle, son **Shem** dit une qualité perçue et non une fonction.
+Seconde des deux **ʾishah** de [[Lamekh-fils-de-Metoushael]], nommée après [[ʿAdah]]. Comme elle, son **Shem** dit une qualité perçue et non une fonction.
 
 Elle enfante [[Tuval-Qayin]], celui qui aiguise tout instrument de bronze et de fer, et [[Naʿamah]], dont on ne dit rien.
 
 Posez les deux faits l'un contre l'autre : ==celle dont le nom dit l'abri met au monde celui qui donne aux hommes les lames==. Le texte n'établit aucun lien, et il serait imprudent d'en fabriquer un — mais il a mis ces mots-là dans cette phrase-là, et le lecteur hébreu les entendait tous les deux.
 
-C'est devant elle et devant [[Adah]] que son **ish** chante avoir tué pour une blessure. Les deux femmes dont les noms disent ==la parure et la protection== écoutent le premier poème de sang du corpus.
+C'est devant elle et devant [[ʿAdah]] que son **ʾish** chante avoir tué pour une blessure. Les deux femmes dont les noms disent ==la parure et la protection== écoutent le premier poème de sang du corpus.
 
 ## Voir aussi
 
-Sa maison : [[Lamekh-fils-de-Metoushael]] son **ish**, [[Adah]] l'autre **ishah**, [[Tuval-Qayin]] et [[Naʿamah]] ses enfants.
+Sa maison : [[Lamekh-fils-de-Metoushael]] son **ʾish**, [[ʿAdah]] l'autre **ʾishah**, [[Tuval-Qayin]] et [[Naʿamah]] ses enfants.
 
-Ce que son **Shem** touche : celui d'[[Adah]] et celui de [[Naʿamah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.
+Ce que son **Shem** touche : celui d'[[ʿAdah]] et celui de [[Naʿamah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.

@@ -20,5 +20,5 @@ Quatrième de la coalition, il disparaît avec elle.
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

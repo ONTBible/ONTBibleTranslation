@@ -18,6 +18,6 @@ Le corpus ne les reprend pas ailleurs sous cette forme. Ce qu'ils tiennent dans 
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Anamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[ʿAnamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
 
 Le **Shem** voisin, dans l'autre lignée : [[Loud]].

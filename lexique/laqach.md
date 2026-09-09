@@ -21,7 +21,7 @@ C'est un mot ordinaire. On l'emploie pour prendre du bois, prendre une femme,
 prendre une ville. Rien d'exalté : ==quelqu'un tend la main et prend==.
 
 Et c'est précisément parce qu'il est ordinaire qu'il porte ce qu'il porte.
-L'hébreu ne réserve pas un vocabulaire spécial à la constitution d'un **navi**.
+L'hébreu ne réserve pas un vocabulaire spécial à la constitution d'un **naviʾ**.
 Il emploie ==le verbe de tous les jours==, et cela dit ce qu'il faut : ==il n'y
 a pas eu de négociation==.
 
@@ -41,16 +41,16 @@ Le **laqach** ne fait rien de tout cela. ==Il prend.==
 
 ## Ce que ça décide du navi
 
-De là suit ce qui distingue un **navi** de ce que nous appelons un métier.
+De là suit ce qui distingue un **naviʾ** de ce que nous appelons un métier.
 
 Son identité ne vient pas de ce qu'il fait, ni de ce qu'il sait, ni d'une
 formation reçue. ==Elle vient d'avoir été saisi==, et elle ne dépend donc de rien
 qu'il puisse acquérir ou perdre.
 
-> ==Le **navi** est avant de faire.==
+> ==Le **naviʾ** est avant de faire.==
 
 C'est aussi ce qui explique une chose qui déconcerte : il peut ==se tromper sur
-une parole particulière== sans cesser d'être **navi**. Son identité tient à la
+une parole particulière== sans cesser d'être **naviʾ**. Son identité tient à la
 saisie, ses paroles restent vérifiables. ==L'être est invariant, les actes sont
 contrôlables.==
 

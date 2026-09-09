@@ -14,7 +14,7 @@ Le français a un seul verbe pour deux gestes que l'hébreu sépare. ==Savoir qu
 
 ## Le verset qui met tout le monde mal à l'aise
 
-*Bereshit* 4:1 : l'**adam** ==yada== son **ishah**, et elle conçut.
+*Bereshit* 4:1 : l'**ʾadam** ==yada== sa **ʾishah**, et elle conçut.
 
 Les traducteurs y ont vu une pudeur — un euphémisme pour ne pas dire l'acte. ==C'est l'inverse.== Le mot n'adoucit rien : il dit exactement ce qu'il veut dire.
 

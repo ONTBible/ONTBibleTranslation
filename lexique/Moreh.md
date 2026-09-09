@@ -54,7 +54,7 @@ qu'il a lui-même reçu — il forme des **kelim**, des vases aptes à recevoir.
 
 ## Sa place parmi les cinq
 
-C'est une des cinq dimensions du **navi**, et elle est ==celle qui reste après
+C'est une des cinq dimensions du **naviʾ**, et elle est ==celle qui reste après
 lui==.
 
 Le **mevaser** porte au dehors, le **chozeh** pénètre ce qui est voilé, le

@@ -20,4 +20,4 @@ Sa présence dans la liste de [[Yoqtan]] témoigne de ==la complexité religieus
 
 ## Voir aussi
 
-Sa maison : [[Yoqtan]] son père, [[Ever]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.

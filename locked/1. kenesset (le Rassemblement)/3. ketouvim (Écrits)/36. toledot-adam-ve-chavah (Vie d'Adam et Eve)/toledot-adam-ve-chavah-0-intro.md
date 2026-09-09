@@ -63,8 +63,8 @@ Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade 
 |---|---|---|
 | La **kavod** perdue | la nudité découverte n'est pas celle du corps mais le dépouillement de la gloire fonctionnelle | *kol kevod Adam* — Qumrân (1QS 4:22-23 ; CD 3:20 ; 1QHᵃ 4:14-15) ; 4Q504 ; Ben Sira 49:16 |
 | *Rupture → mort* | la mort entrée par la **chattat** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Yovelim* 4:29-30 |
-| *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Yovelim* 8:19 ([[Eden]] = Saint des Saints) ; 4:29 |
-| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**adam** dé-glorifié — le négatif de *radah* | *Bereshit* 1:26-28 |
+| *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Yovelim* 8:19 ([[ʿEden]] = Saint des Saints) ; 4:29 |
+| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**ʾadam** dé-glorifié — le négatif de *radah* | *Bereshit* 1:26-28 |
 | *La transmission* | [[Shet]] garde la mémoire de la gloire perdue | Josèphe, *Ant.* 1.70-71 |
 
 Le motif de la **kavod** perdue est le centre de gravité : retrouvé verbatim en hébreu à Qumrân, il prouve que la reconstruction *recouvre* un réel plutôt qu'elle ne le projette.
@@ -79,17 +79,17 @@ Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que
 
 ## Plan
 
-*Arc central (V1) :* ① la maladie d'Adam et le rassemblement des enfants → ② la quête du remède et la bête → ③ le témoignage de [[Chavah]] (la **kavod** perdue) → ④ la mort et l'ensevelissement d'Adam en [[Eden]] → ⑤ la mort de [[Chavah]].
+*Arc central (V1) :* ① la maladie d'Adam et le rassemblement des enfants → ② la quête du remède et la bête → ③ le témoignage de [[Chavah]] (la **kavod** perdue) → ④ la mort et l'ensevelissement d'Adam en [[ʿEden]] → ⑤ la mort de [[Chavah]].
 
 *Arc complet (au-delà de la V1) :* en amont, le monde alourdi après l'expulsion et la lignée ([[Qayin]], [[Hevel]], [[Shet]]) ; en aval, les tablettes de [[Shet]] — le livre comme mémoire consignée.
 
 ## Repères
 
 - **Sheʾol** (*Sheʾol* / שְׁאוֹל) — *intraduisible neuf*, introduit par ce livre : le domaine des morts dans l'attente, non « l'enfer ».
-- **teshuvah** (*teshuvah* / תְּשׁוּבָה) — *intraduisible neuf* : le retour, le réalignement vers la présence quittée — non « repentance » (culpabilité) ni « pénitence » (mérite). Parallèle à **emunah**.
+- **teshuvah** (*teshuvah* / תְּשׁוּבָה) — *intraduisible neuf* : le retour, le réalignement vers la présence quittée — non « repentance » (culpabilité) ni « pénitence » (mérite). Parallèle à **ʾemunah**.
 - **ha-satan** (*ha-satan* / הַשָּׂטָן) — **intraduisible neuf (provisoire — définitif à *Iyov*)** : l'accusateur, la *fonction* d'accusation du Conseil ; l'article « ha- » marque la fonction, non un nom propre. Retrouvé sous le grec via le mapping Septante ↔ Kenesset.
 - **tevilah** (*tevilah* / טְבִילָה) — *intraduisible neuf* : l'immersion de retour (le mikveh ; l'immersion de Yohanan, Marqus 1:4) — non « baptême » ni « bain ».
-- **merkavah** (*merkavah* / מֶרְכָּבָה) — *intraduisible* : le trône-char de **YHWH** **Elohim** vu en vision (Yehezqel, Ez 1) — déjà nommé au CLAUDE.md ; premier emploi en corps de texte ici.
+- **merkavah** (*merkavah* / מֶרְכָּבָה) — *intraduisible* : le trône-char de **YHWH** **ʾElohim** vu en vision (Yehezqel, Ez 1) — déjà nommé au CLAUDE.md ; premier emploi en corps de texte ici.
 - [[Mikhaʾel]] — *premier envoyé céleste nommé de l'ONT* : nom propre (sans gras), fonctionnellement un **malʾakh** (non « ange »).
 - *Noms propres* (Adam, [[Chavah]], [[Shet]], [[Hevel]], [[Qayin]]) — sans gras, niveau 3 + glose à la première occurrence.
 - *Fondations parallèles* : *Bereshit* 2 (Eden-Temple, *Neshamah*, *ish* / *ishah*) et *Bereshit* 3 (le *nachash*, *tov vara*, la nudité, les [[Keruvim]], l'arbre de la Vie).

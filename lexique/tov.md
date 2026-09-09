@@ -8,9 +8,9 @@ Un homme prend une lame et l'essaie sur une branche. Elle coupe net. Il dit : ==
 
 Garde ce geste, parce que c'est lui qui revient sept fois dans la première page.
 
-À chaque étape, **Elohim** ==examine== — le verbe est celui du regard qui vérifie, pas de l'admiration — et constate : ==tov==. Ce n'est pas un compliment adressé à son propre ouvrage. C'est le ==contrôle d'un ajustement== : la séparation tient, le domaine est peuplé de ce qui lui convient, la chose occupe la place qui est la sienne. On dirait, dans un atelier : *ça marche*.
+À chaque étape, **ʾElohim** ==examine== — le verbe est celui du regard qui vérifie, pas de l'admiration — et constate : ==tov==. Ce n'est pas un compliment adressé à son propre ouvrage. C'est le ==contrôle d'un ajustement== : la séparation tient, le domaine est peuplé de ce qui lui convient, la chose occupe la place qui est la sienne. On dirait, dans un atelier : *ça marche*.
 
-D'où l'étrangeté de la seule fois où le mot manque. Après le sixième jour, tout a été déclaré ==tov==, et voici que **YHWH** **Elohim** dit ==lo tov== — pas ajusté — que l'adam soit seul. Rien n'est cassé, rien n'a mal tourné : il manque quelque chose pour que cela fonctionne. Le premier défaut du monde n'est pas une faute, c'est une ==incomplétude==.
+D'où l'étrangeté de la seule fois où le mot manque. Après le sixième jour, tout a été déclaré ==tov==, et voici que **YHWH** **ʾElohim** dit ==lo tov== — pas ajusté — que l'adam soit seul. Rien n'est cassé, rien n'a mal tourné : il manque quelque chose pour que cela fonctionne. Le premier défaut du monde n'est pas une faute, c'est une ==incomplétude==.
 
 Voilà pourquoi « bon » ne convient pas, et pourquoi « bien » est pire encore. Ces mots-là traînent avec eux une morale — le bien opposé au mal, une échelle de valeurs, un jugement porté sur une conduite. Le ==tov== ne juge personne : il ==constate un fonctionnement==. Un or est ==tov== quand il est pur ; un arbre est ==tov== pour la nourriture quand il nourrit ; une terre est ==tov== quand elle porte.
 

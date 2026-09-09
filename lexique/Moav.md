@@ -14,7 +14,7 @@
 
 C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tsoʿar]].
 
-Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
+Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ʾish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
 
 Le texte raconte ==sans une ligne de jugement==, et c'est ce qui rend le passage si dur à lire. Il ne dit pas que c'est bien, il ne dit pas que c'est mal. ==Il dit ce qui a été fait, et il nomme les enfants.==
 

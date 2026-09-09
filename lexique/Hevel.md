@@ -26,12 +26,12 @@ C'est un silence délibéré, et la règle de l'ONT est de ne pas le combler. On
 
 Puis il est tué, et le récit fait une chose que rien ne préparait.
 
-Son sang ==crie== depuis l'*adamah* (*adamah* / אֲדָמָה). Le sol qui l'a bu devient témoin, et le cri monte. Celui dont le **Shem** dit ce qui ne se retient pas est le seul de ce chapitre dont la voix ne s'éteint pas.
+Son sang ==crie== depuis l'*adamah* (*ʾadamah* / אֲדָמָה). Le sol qui l'a bu devient témoin, et le cri monte. Celui dont le **Shem** dit ce qui ne se retient pas est le seul de ce chapitre dont la voix ne s'éteint pas.
 
-Le corpus s'en souviendra longtemps. *Toledot Adam ve-Chavah* reprend la scène — le sang versé hors de sa place, le sol concret devenu témoin — et en tire que le **chata** entré au Jardin ==atteignit les fils==. La rupture ne reste pas où elle a commencé.
+Le corpus s'en souviendra longtemps. *Toledot Adam ve-Chavah* reprend la scène — le sang versé hors de sa place, le sol concret devenu témoin — et en tire que le **chataʾ** entré au Jardin ==atteignit les fils==. La rupture ne reste pas où elle a commencé.
 
 ## Voir aussi
 
 Sa maison : [[Chavah]] qui l'enfante, [[Qayin]] son frère, [[Shet]] qui lui est ==posé à sa place==.
 
-Ce que son **Shem** touche : la *minchah* qu'il apporte, la **chattat** tapie à la porte de son frère, et le **chata** dont *Toledot* dit qu'il atteignit les fils.
+Ce que son **Shem** touche : la *minchah* qu'il apporte, la **chattat** tapie à la porte de son frère, et le **chataʾ** dont *Toledot* dit qu'il atteignit les fils.

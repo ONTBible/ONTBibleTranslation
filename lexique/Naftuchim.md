@@ -22,6 +22,6 @@ La géopolitique réelle d'un pays à deux terres est donc ==inscrite dans la g�
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Patrusim]], [[Kasluchim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[ʿAnamim]], [[Lehabim]], [[Patrusim]], [[Kasluchim]].
 
 Son pendant du midi : [[Patrusim]], la Haute Mitsrayim.

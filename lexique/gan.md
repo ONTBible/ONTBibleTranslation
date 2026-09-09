@@ -18,9 +18,9 @@ Trois choses, et chacune se voit dans le récit.
 
 ==Il a une limite.== Un *gan* a des bords, donc un dedans et un dehors. On peut en être chassé, ce qui n'aurait aucun sens pour une étendue sans bornes.
 
-==Il est planté.== Le corpus dit que **YHWH** **Elohim** *plante* un *gan*. Ce n'est pas un lieu trouvé, c'est ==un lieu disposé==, avec une intention sur chaque chose qui s'y trouve.
+==Il est planté.== Le corpus dit que **YHWH** **ʾElohim** *plante* un *gan*. Ce n'est pas un lieu trouvé, c'est ==un lieu disposé==, avec une intention sur chaque chose qui s'y trouve.
 
-==Il est confié.== L'**adam** y est placé pour le *servir* et le *garder* — deux verbes qui reviendront pour le service du sanctuaire. Il n'y est pas locataire : il y ==tient un office==.
+==Il est confié.== L'**ʾadam** y est placé pour le *servir* et le *garder* — deux verbes qui reviendront pour le service du sanctuaire. Il n'y est pas locataire : il y ==tient un office==.
 
 ## Pourquoi ce n'est pas un décor
 

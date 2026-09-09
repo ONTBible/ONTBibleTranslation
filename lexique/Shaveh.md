@@ -14,14 +14,14 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 C'est ==là que tout converge==, et le chapitre y place ses deux scènes décisives.
 
-[[Avraham]] revient de la poursuite. Le roi de [[Sedom]] sort à sa rencontre ==dans la vallée de Shaveh==.
+[[ʾAvraham]] revient de la poursuite. Le roi de [[Sedom]] sort à sa rencontre ==dans la vallée de Shaveh==.
 
-Et [[Malki-tsedeq]], roi de [[Shalem]], y sort aussi — avec ==du pain et du vin== —, et il le dote au nom de **El Elyon**.
+Et [[Malki-tsedeq]], roi de [[Shalem]], y sort aussi — avec ==du pain et du vin== —, et il le dote au nom de **ʾEl ʿElyon**.
 
-Deux rois viennent au même endroit. ==L'un apporte, l'autre propose un partage.== [[Avraham]] reçoit du premier, donne le dixième de tout, et ne prend rien du second.
+Deux rois viennent au même endroit. ==L'un apporte, l'autre propose un partage.== [[ʾAvraham]] reçoit du premier, donne le dixième de tout, et ne prend rien du second.
 
 Le corpus met les deux rencontres dans la même vallée et ne les commente pas. ==La disposition est le commentaire.==
 
 ## Voir aussi
 
-Qui s'y rencontre : [[Avraham]], [[Beraʿ]] roi de [[Sedom]], et [[Malki-tsedeq]] roi de [[Shalem]].
+Qui s'y rencontre : [[ʾAvraham]], [[Beraʿ]] roi de [[Sedom]], et [[Malki-tsedeq]] roi de [[Shalem]].

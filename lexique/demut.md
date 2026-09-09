@@ -12,7 +12,7 @@ Le mot vient à côté de **tselem**, dans la même phrase, et l'on croit d'ordi
 
 ==Demut== (*Demut* / דְּמוּת) ferme cette porte. Il dit la ==conformité à la manière d'être== de celui qu'on représente : non pas une ressemblance de traits, mais ==une ressemblance de façon==. Un représentant qui gouvernerait autrement que son roi trahit sa fonction, même s'il occupe correctement son poste.
 
-C'est donc l'inverse de ce qu'on cherche d'ordinaire dans cette phrase. On y cherche ce qui, en nous, ressemblerait à **Elohim** — la raison, la conscience, la liberté, l'âme —, et l'on part en quête d'une qualité intérieure. Le mot ne parle pas de l'intérieur. Il parle de ==la manière dont on exerce une charge==.
+C'est donc l'inverse de ce qu'on cherche d'ordinaire dans cette phrase. On y cherche ce qui, en nous, ressemblerait à **ʾElohim** — la raison, la conscience, la liberté, l'âme —, et l'on part en quête d'une qualité intérieure. Le mot ne parle pas de l'intérieur. Il parle de ==la manière dont on exerce une charge==.
 
 Ce qui rend le reste du récit lisible comme un examen. Comment l'homme **radah**-t-il sur le vivant ? Comment tient-il le Jardin qu'on lui a confié à *avad* et *shamar* ? Comment nomme-t-il ce qui lui est présenté ? À chaque fois, la question n'est pas ce qu'il est mais ==comment il fait== — et c'est là que la ==demut== se vérifie ou se perd.
 

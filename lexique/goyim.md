@@ -14,4 +14,4 @@ Car ce qui suit est une promesse. Quand **YHWH** dit à ==Avram== qu'il sera le 
 
 Le mot vaut d'ailleurs pour Israël lui-même, et le corpus ne s'en cache pas : il est appelé un **goy** quand il est question de sa constitution comme peuple. Ce n'est pas une catégorie du dehors — c'est la forme normale de l'existence collective.
 
-Ce qui donne son poids à la scène du *Sefar Gibbaraya*, où ==Gilgamesh== est rangé parmi les **gibbaraya** jugés : ce que les ==goyim== chantent en héros, le texte le classe parmi la démesure. La critique ne porte pas sur les peuples — elle porte sur ce qu'ils élèvent.
+Ce qui donne son poids à la scène du *Sefar Gibbaraya*, où ==Gilgamesh== est rangé parmi les **gibbarayaʾ** jugés : ce que les ==goyim== chantent en héros, le texte le classe parmi la démesure. La critique ne porte pas sur les peuples — elle porte sur ce qu'ils élèvent.

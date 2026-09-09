@@ -23,4 +23,4 @@ Et l'ambiguïté est ==délibérée==. Le ==malʾakh== de **YHWH** parle tantôt
 
 Le corpus tient une règle serrée là-dessus. Quand un envoyé céleste reçoit un ==Shem== propre — ==Mikhaʾel==, ==Rafaʾel== —, ce nom est un nom propre et non un titre : il ne cesse pas d'être un ==malʾakh== pour autant. La fonction reste, le nom s'ajoute.
 
-C'est aussi ce qui donne son poids à la scène la plus dénuée du corpus. Une esclave égyptienne, sans droits, enceinte, en fuite dans un désert. Le ==malʾakh== de **YHWH** la trouve près d'une source — et c'est elle, ==Hagar==, qui donnera à **YHWH** un nom que personne d'autre ne lui donne dans toute la Bible : **El Roï**, l'El qui me voit.
+C'est aussi ce qui donne son poids à la scène la plus dénuée du corpus. Une esclave égyptienne, sans droits, enceinte, en fuite dans un désert. Le ==malʾakh== de **YHWH** la trouve près d'une source — et c'est elle, ==Hagar==, qui donnera à **YHWH** un nom que personne d'autre ne lui donne dans toute la Bible : **ʾEl Roï**, l'El qui me voit.

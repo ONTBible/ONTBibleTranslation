@@ -16,7 +16,7 @@ Ce n'est pas nous qui le disons. C'est le nom que le témoin lui donne, et l'hé
 
 Rien. C'est tout le propos.
 
-[[Avraham]] le trouve ==déjà tombé==, face contre terre, aux pieds d'un dieu de fer. Personne ne l'a renversé. Il est trop lourd pour qu'un enfant le relève seul ; il faut deux hommes, et pendant qu'ils le soulèvent, ==la tête lui reste dans la main==.
+[[ʾAvraham]] le trouve ==déjà tombé==, face contre terre, aux pieds d'un dieu de fer. Personne ne l'a renversé. Il est trop lourd pour qu'un enfant le relève seul ; il faut deux hommes, et pendant qu'ils le soulèvent, ==la tête lui reste dans la main==.
 
 Alors [[Terach]] demande une hache. Il taille un corps neuf dans une autre pierre, y pose la tête tombée, et broie le reste. Ce qui se tient debout à la fin n'est plus rien de ce qui était là — et porte pourtant le même nom.
 

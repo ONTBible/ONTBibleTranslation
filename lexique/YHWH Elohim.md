@@ -10,15 +10,15 @@ Pour *Elohim* : *é-lo-HIM*, trois syllabes, accent sur la dernière. Le *h* est
 
 ## Deux noms qu'on ne trouve pas ensemble
 
-(*YHWH Elohim* / יְהוָה אֱלֹהִים) — vingt fois de suite en *Bereshit* 2 et 3, puis presque plus jamais dans toute la Torah.
+(*YHWH ʾElohim* / יְהוָה אֱלֹהִים) — vingt fois de suite en *Bereshit* 2 et 3, puis presque plus jamais dans toute la Torah.
 
-Il faut sentir l'étrangeté avant d'en chercher la raison. Le corpus vient de passer un récit entier — *Bereshit* 1 — à dire **Elohim**, et seulement **Elohim** : trente-cinq fois, sans une exception. Puis, au verset 4, ==les deux noms se collent==, et ils ne se décolleront plus jusqu'à la sortie du Jardin.
+Il faut sentir l'étrangeté avant d'en chercher la raison. Le corpus vient de passer un récit entier — *Bereshit* 1 — à dire **ʾElohim**, et seulement **ʾElohim** : trente-cinq fois, sans une exception. Puis, au verset 4, ==les deux noms se collent==, et ils ne se décolleront plus jusqu'à la sortie du Jardin.
 
 ## Ce que chacun apporte
 
 Tenez-vous devant le récit qui précède.
 
-**Elohim** est celui qui ==ordonne le cosmos==. Il sépare, il nomme, il assigne. Il ne s'adresse à personne : il formule, et la chose advient. C'est le nom d'une fonction souveraine, et il ne suppose ==aucun vis-à-vis==.
+**ʾElohim** est celui qui ==ordonne le cosmos==. Il sépare, il nomme, il assigne. Il ne s'adresse à personne : il formule, et la chose advient. C'est le nom d'une fonction souveraine, et il ne suppose ==aucun vis-à-vis==.
 
 **YHWH**, lui, est ==un nom propre==. On ne l'a pas encore reçu — il ne sera expliqué qu'à [[Mosheh]] devant le buisson, et le §7 de l'ONT réserve cette explication à son lieu. Mais on peut déjà voir ce qu'il fait dans une phrase : c'est le nom par lequel ==quelqu'un peut être appelé==.
 
@@ -26,7 +26,7 @@ Tenez-vous devant le récit qui précède.
 
 Regardez ce qui change entre les deux récits, sans rien ajouter au texte.
 
-En *Bereshit* 1, **Elohim** parle et cela est. En *Bereshit* 2, **YHWH Elohim** ==façonne de la poussière avec ses mains==, ==souffle dans des narines==, ==plante un jardin==, ==fait passer les bêtes devant l'homme pour voir comment il les appellera==, ==marche dans le jardin à la brise du jour==, ==coud des tuniques de peau==.
+En *Bereshit* 1, **ʾElohim** parle et cela est. En *Bereshit* 2, **YHWH Elohim** ==façonne de la poussière avec ses mains==, ==souffle dans des narines==, ==plante un jardin==, ==fait passer les bêtes devant l'homme pour voir comment il les appellera==, ==marche dans le jardin à la brise du jour==, ==coud des tuniques de peau==.
 
 Ce n'est pas un autre dieu. C'est ==le même, à portée de voix==.
 
@@ -36,7 +36,7 @@ Et la formule dit exactement cela : ==celui qui a ordonné le cosmos est celui q
 
 Elle cesse quand ils sortent du Jardin. Après quoi le corpus emploie l'un ou l'autre, selon ce qu'il raconte — et la répartition n'est ni un hasard ni la trace de deux mains, comme on l'a longtemps dit : c'est ==une différence de registre==.
 
-Le seul endroit où les deux redeviennent inséparables est celui où la proximité et la souveraineté ==doivent être tenues ensemble== : l'espace où **Elohim** et l'homme habitent le même lieu.
+Le seul endroit où les deux redeviennent inséparables est celui où la proximité et la souveraineté ==doivent être tenues ensemble== : l'espace où **ʾElohim** et l'homme habitent le même lieu.
 
 ## Ce que cette fiche ne fait pas
 
@@ -50,6 +50,6 @@ Elle ne traite pas **YHWH**. Le §7 de l'ONT range *Shemot* 3:1-15 — *ehyeh as
 
 Le nom propre : **YHWH**, dont le traitement définitif attend *Shemot* 3.
 
-Le titre de maîtrise : **Adonai** — *mon seigneur*, de *adon*. C'est lui qu'on prononce à la place des quatre lettres, et il paraît pour la première fois dans la bouche d'[[Avram]], en *Bereshit* 15:2, quand il demande à quoi bon tout cela s'il reste sans descendance. Le premier homme qui appelle **YHWH** *Adonai* le fait ==pour se plaindre==.
+Le titre de maîtrise : **ʾAdonai** — *mon seigneur*, de *adon*. C'est lui qu'on prononce à la place des quatre lettres, et il paraît pour la première fois dans la bouche d'[[ʾAvram]], en *Bereshit* 15:2, quand il demande à quoi bon tout cela s'il reste sans descendance. Le premier homme qui appelle **YHWH** *Adonai* le fait ==pour se plaindre==.
 
-Le nom d'ordonnance : **Elohim**, et le pluriel à accord singulier qu'il porte.
+Le nom d'ordonnance : **ʾElohim**, et le pluriel à accord singulier qu'il porte.

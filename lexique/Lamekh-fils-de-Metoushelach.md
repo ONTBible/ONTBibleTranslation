@@ -28,7 +28,7 @@ Le rapprochement est le vrai sujet de cette fiche, parce que le corpus l'a const
 
 Les deux ==Lamekh== sont les seuls hommes d'avant le **mabbul** à qui le texte prête une parole développée. Et ce sont ==deux paroles opposées==.
 
-Celui de la ligne de [[Qayin]] chante : *j'ai tué un **ish** pour ma blessure* — il s'attribue une protection qu'on ne lui a pas donnée et la multiplie par onze.
+Celui de la ligne de [[Qayin]] chante : *j'ai tué un **ʾish** pour ma blessure* — il s'attribue une protection qu'on ne lui a pas donnée et la multiplie par onze.
 
 Celui-ci dit : *celui-ci nous soulagera*. L'un se venge, l'autre attend d'être **nacham**. Le même **Shem**, deux façons de se tenir dans un monde qui résiste.
 

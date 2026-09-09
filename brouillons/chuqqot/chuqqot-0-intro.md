@@ -14,25 +14,25 @@ Elles ne sont pas des articles. Chacune se tient debout seule, et pourtant
 aucune n'est complète sans les autres — parce que toutes disent ==une facette
 d'une même chose==.
 
-## Cette chose est l'**olam**
+## Cette chose est l'**ʿolam**
 
-Décision de l'auteur : le corpus des chuqqot est ordonné autour de l'**olam**,
+Décision de l'auteur : le corpus des chuqqot est ordonné autour de l'**ʿolam**,
 et chaque chuqqah en éclaire une part.
 
-Ce n'est pas un thème choisi. C'est que l'**olam** ==commande tout le reste== :
-si l'**olam** est le fait qu'il y ait quelque chose qui échappe à un regard
+Ce n'est pas un thème choisi. C'est que l'**ʿolam** ==commande tout le reste== :
+si l'**ʿolam** est le fait qu'il y ait quelque chose qui échappe à un regard
 donné, alors toute question sur ce qui se montre, sur ce qui se cache, sur qui
-peut voir quoi et à quelle condition, est une question d'**olam** — et il n'y en
+peut voir quoi et à quelle condition, est une question d'**ʿolam** — et il n'y en
 a guère d'autres.
 
 ## L'ordre, et pourquoi celui-là
 
 | rang | identifiant | ce qu'elle ajoute |
 |---|---|---|
-| 1 | *l-olam-est-un-regard* | la fondation : l'**olam** n'est pas un lieu, c'est un rapport |
-| 2 | *yhwh-ha-maqom* | celui qui n'a aucun **olam**, parce qu'il est le lieu où tout **olam** se tient |
+| 1 | *l-olam-est-un-regard* | la fondation : l'**ʿolam** n'est pas un lieu, c'est un rapport |
+| 2 | *yhwh-ha-maqom* | celui qui n'a aucun **ʿolam**, parce qu'il est le lieu où tout **ʿolam** se tient |
 | 3 | *les-quatre-modes-de-presence* | comment celui-là se rend perceptible sans cesser de l'être |
-| 4 | *les-malakhim-et-l-olam-prete* | la deuxième strate : un **olam** emprunté, puis rendu |
+| 4 | *les-malakhim-et-l-olam-prete* | la deuxième strate : un **ʿolam** emprunté, puis rendu |
 | 5 | *le-navi-et-l-olam-d-argile* | le **kli** humain — et le **basar** comme puissance, non comme prison |
 | 6 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
 
@@ -43,7 +43,7 @@ finissent par diverger==. Sans rang explicite, l'ordre serait celui de
 l'alphabet — c'est-à-dire un ordre quand même, mais que personne n'aurait choisi.
 
 L'ordre va ==du rapport vers ceux qui l'habitent==. On pose d'abord ce qu'est
-l'**olam**, puis celui qui n'en a pas, puis les façons dont il se rend
+l'**ʿolam**, puis celui qui n'en a pas, puis les façons dont il se rend
 perceptible, puis les êtres que ces façons emploient, puis enfin la structure
 qui rend tout cela nécessaire.
 

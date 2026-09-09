@@ -14,7 +14,7 @@ L'ONT garde les deux formes plutôt que d'en imposer une, comme il garde les amb
 
 ## Ce que le corpus en fait
 
-Frère d'[[Ohyah]], et *gibbar* comme lui.
+Frère d'[[ʾOhyah]], et *gibbar* comme lui.
 
 Ils sont les deux figures que le livre suit — ==ceux qui rêvent et qui ne comprennent pas==. Le drame ne leur est pas raconté du dehors : ==ils y sont dedans==, et ils cherchent.
 
@@ -22,7 +22,7 @@ Et c'est ce qui rend la scène de [[Mahaway]] si particulière. Ce ne sont pas d
 
 ## Voir aussi
 
-Son frère : [[Ohyah]].
+Son frère : [[ʾOhyah]].
 
 Sa graphie voisine : [[Ahyah]].
 

@@ -59,7 +59,7 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 | slavon | grec | hébreu source | rendu ONT |
 |---|---|---|---|
 | *slava* | δόξα | כָּבוֹד | **kavod** *(intraduisible, déjà au glossaire)* |
-| *vekъ* / *vecy* | αἰών | עוֹלָם | **olam** — et le construit translittéré en entier (§3) |
+| *vekъ* / *vecy* | αἰών | עוֹלָם | **ʿolam** — et le construit translittéré en entier (§3) |
 | *pravda* | δικαιοσύνη | צְדָקָה | **tsedaqah** *(posé en Bereshit 15)* |
 | *zavetъ* | διαθήκη | בְּרִית | **berith** |
 | *anđelъ* | ἄγγελος | מַלְאָךְ | **malʾakh** *(posé en Bereshit 16)* |
@@ -73,12 +73,12 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 | *kolesnica* | ἅρμα | מֶרְכָּבָה | **merkavah** *(posé en Toledot)* |
 | *životnaja* | ζῷα | חַיּוֹת | *chayot* — les vivants de Yehezqel 1 |
 | *kolesa* (pleins d'yeux) | τροχοί | אוֹפַנִּים | *ophanim* |
-| *žrьtva* | θυσία | עֹלָה / זֶבַח | **olah** si elle monte, *zevach* si elle est égorgée — trancher au contexte |
+| *žrьtva* | θυσία | עֹלָה / זֶבַח | **ʿolah** si elle monte, *zevach* si elle est égorgée — trancher au contexte |
 | *neizrečennyj* | ἄρρητος | — | **voir §D.4 : décision d'auteur** |
 
 **Trois pièges nommés :**
 
-- ***vekъ* est un piège majeur.** Le réflexe est de rendre « siècle » ou « éternité ». Or la chaîne donne **olam** — déjà intraduisible au glossaire, avec sa règle de rendu du construit. Quand El dit à Avraham « je te montrerai les **olamim** » (ch. 9) et quand le livre se clôt sur « une heure de l'**olam** » (ch. 32), c'est le terme du §3 qui parle : *la limite temporelle que le regard humain ne peut pas discerner*. La traduction française classique (« les âges », « le siècle ») a effacé un intraduisible ONT. C'est le gain le plus net de tout le mapping.
+- ***vekъ* est un piège majeur.** Le réflexe est de rendre « siècle » ou « éternité ». Or la chaîne donne **ʿolam** — déjà intraduisible au glossaire, avec sa règle de rendu du construit. Quand El dit à Avraham « je te montrerai les **olamim** » (ch. 9) et quand le livre se clôt sur « une heure de l'**ʿolam** » (ch. 32), c'est le terme du §3 qui parle : *la limite temporelle que le regard humain ne peut pas discerner*. La traduction française classique (« les âges », « le siècle ») a effacé un intraduisible ONT. C'est le gain le plus net de tout le mapping.
 - ***rai* est le piège déjà connu.** « Paradis » fut glissé au corps de *Toledot* sans contrôle ; sa source est **gan**. Ici le ch. 21 montre le Jardin dans le tableau : c'est un contexte édénique, donc **le Jardin**, sans hésitation.
 - ***duša* au pluriel.** Le ch. 22 parle de ceux « préparés pour naître » de la descendance d'Avraham. Si le slavon y met *duši*, la tentation est la préexistence des âmes — catégorie grecque, §4.7. Voir Motif 11 : la structure du passage est celle du **lot** assigné, non celle d'une âme qui attend d'être incarnée.
 
@@ -96,7 +96,7 @@ Le slavon d'église a été forgé au IXᵉ siècle *pour traduire le grec bibli
 
 **Verdict : NOYAU ANCIEN**, et parmi les mieux corroborés du livre — dont un témoin *à l'intérieur du corpus ONT*.
 
-**Mais un point de rendu décisif.** L'échelle du ch. 7 *ressemble* à une preuve cosmologique grecque — la *theologia naturalis*, l'ascension du sensible vers l'intelligible. Elle ne l'est pas, et tout le rendu dépend de bien le voir. Une preuve grecque démontre **qu'un être existe**, en remontant des effets à la cause. Avraham, lui, ne demande pas *qui existe* : il demande **qui assigne les fonctions**. Son critère à chaque échelon est fonctionnel — le feu échoue parce que l'eau l'éteint, le soleil échoue parce qu'il se couche : *aucun ne tient sa fonction sans dépendre d'un autre*. C'est exactement le raisonnement de *Bereshit* 1, pris à l'envers : là, **Elohim** assigne aux luminaires leur fonction de gouverner le temps ; ici, Avraham constate qu'un luminaire gouverné n'est pas celui qui gouverne. Le livre démythologise les astres **par le dedans** (§4.3), et il le fait exactement comme *Bereshit* 1:16 le fait en ne les nommant pas.
+**Mais un point de rendu décisif.** L'échelle du ch. 7 *ressemble* à une preuve cosmologique grecque — la *theologia naturalis*, l'ascension du sensible vers l'intelligible. Elle ne l'est pas, et tout le rendu dépend de bien le voir. Une preuve grecque démontre **qu'un être existe**, en remontant des effets à la cause. Avraham, lui, ne demande pas *qui existe* : il demande **qui assigne les fonctions**. Son critère à chaque échelon est fonctionnel — le feu échoue parce que l'eau l'éteint, le soleil échoue parce qu'il se couche : *aucun ne tient sa fonction sans dépendre d'un autre*. C'est exactement le raisonnement de *Bereshit* 1, pris à l'envers : là, **ʾElohim** assigne aux luminaires leur fonction de gouverner le temps ; ici, Avraham constate qu'un luminaire gouverné n'est pas celui qui gouverne. Le livre démythologise les astres **par le dedans** (§4.3), et il le fait exactement comme *Bereshit* 1:16 le fait en ne les nommant pas.
 
 À rendre donc sans un mot du registre de la démonstration : Avraham ne prouve pas, il **discerne**. Le gain est double, car c'est aussi ce qui sauve le passage de l'accusation d'hellénisme.
 
@@ -170,7 +170,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 - ***Shemot* 23:20-21** — « J'envoie un **malʾakh** devant toi… ne te rebelle pas contre lui, car **mon Shem est en lui** ». C'est **le substrat exact**, et il est dans la Torah.
 - ***Bereshit* 16** (ONT verrouillé) — le **malʾakh** **YHWH** qui parle tantôt en son nom, tantôt comme **YHWH** lui-même : *l'ambiguïté est déjà posée et maintenue* dans le corpus ONT.
 - **Yehezqel 1:26-28 ; Daniel 10:5-6** — la description de ch. 11 est bâtie sur ces deux passages (les pierres, le lin, l'or, l'arc-en-ciel).
-- **11QMelchisédeq** (Qumrân) — Melchisédeq comme figure céleste exerçant le **mishpat** d'**Elohim**, appelée *elohim* dans son propre texte : un être céleste porteur d'attributs divins est une réalité attestée du Second Temple, pas une dérive tardive.
+- **11QMelchisédeq** (Qumrân) — Melchisédeq comme figure céleste exerçant le **mishpat** d'**ʾElohim**, appelée *elohim* dans son propre texte : un être céleste porteur d'attributs divins est une réalité attestée du Second Temple, pas une dérive tardive.
 - **Le nom lui-même** — *Yahoʾel* = YHW + El. Un composé qui **ne se forme qu'en hébreu** et qui *dit sa propre fonction* : il porte les deux noms. C'est aussi, incidemment, une des meilleures preuves internes de l'original hébreu.
 
 **Verdict : NOYAU ANCIEN pour la fonction** — le **malʾakh** en qui le **Shem** habite est directement torahique (*Shemot* 23:21), et l'ONT a déjà maintenu cette ambiguïté en *Bereshit* 16. La description de ch. 11 est composée de Yehezqel et Daniel : fidèle, dérivée, admissible.
@@ -185,9 +185,9 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 
 **Triangulation :**
 - ***Bereshit* 15:11** (ONT verrouillé) — *« le rapace descendit sur les corps, et Avram le chassa »*. Le livre **identifie** le rapace anonyme de la Torah. Toute la scène est une exégèse de ce demi-verset.
-- **1 *Chanokh* 8-10** — Azazel, chef des **irin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
+- **1 *Chanokh* 8-10** — Azazel, chef des **ʿirin**, qui livre les secrets et à qui le décret est signifié ; il est lié et jeté dans le désert.
 - ***Vayiqra* 16:8-10, 26** — le lot pour Azazel, le bouc envoyé au désert. **Non encore traité dans l'ONT.**
-- ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **irin**, sans gras.
+- ***Sefar Gibbaraya*** (ONT verrouillé) — Azazel est déjà nommé dans les *Repères*, comme nom propre d'un des **ʿirin**, sans gras.
 
 **Verdict : NOYAU ANCIEN.** La cohérence est remarquable : la Torah pose un lot pour Azazel *au désert*, 1 *Chanokh* l'y fait lier, et ce livre le fait parler *depuis la terre* à un homme monté vers les hauteurs. Le même être, la même assignation : **le domaine bas**. C'est de l'ontologie fonctionnelle pure — Azazel n'est pas défini par une nature mauvaise mais par **un lot, un domaine assigné**, exactement comme le **malʾakh** est défini par son envoi et non par sa nature (§3).
 
@@ -204,7 +204,7 @@ Le quarantième jour de jeûne (ch. 9, 12) est en revanche une **amplification**
 - **✓ Qumrân, hébreu, verbatim** — *kol kevod Adam*, « toute la **kavod** d'Adam » : **1QS 4:22-23**, **CD 3:20**, **1QHᵃ 4:14-15**. Une **kavod** perdue et **à recouvrer**, attribuée à la communauté fidèle.
 - ***Bereshit* 7-8** (ONT verrouillé) — la logique **kavod** / *qalal* : la pesanteur fonctionnelle qu'on peut alléger sans la vider.
 
-**Verdict : NOYAU ANCIEN — et pièce maîtresse du livre.** Le *Chazon Avraham* fait à Avraham ce que *Toledot* fait à Adam : la **kavod** est un **vêtement fonctionnel qui se perd et se recouvre**, et qui *change de porteur*. Mieux : les deux livres se répondent. Adam perd la **kavod** ; Avraham la reçoit — et il reçoit précisément celle qu'un être du domaine haut a quittée en quittant son lot. La logique du **Sefar Gibbaraya** est là aussi (les **irin** qui abandonnent leur garde), et elle boucle : *ce qu'on quitte, un autre le reçoit ; la fonction ne reste jamais vacante.*
+**Verdict : NOYAU ANCIEN — et pièce maîtresse du livre.** Le *Chazon Avraham* fait à Avraham ce que *Toledot* fait à Adam : la **kavod** est un **vêtement fonctionnel qui se perd et se recouvre**, et qui *change de porteur*. Mieux : les deux livres se répondent. Adam perd la **kavod** ; Avraham la reçoit — et il reçoit précisément celle qu'un être du domaine haut a quittée en quittant son lot. La logique du **Sefar Gibbaraya** est là aussi (les **ʿirin** qui abandonnent leur garde), et elle boucle : *ce qu'on quitte, un autre le reçoit ; la fonction ne reste jamais vacante.*
 
 C'est le motif à mettre au centre de la feuille d'introduction. Il fait tenir ensemble les trois livres du corpus étendu déjà écrits.
 
@@ -280,14 +280,14 @@ Ce n'est donc pas un cas de filtrage : c'est un cas d'**extension du §6**. Deux
 - ***Bereshit* 3** (ONT **verrouillé**) — le *nachash* y est **la plus rusée des bêtes du champ**, traité **fonctionnellement**. C'est une décision prise et verrouillée.
 - ***Toledot Adam ve-Chavah*, Motif 3** (ONT verrouillé) — verdict explicite : *« Décision structurante : ne pas faire du serpent un Satan dans le corps. »*
 - ***Toledot*, ré-audit par la Berit Hadashah** — la ligne « serpent = **ha-satan** » y est laissée **« à trancher avec l'auteur »**, corroborée par *Machazeh Yohanan* 12:9 (« l'antique serpent »), mais en tension avec *Bereshit* 3.
-- **1 *Chanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **irin**, non celui d'Eden.
+- **1 *Chanokh* 8-10 ; *Vayiqra* 16** — Azazel a son lot, mais **au désert**, et son dossier propre est celui des **ʿirin**, non celui d'Eden.
 
 **Verdict : LE CARREFOUR — décision d'auteur, deuxième présentation (§D.3).**
 
 Il faut être précis sur ce qui est en jeu, car ce n'est pas la même question que dans *Toledot* :
 
 - *Toledot* demandait : le serpent est-il **ha-satan** (la *fonction* d'accusation) ? — question laissée ouverte.
-- *Chazon Avraham* demande : le corrupteur d'Eden est-il **Azazel** (un être **nommé**, du dossier des **irin**) ? — question **différente et plus lourde**, parce qu'elle ne fusionne pas deux fonctions mais deux **dossiers** distincts du corpus : celui d'Eden et celui de la descente des gardiens.
+- *Chazon Avraham* demande : le corrupteur d'Eden est-il **Azazel** (un être **nommé**, du dossier des **ʿirin**) ? — question **différente et plus lourde**, parce qu'elle ne fusionne pas deux fonctions mais deux **dossiers** distincts du corpus : celui d'Eden et celui de la descente des gardiens.
 
 Deux éléments de plus, à porter au débat :
 1. **Le détail de la grappe** est isolé, non corroboré ailleurs → **trace**, à tenir en note quoi qu'il advienne de l'identification.
@@ -345,7 +345,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien i
 
 **Verdict : NOYAU — et confirmation d'une décision ONT.** Le fait est net : ce livre, écrit par quelqu'un qui pensait en hébreu vers la fin du Iᵉʳ siècle, **bute sur la même ambiguïté** et la referme en la combinant plutôt qu'en la tranchant — « le quatrième engendrement **de cent ans** ». Un lecteur ancien du texte a vu là exactement ce que l'ONT a vu, et n'a pas tranché davantage. C'est une corroboration indépendante de la décision de *Bereshit* 15, et elle mérite d'être dite dans la feuille d'introduction.
 
-Rendu : **olam** au corps, avec la règle de translittération du construit (§3).
+Rendu : **ʿolam** au corps, avec la règle de translittération du construit (§3).
 
 ---
 
@@ -437,11 +437,11 @@ reste descendante== — et c'est la structure qu'on rend.
 
 Rien de ce qui suit n'entre au texte sans arbitrage. Classé par poids.
 
-**D.1 — Yahoʾel.** *Le plus lourd que ce livre apporte.* Un **malʾakh** nommé, en qui le **Shem** de **YHWH** habite (*Shemot* 23:21), et dont le nom même est composé de YHW + El. La règle du §3 est explicite : *tout nouvel être céleste nommé se décide avec l'auteur*. Le précédent existe — Mikhaʾel (*Toledot*) et Rafaʾel (*Sefar Gibbaraya*) sont traités en **noms propres** (UC4 : sans gras, niveau 3 + glose à la première occurrence), et gardent la fonction de **malʾakh**. Yahoʾel suivrait naturellement ce traitement. Ce qui le distingue, et qui exige l'arbitrage : **son nom contient le Nom**. Une glose sur Yahoʾel touche nécessairement à la question réservée de *Shemot* 3 — « décision la plus importante du projet après **Elohim** ». Question précise à trancher : jusqu'où la glose de première occurrence peut aller sans anticiper *Shemot* 3.
+**D.1 — Yahoʾel.** *Le plus lourd que ce livre apporte.* Un **malʾakh** nommé, en qui le **Shem** de **YHWH** habite (*Shemot* 23:21), et dont le nom même est composé de YHW + El. La règle du §3 est explicite : *tout nouvel être céleste nommé se décide avec l'auteur*. Le précédent existe — Mikhaʾel (*Toledot*) et Rafaʾel (*Sefar Gibbaraya*) sont traités en **noms propres** (UC4 : sans gras, niveau 3 + glose à la première occurrence), et gardent la fonction de **malʾakh**. Yahoʾel suivrait naturellement ce traitement. Ce qui le distingue, et qui exige l'arbitrage : **son nom contient le Nom**. Une glose sur Yahoʾel touche nécessairement à la question réservée de *Shemot* 3 — « décision la plus importante du projet après **ʾElohim** ». Question précise à trancher : jusqu'où la glose de première occurrence peut aller sans anticiper *Shemot* 3.
 
 **D.2 — Azazel.** Nom propre (UC4) comme dans *Sefar Gibbaraya*, ou terme chargé promu au glossaire ? Trois éléments pour décider : *(a)* il est **déjà** dans le corpus verrouillé comme nom propre, sans gras — changer de statut serait rétroactif ; *(b)* son locus légal est *Vayiqra* 16, **non traité**, et le §3 réserve ailleurs le traitement définitif à son locus central (précédent : **chesed** renvoyé à *Shemot* 34 et *Ruth*) ; *(c)* ici il n'est pas un concept mais **un personnage qui parle**. Recommandation : **maintenir UC4**, et réserver toute promotion à *Vayiqra* 16.
 
-**D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **irin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
+**D.3 — Azazel en Eden (ch. 23).** *Le carrefour.* *Bereshit* 3 est **verrouillé** avec le *nachash* fonctionnel, et *Toledot* a explicitement décidé de ne pas faire du serpent un Satan dans le corps — tout en laissant la question ouverte au ré-audit. Elle revient ici sous une forme **différente et plus lourde** : non plus « le serpent est-il la fonction d'accusation ? » mais « le corrupteur d'Eden est-il **cet être-ci**, du dossier des **ʿirin** ? » — soit la fusion de deux dossiers distincts du corpus. Trois voies : *(a)* rendre le tableau tel qu'il se montre, la glose renvoyant à *Bereshit* 3 sans y toucher ; *(b)* rendre, et ouvrir une note d'apparat sur la tension ; *(c)* traiter la figure sans la nommer. **Ne pas trancher sans l'auteur.**
 
 **D.4 — Les sept firmaments (ch. 19).** Le §6 fixe une cosmologie à quatre niveaux tirée de *Bereshit* 1 et 7:11 ; l'étagement des Cieux est une élaboration du Second Temple, attestée (*Tsavaʾat Lévi*, 2 *Chanokh*, 2 Co 12:2) et non contradictoire, mais non prévue. Ce n'est pas un filtrage, c'est une **question de convention** : le §6 s'étend-il, ou ce livre rend-il l'étagement sans le chiffrer ? La question se reposera à 1 *Chanokh* (n° 38) — autant la traiter une fois.
 

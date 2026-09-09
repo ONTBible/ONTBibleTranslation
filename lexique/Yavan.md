@@ -16,7 +16,7 @@ Il est fils de [[Yafet]], dans la table des nations.
 
 Il faut le dire franchement, parce que ce **Shem** touche ==la raison d'être du projet==.
 
-[[Noach]] formule sur [[Yafet]] une dotation qui joue de son nom : ==qu'**Elohim** l'élargisse==, *yaft*. Le texte dote — et le corpus relève ce que l'histoire en a fait.
+[[Noach]] formule sur [[Yafet]] une dotation qui joue de son nom : ==qu'**ʾElohim** l'élargisse==, *yaft*. Le texte dote — et le corpus relève ce que l'histoire en a fait.
 
 L'élargissement de [[Yafet]], accompli dans la lignée de ==Yavan==, ==deviendra le filtre hellénistique qui absorbe l'ontologie hébraïque au lieu de l'habiter==. Ce qui devait s'étendre pour servir la structure de [[Shem-fils-de-Noach]] est venu ==la recouvrir==.
 

@@ -20,9 +20,9 @@ Un **Shem** qui dit l'habitat plutôt que l'ancêtre est rare dans le corpus. La
 
 Ils paraissent une fois, dans la campagne des quatre rois de l'orient, et la mention est une ligne d'itinéraire.
 
-[[Kedorlaomer]] et ses alliés descendent en frappant tout ce qui se trouve sur leur route : les [[Refaim]], les [[Zouzim]], les [[Emim]] — puis les Chorim dans leur montagne de [[Seir]], jusqu'à [[El-Paran]] aux abords du désert. Quatre peuples anciens, quatre lieux, et pas un mot d'explication.
+[[Kedorlaomer]] et ses alliés descendent en frappant tout ce qui se trouve sur leur route : les [[Refaim]], les [[Zouzim]], les [[ʾEmim]] — puis les Chorim dans leur montagne de [[Seir]], jusqu'à [[ʾEl-Paran]] aux abords du désert. Quatre peuples anciens, quatre lieux, et pas un mot d'explication.
 
-Le texte ne juge pas cette campagne. Il énumère, et ==l'énumération est elle-même l'information== : elle dit l'étendue de ce que ces rois pouvaient balayer, et donc ce que [[Avram]] affrontera avec trois cent dix-huit hommes.
+Le texte ne juge pas cette campagne. Il énumère, et ==l'énumération est elle-même l'information== : elle dit l'étendue de ce que ces rois pouvaient balayer, et donc ce que [[ʾAvram]] affrontera avec trois cent dix-huit hommes.
 
 ## Ceux qui étaient là avant
 
@@ -40,6 +40,6 @@ Elle repose sur une seule mention, *Bereshit* 14:6, et sur ce que *Devarim* 2 en
 
 Leur montagne : [[Seir]], le massif de grès qui leur donne leur nom autant qu'il les abrite.
 
-Les autres peuples anciens de la même campagne : [[Refaim]], [[Zouzim]], [[Emim]] — tous nommés en passant, tous frappés, aucun raconté.
+Les autres peuples anciens de la même campagne : [[Refaim]], [[Zouzim]], [[ʾEmim]] — tous nommés en passant, tous frappés, aucun raconté.
 
-Ceux qui les balaient : [[Kedorlaomer]] et ses trois alliés, [[Amrafel]], [[Aryokh]], [[Tidʿal]].
+Ceux qui les balaient : [[Kedorlaomer]] et ses trois alliés, [[ʾAmrafel]], [[ʾAryokh]], [[Tidʿal]].

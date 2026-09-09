@@ -23,7 +23,7 @@ porte nulle part).
 | 4 | le shva bref rendu `e` | non fixé | le §2.9 déclare les voyelles hors de son ressort |
 | 5 | la racine est le cœur du système | **partiel** | §4.1 écrit le matin ; ==172 racines nommées sur 1738 niveaux 3== |
 | 6 | *shamayim* et *mayim* sont des duels | **partiel** | 9 mentions, dont 4 dans le seul *Bereshit* 1 |
-| 6 | **Elohim** : forme plurielle, accord singulier | **partiel** | glosé dans ==2 fichiers== |
+| 6 | **ʾElohim** : forme plurielle, accord singulier | **partiel** | glosé dans ==2 fichiers== |
 | 7 | l'état construit soude sans préposition | **partiel** | systématique dans *Bereshit* 1, épars ailleurs |
 | 7 | superlatif par répétition du construit | partiel | 4 fichiers |
 | 8 | *qatal* / *yiqtol* — achevé / inachevé | **absent** | ==0 mention dans tout le projet== |

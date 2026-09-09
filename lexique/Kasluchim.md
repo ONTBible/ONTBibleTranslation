@@ -22,6 +22,6 @@ Un nom qu'on ne reverra jamais porte donc ==le peuple qu'on rencontrera le plus=
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[ʿAnamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]].
 
 Ce qui sort de lui : [[Pelishtim]].

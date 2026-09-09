@@ -1,4 +1,4 @@
-# Le **navi** est un **malʾakh** avec un **olam** d'argile
+# Le **naviʾ** est un **malʾakh** avec un **ʿolam** d'argile
 
 *(chuqqah — cinquième du corpus)*
 
@@ -6,14 +6,14 @@
 
 ## L'énoncé
 
-Un **malʾakh** et un **navi** font ==exactement le même geste== : recevoir un
-**davar** d'en haut, le porter à l'**adam**.
+Un **malʾakh** et un **naviʾ** font ==exactement le même geste== : recevoir un
+**davar** d'en haut, le porter à l'**ʾadam**.
 
 La différence n'est pas de rang. Elle est dans ==ce qui reste quand la mission
 s'arrête==.
 
-> Le **navi** est un **malʾakh** avec ==un **olam** d'argile==, un **olam**
-> d'homme. Le **malʾakh** est un **navi** avec ==un **olam** temporaire==,
+> Le **naviʾ** est un **malʾakh** avec ==un **ʿolam** d'argile==, un **ʿolam**
+> d'homme. Le **malʾakh** est un **naviʾ** avec ==un **ʿolam** temporaire==,
 > conditionné par sa mission.
 
 ## La nécessité
@@ -37,22 +37,22 @@ entre être et faire==.
 
 ### Le mot dit une saisie, non un métier
 
-La racine du **navi** est débattue, et les deux pistes mènent au même endroit —
+La racine du **naviʾ** est débattue, et les deux pistes mènent au même endroit —
 ce qui vaut mieux qu'une certitude sur une seule.
 
 L'une la rattache à un verbe qui signifie ==appeler, proclamer, nommer==. L'autre
 y lit une ==forme passive== : ==celui qui a été appelé, convoqué, saisi==.
 
-Dans les deux cas, ==l'initiative n'est pas de son côté==. Le **navi** n'est pas
+Dans les deux cas, ==l'initiative n'est pas de son côté==. Le **naviʾ** n'est pas
 « quelqu'un qui décide de prophétiser ». Il est ==celui sur qui la main s'est
 posée==.
 
 D'où les titres que la langue lui donne, et qui ne sont pas des compliments mais
-des descriptions : ==l'**ish** d'**Elohim**== (*ish Elohim* / אִישׁ אֱלֹהִים) —
+des descriptions : ==l'**ʾish** d'**ʾElohim**== (*ʾish ʾElohim* / אִישׁ אֱלֹהִים) —
 un titre qui dit ==ce qu'il est==, non ce qu'il fait ; ou ==celui qui est mis à
 part== pour **YHWH**, ce que porte la racine du **qodesh**.
 
-> ==Le **navi** est avant de faire.== Son être précède ses opérations et les
+> ==Le **naviʾ** est avant de faire.== Son être précède ses opérations et les
 > fonde.
 
 ### Pourquoi il fallait un **basar**
@@ -60,9 +60,9 @@ part== pour **YHWH**, ce que porte la racine du **qodesh**.
 Voici la nécessité, et elle est le cœur de la chuqqah.
 
 La quatrième chuqqah l'a posé : un **malʾakh** n'a pas de **basar**. Il prend un
-**olam** pour sa mission et il le rend. Hors mission, ==il n'y a personne==.
+**ʿolam** pour sa mission et il le rend. Hors mission, ==il n'y a personne==.
 
-Le **navi**, lui, a un **basar** ==permanent==. Il ne cesse pas d'être **ish**
+Le **naviʾ**, lui, a un **basar** ==permanent==. Il ne cesse pas d'être **ʾish**
 entre deux **devarim**. Il vit, il mange, il vieillit, il a peur, il enterre les
 siens.
 
@@ -88,23 +88,23 @@ l'envers== de l'hébreu.
 
 Regarde ce que le **basar** ==permet==, et que rien d'autre ne permet :
 
-| | un **malʾakh** | un **navi** |
+| | un **malʾakh** | un **naviʾ** |
 |---|---|---|
-| son **olam** | prêté, rendu après | ==d'argile, et permanent== |
+| son **ʿolam** | prêté, rendu après | ==d'argile, et permanent== |
 | entre deux missions | personne | ==quelqu'un, qui vit== |
 | peut mourir | non | ==oui== |
 | peut souffrir ce dont il parle | non | ==oui== |
 | sens de son interface | d'en haut vers ici | ==dans les deux sens== |
 
 Cette dernière ligne est la plus lourde et on la voit rarement. Un **malʾakh**
-descend, transmet, remonte : ==un seul sens==. Le **navi**, parce qu'il est
-d'ici, peut aussi ==porter les **anashim** vers **YHWH**== — intercéder, se plaindre,
+descend, transmet, remonte : ==un seul sens==. Le **naviʾ**, parce qu'il est
+d'ici, peut aussi ==porter les **ʾanashim** vers **YHWH**== — intercéder, se plaindre,
 discuter. Avraham marchande. Mosheh s'interpose. Un **malʾakh** ne fait jamais
 cela : ==il n'a personne au nom de qui parler==.
 
 ### Les cinq dimensions, et ce qu'on en a fait
 
-Le **navi** n'est pas un spécialiste. Il est ==une totalité==, et cette totalité
+Le **naviʾ** n'est pas un spécialiste. Il est ==une totalité==, et cette totalité
 contient simultanément cinq dimensions que la tradition d'Occident a découpées
 en cinq métiers différents, confiés à cinq personnes différentes.
 
@@ -141,7 +141,7 @@ on dirait « prophète et prophète », comme si l'on se répétait.
 | ce que ça suppose | qu'on voie | qu'on ==pénètre== ce qui reste voilé aux autres |
 
 Un texte ancien signale d'ailleurs la bascule des mots : ==celui qu'on appelle
-aujourd'hui **navi** s'appelait autrefois **roʿeh**==. Ce n'est pas dire que les
+aujourd'hui **naviʾ** s'appelait autrefois **roʿeh**==. Ce n'est pas dire que les
 deux sont un ; c'est dire que ==l'usage a bougé==, et l'ONT s'en tient à ce que
 le texte porte.
 
@@ -152,12 +152,12 @@ qui est voilé.
 
 ## Les conséquences
 
-### Ce que le **navi** fait, dit exactement
+### Ce que le **naviʾ** fait, dit exactement
 
 On dit qu'il annonce l'avenir. C'est le contraire de son office.
 
 Il y a ==deux registres du réel==, et ils ne sont pas deux étages : en haut, ce
-qui est déjà arrêté ; ici, ce qui doit encore ==prendre forme==. Le **navi** est
+qui est déjà arrêté ; ici, ce qui doit encore ==prendre forme==. Le **naviʾ** est
 le **kli** par lequel ce qui est déjà vrai là-haut ==commence à exister ici==.
 
 Il n'invente rien. Il ==ne crée pas== de réalité neuve. Il est ==le point
@@ -186,8 +186,8 @@ de la structure== qui lui reconnaît son titre. Ce qui était une identité devi
 
 ### L'identité ne se vérifie pas, les paroles si
 
-Conséquence pratique, et elle surprend : un **navi** peut ==se tromper sur un
-**davar** particulier== sans cesser d'être **navi**.
+Conséquence pratique, et elle surprend : un **naviʾ** peut ==se tromper sur un
+**davar** particulier== sans cesser d'être **naviʾ**.
 
 Son identité vient de la saisie, et elle ne dépend pas de son taux de réussite.
 Mais ==ses paroles restent vérifiables== — le corpus donne le critère, et il est
@@ -213,7 +213,7 @@ La réponse honnête : ==les cinq mots hébreux existent tous, indépendamment d
 cette liste==, et le corpus les emploie. Ce qui vient du grec est ==le
 regroupement en cinq==, non les cinq réalités.
 
-==Et une seconde limite.== Dire que le **navi** contient les cinq ne dit pas
+==Et une seconde limite.== Dire que le **naviʾ** contient les cinq ne dit pas
 ==dans quelle proportion==. Le corpus montre des hommes chez qui l'une domine —
 l'un enseigne surtout, l'autre voit surtout. La chuqqah tient que l'identité ne
 se fragmente pas ; elle ==ne prétend pas== que les cinq soient également
@@ -223,11 +223,11 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans *restranscriptions/*. L'énoncé est sa formule, mot pour mot : *« en somme le **navi** est un **malʾakh** avec un **olam** d'argile, un **olam** d'homme, et le **malʾakh** est un **navi** avec un **olam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *roʿeh* / **chozeh** sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après deux conversations de l'auteur==, déposées dans *restranscriptions/*. L'énoncé est sa formule, mot pour mot : *« en somme le **naviʾ** est un **malʾakh** avec un **ʿolam** d'argile, un **ʿolam** d'homme, et le **malʾakh** est un **naviʾ** avec un **ʿolam** temporaire, qui est structurellement conditionné par sa mission »*. Les cinq dimensions et la distinction *roʿeh* / **chozeh** sont également les siennes. La mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
-- *==Elle referme la quatrième.== Celle-là décrivait le **malʾakh** par ce qu'il n'a pas ; celle-ci décrit le **navi** par ce qu'il a en plus, et les deux ne se comprennent qu'ensemble. La quatrième portait déjà le critère du surplus, qui est ici tout l'énoncé.*
+- *==Elle referme la quatrième.== Celle-là décrivait le **malʾakh** par ce qu'il n'a pas ; celle-ci décrit le **naviʾ** par ce qu'il a en plus, et les deux ne se comprennent qu'ensemble. La quatrième portait déjà le critère du surplus, qui est ici tout l'énoncé.*
 
-- *==Cinq termes travaillent ici sans être déclarés== : **roʿeh**, **chozeh**, **mevaser**, **moreh**, et **laqach** — la saisie souveraine dont l'auteur fait le mode de constitution du **navi**. ==À trancher par l'auteur== : au moins **chozeh** me semble en être, puisque la distinction d'avec **roʿeh** est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
+- *==Cinq termes travaillent ici sans être déclarés== : **roʿeh**, **chozeh**, **mevaser**, **moreh**, et **laqach** — la saisie souveraine dont l'auteur fait le mode de constitution du **naviʾ**. ==À trancher par l'auteur== : au moins **chozeh** me semble en être, puisque la distinction d'avec **roʿeh** est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
 
 - *==Ce que la chuqqah laisse dehors.== La matière porte une application à la constitution propre de l'auteur et à la communauté qu'il prépare. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une critique de l'institution ecclésiale contemporaine, réduite ici au seul constat structurel — l'ONT affirme, il ne polémique pas (§10).*
 
@@ -235,7 +235,7 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 - *Devarim* 18:18 (à écrire) — *je mettrai mes **devarim** dans sa bouche*, la définition fonctionnelle.
 - *Devarim* 18:20-22 (à écrire) — le critère de vérification des paroles.
-- *1 Shemuel* 9:9 (à écrire) — la bascule de **roʿeh** vers **navi**, signalée par le texte lui-même.
+- *1 Shemuel* 9:9 (à écrire) — la bascule de **roʿeh** vers **naviʾ**, signalée par le texte lui-même.
 - *Yeshayahu* 52:7 (à écrire) — le **mevaser** et ses pieds sur les montagnes.
 - *Bereshit* 18 (verrouillé) — Avraham qui marchande : l'interface dans l'autre sens, qu'un **malʾakh** ne fait jamais.
 

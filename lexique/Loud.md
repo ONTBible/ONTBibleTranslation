@@ -18,6 +18,6 @@ C'est à peu près tout ce que le corpus en fait, et l'ONT ne lui fabriquera pas
 
 ## Voir aussi
 
-Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[Elam]], [[Assur]], [[Arpakhshad]], [[Aram]].
+Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʿElam]], [[ʾAssur]], [[ʾArpakhshad]], [[ʾAram]].
 
 Le **Shem** voisin, dans l'autre lignée : [[Loudim]].

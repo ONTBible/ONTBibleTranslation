@@ -22,6 +22,6 @@ C'est un mouvement que la table des nations produit souvent : ==elle range des p
 
 Sa maison : [[Yafet]] son père, [[Noach]] son grand-père ; ses frères [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Meshekh]], [[Tiras]].
 
-Ses fils : [[Ashkenaz]], [[Rifat]], [[Togarmah]].
+Ses fils : [[ʾAshkenaz]], [[Rifat]], [[Togarmah]].
 
 Où le corpus le reprend : l'assemblée de Gog en *Yehezqel* 38.

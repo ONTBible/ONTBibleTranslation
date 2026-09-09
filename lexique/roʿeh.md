@@ -45,7 +45,7 @@ n'a pas de mot pour ça.
 
 ## Sa place parmi les cinq
 
-Le **roʿeh** est une des cinq dimensions du **navi**, et elle a un voisin dont
+Le **roʿeh** est une des cinq dimensions du **naviʾ**, et elle a un voisin dont
 il faut la séparer.
 
 Le **chozeh** contemple ce qui reste voilé — il ==pénètre==. Le **roʿeh** voit
@@ -54,5 +54,5 @@ c'est ==une différence de profondeur d'accès==, que le grec a effacée en fond
 les deux dans un seul mot.
 
 Un texte ancien signale d'ailleurs que l'usage a bougé : ==celui qu'on appelle
-aujourd'hui **navi** s'appelait autrefois **roʿeh**==. Le corpus le note
+aujourd'hui **naviʾ** s'appelait autrefois **roʿeh**==. Le corpus le note
 lui-même, et l'ONT s'en tient à ce qu'il porte.

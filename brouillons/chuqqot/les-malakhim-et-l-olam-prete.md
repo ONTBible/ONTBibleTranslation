@@ -1,4 +1,4 @@
-# Les **malʾakhim** n'ont pas d'**olam** à eux
+# Les **malʾakhim** n'ont pas d'**ʿolam** à eux
 
 *(chuqqah — deuxième du corpus)*
 
@@ -16,12 +16,12 @@ mission, et rendue avec elle.
 
 ### D'abord, pourquoi il faut quelqu'un entre les deux
 
-Le corpus dit une chose que nous lisons trop vite : ==l'**adam** ne peut pas me
+Le corpus dit une chose que nous lisons trop vite : ==l'**ʾadam** ne peut pas me
 voir et vivre== (*Shemot* 33:20).
 
 Ce n'est pas un interdit, comme une porte qu'on fermerait par principe. C'est un
 ==constat de physique==. Un autre verset donne l'image exacte : ==**YHWH**
-**Elohim** est un soleil== (*Tehilim* 84:12).
+**ʾElohim** est un soleil== (*Tehilim* 84:12).
 
 Tu ne peux pas regarder le soleil en face. Ce n'est pas que le soleil te le
 défende — c'est que ton œil ne tient pas ce qu'il envoie. Et pourtant tu vis
@@ -48,13 +48,13 @@ prête, sans jamais s'en étonner :
 |---|---|
 | *Shemot* 3:2 | une flamme dans un buisson |
 | *Tehilim* 104:4 | un vent, une flamme |
-| *Bereshit* 18 | trois **anashim**, qui mangent |
-| *Bereshit* 32 | un **ish**, qui lutte |
-| *Bemidbar* 22 | un **ish**, une épée à la main |
+| *Bereshit* 18 | trois **ʾanashim**, qui mangent |
+| *Bereshit* 32 | un **ʾish**, qui lutte |
+| *Bemidbar* 22 | un **ʾish**, une épée à la main |
 
 Et *Tehilim* 104:4 donne le verbe qui tranche : ==il fait de ses **malʾakhim** des vents, de ses
 serviteurs une flamme de feu==. Le verbe est
-*asah* (*asah* / עָשָׂה), ==faire, mettre en place==. Ce n'est pas une propriété
+*asah* (*ʿasah* / עָשָׂה), ==faire, mettre en place==. Ce n'est pas une propriété
 qu'ils auraient. C'est ==**YHWH** qui assigne la forme, à l'envoi==.
 
 ### Pourquoi cette forme-là, et pas une autre
@@ -62,7 +62,7 @@ qu'ils auraient. C'est ==**YHWH** qui assigne la forme, à l'envoi==.
 Le choix n'est pas arbitraire, et le voir aide beaucoup.
 
 Quand la mission demande qu'on approche — parler, manger, lutter, marcher avec
-quelqu'un —, la forme est celle d'un **ish**. Quand la mission porte ==une
+quelqu'un —, la forme est celle d'un **ʾish**. Quand la mission porte ==une
 altérité qu'on ne doit pas franchir==, la forme est le feu : ce qui consume ce
 qu'il touche, et qui dit par sa seule présence qu'on ne s'approche pas.
 
@@ -81,7 +81,7 @@ grecs et latins ont traitée comme un flottement du texte :
 - *Bereshit* 22 — c'est le **malʾakh** de **YHWH** qui appelle, et il dit
   ==je jure par moi-même== ;
 - *Shemot* 3 — le **malʾakh** de **YHWH** apparut dans la flamme, puis
-  aussitôt : ==**YHWH** vit… et **Elohim** lui parla== ;
+  aussitôt : ==**YHWH** vit… et **ʾElohim** lui parla== ;
 - *Shoftim* 6 — le **malʾakh** apparaît, puis le texte dit simplement
   ==**YHWH** se tourna vers lui==.
 
@@ -107,7 +107,7 @@ sont vrais à la fois==, l'un par la source et l'autre par le mode.
 Le droit hébreu a une formule pour cette structure, et elle vaut bien au-delà du
 droit :
 
-> *shlucho shel adam kemoto* — ==l'envoyé d'un **adam** est comme lui-même==.
+> *shlucho shel adam kemoto* — ==l'envoyé d'un **ʾadam** est comme lui-même==.
 
 Un **shaliach** n'agit pas *à la place de* celui qui l'envoie, comme un
 remplaçant qu'on met là faute de mieux. Il ==est== celui qui l'envoie, pour la
@@ -125,14 +125,14 @@ ce qui précède. Regarde plutôt ce que ces noms disent :
 
 | nom | ce qu'il découpe | ce qu'il désigne |
 |---|---|---|
-| [[Mikhaʾel]] | *mi* — *kha* — **El** | ==qui est comme **El** ?== |
-| [[Rafaʾel]] | *rafa* — **El** | ==**El** guérit== |
-| [[Gavriel]] | *gever* — **El** | ==la **gevurah** de **El**== |
+| [[Mikhaʾel]] | *mi* — *kha* — **ʾEl** | ==qui est comme **ʾEl** ?== |
+| [[Rafaʾel]] | *rafa* — **ʾEl** | ==**ʾEl** guérit== |
+| [[Gavriel]] | *gever* — **ʾEl** | ==la **gevurah** de **ʾEl**== |
 
 Trois observations, et la troisième est la plus lourde.
 
-==Ils finissent tous par **El**.== Chacun de ces noms pointe ==entièrement vers
-**El**, jamais vers celui qui le porte==. Ce ne sont pas des noms qui disent
+==Ils finissent tous par **ʾEl**.== Chacun de ces noms pointe ==entièrement vers
+**ʾEl**, jamais vers celui qui le porte==. Ce ne sont pas des noms qui disent
 « moi » ; ce sont des noms qui disent « lui ».
 
 ==Chacun désigne une fonction stable.== Celui qui annonce annonce toujours les
@@ -153,7 +153,7 @@ Un **Shem** ==d'identité== désigne quelqu'un qui ==est== quelque chose,
 indépendamment de ce qu'il fait à un moment donné. Il suppose un **basar**, une
 histoire qui s'accumule, un visage. C'est le **Shem** d'un homme.
 
-Un **Shem** ==de fonction== n'établit aucun **olam** propre : il ==nomme une
+Un **Shem** ==de fonction== n'établit aucun **ʿolam** propre : il ==nomme une
 charge== que **YHWH** a instituée de façon permanente. C'est le **Shem** d'un
 **malʾakh** nommé.
 
@@ -163,8 +163,8 @@ Le premier crée un porteur. ==Le second nomme un office.==
 deux missions. S'il reste quelqu'un — qui vit, qui vieillit, qui souffre —, le
 nom désigne ==un porteur==. S'il ne reste personne, le nom désigne ==un office==.
 
-Et c'est exactement ce qui sépare un **malʾakh** d'un **navi**, qui font pourtant
-le même geste : recevoir un **davar**, le porter aux hommes. Le **navi**
+Et c'est exactement ce qui sépare un **malʾakh** d'un **naviʾ**, qui font pourtant
+le même geste : recevoir un **davar**, le porter aux hommes. Le **naviʾ**
 ==excède== sa mission ; son **basar** continue entre les **devarim**, et c'est ce
 surplus qui authentifie ce qu'il porte. Le **malʾakh** ==est== sa mission, sans
 reste.
@@ -173,14 +173,14 @@ reste.
 
 De là une échelle, et il faut la lire de haut en bas comme un seul mouvement :
 
-- les **malʾakhim** nommés — nommés par **YHWH**, fonction tournée vers **El**
+- les **malʾakhim** nommés — nommés par **YHWH**, fonction tournée vers **ʾEl**
 - les **malʾakhim** anonymes — sans nom, activés puis dissous
-- les **irin** fidèles — sans nom, au conseil
+- les **ʿirin** fidèles — sans nom, au conseil
 - les gardiens des nations — nommés, fonction pervertie du dedans
 - ceux qui sont tombés — ==nommés par eux-mêmes==
 
 Plus on descend, plus le **Shem** ==se retourne vers soi== au lieu de pointer
-vers **El**.
+vers **ʾEl**.
 
 Et c'est le seul critère qu'il y ait. Pour un être constitué pour être
 transparent, ==se nommer soi-même, c'est déjà commencer à exister pour soi== — et
@@ -224,7 +224,7 @@ d'elle ne se déduit pas de ce qui précède.
 
 - *==Cette chuqqah est écrite d'après une conversation de l'auteur== déposée dans *restranscriptions/*, en neuf échanges. Elle n'est pas une transcription : la matière était un dialogue, et elle est rendue en un seul corps, dans sa voix, à sa demande. L'image du caillou, celle de la boîte à outils et celle du soleil sont les siennes ; la mise en forme et le balisage sont du vault.*
 
-- *==C'est une facette de l'olam, et non un sujet à part.== Décision de l'auteur : chaque chuqqah éclaire une part de ce que l'**olam** est. Celle-ci porte la deuxième strate des quatre modes de présence, et elle repose entièrement sur un point de la fiche *lexique/olam.md* : un **malʾakh** n'a pas d'**olam** propre parce qu'il n'a rien qui soit perceptible de lui-même.*
+- *==C'est une facette de l'olam, et non un sujet à part.== Décision de l'auteur : chaque chuqqah éclaire une part de ce que l'**ʿolam** est. Celle-ci porte la deuxième strate des quatre modes de présence, et elle repose entièrement sur un point de la fiche *lexique/olam.md* : un **malʾakh** n'a pas d'**ʿolam** propre parce qu'il n'a rien qui soit perceptible de lui-même.*
 
 - *==[[Gavriel]] a reçu sa fiche le 8 septembre 2026==, sur décision de l'auteur, et il est donc balisé comme [[Mikhaʾel]] et [[Rafaʾel]]. La graphie ne relevait pas de l'arbitrage : le §2.9 rend le *bet* sans dagesh par *v*, donc Gavriel et non « Gabriel », qui est passé par le grec. La fiche déclare ce qu'elle n'a pas — ==aucune occurrence dans une **parashah** écrite== —, et qu'elle sera reprise quand *Daniel* le sera.*
 

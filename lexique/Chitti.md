@@ -20,7 +20,7 @@ Le corpus emploie le même mot pour les deux, sans jamais s'expliquer. ==L'ONT r
 
 ## Ce que le texte en fait ici
 
-Ils sont le quatrième nom de la liste des dix peuples que **YHWH** énumère à [[Avram]] après la **berith** coupée entre les morceaux — et c'est leur seule apparition dans les unités écrites à ce jour.
+Ils sont le quatrième nom de la liste des dix peuples que **YHWH** énumère à [[ʾAvram]] après la **berith** coupée entre les morceaux — et c'est leur seule apparition dans les unités écrites à ce jour.
 
 La place vaut d'être notée. Dans cette énumération de peuples dont la plupart sont petits, sans ville ou sans mémoire — [[Qeni]] les forgerons nomades, [[Qadmoni]] dont on ne saura jamais rien —, ==celui-ci est un empire==. La promesse ne recouvre pas seulement des campements : elle nomme aussi ce qui pèse.
 
@@ -28,7 +28,7 @@ La place vaut d'être notée. Dans cette énumération de peuples dont la plupar
 
 Il faut le dire ici parce que ce **Shem** est de ceux dont le rôle est presque entièrement devant.
 
-*Bereshit* 23 fera des *benei Chet* les interlocuteurs de la première transaction foncière du corpus. [[Sarah]] meurt à [[Chevron]], et [[Avraham]] — à qui la terre entière vient d'être promise — se tient devant eux et dit qu'il est ==*ger vetoshav*==, un étranger résidant, et qu'il n'a pas où enterrer sa morte. Il achète la grotte de Makhpelah à Efron le Chitti, au poids d'argent, devant témoins, à la porte de la ville.
+*Bereshit* 23 fera des *benei Chet* les interlocuteurs de la première transaction foncière du corpus. [[Sarah]] meurt à [[Chevron]], et [[ʾAvraham]] — à qui la terre entière vient d'être promise — se tient devant eux et dit qu'il est ==*ger vetoshav*==, un étranger résidant, et qu'il n'a pas où enterrer sa morte. Il achète la grotte de Makhpelah à Efron le Chitti, au poids d'argent, devant témoins, à la porte de la ville.
 
 C'est un des passages les plus étranges du corpus : ==le seul morceau de la terre promise que le patriarche possède réellement est un tombeau, et il l'a payé==. La promesse porte sur tout le pays ; ce qu'il en tient de son vivant tient dans un caveau acheté à ce peuple-là.
 
@@ -40,4 +40,4 @@ Sa maison : [[Chet]] son père, [[Kenaʿan]] son grand-père, [[Cham]] au-dessus
 
 Les neuf autres de la liste : [[Qeni]], [[Qadmoni]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
-Le lieu où on les rencontrera : [[Chevron]], premier ancrage durable d'[[Avraham]] dans le pays.
+Le lieu où on les rencontrera : [[Chevron]], premier ancrage durable d'[[ʾAvraham]] dans le pays.

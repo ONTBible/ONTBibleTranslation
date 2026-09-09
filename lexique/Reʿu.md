@@ -14,7 +14,7 @@ Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de
 
 ## Ce que le corpus en fait
 
-Un maillon de la ligne qui descend de [[Peleg]] vers [[Terach]] et [[Avraham]].
+Un maillon de la ligne qui descend de [[Peleg]] vers [[Terach]] et [[ʾAvraham]].
 
 Le corpus ne dit rien de lui : il vit, il engendre [[Serug]], il vit encore. C'est tout.
 
@@ -24,4 +24,4 @@ Ce que la généalogie de *Bereshit* 11 fait, en revanche, mérite d'être vu : 
 
 ## Voir aussi
 
-Sa ligne : [[Peleg]] plus haut, [[Serug]] son fils, puis [[Nachor]], [[Terach]] et [[Avraham]].
+Sa ligne : [[Peleg]] plus haut, [[Serug]] son fils, puis [[Nachor]], [[Terach]] et [[ʾAvraham]].

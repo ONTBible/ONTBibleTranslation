@@ -16,10 +16,10 @@ C'est un procédé que le corpus emploie plusieurs fois et qu'il faut savoir rec
 
 Comme pour [[Hevel]] dont le nom disait la brièveté, comme pour [[Yafet]] dont le nom portait la dotation à venir : ==le **Shem** précède l'événement qui l'accomplit==.
 
-Et c'est par lui que passe la ligne. La branche qui mène à [[Avraham]] est celle qui porte le nom de ==la division==.
+Et c'est par lui que passe la ligne. La branche qui mène à [[ʾAvraham]] est celle qui porte le nom de ==la division==.
 
 ## Voir aussi
 
-Sa maison : [[Ever]] son père, [[Yoqtan]] son frère ; sa ligne mène à [[Avraham]].
+Sa maison : [[ʿEver]] son père, [[Yoqtan]] son frère ; sa ligne mène à [[ʾAvraham]].
 
 Ce que son **Shem** annonce : la dispersion de [[Bavel]] en *Bereshit* 11.

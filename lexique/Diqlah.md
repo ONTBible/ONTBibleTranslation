@@ -18,4 +18,4 @@ Dans une liste de peuples de la péninsule arabique, nommer un palmier n'est pas
 
 ## Voir aussi
 
-Sa maison : [[Yoqtan]] son père, [[Ever]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.

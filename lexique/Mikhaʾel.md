@@ -12,7 +12,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 Un nom qui est ==une question==, et c'est rare : *mi* — qui — *kha* — comme — *El*.
 
-==Qui est comme **El** ?==
+==Qui est comme **ʾEl** ?==
 
 Ce n'est pas une affirmation de supériorité. C'est ==une interrogation portée en permanence==, et celui qui s'appelle ainsi la pose à chaque fois qu'on le nomme.
 

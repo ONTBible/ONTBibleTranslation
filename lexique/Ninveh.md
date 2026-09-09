@@ -28,7 +28,7 @@ Le livre se termine sur une question sans réponse — ==et moi, je n'aurais pas
 
 Il faut relever ce que le corpus construit ici. ==Ninveh== est fondée par [[Nimrod]], le **gibbor**, dans le chapitre qui range les peuples. Elle deviendra ==la capitale de l'empire qui déporte le royaume du septentrion==.
 
-Et c'est cette ville-là que **YHWH** envoie un **navi** avertir, et c'est elle qu'il épargne.
+Et c'est cette ville-là que **YHWH** envoie un **naviʾ** avertir, et c'est elle qu'il épargne.
 
 ## Voir aussi
 

@@ -14,9 +14,9 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 Cinquième nom de la liste des révoltés, et le corpus n'y revient pas.
 
-Sa ville sera anéantie avec [[Sedom]] et [[Amorah]] — mais bien plus tard, et pour une autre raison que cette guerre. ==Le chapitre 14 ne préfigure pas le chapitre 19== : ce sont deux événements distincts, et l'ONT ne les confond pas.
+Sa ville sera anéantie avec [[Sedom]] et [[ʿAmorah]] — mais bien plus tard, et pour une autre raison que cette guerre. ==Le chapitre 14 ne préfigure pas le chapitre 19== : ce sont deux événements distincts, et l'ONT ne les confond pas.
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

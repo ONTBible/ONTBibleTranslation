@@ -18,13 +18,13 @@ Sa racine est נָקַב — ==percer, trouer, marquer d'un creux==. Le mot déc
 
 Et c'est ce qui importe le plus, parce que le français nous fait entendre autre chose.
 
-Il ne dit ==aucune subordination==. Il ne dit ==aucune fonction domestique==. Il ne dit ==aucun caractère==. C'est un mot de zoologie autant que d'anthropologie, et le corpus l'emploie sans distinction pour les bêtes de la **tevah** et pour l'**adam**.
+Il ne dit ==aucune subordination==. Il ne dit ==aucune fonction domestique==. Il ne dit ==aucun caractère==. C'est un mot de zoologie autant que d'anthropologie, et le corpus l'emploie sans distinction pour les bêtes de la **tevah** et pour l'**ʾadam**.
 
-Les mots qui portent un rôle social existent par ailleurs — **ishah** en est un, et c'est un autre registre. ==Confondre les deux est une erreur de couche.==
+Les mots qui portent un rôle social existent par ailleurs — **ʾishah** en est un, et c'est un autre registre. ==Confondre les deux est une erreur de couche.==
 
 ## Le couple, et ce qu'il porte
 
-Le récit d'ouverture dit que l'**adam** est fait **zakhar** et *neqevah*, et que ==c'est ainsi== qu'il porte le **tselem**.
+Le récit d'ouverture dit que l'**ʾadam** est fait **zakhar** et *neqevah*, et que ==c'est ainsi== qu'il porte le **tselem**.
 
 Le texte ne répartit pas : il n'attribue pas l'image à l'un et l'accompagnement à l'autre. Il dit que ==la dualité elle-même== est le lieu de la ressemblance. Et il le dit avec deux mots qui ne parlent que de corps.
 

@@ -22,14 +22,14 @@ En *Bereshit* 11, elle devient le lieu où l'on bâtit une tour pour ==se faire 
 
 ## Ce qu'elle devient
 
-Elle finit par être ==le nom de l'empire qui déporte==. Les *Neviʾim* la jugent, [[Madai]] est excité contre elle, et *Yirmeyahu* 51 convoque [[Ashkenaz]] et [[Ararat]] pour monter contre ses murs.
+Elle finit par être ==le nom de l'empire qui déporte==. Les *Neviʾim* la jugent, [[Madai]] est excité contre elle, et *Yirmeyahu* 51 convoque [[ʾAshkenaz]] et [[ʾArarat]] pour monter contre ses murs.
 
 Le mouvement est complet : la ville qui voulait ==une porte vers les Cieux== devient celle qu'on juge depuis les Cieux, et par des peuples venus du septentrion.
 
 ## Voir aussi
 
-Qui la fonde : [[Nimrod]], dans [[Shinʿar]] — avec [[Erekh]] et [[Akkad]].
+Qui la fonde : [[Nimrod]], dans [[Shinʿar]] — avec [[ʾErekh]] et [[ʾAkkad]].
 
-Ce qui monte contre elle : [[Madai]], [[Ashkenaz]], [[Ararat]].
+Ce qui monte contre elle : [[Madai]], [[ʾAshkenaz]], [[ʾArarat]].
 
 Ce que son **Shem** touche : le *balal* et le **Shem** que les hommes se font en *Bereshit* 11.

@@ -1,4 +1,4 @@
-# L'**olam** est un regard, non un lieu
+# L'**ʿolam** est un regard, non un lieu
 
 *(chuqqah — la première du corpus)*
 
@@ -6,19 +6,19 @@
 
 ## L'énoncé
 
-L'**olam** n'est ni le monde, ni l'éternité.
+L'**ʿolam** n'est ni le monde, ni l'éternité.
 
 Ce n'est pas un endroit où l'on pourrait aller, ni une durée qu'on pourrait
 compter. C'est ==le fait qu'il y ait quelque chose qui échappe à un regard
 donné==.
 
-> ==L'**olam** est toujours fonction du regard, jamais objet du regard.==
+> ==L'**ʿolam** est toujours fonction du regard, jamais objet du regard.==
 
 ## La nécessité
 
 ### Le mot dit une opacité, pas une étendue
 
-La racine est *alam* (*alam* / עָלַם), et elle signifie une seule chose :
+La racine est *alam* (*ʿalam* / עָלַם), et elle signifie une seule chose :
 ==être caché, se dérober à la perception==.
 
 Pas « être loin ». Pas « être ancien ». ==Se dérober.==
@@ -37,11 +37,11 @@ chose qui n'est pas encore paru à un regard==.
 
 Un adolescent n'est pas « moins » qu'un homme fait, et il n'est pas ailleurs. Il
 est ==celui dont ce qu'il sera ne se voit pas encore==. C'est exactement ça, un
-**olam**.
+**ʿolam**.
 
 ### Ce que le grec en a fait, et pourquoi ça nous aveugle encore
 
-Les traducteurs grecs ont rendu **olam** par *aiôn*. C'est le mot qui, dans la
+Les traducteurs grecs ont rendu **ʿolam** par *aiôn*. C'est le mot qui, dans la
 philosophie de leur temps, désignait ==la durée éternelle== de ce qui ne change
 pas — par opposition au temps du monde sensible.
 
@@ -49,7 +49,7 @@ Trois choses se sont perdues d'un coup, et nous lisons encore dans ce qui reste 
 
 ==Le mot est devenu un lieu.== *Aiôn* a glissé vers « monde », puis le latin l'a
 rendu tantôt par « siècle », tantôt par « monde physique ». On s'est mis à lire
-l'**olam** comme ==une région du cosmos==, alors qu'il n'a jamais désigné une
+l'**ʿolam** comme ==une région du cosmos==, alors qu'il n'a jamais désigné une
 région de quoi que ce soit.
 
 ==Le mot est devenu une durée infinie.== « Éternité » au sens d'un temps sans
@@ -64,31 +64,31 @@ superposés. ==Cette opposition n'existe pas dans l'hébreu ancien.== Ce sont de
 
 ### La question qu'il faut se poser à la place
 
-Quand tu lis **olam**, ne demande pas *« où ? »* ni *« combien de temps ? »*.
+Quand tu lis **ʿolam**, ne demande pas *« où ? »* ni *« combien de temps ? »*.
 
 Demande : ==pour qui, et à quelle condition ?==
 
 ## La stratigraphie
 
-### Ce que l'**olam** n'est pas — et les mots qui, eux, disent ces choses
+### Ce que l'**ʿolam** n'est pas — et les mots qui, eux, disent ces choses
 
 Le point le plus convaincant est que l'hébreu a ==d'autres mots== pour tout ce
-qu'on croit que **olam** signifie. S'il voulait dire « le monde », la langue
+qu'on croit que **ʿolam** signifie. S'il voulait dire « le monde », la langue
 n'aurait pas eu besoin de les forger.
 
 | pour dire | l'hébreu emploie | et non |
 |---|---|---|
-| la terre habitée | *tevel* (תֵּבֵל) | **olam** |
-| la terre comme sol, comme domaine | *eretz* (אֶרֶץ) | **olam** |
-| ce qui est caché, la cachette | *nistar*, *seter* | **olam** |
+| la terre habitée | *tevel* (תֵּבֵל) | **ʿolam** |
+| la terre comme sol, comme domaine | *eretz* (אֶרֶץ) | **ʿolam** |
+| ce qui est caché, la cachette | *nistar*, *seter* | **ʿolam** |
 
-L'**olam** n'est donc ==aucune de ces choses==. Il n'est pas le contenant, il
+L'**ʿolam** n'est donc ==aucune de ces choses==. Il n'est pas le contenant, il
 n'est pas le contenu, il n'est pas la cachette. Il est ==le rapport== qui fait
 qu'une chose échappe.
 
 ### Le degré de plus, et c'est la conjecture de l'auteur
 
-On dit souvent que l'**olam** est ==la frontière== entre le visible et
+On dit souvent que l'**ʿolam** est ==la frontière== entre le visible et
 l'invisible. C'est déjà juste, et c'est déjà bien mieux que « le monde ».
 
 Mais on peut aller un cran plus loin, et il faut y aller.
@@ -97,59 +97,59 @@ Une frontière, ça se dessine encore sur une carte : il y a un côté, puis un
 autre, et la ligne entre les deux. On imagine toujours ==deux territoires==,
 même en parlant d'une ligne.
 
-Or l'**olam** ne désigne ==ni les deux côtés, ni la ligne==. Il désigne ==le fait
+Or l'**ʿolam** ne désigne ==ni les deux côtés, ni la ligne==. Il désigne ==le fait
 qu'il y ait quelque chose qui ne se donne pas==. Il ne porte pas le lieu d'où
 l'on regarde : il porte uniquement ==qu'on regarde==, et que quelque chose se
 retire.
 
 C'est pourquoi la formulation exacte est celle-ci :
 
-> L'**olam** n'est pas une chose. C'est ==une propriété qui naît d'un rapport de
+> L'**ʿolam** n'est pas une chose. C'est ==une propriété qui naît d'un rapport de
 > vision== — et elle disparaît si l'on retire l'un des deux termes.
 
 ### Trois textes où l'on voit la différence
 
-*Qohelet* 3:11 — ==il a mis l'**olam** dans leur cœur==.
+*Qohelet* 3:11 — ==il a mis l'**ʿolam** dans leur cœur==.
 
-Si **olam** voulait dire « le monde », la phrase serait plate : il a mis le monde
+Si **ʿolam** voulait dire « le monde », la phrase serait plate : il a mis le monde
 dans le cœur des hommes, soit. Si c'était « l'éternité », ce serait une jolie
 image sans contenu.
 
-Mais si **olam** est ==la structure du dérobement==, la phrase devient précise et
+Mais si **ʿolam** est ==la structure du dérobement==, la phrase devient précise et
 lourde : ce qui a été mis dans le cœur de l'homme, c'est ==la conscience que
 quelque chose lui échappe toujours==. Il est bâti pour sentir qu'il y a un
 au-delà de sa vue, ==sans pouvoir en atteindre les bords==. Le verset le dit
 d'ailleurs juste après.
 
-*Devarim* 32:7 — ==souviens-toi des jours d'**olam**==.
+*Devarim* 32:7 — ==souviens-toi des jours d'**ʿolam**==.
 
 Ce ne sont pas « des jours éternels », ce qui ne veut rien dire. Ce sont ==les
 jours dont plus personne ne peut témoigner== : ceux que nul vivant n'a vus, et
 qu'on ne tient plus que par transmission. Une frontière de mémoire, non une
 mesure de temps.
 
-*Tehilim* 24:7 — ==ouvrez-vous, portes d'**olam**==.
+*Tehilim* 24:7 — ==ouvrez-vous, portes d'**ʿolam**==.
 
-Si l'**olam** était un lieu, ses portes seraient les murs d'une ville. Mais si
+Si l'**ʿolam** était un lieu, ses portes seraient les murs d'une ville. Mais si
 c'est un rapport de visibilité, alors ses portes sont ==des points de
 basculement== : là où ce qui se dérobait se donne. Des seuils, ==et non des
 murs==.
 
 ## Les conséquences
 
-### Il faut être deux, sinon il n'y a pas d'**olam**
+### Il faut être deux, sinon il n'y a pas d'**ʿolam**
 
-L'**olam** n'existe que dans un rapport : ==quelqu'un qui perçoit==, et ==quelque
+L'**ʿolam** n'existe que dans un rapport : ==quelqu'un qui perçoit==, et ==quelque
 chose qui se dérobe==. Retire le premier terme, et le second n'est plus caché à
 personne.
 
 Ce n'est pas dire que rien n'existerait sans regard. C'est dire que ==le mot
-« **olam** » n'aurait plus rien à désigner==. Le mot nomme un rapport ; sans les
+« **ʿolam** » n'aurait plus rien à désigner==. Le mot nomme un rapport ; sans les
 deux termes, le rapport n'est pas.
 
 Ce qui perçoit, l'hébreu l'appelle un **kli** — ==ce qui est apte à recevoir==.
 
-### La même chose peut être dans l'**olam** de l'un et pas de l'autre
+### La même chose peut être dans l'**ʿolam** de l'un et pas de l'autre
 
 C'est la conséquence qui déconcerte le plus, et c'est la plus importante.
 
@@ -160,20 +160,20 @@ La différence n'est pas dans ce qui est regardé. Elle est dans ==la constituti
 de celui qui regarde== — dans son **kli**.
 
 C'est ce qui explique, sans aucun recours au merveilleux, ce que fait un
-**navi**. Il ne reçoit pas un supplément d'information. ==Son seuil est déplacé==,
-de sorte que ce qui reste dans l'**olam** pour les autres se donne à lui.
-L'**olam** n'a pas changé — ==le **kli** a changé==.
+**naviʾ**. Il ne reçoit pas un supplément d'information. ==Son seuil est déplacé==,
+de sorte que ce qui reste dans l'**ʿolam** pour les autres se donne à lui.
+L'**ʿolam** n'a pas changé — ==le **kli** a changé==.
 
-### Les « deux **olam** » ne sont pas deux mondes
+### Les « deux **ʿolam** » ne sont pas deux mondes
 
-On lit parfois *l'**olam** d'ici* et *l'**olam** qui vient*, et l'on comprend
+On lit parfois *l'**ʿolam** d'ici* et *l'**ʿolam** qui vient*, et l'on comprend
 aussitôt : le monde présent et l'autre monde, deux étages, deux lieux.
 
 C'est une lecture tardive, et elle est fausse. Ce sont ==deux états de
 visibilité== :
 
-- ==l'**olam** d'ici== — ce qui est présentement accessible à un regard ordinaire
-- ==l'**olam** qui vient== — ce qui excède ce seuil, ou ne s'y donne pas encore
+- ==l'**ʿolam** d'ici== — ce qui est présentement accessible à un regard ordinaire
+- ==l'**ʿolam** qui vient== — ce qui excède ce seuil, ou ne s'y donne pas encore
 
 ==Pas deux endroits. Deux régimes.== Et c'est pourquoi il n'y a jamais eu, dans
 l'hébreu ancien, de mur entre un monde matériel et un monde spirituel : ==il n'y
@@ -186,7 +186,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 ==Cette chuqqah dit ce que le mot nomme, non ce qui existe.==
 
 C'est sa limite, et il faut la tenir fermement, parce qu'on la franchit sans
-s'en apercevoir. Dire que l'**olam** est un rapport de perception ne dit ==rien==
+s'en apercevoir. Dire que l'**ʿolam** est un rapport de perception ne dit ==rien==
 sur ce qui se tient de l'autre côté du seuil, ni si quelque chose s'y tient.
 Le mot nomme le dérobement ; ==il ne décrit pas ce qui se dérobe==.
 
@@ -196,7 +196,7 @@ sens : il aurait encore pris un rapport pour une substance.
 
 ==Et une seconde limite, plus discrète.== Les voyelles de l'hébreu ancien ont
 été notées ==bien après== que ces textes furent écrits. *elem*, *almah* et
-**olam** partagent les mêmes consonnes ; que la langue ait senti la parenté est
+**ʿolam** partagent les mêmes consonnes ; que la langue ait senti la parenté est
 sûr, et le corpus la fait travailler. Mais ==une parenté de racine n'est pas une
 démonstration==, et cette chuqqah s'appuie d'abord sur les emplois — sur ce que
 les textes ==font== du mot —, non sur l'étymologie seule.
@@ -207,16 +207,16 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 
 - *==Cette chuqqah est écrite d'après une conjecture de l'auteur==, déposée dans *restranscriptions/*. Elle n'est pas une transcription : la matière était un échange, et elle est rendue en un seul corps, dans sa voix, à sa demande. La conjecture — *le mot ne porte pas le lieu d'où on le regarde, il porte uniquement le fait qu'on le regarde* — est la sienne ; l'invariant qui la formule, la mise en forme et le balisage sont du vault.*
 
-- *==Elle est la première parce qu'elle fonde les autres.== Toutes les chuqqot du corpus disent une facette de l'**olam** — voir la feuille d'introduction. Celle-ci n'en est pas une : elle pose ce dont les autres sont des facettes. C'est une propriété de la chuqqah, non un rang de tri ; l'ordre est déclaré dans la feuille d'introduction, et nulle part ailleurs.*
+- *==Elle est la première parce qu'elle fonde les autres.== Toutes les chuqqot du corpus disent une facette de l'**ʿolam** — voir la feuille d'introduction. Celle-ci n'en est pas une : elle pose ce dont les autres sont des facettes. C'est une propriété de la chuqqah, non un rang de tri ; l'ordre est déclaré dans la feuille d'introduction, et nulle part ailleurs.*
 
-- *==Deux termes travaillent ici sans être déclarés== : *tevel*, la terre habitée, et *nistar* / *seter*, le caché et la cachette. Ils ne paraissent que pour montrer ce que l'**olam** ==n'est pas==, et le corpus ne les emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa propre entrée le jour où un texte l'emploie.*
+- *==Deux termes travaillent ici sans être déclarés== : *tevel*, la terre habitée, et *nistar* / *seter*, le caché et la cachette. Ils ne paraissent que pour montrer ce que l'**ʿolam** ==n'est pas==, et le corpus ne les emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa propre entrée le jour où un texte l'emploie.*
 
-- *==Ce que la chuqqah laisse dehors.== La matière porte une articulation avec la taxonomie prophétique de l'auteur — *nigleh* et *nistar*, ce qui est dévoilé et ce qui est retenu —, et une application à sa propre constitution. Rien de cela n'entre ici : la première relève d'une chuqqah à venir sur le **navi**, la seconde appartient à son archive personnelle et n'a pas à en sortir.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte une articulation avec la taxonomie prophétique de l'auteur — *nigleh* et *nistar*, ce qui est dévoilé et ce qui est retenu —, et une application à sa propre constitution. Rien de cela n'entre ici : la première relève d'une chuqqah à venir sur le **naviʾ**, la seconde appartient à son archive personnelle et n'a pas à en sortir.*
 
 ### Ce que la chuqqah engage dans le corpus
 
 - *Bereshit* 3:22 (verrouillé) — *vechai leʿolam*, premier emploi du mot dans l'ONT.
-- *Qohelet* 3:11 (à écrire) — l'**olam** mis dans le cœur, le texte le plus décisif.
+- *Qohelet* 3:11 (à écrire) — l'**ʿolam** mis dans le cœur, le texte le plus décisif.
 - *Devarim* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
 - *Tehilim* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.
 - La fiche *lexique/olam.md* porte le même invariant, et le déplie pour le lecteur qui touche le mot dans une **parashah**.

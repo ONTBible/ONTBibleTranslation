@@ -14,7 +14,7 @@ C'est tout le verbe. ==Qadash== (*Qadash* / קָדַשׁ) veut dire ==mettre à 
 
 D'où le contresens de « sanctifier », qui suggère une amélioration morale : rendre pur, rendre saint, améliorer la qualité intérieure d'une chose ou d'un homme. Rien n'est amélioré. Rien n'est purifié. ==Rien n'est qodesh par nature== — tout l'est par assignation, et la même jarre, sortie de sa réserve, redevient une jarre.
 
-Ce qui rend saisissant le premier emploi du corpus. Ce qui est mis à part avant tout autre chose n'est ni un objet, ni un lieu, ni un homme : c'est ==un jour==. **Elohim** *barakh* le septième et le ==qadash==. On retire du temps de la circulation ordinaire — ce qui est infiniment plus difficile que de retirer un ustensile, puisque le temps ne se range pas sur une étagère.
+Ce qui rend saisissant le premier emploi du corpus. Ce qui est mis à part avant tout autre chose n'est ni un objet, ni un lieu, ni un homme : c'est ==un jour==. **ʾElohim** *barakh* le septième et le ==qadash==. On retire du temps de la circulation ordinaire — ce qui est infiniment plus difficile que de retirer un ustensile, puisque le temps ne se range pas sur une étagère.
 
 Suit tout un vocabulaire qui devient lisible d'un coup. Le **qodesh** est l'état de ce qui a été mis à part ; **qadosh** le qualifie ; le **Kohen** tient l'interface entre ce domaine et l'usage ordinaire ; le **tahor** est l'état qui permet le contact. Une seule opération, déclinée du septième jour jusqu'au seuil du sanctuaire.
 

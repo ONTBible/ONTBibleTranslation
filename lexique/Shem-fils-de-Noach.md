@@ -24,9 +24,9 @@ Le détail du dos tourné n'est pas un ornement narratif. Dans une scène dont t
 
 ## La dotation, et ce qui en sort
 
-[[Noach]] formule ensuite sur lui une parole d'une forme unique : il ne le dote pas lui, il ==dote **YHWH**== — *béni soit **YHWH**, **Elohim** de ==Shem==*.
+[[Noach]] formule ensuite sur lui une parole d'une forme unique : il ne le dote pas lui, il ==dote **YHWH**== — *béni soit **YHWH**, **ʾElohim** de ==Shem==*.
 
-C'est ce que le corpus met sur ce nom-là. La ligne qui portera la **berith** n'est pas déclarée supérieure : elle est déclarée ==celle dont **YHWH** est l'**Elohim**==. La dotation passe par la relation, pas par le rang.
+C'est ce que le corpus met sur ce nom-là. La ligne qui portera la **berith** n'est pas déclarée supérieure : elle est déclarée ==celle dont **YHWH** est l'**ʾElohim**==. La dotation passe par la relation, pas par le rang.
 
 De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe de l'autre côté== —, puis Terach, puis Avraham. Toute la suite du corpus descend de ce fils-là.
 

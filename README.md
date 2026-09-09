@@ -176,7 +176,7 @@ Relevé au dernier build du pipeline, jamais recopié à la main.
 
 Ce que la ventilation des occurrences raconte : **mishpat** paraît 14 fois dans
 le corps contre 40 dans les gloses — un terme encore en cours de fondation.
-**gibbaraya** est à 47 contre 6 : acquis.
+**gibbarayaʾ** est à 47 contre 6 : acquis.
 
 ---
 

@@ -16,7 +16,7 @@ D'où l'écart avec les mots que nous mettons dessus. « Repentance » désigne 
 
 Ce qui suppose qu'on soit parti de quelque part, et c'est le point. La ==teshuvah== n'est pas un progrès moral, une amélioration de soi : c'est ==le retour vers une présence quittée==. Il y avait une relation, un lieu où l'on se tenait ; on s'en est éloigné ; on y revient. Le mot présuppose la **berith** — on ne revient qu'à ce dont on relevait.
 
-Elle appartient à la même famille que l'**emunah** et la **yirah**, et les trois se tiennent : l'**emunah** est l'appui qui ne cède pas, la **yirah** est la place occupée, la ==teshuvah== est le retour à cette place quand on l'a quittée. Aucune n'est un état d'âme. Toutes sont ==des manières de se tenir==, vérifiables.
+Elle appartient à la même famille que l'**ʾemunah** et la **yirah**, et les trois se tiennent : l'**ʾemunah** est l'appui qui ne cède pas, la **yirah** est la place occupée, la ==teshuvah== est le retour à cette place quand on l'a quittée. Aucune n'est un état d'âme. Toutes sont ==des manières de se tenir==, vérifiables.
 
 C'est pourquoi la **tevilah** peut en être le geste : passer par les eaux, c'est faire avec le corps le demi-tour que le mot décrit. Le mouvement rendu visible.
 

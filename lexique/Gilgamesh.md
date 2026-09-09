@@ -14,7 +14,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 Le corpus le place ici ==sous décret==, et c'est un geste considérable.
 
-Ce nom appartient à la mémoire de Sumer et d'Akkad. Le mettre parmi les **gibbaraya** revient à dire : ==celui que les nations chantent comme un héros est de ceux-là==.
+Ce nom appartient à la mémoire de Sumer et d'Akkad. Le mettre parmi les **gibbarayaʾ** revient à dire : ==celui que les nations chantent comme un héros est de ceux-là==.
 
 Et c'est exactement ce que le §3.3 fait du mot **gibbor**. Ce n'est pas ==le héros== au sens grec — l'excellence — ni le vaillant au sens de la vertu : ==le **gibbor** pèse par sa capacité de contrainte==, et rien d'autre.
 
@@ -24,6 +24,6 @@ En plaçant ==Gilgamesh== parmi eux, ==le corpus retourne une gloire==. Il ne ni
 
 ## Voir aussi
 
-Ceux avec qui il est rangé : [[Ohyah]], [[Hahyah]], [[Chobabish]], les **gibbaraya**.
+Ceux avec qui il est rangé : [[ʾOhyah]], [[Hahyah]], [[Chobabish]], les **gibbarayaʾ**.
 
 Ce que son **Shem** touche : les **gibborim** et les **Nefilim** de *Bereshit* 6, et les *anshei ha-shem*.

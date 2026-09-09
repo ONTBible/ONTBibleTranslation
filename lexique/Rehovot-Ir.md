@@ -20,4 +20,4 @@ Le premier *mamlakhah* du corpus a donc ==des faubourgs==. C'est un détail, et 
 
 ## Voir aussi
 
-Ce qu'il complète : [[Ninveh]], [[Kelach]], dans [[Assur]] — fondées par [[Nimrod]].
+Ce qu'il complète : [[Ninveh]], [[Kelach]], dans [[ʾAssur]] — fondées par [[Nimrod]].

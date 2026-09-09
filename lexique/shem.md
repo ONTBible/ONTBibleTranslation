@@ -10,9 +10,9 @@ Le grand poème babylonien de la création s'ouvre ainsi : *lorsque, en haut, le
 
 C'est le monde dans lequel le corpus hébreu est écrit, et il faut y entrer pour lire ce mot. Un ==Shem== (*Shem* / שֵׁם) n'est pas une étiquette collée sur une chose déjà là. C'est ce qui fait qu'elle est là — sa place assignée, son office, son entrée dans l'ordre.
 
-Regarde alors la première page autrement. **Elohim** sépare la lumière de l'obscurité, puis il ==appelle== la lumière jour et l'obscurité nuit. Ce second geste n'est pas une commodité de vocabulaire : c'est l'achèvement du premier. Séparer trace la frontière ; nommer installe ce qu'elle délimite dans son emploi.
+Regarde alors la première page autrement. **ʾElohim** sépare la lumière de l'obscurité, puis il ==appelle== la lumière jour et l'obscurité nuit. Ce second geste n'est pas une commodité de vocabulaire : c'est l'achèvement du premier. Séparer trace la frontière ; nommer installe ce qu'elle délimite dans son emploi.
 
-Et regarde ce qu'on donne à faire à l'homme, aussitôt façonné. **YHWH** **Elohim** fait défiler devant lui les **Nefesh** vivants ==pour voir comment il les appellerait, et tout ce que l'adam appela, c'est son Shem==. Ce n'est pas un jeu de vocabulaire confié à un enfant. C'est le premier acte de gouvernement du **tselem** : assigner à chaque être sa place dans le monde dont il a la charge.
+Et regarde ce qu'on donne à faire à l'homme, aussitôt façonné. **YHWH** **ʾElohim** fait défiler devant lui les **Nefesh** vivants ==pour voir comment il les appellerait, et tout ce que l'adam appela, c'est son Shem==. Ce n'est pas un jeu de vocabulaire confié à un enfant. C'est le premier acte de gouvernement du **tselem** : assigner à chaque être sa place dans le monde dont il a la charge.
 
 De là, tout le corpus devient lisible. Changer le ==Shem== de quelqu'un, ce n'est pas lui trouver un surnom : ==Avram== devient ==Avraham== au moment où sa fonction change, et il n'y a rien de plus à dire — le nom ==est== la fonction. Un homme sans ==Shem== n'est pas un anonyme, c'est quelqu'un que l'ordre ne porte pas. Et quand les bâtisseurs de la tour disent ==faisons-nous un Shem==, ils n'annoncent pas qu'ils veulent la gloire : ils annoncent qu'ils vont s'assigner eux-mêmes leur place, sans la recevoir. C'est toute leur faute, et elle tient en trois mots.
 

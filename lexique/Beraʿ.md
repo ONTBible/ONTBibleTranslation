@@ -12,13 +12,13 @@
 
 Il mène les cinq révoltés, il est battu, et il tombe dans les puits de bitume de la vallée de [[Siddim]].
 
-Puis il revient. Après la victoire d'[[Avraham]], ==il sort à sa rencontre== et lui offre un marché : *donne-moi les **Nefesh**, et prends les biens pour toi*.
+Puis il revient. Après la victoire d'[[ʾAvraham]], ==il sort à sa rencontre== et lui offre un marché : *donne-moi les **Nefesh**, et prends les biens pour toi*.
 
-Et [[Avraham]] refuse tout — ==jusqu'à un fil et une courroie de sandale== — *afin que tu ne dises pas : c'est moi qui ai enrichi [[Avraham]]*.
+Et [[ʾAvraham]] refuse tout — ==jusqu'à un fil et une courroie de sandale== — *afin que tu ne dises pas : c'est moi qui ai enrichi [[ʾAvraham]]*.
 
-La scène est placée juste après celle de [[Malki-tsedeq]], et le contraste est le sujet. ==Un roi apporte du pain et du vin et dote au nom de **El Elyon** ; l'autre propose un partage.== [[Avraham]] reçoit du premier et ne prend rien du second.
+La scène est placée juste après celle de [[Malki-tsedeq]], et le contraste est le sujet. ==Un roi apporte du pain et du vin et dote au nom de **ʾEl ʿElyon** ; l'autre propose un partage.== [[ʾAvraham]] reçoit du premier et ne prend rien du second.
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

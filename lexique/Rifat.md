@@ -20,4 +20,4 @@ Aucun *navi* ne le reprend. Il est ==un maillon de la carte==, et la règle de l
 
 ## Voir aussi
 
-Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[Ashkenaz]] et [[Togarmah]].
+Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[ʾAshkenaz]] et [[Togarmah]].

@@ -16,8 +16,8 @@ Le **Shem** est ==astronomique==, et il porte ce que la lune sert à faire dans 
 
 C'est la fonction que *Bereshit* 1 assigne aux luminaires — être des signes pour les *moʿadim*, les temps fixés, les jours et les années. Un peuple porte donc dans son nom ==l'instrument du calendrier==.
 
-Avec [[Almodad]] qui mesure l'espace, il forme une paire que la liste n'annonce pas mais qu'on peut voir : ==la mesure de l'étendue et celle de la durée==.
+Avec [[ʾAlmodad]] qui mesure l'espace, il forme une paire que la liste n'annonce pas mais qu'on peut voir : ==la mesure de l'étendue et celle de la durée==.
 
 ## Voir aussi
 
-Sa maison : [[Yoqtan]] son père, [[Ever]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.

@@ -56,8 +56,8 @@ Ce n'est pas une manière élégante de dire qu'il est partout. C'est dire que
 qu'elles supposent un espace où il serait situé — et il est ce dans quoi tout
 espace se tient.
 
-Un **navi** le formule presque comme une définition : *suis-je un **Elohim** de
-près, et non un **Elohim** de loin ?*
+Un **naviʾ** le formule presque comme une définition : *suis-je un **ʾElohim** de
+près, et non un **ʾElohim** de loin ?*
 
 ## Ce que ça change pour qui cherche
 

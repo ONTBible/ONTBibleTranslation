@@ -20,7 +20,7 @@ Son roi n'est pas nommé, seul de tous — le corpus dit *le roi de Bela, c'est-
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
 
 Ce qu'elle deviendra : [[Tsoʿar]], le refuge de [[Lot]].

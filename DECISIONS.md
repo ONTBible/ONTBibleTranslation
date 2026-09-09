@@ -42,52 +42,52 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 
 | Lemme | Formes dérivées | Premier emploi | Fiche |
 |---|---|---|:-:|
-| **Elohim** | elohim | — | ✓ |
+| **ʾElohim** | elohim | — | ✓ |
 | **YHWH** | — | — | ✓ |
 | **Ruach** | ruach | — | ✓ |
 | **Nefesh** | nefesh | — | ✓ |
 | **Neshamah** | neshamah | — | ✓ |
-| **ishah** | Ishah, ishto, eshet, neshei, nashim | — | ✓ |
-| **ish** | Ish, anashim, anshei | — | ✓ |
+| **ʾishah** | Ishah, ishto, eshet, neshei, nashim | — | ✓ |
+| **ʾish** | Ish, anashim, anshei | — | ✓ |
 | **Shem** | shem, Shem | — | ✓ |
 | **kavod** | Kavod | — | ✓ |
 | **Tahor** | tahor, lo tahor | — | ✓ |
-| **Olah** | olah, Olot, olot | — | ✓ |
+| **ʿOlah** | olah, Olot, olot | — | ✓ |
 | **L'Être façonné du sol** | l'Être façonné du sol | — | ✓ |
-| **adam** | — | — | ✓ |
+| **ʾadam** | — | — | ✓ |
 | **mabbul** | — | — | ✓ |
 | **nacham** | — | *Bereshit* 5:29 | ✓ |
-| **Adonai** | — | *Bereshit* 15:2 | ✓ |
-| **El** | El Elyon ◆, El Roï ◆, El Shaddai ◆ | — | ✓ |
-| **El Elyon** | — | *Bereshit* 14 | ✓ |
-| **El Roï** | — | *Bereshit* 16:13 | ✓ |
+| **ʾAdonai** | — | *Bereshit* 15:2 | ✓ |
+| **ʾEl** | El Elyon ◆, El Roï ◆, El Shaddai ◆ | — | ✓ |
+| **ʾEl ʿElyon** | — | *Bereshit* 14 | ✓ |
+| **ʾEl Roï** | — | *Bereshit* 16:13 | ✓ |
 | **Kohen** | kohen, kohanim, kohen gadol | *Bereshit* 14:18 | ✓ |
 | **malʾakh** | malʾakhim | *Bereshit* 16:7 | ✓ |
 | **shaliach** | shlichim | — | ✓ |
 | **shifchah** | — | *Bereshit* 16:1 | ✓ |
-| **emunah** | Emunah, emuna | *Bereshit* 15:6 | ✓ |
+| **ʾemunah** | Emunah, emuna | *Bereshit* 15:6 | ✓ |
 | **tsedaqah** | tsedaqah umishpat | *Bereshit* 15:6 | ✓ |
 | **tsadiq** | tsadiqim | *Bereshit* 6:9 | ✓ |
 | **rashaʿ** | reshaʿim | *Bereshit* 18:23 | ✓ |
 | **chesed** | — | *Bereshit* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Shemot* 34:6-7 et *Ruth* | ✓ |
 | **tov** | tov meʾod, tov vara, Tov vara | *Bereshit* 1:4 | ✓ |
 | **raʿ** | raʿat, raʿim | *Bereshit* 2:9 | ✓ |
-| **chata** | — | *Bereshit* 4:7 | ✓ |
+| **chataʾ** | — | *Bereshit* 4:7 | ✓ |
 | **chattat** | chataʾah, chataʾim | *Bereshit* 4:7 | ✓ |
 | **davar** | devarim | *Bereshit* 11:1 | ✓ |
-| **irin** | — | — | ✓ |
-| **gibbaraya** | — | — | ✓ |
+| **ʿirin** | — | — | ✓ |
+| **gibbarayaʾ** | — | — | ✓ |
 | **parashah** | parashiot | — | ✓ |
 | **basar** | — | *Bereshit* 2:23 (*basar mibesari*) | ✓ |
 | **qahal** | — | — | ✓ |
-| **echad** | — | *Bereshit* 1:5 (*yom echad*) | ✓ |
-| **El Shaddai** | — | *Bereshit* 17:1 | ✓ |
+| **ʾechad** | — | *Bereshit* 1:5 (*yom echad*) | ✓ |
+| **ʾEl Shaddai** | — | *Bereshit* 17:1 | ✓ |
 | **milah** | — | *Bereshit* 17 | ✓ |
 | **goy** | goyim | — | ✓ |
-| **orlah** | arel | — | ✓ |
+| **ʿorlah** | arel | — | ✓ |
 | **mishpat** | mishpatim | *Bereshit* 18 | ✓ |
 | **shofet** | shoftim | *Bereshit* 18:25 | ✓ |
-| **olam** | berith-olam, achuzat-olam, ledorot-olam, ad-olam, leʿolam, meʿolam | *Bereshit* 3:22 (*vechai leʿolam*) | ✓ |
+| **ʿolam** | berith-olam, achuzat-olam, ledorot-olam, ad-olam, leʿolam, meʿolam | *Bereshit* 3:22 (*vechai leʿolam*) | ✓ |
 | **Sheʾol** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **teshuvah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |
@@ -95,12 +95,12 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **merkavah** | — | en corps de texte : *Toledot Adam ve-Chavah* | ✓ |
 | **Nefilim** | — | *Bereshit* 6:4 | ✓ |
 | **gibbor** | gibborim, gibor | *Bereshit* 6:4 | ✓ |
-| **navi** | neviʾim | — | ✓ |
+| **naviʾ** | neviʾim | — | ✓ |
 | **qodesh** | — | — | ✓ |
 | **Ruach ha-Qodesh** | — | — | ✓ |
 | **chokhmah** | — | — | ✓ |
 | **binah** | — | — | ✓ |
-| **etsah** | — | — | ✓ |
+| **ʿetsah** | — | — | ✓ |
 | **gevurah** | gevurot, gevurot | — | ✓ |
 | **daʿat** | — | — | ✓ |
 | **yirah** | yirat YHWH | — | ✓ |
@@ -110,7 +110,7 @@ Le §2.5 la cite dans la prose de la puce voisine pour l'en *écarter*
 — « ni les composés qui ont leur propre entrée » —, mais l'extraction
 ne lit que les formes entre accents graves et ne distingue pas une
 citation d'une déclaration. Vérifié sans conséquence sur le corpus
-actuel : `**El Elyon**` est bien émis avec `lemma: el-elyon`, non
+actuel : `**ʾEl ʿElyon**` est bien émis avec `lemma: el-elyon`, non
 `el`. C'est une fragilité, pas un défaut — signalée pour qu'elle ne
 se découvre pas le jour où l'ordre de lecture changera.
 

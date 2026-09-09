@@ -20,4 +20,4 @@ Elle sera l'une des capitales de l'empire assyrien, avec [[Ninveh]].
 
 ## Voir aussi
 
-Ce qu'elle complète : [[Ninveh]], [[Rehovot-Ir]], dans [[Assur]] — fondées par [[Nimrod]].
+Ce qu'elle complète : [[Ninveh]], [[Rehovot-Ir]], dans [[ʾAssur]] — fondées par [[Nimrod]].

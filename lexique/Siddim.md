@@ -10,7 +10,7 @@
 
 ## Ce que le corpus en fait
 
-Le détail décide de la bataille. La vallée est ==pleine de puits de bitume==, et quand les rois de [[Sedom]] et d'[[Amorah]] fuient, ==ils y tombent==.
+Le détail décide de la bataille. La vallée est ==pleine de puits de bitume==, et quand les rois de [[Sedom]] et d'[[ʿAmorah]] fuient, ==ils y tombent==.
 
 Ce n'est pas une image : le bitume affleure réellement dans cette région, et on l'exploitait. ==La géographie gagne la guerre.==
 
@@ -22,4 +22,4 @@ Le corpus pose donc, sans le commenter, ==l'état final du lieu== au moment où 
 
 Ce qui s'y joue : la bataille des neuf rois.
 
-Ce qu'elle devient : la mer du Sel, après le **mishpat** sur [[Sedom]] et [[Amorah]].
+Ce qu'elle devient : la mer du Sel, après le **mishpat** sur [[Sedom]] et [[ʿAmorah]].

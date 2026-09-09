@@ -36,8 +36,8 @@ touchent, il parle de deux existences qui n'en font plus qu'une.
 
 Retiens ceci, parce qu'un raisonnement entier du corpus repose dessus.
 
-Un **malʾakh** n'a pas de ==basar==. Il prend un **olam** de feu ou de fumée le
-temps d'une mission, puis il le rend — et un **olam** emprunté ne meurt pas,
+Un **malʾakh** n'a pas de ==basar==. Il prend un **ʿolam** de feu ou de fumée le
+temps d'une mission, puis il le rend — et un **ʿolam** emprunté ne meurt pas,
 parce qu'il n'a jamais vraiment vécu.
 
 Donc un **malʾakh** ne peut ni mourir ni ressusciter. Donc il ne peut ==rien
@@ -50,8 +50,8 @@ tenir sa place.==
 
 ## Voir aussi
 
-**Nefesh**, l'autre façon de dire l'être entier. **malʾakh** et **olam**, pour
-ce qui n'en a pas. **echad**, pour l'unité que deux **basar** peuvent faire. Et
+**Nefesh**, l'autre façon de dire l'être entier. **malʾakh** et **ʿolam**, pour
+ce qui n'en a pas. **ʾechad**, pour l'unité que deux **basar** peuvent faire. Et
 la chuqqah des quatre modes de présence, où cette contrainte commande la
 troisième strate.
 

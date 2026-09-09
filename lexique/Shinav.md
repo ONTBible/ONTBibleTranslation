@@ -8,7 +8,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-(*Shinav* / שִׁנְאָב) — roi d'[[Admah]].
+(*Shinav* / שִׁנְאָב) — roi d'[[ʾAdmah]].
 
 ## Ce que le corpus en fait
 
@@ -20,5 +20,5 @@ Dans un corpus où nommer c'est faire entrer dans l'ordre, ==donner un nom à un
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].

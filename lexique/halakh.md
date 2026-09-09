@@ -18,9 +18,9 @@ Ce n'est plus « aller quelque part ». C'est ==marcher de façon continue, habi
 
 ## Ce que le corpus en fait
 
-Deux hommes seulement sont dits *hithalekh* avec **Elohim** : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] et [[Noach]].
+Deux hommes seulement sont dits *hithalekh* avec **ʾElohim** : [[Chanokh-qui-marche-avec-Elohim|Chanokh]] et [[Noach]].
 
-Et il faut voir ce que la forme dit d'eux. Elle ne dit pas qu'ils ==sont allés vers== **Elohim**, comme on va vers un lieu. Elle dit qu'ils ==marchaient avec==, de façon durable — que leur vie entière était ce compagnonnage, non un épisode.
+Et il faut voir ce que la forme dit d'eux. Elle ne dit pas qu'ils ==sont allés vers== **ʾElohim**, comme on va vers un lieu. Elle dit qu'ils ==marchaient avec==, de façon durable — que leur vie entière était ce compagnonnage, non un épisode.
 
 Pour l'un des deux, la phrase se termine autrement que pour tous les autres hommes de sa généalogie : là où chacun ==*vayamot*==, il n'est simplement plus là. Le corpus ne dit pas ce qui s'est passé, et le §4.11 demande qu'on ne le dise pas non plus.
 

@@ -6,7 +6,7 @@
 
 Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *ka-LA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
 
-Le septième jour s'ouvre sur ce verbe : les Cieux et l'**eretz** furent ==kalah== (*kalah* / כָּלָה), avec toute leur armée. On traduit « furent achevés », et le mot français penche du côté de *terminé* — la fin d'un travail, le moment où l'on s'arrête.
+Le septième jour s'ouvre sur ce verbe : les Cieux et l'**ʾeretz** furent ==kalah== (*kalah* / כָּלָה), avec toute leur armée. On traduit « furent achevés », et le mot français penche du côté de *terminé* — la fin d'un travail, le moment où l'on s'arrête.
 
 L'hébreu penche de l'autre côté. ==Kalah== dit ==être complet, être plein, être accompli dans sa totalité== — non pas que le travail cesse, mais qu'il ==ne manque plus rien==. La nuance est celle qui sépare un chantier interrompu d'une maison finie.
 

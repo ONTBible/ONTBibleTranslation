@@ -12,6 +12,6 @@ Ce qui déplace ce qu'on croit lire dans les fêtes du corpus. Nous appelons cel
 
 La tente elle-même en porte le nom : *ohel ==moed==*, la tente du rendez-vous, ce qu'on traduit « tente de la rencontre ». Ce n'est pas un lieu de culte au sens général — c'est ==l'endroit où l'on se retrouve à l'heure dite==, exactement comme deux personnes se retrouvent à un puits.
 
-D'où le lien avec le septième jour, le premier temps mis à part du corpus. **Elohim** l'a *barakh* et **qadash** — retiré du compte des jours utiles. Un ==moed== est du temps qui a été ==assigné==, comme un ustensile mis de côté cesse d'être disponible pour l'eau : il n'appartient plus à l'usage ordinaire.
+D'où le lien avec le septième jour, le premier temps mis à part du corpus. **ʾElohim** l'a *barakh* et **qadash** — retiré du compte des jours utiles. Un ==moed== est du temps qui a été ==assigné==, comme un ustensile mis de côté cesse d'être disponible pour l'eau : il n'appartient plus à l'usage ordinaire.
 
 Et cela explique pourquoi le calendrier compte tant dans ce monde-là. Manquer un ==moed==, ce n'est pas manquer une célébration — c'est ==n'être pas là quand on était attendu==.

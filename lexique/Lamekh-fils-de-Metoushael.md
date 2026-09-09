@@ -14,15 +14,15 @@ Dans un chapitre où presque tous les **Shem** s'ouvrent — l'acquisition, la b
 
 ## Le premier à rompre la mesure
 
-Il est le premier à prendre ==deux **ishah**== — [[Adah]] et [[Tsillah]] — là où tout le récit tenait le lien à deux, *ish* et *ishah*, os de mes os.
+Il est le premier à prendre ==deux **ʾishah**== — [[ʿAdah]] et [[Tsillah]] — là où tout le récit tenait le lien à deux, *ish* et *ishah*, os de mes os.
 
 Le texte le rapporte sans un mot de jugement. C'est sa manière quand il tient quelque chose de lourd : il pose, et il attend que la suite parle.
 
 ## Le premier poème du corpus est un chant de sang
 
-Et la suite parle. Il s'adresse à ses deux **ishah** — le premier morceau versifié du corpus s'ouvre sur ce nom-là — et voici ce qu'il chante :
+Et la suite parle. Il s'adresse à ses deux **ʾishah** — le premier morceau versifié du corpus s'ouvre sur ce nom-là — et voici ce qu'il chante :
 
-> J'ai tué un **ish** pour ma blessure, un enfant pour ma meurtrissure.
+> J'ai tué un **ʾish** pour ma blessure, un enfant pour ma meurtrissure.
 > Si [[Qayin]] est vengé sept fois, ==Lamekh== le sera soixante-dix-sept fois.
 
 Il faut mesurer ce qu'il fait là. **YHWH** avait posé un signe sur son ancêtre — une ==protection==, pour que celui qui le trouverait ne le frappe pas, et la vengeance septuple en était la garantie. C'était un acte de **YHWH**, reçu par un banni qui n'avait rien demandé.
@@ -43,6 +43,6 @@ Le corpus ne dit pas que l'un cause l'autre. Il les pose côte à côte, et se t
 
 Le même **Shem**, porté par un autre : le [[Lamekh-fils-de-Metoushelach]] de la ligne de [[Shet]], père de [[Noach]] — celui qui nomme son fils en disant qu'il les **nacham**era. Le corpus relève lui-même la coïncidence, et en tire que *l'humanité reste une, même divisée*.
 
-Sa maison : [[Metoushael]] son père, [[Adah]] et [[Tsillah]] ses **ishah**, et leurs quatre enfants.
+Sa maison : [[Metoushael]] son père, [[ʿAdah]] et [[Tsillah]] ses **ʾishah**, et leurs quatre enfants.
 
 Ce que son chant touche : le signe posé sur [[Qayin]], et le *chamas* qui remplira la Terre avant le **mabbul**.

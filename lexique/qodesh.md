@@ -14,7 +14,7 @@ L'état de cette jarre, c'est le ==qodesh== (*qodesh* / קֹדֶשׁ). Non pas u
 
 Voilà pourquoi « sainteté » ne peut pas servir. Le mot français dit une perfection morale — un homme saint est un homme meilleur —, et il fait chercher dans les choses une qualité qui n'y est pas. L'hébreu ne parle jamais de qualité : il parle de ==destination==, et donc de disponibilité.
 
-Ce qui devient saisissant à la première occurrence du corpus. Ce qui est mis à part avant tout le reste n'est ni un objet, ni un lieu, ni un homme : c'est ==un jour==. **Elohim** *barakh* le septième et le **qadash**. On retire du temps de la circulation ordinaire — ce qui est autrement plus difficile que de ranger un ustensile, puisque le temps ne se pose pas sur une étagère.
+Ce qui devient saisissant à la première occurrence du corpus. Ce qui est mis à part avant tout le reste n'est ni un objet, ni un lieu, ni un homme : c'est ==un jour==. **ʾElohim** *barakh* le septième et le **qadash**. On retire du temps de la circulation ordinaire — ce qui est autrement plus difficile que de ranger un ustensile, puisque le temps ne se pose pas sur une étagère.
 
 Tout un vocabulaire se range alors derrière celui-là. **Qadosh** qualifie ce qui a été mis à part ; le **Kohen** tient l'interface entre ce domaine et l'usage courant ; le **tahor** est l'état qui permet le contact ; le **badal** du premier chapitre est le même geste, à l'échelle du cosmos. Une seule opération — ==séparer== —, déclinée du septième jour jusqu'au seuil du sanctuaire.
 

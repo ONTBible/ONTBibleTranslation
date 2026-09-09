@@ -30,13 +30,13 @@ un regard ordinaire, reste fermé.
 | **roʿeh** | il ==voit== | ce qui vient, le chemin, le danger |
 | **chozeh** | il ==pénètre== | ce qui reste voilé aux autres |
 
-Les deux sont des dimensions du même **navi**, et l'un n'est pas le rang
+Les deux sont des dimensions du même **naviʾ**, et l'un n'est pas le rang
 supérieur de l'autre. C'est ==une différence de profondeur d'accès==, non de
 mérite.
 
 ## Ce que le grec a détruit ici, et c'est le cas le plus net
 
-Les traducteurs grecs ont pris **chozeh**, **roʿeh** et **navi** — trois mots
+Les traducteurs grecs ont pris **chozeh**, **roʿeh** et **naviʾ** — trois mots
 distincts — et les ont rendus par un seul : *prophētēs*, ==celui qui parle
 devant==.
 

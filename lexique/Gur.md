@@ -14,7 +14,7 @@ Reste à l'enfant à s'en débarrasser. Il les jette dans les eaux du ==Gur==, q
 
 ## Pourquoi cette insistance
 
-Parce que c'est un argument, et qu'il servira quelques versets plus loin. Quand [[Avraham]] récapitule ce qu'il a vu, il compte : [[Merumath]] est tombé et n'a pas pu se relever ; les cinq autres n'ont pu ni se secourir ni faire de mal à l'âne qui les a brisés ; ==et leurs morceaux ne sont pas remontés du fleuve==.
+Parce que c'est un argument, et qu'il servira quelques versets plus loin. Quand [[ʾAvraham]] récapitule ce qu'il a vu, il compte : [[Merumath]] est tombé et n'a pas pu se relever ; les cinq autres n'ont pu ni se secourir ni faire de mal à l'âne qui les a brisés ; ==et leurs morceaux ne sont pas remontés du fleuve==.
 
 Quatre constats de charge non tenue. ==Ce qu'on jette à l'eau ne remonte pas== est le dernier, et le fleuve n'est là que pour le rendre vérifiable.
 

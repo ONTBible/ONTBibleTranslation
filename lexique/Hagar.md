@@ -34,14 +34,14 @@ Le **malʾakh** de **YHWH** la trouve près d'une source du désert — premièr
 
 Il l'appelle par son statut — **shifchah** de [[Sarai]] — et lui demande d'où elle vient et où elle va. Elle répond qu'elle fuit.
 
-Puis elle fait ce qu'aucun patriarche ne fait : elle ==donne un **Shem** à **YHWH**==. Elle l'appelle **El Roï**, ==l'El qui me voit==. C'est le seul nom divin de tout le corpus donné par un être humain, et il est donné par ==une servante étrangère, sans droits, dans un désert==.
+Puis elle fait ce qu'aucun patriarche ne fait : elle ==donne un **Shem** à **YHWH**==. Elle l'appelle **ʾEl Roï**, ==l'El qui me voit==. C'est le seul nom divin de tout le corpus donné par un être humain, et il est donné par ==une servante étrangère, sans droits, dans un désert==.
 
 Le texte l'enregistre sans commenter. La règle de l'ONT est de ne pas ajouter ce qu'il tait — mais on peut relever ce qu'il fait : ==il place l'acte de nomination le plus audacieux du corpus dans la bouche de la plus dépourvue==.
 
 ## Voir aussi
 
-Sa maison : [[Sarai]] dont elle est la **shifchah**, [[Avraham]], et ==Ishmaʿel== son fils dont le **Shem** dit *El entend*.
+Sa maison : [[Sarai]] dont elle est la **shifchah**, [[ʾAvraham]], et ==Ishmaʿel== son fils dont le **Shem** dit *El entend*.
 
-Ce que son **Shem** touche : **El Roï** qu'elle nomme, le **malʾakh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
+Ce que son **Shem** touche : **ʾEl Roï** qu'elle nomme, le **malʾakh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
 
 Ce qui reste à écrire : son récit est en *Bereshit* 16 et 21 ; la couche des Shemot n'y est pas encore portée, et cette fiche sera reprise.

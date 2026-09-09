@@ -10,7 +10,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-(*Chobabish* / חובבש) — ==un nom étranger==, intégré à la mémoire des **gibbaraya**.
+(*Chobabish* / חובבש) — ==un nom étranger==, intégré à la mémoire des **gibbarayaʾ**.
 
 ## Ce que le corpus en fait
 
@@ -22,6 +22,6 @@ Ce n'est ni un emprunt ni une polémique. C'est la même opération que pour les
 
 ## Voir aussi
 
-Ceux avec qui il est rangé : [[Gilgamesh]], [[Ohyah]], [[Hahyah]].
+Ceux avec qui il est rangé : [[Gilgamesh]], [[ʾOhyah]], [[Hahyah]].
 
 La même opération ailleurs : les *tanninim* de *Bereshit* 1.

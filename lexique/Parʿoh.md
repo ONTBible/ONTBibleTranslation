@@ -22,7 +22,7 @@ Et il faut mesurer ce que cela produit dans une langue où nommer est un acte. L
 
 Regardez qui reçoit un nom dans ces chapitres, et vous verrez que le silence est choisi.
 
-[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[Amrafel]], et [[Aryokh]], et [[Tidʿal]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Beraʿ]] et [[Birshaʿ]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
+[[Malki-tsedeq]] est nommé, et son **Shem** est expliqué. [[Kedorlaomer]] est nommé, et [[ʾAmrafel]], et [[ʾAryokh]], et [[Tidʿal]] — quatre rois de l'orient dont le récit n'avait aucun besoin de retenir les noms, et qui les portent. [[Beraʿ]] et [[Birshaʿ]] sont nommés, et leurs *Shemot* sont si transparents que le texte joue avec.
 
 ==Le roi de Mitsrayim, jamais.== Ni ici, ni au chapitre suivant, ni dans tout le récit qui viendra. De *Bereshit* 12 jusqu'à la sortie de *Shemot*, ==aucun Parʿoh du corpus ne porte de nom==.
 
@@ -34,7 +34,7 @@ D'où l'effet, quand la confrontation viendra : ce n'est pas un homme qui fait f
 
 Elle est brève et elle donne le ton.
 
-[[Avram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Parʿoh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
+[[ʾAvram]] descend en [[Mitsrayim]] parce que la famine pèse sur le pays. Il dit de [[Sarai]] qu'elle est sa sœur. Et le texte fait alors une chose précise : ce ne sont pas des passants qui la remarquent, ce sont les (*sarei Parʿoh* / שָׂרֵי פַרְעֹה) — ==les *sarim* de la grande maison==, ses ministres, ses chefs.
 
 L'écho est dans les consonnes, et il ne survit à aucune traduction. *Sar* (*sar* / שַׂר) est ==la racine même du **Shem** de [[Sarai]]== : « ma souveraine ». Les souverains de Pharaon voient la souveraine, la louent devant lui, et elle est prise dans la maison.
 
@@ -50,6 +50,6 @@ Tout le reste est devant : *Bereshit* 40-41 avec ==Yosef== devant la maison, pui
 
 Le pays et sa maison : [[Mitsrayim]], dont le **Shem** est un duel — les deux terres, la haute et la basse.
 
-La scène : [[Avram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
+La scène : [[ʾAvram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
 
-Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[Amrafel]], [[Beraʿ]] — la comparaison est ce qui rend le silence lisible.
+Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[ʾAmrafel]], [[Beraʿ]] — la comparaison est ce qui rend le silence lisible.

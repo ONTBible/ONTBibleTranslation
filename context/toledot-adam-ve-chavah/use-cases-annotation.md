@@ -23,14 +23,14 @@
 ## Détail des use cases
 
 ### UC0 — Noms divins *(le plus sacré)*
-**Membres :** **YHWH**, **Elohim**, **Adonai**, **El Elyon**, **El Shaddai**, **El Roï**, et les composés (**YHWH** **Elohim**, **YHWH** **El Elyon**…).
+**Membres :** **YHWH**, **ʾElohim**, **ʾAdonai**, **ʾEl ʿElyon**, **ʾEl Shaddai**, **ʾEl Roï**, et les composés (**YHWH** **ʾElohim**, **YHWH** **ʾEl ʿElyon**…).
 - **N1** : toujours en hébreu, en **gras**, majuscule ; **jamais traduits**.
 - **N3** : les Fondations le portent à chaque occurrence ou presque ; plancher = UC2-b (≥ 1×/chapitre).
 - **N2** : la **glose fondatrice** sur le Nom est donnée **une seule fois dans tout le corpus** (décision §7, à traiter avec l'auteur), non répétée par unité.
-- **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **Elohim**) ; forme construite laissée en hébreu (*laYHWH*…).
+- **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **ʾElohim**) ; forme construite laissée en hébreu (*laYHWH*…).
 
 ### UC1 — Intraduisible
-**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **raʿ**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
+**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **raʿ**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **ʾemunah**, **tsedeq**… (liste §2.5 + apports par livre).
 - **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **Sheʾol**, **malʾakh**).
 - **N3** : 1re occ. de l'unité (réappliqué si utile).
 - **N2** : 1re occ.

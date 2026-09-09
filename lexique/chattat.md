@@ -12,9 +12,9 @@ C'est l'image que le corpus emploie la première fois qu'il nomme la ==chattat==
 
 Retiens que rien n'est encore arrivé. Personne n'a été frappé, aucune règle n'a été enfreinte. Ce que le texte décrit, c'est ==un état de la situation== : quelque chose est là, disponible, orienté vers lui — et il a la charge de le tenir.
 
-La ==chattat== est la forme nominale de **chata**, manquer sa cible : elle est ==le manquement lui-même==, pris comme une chose. Non pas la culpabilité qui suit, non pas la dette qu'il faudra payer — l'écart, posé là.
+La ==chattat== est la forme nominale de **chataʾ**, manquer sa cible : elle est ==le manquement lui-même==, pris comme une chose. Non pas la culpabilité qui suit, non pas la dette qu'il faudra payer — l'écart, posé là.
 
-L'image est celle du tir. On vise, et la flèche passe à côté : voilà **chata**. Rien n'est dit du tireur, de ses intentions ni de sa valeur — seulement que le geste n'a pas atteint ce à quoi il était destiné. Le français n'a pas ce mot, et c'est pourquoi l'ONT ne traduit ni le verbe ni le nom.
+L'image est celle du tir. On vise, et la flèche passe à côté : voilà **chataʾ**. Rien n'est dit du tireur, de ses intentions ni de sa valeur — seulement que le geste n'a pas atteint ce à quoi il était destiné. Le français n'a pas ce mot, et c'est pourquoi l'ONT ne traduit ni le verbe ni le nom.
 
 C'est ce que « le péché » ne peut plus dire. Le mot français traîne une architecture entière : une faute morale, une souillure de l'âme, une comptabilité, une réparation. Il fait de la ==chattat== une ==catégorie morale== là où l'hébreu nomme un ==écart de trajectoire==, et il déplace toute la scène de ==Qayin== vers la culpabilité alors qu'elle porte sur le gouvernement.
 

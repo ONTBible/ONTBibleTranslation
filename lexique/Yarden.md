@@ -14,7 +14,7 @@ La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » 
 
 Il structure la géographie de tout le corpus.
 
-La ==plaine du Yarden== est ce que Lot choisit en levant les yeux — bien arrosée, ==comme le jardin de **YHWH**==. C'est là que sont [[Sedom]], [[Amorah]], [[Admah]] et [[Tsevoim]], et c'est là que le **mishpat** tombera.
+La ==plaine du Yarden== est ce que Lot choisit en levant les yeux — bien arrosée, ==comme le jardin de **YHWH**==. C'est là que sont [[Sedom]], [[ʿAmorah]], [[ʾAdmah]] et [[Tsevoim]], et c'est là que le **mishpat** tombera.
 
 Et c'est le fleuve qu'on ==traverse== pour entrer dans la terre. Yehoshua le passe à pied sec, comme la mer avait été passée — ==le corpus refait le geste à l'entrée==.
 
@@ -22,6 +22,6 @@ Un fleuve dont le nom dit la descente marque donc ==le seuil de ce qui est donn�
 
 ## Voir aussi
 
-Ce qu'il arrose : [[Sedom]], [[Amorah]], [[Admah]], [[Tsevoim]] — la plaine que Lot choisit.
+Ce qu'il arrose : [[Sedom]], [[ʿAmorah]], [[ʾAdmah]], [[Tsevoim]] — la plaine que Lot choisit.
 
 Où le corpus le reprend : la traversée de Yehoshua.

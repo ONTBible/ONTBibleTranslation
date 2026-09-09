@@ -45,7 +45,7 @@ nouvelle n'est simplement pas parvenue.
 
 ## Sa place parmi les cinq
 
-C'est une des cinq dimensions du **navi**, et elle en est la part tournée vers
+C'est une des cinq dimensions du **naviʾ**, et elle en est la part tournée vers
 le dehors.
 
 Le **chozeh** pénètre ce qui est voilé, le **moreh** forme ceux qui restent, le

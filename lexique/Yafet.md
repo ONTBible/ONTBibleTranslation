@@ -8,7 +8,7 @@
 
 De *patah* (*patah* / פָּתָה) — étendre, élargir, faire de la place.
 
-Le **Shem** porte donc ==une dotation avant qu'elle ne soit prononcée==, et le corpus le souligne : le nom contient déjà ce que [[Noach]] lui formulera plus tard — *qu'**Elohim** élargisse ==Yafet==*.
+Le **Shem** porte donc ==une dotation avant qu'elle ne soit prononcée==, et le corpus le souligne : le nom contient déjà ce que [[Noach]] lui formulera plus tard — *qu'**ʾElohim** élargisse ==Yafet==*.
 
 C'est un cas de figure que l'ONT relève quand il se présente : ==le nom précède la parole qui l'accomplit==. On l'a vu pour [[Hevel]], dont le nom disait la brièveté avant le récit ; ici il dit l'élargissement avant la dotation.
 
@@ -22,7 +22,7 @@ Le détail du dos tourné n'est pas un ornement. Il dit ==un refus délibéré d
 
 ## La dotation
 
-[[Noach]] formule ensuite sur lui une parole qui joue de son **Shem** : qu'**Elohim** ==l'élargisse==, et qu'il demeure dans les tentes de [[Shem-fils-de-Noach|Shem]].
+[[Noach]] formule ensuite sur lui une parole qui joue de son **Shem** : qu'**ʾElohim** ==l'élargisse==, et qu'il demeure dans les tentes de [[Shem-fils-de-Noach|Shem]].
 
 L'hébreu de cette dernière phrase est ambigu — on ne sait pas avec certitude qui demeure dans les tentes de qui —, et l'ONT maintient l'ambiguïté plutôt que de la résoudre.
 

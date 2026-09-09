@@ -6,7 +6,7 @@
 
 Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
 
-Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *mo-SHÉ*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he médian d'[[Avraham]], qui s'entend, lui.
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *mo-SHÉ*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he médian d'[[ʾAvraham]], qui s'entend, lui.
 
 ## Le nom que sa mère n'a pas donné
 
@@ -32,7 +32,7 @@ rocher qu'il devait seulement nommer. On lui refusera d'entrer dans le pays vers
 lequel il a marché quarante ans.
 
 Ce n'est pas un accident du récit. C'est ce que le corpus tient pour vrai d'un
-**navi** : il ne porte pas le **davar** ==malgré== sa vie, il le porte ==par==
+**naviʾ** : il ne porte pas le **davar** ==malgré== sa vie, il le porte ==par==
 elle. Un envoyé qui n'aurait rien à traverser transmettrait une annonce ; celui
 qui traverse transmet une profondeur.
 
@@ -59,6 +59,6 @@ aujourd'hui n'est que ce qui a déjà servi ailleurs.
 
 ## Voir aussi
 
-**navi**, pour ce qu'il est. **malʾakh** et **olam**, pour ce qu'il a vu de dos.
+**naviʾ**, pour ce qu'il est. **malʾakh** et **ʿolam**, pour ce qu'il a vu de dos.
 **davar**, pour ce qu'il porte. Et [[Chanokh-qui-marche-avec-Elohim]], l'autre
 homme du corpus dont la fin échappe au récit ordinaire.

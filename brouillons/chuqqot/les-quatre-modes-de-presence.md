@@ -1,4 +1,4 @@
-# Les quatre modes de présence d'**Adonai** dans l'**olam**
+# Les quatre modes de présence d'**ʾAdonai** dans l'**ʿolam**
 
 *(chuqqah — la première du corpus)*
 
@@ -19,22 +19,22 @@ intime.
 
 ### D'abord, de quoi cette chuqqah parle vraiment
 
-Elle parle de l'**olam**, et il faut commencer par là, sinon tout le reste
+Elle parle de l'**ʿolam**, et il faut commencer par là, sinon tout le reste
 paraîtra une curiosité de vocabulaire.
 
-Nous entendons « **olam** » comme « le monde » ou « l'éternité ». Ce sont deux
+Nous entendons « **ʿolam** » comme « le monde » ou « l'éternité ». Ce sont deux
 traductions grecques, et elles ratent la chose. La racine hébraïque dit ==être
-caché, se dérober au regard==. L'**olam** n'est pas un lieu, et ce n'est pas une
+caché, se dérober au regard==. L'**ʿolam** n'est pas un lieu, et ce n'est pas une
 durée : c'est ==le fait qu'il y ait quelque chose qui échappe à un regard donné==.
 
 D'où l'invariant, qui commande toute la suite :
 
-> ==L'**olam** est toujours fonction du regard, jamais objet du regard.==
+> ==L'**ʿolam** est toujours fonction du regard, jamais objet du regard.==
 
-Un exemple, pour le tenir. Une chose peut être dans l'**olam** pour moi et pas
+Un exemple, pour le tenir. Une chose peut être dans l'**ʿolam** pour moi et pas
 pour toi, sans que la chose ait bougé d'un pouce. Ce qui a changé n'est pas
 ==ce qui est regardé==, c'est ==ce qui regarde==. La fiche *lexique/olam.md* le
-déplie ; ici il suffit de retenir ceci : parler d'**olam**, c'est ==toujours
+déplie ; ici il suffit de retenir ceci : parler d'**ʿolam**, c'est ==toujours
 parler d'un rapport de perceptibilité==, jamais d'un territoire.
 
 Alors la question de cette chuqqah se reformule, et elle devient nette :
@@ -43,7 +43,7 @@ Alors la question de cette chuqqah se reformule, et elle devient nette :
 > perceptible, sans cesser de l'être ?
 
 Les quatre modes sont ==quatre réponses à cette question==, et donc quatre
-régimes d'**olam** — non quatre lieux, non quatre époques.
+régimes d'**ʿolam** — non quatre lieux, non quatre époques.
 
 ### Pourquoi il faut qu'il soit dehors
 
@@ -58,7 +58,7 @@ Donc **YHWH** orchestre du dehors de ce qu'il orchestre. Ce n'est pas de la
 distance, ce n'est pas de la froideur — ==c'est la seule façon d'être celui par
 qui une réalité commence==.
 
-Et cela veut dire, exactement : ==il n'a aucun **olam**==. Non pas qu'il soit
+Et cela veut dire, exactement : ==il n'a aucun **ʿolam**==. Non pas qu'il soit
 caché, ce qui supposerait encore un regard auquel il se déroberait. Il est ==hors
 de la catégorie même==. Rien ne le perçoit, donc rien ne le manque.
 
@@ -70,7 +70,7 @@ façon de paraître ; ici, rien ne paraît.
 Voici le second fait, et il tient tout le reste.
 
 La **Ruach** de **YHWH** ==ne flotte pas à l'état libre==. Elle cherche toujours
-quelque chose sur quoi reposer : un **navi**, une tente, un sol, une montagne.
+quelque chose sur quoi reposer : un **naviʾ**, une tente, un sol, une montagne.
 L'hébreu a un mot pour ce support — le **kli** —, et le corpus ne montre jamais
 la **Ruach** opérant sans lui.
 
@@ -80,10 +80,10 @@ qu'il peut recevoir — c'est le mot des ustensiles du Mishkan, mis à part non 
 leur or mais par leur destination.
 
 Ce n'est pas une faiblesse. C'est ==la condition de la perceptibilité==. Pour
-qu'une chose entre dans l'**olam** de quelqu'un, il faut qu'elle ait quelque
+qu'une chose entre dans l'**ʿolam** de quelqu'un, il faut qu'elle ait quelque
 chose de perceptible ; et le **kli**, c'est précisément ce qui est perceptible.
 
-Et c'est ce qui referme la boucle avec l'invariant posé plus haut : si l'**olam**
+Et c'est ce qui referme la boucle avec l'invariant posé plus haut : si l'**ʿolam**
 est fonction du regard, alors ==ce qui change le régime n'est pas la chose
 regardée, c'est le **kli** qui regarde==.
 
@@ -96,8 +96,8 @@ de **kli**.
 Le **malʾakh** est ==l'être-de-mission==. Sa définition est sa fonction, et rien
 d'autre — il n'existe pleinement qu'envoyé.
 
-Il n'a donc pas d'**olam** à lui. Il en prend un le temps de la mission : un
-**olam** de feu, un **olam** de fumée, un **olam** d'**ish**. Et après la mission,
+Il n'a donc pas d'**ʿolam** à lui. Il en prend un le temps de la mission : un
+**ʿolam** de feu, un **ʿolam** de fumée, un **ʿolam** d'**ʾish**. Et après la mission,
 ==il le rend==.
 
 La fumée que suit le peuple au désert, c'est cela. Le feu du buisson, c'est
@@ -112,19 +112,19 @@ pas. Le corpus dit tantôt *« **YHWH** lui apparut »*, tantôt *« le **malʾa
 *(La deuxième chuqqah, *les-malakhim-nont-pas-dolam.md*, ne traite que de cette
 strate et donne le verset qui la formalise.)*
 
-Mais ==un **olam** emprunté se rend==. Et ce qui se rend n'accomplit rien qui
+Mais ==un **ʿolam** emprunté se rend==. Et ce qui se rend n'accomplit rien qui
 dure. Il fallait donc autre chose.
 
 ### Deuxième support : assumé
 
 Le **davar** de **YHWH** est vivant au point qu'il ne pouvait plus s'accomplir
-que par ==l'incarnation sans fin== d'un fils de l'**adam** : un vrai **basar**,
+que par ==l'incarnation sans fin== d'un fils de l'**ʾadam** : un vrai **basar**,
 un vrai **Nefesh**, une vraie mort, une vraie résurrection.
 
 Et il faut voir pourquoi un **malʾakh** ne pouvait pas le porter, parce que c'est
 là que la nécessité se voit.
 
-Un **malʾakh** n'a pas de **basar**. Il n'a qu'un **olam** prêté. Donc il ne peut
+Un **malʾakh** n'a pas de **basar**. Il n'a qu'un **ʿolam** prêté. Donc il ne peut
 ni mourir ni ressusciter — il n'a rien qui puisse mourir. Donc ==il ne peut rien
 changer à la condition de ce qui meurt==. Il peut annoncer, frapper, garder,
 conduire ; il ne peut pas ==traverser== ce qu'il ne subit pas.
@@ -133,9 +133,9 @@ conduire ; il ne peut pas ==traverser== ce qu'il ne subit pas.
 > **Nefesh**.==
 
 Et voici la différence décisive avec la strate précédente : celui-là ==ne rend
-pas son **olam** après sa mission==. Il le glorifie et il le garde, pour une
-durée dont un fils de l'**adam** ne peut pas percevoir la limite — ce qui est
-exactement ce que le mot **olam** dit quand il porte sur le temps.
+pas son **ʿolam** après sa mission==. Il le glorifie et il le garde, pour une
+durée dont un fils de l'**ʾadam** ne peut pas percevoir la limite — ce qui est
+exactement ce que le mot **ʿolam** dit quand il porte sur le temps.
 
 ### Troisième support : un peuple
 
@@ -159,10 +159,10 @@ vienne sur ceux qui sont devenus son corps.
 
 ## La stratigraphie
 
-| strate | ce que c'est | son support | son **olam** |
+| strate | ce que c'est | son support | son **ʿolam** |
 |---|---|---|---|
 | I | **YHWH** — hors de toute réalité, incréé | aucun | ==aucun== — rien ne le perçoit |
-| II | le **malʾakh** en mission | un **olam** emprunté | ==prêté, puis rendu== |
+| II | le **malʾakh** en mission | un **ʿolam** emprunté | ==prêté, puis rendu== |
 | III | l'incarnation, à son paroxysme | un **Nefesh** qui perdure | ==assumé et gardé== |
 | IV | la **Ruach ha-Qodesh** | le corps rassemblé — le **qahal** | ==un peuple== |
 
@@ -170,13 +170,13 @@ vienne sur ceux qui sont devenus son corps.
 
 ==La différence n'est pas de style, elle décide de tout.==
 
-Traiter la **Ruach** d'**Elohim** de *Bereshit* 1 comme une troisième personne
+Traiter la **Ruach** d'**ʾElohim** de *Bereshit* 1 comme une troisième personne
 qui agirait pour son compte, c'est poser sur un texte ancien une formulation
 forgée ==mille ans plus tard==. Le texte, lui, ne connaît qu'==une seule source
 et deux modes d'action==.
 
 Et le *Shema* le confirme par un seul mot. Il ne dit pas *yachid* (*yachid* /
-יָחִיד), qui serait l'unité qui ==exclut== — un et pas deux. Il dit **echad**,
+יָחִיד), qui serait l'unité qui ==exclut== — un et pas deux. Il dit **ʾechad**,
 qui est le mot de *basar echad* en *Bereshit* 2:24, là où deux deviennent une
 seul **basar**. C'est ==l'unité qui compose==.
 
@@ -185,7 +185,7 @@ canaux ne multiplient pas le fleuve, ==ils accomplissent son mouvement==.
 
 ### Et *Bereshit* 1:2 se lit de là
 
-La **Ruach** d'**Elohim** ne souffle pas sur les eaux. Elle ==plane comme un
+La **Ruach** d'**ʾElohim** ne souffle pas sur les eaux. Elle ==plane comme un
 oiseau qui couve== — le verbe est *rachaf* (*rachaf* / רָחַף), et c'est le mot
 même que *Devarim* 32:11 emploie pour l'aigle au-dessus de ses petits.
 
@@ -203,19 +203,19 @@ chaleur qui en irradie : la chaleur n'est pas un second soleil posé à côté d
 premier.
 
 C'est pour cela que le corpus dit *la **ruach** de quelqu'un* comme il dirait son
-poids. La **ruach** d'[[Eliyahu]] se transmet. La **ruach** d'un roi se répand sur
+poids. La **ruach** d'[[ʾEliyahu]] se transmet. La **ruach** d'un roi se répand sur
 sa maison. ==Elle n'est jamais un être à côté.==
 
 ### Le mode a changé une fois dans l'histoire, et une seule
 
 Avant, la **Ruach** ==tombait sur==, elle remplissait, et elle quittait. Elle
-visitait sans demeurer — un juge, un roi, un **navi**, pour le temps d'une
+visitait sans demeurer — un juge, un roi, un **naviʾ**, pour le temps d'une
 charge.
 
 Après, ==elle demeure==.
 
 Et il faut bien voir ce qui a changé, car ce n'est pas ce qu'on croit. Elle ne
-s'est pas mise à exister dans l'**olam** : elle y était depuis *Bereshit* 1:2.
+s'est pas mise à exister dans l'**ʿolam** : elle y était depuis *Bereshit* 1:2.
 Ce qui a changé est ==le support==. Elle est passée ==de *sur* à *au-dedans*==,
 parce que le corps rassemblé est devenu le **kli** permanent qu'elle n'avait pas.
 
@@ -238,8 +238,8 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 ==La strate I n'est pas abolie par celles qui suivent.==
 
-**YHWH** reste **YHWH**, hors de l'**olam**. Les trois autres strates
-==actualisent== dans l'**olam** ce qu'il est — il ne devient pas successivement
+**YHWH** reste **YHWH**, hors de l'**ʿolam**. Les trois autres strates
+==actualisent== dans l'**ʿolam** ce qu'il est — il ne devient pas successivement
 **malʾakh**, puis incarnation, puis **Ruach**, comme on changerait d'état.
 
 Lire les quatre comme une suite d'états serait ==refaire avec des mots hébreux ce
@@ -266,15 +266,15 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Cette chuqqah est écrite d'après trois interventions de l'auteur==, dans une conversation du 27 juillet 2026. Elle n'est pas une transcription : la matière était un échange, et elle est rendue ici ==en un seul corps==, dans sa voix, à sa demande. Les constats de nécessité, l'ordre des raisons et l'image de l'engin sont les siens ; la mise en forme et le balisage sont du vault.*
 
-- *==Reprise du 8 septembre 2026, pour le lecteur qui arrive sans rien.== La première version disait la même chose et la disait pour qui savait déjà. Elle a été rouverte après la deuxième chuqqah, qui a fixé le registre : des paliers, les analogies dépliées, et le rattachement explicite à l'**olam**. C'est ce dernier point qui manquait le plus — les quatre modes ne sont pas quatre lieux, ce sont ==quatre régimes de perceptibilité==, et la chuqqah ne le disait nulle part. Le contenu n'a pas changé ; ce qui a changé, c'est ce qu'il faut savoir pour l'aborder.*
+- *==Reprise du 8 septembre 2026, pour le lecteur qui arrive sans rien.== La première version disait la même chose et la disait pour qui savait déjà. Elle a été rouverte après la deuxième chuqqah, qui a fixé le registre : des paliers, les analogies dépliées, et le rattachement explicite à l'**ʿolam**. C'est ce dernier point qui manquait le plus — les quatre modes ne sont pas quatre lieux, ce sont ==quatre régimes de perceptibilité==, et la chuqqah ne le disait nulle part. Le contenu n'a pas changé ; ce qui a changé, c'est ce qu'il faut savoir pour l'aborder.*
 
-- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**Adonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
+- *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**ʾAdonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
-- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**olam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
+- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**ʿolam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
 
 - *==Un terme travaille encore sans être déclaré== : *rachaf*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Mosheh]], [[Eliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
+- *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Mosheh]], [[ʾEliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
 - *==Ce que la chuqqah ne nomme pas, et pourquoi.== Le §7 réserve à l'auteur le Nom divin et toute la *Berit Hadashah*, et les strates III et IV les touchent l'une et l'autre. Le texte s'en tient donc à ce que l'auteur a formulé, sans ajouter aucune désignation ni aucun renvoi que sa matière ne portait pas.*
 

@@ -16,4 +16,4 @@ Sa première apparition dans le corpus se situe à un endroit qui compte. ==Noac
 
 Et le texte ajoute une phrase qui déroute : **YHWH** ==respira l'odeur apaisante==. Le verbe vient de רו״ח, les consonnes de la **Ruach**. Ce qui montait de la Terre est reçu par un souffle — l'offrande et celui qui la reçoit partagent la même racine.
 
-Pluriel **olot**. Le corpus la laisse en hébreu partout.
+Pluriel **ʿolot**. Le corpus la laisse en hébreu partout.

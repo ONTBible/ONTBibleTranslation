@@ -10,13 +10,13 @@ Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il 
 
 ## Le Shem
 
-Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==**El**==.
+Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==**ʾEl**==.
 
 C'est ce qui le distingue de tous les autres envoyés nommés : ==il porte le Nom lui-même==.
 
 ## Ce que le corpus en fait
 
-Il paraît dans le *Chazon Avraham*, où il est ==le médiateur angélique== qui accompagne [[Avraham]] dans la traversée.
+Il paraît dans le *Chazon Avraham*, où il est ==le médiateur angélique== qui accompagne [[ʾAvraham]] dans la traversée.
 
 Et le corpus place là ==une difficulté qu'il ne résout pas==. Un envoyé qui porte le Nom dans son **Shem** se tient à la limite exacte de ce que le §3 dit du **malʾakh** : *l'ambiguïté délibérée du texte — le **malʾakh** parle parfois en son propre nom, parfois comme **YHWH** lui-même*.
 

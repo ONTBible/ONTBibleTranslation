@@ -16,7 +16,7 @@ Un nom composé et transparent : *shemi* (*shemi* / שְׁמִי) — ==mon **Sh
 
 ## Ce que le corpus en fait
 
-Il est ==le chef des **irin**==, ceux qui ont quitté leur garde.
+Il est ==le chef des **ʿirin**==, ceux qui ont quitté leur garde.
 
 Et son **Shem** ==porte la mémoire de la transgression collective==. C'est là ce qu'il faut voir : dans un corpus où *chazah* est le verbe de la vision prophétique — celui du *machazeh*, celui du *chazon* —, ==le chef de ceux qui ont franchi le domaine s'appelle *ce que mon nom a vu*==.
 
@@ -26,8 +26,8 @@ C'est à lui et à ses compagnons que [[Chanokh-qui-marche-avec-Elohim]] adresse
 
 ## Voir aussi
 
-Ceux qu'il conduit : les **irin**, dont [[Baraqel]] et [[Azazel]].
+Ceux qu'il conduit : les **ʿirin**, dont [[Baraqel]] et [[ʿAzazel]].
 
-Ce qui en naît : les **gibbaraya**, dont [[Ohyah]], [[Hahyah]], [[Mahaway]].
+Ce qui en naît : les **gibbarayaʾ**, dont [[ʾOhyah]], [[Hahyah]], [[Mahaway]].
 
 Qui prononce sur lui : [[Chanokh-qui-marche-avec-Elohim]], par la lettre.

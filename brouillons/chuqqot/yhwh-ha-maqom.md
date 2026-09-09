@@ -56,18 +56,18 @@ L'hébreu ne prend pas cette issue, parce qu'il ne pose pas la question ainsi. I
 ne demande pas *qui contient qui*. Il demande ==qui tient qui debout==. Et la
 réponse ne se renverse pas : ce qui tient n'a besoin de rien pour être tenu.
 
-### Ce que ça fait à la question de l'**olam**
+### Ce que ça fait à la question de l'**ʿolam**
 
-La première chuqqah a posé que l'**olam** est ==un rapport de perceptibilité== —
+La première chuqqah a posé que l'**ʿolam** est ==un rapport de perceptibilité== —
 le fait que quelque chose se dérobe à un regard.
 
 Alors ceci suit, et c'est la charnière du corpus entier :
 
-> **YHWH** ==n'a aucun **olam**==. Non pas parce qu'il serait très bien caché,
-> mais parce qu'il est ==ce dans quoi tout **olam** se tient==.
+> **YHWH** ==n'a aucun **ʿolam**==. Non pas parce qu'il serait très bien caché,
+> mais parce qu'il est ==ce dans quoi tout **ʿolam** se tient==.
 
 Ce n'est pas un degré de plus dans le secret. C'est ==une autre catégorie==. Un
-**olam** suppose un dedans et un dehors, un regard et ce qui lui échappe. Celui
+**ʿolam** suppose un dedans et un dehors, un regard et ce qui lui échappe. Celui
 qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 
 ## La stratigraphie
@@ -94,7 +94,7 @@ nulle part »*, c'est ==*le cosmos entier est son Temple*== — et le Temple bâ
 n'est pas sa boîte, c'est le point où il consent à se rendre approchable.
 
 ==Le refus des distances.== *Yirmeyahu* 23:23 est presque une définition :
-==suis-je un **Elohim** de près, et non un **Elohim** de loin ?== Il ne dit pas
+==suis-je un **ʾElohim** de près, et non un **ʾElohim** de loin ?== Il ne dit pas
 qu'il est partout à la fois. Il dit que ==« près » et « loin » ne sont pas des
 catégories qui s'appliquent à lui==. On ne le situe pas.
 
@@ -160,7 +160,7 @@ pas contraint. Un dieu attaché à son sanctuaire n'y habite pas : il y est rete
 Celui qui est le **maqom** de tout, quand il se pose en un lieu, ==fait quelque
 chose== — il rend approchable ce qui ne l'était pas.
 
-C'est ce que la chuqqah suivante déplie : ==comment celui qui n'a aucun **olam**
+C'est ce que la chuqqah suivante déplie : ==comment celui qui n'a aucun **ʿolam**
 se rend perceptible==.
 
 Voici la vérité, au regard de l'ontologie hébraïque antique.
@@ -170,7 +170,7 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 ==Le nom n'est pas biblique, et il ne faut pas le faire croire.==
 
 *ha-Maqom* comme nom de **YHWH** appartient à la couche rabbinique. Aucun
-**navi** ne l'emploie. La chuqqah tient que la ==structure== est ancienne et
+**naviʾ** ne l'emploie. La chuqqah tient que la ==structure== est ancienne et
 attestée — la plénitude, le refus des distances, la **merkavah** en exil —, mais
 ==la formule qui la nomme est postérieure==, et un lecteur a le droit de peser
 autrement la distance entre les deux.
@@ -194,9 +194,9 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 ### Notes de la chuqqah
 
-- *==Cette chuqqah est écrite d'après une question de l'auteur==, déposée dans *restranscriptions/* : *« **YHWH** ha-maqom cherche à décrire qu'**Adonai** est lui-même le lieu dans lequel le réel prend place ? Quel **navi** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
+- *==Cette chuqqah est écrite d'après une question de l'auteur==, déposée dans *restranscriptions/* : *« **YHWH** ha-maqom cherche à décrire qu'**ʾAdonai** est lui-même le lieu dans lequel le réel prend place ? Quel **naviʾ** du livre saint parle de ça ? »* La question est la sienne, et elle porte déjà la thèse ; la mise en forme, l'ordre des raisons et le balisage sont du vault.*
 
-- *==C'est la charnière du corpus.== La première chuqqah pose que l'**olam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **olam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
+- *==C'est la charnière du corpus.== La première chuqqah pose que l'**ʿolam** est un rapport de perceptibilité ; celle-ci en tire que **YHWH** n'en a aucun — non par excès de secret, mais parce qu'il est ce dans quoi tout **ʿolam** se tient. C'est de là que part la troisième, sur les quatre modes de présence.*
 
 - *==maqom n'est pas déclaré intraduisible==, et il travaille pourtant ici de bout en bout. « Lieu » en français dit un emplacement ; le **maqom** dit une ==tenue==, et la racine *qum* est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 

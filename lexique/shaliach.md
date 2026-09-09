@@ -18,4 +18,4 @@ Ce qui explique un choix de l'ONT que le corpus tient fermement : on n'écrit ja
 
 C'est le même glissement que le vault refuse pour le n° 44. Dire *Maʿasim ha-Shlichim*, « les actes des envoyés », ferait des hommes les sujets de leurs propres exploits. L'ONT écrit *Gevurot ha-Neviʾim* : les **gevurot** de **YHWH** accomplies ==à travers== ses **neviʾim**. Le sujet grammatical est celui qui envoie ; l'envoyé est l'instrument.
 
-Et c'est pourquoi le corpus tient que **navi** et ==shaliach== ne sont pas deux catégories. Tout **navi** authentique est structurellement un envoyé ; tout envoyé accomplit la fonction du **navi**. Le grec les a décomposés en offices distincts — l'hébreu n'en connaît qu'un.
+Et c'est pourquoi le corpus tient que **naviʾ** et ==shaliach== ne sont pas deux catégories. Tout **naviʾ** authentique est structurellement un envoyé ; tout envoyé accomplit la fonction du **naviʾ**. Le grec les a décomposés en offices distincts — l'hébreu n'en connaît qu'un.

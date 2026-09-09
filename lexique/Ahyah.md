@@ -14,7 +14,7 @@ Les fragments araméens ne portent pas les voyelles, et ==les manuscrits laissen
 
 ## Ce que le corpus en fait
 
-Ce qu'on en dit vaut pour [[Hahyah]] — c'est le même *gibbar*, frère d'[[Ohyah]].
+Ce qu'on en dit vaut pour [[Hahyah]] — c'est le même *gibbar*, frère d'[[ʾOhyah]].
 
 Cette fiche existe pour que le lecteur qui rencontre l'une des deux graphies ==trouve l'autre== et comprenne pourquoi il y en a deux. ==L'incertitude est l'information==, et elle mérite d'être atteignable.
 
@@ -22,4 +22,4 @@ Cette fiche existe pour que le lecteur qui rencontre l'une des deux graphies ==t
 
 L'autre forme : [[Hahyah]].
 
-Son frère : [[Ohyah]].
+Son frère : [[ʾOhyah]].
