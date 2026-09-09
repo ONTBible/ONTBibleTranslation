@@ -3418,3 +3418,43 @@ ruleset, qui répondra toujours que tout va bien.
 C'est la forme exacte de ce que ce journal a nommé le même jour à propos des
 mesures : ==l'instrument répond juste à la question qu'on lui pose==, et la
 question n'était pas la bonne.
+
+---
+
+### 9 septembre 2026 — les chuqqot doivent paraître sans build, et se signaler
+
+**La décision de l'auteur, d'abord.**
+
+> Les **chuqqot** voyagent par la ==mise à jour réseau du corpus==, comme les
+> fiches de `lexique/` — elles atteignent les apps ==déjà installées==, sans
+> compilation ni revue Apple. Et leur arrivée est ==notifiée au lecteur==.
+
+**Ce que ça engage, et ce n'est pas seulement du transport.** Une fiche de
+lexique arrive en silence : personne ne l'attend, et on la trouve en touchant
+un mot. Une **chuqqah** est ==un texte qu'on lit==, pas un secours qu'on
+consulte — elle n'atteint son lecteur que s'il apprend qu'elle existe.
+
+C'est pourquoi les deux moitiés de la décision tiennent ensemble : livrer sans
+build ==sans le dire== reviendrait à écrire pour un dossier.
+
+**Un préalable qui n'est qu'à l'auteur.** Les six chuqqot vivent dans
+`brouillons/chuqqot/` et portent toutes la mention ==à valider==. Or le §12 du
+`CLAUDE.md` du vault pose que `brouillons/` ==ne voyage pas== dans la
+distribution, et que le passage vers `locked/` est ==l'acte de l'auteur==.
+
+Rien ne partira donc tant qu'elles n'auront pas été validées, et ==ce n'est pas
+un défaut du mécanisme== : c'est la garde qui empêche de publier un texte que
+son auteur n'a pas relu. Le mécanisme peut s'écrire d'ici là ; il attendra son
+contenu.
+
+**Ce que ça demande à chaque dépôt.**
+
+- **`ONTBibleApp`** — que les **chuqqot** entrent dans le paquet que la mise à
+  jour réseau transporte, au même titre que les fiches, et qu'une notification
+  signale leur arrivée. C'est là que tout se joue.
+- **`ONTBibleWebapp`** — le site compile `dist/` : il les aura par la
+  reconstruction, sans mécanisme propre. Reste à savoir s'il les signale, et par
+  quoi — il n'a pas de notification système.
+- **`ONTBibleTranslation`** — rien à écrire pour le transport. Le §12 devra
+  dire ce qu'il advient des **chuqqot** dans le flux `brouillons/` → `locked/`,
+  puisqu'elles ne sont ni une intro ni un chapitre de slot.
