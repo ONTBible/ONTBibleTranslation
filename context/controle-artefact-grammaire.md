@@ -161,3 +161,45 @@ Aucun n'a rendu d'erreur : les sept ont rendu ==un nombre bien formé==.
 Les deux seuls pris ==avant== d'être rapportés l'ont été par la même méthode :
 éprouver sur un témoin dont on connaît la réponse. *panim* a un dagesh, *Yaphet*
 n'en a pas ; l'instrument qui dit l'inverse est en cause, pas le corpus.
+
+---
+
+## Où en est le contrôle — 9 septembre 2026
+
+*Relevé refait après la journée de corrections. Les quatre divergences sont
+soldées ; les six absences le sont aussi.*
+
+| ce que l'artefact pose | verdict du matin | aujourd'hui |
+|---|---|---|
+| pe : `p` avec dagesh, `ph` sans | divergent — `f` 68 / `ph` 16 | ==tranché : `f` partout==, 227 occurrences, §2.9 |
+| kaf : `k` avec dagesh, `kh` sans | divergent — 13 fautes | ==soldé== — `Keruvim`, `Kalneh`, `akhal` |
+| l'article et les clitiques | divergent — 3 graphies | ==tranché== — demi-anneau sur l'alef préfixée, §2.9 |
+| la racine nommée | 172 sur 1738 | ==257 et en cours== |
+| le vav conversif | ==absent== | inscrit, *Bereshit* 1:3, avec sa controverse |
+| le cohortatif et le jussif | ==absents== | inscrits — *naʿaseh* et *yehi*, appariés |
+| la particule אֵת | ==absente== | inscrite, *Bereshit* 1:1, avec la reprise |
+| *bereshit* sans article | ==absent== | inscrit, avec les deux lectures (§4.11) |
+| l'ordre des mots | ==absent== | inscrit, *Bereshit* 1:2 |
+| *qatal* / *yiqtol* | ==absent== | ==toujours absent== |
+| la subordination | non mesuré | ==toujours non mesuré== |
+
+**Ce qui reste, et pourquoi.**
+
+- ==Le couple *qatal* / *yiqtol*.== L'artefact consacre sa section 8 à dire que
+  l'opposition est ==contestée== — aspect seul, temps et aspect mêlés, ou temps
+  et aspect et mode. Le poser dans une glose demanderait de trancher un débat
+  que l'artefact refuse de trancher, et le §4.11 vaut ici comme ailleurs :
+  ==on restitue l'état de la question, on ne le résout pas==. À écrire dans
+  l'apparat d'un chapitre, non dans une glose de verset.
+- ==La subordination.== L'artefact la donne pour ==le point qui déforme le plus
+  les traductions== : l'hébreu juxtapose, et toute hiérarchie de propositions
+  est une logique ajoutée. Aucun relevé mécanique ne la trouve — il faut
+  comparer chaque « lorsque… alors… » français à ce que porte l'hébreu, unité
+  par unité. ==C'est le dernier chantier ouvert du contrôle.==
+
+**Et une mesure a été ajoutée au §4.1 en cours de route.** La densité par verset
+suppose de l'hébreu à commenter ; là où il n'y en a pas, elle punit le
+traducteur pour un manque qui n'est pas le sien. Le rapport ==gloses / niveaux
+3== sépare ce qu'elle confond, et le *Chazon Avraham* — plancher d'hébreu le
+plus bas du corpus, 4,21 gloses par niveau 3 — sert de témoin : ==le découplage
+est atteignable, il a déjà été atteint ici==.
