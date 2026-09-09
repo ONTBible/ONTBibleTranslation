@@ -208,6 +208,75 @@ c'est précisément le livre en cours d'écriture.
 Ce n'est pas un manque de l'import : c'est l'état du corpus. Le dire ici vaut
 mieux que de le laisser découvrir à l'usage.
 
+## `pont-septante/` — un outil de travail, jamais un témoin
+
+Décision de l'auteur du 9 septembre 2026 : **le pont n'est pas déclaré au
+`MANIFEST.json`**, donc le lecteur ne le voit pas. Le manifeste est le seul
+interrupteur — `sources.rs` n'émet que les clés qu'il y trouve, et un dossier
+non déclaré ne produit rien.
+
+**Ce que c'est.** Pour chaque morphème hébreu du Westminster Leningrad Codex,
+le mot grec que la Septante lui oppose et son numéro de Strong. 319 783
+appariements, 39 livres, ==69 % de couverture==. La donnée vient de MACULA
+Hebrew (Biblica, CC BY 4.0).
+
+**Ce que ce n'est pas — et ses auteurs le disent avant nous.** La documentation
+de MACULA écrit : *« a tentative alignment to the Septuagint […] This data has
+never been manually checked and is released as a starting point for further
+work. »* Pris mot à mot, il se trompe — en *Daniel* 7 il apparie *chelem*, le
+songe, à κεφαλή, la tête.
+
+**C'est pourquoi on compte au lieu de lire.** Une erreur isolée est du bruit
+dans un dénombrement, décisive dans une lecture. Quand 2 146 occurrences
+d'*asah* sur 2 269 tombent sur ποιέω, aucune poignée d'appariements faux ne
+fabrique ce chiffre. ==Faible au mot, fort à l'agrégat== — et l'ONT ne lui
+demande que l'agrégat.
+
+**Trois limites à connaître avant de s'en servir :**
+
+- ==un seul sens==. Il n'existe aucun identifiant de mot grec : on va de
+  l'hébreu vers le grec, jamais l'inverse. Les *plus* de la Septante — ce
+  qu'elle ajoute et que l'hébreu n'a pas — sont invisibles ;
+- ==l'araméen est écarté==. L'appariement de *Daniel* 2:4-7:28 et d'*Ezra* 4-7
+  est manifestement faux ; 7 529 morphèmes sont retirés plutôt que comptés de
+  travers ;
+- ==l'édition grecque n'est nommée nulle part==. Ni le dépôt ni sa
+  documentation ne disent si le grec vient de Rahlfs ou de Göttingen. On ne le
+  devine pas : le pont n'énonce que des **numéros de Strong**, qui sont de 1890
+  et libres de droits.
+
+### L'interversion χ / ξ, et pourquoi on ne la répare pas
+
+Les formes grecques portent un défaut d'encodage systématique — `ἀρξῇ` pour
+ἀρχῇ, `ξόρτου` pour χόρτου, `ψυξὴν` pour ψυχήν. Il est signalé chez MACULA
+(issue #81), déclaré résolu, et ==il est toujours dans les données livrées==.
+
+Il paraît réparable par un simple échange des deux lettres. **Mesuré, il ne
+l'est pas.** Sur les 1 474 formes distinctes concernées, contrôlées contre le
+lemme Strong de chacune :
+
+    l'inversion répare        1 048
+    la forme était déjà juste    55      ← ἔβρεχεν · ἕχει · ἐλέγχει
+    indécidable                 371
+
+Un échange en masse casserait les cinquante-cinq, ==et rien ne le dirait==. On
+s'en tient donc aux numéros, sains, et les formes ne servent qu'à illustrer.
+
+## L'attribution du pont
+
+    MACULA Hebrew Linguistic Datasets, available at
+    https://github.com/Clear-Bible/macula-hebrew/
+    © 2022-2024 Biblica, Inc — CC BY 4.0
+
+Les colonnes SDBH et MARBLE du même dépôt (`sdbh`, `lexdomain`, `coredomain`)
+sont « used with permission » et ==non couvertes par le CC BY== — une issue
+ouverte chez eux pose exactement cette question, sans réponse. **On ne les lit
+pas**, et l'importateur ne les extrait pas.
+
+Le dictionnaire qui rend les numéros grecs lisibles est le Strong de 1890,
+domaine public, par la transcription de MorphGNT. Aucune définition n'en est
+reprise — seulement le lemme.
+
 ## Refaire l'import
 
     ./scripts/importer-les-textes-sources.py --depots <dossier> --cloner
@@ -220,3 +289,12 @@ Les trois premiers écrivent chacun leur part de `MANIFEST.json` **sans toucher 
 celle de l'autre** — écrire le fichier en entier effacerait l'autre source sans
 un mot, et un `sources/` amputé reste bien formé, donc invisible. Le troisième
 refuse un `sources/` qui s'écarterait de ce qu'il déclare.
+
+Le pont de la Septante se refait à part, et il demande le clone de MACULA :
+
+    GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://github.com/Clear-Bible/macula-hebrew
+    ./scripts/importer-le-pont-septante.py --macula <clone> --sortie sources/pont-septante
+    ./scripts/etablir-le-pont-septante.py --strong <strongsgreek.xml> --sortie <rapport.md>
+
+`GIT_LFS_SKIP_SMUDGE` évite les 84 Mo de la TSV, que l'import n'emploie pas :
+il lit les XML `WLC/lowfat/`, qui sont des fichiers ordinaires.
