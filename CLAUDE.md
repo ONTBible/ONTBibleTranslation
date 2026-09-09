@@ -127,7 +127,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**Neshamah**` / `**neshamah**`
 - `**ʾishah**` / `**ʾIshah**` et formes dérivées : `**ʾishto**`, `**ʾeshet**`, `**neshei**` (pluriel construit), `**nashim**` (pluriel absolu)
 - `**ʾish**` / `**ʾIsh**` et formes dérivées : `**ʾanashim**` (pluriel absolu), `**ʾanshei**` (pluriel construit) — **RÈGLE DE DÉDUCTION : toute forme dérivée d'un terme intraduisible est elle-même intraduisible. Ne jamais rendre *anashim* par "hommes".**
-- `**Shem**` / `**Shemot**` (pluriel) quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un" ou suivi d'une translittération minuscule
+- `**Shem**` / `**Shemot**` (pluriel) quand c'est le concept — lowercase `**shem**` toujours ; uppercase `**Shem**` quand précédé de "le / son / leur / du / des / ce / un / ton / mon" ou suivi d'une translittération minuscule
 - `**kavod**` / `**Kavod**`
 - `**Tahor**` / `**tahor**` / `**lo tahor**`
 - `**ʿOlah**` / `**ʿolah**` / `**ʿOlot**` / `**ʿolot**`
