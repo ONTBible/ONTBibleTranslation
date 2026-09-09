@@ -146,7 +146,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Bereshit* 14:18.
 - `**malʾakh**` / `**malʾakhim**` — combiné : `**malʾakh** **YHWH**`. Premier emploi *Bereshit* 16:7.
 - `**shaliach**` / `**shlichim**`
-- `**shifchah**` — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
+- `**shifchah**` / `**shefachot**` (pluriel) — la servante attachée à la sphère d'une **ishah**, distincte de l'*amah* (servante d'un **ish**). Premier emploi *Bereshit* 16:1.
 - `**emunah**` / `**Emunah**` (nom) — forme verbale : `**emuna**` (sans h — délibéré, ne pas corriger). Premier emploi *Bereshit* 15:6.
 - `**tsedaqah**` / `**tsedaqah umishpat**` — le construit apparié, couple constitutif du droit divin, déclaré ici comme **yirat YHWH** l'est sous **yirah**. Premier emploi *Bereshit* 15:6.
 - `**berith**` / `**Berith**` — intraduisible depuis le 8 septembre 2026 : la structure d'engagement (בְּרִית). Non « alliance », qui suggère un contrat entre égaux : la **berith** de *Bereshit* 15 est ==unilatérale== — **YHWH** seul passe entre les morceaux, et Avraham dort. Elle ne se conclut pas, elle se ==fait tenir debout== (*meqim*, de *qum*), et c'est pourquoi elle ne dépend pas de la fidélité de celui qui la reçoit. ==La pratique avait déjà tranché== : le corpus l'écrivait en gras 65 fois pour 59 « alliance », et le §3.2 disait encore l'inverse.
