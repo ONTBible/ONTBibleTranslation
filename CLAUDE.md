@@ -1942,8 +1942,8 @@ un seul geste hébreu.
 **L'état où la règle a été trouvée.** ==Sept occurrences, six traitements== —
 et deux versets consécutifs du même chapitre en portaient deux différents :
 
-    akhol tokhel   Bereshit 2:12   « tu peux manger en mangeant »      gérondif
-    mot tamut      Bereshit 2:13   « mourant, tu mourras »             participe
+    akhol tokhel   Bereshit 2:16   « tu peux manger en mangeant »      gérondif
+    mot tamut      Bereshit 2:17   « mourant, tu mourras »             participe
     lo mot temutun Bereshit 3:4    « Mourants, vous ne mourrez pas »   participe pluriel
     harbeh arbeh   Bereshit 3:16   « J'augmenterai grandement »        ==effacé==
     yadoaʿ tedaʿ   Bereshit 15:13  « Sache, sache »                    impératif doublé
