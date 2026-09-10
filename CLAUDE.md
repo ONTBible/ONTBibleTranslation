@@ -1966,6 +1966,89 @@ or אָכֹל porte un ==kaf sans dagesh==, donc `kh` (§2.9) : *akhol*. Et la m
 formule s'écrivait *harbeh* en *Bereshit* 3 et *harba* en *Bereshit* 16. Le
 premier mot de *yadoaʿ tedaʿ* perdait en outre son ==ayin final==.
 
+### 4.17 Le regard qui évalue et le regard qui convoite
+
+**Décision de l'auteur du 10 septembre 2026.** L'hébreu écrit cinq fois dans
+*Bereshit* la même construction : `וַיַּרְא` + `אֶת` + objet plein + `כִּי` +
+ce qui est constaté. Elle se rend ==en deux verbes==.
+
+    examina [la chose] — et constata qu'elle était [ainsi]
+
+**Pourquoi deux verbes.** La particule `אֶת` marque un ==objet direct plein==,
+et sa présence installe ==deux temps== : le regard porte d'abord sur une chose,
+le constat vient après, dans une seconde proposition. C'est ce que les
+grammairiens nomment un ==objet proleptique== — du grec *prolêpsis*, la prise
+par avance : l'objet est saisi en avance sur ce qui le décrira.
+
+Le rendre d'un seul verbe — « vit que la chose était ainsi » — fond les deux
+temps, ce que le français fait naturellement et que l'hébreu n'a pas fait. Les
+deux rendus sont grammaticalement défendables ; ==le doublement est celui qui
+respecte la construction==, et c'est lui qui est retenu.
+
+**La variante en *vehinneh* prend un tiret**, et lui seul : `וַיַּרְא` + `אֶת` +
+`וְהִנֵּה` donne « examina la Terre — et voilà qu'elle s'était corrompue »
+(*Bereshit* 6:12). ==Le tiret appartient à cette forme==, non à la forme en
+*ki*, qui enchaîne sans lui (*Bereshit* 1:4).
+
+#### Et pourtant la règle ne vaut pas partout — c'est délibéré
+
+**Décision de l'auteur, dans la même journée et dans le même souffle que la
+précédente.** *Le vivant peut être singulier.*
+
+Deux versets rendent cette construction ==d'un seul verbe==, et ils ont raison
+de le faire :
+
+| réf | qui regarde | ce qui suit immédiatement |
+|---|---|---|
+| *Bereshit* 6:2 | les fils d'**ʾElohim** regardent les filles | « et ils ==prirent== des **ʾishah** » |
+| *Bereshit* 12:14 | les Mitsrim regardent l'**ʾIshah** | Sarai est ==emmenée== chez Pharaon |
+
+La glose verrouillée de 6:2 en donne le motif, et il est ==narratif, non
+syntaxique== :
+
+> ce n'est pas le regard évaluateur du maître d'œuvre — c'est le regard de désir
+> qui précède la prise
+
+Celle de 12:14 va plus loin encore : elle ==insiste== sur le verbe unique —
+*« tout le passage tient sur un seul verbe »*. L'ONT n'y a pas seulement écrit
+un verbe : il a écrit une glose pour dire que le verbe unique ==est le point==.
+
+**Le partage se lit donc ainsi**, et il n'est pas une exception à la règle mais
+==une seconde règle, de rang narratif== :
+
+- ==le regard qui évalue== — inspecter un ouvrage pour vérifier qu'il remplit sa
+  fonction : deux verbes. C'est **ʾElohim** en 1:4 et 6:12 ;
+- ==le regard qui convoite== — repérer ce qu'on veut avant de le prendre : un
+  seul verbe. Il est toujours suivi d'une prise.
+
+#### Ce que ce cas enseigne, et qui déborde très largement le verbe *raʾah*
+
+**On ne fait pas des mathématiques linguistiques.** L'hébreu est ==une langue
+vivante==, et ce qui est vivant peut être singulier : une règle du corpus n'a
+pas à s'appliquer partout de la même façon pour être une règle.
+
+C'est le cœur de ce qu'est l'ONT — ==une restitution==, qui transporte le
+lecteur dans le passé pour que le sens lui parvienne au présent. Une restitution
+sert le sens ; ==un système se sert lui-même==. Quand les deux divergent, c'est
+le sens qui commande.
+
+**D'où la marche à suivre, quand une construction identique paraît deux fois.**
+Ne pas conclure de la syntaxe seule. Demander ==ce que la scène fait== :
+
+1. **regarder ce qui suit le verset.** Un regard suivi d'une prise n'est pas un
+   regard suivi d'une séparation ;
+2. **regarder qui regarde.** Le sujet divin et le sujet humain n'accomplissent
+   pas le même acte sous le même mot ;
+3. **regarder ce que les gloses du corpus disent déjà.** Elles portent souvent
+   l'arbitrage, écrit par l'auteur, avant que la règle ait été formulée.
+
+**Le contrôle qui aurait évité l'erreur du 9 septembre**, où *Bereshit* 13:10 a
+été aligné sur 1:4 au motif que la syntaxe était identique : ==une règle
+syntaxique ne se vérifie pas sur la syntaxe==. Elle se vérifie sur toutes ses
+occurrences, en regardant ce que chacune raconte. Sur cinq occurrences, quatre
+étaient déjà tranchées et deux d'entre elles disaient l'inverse de la règle
+qu'on croyait appliquer.
+
 ---
 
 ## 5. CE QUI DISTINGUE L'ÊTRE HUMAIN DE L'ANIMAL
