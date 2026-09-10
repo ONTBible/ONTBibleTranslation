@@ -24,6 +24,6 @@ Il faudra que des **malʾakhim** le prennent par la main pour l'en faire sortir,
 
 ## Voir aussi
 
-Sa maison : [[Charan]] son père mort avant [[Terach]], [[ʾAvraham]] son oncle, [[Milkah]] et [[Iskah]] ses sœurs.
+Sa maison : [[Haran]] son père mort avant [[Terach]], [[ʾAvraham]] son oncle, [[Milkah]] et [[Iskah]] ses sœurs.
 
 Ce que son **Shem** touche : [[Sedom]] où il descend, [[Tsoʿar]] où il se réfugie, et le **chesed** dont il dira qu'il a gardé son **Nefesh**.

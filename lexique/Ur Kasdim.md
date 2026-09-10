@@ -26,9 +26,9 @@ Le texte emploie donc une désignation qui n'existait pas encore, pour situer un
 
 Ce lieu ne sert qu'à une chose dans le corpus, et elle est immense : ==c'est le point d'où l'on sort==.
 
-[[Charan]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[ʾAvram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kenaʿan]].
+[[Haran]] y meurt, du vivant de son père, dans le pays de sa naissance — la première mort d'un fils devant son père que le corpus rapporte. Puis [[Terach]] prend son fils [[ʾAvram]], sa belle-fille [[Sarai]] et son petit-fils [[Lot]], et ils sortent d'Ur pour aller au pays de [[Kenaʿan]].
 
-Et ils n'y arrivent pas. Ils s'arrêtent à [[Charan]] — la ville, homonyme du fils mort, et l'homonymie n'est sûrement pas un hasard — et ils s'y établissent. ==Le premier voyage s'arrête à mi-chemin, et c'est là que Terach meurt.== Le *lekh-lekha* de *Bereshit* 12 reprendra une marche déjà commencée et interrompue.
+Et ils n'y arrivent pas. Ils s'arrêtent à [[Charan]] — la ville dont le **Shem** ne tient qu'à une lettre de celui du fils mort, un het là où [[Haran]] portait un he — et ils s'y établissent. ==Le premier voyage s'arrête à mi-chemin, et c'est là que Terach meurt.== Le *lekh-lekha* de *Bereshit* 12 reprendra une marche déjà commencée et interrompue.
 
 ## Ce que YHWH en fait, et qui change tout
 
@@ -50,9 +50,9 @@ Elle repose sur *Bereshit* 11 et 15, les deux seules unités où le lieu paraît
 
 ## Voir aussi
 
-La maison qui en sort : [[Terach]] le père, [[Charan]] le fils qui y meurt, [[ʾAvram]], [[Sarai]], [[Lot]], [[Nachor]] et [[Milkah]].
+La maison qui en sort : [[Terach]] le père, [[Haran]] le fils qui y meurt, [[ʾAvram]], [[Sarai]], [[Lot]], [[Nachor]] et [[Milkah]].
 
-L'étape où le voyage s'arrête : [[Charan]] la ville, homonyme du fils mort — le corpus laisse les deux se répondre sans expliquer.
+L'étape où le voyage s'arrête : [[Charan]] la ville, à une lettre du **Shem** de [[Haran]] le fils mort — le corpus laisse les deux se répondre sans expliquer.
 
 Le fleuve et le pays : [[Prat]], le grand fleuve de la promesse, et [[Shinʿar]], l'autre grande plaine du même monde, celle de [[Bavel]].
 

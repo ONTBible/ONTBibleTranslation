@@ -847,7 +847,8 @@ ouverte sur son propre terrain.
 
 **La passe qui a suivi.** ==540 occurrences== reprises, 56 formes, 92 fichiers,
 et vingt fiches de **Shemot** renommées avec elles — `Terah` → `Terach` (108),
-`Haran` → `Charan` (89), `Nahor` → `Nachor` (38), `Het` → `Chet` (30).
+`Haran` → `Charan` (89 — ==et c'était faux==, voir plus bas), `Nahor` → `Nachor`
+(38), `Het` → `Chet` (30).
 
 Trois choses en sont sorties, qu'il faut garder :
 
@@ -880,6 +881,44 @@ Trois choses en sont sorties, qu'il faut garder :
   ==C'est le second chantier fantôme de la journée==, après les « vingt-deux
   marqueurs déséquilibrés » du §13.2, et il a le même profil : un relevé bien
   formé, produit sans regarder ==une seule occurrence en contexte==.
+
+**Et une quatrième, relevée deux jours plus tard : la passe avait fondu deux
+Shemot.** ==La liste blanche avait pris un he pour un het.== Les 89 `Haran`
+n'étaient pas le même mot :
+
+    הָרָן   he    Gn 11:26, 27 (×2), 28, 29, 31   le fils de Terach, père de Lot
+    חָרָן   het   Gn 11:31, 32 ; 12:4, 5           la ville où Terach s'arrête
+
+Deux lettres, deux **Shem**, deux référents — ==une personne et un lieu==. La
+passe les a rendus tous deux par `Charan`, et le corpus a porté deux jours
+==une homonymie qu'aucun manuscrit ne connaît==. Pis : les gloses verrouillées
+de *Bereshit* 11 se sont mises à ==l'expliquer== — « les deux formes sont
+identiques en translittération française », « l'homonymie n'est pas fortuite
+dans un texte où les **Shem** portent la destinée ». ==Un artefact d'outil relu
+comme un fait du texte==, et commenté comme tel dans un fichier verrouillé.
+
+**La règle qui l'interdisait était déjà écrite, une section plus haut.** Celle
+du he final : *« אֱלִישָׁה, fils de [[Yavan]] en *Bereshit* 10, finit par un he. אֱלִישָׁע, le
+**naviʾ**, finit par un ayin. Deux lettres, deux noms, deux personnes. Les
+rendre tous deux par `Elisha` ferait porter une seule graphie à deux Shemot
+distincts. »* ==Le même cas, sur l'initiale au lieu de la finale== — et la passe
+l'a produit le jour même où cette phrase était écrite. Une règle n'empêche que
+ce qu'on pense à lui soumettre.
+
+**Ce que ça apprend sur l'instrument.** Une liste blanche protège de ce qu'elle
+==exclut==, jamais de ce qu'elle ==inclut==. Celle-ci avait été bâtie pour que
+*Pharaon*, *Euphrate* et *orphelin* ne soient pas touchés, et elle a tenu cette
+promesse-là ; ==personne ne lui a demandé si les formes qu'elle contenait
+étaient bien celles qu'elle croyait==. Le contrôle qui manquait ne coûtait rien
+— ==regarder l'hébreu du mot avant de changer sa translittération== —, et c'est
+lui qui a tranché la séparation : une requête sur `sources/he-wlc/Gen.jsonl`,
+où les lemmes Strong séparent le 2039 du 2771a sans qu'on ait à en juger.
+
+**Séparés le 10 septembre 2026**, sur décision de l'auteur : le fils redevient
+`Haran`, la ville reste `Charan`. ==51 occurrences converties==, `lexique/Haran.md`
+écrite, `lexique/Charan.md` rendue à la ville seule, et les gloses de *Bereshit*
+11 qui expliquaient l'homonymie réécrites — ==elles disaient une chose qui
+n'était plus vraie==.
 
 **Une famille entière avait échappé au relevé, et la cause est instructive.**
 `Yitshaq` (יִצְחָק) et les deux formes verbales de sa racine — `vayitshaq`
@@ -2226,7 +2265,7 @@ reste à écrire==, et c'est ce que la décision du 9 septembre demande à
 - **Bereshit 8** (Genèse 9:1-17) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-8.md` — la re-création après le *mabbul*, la *berith* noachide, *adam* intraduisible à partir d'ici, *olam*. (L'*olah* de Noach, Gn 8:20, est traitée en Bereshit 7, qui couvre Gn 7-8.)
 - **Bereshit 9** (Genèse 9:18-29) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-9.md` — l'incident de la vigne, *ish haʾadamah*, *galah*, *arur* sur Kenaʿan, dotations de Shem et Yafet, *shakan* (ambiguïté du sujet maintenue).
 - **Bereshit 10** (Genèse 10:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-10.md` — table des nations, *toledot* des fils de Noach, Nimrod (*gibor*, écho des Nefilim), *mamlakhah*, *lifnei YHWH* (ambiguïté maintenue), Ever / *ivri*, Peleg / *palag*.
-- **Bereshit 11** (Genèse 11:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terach, *aqarah* (stérilité de Sarai), Charan personne / Charan ville (homonymie délibérée).
+- **Bereshit 11** (Genèse 11:1-32) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-11.md` — tour de Bavel, *safah* / *balal* / Bavel (polémique étymologique contre Bab-ilim), *hadal* vs *shavat*, toledot de Shem jusqu'à Terach, *aqarah* (stérilité de Sarai), Haran le fils (הָרָן, he) / Charan la ville (חָרָן, het) — deux **Shem** que l'hébreu n'a jamais confondus, séparés le 10 septembre 2026. Cette ligne disait « homonymie délibérée » : l'homonymie n'était pas dans le texte, elle était dans notre translittération (§2.9).
 - **Bereshit 12** (Genèse 12:1-20) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-12.md` — *lekh-lekha* (ambiguïté maintenue), promesse à Avraham, *vayera* (mode de la révélation aux patriarches), *zera* (premier emploi dans la promesse), *niverekhu* (passif ou réflexif — ambiguïté maintenue), descente en Égypte, *negaʿim* (écho de Shemot).
 - **Bereshit 13** (Genèse 13:1-18) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-13.md` — retour au Négev et à Bet-El, séparation d'Avram et Lot, *riv* (conflit pastoral), *kikar* (bassin du Yarden), *miqqedem* (mouvement vers l'orient comme éloignement fonctionnel), renouvellement de la promesse aux quatre horizons, *hithalekh baʾarets*, Chevron comme premier ancrage durable.
 - **Bereshit 14** (Genèse 14:1-24) → `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-14.md` — guerre des rois, capture et délivrance de Lot, Malki-tsedeq roi-**kohen** de Shalem, **ʾEl ʿElyon** (premier emploi — intraduisible), **kohen** (intraduisible dès ici), *tsedeq* (l'ordre juste), *qoneh shamayim vaʾarets*, *ha-ivri* (double étymologie maintenue), *baʿalei berit*, *maʿaser* (ambiguïté du sujet maintenue), identification **YHWH**-**ʾEl ʿElyon** par Avram (v.22).

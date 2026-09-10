@@ -12,7 +12,7 @@ Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-supp
 
 ## Ce que le corpus en fait
 
-Fille de [[Charan]], elle épouse [[Nachor]] son oncle — et le corpus le note sans commentaire, comme il note les mariages de cette époque.
+Fille de [[Haran]], elle épouse [[Nachor]] son oncle — et le corpus le note sans commentaire, comme il note les mariages de cette époque.
 
 Elle reste en Mésopotamie quand [[Terach]] part, et c'est d'elle que descendra Rivqah. ==La branche qui demeure porte une reine dans son nom==, et c'est chez elle qu'on reviendra chercher une **ʾishah** pour le fils de la promesse.
 
@@ -20,4 +20,4 @@ Le texte ne lui prête aucune parole. Elle est nommée, mariée, et sa descendan
 
 ## Voir aussi
 
-Sa maison : [[Charan]] son père, [[Nachor]] son **ʾish**, [[Lot]] et [[Iskah]] ses frère et sœur.
+Sa maison : [[Haran]] son père, [[Nachor]] son **ʾish**, [[Lot]] et [[Iskah]] ses frère et sœur.

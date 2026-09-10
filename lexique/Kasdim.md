@@ -40,7 +40,7 @@ Elle repose sur *Bereshit* 11 et 15, et sur ce que le corpus fera de ce nom dans
 
 ## Voir aussi
 
-La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terach]] — [[ʾAvram]], [[Sarai]], [[Lot]], et [[Charan]] qui y meurt avant le voyage.
+La ville et le départ : [[Ur Kasdim]], d'où sort la maison de [[Terach]] — [[ʾAvram]], [[Sarai]], [[Lot]], et [[Haran]] qui y meurt avant le voyage.
 
 Le pays et ses fleuves : [[Shinʿar]], l'autre nom de cette plaine dans le corpus, celle de [[Bavel]] ; et [[Prat]], le grand fleuve qui borne la promesse.
 

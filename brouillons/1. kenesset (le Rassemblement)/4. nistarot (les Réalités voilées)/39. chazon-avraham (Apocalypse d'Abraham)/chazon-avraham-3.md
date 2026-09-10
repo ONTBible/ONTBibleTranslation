@@ -59,9 +59,9 @@
 
     *Le ==Codex Sylvester== — le plus ancien des six témoins slavons, celui que la feuille d'introduction identifie comme tel — porte : « il brûla ==lui== et sa maison, et tout ce qui était dans sa maison, jusqu'au sol, quarante coudées ». Le pronom vise [[Terach]], et le texte ne l'atténue pas.*
 
-    *==Et la version où [[Charan]] périt est une insertion.== Trois manuscrits tardifs — A, K, R — ajoutent à cet endroit précis la légende d'[[ʾAvraham]] incendiant le temple d'idoles, son frère avec. Elle est ==absente du Sylvester==. C'est donc une couche de copiste, et une couche qui ==harmonise== : elle vient combler le silence de *Bereshit* 11:28 sur la mort de [[Charan]], et rejoindre *Yovelim* 12:12-14. Exactement le genre d'ajout que le filtre de ce livre écarte.*
+    *==Et la version où [[Haran]] périt est une insertion.== Trois manuscrits tardifs — A, K, R — ajoutent à cet endroit précis la légende d'[[ʾAvraham]] incendiant le temple d'idoles, son frère avec. Elle est ==absente du Sylvester==. C'est donc une couche de copiste, et une couche qui ==harmonise== : elle vient combler le silence de *Bereshit* 11:28 sur la mort de [[Haran]], et rejoindre *Yovelim* 12:12-14. Exactement le genre d'ajout que le filtre de ce livre écarte.*
 
-    *Il faut en tirer la conséquence pour la stratigraphie : la lecture selon laquelle ce livre ==répondrait== au silence de *Bereshit* sur [[Charan]] ==repose sur les manuscrits interpolés, non sur le texte de base==. Le témoin ancien ne parle pas de [[Charan]].*
+    *Il faut en tirer la conséquence pour la stratigraphie : la lecture selon laquelle ce livre ==répondrait== au silence de *Bereshit* sur [[Haran]] ==repose sur les manuscrits interpolés, non sur le texte de base==. Le témoin ancien ne parle pas de [[Haran]].*
 
 - *==La divergence avec Bereshit 11:32, restituée et non résolue.== *Bereshit* est verrouillé : [[Terach]] meurt à [[Charan]] la ville, âgé de deux cent cinq ans. Ce livre le fait périr à [[Ur Kasdim]], dans le feu. ==Les deux ne s'accordent pas, et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026.*
 
@@ -73,10 +73,10 @@
 
 ### Ancrages dans le corpus ONT
 
-- *Bereshit* 11:28 (verrouillé) — [[Charan]] meurt du vivant de son père, à [[Ur Kasdim]], et le texte se tait. La glose verrouillée note déjà que c'est ==la première inversion de l'ordre générationnel== de tout le corpus.
+- *Bereshit* 11:28 (verrouillé) — [[Haran]] meurt du vivant de son père, à [[Ur Kasdim]], et le texte se tait. La glose verrouillée note déjà que c'est ==la première inversion de l'ordre générationnel== de tout le corpus.
 - *Bereshit* 11:32 (verrouillé) — [[Terach]] meurt à [[Charan]] la ville, à deux cent cinq ans. C'est ce fait qui rend la tension ci-dessus réelle.
 - *Bereshit* 12:1 (verrouillé) — *lekh-lekha* : « va-t'en de ton pays, de ta parenté et de ==la maison de ton père== ». La voix de cette **parashah** emploie les mêmes mots avant que la Torah les prononce.
-- *Yovelim* 12:12-14 (livre n° 06) — [[ʾAvraham]] met le feu à la maison d'idoles et [[Charan]] y périt. Témoin juif du IIᵉ siècle avant l'ère, indépendant de ce livre.
+- *Yovelim* 12:12-14 (livre n° 06) — [[ʾAvraham]] met le feu à la maison d'idoles et [[Haran]] y périt. Témoin juif du IIᵉ siècle avant l'ère, indépendant de ce livre.
 - *Bereshit* 1 (verrouillé) — *bara* et *raʾah*, les deux verbes que cette **parashah** met dans la bouche de la voix et dans le regard de l'enfant.
 
 ---

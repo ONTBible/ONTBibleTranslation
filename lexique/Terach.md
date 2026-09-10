@@ -24,6 +24,6 @@ Son mouvement est inachevé. Il prend [[ʾAvraham]], [[Sarai]] et [[Lot]], il so
 
 ## Voir aussi
 
-Sa maison : [[Nachor]] son père, ses fils [[ʾAvraham]], [[Nachor]] et [[Charan]], son petit-fils [[Lot]].
+Sa maison : [[Nachor]] son père, ses fils [[ʾAvraham]], [[Nachor]] et [[Haran]], son petit-fils [[Lot]].
 
 Ce que son **Shem** touche : Ur des [[Kasdim]] et le culte lunaire, et le voyage vers [[Kenaʿan]] qu'il n'achève pas.

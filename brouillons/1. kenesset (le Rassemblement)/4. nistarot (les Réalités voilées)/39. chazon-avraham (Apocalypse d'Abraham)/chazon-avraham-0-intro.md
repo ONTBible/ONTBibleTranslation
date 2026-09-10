@@ -143,7 +143,7 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 - **kavod** (*kavod* / כָּבוֹד) — *intraduisible déjà posé*. Pièce maîtresse du livre sous la forme du ==vêtement== : ce qu'un être du domaine haut a quitté est mis en réserve pour [[ʾAvraham]]. Même ontologie que la **kavod** d'Adam (*Toledot*), et même logique **kavod** / *qalal* que *Bereshit* 7-8.
 - **merkavah**, **malʾakh**, **mishpat**, **berith**, **goyim**, **tsedaqah**, **Shem** — *tous déjà posés*. Ce livre n'introduit ==aucun intraduisible neuf== : il réactive un vocabulaire acquis dans un registre nouveau.
 - *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ofanim* (les roues), *tardemah* (déjà posé, *Bereshit* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
-- Noms propres déjà dans le corpus : [[ʾAvraham]], [[Terach]], Nachor, [[Charan]] (*Bereshit* 11-12, verrouillés). Adam et [[Chavah]] au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
+- Noms propres déjà dans le corpus : [[ʾAvraham]], [[Terach]], Nachor, [[Haran]] le frère et [[Charan]] la ville (*Bereshit* 11-12, verrouillés). Adam et [[Chavah]] au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
 - *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 ([[Terach]], *lekh-lekha*), *Bereshit* 16 (le **malʾakh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Chanokh==* 8-10 ; *Yovelim* 11-12.
 
 ## Sources à consulter

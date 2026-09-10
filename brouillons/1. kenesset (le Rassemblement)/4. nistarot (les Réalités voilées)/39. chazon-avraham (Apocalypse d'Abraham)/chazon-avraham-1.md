@@ -85,7 +85,7 @@
 
 ### Ancrages dans le corpus ONT
 
-- *Bereshit* 11:26-32 (verrouillé) — [[Terach]], [[Nachor]], [[Charan]], [[Ur Kasdim]] : la maison où cette scène se tient.
+- *Bereshit* 11:26-32 (verrouillé) — [[Terach]], [[Nachor]], [[Haran]], [[Ur Kasdim]] : la maison où cette scène se tient.
 - *Bereshit* 17:3 (verrouillé) — *vayipol Avram al-panav* : [[ʾAvraham]] tombe sur sa face, dans la position exacte où il trouve [[Merumath]] au v.8.
 - *Bereshit* 25:20 (à écrire) — *Paddan-Aram*, que [[Fandana]] recouvre selon toute vraisemblance.
 - *Bereshit* 37:25 (à écrire) — la caravane qui descend vers [[Mitsrayim]] : la même route, au même trafic.
