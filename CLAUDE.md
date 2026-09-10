@@ -497,77 +497,6 @@ lemme n'atteint aucun lecteur. Le pipeline la signale dans son rapport, section
 
 **Format dans le corps du texte :** *Bereshit* — toujours la translittération.
 
-#### Le nom porte la numérotation — 10 septembre 2026
-
-**Décision de l'auteur.** Deux systèmes de numérotation coexistent dans l'ONT, et
-==c'est le nom du livre qui dit lequel on emploie== :
-
-    Bereshit 9:8      le verset ⁸ de l'unité ONT n° 9
-    Genèse 9:25       le verset 25 du chapitre 9 de la Genèse reçue
-
-Ce sont ==le même verset==, et la forme double est permise — recommandée même,
-quand les deux servent le lecteur :
-
-    Bereshit 9:8 / Genèse 9:25
-
-**Pourquoi le nom, et pas une marque.** Parce qu'il n'y a alors ==rien à
-deviner==. Une notation qui repose sur le contexte se lit juste tant que le
-lecteur connaît le contexte ; un nom se lit seul. La règle ne signale pas
-l'exception, ==elle supprime le cas d'exception==.
-
-**Ce n'est pas une invention : c'est déjà la pratique du projet**, partout où les
-deux systèmes se croisent —
-
-- le **sous-titre** d'une unité : `*(Genèse / בְּרֵאשִׁית 15:1-21)*` ;
-- le **pied de page** qui annonce la suite : `*Bereshit 9 : Genèse 9:18-29* ;
-- le **§12** de ce document : `**Bereshit 8** (Genèse 9:1-17)`.
-
-Les seules occurrences de `Genèse C:V` du corpus étaient déjà exactement cette
-forme. ==Il n'y avait que les gloses pour l'ignorer==, et c'est là que les deux
-fautes sont nées.
-
-**Le rôle du nom français ne change pas** — le §2.6 lui assigne d'être ==le pont
-de navigation vers la Bible que le lecteur connaît==. Une référence en
-numérotation reçue est exactement cet office : elle ne désigne pas une unité de
-l'ONT, elle dit où retrouver le passage ailleurs.
-
-**Le piège, nommé pour qu'il ne se reproduise pas.** ==Ne jamais écrire un nom
-ONT devant un numéro biblique.== C'est ce qui a produit les deux seules
-références fautives du corpus, et le mécanisme est instructif : elles ont été
-écrites ==en comptant les exposants affichés sur la page== au lieu de lire le
-renvoi du sous-titre. Le comptage était juste — c'est le système qui était le
-mauvais.
-
-Et il faut le dire parce que la phrase qui précédait cette section l'y invitait :
-elle disait *« Format dans le corps du texte **et les renvois** : *Bereshit* 7:2
-— toujours la translittération »*. Écrite pour les ==noms== de livres, elle se
-lisait comme couvrant les ==renvois chiffrés==. ==Une règle juste sur son propre
-objet peut en fabriquer une fausse sur le terrain voisin.==
-
-**La règle a une limite, et elle est structurelle.** Quatre livres portent ==le
-même nom dans les deux langues== : `Amos`, `Ruth`, `Esther`, `Daniel`. Pour
-eux, le nom ne peut rien distinguer — `Daniel 7:1` est la même chaîne dans les
-deux systèmes.
-
-Vingt-six références du corpus les visent, et ==aucune n'est ambiguë
-aujourd'hui== : ces quatre livres n'ont pas d'unité ONT écrite, donc pas de
-numérotation propre à confondre.
-
-Le jour où l'un d'eux sera traduit, il faudra ==une marque explicite== pour ses
-renvois internes — la forme `Daniel 7, v.1` du §2.6, ou la forme double. C'est
-écrit ici pour qu'on le sache ==avant== d'écrire le livre, et non après.
-
-**Une réserve, pour ne pas la découvrir trop tard.** Certains noms français
-portent des catégories que l'ONT ==refuse explicitement== : « Apocalypse » est le
-calque que le §1 rejette, « Actes des apôtres » réintroduit l'*apostolos* que le
-§2.6 écarte au profit du **shaliach**, « Jean » perd l'écho de *Bereshit* 1 qui
-fait tout le nom de *Bereshit ha-Yohanan*.
-
-La règle ne mord pas encore sur eux : ==ces livres ne sont pas écrits==, donc ils
-n'ont aucune unité ONT, donc aucune ambiguïté n'est possible. Le jour où ils le
-seront, il faudra trancher entre garder le nom hébreu seul, forger un français
-acceptable, ou juger que le pont vaut ce prix.
-
 **L'article défini s'écrit `ha-`, minuscule et lié.** *El ha-Qolossiyim*,
 *Igeret ha-Ivrim*, *Gevurot ha-Neviʾim*, *Bereshit ha-Yohanan*, *Ruach
 ha-Qodesh*, *ha-satan*, *benei ha-adam*. Jamais `Ha` collé en majuscule, jamais
@@ -679,6 +608,77 @@ où ils seront écrits.
 | 1-2 Pierre | *Igeret Kefa* | אִגֶּרֶת כֵּיפָא | *Kefa* (כֵּיפָא) — araméen : "roc". Le rang se déduit : א׳, ב׳ |
 | 1-3 Jean | *Igeret Yohanan* | אִגֶּרֶת יוֹחָנָן | *Yohanan* (יוֹחָנָן). Le rang se déduit : א׳, ב׳, ג׳ |
 | Jude | *Igeret Yehudah* | אִגֶּרֶת יְהוּדָה | *Yehudah* (יְהוּדָה) — "celui qui est loué" |
+
+#### Le nom porte la numérotation — 10 septembre 2026
+
+**Décision de l'auteur.** Deux systèmes de numérotation coexistent dans l'ONT, et
+==c'est le nom du livre qui dit lequel on emploie== :
+
+    Bereshit 9:8      le verset ⁸ de l'unité ONT n° 9
+    Genèse 9:25       le verset 25 du chapitre 9 de la Genèse reçue
+
+Ce sont ==le même verset==, et la forme double est permise — recommandée même,
+quand les deux servent le lecteur :
+
+    Bereshit 9:8 / Genèse 9:25
+
+**Pourquoi le nom, et pas une marque.** Parce qu'il n'y a alors ==rien à
+deviner==. Une notation qui repose sur le contexte se lit juste tant que le
+lecteur connaît le contexte ; un nom se lit seul. La règle ne signale pas
+l'exception, ==elle supprime le cas d'exception==.
+
+**Ce n'est pas une invention : c'est déjà la pratique du projet**, partout où les
+deux systèmes se croisent —
+
+- le **sous-titre** d'une unité : `*(Genèse / בְּרֵאשִׁית 15:1-21)*` ;
+- le **pied de page** qui annonce la suite : `*Bereshit 9 : Genèse 9:18-29* ;
+- le **§12** de ce document : `**Bereshit 8** (Genèse 9:1-17)`.
+
+Les seules occurrences de `Genèse C:V` du corpus étaient déjà exactement cette
+forme. ==Il n'y avait que les gloses pour l'ignorer==, et c'est là que les deux
+fautes sont nées.
+
+**Le rôle du nom français ne change pas** — le §2.6 lui assigne d'être ==le pont
+de navigation vers la Bible que le lecteur connaît==. Une référence en
+numérotation reçue est exactement cet office : elle ne désigne pas une unité de
+l'ONT, elle dit où retrouver le passage ailleurs.
+
+**Le piège, nommé pour qu'il ne se reproduise pas.** ==Ne jamais écrire un nom
+ONT devant un numéro biblique.== C'est ce qui a produit les deux seules
+références fautives du corpus, et le mécanisme est instructif : elles ont été
+écrites ==en comptant les exposants affichés sur la page== au lieu de lire le
+renvoi du sous-titre. Le comptage était juste — c'est le système qui était le
+mauvais.
+
+Et il faut le dire parce que la phrase qui précédait cette section l'y invitait :
+elle disait *« Format dans le corps du texte **et les renvois** : *Bereshit* 7:2
+— toujours la translittération »*. Écrite pour les ==noms== de livres, elle se
+lisait comme couvrant les ==renvois chiffrés==. ==Une règle juste sur son propre
+objet peut en fabriquer une fausse sur le terrain voisin.==
+
+**La règle a une limite, et elle est structurelle.** Quatre livres portent ==le
+même nom dans les deux langues== : `Amos`, `Ruth`, `Esther`, `Daniel`. Pour
+eux, le nom ne peut rien distinguer — `Daniel 7:1` est la même chaîne dans les
+deux systèmes.
+
+Vingt-six références du corpus les visent, et ==aucune n'est ambiguë
+aujourd'hui== : ces quatre livres n'ont pas d'unité ONT écrite, donc pas de
+numérotation propre à confondre.
+
+Le jour où l'un d'eux sera traduit, il faudra ==une marque explicite== pour ses
+renvois internes — la forme `Daniel 7, v.1` du §2.6, ou la forme double. C'est
+écrit ici pour qu'on le sache ==avant== d'écrire le livre, et non après.
+
+**Une réserve, pour ne pas la découvrir trop tard.** Certains noms français
+portent des catégories que l'ONT ==refuse explicitement== : « Apocalypse » est le
+calque que le §1 rejette, « Actes des apôtres » réintroduit l'*apostolos* que le
+§2.6 écarte au profit du **shaliach**, « Jean » perd l'écho de *Bereshit* 1 qui
+fait tout le nom de *Bereshit ha-Yohanan*.
+
+La règle ne mord pas encore sur eux : ==ces livres ne sont pas écrits==, donc ils
+n'ont aucune unité ONT, donc aucune ambiguïté n'est possible. Le jour où ils le
+seront, il faudra trancher entre garder le nom hébreu seul, forger un français
+acceptable, ou juger que le pont vaut ce prix.
 
 ### 2.7 La feuille d'introduction
 
