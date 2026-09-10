@@ -12,7 +12,7 @@
 
 Elle sert d'abord de ==repère== : [[ʾAvraham]] dresse sa tente ==entre [[Bet-El]] à l'occident et Ai à l'orient==, et c'est là qu'il bâtit un **mizbeach**.
 
-Le corpus la reprendra bien plus tard, et le nom se réalisera. Yehoshua l'attaquera, échouera d'abord — à cause de ce qui avait été pris à Yeriho —, puis la prendra et ==en fera un monceau à jamais==. Le texte emploie le mot du nom.
+Le corpus la reprendra bien plus tard, et le nom se réalisera. Yehoshua l'attaquera, échouera d'abord — à cause de ce qui avait été pris à [[Yericho]] —, puis la prendra et ==en fera un monceau à jamais==. Le texte emploie le mot du nom.
 
 Un lieu s'appelle donc ==la ruine== des siècles avant d'en devenir une. Comme [[Peleg]] dont le **Shem** annonçait la division, ==le nom précède l'événement==.
 
