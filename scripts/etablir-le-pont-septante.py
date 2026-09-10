@@ -36,6 +36,33 @@ casserait celles-là, et rien ne le dirait.
 Les numéros de Strong, eux, sont sains : `746` est bien ἀρχή. On compte donc
 sur eux, et les formes ne servent qu'à ==illustrer==, avec leur défaut annoncé.
 
+## Les deux sens, et pourquoi le second ne coûte rien
+
+Le pont est bâti **hébreu → grec** : MACULA n'attache aucun identifiant aux
+mots grecs, donc on ne peut pas partir d'un verset de la Septante.
+
+**Mais on peut partir d'un mot grec**, et c'est ce que le §7 demande. La table
+est un ensemble de couples ==(Strong hébreu, Strong grec)== avec leurs comptes :
+la renverser est un regroupement, pas un import.
+
+    hébreu → grec    « que met la Septante en face de chesed ? »
+    grec → hébreu    « quel hébreu y a-t-il derrière eleos ? »
+
+**Ce que le sens inverse mesure, exactement.** Il dit ce que le mot grec
+==portait pour un lecteur juif de langue grecque==, parce que c'est dans la
+Septante qu'il l'avait appris. Il ne dit ==pas== ce que l'auteur du Nouveau
+Testament avait en tête : celui-là écrivait son propre grec, et pouvait s'en
+écarter.
+
+C'est précisément la thèse du §7 — *lire* Logos *comme* **davar**, *non comme le*
+Logos *de Philon* —, et le pont la rend ==mesurable== au lieu de la laisser
+affirmée.
+
+**Un biais à connaître.** Les comptes suivent la fréquence de l'==hébreu==, non
+celle du grec. Un mot hébreu très employé pèse lourd dans la colonne du mot grec
+qui le rend. Ça ne fausse pas la question « qu'y a-t-il derrière ce grec ? » ;
+ça fausserait « ce grec est-il fréquent ? », qu'on ne pose pas ici.
+
 ## Le dictionnaire grec
 
 Strong 1890, domaine public, par la transcription de MorphGNT. Il ne sert qu'à
@@ -68,7 +95,11 @@ def nu(s: str) -> str:
 
 
 def batir():
-    """(Strong hébreu, Strong grec) -> compte, plus les index de lecture."""
+    """(Strong hébreu, Strong grec) -> compte, plus les index de lecture.
+
+    Le même relevé sert les deux sens : c'est le regroupement qui change, pas
+    la donnée.
+    """
     pont = Counter()
     lem_he = defaultdict(Counter)
     par_he = Counter()
@@ -173,6 +204,26 @@ def rendre(sortie: Path, strong: Path, claude: Path):
                           for (_, g), n in sous)
         ex = refs[sous[0][0]][0] if sous else ""
         l.append(f"| {forme} | {tot} | {part} | {ex} |")
+
+    # ── le sens inverse : partir du grec ────────────────────────────────────
+    par_gr = Counter()
+    inverse = defaultdict(Counter)
+    for (he, gr), n in pont.items():
+        par_gr[gr] += n
+        inverse[gr][he] += n
+
+    l += ["", "## Le sens inverse — quel hébreu derrière un mot grec", "",
+          "Ce que le mot grec **portait pour un lecteur juif de langue grecque**,",
+          "parce que c'est dans la Septante qu'il l'avait appris. Non ce que",
+          "l'auteur du Nouveau Testament avait en tête : celui-là écrivait son",
+          "propre grec.", "",
+          "Les comptes suivent la fréquence de l'hébreu, non celle du grec.", "",
+          "| grec | occ. | l'hébreu derrière, par fréquence |", "|---|---:|---|"]
+    for gr, tot in par_gr.most_common(120):
+        part = " · ".join(
+            f"**{(lem_he[h].most_common(1)[0][0] if lem_he[h] else h)}** {100*n/tot:.0f} %"
+            for h, n in inverse[gr].most_common(3))
+        l.append(f"| {grec.get(gr, gr)} | {tot} | {part} |")
 
     sortie.write_text("\n".join(l) + "\n", encoding="utf-8")
     print(f"{sortie} — {len(l)} lignes")
