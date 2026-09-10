@@ -28,7 +28,7 @@ Le texte ne dit pas que l'un porte l'image et que l'autre l'accompagne. Il dit q
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 1:27 et 5:2 ; les listes du **mabbul**, où le couple sert à compter les bêtes.
+*Genèse* 1:27 et 5:2 ; les listes du **mabbul**, où le couple sert à compter les bêtes.
 
 ## Formes
 

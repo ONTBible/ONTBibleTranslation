@@ -177,17 +177,17 @@ et deux modes d'action==.
 
 Et le *Shema* le confirme par un seul mot. Il ne dit pas *yachid* (*yachid* /
 יָחִיד), qui serait l'unité qui ==exclut== — un et pas deux. Il dit **ʾechad**,
-qui est le mot de *basar echad* en *Bereshit* 2:24, là où deux deviennent une
+qui est le mot de *basar echad* en *Genèse* 2:24, là où deux deviennent une
 seul **basar**. C'est ==l'unité qui compose==.
 
 Prends l'image d'un fleuve unique dont les eaux coulent en plusieurs canaux : les
 canaux ne multiplient pas le fleuve, ==ils accomplissent son mouvement==.
 
-### Et *Bereshit* 1:2 se lit de là
+### Et *Genèse* 1:2 se lit de là
 
 La **Ruach** d'**ʾElohim** ne souffle pas sur les eaux. Elle ==plane comme un
 oiseau qui couve== — le verbe est *rachaf* (*rachaf* / רָחַף), et c'est le mot
-même que *Devarim* 32:11 emploie pour l'aigle au-dessus de ses petits.
+même que *Deutéronome* 32:11 emploie pour l'aigle au-dessus de ses petits.
 
 Un geste de couvaison, non de souffle. Sur une matière qui n'est ==pas encore un
 **kli**==, parce qu'aucun **kli** n'est encore possible.
@@ -215,7 +215,7 @@ charge.
 Après, ==elle demeure==.
 
 Et il faut bien voir ce qui a changé, car ce n'est pas ce qu'on croit. Elle ne
-s'est pas mise à exister dans l'**ʿolam** : elle y était depuis *Bereshit* 1:2.
+s'est pas mise à exister dans l'**ʿolam** : elle y était depuis *Genèse* 1:2.
 Ce qui a changé est ==le support==. Elle est passée ==de *sur* à *au-dedans*==,
 parce que le corps rassemblé est devenu le **kli** permanent qu'elle n'avait pas.
 
@@ -270,9 +270,9 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 - *==Ce que la strate I doit à une vision, et qui n'est pas dans le corpus.== L'énoncé n'est pas chez l'auteur une déduction : il renvoie à ce qu'il a vu — *« celui que j'ai vu sans voir dans la chambre d'**ʾAdonai** »*. Le texte de cette vision vit dans son archive personnelle, et la présente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrement hors du corpus.*
 
-- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Bereshit* 1:2 qui n'en est pas encore un, et l'invariant de l'**ʿolam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
+- *==Le **kli** a été déclaré le 8 septembre 2026==, et la chuqqah le nomme désormais. Il portait tout l'énoncé sans y paraître une seule fois — les quatre supports, la matière de *Genèse* 1:2 qui n'en est pas encore un, et l'invariant de l'**ʿolam** lui-même. Entrée au §2.5, fiche *lexique/kli.md*, locus définitif réservé aux **kelim** du Mishkan (*Shemot* 25-31). *basar*, *qahal* et *echad* avaient suivi le même chemin quelques jours plus tôt.*
 
-- *==Un terme travaille encore sans être déclaré== : *rachaf*, le verbe de la couvaison en *Bereshit* 1:2 et de l'aigle en *Devarim* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
+- *==Un terme travaille encore sans être déclaré== : *rachaf*, le verbe de la couvaison en *Genèse* 1:2 et de l'aigle en *Deutéronome* 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
 - *==Les trois Shemot que cette chuqqah appelait ont reçu leur fiche== : [[Mosheh]], [[ʾEliyahu]] et le [[Sinai]]. Chacune est écrite sur ce que le corpus emploie d'eux ailleurs, et chacune déclare qu'elle sera reprise — *Shemot* et les *Melakhim* ne sont pas écrits, et le §7 réserve à l'auteur le buisson, le Nom et les Dix Paroles.*
 
@@ -280,11 +280,11 @@ ne se déduit pas de ce qui précède. ==Elle se constate.==
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Bereshit* 1:2 (verrouillé) — la **Ruach** qui plane sur les eaux, lue comme un geste de couvaison et non de souffle.
-- *Bereshit* 2:24 (brouillon) — *basar echad*, d'où se lit l'unité composée du *Shema*.
+- *Genèse* 1:2 (verrouillé) — la **Ruach** qui plane sur les eaux, lue comme un geste de couvaison et non de souffle.
+- *Genèse* 2:24 (brouillon) — *basar echad*, d'où se lit l'unité composée du *Shema*.
 - *Shemot* 3 (à écrire, §7) — le buisson, et le Nom. La strate II s'y appuie.
-- *Shemot* 33:20-23 (à écrire) — la face qu'on ne peut voir, et le dos qu'on voit.
-- *Devarim* 32:11 (à écrire) — l'aigle sur ses petits, qui donne le verbe de *Bereshit* 1:2.
+- *Exode* 33:20-23 (à écrire) — la face qu'on ne peut voir, et le dos qu'on voit.
+- *Deutéronome* 32:11 (à écrire) — l'aigle sur ses petits, qui donne le verbe de *Genèse* 1:2.
 
 ---
 

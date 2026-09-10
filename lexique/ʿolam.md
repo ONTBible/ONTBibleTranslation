@@ -31,7 +31,7 @@ Regarde ce que la même racine donne ailleurs, tu verras qu'elle est constante :
 - *'elem* (עֶלֶם) — un jeune homme. Pourquoi ? Parce que c'est l'âge où l'on
   est ==encore caché==, où ce qu'on va devenir n'est pas encore manifeste.
 - *'almah* (עַלְמָה) — une jeune femme, ==celle qui n'a pas encore rendu
-  visible== ce qu'elle porte. C'est le mot d'*Yeshayahu* 7:14, et tout le débat
+  visible== ce qu'elle porte. C'est le mot d'*Ésaïe* 7:14, et tout le débat
   autour de ce verset vient de là : il ne dit pas la virginité, qui se dit
   *betulah* (בְּתוּלָה). Il dit ==le non-encore-manifesté==.
 - *neʿelam* (נֶעֱלָם) — ce qui se dérobe, ce qu'on ne parvient pas à saisir.
@@ -101,7 +101,7 @@ Trois dégâts en sont sortis, et ils sont encore dans nos Bibles :
 
 ## Trois versets où ça se vérifie
 
-*Qohelet* 3:11 — *il a mis l'==olam== dans leur cœur*.
+*Ecclésiaste* 3:11 — *il a mis l'==olam== dans leur cœur*.
 
 Si ==olam== voulait dire « le monde », la phrase est banale. S'il voulait dire
 « l'éternité », c'est une jolie abstraction. Mais s'il désigne ==la structure du
@@ -110,12 +110,12 @@ déposé dans le cœur de l'homme, c'est ==la conscience que quelque chose lui
 échappe toujours==. Il est constitué pour savoir qu'il y a un ==olam==, et
 constitué pour ne pas en atteindre les bouts.
 
-*Devarim* 32:7 — *souviens-toi des jours d'==olam==*.
+*Deutéronome* 32:7 — *souviens-toi des jours d'==olam==*.
 
 Non pas « des jours éternels », ce qui ne veut rien dire. ==Les jours qui se
 dérobent à la mémoire== : ceux que plus personne ne peut avoir vus.
 
-*Tehilim* 24:7 — *ouvrez-vous, portes de l'==olam==*.
+*Psaumes* 24:7 — *ouvrez-vous, portes de l'==olam==*.
 
 Si ==olam== était un lieu, ses portes seraient des murs percés. S'il est un
 seuil de perception, ses portes sont ==des points de basculement== — et ce que
@@ -134,7 +134,7 @@ Et le corpus dit qu'un **malʾakh** ==n'a pas d'olam à lui==. Il paraît tantô
 comme un feu, tantôt comme un vent, tantôt comme un homme — non parce qu'il
 change de forme, mais parce qu'==aucune forme ne lui appartient==. Elle lui est
 assignée avec la mission : *il fait de ses **malʾakhim** des vents, de ses
-serviteurs une flamme de feu* (*Tehilim* 104:4). Le verbe est *asah*, faire — et
+serviteurs une flamme de feu* (*Psaumes* 104:4). Le verbe est *asah*, faire — et
 c'est **YHWH** qui fait, à l'envoi.
 
 Ça se tient parfaitement avec l'invariant. Si ==olam== est ce qui règle la
@@ -151,7 +151,7 @@ présence : ==celui-là ne rend pas le sien==.
 ## Son premier emploi, et il est terrible
 
 Chassé du Jardin, l'homme l'est pour qu'il n'étende pas la main vers l'arbre de
-la Vie et ne vive *le'==olam==* (*Bereshit* 3:22).
+la Vie et ne vive *le'==olam==* (*Genèse* 3:22).
 
 Presque toutes les Bibles écrivent « éternellement », et l'on comprend alors une
 faveur qu'on lui retire. Lis le mot pour ce qu'il dit, et la phrase se retourne :

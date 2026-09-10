@@ -12,7 +12,7 @@
 
 ## Ce que le corpus en fait
 
-*Yehezqel* 27:10 le montre, avec [[Put]], ==servant comme guerrier dans l'armée de Tyr==. Des hommes loués pour combattre, venus de loin.
+*Ézéchiel* 27:10 le montre, avec [[Put]], ==servant comme guerrier dans l'armée de Tyr==. Des hommes loués pour combattre, venus de loin.
 
 C'est à peu près tout ce que le corpus en fait, et l'ONT ne lui fabriquera pas davantage. Sa présence dans la liste de [[Shem-fils-de-Noach]] ==étend la maison sémitique vers l'occident anatolien==, là où on ne l'attendrait pas.
 

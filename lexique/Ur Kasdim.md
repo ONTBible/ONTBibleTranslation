@@ -46,7 +46,7 @@ C'est ce qui donne son poids au reproche implicite : au moment où [[ʾAvram]] d
 
 ## Ce que la fiche porte, et ce qu'elle attend
 
-Elle repose sur *Bereshit* 11 et 15, les deux seules unités où le lieu paraît. Elle sera reprise si le corpus y revient — *Nehemyah* 9:7 reprend la formule, et le livre n'est pas écrit.
+Elle repose sur *Bereshit* 11 et 15, les deux seules unités où le lieu paraît. Elle sera reprise si le corpus y revient — *Néhémie* 9:7 reprend la formule, et le livre n'est pas écrit.
 
 ## Voir aussi
 

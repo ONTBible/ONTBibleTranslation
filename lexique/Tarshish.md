@@ -12,7 +12,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## La flotte, et la distance
 
-Le corpus en fait ==une mesure== plus qu'un lieu. *La flotte de Tarshish* devient l'expression du ==commerce maritime à longue distance== — *Tehilim* 48:8 et 72:10, *Yeshayahu* 60:9, *Yirmeyahu* 10:9, et les flottes de Shelomo dans *Melakhim*.
+Le corpus en fait ==une mesure== plus qu'un lieu. *La flotte de Tarshish* devient l'expression du ==commerce maritime à longue distance== — *Psaumes* 48:8 et 72:10, *Ésaïe* 60:9, *Jérémie* 10:9, et les flottes de Shelomo dans *Melakhim*.
 
 Quand un texte dit *Tarshish*, il dit ==aussi loin qu'un navire puisse aller==.
 

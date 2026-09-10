@@ -44,11 +44,11 @@ Haran ne subsiste donc pas par un nom, mais ==par ce que ses enfants deviennent=
 
 Le *Chazon Avraham* le fait paraître vivant, dans l'atelier de [[Terach]] : c'est ==son frère==, celui dont l'**ʾelohim** d'or, [[Zucheus]], a plus de **kavod** que celui de l'enfant. Le témoin slavon le nomme *Ora* et *Oron*, deux formes du même **Shem**, et l'ONT les rend telles quelles en les glosant.
 
-Trois manuscrits tardifs de ce même livre ajoutent qu'il périt dans l'incendie du temple d'idoles. ==Le témoin le plus ancien ne le dit pas==, et l'ONT ne le retient pas : c'est une couche de copiste, venue combler le silence de *Bereshit* 11:28. Le motif existe ailleurs — *Yovelim* 12:12-14 le porte, indépendamment —, mais le livre n'est pas encore écrit.
+Trois manuscrits tardifs de ce même livre ajoutent qu'il périt dans l'incendie du temple d'idoles. ==Le témoin le plus ancien ne le dit pas==, et l'ONT ne le retient pas : c'est une couche de copiste, venue combler le silence de *Genèse* 11:28. Le motif existe ailleurs — *Jubilés* 12:12-14 le porte, indépendamment —, mais le livre n'est pas encore écrit.
 
 ## Sur quoi cette fiche repose
 
-*Bereshit* 11:26-31, verrouillé — cinq versets, et tout ce que la Torah dit de lui. Le *Chazon Avraham*, en brouillon, pour la scène de l'atelier et pour *Ora* / *Oron*.
+*Genèse* 11:26-31, verrouillé — cinq versets, et tout ce que la Torah dit de lui. Le *Chazon Avraham*, en brouillon, pour la scène de l'atelier et pour *Ora* / *Oron*.
 
 Ce qui reste à venir : *Yovelim* (n° 06), qui raconte le feu. Le jour où ce livre sera écrit, cette fiche devra être reprise — le personnage n'aura pas changé, mais ce que le corpus en dit, oui.
 

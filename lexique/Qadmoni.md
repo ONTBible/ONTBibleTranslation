@@ -37,7 +37,7 @@ Le silence est ici l'information, et il faut le laisser tel quel. Un nom qui ne 
 
 ## Ce que la fiche porte
 
-Elle repose sur *Bereshit* 15:19, unique mention, et sur la racine *qedem* telle que le corpus l'emploie déjà ailleurs. Contrairement aux autres *Shemot* de cette liste, ==il n'y a rien à attendre== : aucun livre à venir ne les reprendra. La fiche est complète parce que le corpus l'est.
+Elle repose sur *Genèse* 15:19, unique mention, et sur la racine *qedem* telle que le corpus l'emploie déjà ailleurs. Contrairement aux autres *Shemot* de cette liste, ==il n'y a rien à attendre== : aucun livre à venir ne les reprendra. La fiche est complète parce que le corpus l'est.
 
 ## Voir aussi
 

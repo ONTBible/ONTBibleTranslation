@@ -40,7 +40,7 @@ Une seule lettre tombe. ==Le possessif==. Ce qui l'attachait à une maison la qu
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 11:29 à 17:15, où le nom cesse. La suite est chez [[Sarah]].
+*Genèse* 11:29 à 17:15, où le nom cesse. La suite est chez [[Sarah]].
 
 ## Voir aussi
 

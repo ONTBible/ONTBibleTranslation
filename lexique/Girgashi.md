@@ -12,9 +12,9 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Ce que le corpus en fait
 
-Il figure dans ==la liste des peuples à déposséder== — *Devarim* 7:1, *Yehoshua* 3:10 : les sept peuples de [[Kenaʿan]].
+Il figure dans ==la liste des peuples à déposséder== — *Deutéronome* 7:1, *Josué* 3:10 : les sept peuples de [[Kenaʿan]].
 
-Et c'est là qu'il faut se souvenir de ce que *Bereshit* 15:16 a posé : ==ces sept peuples sont ceux dont l'*avon* était complet== au temps de la conquête. Le corpus ne fonde pas la dépossession sur le *arur* prononcé sur [[Kenaʿan]] en *Bereshit* 9 — il la fonde sur ==une mesure atteinte==, des siècles plus tard.
+Et c'est là qu'il faut se souvenir de ce que *Genèse* 15:16 a posé : ==ces sept peuples sont ceux dont l'*avon* était complet== au temps de la conquête. Le corpus ne fonde pas la dépossession sur le *arur* prononcé sur [[Kenaʿan]] en *Bereshit* 9 — il la fonde sur ==une mesure atteinte==, des siècles plus tard.
 
 Les deux choses restent distinctes, et l'ONT les tient distinctes.
 

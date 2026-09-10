@@ -77,13 +77,13 @@ qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 Le mot *ha-Maqom* comme nom est tardif. Mais ==la chose est ancienne==, et les
 **neviʾim** la portent chacun à leur façon.
 
-==La plénitude qui ne laisse pas de vide.== *Yeshayahu* 6:3 — ==toute la terre
+==La plénitude qui ne laisse pas de vide.== *Ésaïe* 6:3 — ==toute la terre
 est remplie de son **kavod**==. Le verbe est *male* (מָלֵא), ==remplir==. Ce
 n'est pas « on trouve sa présence en divers endroits » : c'est qu'il ==n'y a
-nulle part de vide==. Le même verbe revient chez *Yirmeyahu* 23:24 : ==est-ce que
+nulle part de vide==. Le même verbe revient chez *Jérémie* 23:24 : ==est-ce que
 je ne remplis pas les Cieux et la Terre ?==
 
-==L'impossibilité de le loger.== *Yeshayahu* 66:1 démonte le Temple comme
+==L'impossibilité de le loger.== *Ésaïe* 66:1 démonte le Temple comme
 contenant, et il le fait par l'absurde : si les Cieux sont son trône et la Terre
 le tabouret de ses pieds, ==quelle maison bâtirait-on pour un être de cette
 taille ?== Le verset emploie le mot lui-même : ==quel **maqom** serait mon
@@ -93,7 +93,7 @@ Attention à ne pas y lire un abandon du Temple. Ce n'est pas *« il n'habite
 nulle part »*, c'est ==*le cosmos entier est son Temple*== — et le Temple bâti
 n'est pas sa boîte, c'est le point où il consent à se rendre approchable.
 
-==Le refus des distances.== *Yirmeyahu* 23:23 est presque une définition :
+==Le refus des distances.== *Jérémie* 23:23 est presque une définition :
 ==suis-je un **ʾElohim** de près, et non un **ʾElohim** de loin ?== Il ne dit pas
 qu'il est partout à la fois. Il dit que ==« près » et « loin » ne sont pas des
 catégories qui s'appliquent à lui==. On ne le situe pas.
@@ -200,15 +200,15 @@ résout pas==. Toute réponse rapide ici serait une catégorie importée.
 
 - *==maqom n'est pas déclaré intraduisible==, et il travaille pourtant ici de bout en bout. « Lieu » en français dit un emplacement ; le **maqom** dit une ==tenue==, et la racine *qum* est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui réserve toute déclaration neuve.*
 
-- *==Ce que la chuqqah laisse dehors.== La matière porte une application au **kli** que l'auteur prépare et à sa propre mission. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une lecture de *Yeshayahu* 57:15 — il demeure dans la hauteur et avec le cœur brisé —, écartée non parce qu'elle est fausse mais parce qu'elle demande le traitement du §7 sur *Yeshayahu*, qui n'est pas écrit.*
+- *==Ce que la chuqqah laisse dehors.== La matière porte une application au **kli** que l'auteur prépare et à sa propre mission. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une lecture de *Ésaïe* 57:15 — il demeure dans la hauteur et avec le cœur brisé —, écartée non parce qu'elle est fausse mais parce qu'elle demande le traitement du §7 sur *Yeshayahu*, qui n'est pas écrit.*
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Yeshayahu* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol haʾaretz kevodo*.
-- *Yeshayahu* 66:1-2 (à écrire) — le trône, le tabouret, et le **maqom** du repos.
-- *Yirmeyahu* 23:23-24 (à écrire) — de près et de loin, et le verbe *male*.
+- *Ésaïe* 6:3 (à écrire, §7 — le Deutéro-Yeshayahu est réservé) — *melo kol haʾaretz kevodo*.
+- *Ésaïe* 66:1-2 (à écrire) — le trône, le tabouret, et le **maqom** du repos.
+- *Jérémie* 23:23-24 (à écrire) — de près et de loin, et le verbe *male*.
 - *Yehezqel* 1 (à écrire) — la **merkavah** vue à Bavel, la preuve par l'événement.
-- *Tehilim* 139:7-10 (à écrire) — les Cieux, le **Sheʾol**, les ailes de l'aurore.
+- *Psaumes* 139:7-10 (à écrire) — les Cieux, le **Sheʾol**, les ailes de l'aurore.
 
 ---
 

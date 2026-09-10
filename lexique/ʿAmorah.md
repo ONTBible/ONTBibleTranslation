@@ -14,7 +14,7 @@ Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-supp
 
 Elle ne paraît presque jamais seule. ==Le couple [[Sedom]]-Amorah== devient dans tout le corpus ==la formule de la dysfonction totale== — les *Neviʾim* l'emploient comme on emploie une mesure.
 
-*Yeshayahu* 1:9-10 s'adresse à Yeroushalayim en l'appelant *chefs de Sedom, peuple d'Amorah*. *Amos* 4:11, *Yirmeyahu* 49:18 la reprennent.
+*Ésaïe* 1:9-10 s'adresse à Yeroushalayim en l'appelant *chefs de Sedom, peuple d'Amorah*. *Amos* 4:11, *Jérémie* 49:18 la reprennent.
 
 Le nom cesse alors de désigner un lieu : il désigne ==un état où une ville peut tomber==, et le *navi* s'en sert pour dire à son propre peuple ce qu'il est devenu.
 

@@ -109,7 +109,7 @@ C'est pourquoi la formulation exacte est celle-ci :
 
 ### Trois textes où l'on voit la différence
 
-*Qohelet* 3:11 — ==il a mis l'**ʿolam** dans leur cœur==.
+*Ecclésiaste* 3:11 — ==il a mis l'**ʿolam** dans leur cœur==.
 
 Si **ʿolam** voulait dire « le monde », la phrase serait plate : il a mis le monde
 dans le cœur des hommes, soit. Si c'était « l'éternité », ce serait une jolie
@@ -121,14 +121,14 @@ quelque chose lui échappe toujours==. Il est bâti pour sentir qu'il y a un
 au-delà de sa vue, ==sans pouvoir en atteindre les bords==. Le verset le dit
 d'ailleurs juste après.
 
-*Devarim* 32:7 — ==souviens-toi des jours d'**ʿolam**==.
+*Deutéronome* 32:7 — ==souviens-toi des jours d'**ʿolam**==.
 
 Ce ne sont pas « des jours éternels », ce qui ne veut rien dire. Ce sont ==les
 jours dont plus personne ne peut témoigner== : ceux que nul vivant n'a vus, et
 qu'on ne tient plus que par transmission. Une frontière de mémoire, non une
 mesure de temps.
 
-*Tehilim* 24:7 — ==ouvrez-vous, portes d'**ʿolam**==.
+*Psaumes* 24:7 — ==ouvrez-vous, portes d'**ʿolam**==.
 
 Si l'**ʿolam** était un lieu, ses portes seraient les murs d'une ville. Mais si
 c'est un rapport de visibilité, alors ses portes sont ==des points de
@@ -215,10 +215,10 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Bereshit* 3:22 (verrouillé) — *vechai leʿolam*, premier emploi du mot dans l'ONT.
-- *Qohelet* 3:11 (à écrire) — l'**ʿolam** mis dans le cœur, le texte le plus décisif.
-- *Devarim* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
-- *Tehilim* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.
+- *Genèse* 3:22 (verrouillé) — *vechai leʿolam*, premier emploi du mot dans l'ONT.
+- *Ecclésiaste* 3:11 (à écrire) — l'**ʿolam** mis dans le cœur, le texte le plus décisif.
+- *Deutéronome* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
+- *Psaumes* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.
 - La fiche *lexique/olam.md* porte le même invariant, et le déplie pour le lecteur qui touche le mot dans une **parashah**.
 
 ---

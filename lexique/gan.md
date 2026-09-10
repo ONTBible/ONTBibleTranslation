@@ -30,7 +30,7 @@ Le *gan* hébreu n'est rien de cela. C'est ==un lieu de ce monde==, avec des fle
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 2:8-15 et 3:23-24 ; les verbes *avad* et *shamar*, dont l'emploi conjoint est celui du service sacerdotal.
+*Genèse* 2:8-15 et 3:23-24 ; les verbes *avad* et *shamar*, dont l'emploi conjoint est celui du service sacerdotal.
 
 ## Formes
 

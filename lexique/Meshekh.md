@@ -18,7 +18,7 @@ Il paraît presque toujours avec [[Tuval]], au point que les deux forment ==un s
 
 Ce que le corpus en fait de plus parlant n'est pas géopolitique, c'est ==une plainte==.
 
-*Tehilim* 120:5 : le psalmiste se lamente d'habiter ==parmi les tentes de Meshekh==. Il ne dit pas qu'on l'y maltraite. Il dit qu'il y est, et que c'est loin.
+*Psaumes* 120:5 : le psalmiste se lamente d'habiter ==parmi les tentes de Meshekh==. Il ne dit pas qu'on l'y maltraite. Il dit qu'il y est, et que c'est loin.
 
 Le **Shem** devient donc ==une mesure de l'éloignement== — non pas de la terre, mais de l'espace où l'alliance se vit. Habiter ==Meshekh==, c'est être là où rien de ce qui compte ne se passe.
 

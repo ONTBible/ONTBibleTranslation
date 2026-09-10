@@ -34,7 +34,7 @@ Titre & **Shem** — *Chazon ==Avraham==* (חֲזוֹן אַבְרָהָם) : «
 
 *Restitution* (standard §A). Le livre parle à la première personne sous le **Shem** d'[[ʾAvraham]], et il n'est évidemment pas de sa main : il voit le Temple brûlé, deux mille ans après lui. Le **Shem** marque ici la ==provenance et l'autorité== d'une vérité, non le scribe physique — le même régime que la Torah, mosaïque par autorité et non par chaque trait de plume.
 
-Ce n'est pas une fraude, et il faut voir précisément ce que ce régime déclare. Écrire sous le **Shem** d'[[ʾAvraham]], c'est dire : *cette vision appartient à celui à qui la **berith** fut donnée*. Le livre ne s'invente pas un patron prestigieux — il rattache son contenu au seul homme dont la Torah dit qu'il fut plongé dans une obscurité épaisse et à qui il fut montré ce qui viendrait (*Bereshit* 15:12-16). La revendication est exacte : il déploie ce que sa source contracte.
+Ce n'est pas une fraude, et il faut voir précisément ce que ce régime déclare. Écrire sous le **Shem** d'[[ʾAvraham]], c'est dire : *cette vision appartient à celui à qui la **berith** fut donnée*. Le livre ne s'invente pas un patron prestigieux — il rattache son contenu au seul homme dont la Torah dit qu'il fut plongé dans une obscurité épaisse et à qui il fut montré ce qui viendrait (*Genèse* 15:12-16). La revendication est exacte : il déploie ce que sa source contracte.
 
 ## But
 
@@ -64,7 +64,7 @@ Sa réponse est architecturale, non morale : il fut porté au-dessus du firmamen
 
 *Les trois niveaux et la division du travail.* Niveau 1 (corps, sa voix) : [[ʾAvraham]] raconte ce qu'il a vu, directement, sans le théoriser. Niveau 2 (gloses, notre voix) : là seulement se déploient les termes recouvrés — le recouvrement est *notre* acte, pas le sien. Niveau 3 : (translittération / hébreu restitué). *Cette introduction portant le cadre, les gloses du corps restent légères ; l'apparat détaillé vit en notes de bas de section à la fin de chaque unité — il voyage donc avec le livre.*
 
-*Un piège de lecture, à nommer d'emblée.* Les premiers chapitres montrent [[ʾAvraham]] remontant une échelle : le feu vaut mieux que les idoles puisqu'il les brûle, l'eau mieux que le feu puisqu'elle l'éteint, la terre mieux que l'eau, le soleil mieux que la terre — et pourtant le soleil se couche. Cela ressemble à une preuve cosmologique grecque. Ce n'en est pas une, et tout le rendu en dépend. Une preuve grecque démontre *qu'un être existe*, en remontant des effets à leur cause. [[ʾAvraham]] ne demande pas qui existe : il demande ==qui assigne les fonctions==. Son critère à chaque échelon est fonctionnel — le feu échoue parce que l'eau l'éteint, le soleil échoue parce qu'il se couche : *aucun ne tient sa fonction sans dépendre d'un autre*. C'est *Bereshit* 1 pris à l'envers. Là, **ʾElohim** assigne aux luminaires de gouverner le temps ; ici, [[ʾAvraham]] constate qu'un luminaire gouverné n'est pas celui qui gouverne. Le livre démythologise les astres exactement comme *Bereshit* 1:16 le fait en refusant de les nommer. [[ʾAvraham]] ne prouve pas : il ==discerne==.
+*Un piège de lecture, à nommer d'emblée.* Les premiers chapitres montrent [[ʾAvraham]] remontant une échelle : le feu vaut mieux que les idoles puisqu'il les brûle, l'eau mieux que le feu puisqu'elle l'éteint, la terre mieux que l'eau, le soleil mieux que la terre — et pourtant le soleil se couche. Cela ressemble à une preuve cosmologique grecque. Ce n'en est pas une, et tout le rendu en dépend. Une preuve grecque démontre *qu'un être existe*, en remontant des effets à leur cause. [[ʾAvraham]] ne demande pas qui existe : il demande ==qui assigne les fonctions==. Son critère à chaque échelon est fonctionnel — le feu échoue parce que l'eau l'éteint, le soleil échoue parce qu'il se couche : *aucun ne tient sa fonction sans dépendre d'un autre*. C'est *Bereshit* 1 pris à l'envers. Là, **ʾElohim** assigne aux luminaires de gouverner le temps ; ici, [[ʾAvraham]] constate qu'un luminaire gouverné n'est pas celui qui gouverne. Le livre démythologise les astres exactement comme *Genèse* 1:16 le fait en refusant de les nommer. [[ʾAvraham]] ne prouve pas : il ==discerne==.
 
 ## Vue d'ensemble
 
@@ -72,7 +72,7 @@ Le livre a deux versants, et une charnière nette.
 
 *Le premier versant* est terrestre et presque domestique. [[ʾAvraham]] sert dans l'atelier de [[Terach]] son père, qui taille et vend des dieux. Une idole de pierre tombe et se brise ; son père lui retaille une tête. Une idole de bois, laissée à garder le feu, y est réduite en cendres — et [[ʾAvraham]] rapporte à son père, avec ironie, qu'elle s'est admirablement occupée du foyer. De là il remonte l'échelle des éléments et n'y trouve personne qui tienne. Alors une voix vient des Cieux : *sors de la maison de ton père*. Il sort ; le feu descend et consume la maison.
 
-*La charnière est le sacrifice de la **berith***. La voix commande les cinq animaux de *Bereshit* 15:9 — une génisse de trois ans, une chèvre, un bélier, une tourterelle, un pigeon — et quarante jours sans pain ni eau. [[ʾAvraham]] tombe face contre terre, sans souffle. Un **malʾakh** est envoyé pour le relever : [[Yahoʾel]], en qui le **Shem** habite. Ils marchent quarante jours jusqu'à la montagne d'El.
+*La charnière est le sacrifice de la **berith***. La voix commande les cinq animaux de *Genèse* 15:9 — une génisse de trois ans, une chèvre, un bélier, une tourterelle, un pigeon — et quarante jours sans pain ni eau. [[ʾAvraham]] tombe face contre terre, sans souffle. Un **malʾakh** est envoyé pour le relever : [[Yahoʾel]], en qui le **Shem** habite. Ils marchent quarante jours jusqu'à la montagne d'El.
 
 *Le second versant est vertical.* [[ʾAvraham]] dispose les corps ; les oiseaux, il ne les divise pas. Un oiseau impur descend sur les pièces et lui parle pieusement pour le faire redescendre — c'est [[ʿAzazel]], et [[Yahoʾel]] le chasse en lui disant que le vêtement qu'il portait en haut est désormais réservé à cet homme. Au soir, une fumée comme d'une fournaise ; les **malʾakhim** montent et descendent ; et [[ʾAvraham]] monte, porté sur l'aile des deux oiseaux restés entiers. Il n'y a plus de terre où se prosterner : [[Yahoʾel]] lui enseigne un chant, et c'est le chant qui tient lieu de prosternation. Il voit alors le feu, le trône, les quatre vivants aux quatre faces, les roues pleines d'yeux. Puis il lui est dit de regarder en bas — et l'histoire entière lui est montrée comme une image déployée : l'abîme, les eaux, le Jardin, la multitude des peuples séparés en deux lots, le meurtre, le sanctuaire, l'idole de la jalousie, les **goyim** qui entrent et brûlent le Temple. [[ʾAvraham]] crie. Il lui est répondu, il demande combien de temps, et le livre se referme sur une durée qui ne se laisse pas fixer : la quatrième génération de cent ans, une heure de l'**ʿolam**.
 
@@ -81,17 +81,17 @@ Le livre a deux versants, et une charnière nette.
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
 | L'atelier de [[Terach]] | l'idole est une œuvre de main qui ne se sauve pas elle-même | *Yovelim* 11-12 ; Josèphe, *Ant.* 1.155 ; *Bereshit* 11 |
-| *L'échelle du discernement* | on ne prouve pas **ʾEl**, on discerne qui assigne les fonctions | *Bereshit* 1:14-18 (démythologisation des luminaires) |
+| *L'échelle du discernement* | on ne prouve pas **ʾEl**, on discerne qui assigne les fonctions | *Genèse* 1:14-18 (démythologisation des luminaires) |
 | Le sacrifice comme véhicule | la **berith** des morceaux n'est pas le cadre du livre : elle en est l'armature | *Bereshit* 15 (verrouillé) |
-| [[Yahoʾel]], le **malʾakh** qui porte le **Shem** | l'envoyé en qui le Nom habite — sa fonction *est* son **Shem** | *Shemot* 23:20-21 ; *Bereshit* 16 (ambiguïté déjà maintenue) |
-| *==Azazel==, l'oiseau impur* | le rapace anonyme de *Bereshit* 15:11, identifié ; défini par son lot, non par une nature | *Bereshit* 15:11 ; 1 *==Chanokh==* 8-10 ; *Vayiqra* 16 |
+| [[Yahoʾel]], le **malʾakh** qui porte le **Shem** | l'envoyé en qui le Nom habite — sa fonction *est* son **Shem** | *Exode* 23:20-21 ; *Bereshit* 16 (ambiguïté déjà maintenue) |
+| *==Azazel==, l'oiseau impur* | le rapace anonyme de *Genèse* 15:11, identifié ; défini par son lot, non par une nature | *Genèse* 15:11 ; 1 *==Chanokh==* 8-10 ; *Vayiqra* 16 |
 | Le vêtement échangé | la **kavod** est un vêtement fonctionnel : ce qu'on quitte, un autre le reçoit | *Toledot* (kavod d'Adam) ; 1QS 4:22-23 ; CD 3:20 |
-| *Les oiseaux non divisés* | la Torah dit qu'il ne les divisa pas, sans dire pourquoi — ici ils portent | *Bereshit* 15:10 |
-| Le chant à la place de la prosternation | le support du geste ayant disparu, la fonction migre vers la voix | *Yeshayahu* 6:3 ; 4Q400-407 (Cantiques du sabbat) |
+| *Les oiseaux non divisés* | la Torah dit qu'il ne les divisa pas, sans dire pourquoi — ici ils portent | *Genèse* 15:10 |
+| Le chant à la place de la prosternation | le support du geste ayant disparu, la fonction migre vers la voix | *Ésaïe* 6:3 ; 4Q400-407 (Cantiques du sabbat) |
 | La **merkavah** | le trône-char contemplé ; les vivants, les roues pleines d'yeux | Yehezqel 1 et 10 ; Daniel 7:9-10 |
-| *Les deux lots* | droite et gauche ne sont pas deux principes rivaux : deux domaines assignés | 1QS 3-4 (les deux esprits) ; *Devarim* 30:15-19 |
-| L'idole de la jalousie | l'abomination dans le sanctuaire, puis la destruction — l'ordre est celui du **mishpat** | Yehezqel 8:3-5 ; 8-11 |
-| *La quatrième génération* | la durée donnée et non résolue — le livre ne tranche pas davantage que sa source | *Bereshit* 15:13-16 (ambiguïté maintenue, verrouillée) |
+| *Les deux lots* | droite et gauche ne sont pas deux principes rivaux : deux domaines assignés | 1QS 3-4 (les deux esprits) ; *Deutéronome* 30:15-19 |
+| L'idole de la jalousie | l'abomination dans le sanctuaire, puis la destruction — l'ordre est celui du **mishpat** | Ézéchiel 8:3-5 ; 8-11 |
+| *La quatrième génération* | la durée donnée et non résolue — le livre ne tranche pas davantage que sa source | *Genèse* 15:13-16 (ambiguïté maintenue, verrouillée) |
 
 Le fait décisif : *ce livre est une traversée de* Bereshit *15, verset par verset*. Les cinq animaux dans l'ordre, le rapace, les oiseaux entiers, la *tardemah*, le four fumant, les étoiles à compter, les quatre cents ans — chaque élément de la nuit de la **berith** devient une pièce de l'architecture. Ce n'est pas un livre qui cite *Bereshit* 15 : c'est un livre qui l'habite.
 
@@ -103,7 +103,7 @@ Et une convergence qui mérite d'être relevée. Le livre se referme sur « le q
 
 L'écho le plus net est aussi le plus surprenant. Dans *Bereshit ha-Yohanan* 8:56, Yeshua dit : *« [[ʾAvraham]] votre père a tressailli de voir mon jour ; il l'a vu, et il s'est réjoui. »* La phrase suppose acquise, chez ses auditeurs, ==une tradition où il fut montré à Avraham ce qui viendrait== — ce qui est précisément la revendication de ce livre. Elle ne la tire pas d'ici, et ce livre ne la tire pas de là : les deux témoignent d'un réel qui circulait.
 
-Shaul, de la même génération, argumente tout entier sur le chapitre que ce livre traverse : *« [[ʾAvraham]] fit **ʾemuna** à **ʾElohim**, et cela lui fut compté comme **tsedaqah** »* (*Bereshit* 15:6, repris en *El HaRomiyim* 4 et *El HaGalatiyim* 3). Deux lectures d'un même chapitre, contemporaines et indépendantes : l'une déploie ce qu'[[ʾAvraham]] *crut*, l'autre ce qu'il *vit*.
+Shaul, de la même génération, argumente tout entier sur le chapitre que ce livre traverse : *« [[ʾAvraham]] fit **ʾemuna** à **ʾElohim**, et cela lui fut compté comme **tsedaqah** »* (*Genèse* 15:6, repris en *El HaRomiyim* 4 et *El HaGalatiyim* 3). Deux lectures d'un même chapitre, contemporaines et indépendantes : l'une déploie ce qu'[[ʾAvraham]] *crut*, l'autre ce qu'il *vit*.
 
 Shaul encore, ravi jusqu'au troisième ciel et ne sachant dire si ce fut dans le corps ou hors du corps (*El HaQorintiyim* 12:2-4) : la montée d'[[ʾAvraham]] est du même ordre — portée, corporelle, sans que rien se détache. C'est la cosmologie native d'un Hébreu du Second Temple, non le vol d'une âme.
 
@@ -137,12 +137,12 @@ Que la même réalité soit portée ailleurs, et légitimement, ne change rien :
 
 ## Repères
 
-- [[Yahoʾel]] (*Yahoʾel* / יַהוֹאֵל) — ==nom propre== (non balisé), **malʾakh** envoyé relever [[ʾAvraham]]. Son **Shem** compose YHW et **ʾEl** : il *dit* sa fonction — l'envoyé en qui le Nom habite (*Shemot* 23:21). Niveau 3 et glose à la première occurrence. ==Statut arrêté avec l'auteur avant rédaction du corps== ; précédents : ==Mikhaʾel== (*Toledot*), ==Rafaʾel== (*Sefar Gibbaraya*).
+- [[Yahoʾel]] (*Yahoʾel* / יַהוֹאֵל) — ==nom propre== (non balisé), **malʾakh** envoyé relever [[ʾAvraham]]. Son **Shem** compose YHW et **ʾEl** : il *dit* sa fonction — l'envoyé en qui le Nom habite (*Exode* 23:21). Niveau 3 et glose à la première occurrence. ==Statut arrêté avec l'auteur avant rédaction du corps== ; précédents : ==Mikhaʾel== (*Toledot*), ==Rafaʾel== (*Sefar Gibbaraya*).
 - [[ʿAzazel]] (*ʿAzazel* / עֲזָאזֵל) — ==nom propre== (non balisé), déjà nommé dans le corpus (*Sefar Gibbaraya*, parmi les **ʿirin**). Ici il parle : il vient en oiseau impur sur les corps de la **berith**, et son lot est ==la terre==. Défini par son domaine assigné, non par une nature — même logique fonctionnelle que le **malʾakh**. Traitement définitif réservé à son locus légal, *Vayiqra* 16.
-- **ʿolam** (*ʿolam* / עוֹלָם) — *intraduisible déjà posé* (§3, premier emploi *Bereshit* 3:22). Restitué sous le slavon *vekъ* là où les traductions donnent « âges » ou « siècle ». Le livre s'ouvre sur la promesse de les montrer et se referme sur « une heure de l'**ʿolam** ».
+- **ʿolam** (*ʿolam* / עוֹלָם) — *intraduisible déjà posé* (§3, premier emploi *Genèse* 3:22). Restitué sous le slavon *vekъ* là où les traductions donnent « âges » ou « siècle ». Le livre s'ouvre sur la promesse de les montrer et se referme sur « une heure de l'**ʿolam** ».
 - **kavod** (*kavod* / כָּבוֹד) — *intraduisible déjà posé*. Pièce maîtresse du livre sous la forme du ==vêtement== : ce qu'un être du domaine haut a quitté est mis en réserve pour [[ʾAvraham]]. Même ontologie que la **kavod** d'Adam (*Toledot*), et même logique **kavod** / *qalal* que *Bereshit* 7-8.
 - **merkavah**, **malʾakh**, **mishpat**, **berith**, **goyim**, **tsedaqah**, **Shem** — *tous déjà posés*. Ce livre n'introduit ==aucun intraduisible neuf== : il réactive un vocabulaire acquis dans un registre nouveau.
-- *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ofanim* (les roues), *tardemah* (déjà posé, *Bereshit* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
+- *Vocabulaire hébreu restitué et traduit* — *chayot* (les vivants), *ofanim* (les roues), *tardemah* (déjà posé, *Genèse* 15:12), *gan* (le Jardin) : traduits dans le corps, niveau 3 restitué comme repère critique.
 - Noms propres déjà dans le corpus : [[ʾAvraham]], [[Terach]], Nachor, [[Haran]] le frère et [[Charan]] la ville (*Bereshit* 11-12, verrouillés). Adam et [[Chavah]] au Jardin (sl. 23) sont des ==personnes nommées== : noms propres, non la périphrase générique du régime antédiluvien.
 - *Fondations parallèles* : ==*Bereshit* 15== avant tout (l'armature entière) ; *Bereshit* 1 (les luminaires démythologisés), *Bereshit* 11-12 ([[Terach]], *lekh-lekha*), *Bereshit* 16 (le **malʾakh** ambigu) ; Yehezqel 1 et 8-11 ; Daniel 7 ; 1 *==Chanokh==* 8-10 ; *Yovelim* 11-12.
 

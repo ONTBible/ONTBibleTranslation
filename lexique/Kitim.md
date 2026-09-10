@@ -12,7 +12,7 @@
 
 Le corpus lui donne une fonction, et elle est constante : ==ce qui arrive par l'ouest, par bateau==.
 
-*Bemidbar* 24:24, dans la bouche de Balaam : ==des bateaux viendront de Kitim==. La prophétie ne dit pas qui les monte ; elle dit ==d'où ils viennent==, et cela suffit à porter la menace.
+*Nombres* 24:24, dans la bouche de Balaam : ==des bateaux viendront de Kitim==. La prophétie ne dit pas qui les monte ; elle dit ==d'où ils viennent==, et cela suffit à porter la menace.
 
 Et dans les textes prophétiques de Qumrân, le **Shem** devient celui ==des grandes puissances occidentales== — l'empire au-delà de la mer, quel qu'il soit à l'époque où l'on écrit. Un nom d'île finit par désigner ==la puissance qui vient d'ailleurs et qu'on ne peut pas arrêter==.
 

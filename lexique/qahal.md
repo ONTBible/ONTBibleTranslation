@@ -23,7 +23,7 @@ n'assiste pas à un ==qahal== : ==on y est appelé==.
 ## Le jour où le mot a été posé
 
 Le corpus a une expression pour un jour précis : *yom ha-==qahal==*, ==le jour
-du qahal== (*Devarim* 9:10).
+du qahal== (*Deutéronome* 9:10).
 
 C'est le jour où un peuple sorti d'esclavage se tient devant une montagne dans
 le désert, parce qu'il a été convoqué là. Personne n'a proposé la réunion.

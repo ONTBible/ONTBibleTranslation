@@ -26,7 +26,7 @@ Ce qui compte ici : ==ce qui ornera le sanctuaire est nommé dans la description
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 2:11-12 pour le pays du fleuve, *Bereshit* 10:7 et 10:29 pour les deux occurrences de la table des nations.
+*Genèse* 2:11-12 pour le pays du fleuve, *Genèse* 10:7 et 10:29 pour les deux occurrences de la table des nations.
 
 ## Voir aussi
 

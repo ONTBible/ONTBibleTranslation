@@ -30,7 +30,7 @@ Quelqu'un s'est penché vers vous. Le texte le note comme il noterait qu'un homm
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 6:8 pour Noach, 19:19 pour Lot, et le §4.7 qui prend ce mot pour exemple des catégories à ne pas importer.
+*Genèse* 6:8 pour Noach, 19:19 pour Lot, et le §4.7 qui prend ce mot pour exemple des catégories à ne pas importer.
 
 ## Formes
 

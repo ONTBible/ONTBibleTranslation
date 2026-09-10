@@ -18,7 +18,7 @@ Elle appartient aux cinq villes soumises à [[Kedorlaomer]] et révoltées aprè
 
 Et elle sera anéantie avec [[Sedom]] — mais ==pour une autre raison et bien plus tard==. Le corpus ne confond pas les deux événements, et l'ONT non plus : ==la guerre des rois n'est pas le **mishpat**==.
 
-*Hoshea* 11:8 la reprendra dans la bouche de **YHWH**, avec [[ʾAdmah]], pour dire ==ce qu'il ne veut pas faire== à son propre peuple.
+*Osée* 11:8 la reprendra dans la bouche de **YHWH**, avec [[ʾAdmah]], pour dire ==ce qu'il ne veut pas faire== à son propre peuple.
 
 ## Voir aussi
 

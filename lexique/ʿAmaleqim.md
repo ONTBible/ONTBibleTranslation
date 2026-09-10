@@ -36,7 +36,7 @@ Rien de tout cela n'est dans *Bereshit* 14. Mais le corpus a l'habitude de poser
 
 ## Ce que la fiche porte, et ce qu'elle attend
 
-Elle repose sur une seule mention, *Bereshit* 14:7, et sur ce que la géographie permet d'en dire sans inventer. Tout ce qui fait le poids de ce **Shem** est dans *Shemot* et *Devarim*, qui ne sont pas écrits. La fiche sera reprise alors — le peuple n'aura pas changé, mais ce que le corpus en dit, oui.
+Elle repose sur une seule mention, *Genèse* 14:7, et sur ce que la géographie permet d'en dire sans inventer. Tout ce qui fait le poids de ce **Shem** est dans *Shemot* et *Devarim*, qui ne sont pas écrits. La fiche sera reprise alors — le peuple n'aura pas changé, mais ce que le corpus en dit, oui.
 
 ## Voir aussi
 

@@ -14,7 +14,7 @@ Le nom se retrouve dans [[Tuval-Qayin]], de l'autre côté du **mabbul** — cel
 
 ## Le bloc géopolitique
 
-Il ne paraît presque jamais seul. ==Tuval== et [[Meshekh]] forment ==un bloc récurrent== dans le corpus prophétique — *Yeshayahu* 66:19, *Yehezqel* 27:13, 32:26, 38:2-3.
+Il ne paraît presque jamais seul. ==Tuval== et [[Meshekh]] forment ==un bloc récurrent== dans le corpus prophétique — *Ésaïe* 66:19, *Ézéchiel* 27:13, 32:26, 38:2-3.
 
 Et ce que *Yehezqel* 27 en dit est précis : ils commercent avec Tyr ==en esclaves et en objets de bronze==. C'est le visage économique de l'expansion de [[Yafet]] vers l'orient — le négoce lointain, avec ce qu'il charrie de plus dur.
 

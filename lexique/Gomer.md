@@ -14,7 +14,7 @@ Pour la géographie du Proche-Orient ancien, ce **Shem** désigne ==les Cimméri
 
 Fils aîné de [[Yafet]], il ouvre la lignée de ==l'élargissement== dans la table des nations.
 
-Et il revient bien plus tard, dans un autre registre. *Yehezqel* 38:6 le place sous le commandement de Gog, dans ==l'assemblée eschatologique des nations du septentrion==. Un **goy** de la carte des peuples devient une pièce d'une architecture que le regard ordinaire ne traverse pas.
+Et il revient bien plus tard, dans un autre registre. *Ézéchiel* 38:6 le place sous le commandement de Gog, dans ==l'assemblée eschatologique des nations du septentrion==. Un **goy** de la carte des peuples devient une pièce d'une architecture que le regard ordinaire ne traverse pas.
 
 C'est un mouvement que la table des nations produit souvent : ==elle range des peuples réels, et les *Neviʾim* les reprennent comme des fonctions==. Le même nom sert deux fois — une fois pour dire où l'on habite, une fois pour dire ce qu'on accomplit.
 

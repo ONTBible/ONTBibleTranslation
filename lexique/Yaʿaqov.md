@@ -42,7 +42,7 @@ Et un nom qui porte une annonce peut se retourner. Celui qui aura été devancé
 
 Il ne paraît ==qu'une fois== dans tout ce qui est rédigé, et ce n'est même pas dans son livre. C'est une glose du *Sefar Gibbaraya*, qui a besoin de lui pour expliquer autre chose.
 
-Le songeur y voit des eaux se lever, et la glose oppose deux régimes de la même substance. Pour dire ce qu'est une eau ==qui dote==, elle va chercher *Bereshit* 27:28 : ==la rosée des Cieux==, donnée à Yaʿaqov comme part.
+Le songeur y voit des eaux se lever, et la glose oppose deux régimes de la même substance. Pour dire ce qu'est une eau ==qui dote==, elle va chercher *Genèse* 27:28 : ==la rosée des Cieux==, donnée à Yaʿaqov comme part.
 
 Tiens-toi dans ce pays un instant pour comprendre le poids de cette part. La pluie y vient à sa saison, on la voit arriver de loin, et certaines années elle ne vient pas. La rosée, elle, ==vient toutes les nuits==, sans nuage, sans bruit, sans qu'on la voie venir. On sort au matin et la pierre est mouillée. Ce n'est pas beaucoup d'eau — c'est ==de l'eau qu'on ne demande pas et qui est là==.
 
@@ -68,7 +68,7 @@ Yaʿaqov est l'exact contraire. Son nom nomme ==un homme==, c'est-à-dire quelqu
 
 Elle repose sur trois choses, et il faut être franc sur leur minceur.
 
-==Une seule occurrence rédigée==, et de seconde main : une glose du *Sefar Gibbaraya*, qui cite *Bereshit* 27:28 pour éclairer un songe qui n'est pas le sien.
+==Une seule occurrence rédigée==, et de seconde main : une glose du *Sefar Gibbaraya*, qui cite *Genèse* 27:28 pour éclairer un songe qui n'est pas le sien.
 
 ==La décomposition du **Shem**==, qui est sûre : la racine עקב, le talon et le verbe, et le rendu que le §2.6 a fixé pour l'*Igeret Yaʿaqov*.
 

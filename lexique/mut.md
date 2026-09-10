@@ -12,7 +12,7 @@ Le *u* se dit ==« ou »==, comme dans « loup ».
 
 ## L'infinitif qui double, et ce qu'il fait
 
-*Bereshit* 2:17 porte une construction que le français ne peut pas rendre sans la trahir : ==*mot tamut*== — littéralement *mourir tu mourras*.
+*Genèse* 2:17 porte une construction que le français ne peut pas rendre sans la trahir : ==*mot tamut*== — littéralement *mourir tu mourras*.
 
 Ce n'est ni une répétition ni une emphase de style. C'est ==l'infinitif absolu==, un dispositif décrit à la section 8 de la grammaire : l'hébreu place l'infinitif devant le verbe conjugué pour ==donner à l'énoncé son plein poids==.
 
@@ -28,7 +28,7 @@ Et comme exister, ici, c'est ==tenir une fonction==, la mort est d'abord la pert
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 2:17 et 3:4 ; les généalogies de *Bereshit* 5, où la formule *vayamot* referme chaque vie ; l'entrée **Sheʾol** du §3.2.
+*Genèse* 2:17 et 3:4 ; les généalogies de *Bereshit* 5, où la formule *vayamot* referme chaque vie ; l'entrée **Sheʾol** du §3.2.
 
 ## Formes
 

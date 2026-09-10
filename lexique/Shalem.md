@@ -14,7 +14,7 @@ De *shalom* — ==la paix, l'intégralité, la plénitude==. ==L'entier==, ce à
 
 C'est la ville de [[Malki-tsedeq]], le roi-**kohen** de **ʾEl ʿElyon**.
 
-Les traditions ultérieures l'identifient à Yeroushalayim — *Tehilim* 76:3 le fait explicitement. ==Mais le texte lui-même ne fait pas cette identification==, et le corpus le note : ==l'ambiguïté est maintenue==.
+Les traditions ultérieures l'identifient à Yeroushalayim — *Psaumes* 76:3 le fait explicitement. ==Mais le texte lui-même ne fait pas cette identification==, et le corpus le note : ==l'ambiguïté est maintenue==.
 
 L'ONT ne tranche donc pas. Ce qu'on peut dire est ce que le nom porte : ==le roi de la plénitude, dont le **Shem** dit l'ordre juste, sort à la rencontre d'[[ʾAvraham]] avec du pain et du vin==.
 

@@ -30,11 +30,11 @@ Leur fonction dans le corpus est celle d'un ==peuple d'avant==, et ils la partag
 
 Le monde de *Bereshit* 14 n'est pas vide. Il est plein de peuples anciens, de stature redoutable ou de mémoire longue, que le récit nomme au passage sans les raconter. Ils ne sont pas les acteurs de l'alliance — ils sont ==le sol sur lequel elle sera posée==, et le texte tient à ce qu'on sache qu'il y avait quelqu'un.
 
-Et ils seront déplacés. *Devarim* 2:12 le dira sans détour : les fils d'==Esav== ont pris la montagne de [[Seir]] aux Chorim, comme ==Israel== fera pour le pays de son héritage. Le rapprochement est du texte, non de nous — le corpus regarde sa propre installation à travers celle des autres, ==et ne se donne pas un régime à part==.
+Et ils seront déplacés. *Deutéronome* 2:12 le dira sans détour : les fils d'==Esav== ont pris la montagne de [[Seir]] aux Chorim, comme ==Israel== fera pour le pays de son héritage. Le rapprochement est du texte, non de nous — le corpus regarde sa propre installation à travers celle des autres, ==et ne se donne pas un régime à part==.
 
 ## Ce que la fiche porte, et ce qu'elle attend
 
-Elle repose sur une seule mention, *Bereshit* 14:6, et sur ce que *Devarim* 2 en dira. Le second n'est pas écrit ; quand il le sera, ce **Shem** gagnera ce qui lui manque aujourd'hui — le récit de leur déplacement, et le regard que le corpus porte dessus.
+Elle repose sur une seule mention, *Genèse* 14:6, et sur ce que *Devarim* 2 en dira. Le second n'est pas écrit ; quand il le sera, ce **Shem** gagnera ce qui lui manque aujourd'hui — le récit de leur déplacement, et le regard que le corpus porte dessus.
 
 ## Voir aussi
 

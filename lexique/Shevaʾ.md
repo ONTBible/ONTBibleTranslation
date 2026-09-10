@@ -20,7 +20,7 @@ C'est de là que vient ==la Reine==, et le corpus en fait l'une de ses grandes i
 
 Ce voyage est ==la reconnaissance de la **kavod** de **YHWH** par une puissance étrangère== — non par conquête, non par contrainte : par une souveraine qui vient voir et qui repart convaincue.
 
-Et *Tehilim* 72:10 le reprend dans la vision : les rois de ==Sheva== et de [[Sevaʾ]] apporteront leurs présents. La fécondité de la lignée de [[Cham]] ==monte vers Yeroushalayim avec ce qu'elle a==.
+Et *Psaumes* 72:10 le reprend dans la vision : les rois de ==Sheva== et de [[Sevaʾ]] apporteront leurs présents. La fécondité de la lignée de [[Cham]] ==monte vers Yeroushalayim avec ce qu'elle a==.
 
 ## Voir aussi
 

@@ -30,7 +30,7 @@ Le texte ne répartit pas : il n'attribue pas l'image à l'un et l'accompagnemen
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 1:27 et 5:2, les listes du **mabbul**, et la racine נָקַב attestée pour le percement au-delà de cet emploi.
+*Genèse* 1:27 et 5:2, les listes du **mabbul**, et la racine נָקַב attestée pour le percement au-delà de cet emploi.
 
 ## Formes
 

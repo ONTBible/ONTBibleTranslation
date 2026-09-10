@@ -26,7 +26,7 @@ Pour l'un des deux, la phrase se termine autrement que pour tous les autres homm
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 5:22-24 et 6:9 ; l'entrée du hitpael au §3.4, qui donne *hithalekh* comme exemple.
+*Genèse* 5:22-24 et 6:9 ; l'entrée du hitpael au §3.4, qui donne *hithalekh* comme exemple.
 
 ## Formes
 

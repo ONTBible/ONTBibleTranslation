@@ -18,6 +18,6 @@ Ce qu'ils ne sont pas, en revanche : des ==géants==. En traduisant en grec, au 
 
 Le même verset les appelle aussi **gibborim**, les puissants, et ajoute *anshei ha-shem* — « les hommes du **Shem** », ceux dont le nom porte loin. Le renom est bien là ; c'est un renom de démesure et non d'ordre. Le *Sefar Gibbaraya* prend la remarque au sérieux jusqu'au bout : il place ==Gilgamesh== lui-même, le héros que les **goyim** chantent, dans l'assemblée des **gibbarayaʾ** soumis au jugement. Ce que les nations élèvent, la Torah l'avait déjà classé.
 
-Leur ombre ne s'arrête pas là. *Bereshit* 10:8 dit de ==Nimrod== qu'il fut « l'inauguration du **gibbor** » — la démesure d'avant les eaux, revenue en habit politique. *Bereshit* 14 croise les ==Refaim==, vestige des peuples d'avant l'ordre actuel des nations.
+Leur ombre ne s'arrête pas là. *Genèse* 10:8 dit de ==Nimrod== qu'il fut « l'inauguration du **gibbor** » — la démesure d'avant les eaux, revenue en habit politique. *Bereshit* 14 croise les ==Refaim==, vestige des peuples d'avant l'ordre actuel des nations.
 
 Et le texte ne dit jamais qu'ils ont été détruits. Il dit qu'ils étaient là en ces jours-là — ==et aussi après==. La brèche ne se referme pas avec les eaux.

@@ -14,7 +14,7 @@ Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 Elle est anéantie avec [[Sedom]], et le corpus la nomme presque toujours ==avec [[ʾAdmah]]==.
 
-*Devarim* 29:22 les range dans la même phrase, et *Hoshea* 11:8 les met toutes deux dans la bouche de **YHWH** — *comment te rendrais-je semblable à [[ʾAdmah]], te traiterais-je comme Tsevoim ?*
+*Deutéronome* 29:22 les range dans la même phrase, et *Osée* 11:8 les met toutes deux dans la bouche de **YHWH** — *comment te rendrais-je semblable à [[ʾAdmah]], te traiterais-je comme Tsevoim ?*
 
 Ce couple-là sert donc ==au refus== là où le couple [[Sedom]]-[[ʿAmorah]] sert ==au verdict==. Les quatre villes sont détruites ensemble, mais le corpus ne les emploie pas pour la même chose.
 

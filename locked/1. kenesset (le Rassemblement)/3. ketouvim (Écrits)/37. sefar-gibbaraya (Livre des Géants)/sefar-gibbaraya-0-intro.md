@@ -28,11 +28,11 @@ Dater ce livre « de l'époque de Mani » parce que ses versions les plus compl�
 
 ## Régime d'auteur
 
-*Restitution* (voir standard §A). Ce livre n'a *aucun auteur nommé*. Il appartient au courant *hénochien* : il présuppose le récit des **ʿirin** de 1 *==Chanokh==* 6-16 et le déploie. Comme pour toute la littérature de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], le nom marque la *provenance et l'autorité* d'une vérité — le savoir du scribe céleste qui « marche avec **ʾElohim** » (*Bereshit* 5:24) —, non un scribe physique. Ce n'est pas une fraude : c'est déclarer que cette vérité appartient au courant de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], témoin des choses cachées.
+*Restitution* (voir standard §A). Ce livre n'a *aucun auteur nommé*. Il appartient au courant *hénochien* : il présuppose le récit des **ʿirin** de 1 *==Chanokh==* 6-16 et le déploie. Comme pour toute la littérature de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], le nom marque la *provenance et l'autorité* d'une vérité — le savoir du scribe céleste qui « marche avec **ʾElohim** » (*Genèse* 5:24) —, non un scribe physique. Ce n'est pas une fraude : c'est déclarer que cette vérité appartient au courant de [[Chanokh-qui-marche-avec-Elohim|Chanokh]], témoin des choses cachées.
 
 ## But
 
-*Bereshit* 6:1-4 contracte en quatre versets une énigme immense — les fils d'**ʾElohim**, les filles de l'humanité, les **Nefilim**, les **gibborim** — puis passe au **mabbul**. Ce livre relève ce que *Bereshit* laisse contracté :
+*Genèse* 6:1-4 contracte en quatre versets une énigme immense — les fils d'**ʾElohim**, les filles de l'humanité, les **Nefilim**, les **gibborim** — puis passe au **mabbul**. Ce livre relève ce que *Bereshit* laisse contracté :
 
 > *Que devient le monde quand les gardiens du seuil quittent leur garde ?*
 
@@ -57,10 +57,10 @@ Le livre suit l'arc de la démesure antédiluvienne et de sa fin. Des **ʿirin**
 
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
-| La sortie de domaine des **ʿirin** | la faute n'est pas la puissance mais l'abandon de la garde qui définit la fonction | 1 *==Chanokh==* 6-8 ; *Bereshit* 6:1-4 |
+| La sortie de domaine des **ʿirin** | la faute n'est pas la puissance mais l'abandon de la garde qui définit la fonction | 1 *==Chanokh==* 6-8 ; *Genèse* 6:1-4 |
 | *Le savoir détaché du service* | les *razin* livrés hors mandat : la connaissance coupée de la garde défait les limites | 1 *==Chanokh==* 7-8 ; 4Q203 |
-| Les **gibbarayaʾ**, anomalie de fonction | ni gardiens des Cieux ni serviteurs de la Terre — un poids déplacé entre les domaines | *Bereshit* 6:4 (**gibborim**, **Nefilim**) ; 1 *==Chanokh==* 15-16 |
-| *La Terre alourdie* | l'appétit sans limite change l'abondance en manque ; le sang versé, le sol témoin | *Bereshit* 4:10 ; 6:11-13 ; 1 *==Chanokh==* 7-9 |
+| Les **gibbarayaʾ**, anomalie de fonction | ni gardiens des Cieux ni serviteurs de la Terre — un poids déplacé entre les domaines | *Genèse* 6:4 (**gibborim**, **Nefilim**) ; 1 *==Chanokh==* 15-16 |
+| *La Terre alourdie* | l'appétit sans limite change l'abondance en manque ; le sang versé, le sol témoin | *Genèse* 4:10 ; 6:11-13 ; 1 *==Chanokh==* 7-9 |
 | *Les deux songes* | jardin défait (feu/eaux, racine gardée) ; tablette lavée (noms effacés, un reste) | 4Q530 ; 6Q8 ; *Daniel* 4 et 7 |
 | [[Mahaway]], **malʾakh** inversé | envoyé *d'en bas* vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] — l'inverse du **malʾakh** **YHWH** mandaté d'en haut | 4Q530-531 ; versions manichéennes |
 | *La lettre de ==Chanokh==* | le jugement inscrit là où la tablette montrait l'effacement ; [[Rafaʾel]] prépare les liens | 4Q203 fr. 8 ; 1 *==Chanokh==* 10 |
@@ -85,11 +85,11 @@ De même, les esprits sans repos issus des **gibbarayaʾ** (1 *==Chanokh==* 15-1
 ## Repères
 
 - **ʿirin** (*ʿirin* / עִירִין) — *intraduisible* (CLAUDE.md §2.5) : araméen, les éveillés, les gardiens célestes. Jamais « Veilleurs ». Pluriel, propre aux textes araméens. Leur faute : quitter la garde.
-- **gibbarayaʾ** (*gibbarayaʾ* / גבריא) — *intraduisible* (CLAUDE.md §2.5) : araméen, les puissants, les démesurés — forme araméenne des **gibborim** de *Bereshit* 6:4. Jamais « géants ».
+- **gibbarayaʾ** (*gibbarayaʾ* / גבריא) — *intraduisible* (CLAUDE.md §2.5) : araméen, les puissants, les démesurés — forme araméenne des **gibborim** de *Genèse* 6:4. Jamais « géants ».
 - **mabbul** (*mabbul* / מַבּוּל) — *intraduisible* (déjà posé, *Bereshit* 8) : le déluge noachique comme dé-création temporaire, non simple inondation.
 - *Vocabulaire araméen technique* — *razin* (secrets), *chelmin* (songes), *peshar* (déchiffrement), *din* (décret), *chabala* (dommage), *qebalah* (plainte judiciaire), *kenishta* (assemblée) : *traduits* dans le corps, l'araméen persistant en niveau 3 comme repère critique. Ils ne sont *pas* promus intraduisibles — aucun terme chargé neuf n'est introduit au corpus par ce livre.
 - Noms des **ʿirin** : [[Shemichazah]] (« mon **Shem** a vu »), [[ʿAzazel]], [[Baraqel]] (« éclair d'El »). Noms des **gibbarayaʾ** : [[ʾOhyah]], [[Hahyah]]/[[Ahyah]] (vocalisation laissée ouverte), [[Mahaway]], [[Gilgamesh]] et [[Chobabish]] (reclassés sous jugement). [[Chanokh-qui-marche-avec-Elohim|Chanokh]] le scribe ; [[Rafaʾel]] (« **ʾEl** guérit »), **malʾakh** du décret et de la restauration ; [[Noach]], la racine gardée. Tous sans gras, niveau 3 + glose à la première occurrence.
-- *Fondations parallèles* : *Bereshit* 1 (création par distinctions), *Bereshit* 6:1-4 (le noyau bref des **ʿirin** et des **gibborim**), *Bereshit* 6-9 (corruption, **mabbul**, re-création) ; le cycle de 1 *==Chanokh==* 6-16.
+- *Fondations parallèles* : *Bereshit* 1 (création par distinctions), *Genèse* 6:1-4 (le noyau bref des **ʿirin** et des **gibborim**), *Bereshit* 6-9 (corruption, **mabbul**, re-création) ; le cycle de 1 *==Chanokh==* 6-16.
 
 ## Relecture interne du récit
 
@@ -98,7 +98,7 @@ Le livre contextualise son propre récit par les songes, l'écriture de [[Chanok
 - *Bereshit amplifié.* Le livre ne commente pas *Bereshit* 6 du dehors : il déploie l'énigme laissée brève — fils d'**ʾElohim**, filles de **l'Être façonné du sol**, **Nefilim**, **gibborim** — en scène : noms, faim, violence, songes, tablette, décret.
 - *Songes et tablette.* Le jardin, le feu, les eaux, la tablette et les noms effacés donnent au récit ses clés internes. Les **gibbarayaʾ** voient leur fin avant de pouvoir la comprendre ; leur puissance ne produit pas l'interprétation.
 - *==Chanokh== lecteur du décret.* [[Mahaway]] envoyé vers [[Chanokh-qui-marche-avec-Elohim|Chanokh]] montre que le sens n'appartient pas aux puissants. [[Chanokh-qui-marche-avec-Elohim|Chanokh]] ne devine ni ne fait de prodige : il reçoit, distingue, écrit, transmet. Sa lettre replace la violence des fils sous la faute des pères.
-- *==Gilgamesh== reclassé.* En plaçant [[Gilgamesh]] et [[Chobabish]] parmi les **gibbarayaʾ** soumis au jugement, le texte retourne la mémoire héroïque des nations : ce que les nations élèvent en **kavod** guerrière devient mémoire de démesure antédiluvienne. Et la Torah le disait déjà : les **Nefilim** / **gibborim** sont nommés en *Bereshit* 6:4 « les puissants d'autrefois, les hommes du **Shem** » (*anshei ha-shem*) — les héros que les **goyim** chantent sont précisément ceux-là. Ce n'est pas une étiologie historique moderne, mais un reclassement apocalyptique : le **Shem** que les nations exaltent est un **Shem** de démesure, non d'ordre.
+- *==Gilgamesh== reclassé.* En plaçant [[Gilgamesh]] et [[Chobabish]] parmi les **gibbarayaʾ** soumis au jugement, le texte retourne la mémoire héroïque des nations : ce que les nations élèvent en **kavod** guerrière devient mémoire de démesure antédiluvienne. Et la Torah le disait déjà : les **Nefilim** / **gibborim** sont nommés en *Genèse* 6:4 « les puissants d'autrefois, les hommes du **Shem** » (*anshei ha-shem*) — les héros que les **goyim** chantent sont précisément ceux-là. Ce n'est pas une étiologie historique moderne, mais un reclassement apocalyptique : le **Shem** que les nations exaltent est un **Shem** de démesure, non d'ordre.
 - *Portée ontologique.* La grandeur sans mandat n'est pas une vraie grandeur ; le **Shem** sans fonction devient charge contre celui qui le porte ; le savoir coupé de la garde défait les limites ; et quand les limites sont défaites, les eaux reviennent.
 - *Prudence.* Le terme « Esséniens » doit rester prudent : le texte est retrouvé à Qumrân et probablement valorisé dans ce milieu, mais son lieu exact de composition n'est pas assuré.
 

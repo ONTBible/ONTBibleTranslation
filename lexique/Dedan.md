@@ -14,9 +14,9 @@ La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » 
 
 Le corpus le montre à l'œuvre, puis en fuite, et les deux images comptent.
 
-*Yehezqel* 27:15 et 20 le fait commercer avec Tyr ==en ivoire et en ébène==, puis ==en couvertures de selle== — le détail est de ceux qui rendent une économie vivante.
+*Ézéchiel* 27:15 et 20 le fait commercer avec Tyr ==en ivoire et en ébène==, puis ==en couvertures de selle== — le détail est de ceux qui rendent une économie vivante.
 
-Puis *Yirmeyahu* 49:8, dans un oracle contre Edom, dit aux habitants de ==Dedan== de fuir et de ==s'établir dans les profondeurs== — de se retirer au désert quand le **mishpat** passe. *Yeshayahu* 21:13 les montre campant dans les broussailles.
+Puis *Jérémie* 49:8, dans un oracle contre Edom, dit aux habitants de ==Dedan== de fuir et de ==s'établir dans les profondeurs== — de se retirer au désert quand le **mishpat** passe. *Ésaïe* 21:13 les montre campant dans les broussailles.
 
 Un peuple de caravanes est donc aussi ==un peuple qui sait disparaître==. C'est sa force et sa parade.
 

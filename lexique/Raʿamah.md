@@ -12,7 +12,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Ce que le corpus en fait
 
-*Yehezqel* 27:22 le montre en fonction, et le détail est précieux : ==les marchands de [[Shevaʾ]] et de Raʿama commercent avec toi en premières épices, pierres précieuses et or==.
+*Ézéchiel* 27:22 le montre en fonction, et le détail est précieux : ==les marchands de [[Shevaʾ]] et de Raʿama commercent avec toi en premières épices, pierres précieuses et or==.
 
 C'est un ==nœud du commerce des parfums== dans l'économie de Tyr — l'un des points par où passe ce que le Proche-Orient avait de plus cher.
 

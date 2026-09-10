@@ -40,16 +40,16 @@ Le seul endroit où les deux redeviennent inséparables est celui où la proximi
 
 ## Ce que cette fiche ne fait pas
 
-Elle ne traite pas **YHWH**. Le §7 de l'ONT range *Shemot* 3:1-15 — *ehyeh asher ehyeh* — parmi les passages qui ==ne se traitent pas en autonomie==, et la décision sur la manière de rendre ce nom dans tout l'ONT y est réservée. ==On ne l'anticipe pas ici.==
+Elle ne traite pas **YHWH**. Le §7 de l'ONT range *Exode* 3:1-15 — *ehyeh asher ehyeh* — parmi les passages qui ==ne se traitent pas en autonomie==, et la décision sur la manière de rendre ce nom dans tout l'ONT y est réservée. ==On ne l'anticipe pas ici.==
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 2:4 à 3:24, où la formule paraît vingt fois. Elle sera reprise quand *Shemot* 3 sera écrit.
+*Genèse* 2:4 à 3:24, où la formule paraît vingt fois. Elle sera reprise quand *Shemot* 3 sera écrit.
 
 ## Voir aussi
 
 Le nom propre : **YHWH**, dont le traitement définitif attend *Shemot* 3.
 
-Le titre de maîtrise : **ʾAdonai** — *mon seigneur*, de *adon*. C'est lui qu'on prononce à la place des quatre lettres, et il paraît pour la première fois dans la bouche d'[[ʾAvram]], en *Bereshit* 15:2, quand il demande à quoi bon tout cela s'il reste sans descendance. Le premier homme qui appelle **YHWH** *Adonai* le fait ==pour se plaindre==.
+Le titre de maîtrise : **ʾAdonai** — *mon seigneur*, de *adon*. C'est lui qu'on prononce à la place des quatre lettres, et il paraît pour la première fois dans la bouche d'[[ʾAvram]], en *Genèse* 15:2, quand il demande à quoi bon tout cela s'il reste sans descendance. Le premier homme qui appelle **YHWH** *Adonai* le fait ==pour se plaindre==.
 
 Le nom d'ordonnance : **ʾElohim**, et le pluriel à accord singulier qu'il porte.

@@ -28,7 +28,7 @@ Un dieu remplaçable à la journée, dont l'office est de chauffer un repas. Il 
 
 ## Ce que la fiche porte, et ce qui reste à venir
 
-Elle repose sur le chapitre V du *Chazon Avraham* et sur la rétroversion araméenne de son éditeur. *Yeshayahu* 44:15 — l'homme qui prend du bois, s'en chauffe, en cuit son pain, et du reste se fait un dieu — porte le même raisonnement dans le corpus même ; la fiche sera reprise quand ce chapitre sera écrit.
+Elle repose sur le chapitre V du *Chazon Avraham* et sur la rétroversion araméenne de son éditeur. *Ésaïe* 44:15 — l'homme qui prend du bois, s'en chauffe, en cuit son pain, et du reste se fait un dieu — porte le même raisonnement dans le corpus même ; la fiche sera reprise quand ce chapitre sera écrit.
 
 ## Voir aussi
 

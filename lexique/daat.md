@@ -16,4 +16,4 @@ Ce qui éclaire d'un coup l'arbre du Jardin. Il n'est pas l'arbre de la connaiss
 
 Tu comprends alors pourquoi ce mot commande tout le reste. Un lecteur du 21ᵉ siècle à qui l'on explique le monde antique de l'extérieur — voici ce qu'ils croyaient, voici comment ils se représentaient les choses — n'en aura jamais la ==daʿat==. Il en aura de l'information. Il restera devant une vitrine.
 
-Dans *Yeshayahu* 11:2, la ==daʿat== est appariée à **yirah** : connaître du dedans, et se tenir à son rang. Les deux vont ensemble parce qu'on ne peut pas entrer dans ce qu'on prétend surplomber.
+Dans *Ésaïe* 11:2, la ==daʿat== est appariée à **yirah** : connaître du dedans, et se tenir à son rang. Les deux vont ensemble parce qu'on ne peut pas entrer dans ce qu'on prétend surplomber.

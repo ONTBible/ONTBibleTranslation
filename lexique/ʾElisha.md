@@ -12,7 +12,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Ce que le corpus en fait
 
-*Yehezqel* 27:7 le nomme dans l'inventaire des splendeurs de Tyr : ==les îles d'Elisha== fournissent ==la pourpre violette et l'écarlate== qui font le dais du navire.
+*Ézéchiel* 27:7 le nomme dans l'inventaire des splendeurs de Tyr : ==les îles d'Elisha== fournissent ==la pourpre violette et l'écarlate== qui font le dais du navire.
 
 Le détail vaut d'être gardé. Ces teintures étaient ==les plus chères du monde antique== — il fallait des milliers de coquillages pour un vêtement, et leur usage marquait la royauté. Un peuple de la table des nations porte donc, dans le corpus prophétique, ==ce qui donne sa couleur au pouvoir==.
 

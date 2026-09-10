@@ -233,10 +233,10 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Devarim* 18:18 (à écrire) — *je mettrai mes **devarim** dans sa bouche*, la définition fonctionnelle.
-- *Devarim* 18:20-22 (à écrire) — le critère de vérification des paroles.
-- *1 Shemuel* 9:9 (à écrire) — la bascule de **roʿeh** vers **naviʾ**, signalée par le texte lui-même.
-- *Yeshayahu* 52:7 (à écrire) — le **mevaser** et ses pieds sur les montagnes.
+- *Deutéronome* 18:18 (à écrire) — *je mettrai mes **devarim** dans sa bouche*, la définition fonctionnelle.
+- *Deutéronome* 18:20-22 (à écrire) — le critère de vérification des paroles.
+- *1 Samuel* 9:9 (à écrire) — la bascule de **roʿeh** vers **naviʾ**, signalée par le texte lui-même.
+- *Ésaïe* 52:7 (à écrire) — le **mevaser** et ses pieds sur les montagnes.
 - *Bereshit* 18 (verrouillé) — Avraham qui marchande : l'interface dans l'autre sens, qu'un **malʾakh** ne fait jamais.
 
 ---

@@ -36,7 +36,7 @@ C'est ==le seul terrain== que celui à qui toute la terre est promise possédera
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 17:15 à 23:20. Avant le changement de **Shem**, voir [[Sarai]].
+*Genèse* 17:15 à 23:20. Avant le changement de **Shem**, voir [[Sarai]].
 
 ## Voir aussi
 

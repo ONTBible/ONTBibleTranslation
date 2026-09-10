@@ -52,7 +52,7 @@ L'ONT ne traduit pas : ==**ʿirin** est intraduisible==, et il l'est déjà dans
 
 - le *Sefar Gibbaraya* (n° 37) ==présuppose son récit== : les **ʿirin**, [[Shemichazah]], [[ʿAzazel]], les **gibbarayaʾ** nés du franchissement des domaines, et [[Chanokh-qui-marche-avec-Elohim]] scribe et médiateur à qui l'on vient demander un verdict ;
 - le *Chazon Avraham* (n° 39) partage son mode et son vocabulaire — la montée, les étendues, le tableau de l'histoire vue depuis le haut ;
-- *Bereshit* 6:1-4 (verrouillé) est ce qu'il déploie : quatre versets sur les fils des **ʾelohim**, les **Nefilim** et les **gibborim**, que la Torah pose sans expliquer.
+- *Genèse* 6:1-4 (verrouillé) est ce qu'il déploie : quatre versets sur les fils des **ʾelohim**, les **Nefilim** et les **gibborim**, que la Torah pose sans expliquer.
 
 *Le geste est celui de la Kenesset* : l'amplification relève ce que le texte a contracté. Elle n'ajoute pas — elle rend audible.
 
@@ -103,8 +103,8 @@ Deux réserves posées d'emblée, parce qu'elles engagent la méthode :
 
 ## Repères
 
-- *Bereshit* 5:21-24 (verrouillé) — les six versets que ce livre relève.
-- *Bereshit* 6:1-4 (verrouillé) — les **Nefilim**, les **gibborim**, les fils des **ʾelohim**.
+- *Genèse* 5:21-24 (verrouillé) — les six versets que ce livre relève.
+- *Genèse* 6:1-4 (verrouillé) — les **Nefilim**, les **gibborim**, les fils des **ʾelohim**.
 - *Sefar Gibbaraya* (n° 37) — le seul livre du corpus qui présuppose celui-ci.
 - *Yovelim* (n° 06) — témoin juif indépendant qui connaît la même matière.
 - *Igeret Yehudah* (n° 68) — cite Chanokh nommément.

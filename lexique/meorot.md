@@ -28,7 +28,7 @@ Le récit va plus loin encore : il les mentionne ==après== la lumière, qui exi
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 1:14-18, le §4.3 sur la démythologisation, et le contraste avec les cosmologies voisines où les luminaires sont nommés et divinisés.
+*Genèse* 1:14-18, le §4.3 sur la démythologisation, et le contraste avec les cosmologies voisines où les luminaires sont nommés et divinisés.
 
 ## Formes
 

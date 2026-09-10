@@ -32,7 +32,7 @@ Ce dernier trait le relie à un seul autre homme avant lui. [[Chanokh-qui-marche
 
 Sa fonction est structurelle plus que morale, et c'est ce que le français rate quand il en fait un « juste » au sens moral.
 
-Il bâtit la *tevah*, il traverse le **mabbul** — la dé-création temporaire —, et il ressort sur une Terre où les eaux se retirent comme au premier jour. Le **ruach** d'**ʾElohim** passe sur les eaux, mot pour mot comme en *Bereshit* 1:2 : ==le corpus signale par son vocabulaire qu'il s'agit d'une re-création==.
+Il bâtit la *tevah*, il traverse le **mabbul** — la dé-création temporaire —, et il ressort sur une Terre où les eaux se retirent comme au premier jour. Le **ruach** d'**ʾElohim** passe sur les eaux, mot pour mot comme en *Genèse* 1:2 : ==le corpus signale par son vocabulaire qu'il s'agit d'une re-création==.
 
 C'est lui qui bâtit le premier **mizbeach** et fait monter l'**ʿolah**. C'est à lui qu'est posée la première **berith** unilatérale — où **ʾElohim** seul s'engage, et où il n'est rien demandé en retour.
 

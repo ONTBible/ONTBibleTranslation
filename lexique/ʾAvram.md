@@ -52,7 +52,7 @@ Ce n'est pas un surnom qu'on ajoute. C'est ==le père élevé qui disparaît== p
 
 ## Ce sur quoi cette fiche repose
 
-*Bereshit* 11:26 à 17:4, où le nom cesse. La suite est chez [[ʾAvraham]].
+*Genèse* 11:26 à 17:4, où le nom cesse. La suite est chez [[ʾAvraham]].
 
 ## Voir aussi
 

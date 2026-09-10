@@ -14,9 +14,9 @@ Sa place ==en tête de la liste de [[Shem-fils-de-Noach]]== n'est pas anodine : 
 
 Et le corpus prophétique lui donne ==une destinée double==, ce qui est rare.
 
-Instrument de guerre : *Yeshayahu* 21:2 — ==monte, Élam==.
+Instrument de guerre : *Ésaïe* 21:2 — ==monte, Élam==.
 
-Et objet d'une promesse. *Yirmeyahu* 49:34-39 contient l'oracle le plus complet sur lui : dispersion aux quatre vents, puis ==rassemblement aux jours derniers==, et **YHWH** qui ==rétablit leur sort==.
+Et objet d'une promesse. *Jérémie* 49:34-39 contient l'oracle le plus complet sur lui : dispersion aux quatre vents, puis ==rassemblement aux jours derniers==, et **YHWH** qui ==rétablit leur sort==.
 
 Un peuple de la table des nations reçoit donc, comme Israël, ==une dispersion et un retour==. C'est un des endroits où le corpus montre le plus clairement que ==ranger les peuples n'est pas les écarter==.
 

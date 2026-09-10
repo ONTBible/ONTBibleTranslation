@@ -17,11 +17,11 @@ mission, et rendue avec elle.
 ### D'abord, pourquoi il faut quelqu'un entre les deux
 
 Le corpus dit une chose que nous lisons trop vite : ==l'**ʾadam** ne peut pas me
-voir et vivre== (*Shemot* 33:20).
+voir et vivre== (*Exode* 33:20).
 
 Ce n'est pas un interdit, comme une porte qu'on fermerait par principe. C'est un
 ==constat de physique==. Un autre verset donne l'image exacte : ==**YHWH**
-**ʾElohim** est un soleil== (*Tehilim* 84:12).
+**ʾElohim** est un soleil== (*Psaumes* 84:12).
 
 Tu ne peux pas regarder le soleil en face. Ce n'est pas que le soleil te le
 défende — c'est que ton œil ne tient pas ce qu'il envoie. Et pourtant tu vis
@@ -46,13 +46,13 @@ prête, sans jamais s'en étonner :
 
 | là où on le lit | ce qu'il paraît être |
 |---|---|
-| *Shemot* 3:2 | une flamme dans un buisson |
-| *Tehilim* 104:4 | un vent, une flamme |
+| *Exode* 3:2 | une flamme dans un buisson |
+| *Psaumes* 104:4 | un vent, une flamme |
 | *Bereshit* 18 | trois **ʾanashim**, qui mangent |
 | *Bereshit* 32 | un **ʾish**, qui lutte |
 | *Bemidbar* 22 | un **ʾish**, une épée à la main |
 
-Et *Tehilim* 104:4 donne le verbe qui tranche : ==il fait de ses **malʾakhim** des vents, de ses
+Et *Psaumes* 104:4 donne le verbe qui tranche : ==il fait de ses **malʾakhim** des vents, de ses
 serviteurs une flamme de feu==. Le verbe est
 *asah* (*ʿasah* / עָשָׂה), ==faire, mettre en place==. Ce n'est pas une propriété
 qu'ils auraient. C'est ==**YHWH** qui assigne la forme, à l'envoi==.
@@ -89,7 +89,7 @@ Ce n'est pas une confusion. ==C'est une précision.==
 
 ### Le verset qui donne la clef
 
-*Shemot* 23:21, où **YHWH** parle du **malʾakh** qu'il envoie devant le peuple :
+*Exode* 23:21, où **YHWH** parle du **malʾakh** qu'il envoie devant le peuple :
 
 > ==car mon **Shem** est en lui== — *ki shemi bekirbo* (*ki shemi bekirbo* / כִּי שְׁמִי בְּקִרְבּוֹ)
 
@@ -208,7 +208,7 @@ langue de flamme est ==vraiment du feu== — elle brûle vraiment, elle a sa pro
 forme et son propre mouvement —, et pourtant elle n'est pas séparée du foyer qui
 la produit.
 
-*Shoftim* 13:20 le montre à la lettre : le **malʾakh** de **YHWH** ==monte dans
+*Juges* 13:20 le montre à la lettre : le **malʾakh** de **YHWH** ==monte dans
 la flamme== de l'autel. Il ne s'en va pas quelque part. ==Il se résorbe dans sa
 source.==
 
@@ -237,9 +237,9 @@ d'elle ne se déduit pas de ce qui précède.
 - *Bereshit* 16 (verrouillé) — [[Hagar]] nomme **YHWH** après avoir parlé au **malʾakh**. L'oscillation y est lisible pour la première fois.
 - *Bereshit* 18 (verrouillé) — trois hommes qui mangent, et que le texte ne nomme jamais **malʾakhim**.
 - *Shemot* 3 (à écrire, §7) — la flamme, et le passage immédiat au Nom.
-- *Shemot* 23:21 (à écrire) — *ki shemi bekirbo*, la clef de toute la chuqqah.
-- *Shoftim* 13:20 (à écrire) — le **malʾakh** qui monte dans la flamme.
-- *Tehilim* 104:4 (à écrire) — *asah*, le verbe qui assigne la forme.
+- *Exode* 23:21 (à écrire) — *ki shemi bekirbo*, la clef de toute la chuqqah.
+- *Juges* 13:20 (à écrire) — le **malʾakh** qui monte dans la flamme.
+- *Psaumes* 104:4 (à écrire) — *asah*, le verbe qui assigne la forme.
 
 ---
 

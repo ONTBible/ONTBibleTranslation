@@ -18,11 +18,11 @@ personne avec lui. C'est le mot pour un fils unique.
 partir de plusieurs, sans que les plusieurs cessent d'être.
 
 Retiens la différence sur un exemple que le corpus donne lui-même : un homme et
-une femme deviennent ==un seul **basar**==, *basar ==echad==* (*Bereshit* 2:24).
+une femme deviennent ==un seul **basar**==, *basar ==echad==* (*Genèse* 2:24).
 Ils ne fusionnent pas en une troisième personne. Ils ne cessent pas d'être deux.
 Et pourtant ce qu'ils font n'est plus divisible. ==C'est ça, echad.==
 
-Un soir et un matin font ==yom echad== (*Bereshit* 1:5), le Jour Un. Deux
+Un soir et un matin font ==yom echad== (*Genèse* 1:5), le Jour Un. Deux
 choses, un jour.
 
 ## Là où ce mot décide de tout

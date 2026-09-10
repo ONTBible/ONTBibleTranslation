@@ -62,9 +62,9 @@ Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade 
 | Motif | Ce qu'il porte | Ancrage |
 |---|---|---|
 | La **kavod** perdue | la nudité découverte n'est pas celle du corps mais le dépouillement de la gloire fonctionnelle | *kol kevod Adam* — Qumrân (1QS 4:22-23 ; CD 3:20 ; 1QHᵃ 4:14-15) ; 4Q504 ; Ben Sira 49:16 |
-| *Rupture → mort* | la mort entrée par la **chattat** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Yovelim* 4:29-30 |
-| *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Yovelim* 8:19 ([[ʿEden]] = Saint des Saints) ; 4:29 |
-| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**ʾadam** dé-glorifié — le négatif de *radah* | *Bereshit* 1:26-28 |
+| *Rupture → mort* | la mort entrée par la **chattat** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Jubilés* 4:29-30 |
+| *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Jubilés* 8:19 ([[ʿEden]] = Saint des Saints) ; 4:29 |
+| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**ʾadam** dé-glorifié — le négatif de *radah* | *Genèse* 1:26-28 |
 | *La transmission* | [[Shet]] garde la mémoire de la gloire perdue | Josèphe, *Ant.* 1.70-71 |
 
 Le motif de la **kavod** perdue est le centre de gravité : retrouvé verbatim en hébreu à Qumrân, il prouve que la reconstruction *recouvre* un réel plutôt qu'elle ne le projette.

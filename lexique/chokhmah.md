@@ -22,4 +22,4 @@ C'est ce qui lie la ==chokhmah== à **tov**. Quand **ʾElohim** examine son ouvr
 
 Relis *Mishlei* avec ça en tête, et le livre change de nature. Ce n'est pas un recueil de conseils moraux. C'est un manuel d'ajustement : comment tenir sa parole, ses comptes, sa maison, sa colère, de façon que cela ==fonctionne==. Non pas être vertueux — être ajusté.
 
-Dans *Yeshayahu* 11:2, la ==chokhmah== ouvre les six capacités que porte la **ruach** de **YHWH**. Elle y va avec **binah**, et le couple n'est pas une élégance de style : réussir et discerner ne sont pas la même opération, et il faut les deux.
+Dans *Ésaïe* 11:2, la ==chokhmah== ouvre les six capacités que porte la **ruach** de **YHWH**. Elle y va avec **binah**, et le couple n'est pas une élégance de style : réussir et discerner ne sont pas la même opération, et il faut les deux.

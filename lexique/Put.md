@@ -14,7 +14,7 @@ Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de
 
 Le corpus lui donne une couleur constante : ==la guerre==.
 
-*Yehezqel* 27:10 le montre, avec [[Loud]], servant ==comme guerriers dans l'armée de Tyr== — des hommes qu'on loue, dont le métier est de combattre pour d'autres.
+*Ézéchiel* 27:10 le montre, avec [[Loud]], servant ==comme guerriers dans l'armée de Tyr== — des hommes qu'on loue, dont le métier est de combattre pour d'autres.
 
 Puis 38:5 le range avec [[Mitsrayim]] et [[Koush]] dans ==la coalition de Gog==. Les trois grandes maisons de [[Cham]] s'y retrouvent ensemble, dans l'assemblée eschatologique.
 

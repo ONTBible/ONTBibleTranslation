@@ -20,6 +20,6 @@ Trois mots, et il faut les prendre un par un pour que la formule cesse d'être u
 
 Voilà pourquoi « le Saint-Esprit » ne peut pas servir ici. La formule française arrive chargée de dix-sept siècles de travail dogmatique — une personne dans une trinité, avec un statut, des processions, des conciles. Toute cette architecture recouvre exactement ce que les trois mots hébreux disent, qui est ==une opération== et non un rang. Et « souffle sacré » n'est pas meilleur : il fait de la mise à part ==une qualité== — comme si le souffle était d'une essence supérieure —, là où l'hébreu dit ce qu'elle ==accomplit==.
 
-C'est cette Ruach qui repose sur le roi promis en *Yeshayahu* 11:2, et le passage montre alors ce que « mettre à part » veut dire en acte. Elle y porte six capacités : **chokhmah**, **binah**, **ʿetsah**, **gevurah**, **daʿat**, **yirah**. Non pas six dons empilés — ==ce qu'elle fait quand elle repose sur quelqu'un.==
+C'est cette Ruach qui repose sur le roi promis en *Ésaïe* 11:2, et le passage montre alors ce que « mettre à part » veut dire en acte. Elle y porte six capacités : **chokhmah**, **binah**, **ʿetsah**, **gevurah**, **daʿat**, **yirah**. Non pas six dons empilés — ==ce qu'elle fait quand elle repose sur quelqu'un.==
 
 Et le verset suivant les scelle par un jeu de racines que la traduction perd toujours : *vaharicho*, « il respirera », vient de רו״ח. Après les six, le texte revient à son premier mot. Le souffle est au commencement et à la fin.

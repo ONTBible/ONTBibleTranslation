@@ -12,7 +12,7 @@
 
 ## Ce que le corpus en fait
 
-Il revient dans un texte qui change son statut. *Tehilim* 72:10 : ==les rois de [[Shevaʾ]] et de Seva apporteront leurs présents== — au roi de la vision, celui dont le règne va d'une mer à l'autre.
+Il revient dans un texte qui change son statut. *Psaumes* 72:10 : ==les rois de [[Shevaʾ]] et de Seva apporteront leurs présents== — au roi de la vision, celui dont le règne va d'une mer à l'autre.
 
 Un peuple de la table des nations se retrouve donc ==nommé dans la restauration royale universelle==. Non pas soumis, non pas jugé : ==apportant==. La lignée de [[Koush]], que le chapitre range du côté de la fécondité et du commerce, est présente dans l'eschatologie davidique avec ce qu'elle a — ses richesses.
 

@@ -18,7 +18,7 @@ Ce nom appartient à la mémoire de Sumer et d'Akkad. Le mettre parmi les **gibb
 
 Et c'est exactement ce que le §3.3 fait du mot **gibbor**. Ce n'est pas ==le héros== au sens grec — l'excellence — ni le vaillant au sens de la vertu : ==le **gibbor** pèse par sa capacité de contrainte==, et rien d'autre.
 
-*Bereshit* 6:4 appelle ces êtres ==*anshei ha-shem*==, les hommes du **Shem** : leur renom est un **Shem** de démesure, non d'ordre.
+*Genèse* 6:4 appelle ces êtres ==*anshei ha-shem*==, les hommes du **Shem** : leur renom est un **Shem** de démesure, non d'ordre.
 
 En plaçant ==Gilgamesh== parmi eux, ==le corpus retourne une gloire==. Il ne nie pas que ces hommes aient existé ni qu'on les ait chantés ; il dit ==ce qu'ils pesaient==.
 

@@ -184,11 +184,11 @@ textes qui comptent se trompent sur ce qu'ils ont vu.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Shemot* 33:20 (à écrire) — *l'homme ne peut me voir et vivre*, la raison du gradient.
-- *Shemot* 26:33 (à écrire) — le *parokhet*, et ce qu'il sépare.
-- *Bereshit* 1:6-8 (verrouillé) — le *raqia*, tendu entre les eaux.
-- *Bereshit* 7:11 (verrouillé) — les écluses d'en haut, qui supposent les eaux retenues.
-- *Devarim* 10:14 et *1 Melakhim* 8:27 (à écrire) — *shemey ha-shamayim*, l'ambiguïté maintenue.
+- *Exode* 33:20 (à écrire) — *l'homme ne peut me voir et vivre*, la raison du gradient.
+- *Exode* 26:33 (à écrire) — le *parokhet*, et ce qu'il sépare.
+- *Genèse* 1:6-8 (verrouillé) — le *raqia*, tendu entre les eaux.
+- *Genèse* 7:11 (verrouillé) — les écluses d'en haut, qui supposent les eaux retenues.
+- *Deutéronome* 10:14 et *1 Rois* 8:27 (à écrire) — *shemey ha-shamayim*, l'ambiguïté maintenue.
 - *Toledot Adam ve-Chavah* (brouillon) — Eden comme Lieu très **qodesh**, l'homologie déjà inscrite dans sa table des motifs.
 
 ---

@@ -84,7 +84,7 @@ et du pain sec en jurant venir de loin, et l'engagement qu'il leur donne, il ne
 peut plus le reprendre quand il découvre le mensonge. ==Le corpus ne le peint
 pas infaillible==, et il tient l'engagement quand même.
 
-Une dernière chose, et elle décide de son heure. *Bereshit* 15:16 dit que
+Une dernière chose, et elle décide de son heure. *Genèse* 15:16 dit que
 l'*ʿavon* des [[Emori]] ==n'est pas encore complet==. L'entrée n'est donc pas une
 occasion militaire qu'on saisit quand elle passe : c'est un **mishpat** dont la
 mesure doit être pleine. Yehoshua n'ouvre pas la porte — il arrive quand elle

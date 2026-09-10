@@ -14,7 +14,7 @@ Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-supp
 
 Ce que le corpus en retient est très concret, et c'est ce qui rend le portrait vivant.
 
-*Yehezqel* 27:14 le montre commerçant avec Tyr — et la marchandise est nommée : ==des chevaux, des cavaliers et des mulets==. Les hautes terres du Caucase fournissaient les montures du Proche-Orient, et le prophète le sait.
+*Ézéchiel* 27:14 le montre commerçant avec Tyr — et la marchandise est nommée : ==des chevaux, des cavaliers et des mulets==. Les hautes terres du Caucase fournissaient les montures du Proche-Orient, et le prophète le sait.
 
 Puis 38:6 le fait venir ==du fin fond du septentrion== dans l'assemblée de Gog.
 

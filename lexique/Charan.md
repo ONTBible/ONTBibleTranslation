@@ -36,7 +36,7 @@ Les livres qui le racontent ne sont pas encore écrits. Cette fiche devra être 
 
 ## Sur quoi cette fiche repose
 
-*Bereshit* 11:31-32 et 12:4-5, verrouillés — l'arrêt, la mort de [[Terach]], le départ d'[[ʾAvram]]. *Bereshit* 15 et 16, verrouillés, qui datent par elle. Le *Chazon Avraham*, en brouillon, qui note que la Torah prononcera *lekh-lekha* ici.
+*Genèse* 11:31-32 et 12:4-5, verrouillés — l'arrêt, la mort de [[Terach]], le départ d'[[ʾAvram]]. *Bereshit* 15 et 16, verrouillés, qui datent par elle. Le *Chazon Avraham*, en brouillon, qui note que la Torah prononcera *lekh-lekha* ici.
 
 Ce qui reste à venir : *Bereshit* 27, 28 et 29, où Charan devient la maison des épouses.
 

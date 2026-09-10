@@ -16,7 +16,7 @@ Avec [[Naftuchim]], il forme l'autre moitié du duel que porte le **Shem** de so
 
 Il revient dans un texte qui change tout à son statut.
 
-*Yeshayahu* 11:11 place ==Patros== parmi ==les lieux depuis lesquels **YHWH** rassemblera les restes de son peuple==. Une région d'Égypte, rangée dans la lignée de [[Cham]], devient ==un point d'où l'on revient==.
+*Ésaïe* 11:11 place ==Patros== parmi ==les lieux depuis lesquels **YHWH** rassemblera les restes de son peuple==. Une région d'Égypte, rangée dans la lignée de [[Cham]], devient ==un point d'où l'on revient==.
 
 C'est un motif que la table des nations rend possible et qu'il faut savoir lire : ==les peuples nommés ici ne sont pas rangés pour être écartés==. Ils sont rangés, et le corpus les reprend ensuite — les uns comme instruments, les autres comme lieux de dispersion, quelques-uns comme sources de présents.
 

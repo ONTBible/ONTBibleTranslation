@@ -176,10 +176,10 @@ de recevoir, et donc de transmettre à leur tour.
 
 ## Sur quoi cette fiche repose
 
-Un seul texte de l'ONT est écrit à ce jour : *Bereshit* 12:6, verrouillé, où
+Un seul texte de l'ONT est écrit à ce jour : *Genèse* 12:6, verrouillé, où
 [[ʾAvram]] s'arrête sous le chêne. Tout le reste a été ==lu dans l'hébreu, non
-encore traduit== — *Devarim* 11:30 et *Shoftim* 7:1 pour le lieu, *Yoel* 2:23
-pour la pluie, *Shemot* 15:4, *1 Shemuel* 20:36 et *Mishlei* 6:13 pour le geste
+encore traduit== — *Deutéronome* 11:30 et *Juges* 7:1 pour le lieu, *Joël* 2:23
+pour la pluie, *Exode* 15:4, *1 Samuel* 20:36 et *Proverbes* 6:13 pour le geste
 de *yarah*.
 
 Quand ces livres seront écrits, ==cette fiche devra être reprise== : le mot ne
