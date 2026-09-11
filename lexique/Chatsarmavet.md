@@ -10,7 +10,7 @@ Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 ## Le Shem
 
-Littéralement ==la cour de la mort== — *hatser*, l'enclos ou la cour, et *mavet*, la mort.
+(*Chatsarmavet* / חֲצַרְמָוֶת). Littéralement ==la cour de la mort== — *hatser*, l'enclos ou la cour, et *mavet*, la mort.
 
 Le **Shem** est ==saisissant==, et le corpus ne l'explique pas.
 

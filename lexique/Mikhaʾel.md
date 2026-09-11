@@ -10,7 +10,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-Un nom qui est ==une question==, et c'est rare : *mi* — qui — *kha* — comme — *El*.
+(*Mikhaʾel* / מִיכָאֵל). Un nom qui est ==une question==, et c'est rare : *mi* — qui — *kha* — comme — *El*.
 
 ==Qui est comme **ʾEl** ?==
 

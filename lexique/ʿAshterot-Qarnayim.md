@@ -10,7 +10,7 @@ Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 
-Un nom composé : ==Ashtarot== — la déesse Ashtart, qu'on retrouve partout au Levant — et *qarnayim*, ==les deux cornes==.
+(*ʿAshterot-Qarnayim* / עַשְׁתְּרֹת קַרְנַיִם). Un nom composé : ==Ashtarot== — la déesse Ashtart, qu'on retrouve partout au Levant — et *qarnayim*, ==les deux cornes==.
 
 ==Ashtart des deux cornes== : le nom d'un lieu porte celui d'une divinité et son attribut.
 

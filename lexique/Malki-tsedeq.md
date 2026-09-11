@@ -10,7 +10,7 @@ Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 
-Un nom composé et transparent : *malki* — ==mon roi== ou ==roi de== — et *tsedeq*, ==l'ordre juste==. ==Roi de justice==, ou ==mon roi est **tsedeq**==.
+(*Malki-tsedeq* / מַלְכִּי-צֶדֶק). Un nom composé et transparent : *malki* — ==mon roi== ou ==roi de== — et *tsedeq*, ==l'ordre juste==. ==Roi de justice==, ou ==mon roi est **tsedeq**==.
 
 Il est roi de ==Shalem==, dont le **Shem** dit ==la plénitude, l'entier== — et qui deviendra Yeroushalayim.
 

@@ -8,7 +8,7 @@ Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 ## Le Shem
 
-De *nahar* — ==souffler fort, renifler==. Un nom de ==souffle puissant==.
+(*Nachor* / נָחוֹר). De *nahar* — ==souffler fort, renifler==. Un nom de ==souffle puissant==.
 
 Deux hommes le portent dans la même généalogie : ==Nachor== grand-père d'[[ʾAvraham]], et ==Nachor== son frère. Le corpus le signale au passage.
 

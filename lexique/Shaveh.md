@@ -8,7 +8,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-*Shaveh* dit ==la plaine==, l'espace égal. Le texte l'appelle ==la vallée de Shaveh==, et précise : ==c'est la vallée du roi==.
+(*Shaveh* / שָׁוֵה) dit ==la plaine==, l'espace égal. Le texte l'appelle ==la vallée de Shaveh==, et précise : ==c'est la vallée du roi==.
 
 ## Ce que le corpus en fait
 

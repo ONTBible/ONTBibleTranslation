@@ -10,7 +10,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-De *tsaʿar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
+(*Tsoʿar* / צֹעַר). De *tsaʿar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
 
 ## Ce que le corpus en fait
 

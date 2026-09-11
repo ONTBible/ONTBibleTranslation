@@ -8,7 +8,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-*Ayin* est ==la source==, et aussi ==l'œil==. *Mishpat* est ==le jugement==. ==La source du jugement==.
+(*ʿEn-Mishpat* / עֵין מִשְׁפָּט). *Ayin* est ==la source==, et aussi ==l'œil==. *Mishpat* est ==le jugement==. ==La source du jugement==.
 
 Et le texte précise : ==c'est [[Qadesh]]==.
 

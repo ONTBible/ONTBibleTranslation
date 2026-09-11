@@ -8,7 +8,7 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 ## Le Shem
 
-De *avi* — ==mon père== — et d'==**ʾEl**==. ==Mon père est **ʾElohim**==.
+(*ʾAvimaʾel* / אֲבִימָאֵל). De *avi* — ==mon père== — et d'==**ʾEl**==. ==Mon père est **ʾElohim**==.
 
 ## Ce que le corpus en fait
 

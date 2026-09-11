@@ -10,7 +10,7 @@ Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 
 ## Le Shem
 
-*Shaveh* dit ==la plaine== ; *qiryatayim* est un duel : ==les deux cités==. ==La plaine des deux cités==.
+(*Shaveh-Qiryatayim* / שָׁוֵה קִרְיָתַיִם). *Shaveh* dit ==la plaine== ; *qiryatayim* est un duel : ==les deux cités==. ==La plaine des deux cités==.
 
 ## Ce que le corpus en fait
 

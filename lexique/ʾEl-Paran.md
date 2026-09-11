@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-*El* peut être ici ==le grand arbre== — comme dans *elon* — ou le nom divin. ==Paran== est le désert au midi.
+(*ʾEl-Paran* / אֵיל פָּארָן). *El* peut être ici ==le grand arbre== — comme dans *elon* — ou le nom divin. ==Paran== est le désert au midi.
 
 ==Le térébinthe de Paran==, ou ==**ʾEl** de Paran== : le corpus ne tranche pas.
 

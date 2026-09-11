@@ -10,7 +10,7 @@ Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il 
 
 ## Le Shem
 
-Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==**ʾEl**==.
+(*Yahoʾel* / יַהוֹאֵל). Un nom composé de deux noms divins : ==Yaho==, forme brève de **YHWH**, et ==**ʾEl**==.
 
 C'est ce qui le distingue de tous les autres envoyés nommés : ==il porte le Nom lui-même==.
 
