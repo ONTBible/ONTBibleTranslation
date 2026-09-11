@@ -2,9 +2,13 @@
 
 ## Prononciation
 
-*ZÉ-RA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ZÉ-raʿ* — deux syllabes, accent sur la ==première==. C'est l'exception que le §2.12 annonce, et elle tient tout entière au ayin final.
 
-Pas d'apostrophe finale : le ayin y est ==quiescent== et ne se marque pas (§2.9).
+Le *ʿ* est un ==ayin== : le fond de la gorge se resserre comme pour le het, ==mais les cordes vibrent== — un son plein, un peu étranglé. Il se marque et il se prononce (§2.9, décision du 9 septembre 2026).
+
+Et le *a* qui le précède n'est pas une voyelle du mot : c'est le ==patach furtif==, un /a/ que l'hébreu glisse avant un ayin ou un het final pour qu'il puisse se dire. Le mécanisme est exactement celui de **Ruach**, qu'on prononce *ROU-ach* et non « rouh ». Voilà pourquoi l'accent ne descend pas sur cette syllabe : ==elle n'en est pas vraiment une==.
+
+==La faute probable== : lire *ze-RA* à la française, en avalant la fin. Le mot ne finit pas sur la voyelle, il finit ==dans la gorge==.
 
 ## Ce que le mot dit
 
@@ -34,4 +38,4 @@ Les promesses de *Bereshit* 12, 15, 17 et 22, et l'emploi agricole du même mot 
 
 ## Formes
 
-zeraʿ · zera · zarʿo · zarʿakha · zarʿam · lezarʿakha
+zeraʿ · zera · zarʿo · zarʿakha · zarʿam · lezarʿakha · ulezarʿakha · zarakha · zarah

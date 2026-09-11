@@ -2,7 +2,11 @@
 
 ## Prononciation
 
-*ra-qi-A* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+*ra-QI-aʿ* — trois syllabes, accent sur ==l'avant-dernière==. C'est l'exception
+que le §2.12 annonce, et elle tient tout entière au ayin final : le *a* qui le
+précède est un ==patach furtif==, un /a/ glissé pour que le ayin puisse se dire.
+Le mécanisme est exactement celui de **Ruach** — *ROU-ach*, et non « rouh ».
+L'accent ne descend pas sur cette syllabe, ==parce qu'elle n'en est pas vraiment une==.
 
 Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
 

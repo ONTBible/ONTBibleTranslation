@@ -15,3 +15,7 @@ C'est ce que le texte appelle *ezer kenegdo*, et il faut y regarder de près par
 D'où l'intraduisible. « Femme » et « homme » sont chez nous des catégories sociales — des rôles, des statuts, des places dans une organisation. ==Ishah== et **ʾIsh** ne sont pas des rôles : ce sont ==deux termes qui se définissent l'un par l'autre==, comme les deux moitiés d'une même parole. Le jeu de sons hébreu le fait entendre et le français ne peut pas le rendre : *ish* et *ishah*, une seule syllabe d'écart. Traduire, c'est couper le lien qui les tient.
 
 Une règle d'écriture en découle, et elle n'est pas une coquetterie : on écrit toujours ==sa Ishah==, ==ta Ishah==, jamais « son ishah », même devant la voyelle. Le hiatus est voulu. Il oblige la langue française à laisser voir un féminin qu'elle voudrait masculiniser par euphonie — et ce qui se joue là est exactement ce que le mot porte.
+
+## Formes
+
+ʾishto · ʾeshet · neshei · nashim

@@ -18,4 +18,4 @@ Et cela vaut aussi quand un homme ==amar==. La parole donnée engage réellement
 
 ## Formes
 
-vayomer · vayomru · vaʾomar · amarti
+vayomer · vayomeru · vayomru · vaʾomar · amarti · vayomer ʾelav · vayomer bilibbo
