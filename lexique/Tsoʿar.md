@@ -12,6 +12,10 @@ Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syl
 
 (*Tsoʿar* / צֹעַר). De *tsaʿar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
 
+Le corpus l'écrit de deux façons, et ==les deux sont justes== : צֹעַר et צוֹעַר. Ce n'est pas une hésitation — c'est l'hébreu qui écrit ses voyelles longues tantôt avec leur lettre-support, tantôt sans, et les deux formes sont attestées au même titre dans le texte reçu. ==La seconde est celle du verset qui donne le nom== ; la première est celle qu'on trouve partout ailleurs.
+
+Le lecteur qui touche l'une ou l'autre arrive ici : ==c'est la translittération qui mène à une fiche, non l'écriture==, et elle est la même des deux côtés.
+
 ## Ce que le corpus en fait
 
 C'est [[Lot]] qui le donne, et la scène est étrange.
