@@ -93,6 +93,40 @@ jobs:
           done
           echo "Le jeton ouvre les deux dépôts."
 
+      # Le receveur existe-t-il chez chacun ?
+      #
+      # `gh workflow run` échoue tant que le fichier visé n'est pas sur `main`
+      # du dépôt visé — et son message parle d'un workflow introuvable, ce qui
+      # envoie chercher le défaut dans la configuration du jeton. C'est une
+      # **quatrième panne qui ressemble aux trois précédentes**, et l'étape
+      # ci-dessus l'aurait laissée passer en disant que tout va bien.
+      #
+      # Elle mord dans deux cas réels : si ce déclencheur fusionne avant les
+      # receveurs, et pour tout dépôt ajouté plus tard — que le
+      # `workflow_dispatch` de ce fichier prévoit explicitement, et qui n'aura
+      # pas de receveur son premier jour.
+      #
+      # Relevé par la session du site, qui venait de tenir le même ordre sur le
+      # contrat des nœuds : **le receveur d'abord, l'émetteur ensuite.**
+      - name: Le receveur existe chez chacun
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          set -euo pipefail
+          manquants=""
+          for depot in ONTBibleApp ONTBibleWebapp; do
+            if ! gh api "repos/ONTBible/$depot/actions/workflows/journal.yml" >/dev/null 2>&1; then
+              manquants="$manquants $depot"
+            fi
+          done
+          if [ -n "$manquants" ]; then
+            echo "::error::Aucun receveur sur main de :$manquants"
+            echo "::error::Le journal ne peut pas y être rapporté tant que journal.yml n'y est pas fusionné."
+            echo "::error::Ce n'est pas un problème de jeton — l'étape précédente l'a éprouvé."
+            exit 1
+          fi
+          echo "Les deux receveurs sont en place."
+
       - name: Prévenir les deux copies
         env:
           GH_TOKEN: ${{ secrets.DECLENCHEUR }}
