@@ -32,4 +32,4 @@ Et comme exister, ici, c'est ==tenir une fonction==, la mort est d'abord la pert
 
 ## Formes
 
-mut · vayamot · tamut · mot tamut · met · vayamut
+mut · mot · vayamot · tamut · temutun · mot tamut · lo mot temutun · met · vayamut · lehamit

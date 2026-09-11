@@ -17,3 +17,7 @@ Et il l'emploie encore pour la nourriture : *je vous ai ==natan== toute herbe po
 C'est ce qui rend saisissante la phrase de l'**ʾIsh** au moment de la fracture. Interrogé, il répond : ==la Ishah que tu as natan pour être avec moi==. Il ne dit pas « celle que tu m'as donnée » au sens d'un présent — il dit ==celle que tu as placée là==. En un verbe, il renvoie l'affaire à celui qui a fait le placement.
 
 Le mot travaille aussi dans le vocabulaire de la **berith** : on ==natan== une alliance, on la ==pose==, comme on dresse un mât. Elle n'est pas offerte à discuter — elle est ==installée==, et l'on vit dedans.
+
+## Formes
+
+natan · natati · natata · vayiten · veʾetnah

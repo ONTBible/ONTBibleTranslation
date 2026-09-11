@@ -15,3 +15,7 @@ Le récit du Jardin joue là-dessus sans le dire. Après la fracture, l'homme et
 Le mot ouvre aussi la formule la plus connue du corpus, celle que les **kohanim** prononçaient : *que **YHWH** fasse lever ses ==panim== sur toi*. Non pas qu'il te sourie — qu'il ==se tourne vers toi==, comme on lève la tête vers quelqu'un qui entre.
 
 Et il dit encore le rapport entre deux personnes : *panim el panim*, face à face — la manière dont **YHWH** parlait à ==Mosheh==, dit le texte, comme un homme parle à son compagnon. Deux orientations qui se répondent, ce qui est très exactement ce que la **ʾIshah** est faite pour être auprès de l'**ʾIsh** : *kenegdo*, en vis-à-vis.
+
+## Formes
+
+panim · panav · pnei · penei · al-pnei · mippnei · mipnei · lifnei
