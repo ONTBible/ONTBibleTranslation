@@ -109,14 +109,14 @@ C'est pourquoi la formulation exacte est celle-ci :
 
 ### Trois textes où l'on voit la différence
 
-*Ecclésiaste* 3:11 — ==il a mis l'**ʿolam** dans leur cœur==.
+*Ecclésiaste* 3:11 — ==il a mis l'**ʿolam** dans leur **lev**==.
 
 Si **ʿolam** voulait dire « le monde », la phrase serait plate : il a mis le monde
-dans le cœur des hommes, soit. Si c'était « l'éternité », ce serait une jolie
+dans le **lev** des hommes, soit. Si c'était « l'éternité », ce serait une jolie
 image sans contenu.
 
 Mais si **ʿolam** est ==la structure du dérobement==, la phrase devient précise et
-lourde : ce qui a été mis dans le cœur de l'homme, c'est ==la conscience que
+lourde : ce qui a été mis dans le **lev** de l'homme, c'est ==la conscience que
 quelque chose lui échappe toujours==. Il est bâti pour sentir qu'il y a un
 au-delà de sa vue, ==sans pouvoir en atteindre les bords==. Le verset le dit
 d'ailleurs juste après.
@@ -216,7 +216,7 @@ les textes ==font== du mot —, non sur l'étymologie seule.
 ### Ce que la chuqqah engage dans le corpus
 
 - *Genèse* 3:22 (verrouillé) — *vechai leʿolam*, premier emploi du mot dans l'ONT.
-- *Ecclésiaste* 3:11 (à écrire) — l'**ʿolam** mis dans le cœur, le texte le plus décisif.
+- *Ecclésiaste* 3:11 (à écrire) — l'**ʿolam** mis dans le **lev**, le texte le plus décisif.
 - *Deutéronome* 32:7 (à écrire) — *yemot olam*, les jours dont plus personne ne témoigne.
 - *Psaumes* 24:7 (à écrire) — *pithei olam*, les seuils et non les murs.
 - La fiche *lexique/olam.md* porte le même invariant, et le déplie pour le lecteur qui touche le mot dans une **parashah**.
