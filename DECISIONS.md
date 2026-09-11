@@ -126,7 +126,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 102 leçons du journal
+## Les 107 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -232,6 +232,11 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Deux défauts trouvés en chemin, et ils se ressemblent
 - Addendum du 8 septembre au soir — `## Formes`, et l'endroit où l'on déclare
 - Ce que ça change pour les trois clients — vérifié, pas supposé
+- Les quatre silences
+- Pourquoi le simulateur passait, et l'appareil non
+- Une hypothèse n'est pas un diagnostic, même quand elle est vraie
+- La même forme, quatre fois dans la journée — et trois sont déjà écrites
+- Ce que ça change pour chaque dépôt
 
 ---
 
