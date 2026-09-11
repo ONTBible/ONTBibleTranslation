@@ -163,6 +163,25 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**gibbarayaʾ**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Genèse* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un ==blanc== laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc ==mille ans avant== les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**basar**` — intraduisible : la chair en tant qu'==existence incarnée, fragile et partagée== (בָּשָׂר). Non « chair » au sens moral que le français a pris — ce n'est ni le contraire de l'esprit ni le siège du désir : c'est ==ce par quoi on est un vivant parmi les vivants==, ce qui meurt et ce qui peut ressusciter. C'est ce qu'un **malʾakh** n'a pas, et c'est pourquoi il ne peut ni mourir ni transformer ce qui meurt. Premier emploi *Genèse* 2:23 (*basar mibesari*).
+- `**lev**` / `**Lev**` / `**levav**` — intraduisible depuis le 11 septembre 2026 :
+  ==le lieu où l'on décide== (לֵב / לֵבָב). Non « cœur » : le français en a fait le
+  siège du sentiment, quand l'hébreu en fait celui de ==la délibération==. C'est
+  dans son **lev** qu'on se dit une chose à soi-même, qu'on arrête un dessein,
+  qu'on se raidit. Le **lev** de Pharaon ne s'attendrit pas et ne s'émeut pas —
+  ==il se durcit==, c'est-à-dire qu'il cesse de pouvoir changer d'avis. Deux
+  formes pour un mot : `lev` et `levav`, que l'hébreu emploie indifféremment.
+  ==Ne pas confondre avec ses faux voisins== — *levado* (לְבַדּוֹ, « seul ») vient
+  de *bad*, et *levenah* (לְבֵנָה, « brique ») de *laban* : ==la ressemblance est
+  dans notre translittération, pas dans la racine==. Locus définitif *Shemot*
+  4-14, le **lev** de Pharaon, et *Devarim* 6:5.
+- `**davaq**` — intraduisible depuis le 11 septembre 2026 : ==l'adhérence qu'on
+  ne défait pas== (דָּבַק). Non « s'attacher », qui dit une proximité qu'on peut
+  reprendre : *davaq* colle, et ce qui est collé ne se sépare plus sans
+  déchirure. ==C'est le même verbe des deux côtés==, et c'est tout l'enjeu —
+  l'**ʾish** qui *davaq* à son **ʾishah** en *Genèse* 2:24, et Israel qui *davaq*
+  à **YHWH** en *Deutéronome* 10:20. Le français sépare en deux registres, le
+  conjugal et le religieux, ce que l'hébreu tient d'un seul mot. *Josué* 23
+  oppose les deux emplois à quatre versets d'écart. Premier emploi *Genèse* 2:24.
 - `**qahal**` / `**Qahal**` — intraduisible : l'assemblée ==convoquée par une autorité== (קָהָל). De *qahal* — rassembler, convoquer. Non « assemblée » ni « communauté », qui laissent croire à une réunion qu'on décide : au **qahal** on ==est appelé==. C'est le mot du jour du [[Sinai]] (*Deutéronome* 9:10, *yom ha-qahal*), et c'est celui que le grec rendra par *ekklesia*.
 - `**ʾechad**` — intraduisible : l'unité qui ==compose== (אֶחָד). Non « un » au sens du compte, et surtout pas l'unité qui exclut, qui se dirait *yachid* (יָחִיד). C'est le mot de *basar echad* en *Genèse* 2:24 — deux qui deviennent un sans cesser d'être deux — et c'est celui du *Shema*. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux ne multiplient pas le fleuve. Premier emploi *Genèse* 1:5 (*yom echad*).
 - `**kli**` / `**Kli**` / `**kelim**` — intraduisible : ==ce qui est apte à recevoir== (כְּלִי). De la racine כלה — contenir, mener à complétion. Non « vase » ni « récipient », qui disent un contenant passif qu'on remplit : un **kli** est ==constitué pour==, et son aptitude décide de ce qu'il peut recevoir. C'est le mot des ustensiles du Mishkan — *klei ha-qodesh*, mis à part non par leur matière mais par leur destination. Il commande toute la question de l'**ʿolam** : ce qui change le régime de perceptibilité n'est pas la chose regardée, c'est ==le **kli** qui regarde==. La **Ruach** ne se pose jamais sans lui — un **naviʾ**, une tente, un sol, un **qahal**. Pluriel `**kelim**`. Locus définitif *Shemot* 25-31, les **kelim** du Mishkan.
