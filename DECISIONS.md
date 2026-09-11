@@ -9,15 +9,15 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 352 | réservé à l'auteur. |
-| `CLAUDE.md` | 985 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1153 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 371 | réservé à l'auteur. |
+| `CLAUDE.md` | 1004 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1172 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
-| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 270 | …me verbe allant dans l'autre. ==À trancher par l'auteur== s'il veut l'y faire rentrer. |
-| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 276 | ==Candidats intraduisibles, à trancher par l'auteur.== ==davaq== d'abord, et il est le plus net … |
-| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 280 | …force plutôt qu'une omission. ==À trancher par l'auteur== si le passage doit y entrer le jour où… |
+| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 474 | ==Candidats intraduisibles, à trancher par l'auteur.== ==Le construit `basar ʾechad`== d'abord :… |
+| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 478 | …on précédente ne faisait pas. ==À trancher par l'auteur== s'il veut l'y faire rentrer. |
+| `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 482 | … à passer par soma et pneuma. ==À trancher par l'auteur== si le passage doit y entrer le jour où… |
 | `brouillons/chuqqot/l-olam-est-un-regard.md` | 212 | …es emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa prop… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 179 | …au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 181 | … shamayim, également traduit. ==À trancher par l'auteur== le jour où Shemot fera paraître le par… |
@@ -36,21 +36,21 @@ désigné, et cet index n'en est qu'une table.*
 | Où | Ligne | La décision |
 |---|---:|---|
 | `CLAUDE.md` | 102 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
-| `CLAUDE.md` | 239 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 882 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1158 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 1379 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 1534 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 1652 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 1802 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2029 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2095 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 258 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `CLAUDE.md` | 901 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1177 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 1398 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 1553 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 1671 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 1821 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2048 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2114 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 
-## Les 76 intraduisibles déclarés au §2.5
+## Les 78 intraduisibles déclarés au §2.5
 
 Le lemme d'abord, ses formes dérivées ensuite — c'est l'ordre que le
 pipeline lit, et les dérivées retombent sur la fiche du lemme.
@@ -97,6 +97,8 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **gibbarayaʾ** | — | — | ✓ |
 | **parashah** | parashiot | — | ✓ |
 | **basar** | — | *Genèse* 2:23 (*basar mibesari*) | ✓ |
+| **lev** | Lev, levav | — | ✓ |
+| **davaq** | — | — | ✓ |
 | **qahal** | Qahal | — | ✓ |
 | **ʾechad** | — | *Genèse* 1:5 (*yom echad*) | ✓ |
 | **kli** | Kli, kelim, kelim | — | ✓ |
@@ -296,4 +298,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*440 fichiers parcourus · 369 fiches dans `lexique/`.*
+*442 fichiers parcourus · 371 fiches dans `lexique/`.*
