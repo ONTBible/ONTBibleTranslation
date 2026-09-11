@@ -133,6 +133,24 @@ jobs:
         run: |
           set -euo pipefail
           for depot in ONTBibleApp ONTBibleWebapp; do
-            gh workflow run journal.yml --repo "ONTBible/$depot" --ref main
-            echo "Prévenu : $depot"
+            # **La branche se demande, elle ne s'écrit pas.**
+            #
+            # `--ref main` était faux pour ONTBibleApp, qui n'a pas de `main` :
+            # ses paliers ont été renommés le 31 août 2026 en `device`, `dev`,
+            # `beta-test`, `app-store`. Le déclenchement aurait échoué chez lui
+            # sur un message parlant d'une référence introuvable — sans dire
+            # que la branche avait changé de nom.
+            #
+            # Et le contrôle qui l'a laissé passer mérite d'être nommé :
+            # `gh api repos/…/branches/main` **réussit** sur un dépôt sans
+            # `main`, en rendant la branche par défaut. Un test `&& echo oui`
+            # répond donc « oui » parce que l'appel a abouti, pas parce que la
+            # branche existe. C'est `git ls-remote --heads` qui tranche.
+            defaut=$(gh repo view "ONTBible/$depot" --json defaultBranchRef -q .defaultBranchRef.name)
+            if [ -z "$defaut" ]; then
+              echo "::error::Branche par défaut illisible pour $depot."
+              exit 1
+            fi
+            gh workflow run journal.yml --repo "ONTBible/$depot" --ref "$defaut"
+            echo "Prévenu : $depot (sur $defaut)"
           done
