@@ -62,3 +62,7 @@ Les *toledot* relèvent de leur propre fiche et ne sont pas repris ici.
 ## Formes
 
 vayoled · yeled · yaldah
+
+## Source
+
+3205 · יָלַד

@@ -13,3 +13,7 @@ Il faut le distinguer soigneusement des deux autres. **ʾElohim** dit la puissan
 Le premier emploi le montre bien. ==Avram== n'a pas d'enfant, et il ouvre sa plainte par ==Adonai YHWH== — les deux ensemble. Il ne récite pas une formule : il place la question qu'il va poser à l'intérieur d'un rapport où il n'est pas le maître. Puis il demande. On peut demander beaucoup quand on a d'abord dit d'où l'on parle.
 
 Une chose enfin, qui explique la suite de l'histoire du texte. Au temps du Second Temple, on cesse de prononcer les quatre lettres du nom, et l'on dit ==Adonai== à leur place. La substitution deviendra si constante que les massorètes, en ajoutant les voyelles au texte, glisseront celles d'==Adonai== sous **YHWH** — un rappel de lecture. Des lecteurs du seizième siècle prendront l'appareil pour le mot, et en tireront « Jéhovah ». Un mot ordinaire, dit par déférence, aura fini par recouvrir le Nom.
+
+## Source
+
+136 · אֲדֹנָי

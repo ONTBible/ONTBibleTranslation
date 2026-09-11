@@ -35,3 +35,7 @@ Sa maison : [[Cham]] son père, [[Koush]] son frère, [[Kenaʿan]] son frère.
 Ce que son **Shem** touche : [[Hagar]] la Mitsrit, la descente d'Avram, et l'affliction qui répond à l'affliction.
 
 Ce qui reste à écrire : le pays traverse *Bereshit* 12, 16, 37-50 et tout *Shemot* ; cette fiche s'enrichira à mesure.
+
+## Source
+
+4714 · מִצְרַיִם

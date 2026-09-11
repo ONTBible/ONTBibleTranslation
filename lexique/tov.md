@@ -17,3 +17,7 @@ Voilà pourquoi « bon » ne convient pas, et pourquoi « bien » est pire encor
 Ce qui change entièrement la lecture de l'arbre. Il n'est pas l'arbre du Bien et du Mal, deux majuscules et une morale : c'est celui de la **daʿat** du ==tov== et du **raʿ** — la capacité de décider soi-même ==ce qui est ajusté et ce qui ne l'est pas==, au lieu de le recevoir. Non pas devenir capable de faute : devenir juge de l'ordre.
 
 Son contraire, **raʿ**, suit la même logique en creux : ce qui rate sa destination, ce qui s'écarte de l'ordre. Ni l'un ni l'autre ne parle de morale. Les deux parlent d'ajustement.
+
+## Source
+
+2896 a · טוֹב

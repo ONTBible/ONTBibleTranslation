@@ -57,3 +57,7 @@ Sa maison : [[Chavah]] qui le nomme, [[Hevel]] son frère, [[Chanokh-fils-de-Qay
 Ce que sa lignée donne au monde : [[Yaval]] et la tente, [[Youval]] et la lyre, [[Tuval-Qayin]] et le fer — dont le **Shem** porte encore le sien sept générations plus bas. Elle s'achève sur [[Lamekh-fils-de-Metoushael]].
 
 Ce que son **Shem** touche ailleurs : *qanah* revient pour **ʾEl ʿElyon**, *qoneh shamayim vaʾarets*, en *Bereshit* 14 — le même verbe, du haut vers le bas.
+
+## Source
+
+7014 b · קַיִן

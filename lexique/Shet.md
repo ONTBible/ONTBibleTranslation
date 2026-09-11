@@ -41,3 +41,7 @@ Sa maison : [[Chavah]] qui le nomme, [[Hevel]] à la place de qui il est posé, 
 Sa ligne : [[ʾEnosh]] son fils, puis [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]], [[Noach]].
 
 Ce que son **Shem** touche : le **tselem** invoqué contre la bête, la **kavod** perdue que *Toledot* cherche, et le premier appel du **Shem** de **YHWH** au temps de son fils.
+
+## Source
+
+8352 · שֵׁת
