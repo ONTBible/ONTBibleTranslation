@@ -3158,6 +3158,153 @@ de 322 à **360 pt exactement**. La borne prime donc sur la largeur qu'AppKit
 avait gardée sous « NSSplitView Subview Frames » — ce qui n'allait pas de soi,
 et sans quoi le correctif n'aurait servi qu'au premier lancement.
 
+## 4 septembre 2026 — la liseuse du Mac s'installe par Homebrew
+
+Sur la demande de l'auteur, calquée sur `gloiiire/cocker` — dont la formule et
+`sync-homebrew-tap` rodent la mécanique depuis des mois.
+
+### Ce qui a été monté
+
+- **`ONTBible/homebrew-ont`** — un dépôt neuf, le tap : `Casks/la-bible-ont.rb`
+  et une épreuve `eprouver` (le style Homebrew du cask). Installation :
+  `brew install --cask ontbible/ont/la-bible-ont` ;
+- **`scripts/publier-le-cask.sh`** — construit en Release, signe **Developer
+  ID** avec exécution durcie, notarise par `notarytool` (la clé ASC déjà en
+  place), agrafe, zippe, rend le sha256 ;
+- **`.github/workflows/cask.yml`** — sur `brew-vX.Y.Z` : tout ce qui précède
+  sur le runner, release GitHub, puis réécriture du cask par l'API contents —
+  le commit sort signé « GitHub web flow », le chemin exact de cocker ;
+- **`app/ONTMac-cask.entitlements`** — les droits *restreints* retirés
+  (connexion Apple, push, liens universels) : sans profil Developer ID,
+  macOS refuse de lancer une app qui les porte. Le cask le dit en caveats.
+
+### Ce que seul l'auteur peut faire, et qui bloque le premier tir
+
+1. créer le certificat **« Developer ID Application »** (Xcode → Réglages →
+   Comptes → Gérer les certificats — titulaire du compte ; le trousseau n'a
+   que Development et Distribution, vérifiés) → l'exporter en .p12 → secrets
+   `DEVELOPER_ID_P12` (base64) et `DEVELOPER_ID_P12_MDP` ;
+2. un PAT fine-grained sur `ONTBible/homebrew-ont` (Contents : Read/Write) →
+   secret `HOMEBREW_TAP_TOKEN`.
+
+Puis : `git tag brew-v1.0.5 && git push origin brew-v1.0.5` — le reste est
+machine. Le workflow valide les secrets **en premier** et échoue en nommant ce
+qui manque.
+
+### Deux exceptions assumées, écrites pour être relevées
+
+- **le tap n'a pas encore le ruleset commun** : la CI y écrit `main` en
+  direct par l'API. Le protéger exigera le flux PR + auto-merge de cocker
+  (une trentaine de lignes, déjà écrites là-bas) — à faire quand le premier
+  tir aura prouvé la chaîne ;
+- **le tap n'est pas raccordé** à la table des dépôts de la racine — c'est le
+  fichier de l'auteur. Un dépôt satellite écrit par la machine, mais la règle
+  dit qu'un dépôt hors table est un dépôt qu'on oublie : à trancher.
+
+Rien de `dist/` ni du schéma ne bouge. La notarisation ne consomme **aucune**
+place du quota App Store Connect — c'est une voie parallèle, pas un palier de
+plus dans la chaîne de promotion.
+
+### Le canal bêta du cask, sur le motif de firefox@beta
+
+Question de l'auteur : « comme Firefox Nightly — des flags pour une bêta et
+une stable, mappées sur mes branches ? » Homebrew ne connaît pas de flags de
+canal : la convention est **un cask par canal, à suffixe** — `firefox`,
+`firefox@beta`. Transposé :
+
+    brew-vX.Y.Z        (posée sur app-store) → Casks/la-bible-ont.rb
+    brew-beta-vX.Y.Z-N (posée sur beta-test) → Casks/la-bible-ont@beta.rb
+
+Les deux casks se déclarent en conflit mutuel — même app posée — et la CI
+réécrit celui du canal de l'étiquette. La release bêta part en `--prerelease`.
+L'épreuve `eprouver` du tap a encore mordu au passage (six offenses de style
+sur le cask neuf, corrigées par `brew style --fix` avant de pousser).
+
+### Le premier tir du cask — vert, et deux leçons de secret au passage
+
+`brew-beta-v1.0.5-1` : build, signature Developer ID durcie, notarisation,
+release en *prerelease*, cask réécrit (`1.0.5-1`), épreuve du tap verte.
+Vérifié comme Gatekeeper le fera chez un inconnu : sha du cask = sha du zip au
+bit près, `spctl` rend « accepted — source=Notarized Developer ID », agrafe
+valide. `brew install --cask ontbible/ont/la-bible-ont@beta` est réel.
+
+Le tir a coûté trois essais, tous morts **à la validation, en une seconde** —
+ce pour quoi elle existe :
+
+1. un secret **vide** — `gh secret set` interactif sans terminal lit un stdin
+   vide et pose le vide sans un mot ;
+2. le **texte d'exemple** posé tel quel — attrapé par le contrôle
+   d'authentification ajouté entre les deux (le curl de cocker) : un jeton
+   présent mais faux n'aurait rougi qu'après vingt-cinq minutes de build ;
+3. le vrai jeton — vert.
+
+La discipline voulue par l'auteur est structurelle : le tap n'a aucun autre
+écrivain que `cask.yml`, qui ne part que sur étiquette et **crée** la release.
+Son README de profil balaie déjà l'organisation : les stables y paraîtront
+d'eux-mêmes ; les bêtas, marquées *prerelease*, en sont filtrées par son
+propre script — le profil annonce le stable, la bêta reste entre testeurs.
+
+## 7 septembre 2026 — le contrat des langues sources, arrêté à cinq sessions
+
+Le maillon que personne n'avait pris pendant une semaine — la forme de
+`dist/sources/` entre le vault (52 Mo, cinq témoins, 40 798 versets) et la
+liseuse — est arrêté. Les rôles, vérifiés et non devinés :
+
+| session | couloir |
+|---|---|
+| `ontbibletranslation-ed` | pipeline : jointure, émission, gardes |
+| `fix-sync-concordance-logic` | les six phrases `transmission` (prose de corpus) |
+| `ontbibleapp-92` (iOS) | arbitrages d'écran — **c'est elle qui décide** |
+| cette session (macOS) | `SourcesUpdater` + rendu macOS de ce qu'iOS décide |
+| `ontbibleapp-a5` (Android) | applique, notifiée explicitement à deux jalons |
+
+### Le contrat, validé par iOS « tel quel »
+
+`dist/sources/manifeste.json` — attributions par source, et par livre : témoins
+{chemin, sha256, octets} + phrase `transmission` pour les six livres sans
+témoin. Un fichier par livre × témoin ; clés = **unités ONT**, versets en
+**chaînes jointes**, numérotés comme la liseuse numérote ; **aucun champ
+d'analyse en v1** — poids ÷5 et la contrainte CC BY-SA de MorphGNT réglée par
+construction (`…-analyse.json` restera possible sans casser le contrat).
+
+La jointure unité ↔ plage biblique est **mesurée**, pas supposée : 13/13
+exactes sur les unités verrouillées de Bereshit, quatre formes de sous-titre
+traversées ; les deux écarts sont des brouillons déjà signalés. Gardes
+pipeline : compte ≠ plage déclarée → rouge ; livre sans témoin sans phrase →
+rouge.
+
+### Les arbitrages d'écran rendus par iOS
+
+- **entrée par le verset sélectionné** (« qu'est-ce que l'hébreu dit ici »),
+  aperçu avec colophon, puis « tout le texte source » — pas de chrome
+  permanent ; l'entrée d'unité se rajouterait sans rien défaire ;
+- **segments, pas colonnes**, et pour la vraie raison : deux colonnes
+  affirment une correspondance ligne à ligne que la donnée ne porte pas ;
+- **aucune phrase de transmission composée côté client** — elle vient du
+  vault ou il n'y a rien ; registre de note, ni icône ni fond d'alerte.
+
+### `SourcesUpdater` — à cette session, sous trois conditions d'iOS
+
+Les deux gardes de date (refus du manifeste plus vieux **et** purge au
+lancement), le **vrai** `sha256` — le `CorpusUpdater` actuel ne compare que la
+taille, de son propre aveu en commentaire —, `Application Support` exclu des
+sauvegardes, écriture atomique. iOS relit avant fusion.
+
+### En attente
+
+Les deux goûts chez Gloire (sigles critiques du SBLGNT en lecture — 570
+paires de `⸂⸃` sur trois livres —, ordre des deux grecs) ; la réponse d'iOS
+sur le **type engendré** du manifeste (codegen Swift+Kotlin pour que les
+compilateurs redeviennent garde-fous — question du vault) ; l'échantillon
+`he-wlc/bereshit.json`, qui part à l'instant.
+
+Au passage, trois leçons de concertation payées comptant : cette session
+s'est attribuée deux périmètres qui ne sont pas les siens (corrigée par
+l'auteur en riant) ; l'identité d'une session se **mesure** par le
+`Claude-Session` de ses commits, pas par son nom ; et un fichier de données
+hors codegen ne prévient aucun compilateur — la notification explicite est le
+seul mécanisme restant.
+
 ### 7 septembre 2026 — `...` et `..` ne répondent pas à la même question
 
 L'audit des worktrees a trouvé deux branches locales du 30 août, jamais
@@ -3205,6 +3352,96 @@ mesure : la branche a été poussée en sauvegarde ==avant== qu'on conclue, et l
 règle de l'audit — *une non-réponse vaut « statut inconnu », pas
 « supprimable »* — a tenu tout du long. Un compte faux dans ce sens-là ne coûte
 qu'une vérification ; dans l'autre, il coûte le travail.
+
+## 7 septembre 2026 — le canal stable du cask est ouvert, sur décision de l'auteur
+
+L'étiquette `brew-v1.0.5` est posée sur la tête d'`app-store` — le commit de la
+promotion #235, celui que la revue Apple est en train de lire. Le workflow
+`Cask` a fait le reste en un tir : compilation, signature Developer ID,
+notarisation, release **stable** (pas une prerelease), et réécriture de
+`Casks/la-bible-ont.rb` dans le tap. Vérifié comme Gatekeeper le fera, sur
+l'artefact téléchargé depuis la release et non sur un build local :
+`spctl --assess` répond `accepted, source=Notarized Developer ID`, `stapler
+validate` passe, l'empreinte du zip est celle que le cask écrit.
+
+    brew install --cask ontbible/ont/la-bible-ont
+
+**La décision était à l'auteur, et elle a été posée comme telle** : publier le
+stable avant le verdict d'Apple engage le nom du projet sur un canal public.
+Il a tranché « maintenant » — les deux canaux sont indépendants, la
+notarisation ne touche pas au quota App Store Connect, et l'App Store dira son
+mot quand il l'aura lu.
+
+**Pour les trois dépôts : rien à porter, une chose à savoir.** Le tap
+(`ONTBible/homebrew-ont`) sert désormais **deux** casks — `la-bible-ont` depuis
+`app-store`, `la-bible-ont@beta` depuis `beta-test` — et le README de profil de
+l'auteur annonce la release stable par son propre script. La promotion d'une
+version passe donc par **deux gestes** désormais : la chaîne de branches pour
+l'App Store, l'étiquette `brew-v*` pour Homebrew — le second ne suit pas le
+premier tout seul, et c'est voulu : une étiquette est une décision, pas un
+réflexe.
+
+### 31 août 2026 — Android avait la moitié du remède
+
+Le corpus publié qui écrase un bundle plus neuf a été corrigé en deux temps sur
+iOS : d'abord la **cause** — `synchroniser` refuse un manifeste plus vieux que
+le corpus embarqué —, puis l'**effet**, quand la 1.0.5 a embarqué la couche des
+Shemot et n'a affiché aucun nom. Le disque portait le corpus de l'avant-veille
+et répondait à sa place ; refuser d'en *poser* un mauvais ne fait rien à celui
+qui est déjà là.
+
+**Android n'avait reçu que le premier temps.** `plusRecentQueLeBundle` y était,
+mot pour mot ; `purgerSiLeBundleEstPlusNeuf` n'existait pas. Le montage étant
+identique — le disque recouvre le bundle fichier par fichier, sans condition —
+le défaut y attendait à l'identique, et indéfiniment : jusqu'au jour où le site
+publie plus récent que la copie périmée.
+
+- **Android** — la purge portée, appelée dans `MainActivity` **avant** la
+  construction des dépôts. Après eux, elle ne réparerait que le lancement
+  suivant. L'estampille du disque est désormais écrite, après les fichiers,
+  pour la même raison que le registre d'empreintes ;
+- **iOS** — rien : c'est de lui que vient le remède ;
+- **site** — rien : `corpus-publie.py` refuse déjà de publier un corpus
+  indatable, et c'est ce refus qui rend l'ordre calculable des deux côtés ;
+- **vault** — rien.
+
+**Ce que ça dit du portage.** Une correction en deux temps se porte en un seul
+si l'on ne lit que le premier commit. Le second ne se voyait pas comme une
+correction — il fermait un trou laissé *par* la correction, sur une autre
+fonction, dans un autre fichier. Chercher `plusRecent` chez le voisin le
+trouvait et concluait « c'est porté ».
+
+**Et le piège de l'égalité, qui n'existait que côté Kotlin.** Écrire la purge
+comme `!plusRecent(disque, bundle)` paraît juste : `plusRecent` est déjà la
+comparaison, et la nier semble donner « le disque est périmé ». Mais elle est
+**stricte**, et l'égalité est le cas *ordinaire* — le disque porte alors
+exactement le corpus du bundle. L'app aurait purgé et retéléchargé vingt méga à
+chaque lancement, sur le forfait du lecteur, pour reposer les mêmes octets.
+Aucune erreur, aucun texte faux : seulement une app qui consomme. L'épreuve
+`a date egale le disque est garde` tient ce cas, et rougit contre cette
+écriture-là.
+
+**Et sous le trou, la garde était creuse.** En vérifiant la purge sur
+l'émulateur — elle n'effaçait rien —, on a trouvé pourquoi : le manifeste **du
+bundle** porte `generatedAt`, celui **du site** porte `genere`, et Android les
+décodait avec la même classe. Kotlinx cherchait `genere` dans le document du
+pipeline, ne le trouvait pas, prenait la valeur par défaut. `dateDuBundle()`
+rendait la chaîne vide **depuis toujours**.
+
+Ce n'est pas une dégradation de la garde, c'est son **annulation** : un bundle
+indatable n'a rien à opposer — à raison, sinon ses lecteurs n'auraient plus
+jamais de mise à jour —, donc `plusRecentQueLeBundle` acceptait tout. Android
+avait la fonction, ses six épreuves, sa documentation, et aucune protection.
+
+Les épreuves étaient vertes parce qu'elles nourrissaient la date **déjà
+décodée**. Le défaut vivait un cran en amont, dans le décodage, et aucune
+d'elles ne le traversait. C'est la même famille que tout le reste de ces deux
+jours : l'instrument mesurait exactement, à côté.
+
+Trois épreuves de plus partent maintenant d'un vrai document du pipeline. iOS
+lisait la bonne clé — `objet["generatedAt"]` —, le site aussi ; le défaut était
+propre à Kotlin, et il venait de réutiliser un type parce que les deux
+documents s'appelaient « manifeste ».
 
 ### 7 septembre 2026 — le journal a deux régimes, et le contrôle mesurait le mauvais
 
@@ -3419,6 +3656,53 @@ C'est la forme exacte de ce que ce journal a nommé le même jour à propos des
 mesures : ==l'instrument répond juste à la question qu'on lui pose==, et la
 question n'était pas la bonne.
 
+## 8 septembre 2026 au soir — l'habillage d'une feuille appartient à la présentation
+
+Relevé à l'écran, deux fois de suite sur la même feuille. Celle de prononciation
+s'ouvrait **plein écran et sans poignée** pendant que celle de lecture s'ouvrait
+à mi-hauteur ; puis elle **touchait les deux bords** pendant que l'autre
+respirait.
+
+Deux écarts, une seule cause, et ce n'était pas une faute d'écriture. Les deux
+habillages **existaient** :
+
+- les paliers, dans `ontHauteurDeFeuille` — à demander au point d'appel, et une
+  feuille sur sept le demandait ;
+- la gouttière, dans `ontRow`, avec le commentaire juste — *« chaque écran qui
+  l'emploie en profite, sans y penser »* — et enfermée dans un `#if os(macOS)`.
+
+==Un habillage qu'on ajoute à la main est un habillage qu'on oublie.== Et
+l'oubli ne se voit nulle part dans le code : il se voit à l'écran, en ouvrant
+les deux feuilles à la suite, en y pensant.
+
+**Le renversement** : l'habillage est le défaut, la dérogation s'écrit. Les deux
+dérogations de l'app sont maintenant lisibles — `paliers: .pleine` pour le
+compte, `paliers: .mesures([.medium])` pour une note. Avant, on ne pouvait pas
+distinguer un choix d'un oubli.
+
+**La marge n'est pas dans l'habillage**, et c'est délibéré : elle y doublerait
+celle du `Form` groupé des réglages. Une rangée ne connaît pas le style de sa
+liste ; la conséquence s'écrit là où le style se choisit — `ontListeDeProse()`.
+
+**Nommer plutôt qu'exempter.** Le Lexique est un index : son rail de lettres
+doit rester collé au bord, là où le pouce le cherche. Plutôt qu'une exception
+dans le contrôle, il a son nom — `ontListeDIndex()`. Une liste sans gouttière
+est soit un index, soit un oubli, et la forme nue ne dit pas lequel ; une liste
+d'exceptions vieillit, un nom tient.
+
+### Ce que ça change pour chaque dépôt
+
+- **App / iOS** — fait. `scripts/eprouver-les-feuilles.sh` en CI : un `.sheet(`
+  nu ou un `.listStyle(.plain)` nu hors du système de design fait échouer le
+  build. Il a trouvé trois contournements du premier coup, dans `RootView`.
+- **App / Android** — ==à faire, et c'est le même défaut d'un cran plus loin==.
+  Les `ModalBottomSheet` de Compose ont leur propre habillage, choisi par
+  appelant. La règle à y porter est celle-ci, pas le code : l'habillage au
+  système, la dérogation écrite, et un contrôle qui interdit la forme nue.
+  L'arbitrage revient à la session Android — le rappel traverse ses signatures.
+- **Site** — rien à porter. Il n'a pas de feuilles modales : ses fiches sont des
+  pages. La conclusion est constatée, pas supposée.
+
 ---
 
 ### 9 septembre 2026 — les chuqqot doivent paraître sans build, et se signaler
@@ -3611,6 +3895,44 @@ dire. Seule la Play Console le savait, parce qu'elle affiche le `versionCode`.
 La doctrine ne change pas — elle vient d'iOS, où `CFBundleVersion` est daté et
 `CFBundleShortVersionString` s'écrit à la main, geste de dépôt délibéré. C'est ce
 geste qui n'avait jamais été fait : iOS en est à `1.0.6`.
+
+### Nommer, ramasser, compter — un partage de terrain, pas une hiérarchie
+
+La journée a mis trois mécanismes côte à côte sur le même problème, et la
+comparaison est plus utile qu'aucun des trois pris seul.
+
+Le site **ne peut pas** avoir le défaut d'Android. Chaque fichier de `dist/` y
+est nommé un par un, et `include_str!` **exige un chemin littéral** : ce qui
+n'est pas nommé n'entre pas dans le binaire. Il n'y a pas d'équivalent du
+`dist/*.json` d'Android. Le défaut ne se rattrape pas, il ne naît pas.
+
+    site       chaque fichier nommé, `include_str!` littéral
+               → la classe de défaut est supprimée
+    Android    `dist/*.json` par glob, puis `verifierLeCorpus` refuse les inconnus
+               → la classe de défaut existe, un contrôle l'attrape
+
+**Mais la supériorité de nommer a un périmètre**, et la session du site l'a posé
+elle-même avant que la formule ne circule sans lui : ==nommer ne s'applique que
+là où l'ensemble est fini et connu à la compilation==. Ses cinq fichiers, oui.
+`dist/books/`, non — elle le parcourt par `read_dir`, et il le faut : soixante-dix
+livres viendront, et c'est le vault qui les nomme.
+
+D'où la règle en trois termes, qui n'est pas un classement :
+
+    nommer     quand l'ensemble est fini et connu à la compilation
+    ramasser   quand il ne l'est pas — et alors un contrôle est obligatoire
+    compter    dans les deux cas, toujours
+
+Le troisième terme ne se déduit pas des deux autres. Un fichier vide et un
+fichier absent ne se distinguent pas, et l'un des deux est une panne : le vault
+a vu une table passer de 67 entrées à 0 sous une construction verte, et le site
+a vu des fiches vides répondre `200` du poids exact d'un lemme inventé.
+
+Et une quatrième exigence, que la garde d'Android **ne remplit pas** : `connusDuCorpus`
+vérifie qu'un fichier est **connu**, pas qu'il est **utilisé**. `prononciation.json`
+y figure depuis le 8 septembre et Android ne le lit toujours pas. ==Inscrire un nom
+y déclare un lecteur, et rien ne vérifie que la déclaration est vraie== — la garde a
+laissé exister le trou qu'elle devait fermer.
 
 ### Ce que ça change pour chaque dépôt
 
