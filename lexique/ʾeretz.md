@@ -19,3 +19,7 @@ Ce qui donne son poids au **mabbul** : ce ne sont pas des champs qui sont noyés
 ## Formes
 
 eretz · erets · haʾarets · haʾaretz · vaʾarets · baʾarets · eretz megureikhah · erets Kenaʿan · eretz chavilah · niflega haʾarets · vatishshachet haʾaretz
+
+## Source
+
+776 · אֶרֶץ

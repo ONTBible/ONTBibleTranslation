@@ -21,3 +21,7 @@ Ce qu'on peut relever tient à sa place : dans une généalogie qui ne nomme pre
 ## Voir aussi
 
 Sa maison : [[Haran]] son père, [[Lot]] et [[Milkah]] son frère et sa sœur, [[Terach]] son grand-père.
+
+## Source
+
+3252 · יִסְכָּה

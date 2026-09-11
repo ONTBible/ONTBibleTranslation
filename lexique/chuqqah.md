@@ -64,3 +64,7 @@ C'est pourquoi chaque **chuqqah** du corpus se termine en disant ==où elle cess
 de tenir toute seule==. Ce n'est pas une précaution de style : c'est la seule
 façon honnête de graver quelque chose qu'on ne pourra pas retoucher sans que ça
 se voie.
+
+## Source
+
+2708 · חֻקָּה

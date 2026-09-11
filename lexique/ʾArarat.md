@@ -29,3 +29,7 @@ Le corpus ne fait rien de plus de ce lieu — aucun peuple n'en sort dans la tab
 Qui s'y pose : [[Noach]], et la *tevah* qui accomplit son **Shem**.
 
 Le repère qui le situe : [[Shinʿar]], au midi — la plaine où l'humanité se rassemblera ensuite pour bâtir.
+
+## Source
+
+780 · אֲרָרָט

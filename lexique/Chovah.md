@@ -25,3 +25,7 @@ Et ce qu'[[ʾAvraham]] fait ensuite compte davantage que la victoire : il refuse
 Ce qu'il termine : la poursuite d'[[ʾAvraham]] pour délivrer [[Lot]].
 
 Où il se trouve : au septentrion de [[Dammesek]].
+
+## Source
+
+2327 · חוֹבָה

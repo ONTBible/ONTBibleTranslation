@@ -33,3 +33,7 @@ Le corpus ne commente pas. Il enregistre qu'un homme a négocié un refuge, l'a 
 Qui la nomme : [[Lot]], en la demandant.
 
 Ce qu'elle échappe : le **mishpat** sur [[Sedom]] et [[ʿAmorah]].
+
+## Source
+
+6820 · צוֹעַר

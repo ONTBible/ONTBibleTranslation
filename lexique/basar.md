@@ -58,3 +58,7 @@ troisième strate.
 ## Formes
 
 basar · kol basar · uvasar mivshari · basar arlatchem · levasar echad
+
+## Source
+
+1320 · בָּשָׂר

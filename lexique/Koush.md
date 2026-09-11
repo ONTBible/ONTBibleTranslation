@@ -33,3 +33,7 @@ Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kenaʿan]] ses frères.
 Ce qui sort de lui : ==Nimrod==, les **gibborim**, ==Bavel== et ==Ninveh==.
 
 Ce qui reste à écrire : la table des nations de *Bereshit* 10 est écrite ; cette fiche s'enrichira quand la couche y sera portée.
+
+## Source
+
+3568 a · כּוּשׁ

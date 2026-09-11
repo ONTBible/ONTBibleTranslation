@@ -18,3 +18,7 @@ Le corpus ne fait pas le lien explicitement. Mais un lecteur qui vient de *Beres
 
 Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+569 · אַמְרָפֶל

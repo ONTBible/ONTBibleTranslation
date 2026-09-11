@@ -17,3 +17,7 @@ Le ==mabbul== est cette séparation qui lâche. Le texte le dit très exactement
 D'où ce qui suit, et qui n'a rien d'un simple assèchement. Une **Ruach** passe sur les eaux — les mêmes mots qu'au deuxième verset du corpus, littéralement. Les eaux baissent, le sec reparaît, les vivants sortent par espèces, et une bénédiction reprend : *croissez et multipliez*. Ce n'est pas la fin d'une catastrophe. C'est ==une seconde inauguration==, écrite avec le vocabulaire de la première.
 
 Et c'est pourquoi la **berith** qui vient ensuite porte tout le poids qu'elle porte : elle est la promesse que la séparation ne lâchera plus.
+
+## Source
+
+3999 · מַבּוּל

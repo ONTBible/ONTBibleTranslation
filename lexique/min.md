@@ -110,3 +110,7 @@ catégories du vivant. *Vayiqra* reprendra le mot pour les bêtes **tahor** et
 ## Formes
 
 lemino · lemineha · leminehem · leminehu
+
+## Source
+
+4327 · לְמִינוֹ

@@ -22,3 +22,7 @@ Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], 
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
 
 Ce qu'il domine : [[Sedom]], [[ʿAmorah]], [[ʾAdmah]], [[Tsevoyim]] et [[Belaʿ]] — les cinq de la vallée de [[Siddim]].
+
+## Source
+
+3540 · כְּדָרְלָעֹמֶר

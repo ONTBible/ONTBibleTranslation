@@ -25,3 +25,7 @@ Ce que [[Noach]] a prononcé sur [[Kenaʿan]], David l'accomplit — non en dét
 Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père. Ses frères kenaʿani : [[Tsidon]], [[Chet]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
 
 Ce que sa ville devient : Yeroushalayim, prise par David.
+
+## Source
+
+2983 · הַיְבוּסִי

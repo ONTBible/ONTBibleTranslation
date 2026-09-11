@@ -15,3 +15,7 @@ Car il l'emploie ==contre les siens==. Les **neviʾim** parlent d'hommes ==arel=
 Ce qui montre la vraie logique du mot. Ce qui est ==arel== n'est ni mauvais ni impur : c'est ==entier et indisponible==, comme un fruit qui est là sur la branche et qu'on ne peut pas encore cueillir. Le retrait de l'**ʿorlah** est donc une ==ouverture== — ce qui était fermé devient utilisable pour ce à quoi il est destiné : la chair pour la descendance, le cœur pour l'écoute, les lèvres pour la parole.
 
 Et cela explique pourquoi la **milah** du cœur peut être demandée à des hommes déjà marqués dans la chair. Si le geste n'était qu'une coupe identitaire, la demande serait absurde. Comme c'est une ouverture, elle a un sens partout.
+
+## Source
+
+6189 · עָרֵל

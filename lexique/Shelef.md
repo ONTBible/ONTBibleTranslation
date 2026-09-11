@@ -21,3 +21,7 @@ Dans une liste où les noms disent la mesure, la lune, le palmier et la splendeu
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+8026 · שָׁלֶף

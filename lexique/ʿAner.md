@@ -25,3 +25,7 @@ Il refuse pour lui, ==il ne refuse pas pour eux==.
 Ses frères d'alliance : [[ʾEshkol]] et [[Mamreʾ]].
 
 Ce qu'ils sont : *baʿalei berit* d'[[ʾAvraham]].
+
+## Source
+
+6063 · עָנֵר

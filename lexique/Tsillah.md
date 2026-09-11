@@ -31,3 +31,7 @@ C'est devant elle et devant [[ʿAdah]] que son **ʾish** chante avoir tué pour 
 Sa maison : [[Lamekh-fils-de-Metoushael]] son **ʾish**, [[ʿAdah]] l'autre **ʾishah**, [[Tuval-Qayin]] et [[Naʿamah]] ses enfants.
 
 Ce que son **Shem** touche : celui d'[[ʿAdah]] et celui de [[Naʿamah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.
+
+## Source
+
+6741 · צִלָּה

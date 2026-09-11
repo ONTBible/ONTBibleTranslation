@@ -17,3 +17,7 @@ Et il ne faut pas se hâter d'y voir une âme. La ==Neshamah== n'est pas une pi�
 Ce qui donne son poids à une phrase qu'on lit d'ordinaire sans y penser. Après la fracture, la sanction tombe : *à la sueur de tes narines tu mangeras ton pain*. Les traductions écrivent « de ton front », parce que la sueur du front nous paraît normale. Le mot hébreu dit ==les narines== — exactement l'endroit où le souffle avait été déposé. Ce qui sortait de là était la vie reçue ; ce qui en sort maintenant, c'est l'effort. Le texte ne commente pas. Il pose les deux scènes au même endroit du visage et laisse faire.
 
 Le corpus tient donc trois mots que les traductions fondent en un seul : la **Nefesh**, la vie concrète qui a soif ; la **Ruach**, ce qui meut, dans l'homme comme dans le monde ; et la ==Neshamah==, le souffle reçu par contact. Trois opérations distinctes. Aucune n'est « l'âme ».
+
+## Source
+
+5397 · נְשָׁמָה

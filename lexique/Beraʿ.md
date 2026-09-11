@@ -22,3 +22,7 @@ La scène est placée juste après celle de [[Malki-tsedeq]], et le contraste es
 
 Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+1298 · בֶּרַע

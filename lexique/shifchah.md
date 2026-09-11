@@ -21,3 +21,7 @@ Voilà ce qui se joue quand ==Sarai== donne ==Hagar== à ==Avram==. ==Hagar== ne
 Ce qui se brise ensuite se lit dans le même vocabulaire. ==Hagar== conçoit, et la maîtresse ==devient légère== à ses yeux : elle perd de la **kavod**, de ce poids qui fait qu'une place tient. La sphère avait un ordre ; le ventre de la ==shifchah== vient de le retourner. ==Sarai== n'accuse pas ==Hagar== d'insolence, elle accuse ==Avram== de n'avoir pas maintenu la hiérarchie — c'est une plainte de structure, pas de sentiment.
 
 Reste que le texte ne s'arrête pas à la structure. La ==shifchah== affligée s'enfuit vers le désert, et c'est là, sans statut, sans protection, sans sphère, qu'un **malʾakh** la trouve et l'appelle par ce mot même : ==shifchah== de ==Sarai==. Il ne lui rend pas une position. Il lui dit qu'elle est vue — et c'est elle, la femme sans droits, qui donnera un **Shem** à **YHWH**.
+
+## Source
+
+8198 · שִׁפְחָה

@@ -23,3 +23,7 @@ C'est un bon rappel : cette table ==range ce qu'on savait==, avec le flou de ce 
 Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père.
 
 Ceux qui en montent : [[Pelishtim]], selon *Amos* 9.
+
+## Source
+
+3732 · כַּפְתֹּרִים

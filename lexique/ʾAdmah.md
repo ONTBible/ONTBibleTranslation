@@ -23,3 +23,7 @@ Une ville dont le nom dit ==le sol== devient donc ==la mesure de ce qu'on ne veu
 Ses jumelles : [[Sedom]], [[ʿAmorah]], [[Tsevoim]].
 
 Où le corpus la reprend : *Devarim* 29 et *Hoshea* 11.
+
+## Source
+
+126 · אַדְמָה

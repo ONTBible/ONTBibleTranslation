@@ -69,3 +69,7 @@ jamais sa position : c'est ==la nôtre==, et surtout ce que nous sommes devenus
 capables de recevoir.
 
 Le mot pour cela est **kli**.
+
+## Source
+
+4725 · מָקוֹם

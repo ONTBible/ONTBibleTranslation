@@ -116,3 +116,7 @@ deux dont l'un est l'oncle de l'autre.
 ## Formes
 
 ʾach · ʾachiv · ʾachi · ʾachikha · ʾachim · ʾanshei ʾachim
+
+## Source
+
+251 · אָחִיו

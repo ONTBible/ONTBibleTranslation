@@ -23,3 +23,7 @@ Le corpus emploie ailleurs le même verbe pour ce qu'on dresse afin qu'il dure :
 ## Formes
 
 vayiven · banah
+
+## Source
+
+1129 · וַיִּבֶן

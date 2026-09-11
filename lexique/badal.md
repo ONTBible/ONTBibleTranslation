@@ -17,3 +17,7 @@ Et c'est ce qui rattache ce verbe à toute une famille. La **binah** sépare ent
 ## Formes
 
 vayavdel · lehavdil · ulehavdil
+
+## Source
+
+914 · וַיַּבְדֵּל

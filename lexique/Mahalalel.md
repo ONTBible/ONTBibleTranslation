@@ -33,3 +33,7 @@ Il est ==un nom et une orientation==, dans une lignée qui va de l'appel jusqu'�
 Sa ligne : [[Qenan]] son père, [[Yered]] son fils, puis [[Chanokh-qui-marche-avec-Elohim]] et [[Noach]].
 
 Les noms en ==**ʾEl**== de l'autre maison : [[Mechouyael]] et [[Metoushael]].
+
+## Source
+
+4111 · מַהֲלַלְאֵל

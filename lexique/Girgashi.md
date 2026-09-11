@@ -21,3 +21,7 @@ Les deux choses restent distinctes, et l'ONT les tient distinctes.
 ## Voir aussi
 
 Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père. Ses frères kenaʿani : [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+
+## Source
+
+1622 · הַגִּרְגָּשִׁי

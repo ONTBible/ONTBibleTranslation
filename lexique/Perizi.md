@@ -25,3 +25,7 @@ Le corpus ne le dit pas. Il place la formule dans la phrase, et laisse le lecteu
 Avec qui il paraît : [[Kenaʿani]], dans la formule des habitants du pays.
 
 Ce qu'il éclaire : le *riv* entre les bergers d'[[ʾAvraham]] et de [[Lot]].
+
+## Source
+
+6522 · הַפְּרִזִּי

@@ -23,3 +23,7 @@ Le corpus ne dit rien de plus d'==Erekh==, et la règle de l'ONT est de ne pas l
 ## Voir aussi
 
 Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[ʾAkkad]], dans [[Shinʿar]].
+
+## Source
+
+750 · אֶרֶךְ

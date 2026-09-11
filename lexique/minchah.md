@@ -19,3 +19,7 @@ Et le texte dit alors une chose que les traductions rendent d'ordinaire trop vit
 Ce qui suit le confirme : **YHWH** parle à ==Qayin== avant qu'il ait rien fait, et ne discute pas de son offrande. Il lui parle de ce qui est tapi à sa porte, et de ce qu'il a charge de gouverner.
 
 Le mot deviendra plus tard, dans les textes du service, le nom d'une offrande précise — végétale, de farine et d'huile. Mais la logique du vassal reste dessous : apporter, c'est ==reconnaître un rang==.
+
+## Source
+
+4503 · מִנְחָה

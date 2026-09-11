@@ -21,3 +21,7 @@ Chaque maison apporte ce qu'elle a. C'est la thèse de ce chapitre, énoncée nu
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+211 · אוֹפִיר

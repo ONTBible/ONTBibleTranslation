@@ -105,3 +105,7 @@ absurde : on ne redouble pas un degré, on ==insiste sur un comble==.
 ## Formes
 
 meʾod · meod · meʾod meʾod · meod meod
+
+## Source
+
+3966 · מְאֹד

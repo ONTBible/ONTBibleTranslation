@@ -15,3 +15,7 @@ Le geste est même un acte juridique : rabattre son pan sur quelqu'un, c'est le 
 Le mot revient enfin pour les êtres du domaine d'en haut. Les *keruvim* du sanctuaire étendent leurs ==kanfei== au-dessus du couvercle, et les vivants de la **merkavah** en ont plusieurs paires. L'aile n'y dit pas qu'ils volent comme des oiseaux : elle dit ==qu'ils appartiennent au domaine d'en haut== et qu'ils couvrent ce qui est en dessous.
 
 Un même mot pour l'aile d'un moineau, le pan d'un manteau et l'extrémité du monde — et rien d'incohérent là-dedans : partout, ==ce qui s'étend et abrite==.
+
+## Source
+
+3671 · כָּנָף

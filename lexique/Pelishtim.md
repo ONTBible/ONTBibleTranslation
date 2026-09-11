@@ -27,3 +27,7 @@ Le *navi* met donc ==les deux exodes sur le même plan==. Celui qui conduit Isra
 Sa maison : [[Kasluchim]] dont ils sortent, [[Mitsrayim]] et [[Cham]] plus haut ; leurs parents de la mer, [[Kaftorim]].
 
 Où le corpus les reprend : *Amos* 9, et tout le cycle des Juges et des rois.
+
+## Source
+
+6430 · פְּלִשְׁתִּים

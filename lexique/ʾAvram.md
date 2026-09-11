@@ -61,3 +61,7 @@ Ce qu'il devient : [[ʾAvraham]].
 Sa maison : [[Terach]] son père, [[Sarai]] sa **ʾishah**, [[Lot]] son neveu, [[Hagar]] la Mitsrit.
 
 Ce que son histoire touche : la **berith**, l'**ʾemunah**, la **tsedaqah**, **ʾEl ʿElyon** et le **kohen** [[Malki-tsedeq]].
+
+## Source
+
+87 · אַבְרָם

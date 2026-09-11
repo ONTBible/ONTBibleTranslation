@@ -23,3 +23,7 @@ Elle deviendra, dans les *Neviʾim*, la capitale d'Aram et l'adversaire constant
 Qui en vient : [[ʾEliezer]].
 
 Jusqu'où l'on va : [[Chovah]], à son septentrion.
+
+## Source
+
+1834 · דַּמָּשֶׂק

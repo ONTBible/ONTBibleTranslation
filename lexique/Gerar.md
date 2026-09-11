@@ -21,3 +21,7 @@ On y trouve aussi des puits creusés et rebouchés, des accords conclus et refai
 Sa position : la borne du midi, avec [[ʿAzah]] ; au septentrion, [[Tsidon]] et [[Chamati]].
 
 Où le corpus la reprend : le séjour d'[[ʾAvraham]], et celui de son fils.
+
+## Source
+
+1642 · גְּרָר

@@ -20,3 +20,7 @@ Tu comprends alors ce qui est en jeu quand un texte demande d'aimer **YHWH** de 
 ## Formes
 
 nefesh · hanefesh · nafshi · nafshekha · benafsho · nefesh chayah · nefesh hachayah · himmalet al nafshekha · venichreta hanefesh hahi meʿammeha
+
+## Source
+
+5315 · נֶפֶשׁ

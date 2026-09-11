@@ -15,3 +15,7 @@ Ce qui écarte d'un coup deux lectures que l'histoire a superposées au texte. C
 Le mot peut d'ailleurs se dire d'un homme, ou même d'un envoyé de **YHWH** qui se dresse en travers d'un chemin pour arrêter quelqu'un. Être un ==satan==, c'est ==occuper une position== — se tenir en obstacle —, pas appartenir à une espèce.
 
 Son locus véritable est *Iyov*, où toute la scène d'ouverture est une séance du Conseil, et le traitement définitif y est réservé. Ce qu'il faut tenir d'ici là : quand le corpus le nomme, il ne montre pas un adversaire cosmique. Il montre ==une charge dans une assemblée==, et il garde l'article pour le dire.
+
+## Source
+
+7854 · הַשָּׂטָן

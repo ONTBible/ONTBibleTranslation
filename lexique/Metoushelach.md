@@ -33,3 +33,7 @@ Sa maison : [[Chanokh-qui-marche-avec-Elohim]] son père, [[Lamekh-fils-de-Metou
 Le **Shem** voisin qu'il ne faut pas confondre : [[Metoushael]], de la ligne de [[Qayin]] — un nom proche, une autre lignée.
 
 Ce que son **Shem** touche : le **mabbul** dont le chapitre laisse calculer la date, et la mort à laquelle son père a échappé.
+
+## Source
+
+4968 · מְתוּשֶׁלַח

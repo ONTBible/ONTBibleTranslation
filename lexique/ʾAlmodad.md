@@ -19,3 +19,7 @@ Il ouvre la liste des treize fils de [[Yoqtan]] — la plus longue énumération
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+486 · אַלְמוֹדָד

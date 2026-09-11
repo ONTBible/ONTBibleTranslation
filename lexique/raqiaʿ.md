@@ -25,3 +25,7 @@ Le corpus place les luminaires *dans* le ==raqia==, comme des lampes fixées à 
 ## Formes
 
 raqiaʿ · raqia · raqia hashamayim
+
+## Source
+
+7549 · רָקִיעַ

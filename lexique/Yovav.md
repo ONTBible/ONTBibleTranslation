@@ -19,3 +19,7 @@ Qu'un nom qui dit ==le cri== ferme l'énumération la plus longue du chapitre es
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+3103 · יוֹבָב

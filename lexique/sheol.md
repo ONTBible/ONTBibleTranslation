@@ -19,3 +19,7 @@ Voilà pourquoi « l'enfer » est un contresens qui empêche de lire. Notre enfe
 Ce qui donne son poids à la manière dont le corpus parle de la vie. Puisque rien de bon n'est attendu en bas, tout se joue ==ici== : la descendance, la terre, le **Shem** qu'on laisse, la **berith** qui court plus loin que soi. Quand ==Avram== s'inquiète de n'avoir pas d'héritier, ce n'est pas une inquiétude sentimentale — c'est que sans fils, tout s'arrête, et il n'y a pas d'ailleurs pour continuer.
 
 Le mot garde son apostrophe dans le corpus, comme la translittération : l'alef s'entend.
+
+## Source
+
+7585 · שְׁאוֹל

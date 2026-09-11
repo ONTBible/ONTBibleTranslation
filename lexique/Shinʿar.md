@@ -39,3 +39,7 @@ Le repère opposé : [[ʾArarat]], la montagne où [[Noach]] se pose.
 Ce que la plaine porte : la ville et la tour, le **Shem** que les hommes se font, et le *balal* qui les disperse.
 
 Ce qui reste à écrire : le récit est en *Bereshit* 11, déjà écrit ; cette fiche s'enrichira quand la couche des Shemot y sera portée.
+
+## Source
+
+8152 · שִׁנְעָר

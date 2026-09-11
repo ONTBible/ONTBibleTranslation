@@ -41,3 +41,7 @@ Ses fils : [[Qayin]] qu'elle obtient, [[Hevel]] qu'elle perd, [[Shet]] qui lui e
 Son livre : *Toledot Adam ve-Chavah*, où elle témoigne et où elle marche vers Eden.
 
 Ce que son **Shem** touche : la **kavod** dont l'humanité est dénudée, le **tselem** qu'elle invoque contre la bête, et la **teshuvah** que le livre cherche.
+
+## Source
+
+2332 · חַוָּה

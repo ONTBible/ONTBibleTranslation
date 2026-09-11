@@ -21,3 +21,7 @@ Le mot reviendra chez les **neviʾim** avec toute sa charge : un peuple entre le
 ## Formes
 
 vayitser · yatsar
+
+## Source
+
+3335 · וַיִּיצֶר

@@ -31,3 +31,7 @@ Le **Shem** reviendra pour ==la source de Yeroushalayim==, celle où Shelomo ser
 Les autres fleuves : [[Pishon]], [[Chiddeqel]], [[Prat]].
 
 Ce qu'il entoure : le pays de [[Koush]].
+
+## Source
+
+1521 · גִּיחוֹן

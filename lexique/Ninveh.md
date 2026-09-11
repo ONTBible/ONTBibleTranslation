@@ -37,3 +37,7 @@ Qui la fonde : [[Nimrod]], sorti de [[Shinʿar]] vers Assur.
 Sa sœur en fondation : [[Bavel]] — les deux capitales qui broieront Israël.
 
 Où le corpus la reprend : le livre de Yonah, et les oracles de Nahum.
+
+## Source
+
+5210 · נִינְוֵה

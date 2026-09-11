@@ -427,6 +427,59 @@ le mot inerte, elle le rend ==touchable vers la mauvaise fiche==. Le lecteur
 arrive ailleurs sans que rien ne le lui dise. Une déclaration exacte est un gain
 permanent ; une devinette est une substitution silencieuse.
 
+**Une fiche déclare aussi ce qui l'identifie.** Décision de l'auteur du
+11 septembre 2026. Après les ==Formes==, une section ==Source== porte deux
+choses, et rien d'autre :
+
+    ## Source
+
+    559 · אָמַר
+
+À gauche le ==numéro de Strong== du lemme, nu. À droite ==sa forme absolue en
+hébreu==, celle du dictionnaire — non une forme fléchie, que les Formes portent
+déjà.
+
+**Ce qu'est un numéro de Strong.** L'identifiant qu'une concordance de 1890 a
+attribué à chaque mot du vocabulaire hébreu, araméen et grec de la Bible — un
+par lemme, 1 à 8674 pour l'hébreu. Ton témoin le porte déjà : `sources/he-wlc/`
+écrit `lem=1254 a` sous בָּרָא et `lem=430` sous אֱלֹהִים.
+
+==Il dit quel mot c'est. Il ne dit pas ce qu'il veut dire.== Le sens reste au §3
+et à la fiche ; le numéro n'est qu'une clé. L'abus classique — *« Strong dit que
+ce mot signifie X »* — confond un index avec une autorité, et l'ONT ne l'emploie
+jamais ainsi.
+
+**Pourquoi la fiche, et non le §3.** Parce que le §3 est un glossaire
+d'==arbitrages de traduction== : il porte les intraduisibles et les rendus
+fixés, et il n'a aucune raison de grossir de huit cents entrées pour accueillir
+le vocabulaire ordinaire du corpus. Mesuré le 11 septembre : ==133 fiches sur
+357== ont une entrée de glossaire. Les 224 autres seraient restées hors
+d'atteinte.
+
+La fiche, elle, ==existe pour chaque mot qui en mérite une==, et elle sait ce
+qui l'identifie. C'est le même raisonnement qui avait placé les Formes ici
+plutôt qu'au §2.5.
+
+**Ce que ça change, et c'est le point.** Sans le numéro, la liseuse doit
+==deviner== quel mot du verset hébreu ouvre quelle fiche : elle ôte les voyelles
+et compare les consonnes. Or ==deux mots peuvent avoir le même squelette==, et
+une devinette fausse ne rend pas le mot inerte — elle le rend ==touchable vers
+la mauvaise fiche==, ce que le paragraphe précédent interdit déjà pour la
+morphologie.
+
+    un squelette qui se trompe est silencieux
+    un Strong qui se trompe est contredit par le témoin
+
+**Le cas qui l'a montré, et il est du jour même.** Le même וַיִּקַּח — qof à
+dagesh forte — s'écrit `vayiqach` dans un fichier verrouillé et `vayiqqach`
+dans un brouillon. Une jointure par squelette ==ne verra jamais cette
+divergence== : les voyelles ôtées, les deux donnent ויקח. Le Strong la voit,
+avec une donnée que le témoin porte déjà.
+
+**Garder la lettre des homographes.** Strong avait fondu des mots que l'érudition
+a séparés depuis, et les éditions modernes les distinguent par une lettre :
+`1254 a` n'est pas `1254 b`. ==C'est une distinction réelle, elle se garde.==
+
 **Toute fiche ouvre par sa prononciation.** ==Avant le titre de section
 suivant, avant la scène, avant tout le reste== — parce que c'est la première
 chose qu'un lecteur veut savoir d'un mot qu'il ne sait pas dire, et parce que la

@@ -25,3 +25,7 @@ Et c'est de là qu'il ==reste debout devant **YHWH**== pour discuter le **mishpa
 Où il se trouve : à [[Chevron]].
 
 Ce qui s'y passe : la visite des trois **ʾish**, le rire de [[Sarai]], et l'intercession pour [[Sedom]].
+
+## Source
+
+4471 · מַמְרֵא

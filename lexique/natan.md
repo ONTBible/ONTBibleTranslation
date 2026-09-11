@@ -21,3 +21,7 @@ Le mot travaille aussi dans le vocabulaire de la **berith** : on ==natan== une a
 ## Formes
 
 natan · natati · natata · vayiten · veʾetnah
+
+## Source
+
+5414 · נָתַן

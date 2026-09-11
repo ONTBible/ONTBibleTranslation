@@ -57,3 +57,7 @@ Sa maison : [[Sarah]] sa **ʾishah**, [[Hagar]] la **shifchah**, ==Ishmaʿel== e
 Sa ligne : il descend de [[Shem-fils-de-Noach]] par ==Ever==, dont le nom donne *ivri*.
 
 Ce que son **Shem** touche : la **berith**, la **milah**, **ʾEl Shaddai**, le **mishpat** qu'il discute, l'**ʾemunah** et la **tsedaqah** qui lui sont comptées.
+
+## Source
+
+85 · אַבְרָהָם

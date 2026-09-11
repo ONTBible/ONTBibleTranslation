@@ -25,3 +25,7 @@ C'est un motif que la table des nations rend possible et qu'il faut savoir lire 
 Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; son pendant du septentrion, [[Naftuchim]].
 
 Où le corpus le reprend : *Yeshayahu* 11, le rassemblement des restes.
+
+## Source
+
+6625 · פַּתְרֻסִים

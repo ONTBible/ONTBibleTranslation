@@ -31,3 +31,7 @@ Les emplois de *Bereshit*, dont celui des Cieux et de la Terre en 2:4 — le plu
 ## Formes
 
 toledot · toledotam · toledotav · elleh toledot
+
+## Source
+
+8435 · תּוֹלְדֹת

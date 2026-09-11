@@ -25,3 +25,7 @@ La tension est entière et le corpus la laisse entière : ==la terre promise à 
 Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père. Ses frères kenaʿani : [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
 
 Où le corpus le reprend : *Bereshit* 23, l'achat de la sépulture.
+
+## Source
+
+2845 · חֵת

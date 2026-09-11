@@ -19,3 +19,7 @@ Le mot est d'ailleurs employé avec la bénédiction qui va avec : les vivants d
 Le corpus emploiera plus tard le même mot pour des bêtes rampantes de la terre, dans les listes du service, et l'usage se resserrera. Mais l'idée reste : ce qui se compte par masses, non par têtes.
 
 Traduire par « reptiles » ou « petits animaux » manque tout. Ce sont des mots de zoologie, et le ==sherets== n'est pas une classe d'êtres : c'est ==une densité==.
+
+## Source
+
+8318 · שֶׁרֶץ

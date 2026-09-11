@@ -17,3 +17,7 @@ La différence saute aux yeux dans les portraits que le corpus en donne. ==Noach
 C'est ce qui rend lisible la scène la plus étrange du corpus sur ce point. ==Avram== ne fait rien, ne promet rien, n'accomplit aucun exploit : il fait confiance. Et le texte dit que **YHWH** ==le lui compta== — le verbe est celui du comptable qui inscrit une somme dans une colonne. L'acte d'**ʾemunah** est porté au registre de la **tsedaqah**. Ni un mérite qu'on aurait gagné, ni un cadeau sans rapport avec ce qu'on fait : ==une inscription==, dans les comptes de quelqu'un d'autre.
 
 La forme abstraite, **tsedaqah**, désigne l'ordre juste lui-même ; le **mishpat** est la décision qui le rétablit quand il a été rompu. Le ==tsadiq== est l'homme chez qui cet ordre tient sans qu'on ait à le rétablir.
+
+## Source
+
+6662 · צַדִּיק

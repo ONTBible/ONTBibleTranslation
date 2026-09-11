@@ -15,3 +15,7 @@ Le même verbe sert pour les eaux, avec une nuance que la traduction perd : ce q
 Le ==remes== entre dans l'arche, il entre dans la **berith** d'après les eaux, il est nommé quand la nourriture est distribuée. Il n'est jamais oublié dans les énumérations, et cette insistance dit quelque chose : ==le domaine terrestre est peuplé jusqu'en bas==, et ce qui circule au ras du sol tient sa place dans l'ordre au même titre que ce qui marche debout.
 
 Une seule fois le mot prendra une autre couleur — quand un **naviʾ** verra sur les murs d'un temple des figures de ==remes== qu'on y adore. Ce n'est pas la bête qui est en cause, c'est le renversement : ce qui était en dessous mis au-dessus.
+
+## Source
+
+7431 · רֶמֶשׂ

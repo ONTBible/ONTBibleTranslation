@@ -19,3 +19,7 @@ La règle de l'ONT est de ne pas fabriquer une histoire à qui n'en a pas. ==Il 
 ## Voir aussi
 
 Ce qu'il borne : le puits de [[Beer-lachai-roi]], avec [[Qadesh]].
+
+## Source
+
+1260 · בָּרֶד

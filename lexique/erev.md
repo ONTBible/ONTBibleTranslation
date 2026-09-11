@@ -38,3 +38,7 @@ Le mot du commencement, *tohu vavohu*, dit d'ailleurs la même chose : ==sans or
 ## Formes
 
 erev · haʿerev · vaʿerev · arvayim
+
+## Source
+
+6153 · עֶרֶב

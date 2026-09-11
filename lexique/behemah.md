@@ -17,3 +17,7 @@ Elle entre aussi dans la **berith** d'après les eaux, qui n'est pas conclue ave
 Et elle porte la première distinction **tahor** du corpus, avant qu'aucune loi n'existe : sept paires des bêtes qui permettent le contact, une paire des autres. Le texte suppose la catégorie connue, comme il suppose connu le jour et la nuit.
 
 Le mot voisin *behemot*, au pluriel amplifié, servira ailleurs à nommer une bête énorme et insaisissable — la ==behemah== poussée au-delà de ce qu'un homme peut mener. La langue joue sur le contraste : ce qui devrait être à portée, et qui ne l'est pas.
+
+## Source
+
+929 · בְּהֵמָה

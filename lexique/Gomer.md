@@ -25,3 +25,7 @@ Sa maison : [[Yafet]] son père, [[Noach]] son grand-père ; ses frères [[Magog
 Ses fils : [[ʾAshkenaz]], [[Rifat]], [[Togarmah]].
 
 Où le corpus le reprend : l'assemblée de Gog en *Yehezqel* 38.
+
+## Source
+
+1586 · גֹּמֶר

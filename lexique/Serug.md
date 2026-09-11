@@ -21,3 +21,7 @@ On peut relever que la liste de *Bereshit* 11 ==ne dit jamais « et il mourut »
 ## Voir aussi
 
 Sa ligne : [[Reʿu]] son père, [[Nachor]] son fils, puis [[Terach]] et [[ʾAvraham]].
+
+## Source
+
+8286 · שְׂרוּג

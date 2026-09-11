@@ -27,3 +27,7 @@ Le corpus ne commente pas cette extinction. Il la laisse se voir dans la suite d
 Sa ligne : [[Mechouyael]] son père, [[Lamekh-fils-de-Metoushael]] son fils, et avant eux [[ʿIrad]], [[Chanokh-fils-de-Qayin]], [[Qayin]].
 
 Le **Shem** voisin qu'il ne faut pas confondre : [[Metoushelach]], de l'autre lignée — celui qui vivra le plus longtemps de tous.
+
+## Source
+
+4967 · מְתוּשָׁאֵל

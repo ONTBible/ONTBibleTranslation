@@ -25,3 +25,7 @@ Ici, dans la table, elle n'est encore qu'==une borne sur une carte==.
 Sa jumelle : [[Sedom]] ; avec elles [[ʾAdmah]] et [[Tsevoim]].
 
 Où le corpus la reprend : la formule des *Neviʾim*, de *Yeshayahu* à *Yirmeyahu*.
+
+## Source
+
+6017 · עֲמֹרָה

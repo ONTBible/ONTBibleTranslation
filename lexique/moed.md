@@ -15,3 +15,7 @@ La tente elle-même en porte le nom : *ohel ==moed==*, la tente du rendez-vous, 
 D'où le lien avec le septième jour, le premier temps mis à part du corpus. **ʾElohim** l'a *barakh* et **qadash** — retiré du compte des jours utiles. Un ==moed== est du temps qui a été ==assigné==, comme un ustensile mis de côté cesse d'être disponible pour l'eau : il n'appartient plus à l'usage ordinaire.
 
 Et cela explique pourquoi le calendrier compte tant dans ce monde-là. Manquer un ==moed==, ce n'est pas manquer une célébration — c'est ==n'être pas là quand on était attendu==.
+
+## Source
+
+4150 · מוֹעֵד

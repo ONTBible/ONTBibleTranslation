@@ -17,3 +17,7 @@ Et c'est ce qui rend leur chute si grave, dans la logique du corpus. Un veilleur
 On les traduit d'ordinaire par « les Veilleurs », avec une majuscule qui en fait une catégorie d'êtres — presque une espèce, à ranger quelque part entre les anges et les démons. C'est l'exact contresens que le corpus refuse partout ailleurs : l'hébreu et l'araméen ne classent pas les êtres célestes par nature, ils les nomment par leur office. Un =='ir== est celui qui veille tant qu'il veille.
 
 Le lien avec ce qui suit est alors direct. De leur franchissement naissent les **gibbarayaʾ**, ces êtres sans place assignée nulle part — ni gardiens des Cieux, ni serviteurs de la Terre. Le poste abandonné en haut produit en bas de la pesanteur sans emploi.
+
+## Source
+
+5894 · עִירִין

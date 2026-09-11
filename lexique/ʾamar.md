@@ -19,3 +19,7 @@ Et cela vaut aussi quand un homme ==amar==. La parole donnée engage réellement
 ## Formes
 
 vayomer · vayomeru · vayomru · vaʾomar · amarti · vayomer ʾelav · vayomer bilibbo
+
+## Source
+
+559 · וַיֹּאמֶר

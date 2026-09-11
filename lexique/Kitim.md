@@ -23,3 +23,7 @@ C'est la dimension maritime lointaine de [[Yafet]] : ce que l'élargissement pro
 Sa maison : [[Yavan]] son père, [[Yafet]] son grand-père ; ses frères [[ʾElisha]], [[Tarshish]], [[Dodanim]].
 
 Où le corpus le reprend : la parole de Balaam, et les textes de Qumrân.
+
+## Source
+
+3794 · כִּתִּים

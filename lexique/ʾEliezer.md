@@ -25,3 +25,7 @@ Et son **Shem** rend la scène plus dure encore : celui qui devrait hériter s'a
 Sa maison : [[ʾAvraham]] qu'il sert ; sa ville, [[Dammesek]].
 
 Celui qui viendra à sa place : [[Yitschaq]].
+
+## Source
+
+461 · אֱלִיעֶזֶר

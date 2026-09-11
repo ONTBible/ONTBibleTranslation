@@ -66,3 +66,7 @@ On écrit parfois « lakach ». C'est deux fautes en un mot : le ==qof== (ק) se
 ## Formes
 
 vayiqqach · vayiqach · laqach · vatiqqach · vatiqach · yoqach-na meat-mayim
+
+## Source
+
+3947 · לָקַח

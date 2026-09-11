@@ -17,3 +17,7 @@ C'est donc l'inverse de ce qu'on cherche d'ordinaire dans cette phrase. On y che
 Ce qui rend le reste du récit lisible comme un examen. Comment l'homme **radah**-t-il sur le vivant ? Comment tient-il le Jardin qu'on lui a confié à *avad* et *shamar* ? Comment nomme-t-il ce qui lui est présenté ? À chaque fois, la question n'est pas ce qu'il est mais ==comment il fait== — et c'est là que la ==demut== se vérifie ou se perd.
 
 Le mot reparaît une fois d'une manière saisissante : ==Adam== engendre un fils ==selon sa demut, comme son tselem==. La formule du premier chapitre, transposée d'un homme à son fils. Ce qui se transmet n'est pas une nature — c'est ==une manière et une charge==.
+
+## Source
+
+1823 · דְּמוּת

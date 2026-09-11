@@ -23,3 +23,7 @@ C'est une manière de faire qu'il faut connaître pour lire ce chapitre : ==ne p
 Sa jumelle : [[ʿAmorah]], et avec elles [[ʾAdmah]] et [[Tsevoim]].
 
 Où le corpus la reprend : *Bereshit* 13 quand Lot y descend, *Bereshit* 14 pour la guerre des rois, *Bereshit* 18-19 pour le **mishpat**.
+
+## Source
+
+5467 · סְדֹם

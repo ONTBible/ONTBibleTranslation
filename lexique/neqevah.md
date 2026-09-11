@@ -35,3 +35,7 @@ Le texte ne répartit pas : il n'attribue pas l'image à l'un et l'accompagnemen
 ## Formes
 
 neqevah · neqevot · haneqevah · uneqevah
+
+## Source
+
+5347 · נְקֵבָה

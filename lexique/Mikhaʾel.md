@@ -33,3 +33,7 @@ Les autres envoyés nommés : [[Rafaʾel]], et [[Yahoʾel]] dans le *Chazon Avra
 Ce qu'il exerce : la fonction de **malʾakh**.
 
 Ceux qui gardent avec lui : les [[Keruvim]].
+
+## Source
+
+4317 · מִיכָאֵל

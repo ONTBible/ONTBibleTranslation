@@ -21,3 +21,7 @@ Le corpus ne le commente pas. Mais il l'écrit, et c'est cohérent avec ce que f
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+39 · אֲבִימָאֵל

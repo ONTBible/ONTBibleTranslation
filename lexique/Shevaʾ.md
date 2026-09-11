@@ -29,3 +29,7 @@ Sa maison : [[Raʿamah]] son père, [[Koush]] son grand-père, [[Cham]] son arri
 Le **Shem** voisin : [[Sevaʾ]].
 
 Où le corpus le reprend : la Reine devant Shelomo, et les *Tehilim* 72.
+
+## Source
+
+7614 · שְׁבָא

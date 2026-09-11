@@ -23,3 +23,7 @@ C'est une chose que la table des nations rend possible et qu'on manque souvent :
 Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Chavilah]], [[Savtaʾ]], [[Raʿamah]], [[Savtekhaʾ]].
 
 Le **Shem** voisin : [[Shevaʾ]], avec qui il paraît dans les *Tehilim*.
+
+## Source
+
+5434 · סְבָא

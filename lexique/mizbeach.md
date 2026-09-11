@@ -17,3 +17,7 @@ Le premier de tout le corpus est dressé par ==Noach==. Il sort de l'arche sur u
 Le corpus tiendra plus tard une règle sur ces pierres : ni taillées, ni travaillées au fer. Un ==mizbeach== n'est pas un ouvrage d'art. Il n'est pas non plus, comme ailleurs dans la région, la table où l'on nourrit un dieu qui aurait faim — le corpus écarte cette idée partout où elle affleure. C'est ==un point de passage== : l'endroit où quelque chose de la Terre monte vers le domaine d'en haut.
 
 D'où le lien avec le **Kohen**, dont la charge est de tenir ce passage ouvert. Le ==mizbeach== est le lieu, le **Kohen** est celui qui s'y tient, l'**ʿolah** est ce qui monte.
+
+## Source
+
+4196 · מִזְבֵּחַ

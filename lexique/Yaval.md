@@ -23,3 +23,7 @@ Le corpus s'en souviendra longtemps. Les patriarches vivront ainsi — sous la t
 Sa maison : [[ʿAdah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Youval]] son frère, [[Tuval-Qayin]] et [[Naʿamah]] du second lit.
 
 Ce que sa fondation touche : la ville de [[Qayin]], dont elle est l'exact contraire.
+
+## Source
+
+2989 · יָבָל

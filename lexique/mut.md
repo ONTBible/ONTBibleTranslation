@@ -33,3 +33,7 @@ Et comme exister, ici, c'est ==tenir une fonction==, la mort est d'abord la pert
 ## Formes
 
 mut · mot · vayamot · tamut · temutun · mot tamut · lo mot temutun · met · vayamut · lehamit
+
+## Source
+
+4191 · וַיָּמֹת

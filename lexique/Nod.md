@@ -27,3 +27,7 @@ L'errance devient un pays, puis le pays reçoit des murs. C'est la seule chose q
 Qui s'y établit : [[Qayin]], et [[Chanokh-fils-de-Qayin]] dont le **Shem** nomme la ville qu'on y bâtit.
 
 Ce que son **Shem** touche : la sentence *na va-nad*, et l'orient d'Eden — la direction de l'éloignement dans tout *Bereshit*.
+
+## Source
+
+5113 · נוֹד

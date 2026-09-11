@@ -41,3 +41,7 @@ Sa maison : [[Chet]] son père, [[Kenaʿan]] son grand-père, [[Cham]] au-dessus
 Les neuf autres de la liste : [[Qeni]], [[Qadmoni]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
 Le lieu où on les rencontrera : [[Chevron]], premier ancrage durable d'[[ʾAvraham]] dans le pays.
+
+## Source
+
+2850 · הַחִתִּי

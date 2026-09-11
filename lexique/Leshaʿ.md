@@ -21,3 +21,7 @@ C'est le dernier mot de la description. Un nom dont on ne sait presque rien ==di
 ## Voir aussi
 
 La frontière qu'il ferme : [[Tsidon]], [[Gerar]], [[ʿAzah]], [[Sedom]], [[ʿAmorah]], [[ʾAdmah]], [[Tsevoim]].
+
+## Source
+
+3962 · לָשַׁע

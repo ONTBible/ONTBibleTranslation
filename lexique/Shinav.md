@@ -22,3 +22,7 @@ Dans un corpus où nommer c'est faire entrer dans l'ordre, ==donner un nom à un
 
 Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+8134 · שִׁנְאָב

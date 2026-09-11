@@ -21,3 +21,7 @@ Le texte ne lui prête aucune parole. Elle est nommée, mariée, et sa descendan
 ## Voir aussi
 
 Sa maison : [[Haran]] son père, [[Nachor]] son **ʾish**, [[Lot]] et [[Iskah]] ses frère et sœur.
+
+## Source
+
+4435 · מִלְכָּה

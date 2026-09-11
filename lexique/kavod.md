@@ -16,3 +16,7 @@ Son contraire éclaire le tout. C'est *qalal* : alléger, réduire le poids. Qua
 Le même mot vaut du bas en haut de l'échelle, et c'est ce qui frappe : la ==kavod== d'un homme, celle d'une terre, celle d'un roi, et la ==kavod== de **YHWH** lui-même. Pas deux registres, pas de saut vers le figuré. La même logique de pesanteur, portée jusqu'à ce qui pèse le plus.
 
 C'est pourquoi, lorsque la ==kavod== de **YHWH** remplit un lieu, personne ne peut y rester debout pour son service. Ce n'est pas que la lumière éblouisse : c'est qu'il n'y a plus de place. Quelque chose de trop dense occupe le volume.
+
+## Source
+
+3519 · כָּבוֹד

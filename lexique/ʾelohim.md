@@ -21,3 +21,7 @@ Reste la forme du mot, qui déroute. ==Elohim== est un ==pluriel== — la termin
 Au chapitre suivant, un second nom paraît, accolé au premier : **YHWH** ==Elohim==. L'architecte qui ordonnait le cosmos entier se met à pétrir le sol de ses mains, à souffler dans des narines, à planter un jardin et à s'y promener à la brise du jour. Un seul et même ==Elohim==, dans ses deux dimensions — l'universel et le proche.
 
 Une dernière chose, et elle te concerne. Dans ce Temple, l'être humain est déclaré **tselem** d'==Elohim== : la statue qu'un roi antique dressait dans une province lointaine pour y signifier sa présence et son autorité. Ce qui te sépare de l'animal n'est donc pas une âme — cette catégorie n'existe pas ici — mais ==une charge==. Tu es le représentant en poste, dans le sanctuaire dont tu as la garde.
+
+## Source
+
+430 · אֱלֹהִים

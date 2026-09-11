@@ -33,3 +33,7 @@ Ce qui compte ici : ==ce qui ornera le sanctuaire est nommé dans la description
 Le fleuve qui l'entoure : [[Pishon]].
 
 Dans la table des nations : [[Koush]] et [[Yoqtan]], et les frères [[Sevaʾ]], [[Savtaʾ]], [[Raʿamah]], [[Savtekhaʾ]].
+
+## Source
+
+2341 · חֲוִילָה

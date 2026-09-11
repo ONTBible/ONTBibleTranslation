@@ -31,3 +31,7 @@ L'hébreu de cette dernière phrase est ambigu — on ne sait pas avec certitude
 Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Cham]] ses frères.
 
 Ce que son **Shem** touche : la dotation que son père lui formule, et la table des nations de *Bereshit* 10 où sa descendance s'étend.
+
+## Source
+
+3315 · יָפֶת

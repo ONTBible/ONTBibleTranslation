@@ -39,3 +39,7 @@ Les promesses de *Bereshit* 12, 15, 17 et 22, et l'emploi agricole du même mot 
 ## Formes
 
 zeraʿ · zera · zarʿo · zarʿakha · zarʿam · lezarʿakha · ulezarʿakha · zarakha · zarah
+
+## Source
+
+2233 · זֶרַע

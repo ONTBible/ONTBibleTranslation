@@ -21,3 +21,7 @@ Le corpus dira plus tard que les ==shamayim== ne peuvent pas contenir **YHWH** �
 ## Formes
 
 shamayim · hashamayim · vashamayim · verosho vashamayim · meʿof hashamayim · hashamayim ve'haʾaretz · meʾet YHWH min hashamayim
+
+## Source
+
+8064 · שָׁמַיִם

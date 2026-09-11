@@ -21,3 +21,7 @@ Avec [[ʾAlmodad]] qui mesure l'espace, il forme une paire que la liste n'annonc
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+3391 · יֶרַח

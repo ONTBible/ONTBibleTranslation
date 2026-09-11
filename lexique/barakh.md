@@ -21,3 +21,7 @@ Le mot est apparenté à *berekh*, le genou. Fléchir le genou et transmettre un
 ## Formes
 
 vayevarekh · uverakhti · mevarakhekhah · vayevarakhehu
+
+## Source
+
+1288 · וַיְבָרֶךְ

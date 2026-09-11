@@ -19,3 +19,7 @@ Et cela suffit à dire quelque chose de la carte que ce chapitre dessine : ==ell
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+187 · אוּזָל

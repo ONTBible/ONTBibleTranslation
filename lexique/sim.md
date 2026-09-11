@@ -33,3 +33,7 @@ Les emplois de *Bereshit*, et le contraste avec *natan*, dont la fiche est voisi
 ## Formes
 
 sim · vayasem · sam · lasim · yasim
+
+## Source
+
+7760 a · וַיָּשֶׂם

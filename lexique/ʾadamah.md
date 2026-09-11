@@ -21,3 +21,7 @@ C'est aussi ce qui rend la promesse d'une terre autre chose qu'une affaire de pr
 ## Formes
 
 adamah · haʾadamah · ha-adamah · pnei ha-adamah · ish haʾadamah · mipri haʾadamah · tsemach haʾadamah · kol mishpechot haʾadamah
+
+## Source
+
+127 · אֲדָמָה

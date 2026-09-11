@@ -27,3 +27,7 @@ C'est la manière du chapitre, et elle demande d'être lue à l'envers : on ne s
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʿElam]], [[ʾAssur]], [[Loud]], [[ʾAram]].
 
 Sa ligne : [[Shelach]] son fils, puis [[ʿEver]], [[Peleg]], et jusqu'à [[ʾAvraham]].
+
+## Source
+
+775 · אַרְפַּכְשַׁד

@@ -45,3 +45,7 @@ Sa maison : [[Sarai]] dont elle est la **shifchah**, [[ʾAvraham]], et ==Ishmaʿ
 Ce que son **Shem** touche : **ʾEl Roï** qu'elle nomme, le **malʾakh** qui la trouve, le *ger* dont elle porte la condition, et ==Beer-lachai-roi==, le puits du Vivant qui me voit.
 
 Ce qui reste à écrire : son récit est en *Bereshit* 16 et 21 ; la couche des Shemot n'y est pas encore portée, et cette fiche sera reprise.
+
+## Source
+
+1904 · הָגָר

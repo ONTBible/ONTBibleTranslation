@@ -17,3 +17,7 @@ Sa mention ==maintient l'exhaustivité de la cartographie== des fils de [[Yoqtan
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+5745 · עוֹבָל

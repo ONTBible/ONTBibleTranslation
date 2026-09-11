@@ -33,3 +33,7 @@ Le récit va plus loin encore : il les mentionne ==après== la lumière, qui exi
 ## Formes
 
 meʾorot · maor · hameʾorot · limʾorot
+
+## Source
+
+3974 · מְאֹרֹת

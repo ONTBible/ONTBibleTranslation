@@ -29,3 +29,7 @@ Le même **Shem** d'acquisition, deux fois. D'un côté un homme qui perd toute 
 Sa ligne : [[ʾEnosh]] son père, [[Mahalalel]] son fils, puis [[Yered]], [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]], [[Lamekh-fils-de-Metoushelach]], [[Noach]].
 
 Le **Shem** dont il porte la racine : [[Qayin]].
+
+## Source
+
+7018 · קֵינָן

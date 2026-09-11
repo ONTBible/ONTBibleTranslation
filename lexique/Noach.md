@@ -57,3 +57,7 @@ Celui qui chemine avant lui : [[Chanokh-qui-marche-avec-Elohim]], seul autre hom
 Ce que son **Shem** touche : *shavat* et la cessation du septième jour, le **nacham** de son père et celui de **YHWH**, la **berith**, l'**ʿolah**, et la **kavod** que l'*adamah* ne perdra plus.
 
 Ce qui reste à écrire : le récit de sa traversée est en *Bereshit* 6 à 9, déjà écrits ; cette fiche s'enrichira si les *Nistarot* ou les *Besorot* le reprennent.
+
+## Source
+
+5146 · נֹחַ

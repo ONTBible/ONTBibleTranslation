@@ -21,3 +21,7 @@ C'est tout. Il est ==un maillon==, et le corpus le donne pour tel : sans parole,
 ## Voir aussi
 
 Sa ligne : [[Qayin]], [[Chanokh-fils-de-Qayin]] son père, [[Mechouyael]] son fils, puis [[Metoushael]] et [[Lamekh-fils-de-Metoushael]].
+
+## Source
+
+5897 · עִירָד

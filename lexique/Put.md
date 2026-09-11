@@ -25,3 +25,7 @@ C'est la dimension ==guerrière et occidentale== de cette lignée : là où [[Ra
 Sa maison : [[Cham]] son père ; ses frères [[Koush]], [[Mitsrayim]], [[Kenaʿan]].
 
 Où le corpus le reprend : *Yehezqel* 27 et 38, avec [[Loud]], [[Koush]] et [[Mitsrayim]].
+
+## Source
+
+6316 · פּוּט

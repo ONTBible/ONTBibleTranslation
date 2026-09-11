@@ -34,3 +34,7 @@ Un monde où exister c'est occuper une place distincte a besoin d'un moment où 
 ## Formes
 
 boqer · haboqer · vaboqer · livqarim
+
+## Source
+
+1242 · בֹּקֶר

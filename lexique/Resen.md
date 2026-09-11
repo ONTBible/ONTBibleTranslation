@@ -23,3 +23,7 @@ Ce qu'on peut dire : le premier royaume humain n'est pas décrit comme un campem
 ## Voir aussi
 
 Sa position : entre [[Ninveh]] et [[Kelach]], dans [[ʾAssur]] — fondée par [[Nimrod]].
+
+## Source
+
+7449 · רֶסֶן

@@ -19,3 +19,7 @@ Le corpus place son premier au moment le moins attendu. ==Avram== revient d'une 
 Et elle avait été donnée avant lui, sans le mot. Dans le Jardin, l'adam reçoit deux verbes : *avad* et *shamar*, servir et garder. Ce sont exactement les deux qui décriront le travail des **kohanim** dans le Tabernacle. Le Jardin était un sanctuaire, et son gardien y tenait déjà l'interface.
 
 Pluriel **kohanim** ; **kohen gadol** pour celui qui a la charge principale.
+
+## Source
+
+3548 · כֹּהֵן

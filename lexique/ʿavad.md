@@ -15,3 +15,7 @@ Ce qui change entièrement ce qu'on croit lire au chapitre deux. L'adam n'est pa
 Et cela éclaire la sanction. Ce qui est atteint après la fracture, ce n'est pas son droit à la vie : c'est ==son service==. Le sol ne répond plus comme il répondait ; le même verbe reste, l'exercice devient peine. On ne l'a pas privé de son office, on l'a laissé dedans, dégradé.
 
 C'est aussi de ce verbe que vient le mot pour l'esclave, *eved*. La langue ne distingue pas par le mot celui qui sert un roi de celui qui sert un maître : elle distingue par ce à quoi l'on est assigné, et par qui.
+
+## Source
+
+5647 · עָבַד

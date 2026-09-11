@@ -33,3 +33,7 @@ Et le corpus tient les deux faits ensemble sans les concilier : ==la dotation é
 Sa maison : [[Yafet]] son père, [[Noach]] son grand-père.
 
 Ce que son **Shem** touche : la dotation de [[Yafet]], les tentes de [[Shem-fils-de-Noach]], et le critère d'exclusion du §1.
+
+## Source
+
+3120 · יָוָן

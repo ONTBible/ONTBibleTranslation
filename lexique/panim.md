@@ -19,3 +19,7 @@ Et il dit encore le rapport entre deux personnes : *panim el panim*, face à fac
 ## Formes
 
 panim · panav · pnei · penei · al-pnei · mippnei · mipnei · lifnei
+
+## Source
+
+6440 · פָּנִים

@@ -17,3 +17,7 @@ Ce qui explique une chose qui déroute toujours dans le livre qui porte son nom.
 De là vient le titre le plus lourd que le corpus donne à **YHWH**. Quand ==Avraham== plaide pour ==Sedom==, il l'appelle ==le ==shofet== de toute la Terre== — et sa question n'est pas de savoir si **YHWH** est bon. Il demande si ==celui dont la charge est de rétablir l'ordre== va emporter le **tsadiq** avec le **rashaʿ**. On ne pose cette question qu'à un ==shofet==, et on ne la pose que parce qu'on attend qu'il fasse son office.
 
 Pluriel **shoftim**.
+
+## Source
+
+8199 · שֹׁפֵט

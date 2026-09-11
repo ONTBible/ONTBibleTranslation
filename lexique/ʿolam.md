@@ -180,3 +180,7 @@ redevenir ce qu'elle est : ==un engagement dont on ne verra pas le terme==, fait
 [[Mosheh]], qui n'en voit que le dos. **kavod**, dont les portes s'ouvrent.
 **berith**, dont la durée se mesure par ce mot. Et la chuqqah des quatre modes de
 présence, où les emplois travaillent tous ensemble.
+
+## Source
+
+5769 · עוֹלָם

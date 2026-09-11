@@ -21,3 +21,7 @@ Le corpus ne les reprend pas ailleurs sous cette forme. Ce qu'ils tiennent dans 
 Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[ʿAnamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
 
 Le **Shem** voisin, dans l'autre lignée : [[Loud]].
+
+## Source
+
+3866 · לוּדִים

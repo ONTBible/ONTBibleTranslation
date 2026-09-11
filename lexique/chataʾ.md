@@ -17,3 +17,7 @@ C'est pourquoi le mot appartient à la même famille que **tov** et **raʿ**. Le
 La forme nominale, **chattat**, désigne cet acte lui-même — et le corpus lui donne un visage inquiétant dès sa première apparition. **YHWH** avertit ==Qayin== que la **chattat** est ==tapie à la porte==, qu'elle le désire, et qu'il doit la gouverner. Le mot est celui d'un fauve couché à l'entrée. Ce n'est pas une abstraction morale qu'on transgresse : c'est ==quelque chose qui attend et qu'il faut tenir==.
 
 Et le remède qu'annonce le corpus n'est pas un paiement mais un demi-tour : la **teshuvah**, revenir sur la trajectoire quittée. Ce qui a dévié se redresse.
+
+## Source
+
+2398 · חָטָא

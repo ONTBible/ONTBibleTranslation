@@ -39,3 +39,7 @@ Leur pays : [[Kenaʿan]] et [[Mitsrayim]] entre lesquels ils circulent, et [[Qad
 Les neuf autres de la liste : [[Qadmoni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]] — et le Qenizi, que le corpus nomme sans le gloser.
 
 Le son que le **Shem** partage : [[Qayin]], dont le corpus tire le nom d'un autre verbe, et dont la lignée donne au monde le bronze et le fer par [[Tuval-Qayin]].
+
+## Source
+
+7017 · הַקֵּינִי

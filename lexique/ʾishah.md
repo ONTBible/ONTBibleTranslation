@@ -19,3 +19,7 @@ Une règle d'écriture en découle, et elle n'est pas une coquetterie : on écri
 ## Formes
 
 ʾishto · ʾeshet · neshei · nashim
+
+## Source
+
+802 · אִשָּׁה

@@ -25,3 +25,7 @@ Et dans la suite du corpus, ==le Kenaʿani== devient une formule fixe : *le Kena
 Le pays dont il est l'habitant : [[Kenaʿan]], et les onze peuples de sa liste.
 
 Où le corpus le reprend : la formule *le Kenaʿani était alors dans le pays*, tout au long du cycle d'[[ʾAvraham]].
+
+## Source
+
+3669 a · הַכְּנַעֲנִי

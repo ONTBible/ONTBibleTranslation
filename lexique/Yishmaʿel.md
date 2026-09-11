@@ -31,3 +31,7 @@ Le **malʾakh** annonce aussi ce qu'il sera : ==un onagre d'homme==, sa main con
 Sa maison : [[Hagar]] sa mère, [[ʾAvraham]] son père, [[Sarai]] la maîtresse de sa mère, [[Yitschaq]] son frère.
 
 Où il est nommé : près du puits de [[Beer-lachai-roi]], dans le désert de [[Shur]].
+
+## Source
+
+3458 · יִשְׁמָעֵאל

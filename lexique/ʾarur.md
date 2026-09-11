@@ -19,3 +19,7 @@ Et ==Qayin== : il travaillait le sol, le sol ne lui donnera plus sa force. Il de
 D'où le contresens de « maudit ». Notre malédiction est un sort jeté, une force hostile qui poursuit ; elle vient d'un imaginaire magique, et elle fait de **YHWH** quelqu'un qui frappe. Le corpus décrit autre chose : ==un ordre qui se déforme quand on en sort==. La conséquence est inscrite dans la structure, pas dans une colère.
 
 Le mot voisin, *qalal*, complète le tableau : alléger, retirer du poids fonctionnel — de la **kavod**. L'==arur== dévie, le *qalal* allège. Ni l'un ni l'autre ne détruit.
+
+## Source
+
+779 · אָרוּר

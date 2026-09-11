@@ -29,3 +29,7 @@ Ce qu'elle ne fait pas, c'est ==appeler==. L'invocation du **Shem** de **YHWH** 
 Sa ligne : [[ʿIrad]] son père, [[Metoushael]] son fils, puis [[Lamekh-fils-de-Metoushael]].
 
 Ce que son **Shem** touche : le **mabbul**, qui effacera — même verbe —, et [[ʾEnosh]], au temps de qui l'on commence à invoquer.
+
+## Source
+
+4232 · מְחוּיָאֵל

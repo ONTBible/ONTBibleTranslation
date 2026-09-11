@@ -35,3 +35,7 @@ Le *gan* hébreu n'est rien de cela. C'est ==un lieu de ce monde==, avec des fle
 ## Formes
 
 gan · hagan · began · gan-eden · miggan
+
+## Source
+
+1588 · גַּן

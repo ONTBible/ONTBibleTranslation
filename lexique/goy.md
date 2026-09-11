@@ -19,3 +19,7 @@ Le mot prendra plus tard, dans l'usage, une couleur d'altérité. Elle n'est pas
 ## Formes
 
 goy · goyim · goyei · begoyeihem · goy gadol · iyei hagoyim · kol goyei haʾarets
+
+## Source
+
+1471 a · בְּגוֹיֵהֶם

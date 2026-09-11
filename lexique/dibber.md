@@ -21,3 +21,7 @@ Traduire les deux verbes par « dire » efface tout cela — et avec, la différ
 ## Formes
 
 vayedabber · dibber
+
+## Source
+
+1696 · דִּבֶּר

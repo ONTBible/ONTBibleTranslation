@@ -17,3 +17,7 @@ Regarde l'*adamah*. Après le Jardin, elle est allégée — et le texte le mont
 Et regarde ce que **YHWH** promet après les eaux, qui n'a de sens qu'avec ce mot : *je ne ==qallel== plus l'*adamah*à cause de l'adam*. Non pas « je ne maudirai plus » — ==je n'en retirerai plus davantage==. La promesse porte sur un ==seuil== : ce qui a été allégé le reste, cela n'ira pas plus loin.
 
 Son opposé exact est **barakh**, doter d'une capacité active — alourdir de pouvoir. Et son cousin **ʾarur** dit encore autre chose : non pas alléger mais ==dévier==, faire fonctionner de travers. Trois opérations distinctes que le français rend par deux mots, bénir et maudire, en écrasant tout.
+
+## Source
+
+7043 · לְקַלֵּל

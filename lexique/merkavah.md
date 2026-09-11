@@ -17,3 +17,7 @@ C'est ce qui rend la vision si lourde à l'endroit où elle survient. L'homme qu
 Le corpus range ces textes dans un mode qui leur est propre, les *Nistarot* : ce qui est structurellement voilé, l'architecture du réel derrière l'histoire visible. On n'y monte pas par curiosité. La tradition juive fera de la ==merkavah== le domaine le plus réservé de l'étude, et le corpus garde cette prudence.
 
 Son premier emploi en corps de texte, dans l'ONT, se trouve dans *Toledot Adam ve-Chavah*. Le mot reste en hébreu partout : « char divin » ferait un objet, « trône-char » ferait une glose. L'hébreu tient les deux en un mot, et c'est ce qu'il faut garder.
+
+## Source
+
+4818 · מֶרְכָּבָה

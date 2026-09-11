@@ -22,3 +22,7 @@ C'est un choix d'écriture. ==Nommer les vaincus== donne à la guerre son épais
 
 Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+1306 · בִּרְשַׁע

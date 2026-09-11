@@ -25,3 +25,7 @@ C'est sa manière, et la règle de l'ONT est de ne pas la remplir. On relève le
 Sa ligne : [[Mahalalel]] son père, [[Chanokh-qui-marche-avec-Elohim]] son fils, puis [[Metoushelach]] et [[Noach]].
 
 Ce que son **Shem** touche : le **Sheʾol**, où l'on descend — et dont son fils est dispensé.
+
+## Source
+
+3382 · יֶרֶד

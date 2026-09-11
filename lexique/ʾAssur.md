@@ -29,3 +29,7 @@ Ce qu'Assur deviendra — l'empire qui déporte le royaume du septentrion — n'
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʿElam]], [[ʾArpakhshad]], [[Loud]], [[ʾAram]].
 
 Ce qu'on y bâtit : [[Ninveh]], [[Rehovot-Ir]], [[Kelach]] — par [[Nimrod]].
+
+## Source
+
+804 · אַשּׁוּר

@@ -19,3 +19,7 @@ La règle de l'ONT est de ne pas fabriquer une histoire à qui n'en a pas. ==Il 
 ## Voir aussi
 
 Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+
+## Source
+
+5513 · הַסִּינִי

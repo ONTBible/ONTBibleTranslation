@@ -23,3 +23,7 @@ C'est la dimension maritime et marchande de la maison de [[Yafet]] : elle ne fou
 Sa maison : [[Yavan]] son père, [[Yafet]] son grand-père ; ses frères [[Tarshish]], [[Kitim]], [[Dodanim]].
 
 Où le corpus le reprend : *Yehezqel* 27, l'inventaire de Tyr — avec [[Arvadi]] aux rames et [[Togarmah]] aux chevaux.
+
+## Source
+
+473 · אֱלִישָׁה

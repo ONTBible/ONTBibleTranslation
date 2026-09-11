@@ -25,3 +25,7 @@ Le même cours d'eau porte donc ==le souvenir du Jardin et l'assise du premier e
 ## Voir aussi
 
 Où il paraît : *Bereshit* 2, les fleuves d'Eden ; *Bereshit* 10, la fondation de [[Ninveh]].
+
+## Source
+
+2313 · חִדֶּקֶל

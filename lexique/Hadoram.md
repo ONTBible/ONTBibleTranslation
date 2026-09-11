@@ -21,3 +21,7 @@ Sa présence dans la liste de [[Yoqtan]] témoigne de ==la complexité religieus
 ## Voir aussi
 
 Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+1913 a · הֲדוֹרָם

@@ -35,3 +35,7 @@ Quelqu'un s'est penché vers vous. Le texte le note comme il noterait qu'un homm
 ## Formes
 
 chen · chanan · vayichan · chanun
+
+## Source
+
+2580 · חֵן

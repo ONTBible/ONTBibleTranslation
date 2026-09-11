@@ -27,3 +27,7 @@ Le texte ne dit rien de lui. Il le laisse en arrière, et il y renvoie deux fois
 Sa maison : [[Terach]] son père, [[ʾAvraham]] et [[Haran]] ses frères, [[Milkah]] sa **ʾishah**.
 
 Ce que sa maison devient : le lieu d'où viennent Rivqah, Léa et Rahel.
+
+## Source
+
+5152 · נָחוֹר

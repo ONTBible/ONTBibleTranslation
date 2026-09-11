@@ -21,3 +21,7 @@ C'est ce qui rend lisible la scène la plus étonnante du corpus sur ce point. =
 Ni un mérite gagné, ni un cadeau sans rapport avec ce qu'on fait : ==une inscription==, portée par un autre. La distinction paraît subtile et elle a occupé des siècles de théologie — qui discutaient d'ailleurs sur une traduction, « justice », dont ni l'un ni l'autre des deux mots hébreux ne portait le sens.
 
 Et c'est aussi ce que **YHWH** attend d'==Avraham== : ==garder la voie de YHWH en faisant tsedaqah et mishpat==. Non pas être juste dans son cœur — ==tenir le monde droit== autour de soi, et redresser ce qui penche.
+
+## Source
+
+6666 · צְדָקָה

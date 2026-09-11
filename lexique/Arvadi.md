@@ -19,3 +19,7 @@ Un peuple insulaire fournit donc à la grande cité marchande ==ses bras et sa g
 ## Voir aussi
 
 Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+
+## Source
+
+721 · הָאַרְוָדִי
