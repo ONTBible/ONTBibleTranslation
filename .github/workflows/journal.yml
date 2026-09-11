@@ -1,0 +1,104 @@
+# Le journal a une seule source, et les copies se refont toutes seules.
+#
+# ## Ce qui n'allait pas
+#
+# `SYNCHRONISATION.md` était tenu **à la main dans trois dépôts**, avec la
+# consigne de porter chaque entrée chez les voisins. La consigne est écrite en
+# tête du fichier, elle est claire, et elle a été appliquée quatre fois sur
+# cinq pendant des mois.
+#
+# Une règle appliquée à 80 % ne produit pas un fichier juste à 80 %. Elle
+# produit **trois fichiers dont aucun ne fait autorité** — c'est le verdict
+# qu'affichait `scripts/concorder-la-synchronisation.py` le 11 septembre 2026 :
+# trois empreintes, et la racine avec quinze jours de retard.
+#
+# ## Pourquoi un contrôle n'aurait pas suffi
+#
+# Le premier remède envisagé était de **détecter** la divergence. Une passe de
+# réconciliation l'a disqualifié en une mesure : deux blocs étaient déjà dans un
+# **ordre différent** entre l'app et le vault, sans qu'aucune entrée ne manque.
+#
+# Deux fichiers peuvent porter exactement le même texte et ne pas être
+# identiques. Un contrôle aurait donc rougi sur l'ordre, puis sur une virgule,
+# puis sur une reformulation — et chaque rougissement aurait demandé un
+# arbitrage humain sur un fichier de notes.
+#
+# On ne détecte pas la divergence : **on supprime la duplication**.
+#
+# ## Ce que fait ce workflow
+#
+# Le vault porte le journal. Quand il change, ce workflow prévient les deux
+# autres dépôts, qui vont chercher le fichier et ouvrent une PR chez eux.
+#
+# La copie qu'ils reçoivent porte un en-tête qui dit de ne pas l'éditer. C'est
+# le même principe que `Schema.swift` et `Schema.kt`, engendrés depuis
+# `schema.rs` : personne ne les édite, donc ils ne peuvent pas diverger.
+#
+# ## Les entrées locales ne voyagent pas
+#
+# Un dépôt a des choses à noter qui ne regardent que lui — l'app en a treize.
+# Elles vivent dans son `SYNCHRONISATION-locale.md`, écrit à la main, que ce
+# workflow ne touche jamais.
+#
+# ## Ce qu'il ne duplique pas, délibérément
+#
+# `propager.yml` recopie une liste de chemins depuis `pipeline/src/config.rs`,
+# et son propre en-tête dit que cette duplication **a déjà échoué** : `lexique/`
+# fut ajouté au pipeline le 20 août 2026, la liste ne l'a pas su, et les fiches
+# corrigées ne partaient plus en ligne.
+#
+# Ici, un seul fait est écrit : le nom du fichier. Il n'est recopié nulle part
+# ailleurs — les dépôts qui le reçoivent le lisent dans l'événement.
+
+name: Journal
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - SYNCHRONISATION.md
+  # Pour rejouer une propagation sans toucher au fichier — après un secret
+  # renouvelé, ou pour rattraper un dépôt créé depuis.
+  workflow_dispatch:
+
+jobs:
+  prevenir:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Le jeton s'éprouve avant de servir, et sur le droit exact dont on a
+      # besoin. Trois pannes se ressemblent sans se dire : le secret absent, le
+      # jeton expiré — un jeton fin dure un an au plus et s'éteint sans
+      # prévenir —, et le jeton dont le propriétaire est le compte personnel
+      # plutôt que l'organisation, qui n'obtient qu'une lecture.
+      #
+      # C'est la garde de `propager.yml`, et elle est reprise ici parce qu'elle
+      # a déjà servi : sans elle, `gh` rend une erreur d'authentification qui ne
+      # dit pas laquelle des trois.
+      - name: Le jeton peut déclencher
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::Le secret DECLENCHEUR manque. Voir l'en-tête de propager.yml."
+            exit 1
+          fi
+          for depot in ONTBibleApp ONTBibleWebapp; do
+            if ! gh api "repos/ONTBible/$depot/actions/permissions" >/dev/null 2>&1; then
+              echo "::error::DECLENCHEUR n'a pas le droit Actions sur $depot."
+              echo "::error::Vérifier : resource owner = ONTBible, permission Actions = Read and write, jeton non expiré."
+              exit 1
+            fi
+          done
+          echo "Le jeton ouvre les deux dépôts."
+
+      - name: Prévenir les deux copies
+        env:
+          GH_TOKEN: ${{ secrets.DECLENCHEUR }}
+        run: |
+          set -euo pipefail
+          for depot in ONTBibleApp ONTBibleWebapp; do
+            gh workflow run journal.yml --repo "ONTBible/$depot" --ref main
+            echo "Prévenu : $depot"
+          done
