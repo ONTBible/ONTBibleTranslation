@@ -245,22 +245,46 @@ demande que l'agrégat.
   devine pas : le pont n'énonce que des **numéros de Strong**, qui sont de 1890
   et libres de droits.
 
-### L'interversion χ / ξ, et pourquoi on ne la répare pas
+### L'interversion χ / ξ — et pourquoi les formes ne sont pas reprises du tout
 
 Les formes grecques portent un défaut d'encodage systématique — `ἀρξῇ` pour
 ἀρχῇ, `ξόρτου` pour χόρτου, `ψυξὴν` pour ψυχήν. Il est signalé chez MACULA
 (issue #81), déclaré résolu, et ==il est toujours dans les données livrées==.
 
-Il paraît réparable par un simple échange des deux lettres. **Mesuré, il ne
-l'est pas.** Sur les 1 474 formes distinctes concernées, contrôlées contre le
-lemme Strong de chacune :
+**La cause est établie, et elle disculpe l'outil.** La donnée d'origine de
+Clear employait `c` = χ et `x` = ξ ; la conversion l'a lue comme du bêta-code
+TLG, où `c` → ξ et `x` → χ. Une passe globale, un seul fichier, aucun mécanisme
+par lequel une forme échapperait. ==L'échange est donc universel.==
 
-    l'inversion répare        1 048
-    la forme était déjà juste    55      ← ἔβρεχεν · ἕχει · ἐλέγχει
-    indécidable                 371
+**Un contrôle intermédiaire avait conclu l'inverse, et il faut dire pourquoi.**
+Comparant chaque forme au lemme Strong de son entrée, il avait trouvé 55 formes
+« déjà justes » — `ἔβρεχεν`, `ἐδέχατο`, `ἤρχατο` — et refusé la réparation à
+cause d'elles.
 
-Un échange en masse casserait les cinquante-cinq, ==et rien ne le dirait==. On
-s'en tient donc aux numéros, sains, et les formes ne servent qu'à illustrer.
+==Ces 55 sont toutes des aoristes sigmatiques.== Le χ final du radical rencontre
+le σ de l'aoriste et donne ξ : la forme juste est `ἐδέξατο`, et `ἐδέχατο`
+==n'est pas un mot grec==. Le contrôle comparait la lettre de la forme à celle
+de son ==lemme==, qui est un présent en χ — il concluait « cohérent » en
+regardant un aoriste, qui doit être en ξ. *Un instrument qui rend une réponse
+bien formée en mesurant autre chose que la question.*
+
+### Ce qui a décidé : la provenance, pas la corruption
+
+Le champ `greek` est déclaré production propre de Biblica, en CC BY 4.0,
+==sans qu'aucune édition ne soit nommée== — ni dans le README, ni dans la
+licence, ni dans les 29 pages de documentation, ni dans aucune issue.
+
+Une comparaison mesurée le rapproche fortement du **CATSS** : sur *Bereshit* 1,
+==370 formes sur 370== se retrouvent caractère pour caractère, accents et
+esprits compris, contre 201 sur 370 pour un extrait sans rapport. Or la
+déclaration d'utilisateur du CATSS est non commerciale et virale, et ce projet
+l'a écartée pour cette raison.
+
+**Les formes ne sont donc pas extraites.** Les numéros de Strong sont de 1890 et
+libres de droits ; un dénombrement est un fait, non une reproduction. Le pont ne
+perd aucune capacité — il compte sur les numéros, et le rapport affiche les
+lemmes du dictionnaire de Strong. ==On retire ce dont on n'a pas besoin et dont
+on ne sait pas d'où il vient.==
 
 ## L'attribution du pont
 

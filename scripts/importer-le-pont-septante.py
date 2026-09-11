@@ -16,14 +16,30 @@ donc pas au `MANIFEST.json` — décision de l'auteur du 9 septembre 2026 : outi
 de travail, invisible au lecteur. Le manifeste est le seul interrupteur ; tant
 que la clé n'y est pas, le pipeline n'émet rien.
 
-## Pourquoi le pont se bâtit sur les numéros, jamais sur les formes
+## Les formes grecques ne sont pas extraites — décision de l'auteur
 
-La colonne des formes grecques porte ==une confusion systématique χ / ξ / κ== :
-`ἀρξῇ` pour ἀρχῇ, `βραξίων` pour βραχίων, `ἐχ` pour ἐκ. La colonne des numéros
-de Strong, elle, est saine — `746` est bien ἀρχή.
+MACULA porte, à côté du numéro de Strong, la ==forme grecque== du mot. On ne la
+reprend pas. Deux raisons, et la seconde a emporté la décision.
 
-On compte donc sur `greekstrong`, et les formes ne servent qu'à ==illustrer==.
-Un pont bâti sur les chaînes hériterait du défaut sans le voir.
+**Elle est corrompue.** Une interversion χ ↔ ξ frappe tout le corpus : `ἀρξῇ`
+pour ἀρχῇ, `ξόρτου` pour χόρτου. La cause est établie — la donnée d'origine de
+Clear employait `c` = χ et `x` = ξ, et la conversion l'a lue comme du bêta-code
+TLG, où `c` → ξ et `x` → χ. ==L'outil était juste, la donnée n'était pas ce
+qu'il attendait.== Le défaut est signalé chez eux (issue #81), déclaré résolu,
+et toujours présent dans les données livrées.
+
+**Et sa provenance n'est pas établie.** Le champ `greek` est déclaré production
+propre de Biblica, en CC BY 4.0, ==sans qu'aucune édition soit nommée== — ni
+dans le README, ni dans la licence, ni dans les 29 pages de documentation. Une
+comparaison mesurée le rapproche fortement du **CATSS**, dont la déclaration
+d'utilisateur est non commerciale et virale, et que ce projet a écarté pour
+cette raison.
+
+**Les numéros de Strong, eux, sont de 1890 et libres de droits**, et un
+dénombrement est un fait, non une reproduction. Le pont ne perd donc aucune
+capacité : il compte sur les numéros, et le rapport affiche les lemmes du
+dictionnaire de Strong. ==On retire ce dont on n'a pas besoin et dont on ne sait
+pas d'où il vient.==
 
 ## Ce que l'alignement ne peut pas faire
 
@@ -128,7 +144,6 @@ def importer(macula: Path, sortie: Path):
                 "he": hs,
                 "gr": gs,
                 "hf": texte,
-                "gf": a.get("greek", ""),
                 "lem": a.get("lemma", ""),
             })
 
