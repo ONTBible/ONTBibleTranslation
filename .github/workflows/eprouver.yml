@@ -63,10 +63,21 @@ jobs:
         with:
           path: ONTBibleTranslation
 
+      # La branche est nommée, et elle doit l'être. Sans `ref:`, `checkout`
+      # prend la branche par défaut du dépôt — aujourd'hui `app-store`, mais
+      # rien ici ne le dit et rien ne préviendrait si elle changeait. Le vault
+      # changerait de juge sans qu'une ligne de ce fichier ne bouge.
+      #
+      # `app-store` est le bon juge, et c'est un choix : le vault s'éprouve
+      # contre le pipeline **livré**, non contre celui qu'on est en train
+      # d'écrire. Éprouver contre `device` rendrait le vault vert grâce à du
+      # code que personne n'a reçu — on échangerait un faux rouge contre un
+      # faux vert.
       - name: Le pipeline
         uses: actions/checkout@v4
         with:
           repository: ONTBible/ONTBibleApp
+          ref: app-store
           path: ONTBibleApp
 
       # Ce que le pipeline lit, et ce que la propagation surveille.
