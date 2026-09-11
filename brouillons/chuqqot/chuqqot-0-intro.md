@@ -34,7 +34,8 @@ a guère d'autres.
 | 3 | *les-quatre-modes-de-presence* | comment celui-là se rend perceptible sans cesser de l'être |
 | 4 | *les-malakhim-et-l-olam-prete* | la deuxième strate : un **ʿolam** emprunté, puis rendu |
 | 5 | *le-navi-et-l-olam-d-argile* | le **kli** humain — et le **basar** comme puissance, non comme prison |
-| 6 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
+| 6 | *deux-kelim-un-seul-seuil* | deux **kelim** humains joints : ce que l'union fait au seuil de chacun |
+| 7 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
 
 ==Le rang est déclaré ici, et nulle part ailleurs.== Les fichiers ne portent
 aucun numéro, délibérément : un ordre inscrit à la fois dans un nom de fichier et
@@ -44,8 +45,16 @@ l'alphabet — c'est-à-dire un ordre quand même, mais que personne n'aurait ch
 
 L'ordre va ==du rapport vers ceux qui l'habitent==. On pose d'abord ce qu'est
 l'**ʿolam**, puis celui qui n'en a pas, puis les façons dont il se rend
-perceptible, puis les êtres que ces façons emploient, puis enfin la structure
-qui rend tout cela nécessaire.
+perceptible, puis les êtres que ces façons emploient, puis ==ce qui arrive quand
+deux de ces êtres se joignent==, puis enfin la structure qui rend tout cela
+nécessaire.
+
+La sixième est placée là parce qu'elle ==ne tient que sur la cinquième== : il
+faut avoir posé que le **basar** est le **kli** de l'homme, et qu'il est une
+puissance et non une prison, avant de pouvoir demander ce que deux de ces
+**kelim** se font l'un à l'autre. Et elle vient ==avant== la septième parce que
+celle-là ferme le corpus sur la structure générale, là où la sixième est encore
+une question d'habitants.
 
 ==On peut en lire une seule.== Chacune redit le peu qu'il faut savoir des
 autres, et renvoie à elles pour le reste — c'est délibéré : ==une chuqqah qui

@@ -27,3 +27,7 @@ Un lieu qui porte le **mishpat** dans son nom, et où le **mishpat** tombera. ==
 Son autre nom : [[Qadesh]].
 
 Ce qui s'y passe : la remontée de la coalition, contre les Amaleqites.
+
+## Source
+
+5880 · עֵין מִשְׁפָּט

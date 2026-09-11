@@ -15,3 +15,7 @@ Le nom dit exactement ce qu'il fallait dire. Non pas « le Tout-Puissant », ni 
 Le puits, ensuite, s'appelle *Beer-Lachaï-Roï* — le puits du Vivant qui me voit. Le **Shem** reste sur le lieu. Ce qui s'est passé là est inscrit dans la géographie, et des générations passeront devant en sachant pourquoi il s'appelle ainsi.
 
 Il faut mesurer le geste, parce que le corpus ne le commente pas. Dans un récit qui suit une lignée d'élus, la seule personne autorisée à nommer **YHWH** est celle qui n'a rien : ni terre, ni lignée, ni promesse. Rien n'indique qu'elle ait le droit de le faire. Elle le fait, et le texte l'enregistre.
+
+## Source
+
+410 + 7210 · אֵל רֳאִי

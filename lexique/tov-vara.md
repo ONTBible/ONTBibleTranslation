@@ -40,4 +40,4 @@ tov varaʿ · Tov varaʿ
 
 ## Source
 
-2896 b · טוֹב
+2896 b + 7451 b · טוֹב וָרָע

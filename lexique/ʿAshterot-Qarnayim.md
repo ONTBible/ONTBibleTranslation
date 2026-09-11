@@ -27,3 +27,7 @@ C'est la même sobriété que pour [[Hadoram]] chez [[Yoqtan]] : ==le corpus enr
 Ce qui s'y passe : la défaite des [[Refaim]].
 
 Les autres étapes : [[Ham]], [[Shaveh-Qiryatayim]], [[Seir]], [[ʾEl-Paran]].
+
+## Source
+
+6255 · עַשְׁתְּרֹת קַרְנַיִם

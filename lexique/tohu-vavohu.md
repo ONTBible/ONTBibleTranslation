@@ -15,3 +15,7 @@ D'où la suite, qui n'est pas une fabrication mais une ==mise en ordre==. **ʾEl
 Les deux mots reviennent ensemble beaucoup plus tard, chez un **naviʾ**, pour dire ce qu'un pays devient sous le jugement : la terre redevient ==tohu vavohu== (*tohu vavohu* / תֹהוּ וָבֹהוּ). Ce n'est pas qu'elle soit rasée — c'est que plus rien n'y tient sa place. Les villes sont là, les champs sont là, et le pays a cessé de fonctionner.
 
 Le **mabbul** raconte la même chose en action : quand la séparation des eaux lâche, le monde ne disparaît pas, il ==retourne à l'indistinct==. C'est pourquoi le récit du retrait des eaux reprend, geste pour geste, le vocabulaire du premier chapitre. Il faut refaire ce qui avait été fait : non pas produire, mais séparer et assigner de nouveau.
+
+## Source
+
+8414 + 922 · תֹהוּ וָבֹהוּ

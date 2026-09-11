@@ -23,3 +23,7 @@ Ce tracé n'est pas une fioriture. Il montre que la coalition ==nettoie la route
 Ce qu'il borne : l'expédition, à son point le plus méridional.
 
 Le désert dont il porte le nom : [[Paran]].
+
+## Source
+
+364 · אֵיל פָּארָן

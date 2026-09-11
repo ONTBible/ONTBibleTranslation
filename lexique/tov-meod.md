@@ -15,3 +15,7 @@ Ce que le texte constate à ce moment-là, c'est donc autre chose que la somme d
 C'est pourquoi le corpus ne réemploie jamais l'expression. Elle ne qualifie pas un objet, si excellent soit-il — elle qualifie ==un système complet en état de marche==, et il n'y en a qu'un.
 
 Et cela éclaire, par contraste, le seul ==lo tov== du récit : l'adam seul. Rien n'est cassé dans la pièce, tout y est **tov**. Ce qui manque est de l'ordre de l'ensemble — une intégration incomplète. Le premier défaut du monde n'est pas une faute : c'est un système qui n'est pas encore ==meod==.
+
+## Source
+
+2896 a + 3966 · טוֹב מְאֹד

@@ -15,3 +15,7 @@ C'est un geste qu'aucun de nos deux réflexes ne sait décrire. Ce n'est pas de 
 Le corpus procède ainsi partout où il croise le vocabulaire des voisins : il ne l'écarte pas, il le ==reclasse==. Ce que les autres tiennent pour un dieu parmi d'autres au sommet d'une assemblée devient le nom d'un seul, et l'assemblée devient son Conseil.
 
 Le titre reparaît ensuite dans le corpus chaque fois que la souveraineté d'en haut est en cause — face aux empires, face aux puissances qui se croient au sommet. Il ne se traduit pas : « le Très-Haut » fait un superlatif français là où l'hébreu porte un nom de dieu que tout le monde, autour, savait prononcer.
+
+## Source
+
+410 + 5945 b · אֵל עֶלְיוֹן
