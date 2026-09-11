@@ -349,11 +349,24 @@ barre latérale qui ne se ferme pas, un test qui rougit chez un seul. Elles
 restent chez elles, et le contrôle de concordance ne les compte pas comme une
 divergence.
 
+**Elles vivent dans `SYNCHRONISATION-locale.md`**, à côté de ce fichier — un par
+dépôt qui en porte, et il ne voyage jamais. Ce fichier-ci ne porte que le tronc.
+
 ### La marque
 
 Le titre d'une entrée locale se termine par `*(local)*` :
 
     ### 4 septembre 2026 — la barre flottante, construite puis écartée *(local)*
+
+**Cette marque a survécu au déménagement, et ce n'est pas une inertie.** Depuis
+que les entrées locales vivent dans un fichier à part, leur emplacement suffirait
+à les désigner — on pourrait croire la marque devenue inutile.
+
+Elle sert à deux choses que le fichier ne fait pas. Elle permet au contrôle de
+compter les entrées d'une copie **pas encore migrée**, qui les porte encore en
+ligne ; et elle reste visible **au moment où l'on écrit le titre**, c'est-à-dire
+au moment où l'on décide si ça traverse — avant d'avoir choisi dans quel fichier
+écrire.
 
 Trois raisons de la mettre là, et pas ailleurs :
 
