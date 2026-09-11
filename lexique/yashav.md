@@ -84,3 +84,7 @@ fiche devra être reprise à mesure.
 ## Formes
 
 yashav · yoshev · vayeshev
+
+## Source
+
+3427 · יָשַׁב

@@ -23,3 +23,7 @@ Enfin, c'est de cette racine que vient le nom que donne ==Hagar== — **ʾEl Ro�
 ## Formes
 
 vayar · vayirʾu · raʾah · vayarʾ · marʾeh · vayera · raʾiti · ureʾitiha · lirʾot · nirʾu · vayeraʾ ʾelav YHWH
+
+## Source
+
+7200 · וַיַּרְא

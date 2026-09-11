@@ -27,3 +27,7 @@ Le corpus ne commente pas ce silence. Il enregistre qu'une femme sait ce qu'elle
 Qui y passe : [[Hagar]], sur le chemin de [[Mitsrayim]].
 
 Ce qui s'y trouve : le puits de [[Beer-lachai-roi]].
+
+## Source
+
+7793 · שׁוּר

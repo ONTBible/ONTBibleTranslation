@@ -23,3 +23,7 @@ Le désert où la coalition passe devient donc ==le pays d'un fils d'[[ʾAvraham
 Où il paraît : dans [[ʾEl-Paran]], la borne méridionale de l'expédition.
 
 Qui l'habitera : [[Yishmaʿel]].
+
+## Source
+
+364 · פָּארָן

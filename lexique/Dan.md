@@ -23,3 +23,7 @@ Un nom qui dit le jugement finit donc par servir ==à mesurer une terre==.
 ## Voir aussi
 
 Ce qu'il pourrait identifier : [[Leshaʿ]], au septentrion de [[Kenaʿan]].
+
+## Source
+
+1835 · דָּן

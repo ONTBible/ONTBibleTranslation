@@ -25,3 +25,7 @@ Le corpus ne les reprend pas ailleurs. Le **Shem** parle seul, et c'est tout ce 
 Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[ʿAnamim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
 
 La même couleur dans la lignée : [[Put]], les guerriers.
+
+## Source
+
+3853 · לְהָבִים

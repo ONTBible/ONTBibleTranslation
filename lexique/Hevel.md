@@ -35,3 +35,7 @@ Le corpus s'en souviendra longtemps. *Toledot Adam ve-Chavah* reprend la scène 
 Sa maison : [[Chavah]] qui l'enfante, [[Qayin]] son frère, [[Shet]] qui lui est ==posé à sa place==.
 
 Ce que son **Shem** touche : la *minchah* qu'il apporte, la **chattat** tapie à la porte de son frère, et le **chataʾ** dont *Toledot* dit qu'il atteignit les fils.
+
+## Source
+
+1893 · הֶבֶל

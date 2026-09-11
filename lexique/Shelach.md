@@ -27,3 +27,7 @@ Et ce nom porte une logique qui traversera tout le corpus. De **YHWH** qui envoi
 Sa maison : [[ʾArpakhshad]] son père, [[ʿEver]] son fils ; plus haut [[Shem-fils-de-Noach]].
 
 Ce que son **Shem** touche : **shaliach**, et le **malʾakh** — tous deux définis par l'envoi, non par la nature.
+
+## Source
+
+7974 · שֶׁלַח

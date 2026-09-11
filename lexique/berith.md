@@ -15,3 +15,7 @@ Le mot que nous mettons dessus, « alliance », traîne l'idée d'un accord nég
 Ce que ça change pour lire la suite : une ==berith== n'est pas une condition. Ce n'est pas « si tu fais ceci, j'accorde cela ». C'est ==une structure==, posée, à l'intérieur de laquelle on se met à vivre — et qui ne dépend pas de la performance de celui qui l'habite. Le signe qui l'accompagne le confirme : l'arc dans la nuée n'est pas un rappel destiné aux hommes. Le texte dit que **YHWH** le verra et se souviendra. Le signe est pour lui.
 
 De là vient tout le reste du vocabulaire de fidélité — le **chesed**, la loyauté qu'on doit à l'intérieur d'un lien ; l'**ʾemunah**, la fidélité qui tient dans la durée. Aucun de ces mots n'a de sens hors d'une ==berith==. Ils décrivent comment on se tient dans une structure qu'un autre a dressée.
+
+## Source
+
+1285 · בְּרִית

@@ -23,3 +23,7 @@ Un nom qui dit ==la mise à part== devient ainsi ==le lieu où une génération 
 ## Voir aussi
 
 Ce qu'il borne : le puits de [[Beer-lachai-roi]], avec [[Bared]].
+
+## Source
+
+6946 · קָדֵשׁ

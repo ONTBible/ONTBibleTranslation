@@ -25,3 +25,7 @@ Et si l'identification est bonne, alors la première fois que Yeroushalayim para
 Son roi : [[Malki-tsedeq]].
 
 Où la rencontre a lieu : la vallée de [[Shaveh]].
+
+## Source
+
+8004 · שָׁלֵם

@@ -21,3 +21,7 @@ Le corpus change de traitement après les eaux : à partir de *Bereshit* 8, ==ad
 ## Formes
 
 adam · ha-adam · ba-adam · benot ha-adam · benei haʾadam · pera adam · adam ayin
+
+## Source
+
+120 · אָדָם

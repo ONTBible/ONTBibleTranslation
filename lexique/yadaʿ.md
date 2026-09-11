@@ -35,3 +35,7 @@ Il offre autre chose. ==Une modalité==, pas un contenu : décider soi-même de 
 ## Formes
 
 yada · vayeda · nedaʿ · yodeʿa · lada'at · ladaʿat
+
+## Source
+
+3045 · וַיֵּדַע

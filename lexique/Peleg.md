@@ -23,3 +23,7 @@ Et c'est par lui que passe la ligne. La branche qui mène à [[ʾAvraham]] est c
 Sa maison : [[ʿEver]] son père, [[Yoqtan]] son frère ; sa ligne mène à [[ʾAvraham]].
 
 Ce que son **Shem** annonce : la dispersion de [[Bavel]] en *Bereshit* 11.
+
+## Source
+
+6389 · פֶּלֶג

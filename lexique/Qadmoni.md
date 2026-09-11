@@ -46,3 +46,7 @@ La racine ailleurs : le Jardin planté *miqqedem*, les [[Keruvim]] postés à l'
 Les neuf autres de la liste : [[Qeni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
 Les autres peuples que le corpus nomme sans les raconter : [[Chorim]], [[Zouzim]], [[ʾEmim]] — tous des peuples d'avant.
+
+## Source
+
+6935 · הַקַּדְמֹנִי

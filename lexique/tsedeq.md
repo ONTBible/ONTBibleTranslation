@@ -17,3 +17,7 @@ Le français a fondu tout cela dans « justice », et le mot a pris une couleur 
 Le nom d'un homme le porte, et cet homme paraît une seule fois dans tout le corpus. ==Malki-tsedeq== — *malki* : mon roi ; *tsedeq* : l'ordre juste. Il sort à la rencontre d'==Avram== avec du pain et du vin, il est **Kohen** d'**ʾEl ʿElyon**, il bénit, il reçoit le dixième, et il disparaît. Ni lignée, ni sanctuaire, ni loi : la fonction avant l'institution, et le nom dit ce qu'il tient.
 
 Le **mishpat**, enfin, est ce qui rétablit le ==tsedeq== quand il s'est rompu. L'un est l'état, l'autre l'acte — et le corpus les nomme presque toujours ensemble, parce qu'un ordre sans décision qui le redresse ne tient pas une génération.
+
+## Source
+
+6664 · צֶדֶק

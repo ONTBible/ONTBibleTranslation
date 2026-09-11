@@ -23,3 +23,7 @@ Le chapitre assigne à la lignée de [[Cham]] la fécondité et la civilisation 
 Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Sevaʾ]], [[Chavilah]], [[Savtaʾ]], [[Savtekhaʾ]].
 
 Ses fils : [[Shevaʾ]] et [[Dedan]].
+
+## Source
+
+7484 · רַעְמָה

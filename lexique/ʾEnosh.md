@@ -39,3 +39,7 @@ Sa maison : [[Shet]] son père, [[Chavah]] sa grand-mère.
 Sa ligne : elle mène à [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]] et [[Noach]].
 
 Ce que son **Shem** touche : **l'Être façonné du sol**, dont il est l'autre face — le mandat d'un côté, la fragilité de l'autre.
+
+## Source
+
+583 · אֱנוֹשׁ

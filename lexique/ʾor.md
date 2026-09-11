@@ -19,3 +19,7 @@ L'ONT écrit la ==or== avec la majuscule là où c'est l'Ordre lui-même qui est
 ## Formes
 
 or · haʾor
+
+## Source
+
+216 · אוֹר

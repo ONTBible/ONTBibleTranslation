@@ -15,3 +15,7 @@ Voilà pourquoi ces deux-là sont des intraduisibles et non des mots difficiles.
 Ce qui change la portée de ce qui suit. Quand le texte dit que l'==Ish== quittera son père et sa mère et s'attachera à sa **ʾIshah** pour devenir une seule chair, il ne prescrit pas une institution : il constate un retour. Ils viennent d'un seul, ils redeviennent un seul.
 
 Et quand la fracture arrive, elle se lit d'abord là. Interrogé, l'==Ish== répond : ==la Ishah que tu as donnée pour être avec moi==. En trois mots il la met à distance et met **YHWH** en cause. Ce n'est pas une lâcheté de plus dans un récit qui en compterait beaucoup : c'est le vis-à-vis qui se défait, et le mot qui perd ce qui le tenait.
+
+## Source
+
+376 · אִישׁ

@@ -25,3 +25,7 @@ Un peuple de la table des nations reçoit donc, comme Israël, ==une dispersion 
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʾAssur]], [[ʾArpakhshad]], [[Loud]], [[ʾAram]].
 
 Où le corpus le reprend : *Yeshayahu* 21, et l'oracle de *Yirmeyahu* 49.
+
+## Source
+
+5867 a · עֵילָם

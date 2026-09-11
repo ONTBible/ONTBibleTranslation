@@ -33,3 +33,7 @@ Le texte ne dit pas que l'un porte l'image et que l'autre l'accompagne. Il dit q
 ## Formes
 
 zakhar · zekharim · hazakhar · uzkhar
+
+## Source
+
+2145 · זָכָר

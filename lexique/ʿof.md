@@ -15,3 +15,7 @@ Le texte prend soin de préciser où il vole : *sur la face du **raqiaʿ**, dans
 Il partage d'ailleurs son jour avec les vivants des eaux, ce qui étonne toujours — jusqu'à ce qu'on voie la structure. Les trois premiers jours ==délimitent== trois domaines : la lumière et l'obscurité, les eaux d'en haut et d'en bas, le sec. Les trois suivants les ==peuplent==, dans le même ordre : luminaires, puis vivants des eaux et de l'air, puis vivants de la terre. Le cinquième jour peuple le deuxième — d'où poissons et oiseaux ensemble.
 
 Un mot voisin, **kanaf**, désigne l'aile : ce qui ==permet== d'habiter ce domaine-là.
+
+## Source
+
+5775 · עוֹף

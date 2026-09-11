@@ -33,3 +33,7 @@ Qui la fonde : [[Nimrod]], dans [[Shinʿar]] — avec [[ʾErekh]] et [[ʾAkkad]]
 Ce qui monte contre elle : [[Madai]], [[ʾAshkenaz]], [[ʾArarat]].
 
 Ce que son **Shem** touche : le *balal* et le **Shem** que les hommes se font en *Bereshit* 11.
+
+## Source
+
+894 · בָּבֶל

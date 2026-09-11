@@ -33,3 +33,7 @@ Il faut le lire pour ce que c'est : ==une carte des nations==, non un jugement s
 Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yafet]] ses frères.
 
 Ce que sa descendance touche : ==Mitsrayim==, ==Kenaʿan==, et la table des nations de *Bereshit* 10.
+
+## Source
+
+2526 · חָם

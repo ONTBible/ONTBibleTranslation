@@ -15,3 +15,7 @@ L'ONT rend donc ==bara== par ==orchestrer==, et le mot vaut d'être pesé. Un ch
 Le verbe revient à trois moments seulement dans la première page, et le compte n'est pas fortuit : pour le commencement, pour les vivants des eaux et du ciel, pour l'adam. Trois seuils, trois entrées d'un nouveau type d'être dans le monde — le reste se fait par *asah*, réaliser, et par *badal*, séparer.
 
 Et il reparaît juste après les eaux, quand tout recommence. Ce n'est pas un hasard de vocabulaire : le **mabbul** avait défait l'ordre, et il faut de nouveau l'inaugurer.
+
+## Source
+
+1254 a · בָּרָא

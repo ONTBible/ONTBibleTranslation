@@ -23,3 +23,7 @@ Le corpus ne relie pas l'homme et le torrent. Mais il emploie deux fois le même
 Ses frères d'alliance : [[ʿAner]] et [[Mamreʾ]].
 
 Ce que son **Shem** touche : le torrent d'Eshkol et la grappe des explorateurs.
+
+## Source
+
+812 · אֶשְׁכֹּל

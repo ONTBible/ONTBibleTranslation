@@ -25,3 +25,7 @@ Les trois maisons de [[Noach]] tiennent chacune un rôle dans le même événeme
 Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Yavan]], [[Tuval]], [[Meshekh]], [[Tiras]].
 
 Ce sur quoi il agit : [[Bavel]], et le **mishpat** que les *neviʾim* prononcent.
+
+## Source
+
+4074 · מָדַי

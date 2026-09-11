@@ -25,3 +25,7 @@ Ce que la généalogie de *Bereshit* 11 fait, en revanche, mérite d'être vu : 
 ## Voir aussi
 
 Sa ligne : [[Peleg]] plus haut, [[Serug]] son fils, puis [[Nachor]], [[Terach]] et [[ʾAvraham]].
+
+## Source
+
+7466 · רְעוּ

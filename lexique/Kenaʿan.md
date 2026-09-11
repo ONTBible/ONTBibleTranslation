@@ -41,3 +41,7 @@ Sa maison : [[Cham]] son père, [[Noach]] son grand-père, [[Shem-fils-de-Noach]
 Ce que son **Shem** touche : le *arur* prononcé sur lui, l'*avon* de ses peuples, et la terre promise qu'il nomme.
 
 Ce qui reste à écrire : le pays traverse tout *Bereshit* 12 à 50 ; cette fiche s'enrichira à mesure que la couche y sera portée.
+
+## Source
+
+3667 a · כְּנָעַן

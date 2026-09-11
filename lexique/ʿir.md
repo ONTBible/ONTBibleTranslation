@@ -98,3 +98,7 @@ un mur.
 ## Formes
 
 ʿir · haʿir
+
+## Source
+
+5892 b · עִיר

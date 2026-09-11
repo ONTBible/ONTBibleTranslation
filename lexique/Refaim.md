@@ -23,3 +23,7 @@ Le texte ne l'explique jamais. ==Il laisse des restes.==
 Ceux qu'on frappe avec eux : [[Zouzim]], [[ʾEmim]], Horiens.
 
 Ce dont ils sont le vestige : les **Nefilim** et les **gibborim** de *Bereshit* 6.
+
+## Source
+
+7497 b · הָרְפָאִים

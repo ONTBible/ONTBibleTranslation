@@ -49,3 +49,7 @@ Le départ : [[Ur Kasdim]], la ville d'où la maison sort.
 Ceux qui s'y arrêtent : [[Terach]] qui y meurt, [[ʾAvram]] et [[Sarai]] qui en repartent, [[Lot]] qui les suit, [[Nachor]] et [[Milkah]] qui y restent.
 
 La destination jamais atteinte par [[Terach]] : [[Kenaʿan]].
+
+## Source
+
+2771 a · חָרָן

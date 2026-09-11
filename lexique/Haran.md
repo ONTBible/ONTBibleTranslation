@@ -59,3 +59,7 @@ Sa maison : [[Terach]] son père, [[ʾAvraham]] et [[Nachor]] ses frères, [[Lot
 Le lieu de sa mort : [[Ur Kasdim]], la ville d'où la maison sort et où lui reste.
 
 À ne pas confondre : [[Charan]], la ville où le voyage s'arrête. ==Un het là où lui porte un he== — deux **Shem** que l'hébreu n'a jamais confondus, et que l'ONT distingue depuis le 10 septembre 2026.
+
+## Source
+
+2039 · הָרָן

@@ -31,3 +31,7 @@ C'est aussi devant elle, avec [[Tsillah]], que son **ʾish** chante le premier p
 Sa maison : [[Lamekh-fils-de-Metoushael]] son **ʾish**, [[Tsillah]] l'autre **ʾishah**, [[Yaval]] et [[Youval]] ses fils.
 
 Ce que son **Shem** touche : celui de [[Tsillah]] et celui de [[Naʿamah]] — les trois femmes de cette lignée, nommées par ce qu'elles sont.
+
+## Source
+
+5711 · עָדָה

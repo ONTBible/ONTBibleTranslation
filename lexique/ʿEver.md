@@ -25,3 +25,7 @@ La maison qui portera la **berith** et celle qui peuplera l'Arabie ==partent du 
 Sa maison : [[Shelach]] son père, [[ʾArpakhshad]] son grand-père ; ses fils [[Peleg]] et [[Yoqtan]].
 
 Ce que son **Shem** donne : *ivri*, et le nom qu'[[ʾAvraham]] portera.
+
+## Source
+
+5677 · עֵבֶר

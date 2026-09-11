@@ -31,3 +31,7 @@ Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [
 Son inséparable : [[Tuval]].
 
 Où le corpus le reprend : *Tehilim* 120, et l'assemblée de Gog en *Yehezqel* 38.
+
+## Source
+
+4902 · מֶשֶׁךְ

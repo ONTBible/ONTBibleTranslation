@@ -27,3 +27,7 @@ Le peuple de ==Moav== sera l'adversaire constant d'Israël. Et pourtant : c'est 
 Sa maison : [[Lot]] son père et grand-père, [[Ben-Ammi]] son demi-frère.
 
 Ce qui en sortira : Ruth la Moabite, et par elle David.
+
+## Source
+
+4124 · מוֹאָב

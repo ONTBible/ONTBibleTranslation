@@ -91,3 +91,7 @@ la référence, qui pose le cosmos comme un édifice à degrés de proximité.
 ## Formes
 
 mayim · hamayim
+
+## Source
+
+4325 · מַיִם

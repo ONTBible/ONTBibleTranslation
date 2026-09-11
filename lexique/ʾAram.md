@@ -25,3 +25,7 @@ Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʿElam]], [[ʾAssur
 Ses fils : [[ʿOust]], [[Choul]], [[Geter]], [[Mash]].
 
 Ce que sa langue porte : le *Sefar Gibbaraya*, et des parties de *Daniel* et d'*Ezra*.
+
+## Source
+
+758 · אֲרָם

@@ -45,3 +45,7 @@ Ce qu'elle était : [[Sarai]].
 Sa maison : [[ʾAvraham]] son **ʾish**, ==Yitschaq== son fils, [[Hagar]] et ==Ishmaʿel== qu'elle renvoie.
 
 Ce que son **Shem** touche : la reformulation simultanée de celui d'[[ʾAvraham]], et la **berith** de *Bereshit* 17.
+
+## Source
+
+8283 · שָׂרָה

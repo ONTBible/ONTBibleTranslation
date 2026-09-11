@@ -24,3 +24,7 @@ Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], 
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
 
 Ce qu'elle deviendra : [[Tsoʿar]], le refuge de [[Lot]].
+
+## Source
+
+1106 b · בֶּלַע

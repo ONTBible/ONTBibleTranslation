@@ -49,3 +49,7 @@ Ce qu'elle devient : [[Sarah]].
 Sa maison : [[ʾAvram]] son **ʾish**, [[Hagar]] sa **shifchah**, ==Ishmaʿel== qu'elle n'a pas porté.
 
 Ce que son histoire touche : la **shifchah** et sa sphère, et le *banah* de *Bereshit* 2.
+
+## Source
+
+8297 · שָׂרַי

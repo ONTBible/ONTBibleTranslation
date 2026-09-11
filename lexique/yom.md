@@ -84,3 +84,7 @@ de la référence, qui fixent la formule et les deux racines *arav* et *baqar*.
 ## Formes
 
 yom · beyom
+
+## Source
+
+3117 · יוֹם

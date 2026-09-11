@@ -27,3 +27,7 @@ Sa place est ce qui frappe. Il est entre l'homme qui vit sous la tente et celui 
 Sa maison : [[ʿAdah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Yaval]] son frère, [[Tuval-Qayin]] et [[Naʿamah]] du second lit.
 
 Ce que sa fondation touche : le chant de son père, premier poème du corpus — et le premier à dire le sang.
+
+## Source
+
+3106 · יוּבָל

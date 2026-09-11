@@ -21,3 +21,7 @@ Le corpus la nomme d'abord comme ==un repère de carte==. Ce qu'elle deviendra e
 Sa position : la borne du midi-occident, avec [[Gerar]].
 
 Ceux qui l'occuperont : [[Pelishtim]].
+
+## Source
+
+5804 · עַזָּה

@@ -53,3 +53,7 @@ Le pays et sa maison : [[Mitsrayim]], dont le **Shem** est un duel — les deux 
 La scène : [[ʾAvram]] qui descend, [[Sarai]] qui est prise, et la racine *sar* qui les relie sans que le français l'entende.
 
 Les rois qui, eux, sont nommés : [[Malki-tsedeq]], [[Kedorlaomer]], [[ʾAmrafel]], [[Beraʿ]] — la comparaison est ce qui rend le silence lisible.
+
+## Source
+
+6547 · פַּרְעֹה

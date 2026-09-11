@@ -22,3 +22,7 @@ C'est ce qui distingue *Bereshit* 14 du reste du cycle : là où les autres chap
 
 Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
 Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+746 a · אַרְיוֹךְ

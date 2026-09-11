@@ -19,3 +19,7 @@ De là, tout le corpus devient lisible. Changer le ==Shem== de quelqu'un, ce n'e
 Le mot désigne aussi, par extension, ce que le renom porte au loin. Les **gibborim** d'avant les eaux sont *anshei ha-shem*, « les hommes du ==Shem== » : leur nom court, et rien derrière — un ==Shem== de démesure, non d'ordre. La distinction est fine et le corpus la tient partout.
 
 Un dernier point, qui explique une bizarrerie de la traduction. Le même mot sert de nom propre à l'un des fils de ==Noach==. La casse ne les sépare pas en hébreu, et le corpus ONT mêle les deux sens sur 213 occurrences : c'est pourquoi le balisage de ce mot-là reste un arbitrage verset par verset, réservé à l'auteur, au lieu d'être posé en masse par une machine.
+
+## Source
+
+8034 · שֵׁם
