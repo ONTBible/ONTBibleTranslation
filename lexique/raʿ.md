@@ -13,3 +13,7 @@ Ce que « le Mal » recouvre, avec sa majuscule, est donc une importation. La pe
 Relis alors ce qui précède les eaux. Le texte ne dit pas que les hommes sont devenus méchants au sens où nous l'entendrions. Il dit que ==toute l'inclination des pensées de leur cœur n'était que ra tout le jour== — c'est-à-dire : plus rien, chez eux, ne fonctionnait comme cela devait. Ce n'est pas une accusation morale, c'est un ==constat de ruine structurelle==. Et ce qui suit n'est pas une punition mais la conséquence : un monde qui ne tient plus se défait, et les eaux d'en haut rejoignent les eaux d'en bas.
 
 L'arbre, enfin. Il n'offre pas la connaissance du Bien et du Mal, mais la **daʿat** du **tov** et du ==ra== : la capacité de trancher soi-même ce qui est ajusté et ce qui ne l'est pas. Le glissement est minuscule et il change tout — l'homme ne devient pas capable de faute, il se fait ==juge de l'ordre== depuis une place qui n'est pas la sienne.
+
+## Source
+
+7451 a · רַע

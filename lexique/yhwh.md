@@ -19,3 +19,7 @@ Voici maintenant pourquoi personne ne sait le prononcer, et ce n'est pas une arc
 Reste ce que l'ONT refuse de faire : rendre ==YHWH== par « le Seigneur ». Le procédé est ancien et respectable, et il a un coût que le lecteur ne peut pas voir — il ==efface la différence entre un nom propre et un titre==, et rend illisibles les pages qui jouent précisément sur cet écart, où le texte dit **ʾElohim** à un verset et ==YHWH== au suivant parce que la relation vient de changer de registre.
 
 Le nom se combine, et chaque combinaison ouvre une dimension : ==YHWH== **ʾEl ʿElyon**, quand ==Avram== reconnaît dans le dieu très-haut de ==Malki-tsedeq== son propre **ʾElohim** ; **ʾEl Shaddai**, aux moments où l'impossible humain est accompli ; **ʾAdonai** ==YHWH==, quand la maîtrise souveraine est en cause ; **ʾEl Roï**, « **ʾEl** qui me voit » — le seul nom divin de toute la Bible donné par une femme, ==Hagar==, esclave égyptienne sans droits, seule dans un désert.
+
+## Source
+
+3068 · יְהוָה
