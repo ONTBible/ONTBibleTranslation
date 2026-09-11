@@ -1,5 +1,11 @@
 # Lehabim
 
+## Prononciation
+
+*Le-ha-BIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 ## Le Shem
 
 De *lahav* (*lahav* / לַהַב) — ==la flamme==, et aussi ==la lame== : ce qui brille et ce qui tranche, dans un seul mot.
@@ -16,6 +22,10 @@ Le corpus ne les reprend pas ailleurs. Le **Shem** parle seul, et c'est tout ce 
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[Anamim]], [[Naftuhim]], [[Patrusim]], [[Kasluhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Loudim]], [[ʿAnamim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
 
 La même couleur dans la lignée : [[Put]], les guerriers.
+
+## Source
+
+3853 · לְהָבִים

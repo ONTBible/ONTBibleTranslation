@@ -1,5 +1,10 @@
 # kavod
 
+## Prononciation
+
+*ka-VOD* — deux syllabes, accent sur la seconde.
+
+Aucune difficulté de gorge. Le *o* est fermé comme dans « pot », et ==surtout pas nasal== : on dit *ka-VOD*, jamais « ka-von ». Le *d* final se prononce.
 Prends une pierre dans la main. Ce que tu sens d'abord, avant sa couleur ou sa forme, c'est qu'elle ==pèse== — et le mot hébreu pour cela est *kaved*, lourd. C'est de là que vient la ==kavod== (*kavod* / כָּבוֹד), et il faut partir de la main pour comprendre le reste.
 
 Car ce que l'hébreu mesure avec ce mot, ce n'est pas une brillance : c'est ==le poids d'une réalité dans l'ordre du monde==. Sa densité, sa substance, ce qu'elle fait basculer quand on la met dans la balance. Un homme a de la ==kavod== quand sa parole pèse, quand son absence se remarque, quand ce qu'il décide a des conséquences. Une terre en a quand elle porte. Le mot ne décrit jamais un éclat — il décrit ==une consistance==.
@@ -11,3 +16,7 @@ Son contraire éclaire le tout. C'est *qalal* : alléger, réduire le poids. Qua
 Le même mot vaut du bas en haut de l'échelle, et c'est ce qui frappe : la ==kavod== d'un homme, celle d'une terre, celle d'un roi, et la ==kavod== de **YHWH** lui-même. Pas deux registres, pas de saut vers le figuré. La même logique de pesanteur, portée jusqu'à ce qui pèse le plus.
 
 C'est pourquoi, lorsque la ==kavod== de **YHWH** remplit un lieu, personne ne peut y rester debout pour son service. Ce n'est pas que la lumière éblouisse : c'est qu'il n'y a plus de place. Quelque chose de trop dense occupe le volume.
+
+## Source
+
+3519 · כָּבוֹד

@@ -1,23 +1,29 @@
 # Beer-lachai-roi
 
+## Prononciation
+
+*Be-ER la-CHAI ro-I* — 3 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
-Un nom en trois morceaux : *be'er*, ==le puits== ; *lachai*, ==du Vivant== ; *ro'i*, ==qui me voit==.
+(*Beer-lachai-roi* / בְּאֵר לַחַי רֹאִי). Un nom en trois morceaux : *beʾer*, ==le puits== ; *lachai*, ==du Vivant== ; *roʿi*, ==qui me voit==.
 
 ==Le puits du Vivant qui me voit.==
 
 ## Ce que le corpus en fait
 
-C'est [[Hagar]] qui le donne, après avoir nommé **El Roï**.
+C'est [[Hagar]] qui le donne, après avoir nommé **ʾEl Roï**.
 
-Et il faut mesurer ce qui se passe là. Une **shiphchah** égyptienne, enceinte, en fuite, sans statut ni recours, ==donne un **Shem** à **YHWH**== — le seul nom divin de tout le corpus donné par un être humain. Puis ==elle nomme le lieu== d'après ce qu'elle vient de comprendre.
+Et il faut mesurer ce qui se passe là. Une **shifchah** égyptienne, enceinte, en fuite, sans statut ni recours, ==donne un **Shem** à **YHWH**== — le seul nom divin de tout le corpus donné par un être humain. Puis ==elle nomme le lieu== d'après ce qu'elle vient de comprendre.
 
 Le puits garde donc ==la trace d'une rencontre== qui n'a eu aucun témoin. Rien ne s'y est bâti, aucun **mizbeach** n'y est dressé. Seul le nom demeure.
 
-Et le corpus y revient : c'est près de ce puits que [[Yitshaq]] habitera, bien plus tard. ==Le fils de la promesse s'installe là où la servante chassée avait été vue.==
+Et le corpus y revient : c'est près de ce puits que [[Yitschaq]] habitera, bien plus tard. ==Le fils de la promesse s'installe là où la servante chassée avait été vue.==
 
 ## Voir aussi
 
-Qui le nomme : [[Hagar]], après **El Roï**.
+Qui le nomme : [[Hagar]], après **ʾEl Roï**.
 
 Où il se trouve : entre [[Qadesh]] et [[Bared]], sur le chemin de [[Shur]].

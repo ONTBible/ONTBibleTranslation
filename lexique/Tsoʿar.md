@@ -1,0 +1,39 @@
+# Tsoʿar
+
+## Prononciation
+
+*Tso-ʿAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
+## Le Shem
+
+(*Tsoʿar* / צֹעַר). De *tsaʿar* — ==être petit==. ==La petite==, et le nom vient d'une phrase.
+
+Le corpus l'écrit de deux façons, et ==les deux sont justes== : צֹעַר et צוֹעַר. Ce n'est pas une hésitation — c'est l'hébreu qui écrit ses voyelles longues tantôt avec leur lettre-support, tantôt sans, et les deux formes sont attestées au même titre dans le texte reçu. ==La seconde est celle du verset qui donne le nom== ; la première est celle qu'on trouve partout ailleurs.
+
+Le lecteur qui touche l'une ou l'autre arrive ici : ==c'est la translittération qui mène à une fiche, non l'écriture==, et elle est la même des deux côtés.
+
+## Ce que le corpus en fait
+
+C'est [[Lot]] qui le donne, et la scène est étrange.
+
+Les **malʾakhim** le pressent de fuir vers la montagne. Il refuse — il a peur que le mal ne l'atteigne et qu'il ne meure. Et il négocie : *voici, cette ville est proche pour y fuir, et ==elle est petite== ; que je m'y sauve, n'est-elle pas petite ?*
+
+La ville reçoit son **Shem** de ==l'argument par lequel il l'obtient==.
+
+Et il y monte, puis il en sort quand même, parce qu'il a peur d'y habiter — et il finit dans une grotte de la montagne, celle-là même qu'il avait refusée.
+
+Le corpus ne commente pas. Il enregistre qu'un homme a négocié un refuge, l'a obtenu, ==et n'y est pas resté==.
+
+## Voir aussi
+
+Qui la nomme : [[Lot]], en la demandant.
+
+Ce qu'elle échappe : le **mishpat** sur [[Sedom]] et [[ʿAmorah]].
+
+## Source
+
+6820 · צוֹעַר

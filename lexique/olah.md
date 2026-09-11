@@ -1,5 +1,11 @@
 # olah
 
+## Prononciation
+
+*o-LA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *o-LA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
 Une bête est placée sur le **mizbeach**, et le feu la prend tout entière. Rien n'est mis de côté, rien n'est mangé, rien ne revient à personne — et de tout cela il ne reste qu'une chose qui bouge : ==la fumée qui monte==.
 
 Le nom de l'offrande vient de là. La racine *alah* veut dire monter, s'élever ; l'==olah== est ==celle qui monte==. Le mot ne décrit ni la mort de la bête, ni son sang, ni le geste du **Kohen** : il décrit ==la direction==.
@@ -10,4 +16,8 @@ Sa première apparition dans le corpus se situe à un endroit qui compte. ==Noac
 
 Et le texte ajoute une phrase qui déroute : **YHWH** ==respira l'odeur apaisante==. Le verbe vient de רו״ח, les consonnes de la **Ruach**. Ce qui montait de la Terre est reçu par un souffle — l'offrande et celui qui la reçoit partagent la même racine.
 
-Pluriel **olot**. Le corpus la laisse en hébreu partout.
+Pluriel **ʿolot**. Le corpus la laisse en hébreu partout.
+
+## Source
+
+5930 a · עֹלָה

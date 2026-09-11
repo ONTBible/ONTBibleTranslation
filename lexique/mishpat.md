@@ -1,5 +1,11 @@
 # mishpat
 
+## Prononciation
+
+*mish-PAT* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 La porte d'une ville, le matin. C'est là que les anciens s'assoient, sur les bancs de pierre, dans le passage où tout le monde entre et sort. Deux hommes se présentent avec une affaire de champ, de bête perdue, de dette. On écoute, on regarde, on tranche — devant tout le monde, sur place, dans le cas précis qui est posé. Ce qui sort de là s'appelle un ==mishpat== (*mishpat* / מִשְׁפָּט).
 
 Il n'y a ni tribunal, ni code, ni robe. Il y a une porte, des anciens et une situation concrète. Garde-le en tête : c'est ce qui sépare le mot de tout ce que nous mettons dessous.
@@ -10,4 +16,8 @@ Le mot va donc rarement seul. Il forme un couple avec **tsedaqah**, et le corpus
 
 De là, le titre le plus lourd du corpus. Quand ==Avraham== plaide pour ==Sedom== et lance ==le shofet de toute la Terre ne rendrait-il pas le mishpat ?==, il ne demande pas si **YHWH** est un être juste dans l'absolu. Il demande s'il ==rendra la décision==, dans cette affaire-là, sur cette ville-là. La question porte sur un acte, pas sur une qualité — et c'est ce qui la rend possible.
 
-C'est aussi la fonction du **navi**, qu'on prend d'ordinaire pour un annonceur d'avenir : il regarde ce qui est, il lit où l'alliance est tenue ou trahie, et il ==prononce le mishpat== sur ce qu'il voit. Le pluriel **mishpatim** désigne, lui, les décisions déjà rendues et devenues règles — une jurisprudence avant la loi.
+C'est aussi la fonction du **naviʾ**, qu'on prend d'ordinaire pour un annonceur d'avenir : il regarde ce qui est, il lit où l'alliance est tenue ou trahie, et il ==prononce le mishpat== sur ce qu'il voit. Le pluriel **mishpatim** désigne, lui, les décisions déjà rendues et devenues règles — une jurisprudence avant la loi.
+
+## Source
+
+4941 · מִשְׁפָּט

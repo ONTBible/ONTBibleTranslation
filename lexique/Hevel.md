@@ -1,5 +1,11 @@
 # Hevel
 
+## Prononciation
+
+*He-VEL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 ## Le Shem
 
 Prononcez-le : une expiration, presque rien. *Hevel* (*Hevel* / הֶבֶל) — c'est le mot de la buée sur une vitre froide, du souffle qu'on voit dans l'air d'hiver et qui n'est déjà plus là.
@@ -20,12 +26,16 @@ C'est un silence délibéré, et la règle de l'ONT est de ne pas le combler. On
 
 Puis il est tué, et le récit fait une chose que rien ne préparait.
 
-Son sang ==crie== depuis l'*adamah* (*adamah* / אֲדָמָה). Le sol qui l'a bu devient témoin, et le cri monte. Celui dont le **Shem** dit ce qui ne se retient pas est le seul de ce chapitre dont la voix ne s'éteint pas.
+Son sang ==crie== depuis l'*adamah* (*ʾadamah* / אֲדָמָה). Le sol qui l'a bu devient témoin, et le cri monte. Celui dont le **Shem** dit ce qui ne se retient pas est le seul de ce chapitre dont la voix ne s'éteint pas.
 
-Le corpus s'en souviendra longtemps. *Toledot Adam ve-Chavah* reprend la scène — le sang versé hors de sa place, le sol concret devenu témoin — et en tire que le **chata** entré au Jardin ==atteignit les fils==. La rupture ne reste pas où elle a commencé.
+Le corpus s'en souviendra longtemps. *Toledot Adam ve-Chavah* reprend la scène — le sang versé hors de sa place, le sol concret devenu témoin — et en tire que le **chataʾ** entré au Jardin ==atteignit les fils==. La rupture ne reste pas où elle a commencé.
 
 ## Voir aussi
 
 Sa maison : [[Chavah]] qui l'enfante, [[Qayin]] son frère, [[Shet]] qui lui est ==posé à sa place==.
 
-Ce que son **Shem** touche : la *minchah* qu'il apporte, la **chattat** tapie à la porte de son frère, et le **chata** dont *Toledot* dit qu'il atteignit les fils.
+Ce que son **Shem** touche : la *minchah* qu'il apporte, la **chattat** tapie à la porte de son frère, et le **chataʾ** dont *Toledot* dit qu'il atteignit les fils.
+
+## Source
+
+1893 · הֶבֶל

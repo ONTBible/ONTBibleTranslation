@@ -1,5 +1,11 @@
 # tevilah
 
+## Prononciation
+
+*te-vi-LA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *te-vi-LA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
 On descend dans l'eau. On disparaît entièrement — la racine *taval* veut dire plonger, immerger, être recouvert. Puis on remonte. Le geste dure quelques secondes et il n'a rien de compliqué : c'est ==le corps qui fait ce que la teshuvah demande==.
 
 Car la **teshuvah** est un demi-tour : on allait dans un sens, on revient. Elle se voit à la trajectoire d'une vie, sur des mois. La ==tevilah== (*tevilah* / טְבִילָה) la rend visible d'un coup, dans un bassin — on entre d'un côté, on ressort de l'autre, et l'on est passé par un point où l'on n'était plus visible.

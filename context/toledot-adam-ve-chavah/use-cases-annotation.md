@@ -23,15 +23,15 @@
 ## Détail des use cases
 
 ### UC0 — Noms divins *(le plus sacré)*
-**Membres :** **YHWH**, **Elohim**, **Adonai**, **El Elyon**, **El Shaddai**, **El Roï**, et les composés (**YHWH** **Elohim**, **YHWH** **El Elyon**…).
+**Membres :** **YHWH**, **ʾElohim**, **ʾAdonai**, **ʾEl ʿElyon**, **ʾEl Shaddai**, **ʾEl Roï**, et les composés (**YHWH** **ʾElohim**, **YHWH** **ʾEl ʿElyon**…).
 - **N1** : toujours en hébreu, en **gras**, majuscule ; **jamais traduits**.
 - **N3** : les Fondations le portent à chaque occurrence ou presque ; plancher = UC2-b (≥ 1×/chapitre).
 - **N2** : la **glose fondatrice** sur le Nom est donnée **une seule fois dans tout le corpus** (décision §7, à traiter avec l'auteur), non répétée par unité.
-- **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **Elohim**) ; forme construite laissée en hébreu (*laYHWH*…).
+- **Spécificités** : formes composées **juxtaposées sans ponctuation** (**YHWH** **ʾElohim**) ; forme construite laissée en hébreu (*laYHWH*…).
 
 ### UC1 — Intraduisible
-**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **ra**, **berith**, **She'ol**, **teshuvah**, **merkavah**, **ha-satan**, **mal'akh**, **mishpat**, **emunah**, **tsedeq**… (liste §2.5 + apports par livre).
-- **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **She'ol**, **mal'akh**).
+**Membres :** **kavod**, **Ruach**, **Nefesh**, **Neshamah**, **Shem**, **tov**, **raʿ**, **berith**, **Sheʾol**, **teshuvah**, **merkavah**, **ha-satan**, **malʾakh**, **mishpat**, **ʾemunah**, **tsedeq**… (liste §2.5 + apports par livre).
+- **N1** : le mot **est** l'hébreu (gras) — jamais traduit. Le gras **est** la translittération exacte (apostrophes comprises : **Sheʾol**, **malʾakh**).
 - **N3** : 1re occ. de l'unité (réappliqué si utile).
 - **N2** : 1re occ.
 
@@ -47,7 +47,7 @@
 - **N3 + N2** : à la **1re occurrence de l'unité**, puis le rendu français nu.
 
 ### UC4 — Nom propre
-**Membres :** Adam, Chavah, Shet, Hevel, Qayin, Mikha'el, Eden, lieux.
+**Membres :** Adam, Chavah, Shet, Hevel, Qayin, Mikhaʾel, Eden, lieux.
 - **N1** : le nom (non gras).
 - **N3** : 1re occ. **N2** : étymologie à la 1re occ. + glose d'identification maintenue sur les **5 premières occurrences ONT-wide** (§4.12).
 

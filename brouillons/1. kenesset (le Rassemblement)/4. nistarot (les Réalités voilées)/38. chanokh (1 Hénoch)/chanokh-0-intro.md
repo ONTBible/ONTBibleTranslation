@@ -7,8 +7,8 @@
 
 Titre & **Shem** — *Chanokh* (חֲנוֹךְ) : de *chanakh* (חָנַךְ), ==inaugurer, mettre en service==. Le **Shem** dit le passage de l'achevé au servant — l'instant où une chose bâtie commence à faire ce pour quoi elle a été bâtie. La fiche de [[Chanokh-qui-marche-avec-Elohim]] en porte le détail, et une seconde lecture que le corpus tire du même mot : ==le dédicacé, l'initié== — celui qu'on a ouvert à ce qu'il ne verrait pas seul.
 *Régime d'auteur* — Restitution (récit sous le **Shem** de [[Chanokh-qui-marche-avec-Elohim]] — *voir plus bas*).
-*Thème* — Que vit celui que **Elohim** prit, et qui ne mourut pas ?
-*Date d'émergence* — les jours d'avant le **mabbul**, à la septième génération depuis l'**adam** : ce que *Bereshit* 5 contracte en six versets.
+*Thème* — Que vit celui que **ʾElohim** prit, et qui ne mourut pas ?
+*Date d'émergence* — les jours d'avant le **mabbul**, à la septième génération depuis l'**ʾadam** : ce que *Bereshit* 5 contracte en six versets.
 *Date de transmission* — courante au Second Temple, et pas marginalement : Qumrân en garde plusieurs copies, *Yovelim* la connaît, l'*Igeret Yehudah* la cite comme **davar**.
 *Date de consignation* — araméen, IIIᵉ–Iᵉʳ siècle avant l'ère, par couches — le *Livre des Veilleurs* étant la plus ancienne.
 
@@ -16,7 +16,7 @@ Titre & **Shem** — *Chanokh* (חֲנוֹךְ) : de *chanakh* (חָנַךְ), =
 
 ## Contexte historique
 
-*Ce livre est le deuxième des Nistarot dans l'ONT* — n° 38 du corpus, mode de la ==traversée architecturale==. Il précède le *Chazon Avraham* parce que l'ordre des Nistarot suit la ==chronologie du visionnaire== et non celle du scribe : [[Chanokh-qui-marche-avec-Elohim]] est de la septième génération, [[Avraham]] des jours patriarcaux.
+*Ce livre est le deuxième des Nistarot dans l'ONT* — n° 38 du corpus, mode de la ==traversée architecturale==. Il précède le *Chazon Avraham* parce que l'ordre des Nistarot suit la ==chronologie du visionnaire== et non celle du scribe : [[Chanokh-qui-marche-avec-Elohim]] est de la septième génération, [[ʾAvraham]] des jours patriarcaux.
 
 *Il nous arrive par deux traductions.* Composé en ==araméen==, traduit en grec, puis du grec en ==guèze== entre le IVᵉ et le VIᵉ siècle. Seul le guèze survit entier, et les manuscrits que nous tenons datent du XVᵉ au XVIIIᵉ siècle. La chaîne est donc à trois maillons et dix-huit siècles séparent le **davar** araméen de nos copies.
 
@@ -28,37 +28,37 @@ Titre & **Shem** — *Chanokh* (חֲנוֹךְ) : de *chanakh* (חָנַךְ), =
 
 *Restitution* (§4.15). Le livre parle sous le **Shem** de [[Chanokh-qui-marche-avec-Elohim]], et il n'est évidemment pas de sa main — il voit des choses que sept générations n'auraient pas su écrire.
 
-Ce que ce régime déclare est précis : ==cette vision appartient à celui qui a traversé sans mourir==. Le §4.15 le pose — le nom marque la provenance et l'autorité d'une vérité, non le scribe physique. Et le choix n'a rien d'arbitraire : de tout le corpus hébreu, un seul homme est dit avoir cheminé avec **Elohim** au point que **Elohim** le prit, et que la formule de mort ne lui fut jamais appliquée. Écrire sous son **Shem**, c'est dire que ce qu'on transmet relève du ==savoir de celui-là==, le seul témoin de l'ère d'avant le **mabbul** à n'avoir pas eu à revenir.
+Ce que ce régime déclare est précis : ==cette vision appartient à celui qui a traversé sans mourir==. Le §4.15 le pose — le nom marque la provenance et l'autorité d'une vérité, non le scribe physique. Et le choix n'a rien d'arbitraire : de tout le corpus hébreu, un seul homme est dit avoir cheminé avec **ʾElohim** au point que **ʾElohim** le prit, et que la formule de mort ne lui fut jamais appliquée. Écrire sous son **Shem**, c'est dire que ce qu'on transmet relève du ==savoir de celui-là==, le seul témoin de l'ère d'avant le **mabbul** à n'avoir pas eu à revenir.
 
 ## But
 
 *Bereshit* 5 contracte en six versets ce qui est peut-être le plus grand silence de la Torah. Un homme chemine trois cents ans, le texte casse son propre refrain pour ne pas dire qu'il mourut, et il passe à la génération suivante. Ce livre relève ce que *Bereshit* laisse contracté :
 
-> *Que vit celui que **Elohim** prit ?*
+> *Que vit celui que **ʾElohim** prit ?*
 
 Sa réponse est architecturale : il fut mené à travers les étendues et il vit ==les structures que le regard ordinaire ne traverse pas== — le trône et ce qui l'entoure, les gardiens qui ont quitté leur garde, les luminaires et le compte des jours, les lots assignés, et le terme.
 
-## Les 'irin, et le mot que dix-huit siècles ont perdu
+## Les irin, et le mot que dix-huit siècles ont perdu
 
 *C'est ce que ce livre apporte de plus lourd au corpus, et c'est aussi ce que la chaîne a le plus abîmé.*
 
-Les **'irin** (עִירִין) — les éveillés, ceux qui ne dorment pas — sont les gardiens du domaine céleste. Le grec a rendu le mot par *egrēgoroi*, le latin par *vigiles*, le français par « Veilleurs », et l'anglais par *Watchers*. Chaque maillon a gardé le sens et perdu le mot.
+Les **ʿirin** (עִירִין) — les éveillés, ceux qui ne dorment pas — sont les gardiens du domaine céleste. Le grec a rendu le mot par *egrēgoroi*, le latin par *vigiles*, le français par « Veilleurs », et l'anglais par *Watchers*. Chaque maillon a gardé le sens et perdu le mot.
 
-L'ONT ne traduit pas : ==**'irin** est intraduisible==, et il l'est déjà dans le corpus verrouillé — le *Sefar Gibbaraya* l'emploie. Ce n'est pas de la rigueur pour elle-même. « Veilleur » évoque une sentinelle, une figure de garde nocturne ; **'irin** dit ==l'état de ne pas dormir==, ce qui est autre chose : non pas une fonction qu'on prend, mais une condition qu'on est. Et le récit tient précisément à cela — des êtres qui ne dorment jamais ==ont quitté leur poste==, ce qui n'a de sens que si le poste était leur nature.
+L'ONT ne traduit pas : ==**ʿirin** est intraduisible==, et il l'est déjà dans le corpus verrouillé — le *Sefar Gibbaraya* l'emploie. Ce n'est pas de la rigueur pour elle-même. « Veilleur » évoque une sentinelle, une figure de garde nocturne ; **ʿirin** dit ==l'état de ne pas dormir==, ce qui est autre chose : non pas une fonction qu'on prend, mais une condition qu'on est. Et le récit tient précisément à cela — des êtres qui ne dorment jamais ==ont quitté leur poste==, ce qui n'a de sens que si le poste était leur nature.
 
 ## Ce que ce livre a déjà donné au corpus
 
 *Il est cité avant d'être écrit, et c'est rare.* Trois livres déjà verrouillés ou en cours s'appuient sur lui :
 
-- le *Sefar Gibbaraya* (n° 37) ==présuppose son récit== : les **'irin**, [[Shemikhazah]], [[Azazel]], les **gibbaraya** nés du franchissement des domaines, et [[Chanokh-qui-marche-avec-Elohim]] scribe et médiateur à qui l'on vient demander un verdict ;
+- le *Sefar Gibbaraya* (n° 37) ==présuppose son récit== : les **ʿirin**, [[Shemichazah]], [[ʿAzazel]], les **gibbarayaʾ** nés du franchissement des domaines, et [[Chanokh-qui-marche-avec-Elohim]] scribe et médiateur à qui l'on vient demander un verdict ;
 - le *Chazon Avraham* (n° 39) partage son mode et son vocabulaire — la montée, les étendues, le tableau de l'histoire vue depuis le haut ;
-- *Bereshit* 6:1-4 (verrouillé) est ce qu'il déploie : quatre versets sur les fils des **elohim**, les **Nephilim** et les **gibborim**, que la Torah pose sans expliquer.
+- *Genèse* 6:1-4 (verrouillé) est ce qu'il déploie : quatre versets sur les fils des **ʾelohim**, les **Nefilim** et les **gibborim**, que la Torah pose sans expliquer.
 
 *Le geste est celui de la Kenesset* : l'amplification relève ce que le texte a contracté. Elle n'ajoute pas — elle rend audible.
 
 ## Échos dans la Berit Hadashah
 
-*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **mal'akhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **'irin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
+*Et ils sont directs, ce qui n'est pas fréquent.* L'*Igeret Yehudah* (n° 68) parle des **malʾakhim** *« qui n'ont pas gardé leur domaine mais ont quitté leur propre demeure »* — c'est ==mot pour mot la sortie de garde des **ʿirin**==. Quelques versets plus loin, elle ==cite nommément Chanokh== et sa prophétie.
 
 Il faut lire ce que ça produit dans le bon sens, et le vault le formule ainsi : la *Berit Hadashah* ==ne projette rien — elle corrobore==. Une lettre du corpus cite comme **davar** prophétique un texte de ce courant, et son auteur suppose que ses lecteurs le connaissent.
 
@@ -82,7 +82,7 @@ Et il faut donner au lecteur la date, parce qu'elle décide de ce qu'il a sous l
 
 *Ce n'est pas un livre mais cinq*, réunis tard sous un seul **Shem**, et l'ONT les traitera comme cinq mouvements distincts :
 
-① Le livre des **'irin** *(ch. 1-36)* — la couche la plus ancienne, et celle que Qumrân couvre le mieux. La descente des **'irin**, le serment sur l'Hermon, les **gibbaraya**, l'intercession refusée, le décret, et la première traversée des étendues.
+① Le livre des **ʿirin** *(ch. 1-36)* — la couche la plus ancienne, et celle que Qumrân couvre le mieux. La descente des **ʿirin**, le serment sur l'Hermon, les **gibbarayaʾ**, l'intercession refusée, le décret, et la première traversée des étendues.
 
 ② Le livre des paraboles *(ch. 37-71)* — le trône, l'Élu, le Fils de l'Homme. ==Et il faut dire ici ce que les fragments ne disent pas== : c'est la seule des cinq parties dont ==aucun fragment araméen n'est sorti de Qumrân==. Le fait est réel et il ne se cache pas ; ce qu'il faut en conclure se décidera à son heure, sur le critère ontologique et non sur l'absence.
 
@@ -103,8 +103,8 @@ Deux réserves posées d'emblée, parce qu'elles engagent la méthode :
 
 ## Repères
 
-- *Bereshit* 5:21-24 (verrouillé) — les six versets que ce livre relève.
-- *Bereshit* 6:1-4 (verrouillé) — les **Nephilim**, les **gibborim**, les fils des **elohim**.
+- *Genèse* 5:21-24 (verrouillé) — les six versets que ce livre relève.
+- *Genèse* 6:1-4 (verrouillé) — les **Nefilim**, les **gibborim**, les fils des **ʾelohim**.
 - *Sefar Gibbaraya* (n° 37) — le seul livre du corpus qui présuppose celui-ci.
 - *Yovelim* (n° 06) — témoin juif indépendant qui connaît la même matière.
 - *Igeret Yehudah* (n° 68) — cite Chanokh nommément.

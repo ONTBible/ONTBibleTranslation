@@ -1,8 +1,12 @@
 # Rehovot-Ir
 
+## Prononciation
+
+*Re-ho-VOT Ir* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
-Littéralement ==les larges rues de la ville== — *rehovot* étant les places, les espaces ouverts où l'on se rassemble.
+(*Rehovot-Ir* / רְחֹבֹת עִיר). Littéralement ==les larges rues de la ville== — *rehovot* étant les places, les espaces ouverts où l'on se rassemble.
 
 Ce n'est peut-être pas un nom propre au sens strict : ==peut-être un quartier ou un faubourg de [[Ninveh]]==, désigné par ce qu'il est.
 
@@ -16,4 +20,4 @@ Le premier *mamlakhah* du corpus a donc ==des faubourgs==. C'est un détail, et 
 
 ## Voir aussi
 
-Ce qu'il complète : [[Ninveh]], [[Kelah]], dans [[Assur]] — fondées par [[Nimrod]].
+Ce qu'il complète : [[Ninveh]], [[Kelach]], dans [[ʾAssur]] — fondées par [[Nimrod]].

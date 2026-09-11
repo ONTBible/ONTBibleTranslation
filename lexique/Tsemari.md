@@ -1,5 +1,11 @@
 # Tsemari
 
+## Prononciation
+
+*Tse-ma-RI* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 (*Tsemari* / הַצְּמָרִי) — peut-être ==Sumur==, la Simyra des textes égyptiens : un des ports phéniciens du septentrion, sur la côte syrienne.
@@ -14,4 +20,8 @@ C'est un point qui vaut d'être relevé sur la méthode du chapitre : il ne rés
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+
+## Source
+
+6786 · הַצְּמָרִי

@@ -1,10 +1,16 @@
 # Cham
 
+## Prononciation
+
+*CHAM* — une syllabe.
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 L'étymologie est incertaine. On y a entendu la chaleur, ou une racine liée aux terres du midi — les deux restent des conjectures, et l'ONT ne tranche pas ce que l'hébreu laisse ouvert.
 
-Le nom s'écrit (*Cham* / חָם). Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yaphet]].
+Le nom s'écrit (*Cham* / חָם). Ce que le corpus établit, en revanche, est sa place : ==le second des trois fils de [[Noach]]==, avec [[Shem-fils-de-Noach|Shem]] et [[Yafet]].
 
 ## Le fils qui voit
 
@@ -18,12 +24,16 @@ Puis vient ce qui étonne : le *arur* que [[Noach]] prononce ne tombe pas sur lu
 
 ## Ce que sa maison devient
 
-*Bereshit* 10 fait de lui l'ancêtre d'une part du monde connu — et notamment de ==Mitsrayim== et de ==Kena'an==, c'est-à-dire des deux peuples que le récit d'Israël rencontrera le plus durement.
+*Bereshit* 10 fait de lui l'ancêtre d'une part du monde connu — et notamment de ==Mitsrayim== et de ==Kenaʿan==, c'est-à-dire des deux peuples que le récit d'Israël rencontrera le plus durement.
 
 Il faut le lire pour ce que c'est : ==une carte des nations==, non un jugement sur des lignées. Le corpus range les peuples ; il ne les hiérarchise pas par le sang.
 
 ## Voir aussi
 
-Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yaphet]] ses frères.
+Sa maison : [[Noach]] son père, [[Shem-fils-de-Noach|Shem]] et [[Yafet]] ses frères.
 
-Ce que sa descendance touche : ==Mitsrayim==, ==Kena'an==, et la table des nations de *Bereshit* 10.
+Ce que sa descendance touche : ==Mitsrayim==, ==Kenaʿan==, et la table des nations de *Bereshit* 10.
+
+## Source
+
+2526 · חָם

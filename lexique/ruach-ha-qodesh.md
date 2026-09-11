@@ -1,5 +1,15 @@
 # Ruach ha-Qodesh
 
+## Prononciation
+
+*Rou-ACH ha Qo-DESH* — 3 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 Trois mots, et il faut les prendre un par un pour que la formule cesse d'être un bloc.
 
 **Ruach** : ce qui ne se voit pas et qui meut — le vent dans un défilé, le souffle qui entre et sort de toi, ce qui fait bouger sans avoir de forme. Un seul mot pour les trois, et la langue n'y voit pas trois sens.
@@ -10,6 +20,6 @@ Trois mots, et il faut les prendre un par un pour que la formule cesse d'être u
 
 Voilà pourquoi « le Saint-Esprit » ne peut pas servir ici. La formule française arrive chargée de dix-sept siècles de travail dogmatique — une personne dans une trinité, avec un statut, des processions, des conciles. Toute cette architecture recouvre exactement ce que les trois mots hébreux disent, qui est ==une opération== et non un rang. Et « souffle sacré » n'est pas meilleur : il fait de la mise à part ==une qualité== — comme si le souffle était d'une essence supérieure —, là où l'hébreu dit ce qu'elle ==accomplit==.
 
-C'est cette Ruach qui repose sur le roi promis en *Yeshayahu* 11:2, et le passage montre alors ce que « mettre à part » veut dire en acte. Elle y porte six capacités : **chokhmah**, **binah**, **etsah**, **gevurah**, **da'at**, **yirah**. Non pas six dons empilés — ==ce qu'elle fait quand elle repose sur quelqu'un.==
+C'est cette Ruach qui repose sur le roi promis en *Ésaïe* 11:2, et le passage montre alors ce que « mettre à part » veut dire en acte. Elle y porte six capacités : **chokhmah**, **binah**, **ʿetsah**, **gevurah**, **daʿat**, **yirah**. Non pas six dons empilés — ==ce qu'elle fait quand elle repose sur quelqu'un.==
 
 Et le verset suivant les scelle par un jeu de racines que la traduction perd toujours : *vaharicho*, « il respirera », vient de רו״ח. Après les six, le texte revient à son premier mot. Le souffle est au commencement et à la fin.

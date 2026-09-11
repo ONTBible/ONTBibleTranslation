@@ -1,12 +1,16 @@
 # Goyyim
 
+## Prononciation
+
+*Goy-YIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Goyyim* / גּוֹיִם) — le mot même que le corpus emploie pour ==les peuples-nations==, ici employé comme ==un nom de lieu ou de peuple==.
 
 ## Ce que le corpus en fait
 
-C'est le domaine de [[Tid'al]] : *roi de Goyyim*.
+C'est le domaine de [[Tidʿal]] : *roi de Goyyim*.
 
 L'expression est ==opaque==, et le corpus ne l'éclaire pas. Elle pourrait désigner une confédération sans territoire propre, un ensemble de peuples du septentrion, ou porter un sens que nous avons perdu.
 
@@ -14,5 +18,9 @@ La règle de l'ONT est de ne pas trancher. On note que ==le texte emploie un mot
 
 ## Voir aussi
 
-Les quatre rois de la coalition : [[Amrafel]], [[Aryokh]], [[Kedorlaomer]], [[Tid'al]].
-Les cinq rois révoltés : [[Bera]], [[Birsha]], [[Shinav]], [[Shemever]], et le roi de [[Bela]].
+Les quatre rois de la coalition : [[ʾAmrafel]], [[ʾAryokh]], [[Kedorlaomer]], [[Tidʿal]].
+Les cinq rois révoltés : [[Beraʿ]], [[Birshaʿ]], [[Shinav]], [[Shemever]], et le roi de [[Belaʿ]].
+
+## Source
+
+1471 b · גּוֹיִם

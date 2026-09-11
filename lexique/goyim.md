@@ -1,6 +1,10 @@
 # goyim
 
-Une table, au chapitre dix. Soixante-dix noms, rangés par lignée : les fils de ==Yaphet==, ceux de ==Cham==, ceux de ==Shem==, chacun ==selon sa langue, selon sa famille, dans son territoire==. Ce ne sont pas des tribus flottantes ni des catégories d'esprit. Ce sont des peuples avec une langue, un sol et une organisation — et c'est cela, des ==goyim== (*goyim* / גּוֹיִם).
+## Prononciation
+
+*go-YIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Une table, au chapitre dix. Soixante-dix noms, rangés par lignée : les fils de ==Yafet==, ceux de ==Cham==, ceux de ==Shem==, chacun ==selon sa langue, selon sa famille, dans son territoire==. Ce ne sont pas des tribus flottantes ni des catégories d'esprit. Ce sont des peuples avec une langue, un sol et une organisation — et c'est cela, des ==goyim== (*goyim* / גּוֹיִם).
 
 Le mot est concret. Il désigne ==le peuple-nation constitué== : un territoire, une descendance, une manière de parler, un pouvoir qui tient. Rien d'abstrait, rien de religieux.
 
@@ -10,4 +14,4 @@ Car ce qui suit est une promesse. Quand **YHWH** dit à ==Avram== qu'il sera le 
 
 Le mot vaut d'ailleurs pour Israël lui-même, et le corpus ne s'en cache pas : il est appelé un **goy** quand il est question de sa constitution comme peuple. Ce n'est pas une catégorie du dehors — c'est la forme normale de l'existence collective.
 
-Ce qui donne son poids à la scène du *Sefar Gibbaraya*, où ==Gilgamesh== est rangé parmi les **gibbaraya** jugés : ce que les ==goyim== chantent en héros, le texte le classe parmi la démesure. La critique ne porte pas sur les peuples — elle porte sur ce qu'ils élèvent.
+Ce qui donne son poids à la scène du *Sefar Gibbaraya*, où ==Gilgamesh== est rangé parmi les **gibbarayaʾ** jugés : ce que les ==goyim== chantent en héros, le texte le classe parmi la démesure. La critique ne porte pas sur les peuples — elle porte sur ce qu'ils élèvent.

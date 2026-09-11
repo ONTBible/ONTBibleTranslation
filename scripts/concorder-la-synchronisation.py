@@ -252,7 +252,30 @@ class Copie:
 
     @property
     def locales(self) -> list[str]:
-        return locales(self.entier)
+        """Les entrées que ce dépôt garde pour lui.
+
+        **Elles vivent à côté, plus dedans.** Le journal est devenu une copie
+        engendrée depuis le vault : ce qui n'appartient qu'à un dépôt a dû
+        sortir du fichier propagé, sinon la première propagation l'effaçait.
+
+        Lire `SYNCHRONISATION.md` seul rendrait donc `0` partout — et ce zéro
+        serait **muet** : il ne dirait pas « ce dépôt n'a pas d'entrée locale »
+        mais « je ne regarde plus là où elles sont ». C'est la propriété que ce
+        script s'était donnée le 7 septembre 2026 — *comptées et rapportées par
+        dépôt, jamais tues* — et elle serait morte sans que rien ne le signale.
+
+        On garde la lecture de l'ancien emplacement : une copie pas encore
+        migrée doit continuer d'être comptée, et non disparaître du rapport le
+        jour où le mécanisme se pose.
+        """
+        dedans = locales(self.entier)
+        voisin = self.dossier / "SYNCHRONISATION-locale.md"
+        if not voisin.exists():
+            return dedans
+        try:
+            return dedans + locales(voisin.read_text(encoding="utf-8"))
+        except OSError:
+            return dedans
 
     def situation(self) -> str:
         if not self.depot:

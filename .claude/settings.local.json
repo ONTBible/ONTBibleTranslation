@@ -4,7 +4,8 @@
       "Bash",
       "Skill(update-config)",
       "WebSearch",
-      "WebFetch(domain:archive.org)"
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:claude.ai)"
     ]
   }
 }

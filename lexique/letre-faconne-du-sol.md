@@ -1,8 +1,14 @@
 # L'Être façonné du sol
 
+## Prononciation
+
+*L'Êt-RE fa-çon-NÉ dou sol* — 4 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le *'* est un ==alef ou ayin== : un petit arrêt de la glotte qui ==coupe la syllabe==, comme dans « ah ! ah ! » prononcé nettement.
+
 Ce n'est pas un nom, c'est ==une périphrase== (*ha-adam* / הָאָדָם) — six mots français là où l'hébreu en a un. Le vault a choisi de la porter dans le corps du texte, et il vaut la peine de comprendre pourquoi, parce que cela coûte cher à la lecture.
 
-Le mot hébreu est *adam*. Le mot pour le sol travaillé est *adamah*. Une lettre d'écart : personne, dans cette langue, ne peut prononcer l'un sans entendre l'autre. Quand le texte dit que **YHWH** **Elohim** le façonna de la poussière du sol concret, il n'énonce pas une origine matérielle — il fait entendre ==une parenté==, dans le son même.
+Le mot hébreu est *adam*. Le mot pour le sol travaillé est *adamah*. Une lettre d'écart : personne, dans cette langue, ne peut prononcer l'un sans entendre l'autre. Quand le texte dit que **YHWH** **ʾElohim** le façonna de la poussière du sol concret, il n'énonce pas une origine matérielle — il fait entendre ==une parenté==, dans le son même.
 
 Écris « l'homme », et tout cela disparaît. Le lecteur français reçoit une catégorie générale, sans terre, sans lien, sans écho. Il lit ensuite que cet homme doit *servir* et *garder* le Jardin, puis qu'après la fracture le sol est allégé de sa **kavod** — et rien ne lui dit que ces trois phrases parlent de la même parenté.
 

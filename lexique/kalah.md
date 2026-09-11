@@ -1,6 +1,12 @@
 # kalah
 
-Le septième jour s'ouvre sur ce verbe : les Cieux et l'**eretz** furent ==kalah== (*kalah* / כָּלָה), avec toute leur armée. On traduit « furent achevés », et le mot français penche du côté de *terminé* — la fin d'un travail, le moment où l'on s'arrête.
+## Prononciation
+
+*ka-LA* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *ka-LA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
+Le septième jour s'ouvre sur ce verbe : les Cieux et l'**ʾeretz** furent ==kalah== (*kalah* / כָּלָה), avec toute leur armée. On traduit « furent achevés », et le mot français penche du côté de *terminé* — la fin d'un travail, le moment où l'on s'arrête.
 
 L'hébreu penche de l'autre côté. ==Kalah== dit ==être complet, être plein, être accompli dans sa totalité== — non pas que le travail cesse, mais qu'il ==ne manque plus rien==. La nuance est celle qui sépare un chantier interrompu d'une maison finie.
 
@@ -8,6 +14,6 @@ Ce qui change la couleur du septième jour. Il ne vient pas après un effort ; i
 
 Le texte ajoute d'ailleurs une expression qu'on remarque rarement : *toute leur armée*. Le mot dit une troupe rangée, chacun à son rang. Ce qui a été ==kalah==, ce n'est pas une quantité de matière — c'est ==une organisation complète==.
 
-Le verbe reviendra, très exactement, pour le Tabernacle : ==Moshe== ==kalah== l'ouvrage, et alors la **kavod** de **YHWH** remplit la demeure. Les mêmes mots, dans le même ordre, que pour le monde — d'abord la complétude, puis la prise de résidence. Le corpus construit le sanctuaire comme il a construit le cosmos, et le vocabulaire le dit avant qu'aucun commentaire ne l'explique.
+Le verbe reviendra, très exactement, pour le Tabernacle : ==Mosheh== ==kalah== l'ouvrage, et alors la **kavod** de **YHWH** remplit la demeure. Les mêmes mots, dans le même ordre, que pour le monde — d'abord la complétude, puis la prise de résidence. Le corpus construit le sanctuaire comme il a construit le cosmos, et le vocabulaire le dit avant qu'aucun commentaire ne l'explique.
 
 Un mot voisin, *kilayon*, dit l'épuisement, ce qui se consume jusqu'au bout. La racine tient les deux : ce qui est mené à son terme, pour le meilleur ou pour l'usure.

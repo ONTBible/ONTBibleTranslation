@@ -1,5 +1,11 @@
 # Shem, fils de Noach
 
+## Prononciation
+
+*SHEM* — une syllabe.
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 ## Le Shem, et la difficulté qu'il pose
 
 Son nom ==est== le mot **Shem** (*shem* / שֵׁם) — l'intraduisible que le corpus emploie partout ailleurs pour dire ==l'acte d'existence fonctionnelle==, ce par quoi une chose entre dans l'ordre en étant nommée.
@@ -12,23 +18,23 @@ Pour le nom d'un homme, on peut au moins dire ceci : le porter, c'est porter ==l
 
 Son acte tient dans la scène de la vigne, et le texte le décrit avec un soin qui vaut jugement.
 
-Après le **mabbul**, [[Noach]] boit et se découvre au milieu de sa tente. [[Cham]] ==voit== et ==dit==. ==Shem== et [[Yaphet]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
+Après le **mabbul**, [[Noach]] boit et se découvre au milieu de sa tente. [[Cham]] ==voit== et ==dit==. ==Shem== et [[Yafet]] prennent un manteau, le posent sur leurs deux épaules, et ==marchent à reculons== pour couvrir sans voir.
 
 Le détail du dos tourné n'est pas un ornement narratif. Dans une scène dont tout l'enjeu est ==ce qu'on voit et ce qu'on en fait==, il dit un refus délibéré de regarder.
 
 ## La dotation, et ce qui en sort
 
-[[Noach]] formule ensuite sur lui une parole d'une forme unique : il ne le dote pas lui, il ==dote **YHWH**== — *béni soit **YHWH**, **Elohim** de ==Shem==*.
+[[Noach]] formule ensuite sur lui une parole d'une forme unique : il ne le dote pas lui, il ==dote **YHWH**== — *béni soit **YHWH**, **ʾElohim** de ==Shem==*.
 
-C'est ce que le corpus met sur ce nom-là. La ligne qui portera la **berith** n'est pas déclarée supérieure : elle est déclarée ==celle dont **YHWH** est l'**Elohim**==. La dotation passe par la relation, pas par le rang.
+C'est ce que le corpus met sur ce nom-là. La ligne qui portera la **berith** n'est pas déclarée supérieure : elle est déclarée ==celle dont **YHWH** est l'**ʾElohim**==. La dotation passe par la relation, pas par le rang.
 
-De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe de l'autre côté== —, puis Terah, puis Avraham. Toute la suite du corpus descend de ce fils-là.
+De lui vient ==Ever==, dont le nom donne *ivri* — l'hébreu, ==celui qui passe de l'autre côté== —, puis Terach, puis Avraham. Toute la suite du corpus descend de ce fils-là.
 
 ## Voir aussi
 
 Le mot dont il porte le nom : **Shem** — l'acte d'existence fonctionnelle, à ne pas confondre avec lui.
 
-Sa maison : [[Noach]] son père, [[Cham]] et [[Yaphet]] ses frères.
+Sa maison : [[Noach]] son père, [[Cham]] et [[Yafet]] ses frères.
 
 Ce que sa ligne touche : ==Ever== et le nom *ivri*, la table des nations de *Bereshit* 10, et la **berith** d'Avraham.
 

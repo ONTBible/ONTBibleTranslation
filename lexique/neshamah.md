@@ -1,6 +1,12 @@
 # Neshamah
 
-Le premier chapitre ne montre jamais **Elohim** en train de toucher quoi que ce soit. Il formule, et cela est. Les vivants paraissent par familles, la Terre les fait sortir, tout est ordonné à distance.
+## Prononciation
+
+*Ne-sha-MAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
+Le premier chapitre ne montre jamais **ʾElohim** en train de toucher quoi que ce soit. Il formule, et cela est. Les vivants paraissent par familles, la Terre les fait sortir, tout est ordonné à distance.
 
 Puis, au chapitre suivant, quelqu'un s'agenouille dans la terre. Il pétrit. Il approche son visage — et il ==souffle dans des narines==. C'est le geste le plus proche de tout le corpus, et le mot pour ce qu'il transmet est ==Neshamah== (*Neshamah* / נְשָׁמָה).
 
@@ -11,3 +17,7 @@ Et il ne faut pas se hâter d'y voir une âme. La ==Neshamah== n'est pas une pi�
 Ce qui donne son poids à une phrase qu'on lit d'ordinaire sans y penser. Après la fracture, la sanction tombe : *à la sueur de tes narines tu mangeras ton pain*. Les traductions écrivent « de ton front », parce que la sueur du front nous paraît normale. Le mot hébreu dit ==les narines== — exactement l'endroit où le souffle avait été déposé. Ce qui sortait de là était la vie reçue ; ce qui en sort maintenant, c'est l'effort. Le texte ne commente pas. Il pose les deux scènes au même endroit du visage et laisse faire.
 
 Le corpus tient donc trois mots que les traductions fondent en un seul : la **Nefesh**, la vie concrète qui a soif ; la **Ruach**, ce qui meut, dans l'homme comme dans le monde ; et la ==Neshamah==, le souffle reçu par contact. Trois opérations distinctes. Aucune n'est « l'âme ».
+
+## Source
+
+5397 · נְשָׁמָה

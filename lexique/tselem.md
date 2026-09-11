@@ -1,5 +1,11 @@
 # tselem
 
+## Prononciation
+
+*tse-LEM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 Un roi de ce temps-là ne peut pas être partout. Son empire s'étend sur des semaines de marche, et la plupart de ses sujets ne verront jamais son visage. Alors il fait dresser ==une statue== dans les provinces lointaines — à l'entrée d'une ville, dans un temple, au bord d'une route. Cette statue n'est pas un ornement, et personne ne la confond avec un portrait de famille : elle ==signifie que le roi gouverne ici==. On lui rend les honneurs qu'on lui rendrait à lui. La renverser est un acte de guerre.
 
 Le mot pour cette statue est ==tselem== (*tselem* / צֶלֶם). Et c'est ce mot que le texte emploie pour dire ce qu'est un être humain.
@@ -11,3 +17,7 @@ D'où la suite immédiate, qui autrement paraîtrait sans rapport : *qu'ils gouv
 Le mot **demut** vient renforcer, non ajouter : conformité à la manière d'être de celui qu'on représente. Un représentant qui gouvernerait autrement que son roi trahit sa fonction — la ressemblance est ==dans la manière==, pas dans la substance.
 
 Et cela règle une question qui a beaucoup occupé. Ce qui distingue l'homme de l'animal n'est ni une âme ni une nature : les bêtes sont **Nefesh** vivantes comme lui. C'est ==la charge== — et le Jardin, où il reçoit *avad* et *shamar*, est le poste où il l'exerce.
+
+## Source
+
+6754 · צֶלֶם

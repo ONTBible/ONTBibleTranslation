@@ -1,39 +1,55 @@
-# Sarai, devenue Sarah
+# Sarai
 
-## Les deux Shem
+## Prononciation
 
-Elle en porte deux, et le passage de l'un à l'autre se lit dans une seule lettre.
+*sa-RAÏ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-*Sarai* (*Sarai* / שָׂרַי) vient de *sar* (*sar* / שַׂר) — le prince, le chef, celui qui a autorité. Le suffixe *-i* est un possessif : ==ma princesse==, ==ma souveraine==. Le nom ancre la dignité ==dans un lien particulier== : elle est souveraine *de quelqu'un*, dans une maison.
+La finale est un ==yod==, qui fait ici une diphtongue : on entend le *a* puis le *i*, ==détachés==, comme dans « haïr ». Ne pas dire *sa-RÉ*.
 
-*Sarah* (*Sarah* / שָׂרָה) est le même mot ==sans le possessif== : la princesse, sans complément. ==Souveraine de tous.==
+## Le Shem
 
-C'est exactement le mouvement que subit le **Shem** de son **ish** au même moment : *Avram*, père élevé, devient [[Avraham]], père d'une multitude de **goyim**. Dans les deux cas ==le particulier tombe et l'universel s'ouvre==, et les deux reformulations sont prononcées dans la même scène.
+(*Sarai* / שָׂרַי) — de *sar* (*sar* / שַׂר), ==le prince, le chef==, celui qui a autorité. La finale *-ai* est un possessif ancien : ==ma princesse==, ==ma souveraine==.
 
-Ce ne sont pas des changements administratifs. Un **Shem** dit ce qu'on est dans l'ordre de la **berith** — le reformuler, c'est ==réassigner==.
+Regardez où ce possessif place la dignité. Elle est souveraine ==de quelqu'un==, dans une maison, sous un toit. Son rang est réel et il est ==borné== — il a un propriétaire, une adresse, des murs.
+
+C'est exactement la même borne que porte le nom de son **ʾish** : [[ʾAvram]], père élevé, dit lui aussi une dignité tournée vers l'intérieur. Les deux noms enferment ce qu'ils honorent.
 
 ## Celle qui est aqarah
 
-Le corpus la pose par un mot avant de la faire agir : elle est *aqarah* (*aqarah* / עֲקָרָה) — ==stérile==, et le mot est posé dès la généalogie de *Bereshit* 11, avant même qu'on la connaisse.
+Le corpus la pose par un mot avant de la faire agir. Dans la généalogie de *Bereshit* 11, au milieu des naissances qui s'enchaînent, une phrase s'arrête : *Sarai était ==aqarah== (*ʿaqarah* / עֲקָרָה) — elle n'avait pas d'enfant*.
 
-Il faut mesurer ce que ça produit dans le récit. La promesse faite à son **ish** est une promesse de descendance, et ==la femme qui doit la porter ne peut pas enfanter==. Le corpus construit sa tension centrale sur cette phrase-là, et la tient pendant des décennies de récit.
+Mesurez ce que cela fait dans le récit. La promesse faite à son **ʾish** est une promesse de ==descendance==. Et la femme qui doit la porter ==ne le peut pas==. Le corpus construit sa tension centrale sur cette ligne, et la tient pendant vingt-cinq ans de narration.
 
-Sa réponse n'est pas la résignation : c'est ==une manœuvre juridique==. Elle donne sa **shiphchah** [[Hagar]] à son **ish**, pour ==être bâtie par elle== — le verbe est *banah*, édifier, celui de l'**ishah** en *Bereshit* 2. Elle formule la maternité de substitution ==dans le langage de l'architecture==.
+Il ne s'agit pas d'un malheur privé. Dans ce monde, une maison qui n'engendre pas ==cesse d'exister== : plus de nom, plus de terre transmise, plus personne pour porter les morts. Être ==aqarah==, c'est être une maison sans lendemain.
 
-Et quand cela se retourne contre elle, elle porte l'affaire devant son **ish** avec un vocabulaire de tribunal : *chamasi aleikha*, ==le tort qui m'est infligé est sur toi==. Elle n'accuse pas [[Hagar]] d'insolence. Elle accuse Avram de ==n'avoir pas maintenu l'ordre== de sa maison.
+## Ce qu'elle fait, et dans quel langage
 
-## Celle qui rit
+Sa réponse n'est pas la résignation. C'est ==une manœuvre juridique==, et le corpus la formule dans les termes exacts du droit familial de son époque — les contrats de Nuzi prévoient ce cas.
 
-Quand la promesse lui est enfin adressée directement — par les trois **ish** sous les térébinthes —, elle rit en elle-même, derrière l'entrée de la tente.
+Elle donne sa **shifchah** [[Hagar]] à son **ʾish**, ==afin d'être bâtie par elle==. Le verbe est *banah*, édifier : celui de l'architecte, celui par lequel l'**ʾishah** est érigée en *Bereshit* 2. Elle pense sa maternité de substitution ==dans le vocabulaire de la construction==.
 
-Le corpus ne le lui reproche pas et ne l'excuse pas. Il enregistre le rire, il enregistre qu'elle le nie, et il enregistre qu'==il a été entendu==. Le nom de son fils portera ce rire : ==Yitschaq==, *il rit*.
+Et quand cela se retourne contre elle, elle ne se plaint pas : elle porte l'affaire devant son **ʾish** avec une formule de tribunal — *chamasi aleikha*, ==le tort qui m'est fait est sur toi==. Elle n'accuse pas [[Hagar]] d'insolence. Elle accuse [[ʾAvram]] de ==n'avoir pas tenu l'ordre de sa maison==.
 
-C'est la manière du corpus : il ne moralise pas, il ==garde==.
+C'est une femme qui connaît le droit et qui s'en sert.
+
+## Où ce nom s'arrête
+
+En *Bereshit* 17, dans la même scène qui reformule celui de son **ʾish**, **ʾElohim** dit : *Sarai sa **ʾishah**, tu ne l'appelleras plus Sarai — car [[Sarah]] est son **Shem**.*
+
+Une seule lettre tombe. ==Le possessif==. Ce qui l'attachait à une maison la quitte, et la dignité reste sans propriétaire.
+
+## Ce sur quoi cette fiche repose
+
+*Genèse* 11:29 à 17:15, où le nom cesse. La suite est chez [[Sarah]].
 
 ## Voir aussi
 
-Sa maison : [[Avraham]] son **ish**, [[Hagar]] sa **shiphchah**, ==Ishma'el== et ==Yitschaq==.
+Ce qu'elle devient : [[Sarah]].
 
-Ce que ses **Shem** touchent : la reformulation simultanée de celui d'[[Avraham]], la **berith** de *Bereshit* 17, et le **shiphchah** de *Bereshit* 16.
+Sa maison : [[ʾAvram]] son **ʾish**, [[Hagar]] sa **shifchah**, ==Ishmaʿel== qu'elle n'a pas porté.
 
-Ce qui reste à écrire : son récit occupe *Bereshit* 12 à 23, et la couche des Shemot n'y est pas encore portée. Cette fiche sera reprise.
+Ce que son histoire touche : la **shifchah** et sa sphère, et le *banah* de *Bereshit* 2.
+
+## Source
+
+8297 · שָׂרַי

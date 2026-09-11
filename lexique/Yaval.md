@@ -1,5 +1,9 @@
 # Yaval
 
+## Prononciation
+
+*Ya-VAL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yaval* (*yaval* / יָבָל) — conduire, mener. Le nom porte exactement le métier, et il se répond avec ceux de ses frères : [[Youval]] dit ce qui coule, [[Tuval-Qayin]] porte la même première syllabe. ==Trois noms bâtis sur l'idée de mener==, donnés ensemble.
@@ -16,6 +20,10 @@ Le corpus s'en souviendra longtemps. Les patriarches vivront ainsi — sous la t
 
 ## Voir aussi
 
-Sa maison : [[Ada]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Youval]] son frère, [[Tuval-Qayin]] et [[Na'amah]] du second lit.
+Sa maison : [[ʿAdah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Youval]] son frère, [[Tuval-Qayin]] et [[Naʿamah]] du second lit.
 
 Ce que sa fondation touche : la ville de [[Qayin]], dont elle est l'exact contraire.
+
+## Source
+
+2989 · יָבָל

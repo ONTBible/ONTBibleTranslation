@@ -1,5 +1,11 @@
 # nacham
 
+## Prononciation
+
+*na-CHAM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 Un homme apprend une nouvelle et le coup le prend au ventre. Ce n'est pas une pensée qui change, c'est quelque chose qui se retourne au-dedans — et c'est de là, de cet endroit remué, qu'il va voir les choses autrement. L'hébreu tient les deux moments dans un seul mot, et c'est ==nacham== (*nacham* / נָחַם).
 
 Deux dimensions, inséparables : ==être saisi aux entrailles==, et ==reconsidérer depuis là==. Ni un chagrin qui reste un chagrin, ni un changement d'avis qui serait affaire de raisonnement. Les deux, dans cet ordre, l'un causant l'autre.
@@ -8,6 +14,6 @@ C'est ce qui rend une phrase du corpus si difficile pour les traducteurs. Avant 
 
 Le mot travaille aussi dans l'autre sens, et c'est le même mouvement. Quand ==Lamekh== nomme son fils ==Noach==, il dit : ==celui-ci nous nachamera de notre travail et de la peine de nos mains==. Non pas « il nous consolera » au sens d'un réconfort verbal — quelque chose va se retourner, et ce qui pesait cessera de peser de la même façon. Le nom du fils porte la promesse d'un retournement.
 
-Et c'est encore lui qui reviendra chez les **neviim**, dans ces passages qu'on lit comme des consolations : *nachamou, nachamou ami* — non pas « prenez courage », mais ==quelque chose va se retourner pour vous==.
+Et c'est encore lui qui reviendra chez les **neviʾim**, dans ces passages qu'on lit comme des consolations : *nachamou, nachamou ami* — non pas « prenez courage », mais ==quelque chose va se retourner pour vous==.
 
 Un même mot pour ce qui remue le ventre de **YHWH** avant les eaux et pour ce qui relèvera un peuple : la langue ne sépare pas ces deux mouvements, parce que c'est le même.

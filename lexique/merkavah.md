@@ -1,5 +1,11 @@
 # merkavah
 
+## Prononciation
+
+*mer-ka-VA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *mer-ka-VA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
 Un homme au bord d'un fleuve, dans un pays qui n'est pas le sien, parmi des déportés. Le ciel s'ouvre, et ce qu'il voit, il met un chapitre entier à essayer de le dire : des vivants à quatre faces, des roues dans des roues pleines d'yeux, une étendue comme du cristal, et au-dessus une forme d'homme sur quelque chose qui ressemble à un trône. Il n'affirme presque rien — il écrit *comme*, *une sorte de*, *l'aspect de*.
 
 Ce qu'il a vu porte un nom : ==merkavah== (*merkavah* / מֶרְכָּבָה). La racine *rakhav* veut dire monter, chevaucher, prendre place sur un attelage.
@@ -11,3 +17,7 @@ C'est ce qui rend la vision si lourde à l'endroit où elle survient. L'homme qu
 Le corpus range ces textes dans un mode qui leur est propre, les *Nistarot* : ce qui est structurellement voilé, l'architecture du réel derrière l'histoire visible. On n'y monte pas par curiosité. La tradition juive fera de la ==merkavah== le domaine le plus réservé de l'étude, et le corpus garde cette prudence.
 
 Son premier emploi en corps de texte, dans l'ONT, se trouve dans *Toledot Adam ve-Chavah*. Le mot reste en hébreu partout : « char divin » ferait un objet, « trône-char » ferait une glose. L'hébreu tient les deux en un mot, et c'est ce qu'il faut garder.
+
+## Source
+
+4818 · מֶרְכָּבָה

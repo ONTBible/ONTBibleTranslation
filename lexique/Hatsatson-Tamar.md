@@ -1,8 +1,14 @@
 # Hatsatson-Tamar
 
+## Prononciation
+
+*Ha-tsa-TSON Ta-MAR* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
-*Hatsatson* et *tamar* — ==le palmier==. Le nom dit ==la taille des palmiers== ou le lieu où ils se tiennent.
+(*Hatsatson-Tamar* / חַצְצֹן תָּמָר). *Hatsatson* et *tamar* — ==le palmier==. Le nom dit ==la taille des palmiers== ou le lieu où ils se tiennent.
 
 ## Ce que le corpus en fait
 

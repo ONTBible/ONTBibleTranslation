@@ -1,6 +1,6 @@
 # Additions ONT apportées par Toledot Adam ve-Chavah
 
-Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *Sefar Gibbaraya* a introduit **'irin** et **gibbaraya** dans le CLAUDE.md du vault, ce livre introduit les éléments ci-dessous. Au moment de l'ajout, coller ces entrées aux sections indiquées du `CLAUDE.md` ONT, puis placer le fichier verrouillé dans le slot déjà réservé :
+Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *Sefar Gibbaraya* a introduit **ʿirin** et **gibbarayaʾ** dans le CLAUDE.md du vault, ce livre introduit les éléments ci-dessous. Au moment de l'ajout, coller ces entrées aux sections indiquées du `CLAUDE.md` ONT, puis placer le fichier verrouillé dans le slot déjà réservé :
 
 `locked/1. kenesset (le Rassemblement)/3. ketouvim (Écrits)/36. toledot-adam-ve-chavah (Vie d'Adam et Eve)/toledot-adam-ve-chavah.md`
 
@@ -8,31 +8,31 @@ Ce fichier prépare l'**intégration au vault ONT** (`~/Obsidian/ONT`). Comme *S
 
 ---
 
-## 1. Nouvel intraduisible — **She'ol**
+## 1. Nouvel intraduisible — **Sheʾol**
 
 **Statut vérifié :** 0 occurrence dans tout le corpus ONT actuel. Premier emploi = ce livre.
 
 ### À ajouter en §2.5 (liste des termes à baliser `**...**`)
 
 ```
-- `**She'ol**` — intraduisible : le domaine des morts dans l'attente (שְׁאוֹל). Jamais « enfer » (lieu de tourment) ni « séjour des morts » édulcoré. Premier emploi *Toledot Adam ve-Chavah*.
+- `**Sheʾol**` — intraduisible : le domaine des morts dans l'attente (שְׁאוֹל). Jamais « enfer » (lieu de tourment) ni « séjour des morts » édulcoré. Premier emploi *Toledot Adam ve-Chavah*.
 ```
 
 ### À ajouter en §3.2 (glossaire — Noms et concepts fondamentaux)
 
 ```
-| שְׁאוֹל | *She'ol* | **She'ol** | Intraduisible. Le domaine bas où descendent les morts — non pas « l'enfer » (lieu de tourment, catégorie grecque/chrétienne tardive) ni « le séjour des morts » édulcoré. Le lieu du silence et de l'attente sous la Terre, où descend tout mort — **tsadiq** comme **rasha** — dans la cosmologie hébraïque (§6). Opposé structurel exact de la montée de l'âme grecque : dans l'ontologie hébraïque **on descend au Sheol, on ne s'envole pas**. C'est le contre-concept natif qui prend la place de la *psyché* platonicienne. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| שְׁאוֹל | *Sheʾol* | **Sheʾol** | Intraduisible. Le domaine bas où descendent les morts — non pas « l'enfer » (lieu de tourment, catégorie grecque/chrétienne tardive) ni « le séjour des morts » édulcoré. Le lieu du silence et de l'attente sous la Terre, où descend tout mort — **tsadiq** comme **rashaʿ** — dans la cosmologie hébraïque (§6). Opposé structurel exact de la montée de l'âme grecque : dans l'ontologie hébraïque **on descend au Sheʾol, on ne s'envole pas**. C'est le contre-concept natif qui prend la place de la *psyché* platonicienne. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
 ```
 
 ### Note pour §6 (structure cosmologique)
 
-Le **She'ol** complète la cosmologie « en bas » : sous la Terre habitable (*eretz*) et les eaux primordiales (*tehom*), le domaine des morts dans l'attente. À mentionner en §6 lors de l'intégration.
+Le **Sheʾol** complète la cosmologie « en bas » : sous la Terre habitable (*eretz*) et les eaux primordiales (*tehom*), le domaine des morts dans l'attente. À mentionner en §6 lors de l'intégration.
 
 ---
 
 ## 2. Nouvel intraduisible — **teshuvah**
 
-**Statut vérifié :** 0 occurrence dans le corpus ONT actuel. Premier emploi = ce livre. Régime : intraduisible (laissé en hébreu), parallèle à **emunah** — aucun mot français ne le rend sans distordre.
+**Statut vérifié :** 0 occurrence dans le corpus ONT actuel. Premier emploi = ce livre. Régime : intraduisible (laissé en hébreu), parallèle à **ʾemunah** — aucun mot français ne le rend sans distordre.
 
 ### À ajouter en §2.5 (liste des termes à baliser `**...**`)
 
@@ -43,7 +43,7 @@ Le **She'ol** complète la cosmologie « en bas » : sous la Terre habitable (*e
 ### À ajouter en §3.2 (glossaire — Noms et concepts fondamentaux)
 
 ```
-| תְּשׁוּבָה | *teshuvah* | **teshuvah** | Intraduisible. De *shuv* (שׁוּב) : se retourner, revenir. Le mouvement de retour vers **YHWH** **Elohim** — se réorienter vers la présence quittée. Non pas « repentance » (culpabilité subjective, §4.7) ni « pénitence » (registre de mérite/satisfaction) : non un rachat par l'effort, mais l'orientation à nouveau vers la source. Même logique fonctionnelle qu'**emunah** — une posture relationnelle, non un sentiment. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| תְּשׁוּבָה | *teshuvah* | **teshuvah** | Intraduisible. De *shuv* (שׁוּב) : se retourner, revenir. Le mouvement de retour vers **YHWH** **ʾElohim** — se réorienter vers la présence quittée. Non pas « repentance » (culpabilité subjective, §4.7) ni « pénitence » (registre de mérite/satisfaction) : non un rachat par l'effort, mais l'orientation à nouveau vers la source. Même logique fonctionnelle qu'**ʾemunah** — une posture relationnelle, non un sentiment. Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
 ```
 
 ---
@@ -74,26 +74,26 @@ Rendus d'abord en français, **retenus en intraduisibles** (décision d'auteur) 
 
 ```
 - `**tevilah**` — intraduisible : l'immersion de retour, passer par les eaux pour se retourner vers la source (טְבִילָה). Non « baptême » ni simple « bain ». Premier emploi *Toledot Adam ve-Chavah*.
-- `**merkavah**` — intraduisible : le trône-char de **YHWH** **Elohim** vu en vision (מֶרְכָּבָה). Non « chariot » ordinaire. Déjà nommé au CLAUDE.md (Yehezqel, merkavah ch. 1) ; premier emploi en corps de texte : *Toledot Adam ve-Chavah*.
+- `**merkavah**` — intraduisible : le trône-char de **YHWH** **ʾElohim** vu en vision (מֶרְכָּבָה). Non « chariot » ordinaire. Déjà nommé au CLAUDE.md (Yehezqel, merkavah ch. 1) ; premier emploi en corps de texte : *Toledot Adam ve-Chavah*.
 ```
 
 ### À ajouter en §3.2
 
 ```
-| טְבִילָה | *tevilah* | **tevilah** | Intraduisible. De *taval* (טָבַל) : plonger, immerger. L'immersion de retour — passer par les eaux pour se retourner vers **YHWH** **Elohim** : le mouvement de la **teshuvah** rendu par le corps. Non « baptême » (catégorie chrétienne tardive) ni « pénitence » (mérite). Le mikveh du Second Temple ; l'immersion de Yohanan « pour la teshuvah » (Mc 1:4). Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
-| מֶרְכָּבָה | *merkavah* | **merkavah** | Intraduisible. De *rakhav* (רָכַב) : monter (un char). Le **trône-char** de **YHWH** **Elohim**, contemplé en vision — Yehezqel (Ez 1), mode de la traversée architecturale (Nistarot) ; Shaul ravi au troisième ciel (2 Co 12). Non un « chariot » ordinaire. Déjà mentionné au CLAUDE.md ONT (Yehezqel). Premier emploi en corps de texte en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| טְבִילָה | *tevilah* | **tevilah** | Intraduisible. De *taval* (טָבַל) : plonger, immerger. L'immersion de retour — passer par les eaux pour se retourner vers **YHWH** **ʾElohim** : le mouvement de la **teshuvah** rendu par le corps. Non « baptême » (catégorie chrétienne tardive) ni « pénitence » (mérite). Le mikveh du Second Temple ; l'immersion de Yohanan « pour la teshuvah » (Mc 1:4). Premier emploi dans l'ONT en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
+| מֶרְכָּבָה | *merkavah* | **merkavah** | Intraduisible. De *rakhav* (רָכַב) : monter (un char). Le **trône-char** de **YHWH** **ʾElohim**, contemplé en vision — Yehezqel (Ez 1), mode de la traversée architecturale (Nistarot) ; Shaul ravi au troisième ciel (2 Co 12). Non un « chariot » ordinaire. Déjà mentionné au CLAUDE.md ONT (Yehezqel). Premier emploi en corps de texte en *Toledot Adam ve-Chavah*. Laissé en hébreu. |
 ```
 
 ---
 
-## 4. Premier envoyé céleste nommé — Mikha'el
+## 4. Premier envoyé céleste nommé — Mikhaʾel
 
-Ce livre introduit le **premier envoyé céleste nommé de tout l'ONT** (vérifié : aucun Mikha'el / Gavriel / Refael / Uriel dans le corpus actuel).
+Ce livre introduit le **premier envoyé céleste nommé de tout l'ONT** (vérifié : aucun Mikhaʾel / Gavriel / Refael / Uriel dans le corpus actuel).
 
 **Traitement — aligné sur le précédent Sefar Gibbaraya :**
-- **Nom propre → sans gras**, avec niveau 3 + glose à la première occurrence : `Mikha'el (*Mikha'el* / מִיכָאֵל) *[« qui est comme El ? » — …]*`. Exactement comme Sefar Gibbaraya rend Shemikhazah / Azazel / Mahaway (sans gras).
-- **Fonctionnellement un **mal'akh**** (catégorie déjà au glossaire, en gras) : l'envoyé-fonctionnaire défini par sa mission, non « ange ».
-- **Règle des 5 premières occurrences (§4.12)** : maintenir une glose d'identification de Mikha'el sur ses cinq premières apparitions **à travers tout l'ONT** (pas seulement dans ce livre). Ici c'est l'occurrence n° 1.
+- **Nom propre → sans gras**, avec niveau 3 + glose à la première occurrence : `Mikhaʾel (*Mikhaʾel* / מִיכָאֵל) *[« qui est comme El ? » — …]*`. Exactement comme Sefar Gibbaraya rend Shemichazah / Azazel / Mahaway (sans gras).
+- **Fonctionnellement un **malʾakh**** (catégorie déjà au glossaire, en gras) : l'envoyé-fonctionnaire défini par sa mission, non « ange ».
+- **Règle des 5 premières occurrences (§4.12)** : maintenir une glose d'identification de Mikhaʾel sur ses cinq premières apparitions **à travers tout l'ONT** (pas seulement dans ce livre). Ici c'est l'occurrence n° 1.
 
 Aucune addition au CLAUDE.md nécessaire — le traitement découle des règles existantes. Simplement en tenir le compteur d'occurrences.
 
@@ -103,7 +103,7 @@ Aucune addition au CLAUDE.md nécessaire — le traitement découle des règles 
 
 **Noms propres de personnes — sans gras.** Vérifié dans le corpus : *Bereshit* 4 rend **Qayin** sans gras (0 occurrence en gras), Chavah et Hevel nus ; *Bereshit* 5 rend Noach nu (10/11). Seuls les **termes-catégories** et les **intraduisibles** de la liste §2.5 sont en gras. Les noms propres reçoivent niveau 3 + glose à la première occurrence (§4.12), jamais le gras.
 
-**Conséquence pour ce livre :** Adam, Chavah, Shet, Hevel, Qayin, Mikha'el → sans gras. **adam** en gras reste réservé à l'humanité générique (sans emploi ici, puisque Adam désigne l'individu). La périphrase « l'Être façonné du sol » est propre à *Bereshit* 1-7 et **ne s'applique pas** ici : Adam est un nom propre.
+**Conséquence pour ce livre :** Adam, Chavah, Shet, Hevel, Qayin, Mikhaʾel → sans gras. **ʾadam** en gras reste réservé à l'humanité générique (sans emploi ici, puisque Adam désigne l'individu). La périphrase « l'Être façonné du sol » est propre à *Bereshit* 1-7 et **ne s'applique pas** ici : Adam est un nom propre.
 
 ---
 
@@ -111,7 +111,7 @@ Aucune addition au CLAUDE.md nécessaire — le traitement découle des règles 
 
 **À expliciter dans le CLAUDE.md ONT (§2.5), car cela vaut pour tout l'ONT.** La forme en gras d'un intraduisible **est sa translittération exacte** — apostrophes et diacritiques compris —, jamais une francisation. Le gras du corps et la translittération de niveau 3 doivent **coïncider caractère pour caractère**.
 
-Le corpus l'applique déjà implicitement : `**mal'akh**`, `**'irin**`, `**tov me'od**`, `**El Roï**`. On l'énonce désormais comme règle. Conséquence pour ce livre : **She'ol** (et non « Sheol ») — le gras porte l'apostrophe de l'aleph, comme la translittération *She'ol*.
+Le corpus l'applique déjà implicitement : `**malʾakh**`, `**ʿirin**`, `**tov meʾod**`, `**ʾEl Roï**`. On l'énonce désormais comme règle. Conséquence pour ce livre : **Sheʾol** (et non « Sheʾol ») — le gras porte l'apostrophe de l'aleph, comme la translittération *Sheʾol*.
 
 ---
 
@@ -129,7 +129,7 @@ Le corpus l'applique déjà implicitement : `**mal'akh**`, `**'irin**`, `**tov m
 
 ## Récapitulatif — à faire au moment de l'intégration
 
-1. Coller les entrées **She'ol**, **teshuvah**, **ha-satan** (provisoire), **tevilah** et **merkavah** en §2.5 et §3.2 du CLAUDE.md ONT ; mentionner le She'ol en §6. Réserver le traitement définitif de **ha-satan** à *Iyov*.
-2. Vérifier le compteur d'occurrences de Mikha'el (glose d'identification sur 5 occurrences).
+1. Coller les entrées **Sheʾol**, **teshuvah**, **ha-satan** (provisoire), **tevilah** et **merkavah** en §2.5 et §3.2 du CLAUDE.md ONT ; mentionner le Sheʾol en §6. Réserver le traitement définitif de **ha-satan** à *Iyov*.
+2. Vérifier le compteur d'occurrences de Mikhaʾel (glose d'identification sur 5 occurrences).
 3. Placer le fichier verrouillé dans le slot n° 36 (chemin ci-dessus).
 4. Rien d'autre : le reste du livre n'emploie que du vocabulaire déjà fixé.

@@ -1,5 +1,11 @@
 # Hadoram
 
+## Prononciation
+
+*Ha-do-RAM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
 ## Le Shem
 
 De *hadar* (*hadar* / הָדָר) — ==la splendeur, la majesté==. On lit *la splendeur est élevée*, ou *Hadad est élevé*.
@@ -14,4 +20,8 @@ Sa présence dans la liste de [[Yoqtan]] témoigne de ==la complexité religieus
 
 ## Voir aussi
 
-Sa maison : [[Yoqtan]] son père, [[Ever]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+1913 a · הֲדוֹרָם

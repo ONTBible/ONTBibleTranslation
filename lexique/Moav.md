@@ -1,16 +1,20 @@
 # Moav
 
+## Prononciation
+
+*Mo-AV* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
-(*Moav* / מוֹאָב) — le corpus l'entend comme *me'av* (*me'av* / מֵאָב) : ==du père==.
+(*Moav* / מוֹאָב) — le corpus l'entend comme *meʾav* (*meʾav* / מֵאָב) : ==du père==.
 
 ==Le **Shem** inscrit l'origine dans le nom==, et cette origine est celle que le récit vient de raconter.
 
 ## Ce que le corpus en fait
 
-C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tsoar]].
+C'est la fille aînée de [[Lot]] qui le nomme, dans la grotte, après [[Tsoʿar]].
 
-Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
+Les deux filles ont vu brûler la plaine. Elles disent : *notre père est vieux, et il n'y a pas d'**ʾish** dans le pays pour venir vers nous selon la manière de toute la Terre*. Elles le font boire, et elles conçoivent de lui.
 
 Le texte raconte ==sans une ligne de jugement==, et c'est ce qui rend le passage si dur à lire. Il ne dit pas que c'est bien, il ne dit pas que c'est mal. ==Il dit ce qui a été fait, et il nomme les enfants.==
 
@@ -23,3 +27,7 @@ Le peuple de ==Moav== sera l'adversaire constant d'Israël. Et pourtant : c'est 
 Sa maison : [[Lot]] son père et grand-père, [[Ben-Ammi]] son demi-frère.
 
 Ce qui en sortira : Ruth la Moabite, et par elle David.
+
+## Source
+
+4124 · מוֹאָב

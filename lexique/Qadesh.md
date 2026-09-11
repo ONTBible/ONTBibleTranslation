@@ -1,5 +1,13 @@
 # Qadesh
 
+## Prononciation
+
+*Qa-DESH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 ## Le Shem
 
 (*Qadesh* / קָדֵשׁ) — de la racine *qadash*, ==mettre à part==. Le nom d'un lieu qui porte celle du **qodesh**.
@@ -15,3 +23,7 @@ Un nom qui dit ==la mise à part== devient ainsi ==le lieu où une génération 
 ## Voir aussi
 
 Ce qu'il borne : le puits de [[Beer-lachai-roi]], avec [[Bared]].
+
+## Source
+
+6946 · קָדֵשׁ

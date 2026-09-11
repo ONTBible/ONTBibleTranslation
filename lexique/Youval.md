@@ -1,5 +1,9 @@
 # Youval
 
+## Prononciation
+
+*You-VAL* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 De *yuval* (*yuval* / יוּבָל) — ce qui coule, le courant. Frère de [[Yaval]], et les deux noms font presque le même son : ==deux façons de conduire==, l'une des bêtes, l'autre du son.
@@ -20,6 +24,10 @@ Sa place est ce qui frappe. Il est entre l'homme qui vit sous la tente et celui 
 
 ## Voir aussi
 
-Sa maison : [[Ada]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Yaval]] son frère, [[Tuval-Qayin]] et [[Na'amah]] du second lit.
+Sa maison : [[ʿAdah]] sa mère, [[Lamekh-fils-de-Metoushael]] son père, [[Yaval]] son frère, [[Tuval-Qayin]] et [[Naʿamah]] du second lit.
 
 Ce que sa fondation touche : le chant de son père, premier poème du corpus — et le premier à dire le sang.
+
+## Source
+
+3106 · יוּבָל

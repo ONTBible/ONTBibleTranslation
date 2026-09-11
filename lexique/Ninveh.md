@@ -1,8 +1,16 @@
 # Ninveh
 
+## Prononciation
+
+*Nin-VÉ* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *Nin-VÉ*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
-(*Ninveh* / נִינְוֵה) — la grande ville d'Assur, sur le Tigre. Le corpus la fait fonder par [[Nimrod]], qui ==sort de [[Shin'ar]] vers Assur== pour la bâtir.
+(*Ninveh* / נִינְוֵה) — la grande ville d'Assur, sur le Tigre. Le corpus la fait fonder par [[Nimrod]], qui ==sort de [[Shinʿar]] vers Assur== pour la bâtir.
 
 ## La ville qu'on ne veut pas sauver
 
@@ -20,12 +28,16 @@ Le livre se termine sur une question sans réponse — ==et moi, je n'aurais pas
 
 Il faut relever ce que le corpus construit ici. ==Ninveh== est fondée par [[Nimrod]], le **gibbor**, dans le chapitre qui range les peuples. Elle deviendra ==la capitale de l'empire qui déporte le royaume du septentrion==.
 
-Et c'est cette ville-là que **YHWH** envoie un **navi** avertir, et c'est elle qu'il épargne.
+Et c'est cette ville-là que **YHWH** envoie un **naviʾ** avertir, et c'est elle qu'il épargne.
 
 ## Voir aussi
 
-Qui la fonde : [[Nimrod]], sorti de [[Shin'ar]] vers Assur.
+Qui la fonde : [[Nimrod]], sorti de [[Shinʿar]] vers Assur.
 
 Sa sœur en fondation : [[Bavel]] — les deux capitales qui broieront Israël.
 
 Où le corpus la reprend : le livre de Yonah, et les oracles de Nahum.
+
+## Source
+
+5210 · נִינְוֵה

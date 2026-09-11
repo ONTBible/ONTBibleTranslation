@@ -1,5 +1,13 @@
 # Qenan
 
+## Prononciation
+
+*Qe-NAN* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le Shem
 
 Le nom est bâti sur la racine de *qanah* (*qanah* / קָנָה) — obtenir, et répondre de ce qu'on tient. La même que celle de [[Qayin]].
@@ -12,12 +20,16 @@ Le corpus construit deux généalogies parallèles, et il y met délibérément 
 
 Ce n'est pas une pauvreté d'invention : c'est ==une thèse sur l'humanité==. La glose du corpus le dit — *l'humanité reste une, même divisée*. Les deux lignées ne sont pas deux espèces, l'une mauvaise et l'autre bonne. Elles portent les mêmes noms, et se distinguent par ==ce qu'elles font==.
 
-Car la différence est là, et elle est nette. La ligne de [[Qayin]] bâtit, forge, chante la vengeance. Celle de [[Shet]] — celle de ==Qenan== — est celle où, au temps d'[[Enosh]], ==l'on commence à invoquer le **Shem** de **YHWH**==.
+Car la différence est là, et elle est nette. La ligne de [[Qayin]] bâtit, forge, chante la vengeance. Celle de [[Shet]] — celle de ==Qenan== — est celle où, au temps d'[[ʾEnosh]], ==l'on commence à invoquer le **Shem** de **YHWH**==.
 
 Le même **Shem** d'acquisition, deux fois. D'un côté un homme qui perd toute prise. De l'autre un maillon d'une ligne qui appelle.
 
 ## Voir aussi
 
-Sa ligne : [[Enosh]] son père, [[Mahalalel]] son fils, puis [[Yered]], [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]], [[Lamekh-fils-de-Metoushelach]], [[Noach]].
+Sa ligne : [[ʾEnosh]] son père, [[Mahalalel]] son fils, puis [[Yered]], [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]], [[Lamekh-fils-de-Metoushelach]], [[Noach]].
 
 Le **Shem** dont il porte la racine : [[Qayin]].
+
+## Source
+
+7018 · קֵינָן
