@@ -25,3 +25,7 @@ Et c'est là que le corpus reviendra pour la mort. La caverne achetée aux fils 
 Ce qui s'y trouve : les chênes de [[Mamreʾ]].
 
 Ce qui s'y passe : l'installation d'[[ʾAvraham]], et la sépulture achetée aux fils de [[Chet]].
+
+## Source
+
+2275 a · חֶבְרוֹן

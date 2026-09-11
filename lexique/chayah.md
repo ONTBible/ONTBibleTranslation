@@ -21,3 +21,7 @@ Le mot sert enfin, au pluriel, à nommer ce que voit un **naviʾ** au bord d'un 
 ## Formes
 
 chayah · chayim · chayat hassadeh · etz hachayim · ruach chayyim
+
+## Source
+
+2416 a · חַיָּה

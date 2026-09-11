@@ -23,3 +23,7 @@ La différence avec la lignée de [[Yafet]] est là : celle-ci ==s'étend==, cel
 ## Voir aussi
 
 Ce qu'il ouvre : l'habitation des fils de [[Yoqtan]], que [[Sefar]] ferme.
+
+## Source
+
+4852 · מֵשָׁא

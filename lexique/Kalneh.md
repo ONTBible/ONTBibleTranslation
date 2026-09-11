@@ -23,3 +23,7 @@ Dans la table, elle n'est encore que ==la quatrième ville d'un royaume qui comm
 ## Voir aussi
 
 Son domaine : [[Nimrod]], dans [[Shinʿar]] — avec [[Bavel]], [[ʾErekh]], [[ʾAkkad]].
+
+## Source
+
+3641 a · כַּלְנֵה
