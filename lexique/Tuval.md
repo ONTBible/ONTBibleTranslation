@@ -27,3 +27,7 @@ Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [
 Son inséparable : [[Meshekh]].
 
 Le nom qui résonne de l'autre côté du **mabbul** : [[Tuval-Qayin]].
+
+## Source
+
+8422 · תֻּבַל

@@ -27,3 +27,7 @@ C'est la manière du corpus quand il tient quelque chose de lourd : ==il le dit 
 Où le corpus l'a d'abord posé : *Bereshit* 2 et 3, le Jardin et la porte gardée.
 
 Ce à quoi il sert de mesure : la plaine du [[Yarden]], [[Sedom]] et [[ʿAmorah]].
+
+## Source
+
+5731 b · עֵדֶן

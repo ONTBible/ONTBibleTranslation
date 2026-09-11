@@ -17,3 +17,7 @@ Ce qui donne du prix à la troisième lecture, même incertaine : ==celui qui su
 Le nom fonctionne comme les autres composés avec *El*. **ʾEl ʿElyon**, celui qui est au-dessus, quand la souveraineté est en cause. **ʾEl Roï**, celui qui me voit, quand quelqu'un que personne ne compte est vu. ==El Shaddai== (*ʾEl Shaddai* / אֵל שַׁדַּי), quand l'impossible cède. Ce ne sont pas des dieux différents ni des attributs empilés : ce sont ==les faces sous lesquelles il est rencontré==, et chacune est nommée là où elle se rencontre.
 
 Le corpus le laisse en hébreu. « Le Tout-Puissant » traduit une des trois pistes en écartant les deux autres, et fait un superlatif abstrait là où l'hébreu nomme une rencontre datée.
+
+## Source
+
+410 + 7706 · אֵל שַׁדַּי

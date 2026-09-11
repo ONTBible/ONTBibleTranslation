@@ -31,3 +31,7 @@ Pour l'un des deux, la phrase se termine autrement que pour tous les autres homm
 ## Formes
 
 halakh · vayelekh · hithalekh · lekh · lekh-lekha · holekh · vayithalekh · halokh
+
+## Source
+
+1980 + 3212 · הָלַךְ

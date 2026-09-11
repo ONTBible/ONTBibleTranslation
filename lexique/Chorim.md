@@ -43,3 +43,7 @@ Leur montagne : [[Seir]], le massif de grès qui leur donne leur nom autant qu'i
 Les autres peuples anciens de la même campagne : [[Refaim]], [[Zouzim]], [[ʾEmim]] — tous nommés en passant, tous frappés, aucun raconté.
 
 Ceux qui les balaient : [[Kedorlaomer]] et ses trois alliés, [[ʾAmrafel]], [[ʾAryokh]], [[Tidʿal]].
+
+## Source
+
+2752 · חֹרִי
