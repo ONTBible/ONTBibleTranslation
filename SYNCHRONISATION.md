@@ -2306,93 +2306,7 @@ Le défaut réel, une fois le facteur vraiment posé : **une `List` de macOS ne
 transmet pas `\.font` à ses lignes.** Vaut pour les trois dépôts au titre de la
 méthode, et pour le seul Mac au titre du remède.
 
-### 31 août 2026 — la chaîne de publication s'est rompue trois fois, et rien ne l'a dit
-
-Gloire a demandé que sa première **parashah** du *Chazon Avraham* atteigne les
-lecteurs. Elle ne les atteignait pas, et **personne ne le savait**.
-
-Le déploiement d'`ontbible.com` échouait **depuis six heures**. Trois défauts
-s'y étaient accumulés, indépendants :
-
-- **un bras de `match` manquant** — le site avait accueilli `Noeud::Shem` dans
-  son domaine et son rendu, sans écrire la conversion depuis `Inline::Shem`. Le
-  type d'arrivée existait, le rendu existait, **le pont entre les deux, non** ;
-- **`ONT_GENERE` posée nulle part** dans le déploiement du site. Le pipeline
-  refuse d'inventer une date — *« vide plutôt que fausse »* — et le site refuse
-  de publier un corpus indatable. Deux gardes correctes, aucune source ;
-- **une garde trop large** : le refus de publier le corpus arrêtait **tout le
-  site**. Or `/corpus/` est ce que l'app télécharge, tandis que les pages
-  portent leur corpus dans le binaire. On ne répare pas un silence en en créant
-  un plus grand.
-
-**Chacun a parfaitement joué son rôle. Chacun a refusé de publier plutôt que de
-publier faux. Aucun n'a rien dit à personne.**
-
-#### Ce qui manquait n'était pas une garde de plus
-
-`propager.yml` du vault **déclenchait et oubliait** : vert dès que GitHub
-accepte l'ordre, aveugle à tout ce qui suit.
-
-La parade posée n'est donc pas une surveillance par maillon — une garde par
-maillon ne couvre que les ruptures **qu'on a prévues**, et les trois étaient
-imprévues. C'est un contrôle de **l'état final observable** :
-`ontbible.com/corpus/manifeste.json`, ce qu'un lecteur télécharge.
-
-Et il connaît la valeur exacte à attendre, ce qui vaut mieux qu'un « ça a
-bougé » : le site estampille le corpus de la date du dernier commit du vault,
-et ce commit est celui qui déclenche le job.
-
-Trois pièges y sont encodés, tous rencontrés le même jour — `format-local` avec
-`TZ=UTC` et jamais `--date=format:`, qui rend une heure locale coiffée d'un `Z`
-et ment de l'écart au méridien sans qu'aucune vérification de forme le voie ;
-`>=` et non `==`, pour qu'une fusion qui en double une autre ne fasse pas
-rougir à tort ; et le contournement du cache, `max-age=300` sur `/corpus/`.
-
-#### Et la garde est tombée à sa première exécution
-
-`fatal: not a git repository` — le job ne fait aucun checkout, ses autres
-étapes n'appelant que l'API. Elle avait été éprouvée dans trois directions et
-jamais **dans l'environnement où elle tourne**.
-
-Ce qui la sauve est qu'elle a échoué **bruyamment et tout de suite**, ce qu'on
-lui demandait justement de faire du reste de la chaîne.
-
-**Pour les trois dépôts :** un échec de déploiement du site est un échec de
-livraison du corpus. C'est le seul chemin par lequel un texte atteint un
-lecteur, et il n'était surveillé par personne.
-
-### 31 août 2026 — onze relevés justes sur le mauvais état, en douze heures
-
-Quatre sessions, onze mesures fausses, et **aucun instrument cassé**. Toutes
-mesuraient correctement — autre chose que ce qu'on croyait. La taxonomie, parce
-que le remède diffère :
-
-| forme | exemple du jour |
-|---|---|
-| **état périmé** | un worktree de build en retard de quinze commits ; l'app compilée contre une autre branche |
-| **cache** | un corpus publié lu à travers cinq minutes de CloudFront — j'ai failli annoncer un quatrième défaut |
-| **périmètre trop étroit** | `grep ONT_GENERE .github/workflows` → rien. La variable était dans le **script que le workflow appelle** |
-| **motif mal ancré** | `grep "^brouillons"` sur une sortie `git`, qui **entoure de guillemets** les chemins accentués |
-| **unité fausse** | `grep -c` compte les **lignes**, pas les occurrences — 8 annoncés pour 10 réels |
-| **mauvais environnement** | une garde éprouvée sur trois cas et jamais là où elle s'exécute |
-| **autre chemin de code** | une sonde HTTP bien formée, sur le bon service, renvoyant six codes cohérents — et interrogeant un chemin qu'on ne voulait pas mesurer |
-
-La dernière est la pire : **sa sortie était impossible à distinguer d'une bonne
-réponse.**
-
-#### Ce qui a marché
-
-Ni le raisonnement, ni la confiance. **Comparer deux commandes.** Deux sessions
-en désaccord sur un 503 ont échangé leurs conclusions sans avancer ; l'une a
-demandé *« donne-moi ta commande exacte et je la rejoue »*, et l'écart est
-apparu en une minute — un champ du corps là où l'autre lisait un en-tête.
-
-**La règle : donner le commit, la branche et la commande sur lesquels on a
-mesuré.** Un relevé sans sa référence n'est pas vérifiable par qui n'est pas
-dans le même arbre — et à plusieurs sessions, c'est la situation normale.
-
-Corollaire : **un « 0 » est ce qu'on vérifie le moins**, parce qu'il ressemble
-à une absence et qu'une absence ne se relit pas.
+---
 
 ## 31 août 2026 — la troisième façon de mal dégrader, et l'exception qu'Android faisait
 
@@ -2651,15 +2565,103 @@ Aucune de ces mesures n'est fausse. Toutes rassurent. **Une mesure qui n'affiche
 pas ses conditions ne mesure rien** — et une garde qu'on lit plus large qu'elle
 n'est vaut moins que pas de garde.
 
+### 31 août 2026 — la chaîne de publication s'est rompue trois fois, et rien ne l'a dit
+
+Gloire a demandé que sa première **parashah** du *Chazon Avraham* atteigne les
+lecteurs. Elle ne les atteignait pas, et **personne ne le savait**.
+
+Le déploiement d'`ontbible.com` échouait **depuis six heures**. Trois défauts
+s'y étaient accumulés, indépendants :
+
+- **un bras de `match` manquant** — le site avait accueilli `Noeud::Shem` dans
+  son domaine et son rendu, sans écrire la conversion depuis `Inline::Shem`. Le
+  type d'arrivée existait, le rendu existait, **le pont entre les deux, non** ;
+- **`ONT_GENERE` posée nulle part** dans le déploiement du site. Le pipeline
+  refuse d'inventer une date — *« vide plutôt que fausse »* — et le site refuse
+  de publier un corpus indatable. Deux gardes correctes, aucune source ;
+- **une garde trop large** : le refus de publier le corpus arrêtait **tout le
+  site**. Or `/corpus/` est ce que l'app télécharge, tandis que les pages
+  portent leur corpus dans le binaire. On ne répare pas un silence en en créant
+  un plus grand.
+
+**Chacun a parfaitement joué son rôle. Chacun a refusé de publier plutôt que de
+publier faux. Aucun n'a rien dit à personne.**
+
+#### Ce qui manquait n'était pas une garde de plus
+
+`propager.yml` du vault **déclenchait et oubliait** : vert dès que GitHub
+accepte l'ordre, aveugle à tout ce qui suit.
+
+La parade posée n'est donc pas une surveillance par maillon — une garde par
+maillon ne couvre que les ruptures **qu'on a prévues**, et les trois étaient
+imprévues. C'est un contrôle de **l'état final observable** :
+`ontbible.com/corpus/manifeste.json`, ce qu'un lecteur télécharge.
+
+Et il connaît la valeur exacte à attendre, ce qui vaut mieux qu'un « ça a
+bougé » : le site estampille le corpus de la date du dernier commit du vault,
+et ce commit est celui qui déclenche le job.
+
+Trois pièges y sont encodés, tous rencontrés le même jour — `format-local` avec
+`TZ=UTC` et jamais `--date=format:`, qui rend une heure locale coiffée d'un `Z`
+et ment de l'écart au méridien sans qu'aucune vérification de forme le voie ;
+`>=` et non `==`, pour qu'une fusion qui en double une autre ne fasse pas
+rougir à tort ; et le contournement du cache, `max-age=300` sur `/corpus/`.
+
+#### Et la garde est tombée à sa première exécution
+
+`fatal: not a git repository` — le job ne fait aucun checkout, ses autres
+étapes n'appelant que l'API. Elle avait été éprouvée dans trois directions et
+jamais **dans l'environnement où elle tourne**.
+
+Ce qui la sauve est qu'elle a échoué **bruyamment et tout de suite**, ce qu'on
+lui demandait justement de faire du reste de la chaîne.
+
+**Pour les trois dépôts :** un échec de déploiement du site est un échec de
+livraison du corpus. C'est le seul chemin par lequel un texte atteint un
+lecteur, et il n'était surveillé par personne.
+
+### 31 août 2026 — onze relevés justes sur le mauvais état, en douze heures
+
+Quatre sessions, onze mesures fausses, et **aucun instrument cassé**. Toutes
+mesuraient correctement — autre chose que ce qu'on croyait. La taxonomie, parce
+que le remède diffère :
+
+| forme | exemple du jour |
+|---|---|
+| **état périmé** | un worktree de build en retard de quinze commits ; l'app compilée contre une autre branche |
+| **cache** | un corpus publié lu à travers cinq minutes de CloudFront — j'ai failli annoncer un quatrième défaut |
+| **périmètre trop étroit** | `grep ONT_GENERE .github/workflows` → rien. La variable était dans le **script que le workflow appelle** |
+| **motif mal ancré** | `grep "^brouillons"` sur une sortie `git`, qui **entoure de guillemets** les chemins accentués |
+| **unité fausse** | `grep -c` compte les **lignes**, pas les occurrences — 8 annoncés pour 10 réels |
+| **mauvais environnement** | une garde éprouvée sur trois cas et jamais là où elle s'exécute |
+| **autre chemin de code** | une sonde HTTP bien formée, sur le bon service, renvoyant six codes cohérents — et interrogeant un chemin qu'on ne voulait pas mesurer |
+
+La dernière est la pire : **sa sortie était impossible à distinguer d'une bonne
+réponse.**
+
+#### Ce qui a marché
+
+Ni le raisonnement, ni la confiance. **Comparer deux commandes.** Deux sessions
+en désaccord sur un 503 ont échangé leurs conclusions sans avancer ; l'une a
+demandé *« donne-moi ta commande exacte et je la rejoue »*, et l'écart est
+apparu en une minute — un champ du corps là où l'autre lisait un en-tête.
+
+**La règle : donner le commit, la branche et la commande sur lesquels on a
+mesuré.** Un relevé sans sa référence n'est pas vérifiable par qui n'est pas
+dans le même arbre — et à plusieurs sessions, c'est la situation normale.
+
+Corollaire : **un « 0 » est ce qu'on vérifie le moins**, parce qu'il ressemble
+à une absence et qu'une absence ne se relit pas.
+
 ### 1ᵉʳ septembre 2026 — une stratigraphie écrite sans son apparat
 
 Le *Chazon Avraham* fait descendre un feu sur la maison de Terach. La
 stratigraphie du livre affirmait que le récit **répondait au silence de
-*Bereshit* 11:28** sur la mort de Charan.
+*Bereshit* 11:28** sur la mort de Haran.
 
 Vérification faite au texte : **c'est faux du témoin de base.** Le Codex
 Sylvester, le plus ancien des six slavons, fait périr **Terach**. La version où
-Charan meurt est une **insertion** de trois manuscrits tardifs, et cette
+Haran meurt est une **insertion** de trois manuscrits tardifs, et cette
 insertion **harmonise** — elle comble le silence de la Torah et rejoint
 *Yovelim*. Une couche de copiste, du genre exact que le filtre du livre écarte.
 
@@ -2868,99 +2870,6 @@ et donné la commande de vérification plutôt que la conclusion. Trois lignes
 suffisaient — le commit qui introduit la phrase, l'état parent qui ne la porte
 pas, l'état courant qui la porte.
 
-### 3 septembre 2026 — un rapport qui rend `0` en normalisant autrement que le lecteur
-
-Le rapport de build relevait quatre choses et rendait `0` partout. **Deux cent
-trente-sept liens du corpus livré n'ouvraient rien.**
-
-La raison tient en une phrase, et c'est elle qu'il faut garder : **le rapport
-normalisait autrement que le consommateur.** Pour décider si `**gibborim**` a
-une fiche, il traversait la liste des formes déclarées et retombait sur
-`gibbor` ; le nœud livré, lui, porte `lemma: "gibborim"`, et la liseuse indexe
-par lemme exact. Les deux avaient raison chacun de son côté, et le lecteur
-recevait ==« Terme non documenté »== sur un mot parfaitement documenté.
-
-**Pour les trois dépôts.** La question qu'un contrôle doit poser n'est pas
-« cette chose existe-t-elle ? » mais ==« la référence telle qu'elle est écrite
-dans le fichier livré retombe-t-elle sur une entrée du même fichier ? »== On ne
-mesure pas la source, on mesure ce qu'on livre.
-
-**Deux contrôles neufs en découlent**, tous deux dans le pipeline : chaque
-lemme émis doit retomber sur une entrée du même `dist/`, et la densité de glose
-par unité tourne à chaque build — le §4.1 l'exigeait depuis un mois, et une
-commande qu'il faut penser à lancer avait été oubliée ==le jour même où la
-règle a été écrite==.
-
-**Le cliquet, et pourquoi pas zéro.** Le plafond est posé à la valeur mesurée,
-non à zéro : à zéro il aurait fallu le désactiver, la correction appartenant à
-l'auteur. Or ==un contrôle qu'on branchera « le jour où » ne se branche
-jamais== — le jour venu, personne ne sait plus où le seuil devait aller. À la
-valeur réelle il protège tout de suite contre la seule chose qu'un rapport nu
-ne voit pas : **l'aggravation**. Et il se resserre dès que le compte baisse,
-sinon il cesse de cliqueter.
-
-### 3 septembre 2026 — le contrôle qu'on éprouve, et les 206 qui n'existaient pas
-
-Le premier plafond allait être commis à **206**. La session macOS avait dit
-d'éprouver chaque contrôle contre un état dont on connaît la réponse. Fait —
-**et le compte n'a pas bougé**.
-
-Le parcours ne regardait que `blocks`. Les notes de bas de section vivent dans
-`footer.notes`, et le corpus de *Bereshit* y livre ==170 nœuds touchables à lui
-seul== : l'apparat critique du §2.7 est dense en intraduisibles, il est rendu,
-il est touchable. Le vrai compte était **237**.
-
-**206 n'était pas un plafond, c'était la mesure d'un instrument borgne** — et
-il partait comme référence de tous les builds à venir.
-
-**Pour les trois dépôts.** Un contrôle neuf se retourne contre un état dont on
-connaît la réponse **avant** d'être commis, et la seule épreuve qui vaut est
-celle qui doit le faire ==rougir==. Un compteur qui rend `0` parce que son
-entrée est vide se lit exactement comme un corpus sain.
-
-Le corollaire, qui a servi trois fois dans la journée : **un `0` qui vaut zéro
-parce que le corpus est sain et un `0` qui vaut zéro parce que l'instrument est
-borgne s'écrivent pareil**, et c'est le premier qu'on lit. Le rapport porte
-désormais le compte de ce que les parcours restreints ne voient pas — ==613
-nœuds== — non pour les corriger, mais pour que leur `0` cesse d'être cru sans
-preuve.
-
-**Et une épreuve ratée qui vaut la réussie :** la première tentative de faire
-rougir le contrôle d'index ajoutait une ligne ==à la fin== du fichier, où elle
-ne décale aucun numéro. Le contrôle avait raison de se taire, et j'ai failli le
-croire cassé. ==Un cas dont on croit connaître la réponse n'est pas un cas dont
-on la connaît.==
-
-### 3 septembre 2026 — une table de renvois, et pourquoi elle n'est pas un document de plus
-
-Le savoir du vault est éclaté sur cinq sources qui ont chacune une bonne raison
-d'exister, et les arbitrages récents vivent dans les **pieds de section**, là où
-personne ne pense à chercher. Le coût n'est pas de chercher : c'est de ==ne pas
-trouver et de retrancher==, en croyant décider pour la première fois.
-
-`DECISIONS.md` répond à ça — et ==il est engendré, jamais rédigé==. Le §2.5 ter
-pose la règle : *une seule source par fait*. Une base écrite à la main serait
-une sixième source et elle divergerait. Celle-ci ne copie rien : elle dit **où**
-une décision est écrite, jamais ce qu'elle dit. On ne peut donc pas la
-contredire ; au pire elle est incomplète.
-
-**Pour les trois dépôts.** Un index engendré réclame exactement deux choses, et
-les deux ont failli manquer :
-
-- **l'idempotence** — l'index s'indexait lui-même, recopiait ses propres lignes
-  à chaque exécution et cessait de rendre le même fichier. C'est le seul
-  contrôle qu'un fichier engendré demande vraiment ;
-- **la fidélité au producteur** — l'extraction emploie ==l'expression exacte==
-  du pipeline et ==sa règle de slug exacte==. Deux versions approximatives ont
-  été écrites et jetées : l'une fabriquait un lemme inexistant, l'autre
-  manquait ==neuf réservations sur quatorze== sans que rien ne le signale,
-  puisqu'une liste courte ressemble à une liste. **Un index qui contredit son
-  producteur est pire qu'une absence d'index : il aurait fallu le croire.**
-
-Et il se contrôle en CI par régénération et comparaison — l'échec ==dit la
-commande== et ne régénère pas en silence, la CI n'écrivant pas à la place de
-qui a relu.
-
 ## 3 septembre 2026 — l'expurgation ne tenait pas en français, et les deux apps la portaient
 
 Android a des testeurs depuis aujourd'hui, donc un rapporteur d'erreurs. En
@@ -3090,7 +2999,6 @@ tout le monde** la marque qu'un client plus récent aurait posée en turquoise.
 Une épreuve dit exactement ce que le code fait aujourd'hui, et elle échouera le
 jour où on décidera autrement. C'est le but : une décision différée doit être
 visible, pas oubliée.
-
 ## 3 septembre 2026 — deux barres latérales qui n'étaient pas la même vue
 
 L'auteur pose deux captures côte à côte, iPad et Mac : « tu vois bien par contre
@@ -3170,6 +3078,99 @@ Vérifié par sonde, facteur forcé à 1,5 et `min` porté à 240 : la colonne p
 de 322 à **360 pt exactement**. La borne prime donc sur la largeur qu'AppKit
 avait gardée sous « NSSplitView Subview Frames » — ce qui n'allait pas de soi,
 et sans quoi le correctif n'aurait servi qu'au premier lancement.
+
+### 3 septembre 2026 — un rapport qui rend `0` en normalisant autrement que le lecteur
+
+Le rapport de build relevait quatre choses et rendait `0` partout. **Deux cent
+trente-sept liens du corpus livré n'ouvraient rien.**
+
+La raison tient en une phrase, et c'est elle qu'il faut garder : **le rapport
+normalisait autrement que le consommateur.** Pour décider si `**gibborim**` a
+une fiche, il traversait la liste des formes déclarées et retombait sur
+`gibbor` ; le nœud livré, lui, porte `lemma: "gibborim"`, et la liseuse indexe
+par lemme exact. Les deux avaient raison chacun de son côté, et le lecteur
+recevait ==« Terme non documenté »== sur un mot parfaitement documenté.
+
+**Pour les trois dépôts.** La question qu'un contrôle doit poser n'est pas
+« cette chose existe-t-elle ? » mais ==« la référence telle qu'elle est écrite
+dans le fichier livré retombe-t-elle sur une entrée du même fichier ? »== On ne
+mesure pas la source, on mesure ce qu'on livre.
+
+**Deux contrôles neufs en découlent**, tous deux dans le pipeline : chaque
+lemme émis doit retomber sur une entrée du même `dist/`, et la densité de glose
+par unité tourne à chaque build — le §4.1 l'exigeait depuis un mois, et une
+commande qu'il faut penser à lancer avait été oubliée ==le jour même où la
+règle a été écrite==.
+
+**Le cliquet, et pourquoi pas zéro.** Le plafond est posé à la valeur mesurée,
+non à zéro : à zéro il aurait fallu le désactiver, la correction appartenant à
+l'auteur. Or ==un contrôle qu'on branchera « le jour où » ne se branche
+jamais== — le jour venu, personne ne sait plus où le seuil devait aller. À la
+valeur réelle il protège tout de suite contre la seule chose qu'un rapport nu
+ne voit pas : **l'aggravation**. Et il se resserre dès que le compte baisse,
+sinon il cesse de cliqueter.
+
+### 3 septembre 2026 — le contrôle qu'on éprouve, et les 206 qui n'existaient pas
+
+Le premier plafond allait être commis à **206**. La session macOS avait dit
+d'éprouver chaque contrôle contre un état dont on connaît la réponse. Fait —
+**et le compte n'a pas bougé**.
+
+Le parcours ne regardait que `blocks`. Les notes de bas de section vivent dans
+`footer.notes`, et le corpus de *Bereshit* y livre ==170 nœuds touchables à lui
+seul== : l'apparat critique du §2.7 est dense en intraduisibles, il est rendu,
+il est touchable. Le vrai compte était **237**.
+
+**206 n'était pas un plafond, c'était la mesure d'un instrument borgne** — et
+il partait comme référence de tous les builds à venir.
+
+**Pour les trois dépôts.** Un contrôle neuf se retourne contre un état dont on
+connaît la réponse **avant** d'être commis, et la seule épreuve qui vaut est
+celle qui doit le faire ==rougir==. Un compteur qui rend `0` parce que son
+entrée est vide se lit exactement comme un corpus sain.
+
+Le corollaire, qui a servi trois fois dans la journée : **un `0` qui vaut zéro
+parce que le corpus est sain et un `0` qui vaut zéro parce que l'instrument est
+borgne s'écrivent pareil**, et c'est le premier qu'on lit. Le rapport porte
+désormais le compte de ce que les parcours restreints ne voient pas — ==613
+nœuds== — non pour les corriger, mais pour que leur `0` cesse d'être cru sans
+preuve.
+
+**Et une épreuve ratée qui vaut la réussie :** la première tentative de faire
+rougir le contrôle d'index ajoutait une ligne ==à la fin== du fichier, où elle
+ne décale aucun numéro. Le contrôle avait raison de se taire, et j'ai failli le
+croire cassé. ==Un cas dont on croit connaître la réponse n'est pas un cas dont
+on la connaît.==
+
+### 3 septembre 2026 — une table de renvois, et pourquoi elle n'est pas un document de plus
+
+Le savoir du vault est éclaté sur cinq sources qui ont chacune une bonne raison
+d'exister, et les arbitrages récents vivent dans les **pieds de section**, là où
+personne ne pense à chercher. Le coût n'est pas de chercher : c'est de ==ne pas
+trouver et de retrancher==, en croyant décider pour la première fois.
+
+`DECISIONS.md` répond à ça — et ==il est engendré, jamais rédigé==. Le §2.5 ter
+pose la règle : *une seule source par fait*. Une base écrite à la main serait
+une sixième source et elle divergerait. Celle-ci ne copie rien : elle dit **où**
+une décision est écrite, jamais ce qu'elle dit. On ne peut donc pas la
+contredire ; au pire elle est incomplète.
+
+**Pour les trois dépôts.** Un index engendré réclame exactement deux choses, et
+les deux ont failli manquer :
+
+- **l'idempotence** — l'index s'indexait lui-même, recopiait ses propres lignes
+  à chaque exécution et cessait de rendre le même fichier. C'est le seul
+  contrôle qu'un fichier engendré demande vraiment ;
+- **la fidélité au producteur** — l'extraction emploie ==l'expression exacte==
+  du pipeline et ==sa règle de slug exacte==. Deux versions approximatives ont
+  été écrites et jetées : l'une fabriquait un lemme inexistant, l'autre
+  manquait ==neuf réservations sur quatorze== sans que rien ne le signale,
+  puisqu'une liste courte ressemble à une liste. **Un index qui contredit son
+  producteur est pire qu'une absence d'index : il aurait fallu le croire.**
+
+Et il se contrôle en CI par régénération et comparaison — l'échec ==dit la
+commande== et ne régénère pas en silence, la CI n'écrivant pas à la place de
+qui a relu.
 
 ## 4 septembre 2026 — la liseuse du Mac s'installe par Homebrew
 
@@ -3624,6 +3625,215 @@ affirmation :
   paraît en lien mort, ce qu'il fait aujourd'hui quatre fois sur `dev`.
 
 ---
+
+### 8 septembre 2026 — le secret de diffusion voyage dans Authorization, parce que la télémétrie ne filtre que ce qu'elle connaît
+
+L'audit cyber du 8 septembre (C02) l'a reproduit avec le SDK réel et un
+transport en mémoire : un événement Sentry du backend portait l'en-tête
+`x-secret-diffusion` — le secret qui autorise `/diffuser` — et un autre le
+`?code=` d'un retour OAuth. Le témoin `Authorization` était, lui, correctement
+absent.
+
+Le mécanisme, lu dans `sentry-tower` 0.48.5 : quand `send_default_pii` est
+faux, les en-têtes passent par la liste `is_sensitive_header` du SDK — un
+en-tête **maison** n'y figure pas, donc traverse — et l'URL par
+`scrub_pii_from_url`, qui retire les identifiants et **garde la query**. Et
+les transactions n'ont aucun crochet d'expurgation dans cette version : seul
+`before_send` existe, et il ne voit que les événements.
+
+Le remède a deux étages, parce qu'un seul ne suffisait pas :
+
+- **le contrat** (ONTBibleApp#249, `device`) : le secret voyage dans
+  `Authorization: Bearer` — l'en-tête que le SDK filtre nativement,
+  transactions comprises. L'ancien en-tête reste accepté le temps de la
+  transition, puis tombera ;
+- **la ceinture** (même PR, module `observabilite`, éprouvé) : un
+  `before_send` retire l'en-tête hérité et toute query string des événements
+  — si un secret repasse un jour par un chemin non filtré, il meurt avant
+  l'envoi.
+
+**L'annonceur du site n'envoie plus que Bearer** (ONTBibleWebapp#124) — pas de
+période à double en-tête : chaque envoi de l'ancien le remettrait dans les
+transactions, que rien ne sait expurger. La fenêtre est assumée et écrite dans
+le script : tant que le backend déployé (palier `app-store`) ne connaît pas
+Bearer, une annonce de parution est refusée en 401 — non fatale par
+construction, le corpus se publie quand même.
+
+**Ce que ça engage.** Tout futur appelant de `/diffuser` emploie
+`Authorization: Bearer` ; l'en-tête maison meurt à la fin de la transition.
+Et la leçon vaut au-delà du cas : *un secret ne voyage que dans un en-tête que
+la télémétrie sait filtrer* — en inventer un, c'est le publier.
+
+**Reste opérationnel, chez l'auteur** : vérifier les événements déjà reçus
+côté Sentry (l'accès outillé a expiré, le jeton local n'est qu'un jeton CI),
+et faire tourner le secret si l'exposition se confirme.
+
+## 8 septembre 2026 — le niveau 3 devient touchable, et le champ qui le porte traverse les trois
+
+Le lecteur lit `(*chesed* / חֶסֶד)`, il est dessus, c'est exactement le moment où
+il veut la fiche — et rien ne répond. Le même mot, balisé `**chesed**` trente
+lignes plus haut, l'ouvre pourtant. L'appareil qui relie un mot à sa fiche
+s'arrêtait au corps du texte, à l'endroit précis où on le demande.
+
+`Inline::Translit` porte désormais une **`cible`**, remplie à la construction :
+`{"t":"term","lemma":"…"}` ou `{"t":"shem","lemma":"…"}`, escamotée quand il n'y
+en a pas. Sur 2086 translittérations, **829 se résolvent** — 398 vers une entrée
+de glossaire, 431 vers un Shem — et 1257 restent inertes.
+
+**Aucune résolution morphologique, et c'est la décision.** `vayiven` vient de
+`banah`, `lehavdil` de `badal` ; ces règles se codent. Le problème n'est pas leur
+difficulté mais leur **mode d'échec** : une règle qui se trompe ne rend pas le
+mot inerte, elle le rend touchable ==vers la mauvaise fiche==. Le lecteur arrive
+ailleurs sans que rien ne le dise. L'abstention se voit, la substitution
+silencieuse non. Le chemin de sortie est le §2.5, et `dist/report.md` classe
+maintenant les 989 formes restantes **par fréquence** pour que la déclaration
+commence par ce qui sert le plus — `YHWH Elohim` en tête, 26 occurrences.
+
+### Ce que ça change pour chaque dépôt
+
+- **App** — le pipeline émet le champ ; iOS et Android le lisent et le rendent
+  touchable, avec la couleur de la destination. 191 épreuves iOS, `:ontdata` et
+  `:ontkit` verts côté Android.
+- **Site** — il compile contre la caisse `ont-pipeline` elle-même, donc **un
+  champ ajouté à `Inline::Translit` casse sa compilation**, immédiatement et par
+  construction. Porté dans la même session : branche `lier-le-niveau-trois`.
+  ==Elle ne compile qu'une fois le pipeline fusionné sur `device`== — c'est la
+  dépendance de chemin `../ONTBibleApp/pipeline`, et l'ordre de fusion est donc
+  App puis Site, jamais l'inverse.
+- **Vault** — rien à porter, une liste de travail à recevoir : la section
+  « Niveau 3 non résolu — par où déclarer » du rapport.
+
+### Deux défauts trouvés en chemin, et ils se ressemblent
+
+**Le codegen Swift ne savait pas décoder un optionnel dans une variante d'enum.**
+`cible` est le premier, et la Swift engendrée écrivait
+`try container.decode(Cible?.self, forKey:)` — qui lève `keyNotFound` sur une clé
+absente, là où le `Decodable` synthétisé lirait `decodeIfPresent`. Mesuré sur un
+`{"a":"x"}`. Le commentaire du module affirmait « les optionnels vont bien tout
+seuls » : vrai du synthétisé, faux de l'écrit à la main — et une variante d'enum
+tagué s'écrit **toujours**. Le champ escamoté étant le cas ordinaire, la faute
+n'aurait pas raté un nœud : elle aurait fait échouer le décodage du corpus
+entier.
+
+**`.github/scripts/epreuves.py` n'était lancé par personne.** Écrit le 31 août
+contre un faux App Store Connect, précisément pour les deux défauts que
+`py_compile` ne voit pas — et `tests.yml` s'arrêtait à `py_compile`. Sa propre
+docstring donnait la commande, et personne ne la tapait. Même famille d'un cran
+au-dessus : l'instrument exact qui ne répond à la question de personne. La CI les
+lance maintenant.
+
+## 8 septembre 2026 — la 1.0.6, et le rappel que trois livraisons mortes n'avaient pas obtenu
+
+Apple a validé la **1.0.5**. Le numéro public est donc brûlé : App Store Connect
+refuse un téléversement qui le reprend, et le refus arrive **après** la
+compilation et la signature de l'archive. Puis ça recommence à chaque fusion tant
+que le numéro n'a pas bougé — cinq livraisons de suite en août.
+
+Troisième occurrence en quinze jours : 1.0.3 le 24 août, 1.0.4 le 30, 1.0.5 le 8
+septembre. `app/project.yml` portait les deux premières écrites et la conclusion
+« ce qui manque est un **rappel**, pas une automatisation ». La phrase y est
+restée, et la troisième est arrivée. ==Un texte qui nomme ce qui manque ne le
+fournit pas.==
+
+`livraison.yml` demande maintenant à App Store Connect si le numéro est libre, en
+tête, avant la première étape qui coûte — iOS et macOS, chacun sur sa plateforme.
+
+**Pourquoi Apple et non les releases GitHub.** Une release existe dès qu'une
+version atteint `app-store`, donc dès la *soumission*, pas dès l'approbation. Une
+version soumise puis **rejetée** accepte parfaitement un nouveau build sous le
+même numéro ; s'appuyer sur la release bloquerait exactement la correction qu'un
+rejet appelle. L'instrument aurait été exact, et il aurait répondu à une autre
+question que celle qu'on pose.
+
+**Pour les trois dépôts** : rien à porter, une chose à savoir — la version
+publique de l'app est **1.0.6** partout où l'on en parle, et le geste de la
+monter n'est plus laissé à la mémoire de qui livre.
+
+### Addendum du 8 septembre au soir — `## Formes`, et l'endroit où l'on déclare
+
+Le classement envoyé au vault dans la journée conseillait *« ajouter la forme au
+§2.5 de son entrée »*. **C'était faux**, et la session du vault l'a relevé.
+
+L'auteur a tranché le même jour (§2.5 ter) qu'une fiche déclare ses propres
+formes fléchies, **après son corps** :
+
+    lexique/<lemme>.md
+
+    ## Formes
+
+    vayomer · vayomru · amarti · vaʾomar
+
+Pas au §2.5 du document de référence : celui-ci réserve `**…**` aux
+**intraduisibles**, et y déclarer `vayomer` ferait d'`amar` un intraduisible —
+lui faisant perdre son rendu « formuler » du §3.1. Le même endroit ne peut pas
+dire les deux.
+
+**Le pipeline ne lisait aucune de ces sections.** Trente-quatre fiches, cent
+soixante-quatre formes écrites, zéro effet : `form_index` ne se construisait
+qu'à partir du `CLAUDE.md`. Le contrôle positif était sous le nez — `asah.md`
+déclare `vayaʿas`, et le rapport du même build l'imprimait en inerte à six
+occurrences. Mesuré par la session du vault sur trois états successifs du vault,
+sans lire une ligne de code.
+
+Corrigé : **844 → 977 translittérations résolues sur 2085**, et la prose du
+rapport dit maintenant le bon endroit — dans le même commit que le lecteur, et
+pas avant, sinon on enverrait écrire dans un endroit que rien ne lit.
+
+**Ce que ça change pour le vault, et c'est tout ce qu'il y a à retenir** : la
+section « Niveau 3 non résolu — par où déclarer » du rapport porte la liste, et
+son remède est `## Formes` dans la fiche. Pour un nom propre, c'est la fiche de
+Shem qu'il faut écrire. Sept fiches — `halakh`, `mut`, `yada`, `sim`, `zera`,
+`gan`, `toledot` — existent dans `lexique/` **sans entrée de glossaire** : leurs
+formes restent inertes tant que l'entrée n'est pas écrite, parce qu'un lien vers
+une fiche absente de `glossary.json` donnerait un mot doré qui n'ouvre rien.
+
+## 8 septembre 2026 — un jeton survivait à son compte, et l'app le savait déjà faire
+
+`DELETE /me` répondait `204`, et le jeton d'accès continuait d'ouvrir `PUT /sync`
+pendant **cinquante-neuf minutes**. Le lecteur pouvait donc réécrire ce qu'il
+venait de faire effacer.
+
+**Ce n'est pas un scénario d'attaquant.** C'est l'app elle-même qui le ferait :
+elle pousse sa file locale à la prochaine occasion, sans savoir que le compte
+n'est plus. L'effacement cessait d'être final, et rien ne le disait — ni au
+lecteur, ni au journal.
+
+Un JWT ne se révoque pas : signé, il vaut jusqu'à son expiration. Le remède posé
+dans `domain/token.rs` — le garder court, une heure — est juste pour une fuite.
+Il ne l'est pas pour un effacement, qui doit valoir tout de suite.
+
+`erase` supprime toute la partition du lecteur, **profil compris**. « Le compte
+existe-t-il » et « ce jeton vaut-il encore » sont donc la même question, posée à
+un objet qui existe déjà. Une liste de révocation aurait demandé un type d'objet
+neuf, un TTL à tenir, et un endroit de plus où l'oubli d'une écriture rouvre le
+trou.
+
+### Ce que ça change pour les trois clients — vérifié, pas supposé
+
+Le contrat de forme ne bouge pas : ==aucune réponse ne change de shape==. Ce qui
+change est qu'un `401` peut désormais arriver **là où l'app n'en attendait pas**
+— sur une route qui répondait encore il y a une heure.
+
+- **iOS** — `AccountModel.synchronise()` porte déjà
+  `catch AccountError.unauthorized { signOut() }`. Un compte effacé ailleurs
+  déconnecte proprement au lieu de ressusciter ses données. Rien à porter.
+- **Le site** — `infrastructure/comptes.rs` traduit `401` en
+  `ErreurDeCompte::Refuse` sur ses deux appels de synchronisation. Rien à porter.
+- **Android** — la synchronisation n'est pas encore branchée ; le jour où elle
+  le sera, le `401` doit déconnecter et non réessayer. Une boucle de
+  rafraîchissement échouerait de toute façon : le jeton de rafraîchissement vit
+  en base, et l'effacement l'emporte avec le reste.
+
+`DELETE /me` reste **idempotent** : c'est la seule route qui ne vérifie que la
+signature. Un second appel n'a rien à effacer et ne doit pas se plaindre.
+
+Le prix est un `GetItem` par requête authentifiée. L'alternative gratuite — une
+écriture conditionnelle sur `PUT /sync` seulement — fermait la réécriture sans
+rien coûter, mais laissait un compte effacé lire et diffuser. **Une révocation
+qui ne vaut que sur une route n'est pas une révocation.**
+
+`livraison.yml` ignore `backend/**` : ce correctif ne consomme aucune place de
+téléversement Apple. Il part par `deployer-backend.yml`.
 
 ### 8 septembre 2026 — une PR peut porter une condition que sa branche ne connaît pas
 
