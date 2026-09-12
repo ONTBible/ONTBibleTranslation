@@ -370,13 +370,28 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
   hauteur elle-même ; *gavah* (34) est le mouvement de s'élever. ==Rien n'y est
   moral tant qu'on ne dit pas ce qui s'élève== : une tour qui monte est *gavoah*
   sans être coupable, et c'est le **lev** qui monte qui l'est.
-- `**gavar**` / `**gever**` / `**gevirah**` — intraduisible : ==l'emporter, être
-  le plus fort== (גָּבַר). La famille de **gevurah** et de **gibbor**, que le
-  §2.5 déclare déjà, et qu'il faut prendre entière. *Gever* (65 emplois) est
-  ==l'homme en tant qu'il prévaut== — un autre mot qu'**ʾish**, qui dit la
-  relation, et qu'**ʾadam**, qui dit l'espèce. *Gevirah* (9) est ==la maîtresse
-  d'une maison== : la même racine, au féminin, pour celle qui l'emporte chez
-  elle. Le verbe paraît 25 fois, et il dit ce que le nom promet.
+- `**gavar**` / `**gever**` — intraduisible : ==l'emporter, être le plus fort==
+  (גָּבַר). La famille de **gevurah** et de **gibbor**, que le §2.5 déclare déjà,
+  et qu'il faut prendre entière. *Gever* (65 emplois) est ==l'homme en tant qu'il
+  prévaut== — un autre mot qu'**ʾish**, qui dit la relation, et qu'**ʾadam**, qui
+  dit l'espèce. Le verbe paraît 25 fois, et il dit ce que le nom promet.
+  ⚠️ ==*Gever* a un homographe, et il est dans la Torah== : `6100`, *ʿEtsyon
+  Gever*, le port d'Edom — sept emplois dont *Nombres* 33:35-36 et *Deutéronome*
+  2:8. ==Mêmes consonnes, mêmes voyelles== : seul le numéro les sépare.
+- `**geveret**` — intraduisible : ==celle qui l'emporte dans sa maison== (גְּבֶרֶת),
+  9 emplois. C'est ==le mot de *Bereshit* 16==, où il paraît trois fois et
+  s'apparie à **shifchah** : Hagar change de sphère, et les deux mots nomment les
+  deux bouts du rapport.
+  ==Cette puce disait `gevirah`, et c'était deux mots fondus en un.== Le témoin en
+  porte trois que rien ne distingue à l'oreille : `1404` *geveret*, la maîtresse
+  de maison, celle du corpus ; `1377` *gevirah*, ==la mère du roi== — une charge
+  de cour qu'on démet et qu'on déporte, et qui n'est ==nulle part dans la Torah== ;
+  `1376` *gevir*, le masculin, ==deux fois et toutes deux en *Genèse* 27==, *sois
+  gevir pour tes frères*. J'avais pris ==la graphie de 1377 et le compte de
+  1404== — le profil exact de la faute qui a fondu [[Haran]] et [[Charan]] le
+  8 septembre. Relevé et corrigé le 12 septembre 2026 par l'agent qui écrivait la
+  fiche.
+
 - `**gazaz**` / `**gez**` / `**gizzah**` — intraduisible : ==tondre, retrancher
   ce qui a poussé== (גָּזַז). Non « tondre » au sens du métier : le mot dit
   ==l'acte de séparer d'un vivant ce qu'il a produit==, et il sert pour la laine
