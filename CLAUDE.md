@@ -236,7 +236,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
   première chose à savoir : l'hébreu ne dit jamais « un ciel ». Non « le Ciel »
   au sens où le français en a fait ==une destination après la mort== — c'est une
   couche tardive, et le §4.7 la filtre. Le **shamayim** est ==ce qu'on voit en
-  levant les yeux==, et c'est là que le **raqiaʿ** est tendu. Le §6.3 en tire une
+  levant les yeux==, et c'est là que le *raqiaʿ* est tendu. Le §6.3 en tire une
   conséquence de traduction : ==on ne compte pas les Cieux== — le chiffre est une
   spatialisation, et l'ONT rend ce que la zone fait, non le rang qu'elle occupe.
 - `**ʾeretz**` — intraduisible depuis le 12 septembre 2026 : ==le domaine où
