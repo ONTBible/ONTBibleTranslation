@@ -231,6 +231,32 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
   le sol qu'on travaille, le **tevel** est l'étendue en tant qu'elle porte des
   vivants. Les rendre tous trois par « terre » ferait disparaître deux
   distinctions que la langue tient. Premier emploi *1 Samuel* 2:8.
+- `**shamayim**` — intraduisible depuis le 12 septembre 2026 : ==ce qui se
+  déploie au-dessus== (שָׁמַיִם). ==Le mot n'a pas de singulier==, et c'est la
+  première chose à savoir : l'hébreu ne dit jamais « un ciel ». Non « le Ciel »
+  au sens où le français en a fait ==une destination après la mort== — c'est une
+  couche tardive, et le §4.7 la filtre. Le **shamayim** est ==ce qu'on voit en
+  levant les yeux==, et c'est là que le **raqiaʿ** est tendu. Le §6.3 en tire une
+  conséquence de traduction : ==on ne compte pas les Cieux== — le chiffre est une
+  spatialisation, et l'ONT rend ce que la zone fait, non le rang qu'elle occupe.
+- `**ʾeretz**` — intraduisible depuis le 12 septembre 2026 : ==le domaine où
+  l'on tient== (אֶרֶץ). Non « la Terre » au sens de la planète, qui est moderne
+  et qu'aucun hébreu ancien n'a pensée. ==Le même mot dit le pays d'un peuple et
+  l'étendue sous les Cieux==, et le français doit choisir à chaque verset :
+  *eretz Kenaʿan* est un pays, *ha-shamayim veha-ʾeretz* est la totalité. 2504
+  emplois — ==l'un des mots les plus fréquents du corpus==.
+- `**ʾadamah**` — intraduisible depuis le 12 septembre 2026 : ==le sol qu'on
+  travaille et dont on est fait== (אֲדָמָה). Non « la terre » : c'est ==la glaise
+  cultivable==, celle qu'on ouvre et qui rend. ==Même racine qu'**ʾadam**==, et
+  c'est tout le §3.2 : l'Être façonné du sol tient son nom de ce dont il est
+  tiré. C'est l'*ʾadamah* qui est frappée en *Bereshit* 3, pas l'**ʾeretz** —
+  ==ce n'est pas le domaine qui est atteint, c'est ce qui nourrit==.
+  ==Les trois terres sont désormais intraduisibles ensemble==, sur décision de
+  l'auteur du 12 septembre : l'**ʾeretz** est le domaine, l'**ʾadamah** est le
+  sol, le **tevel** est l'étendue en tant qu'elle porte des vivants. Les rendre
+  tous trois par « terre » faisait disparaître deux distinctions que la langue
+  tient, et en rendre deux seulement laissait le lecteur voir un mot d'or à côté
+  d'un mot français ==là où l'hébreu les oppose dans le même verset==.
 - `**seter**` — intraduisible : ==le couvert, l'endroit d'où l'on n'est pas vu==
   (סֵתֶר). De *satar* (סָתַר) — se dérober à la perception. Non « secret », qui en
   français désigne ==un contenu qu'on retient== : le **seter** n'est pas une
@@ -870,7 +896,7 @@ Opérationnalise §2.1 : chaque terme du glossaire reçoit **un** use case — u
 |---|---|---|
 | **UC0** | Noms divins — hébreu/gras, jamais traduits ; glose fondatrice une fois dans tout le corpus | généreux |
 | **UC1** | Intraduisible — le mot reste hébreu (gras) | 1re occ. |
-| **UC2** | Noyau *(traduit, hébreu persistant)* — *shamayim*/Cieux, *eretz*/Terre, *adamah*/sol concret… | **≥ 1×/chapitre** (régime b) |
+| **UC2** | Noyau *(traduit, hébreu persistant)* — *tselem*/représentant fonctionnel, *demut*/modelé sur, *moʿed*/temps fixé, *minchah*/tribut… *(Cette case donnait *shamayim*, *eretz* et *adamah* pour exemples ; les trois sont passés en UC1 le 12 septembre 2026. La catégorie garde son office — ==un mot traduit dont l'hébreu revient assez souvent pour que le lecteur l'apprenne== — et change d'illustration.)* | **≥ 1×/chapitre** (régime b) |
 | **UC3** | Traduit standard *(le défaut)* — *tselem*/représentant fonctionnel, *banah*/édifia… | 1re occ., puis nu |
 | **UC4** | Nom propre | 1re occ. + identification sur 5 occ. (§4.12) |
 | **UC5** | Glose seule — structure (mérisme, chiasme, ambiguïté, silence) | — |
@@ -1921,9 +1947,9 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | תְהוֹם | *tehom* | eaux primordiales | L'océan sans fond, sans limite, sans bord — les eaux d'avant toute ordination. Apparenté à Tiamat. |
 | רוּחַ | *ruach* | Ruach | Intraduisible : souffle, vent, esprit — trois dimensions inséparables. Toujours laissé en hébreu. |
 | רָקִיעַ | *raqiaʿ* | Voûte | Surface délimitante tendue entre les eaux d'en haut et d'en bas. |
-| שָׁמַיִם | *shamayim* | Cieux | Ce qu'on voit au-dessus de nous. Étymologiquement "là où sont les eaux". |
-| אֶרֶץ | *eretz* | Terre | Le domaine terrestre habitable — avec majuscule une fois nommé. |
-| אֲדָמָה | *adamah* | sol concret | La glaise, la terre cultivable dans sa dimension physique. Même racine qu'Adam. |
+| שָׁמַיִם | *shamayim* | **shamayim** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « Cieux » est retiré : le français impose un pluriel de majesté là où l'hébreu n'a ==pas de singulier du tout==, et il traîne l'idée d'une destination après la mort que le §4.7 filtre. |
+| אֶרֶץ | *eretz* | **ʾeretz** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « Terre » est retiré : il faisait choisir à chaque verset entre ==le pays d'un peuple== et ==l'étendue sous les Cieux==, que l'hébreu dit d'un seul mot. |
+| אֲדָמָה | *adamah* | **ʾadamah** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « sol concret » était juste et ==perdait la parenté avec **ʾadam**==, que l'hébreu écrit dans les lettres. |
 | אָדָם | *adam* | l'Être façonné du sol (Bereshit 1-7) / **ʾadam** intraduisible (Bereshit 8+) | Bereshit 1-7 : traduit "l'Être façonné du sol" pour rendre visible l'étymologie adamah/adam. Bereshit 8+ : intraduisible — laissé en hébreu en gras. Dans les contextes légaux et covenantaux de Gn 9, ha-adam désigne l'humanité dans son universalité ; la périphrase complète brise les chiasmes et alourdit la formulation du droit divin. Décision actée en Bereshit 8, v.5. Extension : le critère est l'ère, non le livre — dans un récit hors *Bereshit* mais en régime antédiluvien (avant le **mabbul**, ex. *Sefar Gibbaraya*), la périphrase "l'Être façonné du sol" vaut également, car c'est l'ère de *Bereshit* 1-7. ==Distinction essentielle== : la périphrase rend le ==générique== *ha-adam* / *benei ha-adam* (l'humanité, l'espèce). Le ==nom propre== Adam d'un personnage individuel (ex. *Toledot Adam ve-Chavah*, où Adam et Chavah sont des personnes nommées) demeure un ==nom propre== (§4.12) — ni traduit, ni balisé, glosé à la première occurrence. |
 | אִשָּׁה / אִישׁ | *ishah* / *ish* | Ishah / Ish | Intraduisible. Non pas "femme/homme" au sens social. L'ishah est édifiée (banah) pour faire face à l'ish — "os de mes os, chair de ma chair." Le lien ish/ishah est une alliance de l'être même. *Ishto* = sa ishah (forme possessive). *Eshet* = ishah de (forme construite). *Neshei* = pluriel construit. Laissé en hébreu comme Ruach et Nefesh. ==RÈGLE ABSOLUE — accord du possessif : toujours "ta/sa/ma ishah", jamais "ton/son/mon ishah" même devant voyelle. Le hiatus est délibéré — il rend le genre féminin visible. Erreur récurrente à ne jamais reproduire.== |
 | נֶפֶשׁ | *nefesh* | Nefesh | Intraduisible. Non pas "l'âme" grecque — le principe vital concret et incarné. Toujours laissé en hébreu. |
