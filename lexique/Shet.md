@@ -8,7 +8,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-De *shat* (*shat* / שׁוּת) — poser, placer, établir. Pas « donner » : ==poser==, comme on pose une pierre à un endroit choisi et qu'elle y reste.
+De *shat* (*shat* / שָׁת) — poser, placer, établir. Pas « donner » : ==poser==, comme on pose une pierre à un endroit choisi et qu'elle y reste.
 
 Le verbe suppose ==une place vide et une main qui la remplit==. Il ne dit pas la générosité du geste ni l'affection qui l'accompagne : il dit qu'un manque a été comblé délibérément, à cet endroit-là.
 

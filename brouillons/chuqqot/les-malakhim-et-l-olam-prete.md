@@ -1,6 +1,6 @@
 # Les **malʾakhim** n'ont pas d'**ʿolam** à eux
 
-*(chuqqah — deuxième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
@@ -91,9 +91,9 @@ Ce n'est pas une confusion. ==C'est une précision.==
 
 *Exode* 23:21, où **YHWH** parle du **malʾakh** qu'il envoie devant le peuple :
 
-> ==car mon **Shem** est en lui== — *ki shemi bekirbo* (*ki shemi bekirbo* / כִּי שְׁמִי בְּקִרְבּוֹ)
+> ==car mon **Shem** est en lui== — *ki shemi beqirbo* (*ki shemi beqirbo* / כִּי שְׁמִי בְּקִרְבּוֹ)
 
-*Bekirbo* : ==en son dedans==. Le **Shem** de **YHWH** — non pas son étiquette,
+*Beqirbo* : ==en son dedans==. Le **Shem** de **YHWH** — non pas son étiquette,
 mais la totalité de ce qu'il est (§3.2) — est ==déposé à l'intérieur du
 **malʾakh** pendant la mission==.
 
@@ -237,7 +237,7 @@ d'elle ne se déduit pas de ce qui précède.
 - *Bereshit* 16 (verrouillé) — [[Hagar]] nomme **YHWH** après avoir parlé au **malʾakh**. L'oscillation y est lisible pour la première fois.
 - *Bereshit* 18 (verrouillé) — trois hommes qui mangent, et que le texte ne nomme jamais **malʾakhim**.
 - *Shemot* 3 (à écrire, §7) — la flamme, et le passage immédiat au Nom.
-- *Exode* 23:21 (à écrire) — *ki shemi bekirbo*, la clef de toute la chuqqah.
+- *Exode* 23:21 (à écrire) — *ki shemi beqirbo*, la clef de toute la chuqqah.
 - *Juges* 13:20 (à écrire) — le **malʾakh** qui monte dans la flamme.
 - *Psaumes* 104:4 (à écrire) — *asah*, le verbe qui assigne la forme.
 

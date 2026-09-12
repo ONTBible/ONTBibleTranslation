@@ -1,4 +1,4 @@
-# Hatsatson-Tamar
+# Chatsatson-Tamar
 
 ## Prononciation
 
@@ -8,7 +8,7 @@ Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
 
 ## Le Shem
 
-(*Hatsatson-Tamar* / חַצְצֹן תָּמָר). *Hatsatson* et *tamar* — ==le palmier==. Le nom dit ==la taille des palmiers== ou le lieu où ils se tiennent.
+(*Chatsatson-Tamar* / חַצְצֹן תָּמָר). *Hatsatson* et *tamar* — ==le palmier==. Le nom dit ==la taille des palmiers== ou le lieu où ils se tiennent.
 
 ## Ce que le corpus en fait
 

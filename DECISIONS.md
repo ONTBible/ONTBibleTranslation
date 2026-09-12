@@ -9,9 +9,10 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 371 | réservé à l'auteur. |
-| `CLAUDE.md` | 1004 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1172 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 576 | réservé à l'auteur. |
+| `CLAUDE.md` | 1209 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1412 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `CLAUDE.md` | 1506 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
@@ -19,16 +20,22 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 478 | …on précédente ne faisait pas. ==À trancher par l'auteur== s'il veut l'y faire rentrer. |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 482 | … à passer par soma et pneuma. ==À trancher par l'auteur== si le passage doit y entrer le jour où… |
 | `brouillons/chuqqot/l-olam-est-un-regard.md` | 212 | …es emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa prop… |
+| `brouillons/chuqqot/la-force-repond-a-ce-qui-se-derobe.md` | 385 | …ucun couple français ne rend. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 179 | …au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 181 | … shamayim, également traduit. ==À trancher par l'auteur== le jour où Shemot fera paraître le par… |
 | `brouillons/chuqqot/le-navi-et-l-olam-d-argile.md` | 230 | …ode de constitution du naviʾ. ==À trancher par l'auteur== : au moins chozeh me semble en être, p… |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 271 | …sente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrem… |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 275 | …l'aigle en Deutéronome 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
+| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 524 | …é pire qu'un ordre imparfait. ==À trancher par l'auteur== : celle-ci pose ce que les deux autres… |
+| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 528 | ==Candidats intraduisibles, à trancher par l'auteur.== ==safah== d'abord, et c'est le plus série… |
+| `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 418 | …on d'un kli fait à son ʿolam. ==À trancher par l'auteur== si le paragraphe commun doit être reti… |
+| `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 422 | …temple celui de Nombres 12:8. ==À trancher par l'auteur.== |
 | `brouillons/chuqqot/yhwh-ha-maqom.md` | 201 | … qum est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
 | `context/controle-artefact-grammaire.md` | 56 | À trancher par l'auteur. L'argument pour `ph` : il montre que la lettre est |
 | `corpus-order.md` | 212 | …e survit qu'en guèze. | fichier À confirmer par l'auteur |
 | `corpus-order.md` | 217 | … son hébreu est perdu. | témoin À confirmer par l'auteur |
 | `lexique/Shem-fils-de-Noach.md` | 13 | …un arbitrage verset par verset, réservé à l'auteur. |
+| `lexique/geveret.md` | 57 | …us de l'ONT ait déjà rencontré. À trancher par l'auteur : ou bien une fiche pour chacun, ou bien… |
 | `lexique/shem.md` | 21 | …un arbitrage verset par verset, réservé à l'auteur, au lieu d'être posé en masse par une machine… |
 
 ## Décisions datées
@@ -36,21 +43,23 @@ désigné, et cet index n'en est qu'une table.*
 | Où | Ligne | La décision |
 |---|---:|---|
 | `CLAUDE.md` | 102 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
-| `CLAUDE.md` | 258 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 901 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1177 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 1398 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 1553 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 1671 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 1821 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2048 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2114 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 311 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `CLAUDE.md` | 1106 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1295 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
+| `CLAUDE.md` | 1328 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
+| `CLAUDE.md` | 1511 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 1732 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 1887 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 2005 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 2155 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2382 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2448 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 
-## Les 78 intraduisibles déclarés au §2.5
+## Les 100 intraduisibles déclarés au §2.5
 
 Le lemme d'abord, ses formes dérivées ensuite — c'est l'ordre que le
 pipeline lit, et les dérivées retombent sur la fiche du lemme.
@@ -78,9 +87,9 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **ʾEl ʿElyon** | — | *Bereshit* 14 | ✓ |
 | **ʾEl Roï** | — | *Genèse* 16:13 | ✓ |
 | **Kohen** | kohen, kohanim, kohen gadol | *Genèse* 14:18 | ✓ |
-| **malʾakh** | malʾakhim | *Genèse* 16:7 | · |
+| **malʾakh** | malʾakhim | *Genèse* 16:7 | ✓ |
 | **shaliach** | shlichim | — | ✓ |
-| **shifchah** | shefachot | *Genèse* 16:1 | ✓ |
+| **shifchah** | shefachot | — | ✓ |
 | **ʾemunah** | ʾEmunah, ʾemuna | *Genèse* 15:6 | ✓ |
 | **tsedaqah** | tsedaqah umishpat | *Genèse* 15:6 | ✓ |
 | **berith** | Berith | — | ✓ |
@@ -88,24 +97,31 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **tsadiq** | tsadiqim | *Genèse* 6:9 | ✓ |
 | **rashaʿ** | reshaʿim | *Genèse* 18:23 | ✓ |
 | **chesed** | — | *Genèse* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Exode* 34:6-7 et *Ruth* | ✓ |
-| **tov** | tov meʾod, tov varaʿ, Tov varaʿ | *Genèse* 1:4 | ✓ |
-| **raʿ** | raʿat, raʿim | *Genèse* 2:9 | ✓ |
-| **chataʾ** | — | *Genèse* 4:7 | ✓ |
+| **tov** | — | *Genèse* 1:4 | ✓ |
+| **tov meʾod** | — | — | · |
+| **tov varaʿ** | Tov varaʿ | — | ✓ |
+| **raʿ** | raʿat, raʿim | — | ✓ |
+| **chataʾ** | — | — | ✓ |
 | **chattat** | chataʾah, chataʾim | *Genèse* 4:7 | ✓ |
 | **davar** | devarim | *Genèse* 11:1 | ✓ |
 | **ʿirin** | — | — | ✓ |
 | **gibbarayaʾ** | — | — | ✓ |
 | **parashah** | parashiot | — | ✓ |
-| **basar** | — | *Genèse* 2:23 (*basar mibesari*) | ✓ |
+| **basar** | — | — | ✓ |
+| **basar ʾechad** | — | — | ✓ |
 | **lev** | Lev, levav | — | ✓ |
 | **davaq** | — | — | ✓ |
+| **deveq** | devaqim | — | ✓ |
 | **qahal** | Qahal | — | ✓ |
 | **ʾechad** | — | *Genèse* 1:5 (*yom echad*) | ✓ |
 | **kli** | Kli, kelim, kelim | — | ✓ |
 | **chuqqah** | Chuqqah, chuqqot | — | ✓ |
-| **tevel** | — | — | · |
-| **seter** | — | — | · |
-| **nistar** | nistarot, Nistarot | — | · |
+| **tevel** | — | — | ✓ |
+| **shamayim** | — | — | ✓ |
+| **ʾeretz** | — | — | ✓ |
+| **ʾadamah** | — | — | ✓ |
+| **seter** | — | — | ✓ |
+| **nistar** | nistarot, Nistarot | — | ✓ |
 | **maqom** | Maqom, ha-Maqom, ha-Maqom | — | ✓ |
 | **chozeh** | Chozeh, roʿeh ◆ | — | ✓ |
 | **roʿeh** | Roʿeh | — | ✓ |
@@ -117,9 +133,9 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **goy** | goyim | — | ✓ |
 | **ʿorlah** | ʿarel | — | ✓ |
 | **mishpat** | mishpatim | *Bereshit* 18 | ✓ |
-| **shofet** | shoftim | *Genèse* 18:25 | ✓ |
+| **shofet** | shoftim | — | ✓ |
 | **ʿolam** | berith-olam, ʾachuzat-ʿolam, ledorot-olam, ʿad-ʿolam, leʿolam, meʿolam | *Genèse* 3:22 (*vechai leʿolam*) | ✓ |
-| **Sheʾol** | — | *Toledot Adam ve-Chavah* | · |
+| **Sheʾol** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **teshuvah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **tevilah** | — | *Toledot Adam ve-Chavah* | ✓ |
@@ -133,8 +149,23 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **binah** | — | — | ✓ |
 | **ʿetsah** | — | — | ✓ |
 | **gevurah** | gevurot, gevurot | — | ✓ |
-| **daʿat** | — | — | · |
+| **daʿat** | — | — | ✓ |
 | **yirah** | yirat YHWH | — | ✓ |
+| **ʿanav** | ʿanavim | — | ✓ |
+| **ʿanavah** | — | — | ✓ |
+| **ʿani** | ʿaniyim | — | ✓ |
+| **ʿoni** | — | — | ✓ |
+| **ʿanah** | — | — | ✓ |
+| **gavah** | gavoah, govah | — | ✓ |
+| **gavar** | gever | — | ✓ |
+| **geveret** | — | — | ✓ |
+| **melekh** | melakhim | — | ✓ |
+| **malkhut** | mamlakhah, melukhah | — | ✓ |
+| **malkah** | — | — | ✓ |
+| **gazaz** | gez, gizzah | — | ✓ |
+| **qum** | — | — | ✓ |
+| **qomah** | — | — | ✓ |
+| **kalah** | kaleh, kalil | — | ✓ |
 
 ◆ — cette forme est ==aussi déclarée comme lemme par sa propre puce==.
 Le §2.5 la cite dans la prose de la puce voisine pour l'en *écarter*
@@ -298,4 +329,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*442 fichiers parcourus · 371 fiches dans `lexique/`.*
+*512 fichiers parcourus · 438 fiches dans `lexique/`.*

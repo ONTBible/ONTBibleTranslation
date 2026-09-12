@@ -12,6 +12,43 @@
 # qu'affichait `scripts/concorder-la-synchronisation.py` le 11 septembre 2026 :
 # trois empreintes, et la racine avec quinze jours de retard.
 #
+# ## Deux choses que cet en-tête disait mal, corrigées le 11 septembre 2026
+#
+# **« quinze jours de retard » est faux, et le mot « retard » l'est aussi.**
+# Mesuré ce soir : la racine porte 30 entrées datées quand l'app en porte 80.
+# Elle est sous la moitié du contenu. Un retard se rattrape en rejouant ce qui
+# manque ; un écart de cet ordre se **remplace**.
+#
+# **Et « trois dépôts » n'est pas un inventaire des exemplaires.** Il y en a
+# **seize** sous `~/ONTBible/` — dont **dix worktrees**, parce que le projet a
+# fait du worktree sa règle quand plusieurs sessions travaillent. L'auteur
+# l'avait prévu le 25 août : *il y en aura d'autant plus qu'on appliquera la
+# règle*. On l'a appliquée.
+#
+# ## Ce que ce mécanisme ne fait donc pas, et il faut le savoir avant de s'en
+# ## servir
+#
+# Il dispatche vers des **dépôts**. Trois exemplaires se refont ; les treize
+# autres ne bougent pas.
+#
+# Douze d'entre eux sont des worktrees et se rattrapent par un `git pull` —
+# c'est vrai, et ça ne se lit nulle part, donc c'est écrit ici.
+#
+# **Le seizième n'a aucun recours.** `~/ONTBible/SYNCHRONISATION.md` n'est dans
+# aucun dépôt : aucun `pull` ne l'atteint, aucune fusion ne le corrige, et un
+# workflow GitHub n'a pas de main sur ce chemin. C'est pourtant celui que
+# `CLAUDE.md` charge dans toute session ouverte depuis la racine, c'est-à-dire
+# celles qu'on demande d'ouvrir.
+#
+# Aujourd'hui il se rattrape à la main. **Le jour où ce mécanisme entrera en
+# service, il fera trois copies fraîches et figera la quatrième** — non parce
+# qu'il la casse, mais parce qu'il retire la dernière raison de la remarquer.
+#
+# Ce trou est connu, mesuré, et non traité. Le combler demande un bras qui
+# touche le disque — un hook local, ou un contrôle qui rougit quand la racine
+# diverge — et non un dispatch. C'est une décision de conception, pas un
+# correctif, et elle appartient à l'auteur.
+#
 # ## Pourquoi un contrôle n'aurait pas suffi
 #
 # Le premier remède envisagé était de **détecter** la divergence. Une passe de

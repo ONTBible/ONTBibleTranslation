@@ -1,6 +1,6 @@
 # Les quatre modes de présence d'**ʾAdonai** dans l'**ʿolam**
 
-*(chuqqah — la première du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

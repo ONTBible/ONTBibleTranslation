@@ -1,4 +1,4 @@
-# olah
+# ʿolah
 
 ## Prononciation
 

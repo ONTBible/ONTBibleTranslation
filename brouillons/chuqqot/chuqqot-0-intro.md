@@ -36,6 +36,8 @@ a guère d'autres.
 | 5 | *le-navi-et-l-olam-d-argile* | le **kli** humain — et le **basar** comme puissance, non comme prison |
 | 6 | *deux-kelim-un-seul-seuil* | deux **kelim** humains joints : ce que l'union fait au seuil de chacun |
 | 7 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
+| 8 | *la-force-repond-a-ce-qui-se-derobe* | ce que coûte un **kli** qui tient à ce qui ne se montre pas — et pourquoi ce coût a un bord |
+| 9 | *on-ne-recoit-pas-une-puissance* | ce qu'un **kli** est, et comment il se constitue : aucune puissance ne se reçoit, un seuil se déplace |
 
 ==Le rang est déclaré ici, et nulle part ailleurs.== Les fichiers ne portent
 aucun numéro, délibérément : un ordre inscrit à la fois dans un nom de fichier et
@@ -48,6 +50,14 @@ l'**ʿolam**, puis celui qui n'en a pas, puis les façons dont il se rend
 perceptible, puis les êtres que ces façons emploient, puis ==ce qui arrive quand
 deux de ces êtres se joignent==, puis enfin la structure qui rend tout cela
 nécessaire.
+
+La neuvième est ==à sa place de prudence, non à sa place de raison==. Elle pose
+ce qu'est un **kli** et comment il se constitue — ce que la huitième présuppose
+pour dire ce qu'un **kli** dépense. Les deux ont été écrites ==dans la même
+heure, par deux sessions différentes==, et celle-ci a été inscrite à la suite
+plutôt que glissée devant : ==un ordre imparfait coûte moins cher qu'une
+renumérotation qui écrase la décision d'un voisin==. ==À trancher par
+l'auteur== : sa place de raison serait juste après la sixième.
 
 La sixième est placée là parce qu'elle ==ne tient que sur la cinquième== : il
 faut avoir posé que le **basar** est le **kli** de l'homme, et qu'il est une

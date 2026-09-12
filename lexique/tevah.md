@@ -36,3 +36,7 @@ C'est pourquoi son absence de gouvernail n'est pas un manque. Celui qui est deda
 ## Formes
 
 tevah · hatevah · batevah · tevat
+
+## Source
+
+8392 · תֵּבָה

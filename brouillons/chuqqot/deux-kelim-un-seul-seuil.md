@@ -1,6 +1,6 @@
 # Deux qui deviennent **basar** **ʾechad** n'ont plus qu'un seuil
 
-*(chuqqah — sixième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
@@ -305,7 +305,7 @@ tient toutes les autres.
 
 ==Une fille sort voir les filles du pays, et on la prend.==
 
-Le texte ne l'adoucit pas : il la vit, ==il la prit== (*vayiqach ʾotah* /
+Le texte ne l'adoucit pas : il la vit, ==il la prit== (*vayiqqach ʾotah* /
 וַיִּקַּח אֹתָהּ), et il la coucha et l'humilia. Le verbe est **laqach**, la
 prise.
 
@@ -481,7 +481,7 @@ ce qui se dérobe==.
 
 - *==Le texte de Shaul est resté dehors, délibérément.== *El ha-Qorintiyim* 6:15-17 est la pièce que la matière tient pour décisive : il cite *Genèse* 2:24 et met en regard l'union à une prostituée et l'union à **YHWH**. Deux raisons de ne pas l'employer. D'abord le §7 : les *Igerot* de Shaul relèvent du traitement obligatoire avec l'auteur, et aucune n'est écrite. Ensuite parce que ==ce qu'il apporte, l'hébreu le portait déjà== — *Josué* 23 oppose les deux **davaq** dans un même chapitre, et il le fait sans qu'on ait à passer par *soma* et *pneuma*. ==À trancher par l'auteur== si le passage doit y entrer le jour où la lettre sera écrite.*
 
-- *==Un relevé pour le §4.17.== *Genèse* 34:2 enchaîne *vayar* et *vayiqach* — il la vit, il la prit. C'est la forme que le §4.17 décrit comme ==le regard qui convoite==, rendu d'un seul verbe et toujours suivi d'une prise ; le §4.17 ne l'établit que sur les chapitres de *Bereshit* qu'il a examinés, et en voici une occurrence au-delà. ==Signalé, non tranché== : l'objet y est un pronom suffixé et non un nom plein, et le §4.17 dit lui-même qu'une règle syntaxique ne se vérifie pas sur la syntaxe.*
+- *==Un relevé pour le §4.17.== *Genèse* 34:2 enchaîne *vayar* et *vayiqqach* — il la vit, il la prit. C'est la forme que le §4.17 décrit comme ==le regard qui convoite==, rendu d'un seul verbe et toujours suivi d'une prise ; le §4.17 ne l'établit que sur les chapitres de *Bereshit* qu'il a examinés, et en voici une occurrence au-delà. ==Signalé, non tranché== : l'objet y est un pronom suffixé et non un nom plein, et le §4.17 dit lui-même qu'une règle syntaxique ne se vérifie pas sur la syntaxe.*
 
 - *==Une réserve de numérotation.== *Job* 40-41 porte deux découpages selon les Bibles. Les références données ici suivent ==celui du témoin hébreu==, qui est aussi celui des Bibles françaises courantes : la description des boucliers est en *Job* 41:7-9. Un lecteur d'une Bible anglaise la trouvera huit versets plus loin. ==Le §2.6 prévoit qu'un nom français porte un numéro reçu== ; il ne prévoit pas qu'un même numéro reçu diffère d'une langue à l'autre.*
 

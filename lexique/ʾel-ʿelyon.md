@@ -1,4 +1,4 @@
-# El Elyon
+# ʾEl Elyon
 
 ## Prononciation
 

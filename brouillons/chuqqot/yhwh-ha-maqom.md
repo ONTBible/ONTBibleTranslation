@@ -1,6 +1,6 @@
 # **YHWH** n'est pas *dans* un lieu — il *est* le lieu
 
-*(chuqqah — deuxième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
@@ -77,11 +77,11 @@ qui est le **maqom** de tout cela n'a pas de dehors où se retirer.
 Le mot *ha-Maqom* comme nom est tardif. Mais ==la chose est ancienne==, et les
 **neviʾim** la portent chacun à leur façon.
 
-==La plénitude qui ne laisse pas de vide.== *Ésaïe* 6:3 — ==toute la terre
+==La plénitude qui ne laisse pas de vide.== *Ésaïe* 6:3 — ==toute l'**ʾeretz**
 est remplie de son **kavod**==. Le verbe est *male* (מָלֵא), ==remplir==. Ce
 n'est pas « on trouve sa présence en divers endroits » : c'est qu'il ==n'y a
 nulle part de vide==. Le même verbe revient chez *Jérémie* 23:24 : ==est-ce que
-je ne remplis pas les Cieux et la Terre ?==
+je ne remplis pas les **shamayim** et l'**ʾeretz** ?==
 
 ==L'impossibilité de le loger.== *Ésaïe* 66:1 démonte le Temple comme
 contenant, et il le fait par l'absurde : si les Cieux sont son trône et la Terre

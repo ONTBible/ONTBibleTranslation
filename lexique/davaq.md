@@ -159,21 +159,24 @@ ne juge pas l'orientation. ==Il constate la prise.==
 
 ## Le nom qui vient de là
 
-La même racine donne un nom, *deveq* (דֶּבֶק) : ==l'endroit où deux pièces sont
-tenues ensemble==. Le joint entre deux plaques d'une cuirasse, la soudure d'un
-fondeur. Les concordances lui donnent son propre numéro — il est ==compté à part
-du verbe==, bien qu'il en sorte.
+La même racine donne un nom, le **deveq** (*deveq* / דֶּבֶק) : ==l'endroit où
+deux pièces sont tenues ensemble==. Le joint entre deux plaques d'une cuirasse,
+la soudure d'un fondeur.
 
-C'est un renseignement utile pour lire, et rien de plus : ==le verbe reste le
-verbe==. Ce qu'il faut en retenir est que **davaq** est d'abord ==un mot
-d'atelier==, et que l'hébreu s'en est servi pour dire ce qui unit des êtres sans
-en chercher un autre.
+Le témoin le ==compte à part du verbe==, bien qu'il en sorte, et l'ONT sépare
+partout où le témoin sépare : depuis le 12 septembre 2026, le **deveq** a sa
+propre fiche, et ses formes ne sont plus déclarées ici. ==Une forme déclarée à
+deux endroits mène à une fiche arbitraire.==
+
+Ce qu'il faut en retenir ici est autre chose : **davaq** est d'abord ==un mot
+d'atelier==, et l'hébreu s'en est servi pour dire ce qui unit des êtres sans en
+chercher un autre.
 
 ## Formes
 
 davaq · daveq · davequ · davqah · davaqti · vedavaq · vayidbaq · yidbaq ·
 yidbequ · tidbaq · tidbaqin · tidbaqani · vatidbaq · yedubbaqu · vayadbeq ·
-hidbaqti · hidbiqathu · deveq · devaqim · hadevaqim
+hidbaqti · hidbiqathu
 
 ## Source
 

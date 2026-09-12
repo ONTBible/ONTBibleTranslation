@@ -1,6 +1,6 @@
 # Le **naviʾ** est un **malʾakh** avec un **ʿolam** d'argile
 
-*(chuqqah — cinquième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
