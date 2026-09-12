@@ -1,4 +1,4 @@
-# El Shaddai
+# ʾEl Shaddai
 
 ## Prononciation
 
