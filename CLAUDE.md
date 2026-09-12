@@ -392,8 +392,19 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
   cette racine (§3.2).
 - `**qomah**` — intraduisible : ==la hauteur d'une chose dressée== (קוֹמָה), 45
   emplois. De *qum* : non une mesure abstraite mais ==ce qu'atteint ce qui se
-  tient debout==. À distinguer de *govah*, qui est la hauteur de ce qui est haut
-  ==sans s'être levé== — une montagne a un *govah*, un homme a une **qomah**.
+  tient debout==. ==La distinction que cette puce portait d'abord était fausse==, et le témoin
+  la dément cinq fois : Golyat, un homme, a un *govah* de six coudées
+  (*1 Samuel* 17:4) ; *1 Samuel* 16:7 écrit *gevoah qomato*, où l'adjectif de
+  l'un qualifie le nom de l'autre ; et *Ésaïe* 10:33 les met en parallèle
+  poétique. ==Aucun critère de référent ne les sépare== — ni homme contre
+  montagne, ni mesure chiffrée contre mesure vague.
+  ==Ce qui les sépare est ailleurs, et se mesure== : *govah* passe à
+  l'intérieur — *govah lev*, *govah ruach*, *govah af* —, la **qomah**
+  presque jamais. Sur les versets où chacun paraît avec un mot d'intériorité :
+  cinq sur seize pour *govah*, deux sur quarante-trois pour la **qomah**.
+  La **qomah** est ==la mesure où l'élévation a lieu==, non l'élévation.
+  Relevé le 12 septembre 2026 par l'agent qui écrivait la fiche, contre la
+  puce que je venais d'écrire : ==je l'avais déduite au lieu de la mesurer==.
 - `**kalah**` / `**kaleh**` / `**kalil**` — intraduisible depuis le 12 septembre
   2026 : ==mener à son terme== (כָּלָה). ==Cette déclaration retire le rendu que
   le §3.1 lui fixait==, « atteindre leur plénitude » — comme la décision du
