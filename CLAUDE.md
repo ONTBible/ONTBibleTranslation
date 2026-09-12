@@ -154,7 +154,10 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**tsadiq**` / `**tsadiqim**`. Premier emploi *Genèse* 6:9.
 - `**rashaʿ**` / `**reshaʿim**`. Premier emploi *Genèse* 18:23.
 - `**chesed**`. Premier emploi *Genèse* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Exode* 34:6-7 et *Ruth*.
-- `**tov**` / `**tov meʾod**` / `**tov varaʿ**` / `**Tov varaʿ**` — le construit de l'arbre (*etz hadaʿat tov vara*, *Genèse* 2:9) : les deux graphies, car il ouvre parfois la phrase. Premier emploi *Genèse* 1:4.
+- `**tov**` — intraduisible : ce qui est ==pleinement ajusté à sa destination== dans l'ordre cosmique. Non « beau » ni « moralement bien ». Opposé fonctionnel : **raʿ**. Premier emploi *Genèse* 1:4.
+- `**tov meʾod**` — le construit de *Genèse* 1:31, employé ==une seule fois== dans *Bereshit* 1 : non sur une œuvre, mais sur ==le cosmos entier dans sa totalité intégrée==. *Meʾod* n'y est pas un adverbe d'intensité mais la marque de la plénitude atteinte.
+- `**tov varaʿ**` / `**Tov varaʿ**` — le construit de l'arbre (*etz hadaʿat tov varaʿ*, *Genèse* 2:9) : les deux graphies, car il ouvre parfois la phrase. Ce que l'arbre propose n'est pas un contenu de plus mais ==une modalité== — juger l'ordre depuis le dehors au lieu d'y participer. Et le couple est un ==mérisme== (§4.5) : nommer les deux bouts pour dire tout ce sur quoi un verdict peut se prononcer.
+  ==Ces deux construits ont leur puce, et il a fallu la leur donner.== Ils vivaient dans celle de **tov**, donc le pipeline les tenait pour des ==formes== de ce lemme — *la première citée est le lemme, les suivantes y retombent*. Leurs fiches, `lexique/tov-meod.md` et `lexique/tov-vara.md`, ==n'atteignaient donc aucun lecteur== : toucher le mot ouvrait la fiche de **tov**. Relevé le 12 septembre 2026 par le contrôle « Fiches sans entrée de glossaire », qui les signalait sans que personne n'aille voir pourquoi. Même raison pour `**basar ʾechad**`, à qui sa puce a été donnée le même jour.
 - `**raʿ**` / `**raʿat**` / `**raʿim**`. Premier emploi *Genèse* 2:9.
 - `**chataʾ**` — rater sa cible, manquer sa marque. ==Le premier verbe intraduisible de l'ONT== : décision du 25 août 2026, prise en connaissance du précédent qu'elle ouvre. Pendant exact de **raʿ** — **chataʾ** est l'acte, **raʿ** est l'état. Premier emploi *Genèse* 4:7.
 - `**chattat**` / `**chataʾah**` / `**chataʾim**` — les formes nominales de **chataʾ** : le manquement devenu une chose qu'on peut nommer, et qui en *Genèse* 4:7 se tapit à la porte. Premier emploi *Genèse* 4:7.
@@ -163,6 +166,18 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**gibbarayaʾ**` — araméen : les puissants, les démesurés (גבריא). Jamais "géants". Lien lexical avec les **gibborim** de *Genèse* 6:4.
 - `**parashah**` / `**parashiot**` — intraduisible : la division native du texte hébreu (פָּרָשָׁה), faite d'un ==blanc== laissé par le scribe et non d'un numéro. De *parash* (פרש) — rendre distinct. La *petuhah* ouvre sur une ligne neuve, la *setumah* laisse neuf espaces au milieu de la ligne. Attestée dans les rouleaux de la mer Morte, donc ==mille ans avant== les chapitres de Stephen Langton (XIIIᵉ s.), qui sont posés *sur* le texte quand la **parashah** est *dans* le texte. C'est le nom ONT d'une unité — elle se ferme quand une fonction s'accomplit, comme un blanc de scribe. Jamais « chapitre » : voir §2.3.
 - `**basar**` — intraduisible : la chair en tant qu'==existence incarnée, fragile et partagée== (בָּשָׂר). Non « chair » au sens moral que le français a pris — ce n'est ni le contraire de l'esprit ni le siège du désir : c'est ==ce par quoi on est un vivant parmi les vivants==, ce qui meurt et ce qui peut ressusciter. C'est ce qu'un **malʾakh** n'a pas, et c'est pourquoi il ne peut ni mourir ni transformer ce qui meurt. Premier emploi *Genèse* 2:23 (*basar mibesari*).
+- `**basar ʾechad**` — intraduisible depuis le 12 septembre 2026 : le construit
+  de *Genèse* 2:24 (בָּשָׂר אֶחָד), déclaré à part comme **tov varaʿ** et
+  **tsedaqah umishpat** le sont, et pour la même raison — ==le couple dit ce
+  qu'aucun des deux mots ne dit seul==. Non « une seule chair », qui fait du
+  couple ==un objet== là où l'hébreu déclare ==une parenté== : « os de mes os et
+  **basar** de mon **basar** » est la formule par laquelle Lavan reconnaît
+  Yaʿaqov, Yehudah plaide pour Yosef, et les tribus proclament David — elle veut
+  dire ==nous sommes de la même maison==, et le droit familial l'emploie de même
+  (*sheʾer besaro*, *Lévitique* 18:6). C'est pourquoi le verset ==commence par
+  une sortie== : on n'entre pas dans une parenté sans laisser celle où l'on
+  était. Et l'unité est **ʾechad**, celle qui compose, non *yachid*, celle qui
+  exclut. Premier emploi *Genèse* 2:24.
 - `**lev**` / `**Lev**` / `**levav**` — intraduisible depuis le 11 septembre 2026 :
   ==le lieu où l'on décide== (לֵב / לֵבָב). Non « cœur » : le français en a fait le
   siège du sentiment, quand l'hébreu en fait celui de ==la délibération==. C'est
@@ -182,6 +197,15 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
   à **YHWH** en *Deutéronome* 10:20. Le français sépare en deux registres, le
   conjugal et le religieux, ce que l'hébreu tient d'un seul mot. *Josué* 23
   oppose les deux emplois à quatre versets d'écart. Premier emploi *Genèse* 2:24.
+- `**deveq**` / `**devaqim**` — intraduisible depuis le 12 septembre 2026 :
+  ==l'endroit où deux choses sont tenues ensemble== (דֶּבֶק). Le nom sort de
+  **davaq**, mais ==le témoin le compte à part du verbe==, et l'ONT sépare
+  partout où le témoin sépare. Non « la colle », qui est un produit qu'on
+  achète au pot : un **deveq** n'existe que ==là où deux choses sont déjà l'une
+  contre l'autre==. Le verbe dit ==que ça tient==, le nom dit ==où==. Trois
+  occurrences en tout : les *devaqim* d'une cuirasse, là où la flèche passe
+  (*1 Rois* 22:34, repris en *2 Chroniques* 18:33), et la soudure qu'un fondeur
+  déclare **tov** (*Ésaïe* 41:7).
 - `**qahal**` / `**Qahal**` — intraduisible : l'assemblée ==convoquée par une autorité== (קָהָל). De *qahal* — rassembler, convoquer. Non « assemblée » ni « communauté », qui laissent croire à une réunion qu'on décide : au **qahal** on ==est appelé==. C'est le mot du jour du [[Sinai]] (*Deutéronome* 9:10, *yom ha-qahal*), et c'est celui que le grec rendra par *ekklesia*.
 - `**ʾechad**` — intraduisible : l'unité qui ==compose== (אֶחָד). Non « un » au sens du compte, et surtout pas l'unité qui exclut, qui se dirait *yachid* (יָחִיד). C'est le mot de *basar echad* en *Genèse* 2:24 — deux qui deviennent un sans cesser d'être deux — et c'est celui du *Shema*. Un fleuve unique dont les eaux coulent en plusieurs canaux : les canaux ne multiplient pas le fleuve. Premier emploi *Genèse* 1:5 (*yom echad*).
 - `**kli**` / `**Kli**` / `**kelim**` — intraduisible : ==ce qui est apte à recevoir== (כְּלִי). De la racine כלה — contenir, mener à complétion. Non « vase » ni « récipient », qui disent un contenant passif qu'on remplit : un **kli** est ==constitué pour==, et son aptitude décide de ce qu'il peut recevoir. C'est le mot des ustensiles du Mishkan — *klei ha-qodesh*, mis à part non par leur matière mais par leur destination. Il commande toute la question de l'**ʿolam** : ce qui change le régime de perceptibilité n'est pas la chose regardée, c'est ==le **kli** qui regarde==. La **Ruach** ne se pose jamais sans lui — un **naviʾ**, une tente, un sol, un **qahal**. Pluriel `**kelim**`. Locus définitif *Shemot* 25-31, les **kelim** du Mishkan.
@@ -1085,6 +1109,97 @@ un het écrit `kh` — `akhuzat` (7), `akhoranit` (2) —, corrigées avec cette
 passe. Une troisième, `beiqekha` pour `בְּחֵיקֶךָ`, ==ne rend pas le het du
 tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
 
+#### La gémination s'écrit — `yamim` les jours, `yammim` les mers
+
+**Décision de l'auteur du 12 septembre 2026.** Le corpus écrivait ==la même
+graphie pour deux mots différents==, et il le faisait ==dans la même parashah== :
+
+    (*yamim* / יַמִּים)   les Mers    *Bereshit* 1, v.10
+    (*yamim* / יָמִים)    les jours   *Bereshit* 1, v.14
+
+Treize lignes d'écart dans un même fichier. C'est le cas de `Haran` / `Charan`
+du 8 septembre rencontré une seconde fois — ==deux mots que l'hébreu n'a jamais
+confondus, rendus par une seule graphie française==.
+
+**Et la section voisine annonçait ne pas pouvoir trancher.** Elle pose que ==les
+voyelles ne sont pas fixées ici== et ajoute *« rien n'a encore divergé »*.
+Quelque chose venait de diverger. Mais ==la voyelle n'est pas ce qui sépare ces
+deux mots== :
+
+    יַמִּים   mem ==à dagesh fort== — la lettre compte double
+    יָמִים    mem ==simple==
+
+Le premier est le pluriel de יָם, la mer, ==dont la racine est géminée== :
+le pluriel rend la seconde mem que le singulier avait absorbée. Le second est le
+pluriel du jour, qui ne redouble rien. ==Ce qui les sépare n'est donc pas une
+voyelle, c'est une consonne== — et le §2.9 n'a jamais décliné d'écrire les
+consonnes.
+
+**La règle.** ==La gémination qui appartient au mot s'écrit, en doublant la
+lettre latine.==
+
+    יַמִּים     yammim      les mers
+    יָמִים      yamim       les jours
+
+**Ce n'est pas une graphie forgée pour l'occasion : le corpus écrit déjà
+celle-là, et il l'écrit pour ce mot-ci.** *Bereshit* 13 rend וָיָמָּה, *vers
+la mer*, par `veyammah` — ==la même mem géminée du même mot, déjà doublée==. Le
+vault portait donc les deux graphies de la même racine, l'une au directionnel et
+l'autre au pluriel, ==sans que rien ne les rende comparables==. C'est la forme
+exacte que le §2.9 existe pour fermer, rencontrée une fois de plus sur son
+propre terrain.
+
+Le reste du corpus va dans le même sens partout où la lettre géminée est une
+mem — `ʾammah`, `Ben-Ammi`, `Ammon`, `Dammesek`, `meʿammeha` — et hors de la mem :
+`mabbul`, `chattat`, `chuqqah`, `gibbor`, `tsippor`, `miqqedem`, `chiddeqel`,
+`qallel`, `challon`, `vehinneh`.
+
+==Et la passe de cette nuit en est déjà une application==, faite avant que la
+règle soit écrite : le qof à dagesh fort est passé à `qq` partout, parce que le
+même וַיִּקַּח s'écrivait `vayiqach` dans une parashah et `vayiqqach` dans une
+autre. La règle ci-dessus ne fait que dire de quoi cette passe était un cas.
+
+**Le garde-fou, et il décide de presque tout le reste.** ==On écrit la gémination
+qui appartient au mot ; on n'écrit pas celle qu'un article ou une préposition
+attachée produit.==
+
+L'article hébreu se colle au mot et ==redouble sa première consonne==. הַיָּמִים
+n'est pas un autre mot que יָמִים : c'est le même, avec son article. Doubler
+ce redoublement-là ferait de *Divrei Hayamim* un *Divrei Hayyamim*, et de
+`hamayim` un `hammayim`. ==Le corpus ne le fait pas==, et il a raison : ce n'est
+pas le mot qui a changé, c'est ce qu'on lui a mis devant.
+
+    יָמִים       yamim        le mot
+    הַיָּמִים     hayamim      le même, avec son article
+    יַמִּים      yammim       un autre mot
+
+**Ce que la décision coûte, mesuré.** ==Une occurrence==, dans un brouillon :
+*Bereshit* 1, v.10. Les quatre autres `yamim` du corpus sont tous des jours —
+*Bereshit* 1 v.14, *miqets yamim* (*Bereshit* 4), *ben-shemonat yamim*
+(*Bereshit* 17), *baʾim bayamim* (*Bereshit* 18) — et le nom du livre *Divrei
+Hayamim* avec eux. ==Aucun ne bouge.==
+
+**Un chantier ouvert, mesuré et non traité.** Relevé du jour sur tous les
+appariements translittération / hébreu du vault, `sessions/` exclu :
+
+    gémination propre au mot     72 écrites    99 non écrites
+    gémination d'article         27 écrites   145 non écrites
+
+La seconde ligne dit que le garde-fou ci-dessus est ==la pratique largement
+majoritaire==, à cinq contre un — mais non unanime : `hassadeh` double l'article
+quand `hamayim`, `hazahav`, `hashamayim` et `hayom` ne le doublent pas.
+
+La première dit que la règle ==n'est pas encore appliquée partout==. Le cas le
+plus net est `ʿamim` (*Bereshit* 17, verrouillé), qui écrit une mem simple quand
+`Ben-Ammi` et `Ammon` — ==le même mot, la même mem== — en écrivent deux. C'est
+exactement le défaut de `yamim`, ==sur un mot où rien ne se percute== : il ne se
+voit donc pas, et il est là.
+
+==À trancher par l'auteur== : une passe générale sur les 99, ou la règle
+appliquée au fil de l'écriture. Cette section fixe la graphie ; elle ne décide
+pas de la passe.
+
+
 #### Ce que cette règle ne tranche pas encore
 
 - ==La règle vaut pour l'araméen aussi== — décision de l'auteur du 8 septembre
@@ -1117,7 +1232,12 @@ tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
   pas la moitié d'un système== — est celle qui a fini par la faire adopter en
   entier.)*
 - Les voyelles ne sont pas fixées ici. Le corpus écrit `e`, `a`, `o`, `i`, `ou`
-  selon l'oreille, sans système déclaré, et rien n'a encore divergé.
+  selon l'oreille, sans système déclaré. ==Cette puce disait « et rien n'a encore
+  divergé »== jusqu'au 12 septembre 2026, où `yamim` a divergé — les mers et les
+  jours sous une seule graphie. La section ci-dessus le tranche ==sans toucher
+  aux voyelles== : ce qui sépare ces deux mots-là est une consonne géminée. Les
+  voyelles restent donc libres, et cette puce reste vraie — mais elle ne peut
+  plus servir de preuve que rien ne divergera.
 
 #### Deux divergences relevées et corrigées
 
