@@ -1,6 +1,7 @@
 # Un **kli** tourné vers soi ne reçoit plus rien
 
-*(chuqqah)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part
+ailleurs)*
 
 ---
 
@@ -22,7 +23,7 @@ et en bas à la fois.
 
 L'hébreu ne mesure rien. Il décrit ==une position== et ==un outil==.
 
-==La *ʿanavah* n'est pas le peu de **gevurah**. C'est ce vers quoi un **kli** est
+==La **ʿanavah** n'est pas le peu de **gevurah**. C'est ce vers quoi un **kli** est
 tourné.==
 
 Et comme la **gevurah** est elle-même un **kli**, la conséquence tient en une
@@ -33,50 +34,69 @@ poser n'est plus un outil — c'est devenu son **Shem**.==
 
 ## La nécessité
 
-### Le mot ne dit pas ce qu'on ressent — il dit d'où l'on répond
+### Le mot ne dit pas ce qu'on ressent — il dit une position du corps
 
-La racine est *ʿanah* (*ʿanah* / עָנָה), et les dictionnaires la donnent ==en
-deux entrées==, parce qu'elle fait deux choses qui semblent n'avoir aucun rapport.
+La racine est **ʿanah** (*ʿanah* / עָנָה), et elle dit une seule chose :
+==courber, faire ployer==.
 
-La première : ==être courbé, être affligé, être mis à l'épreuve==. C'est la
-détresse qui écrase, la contrainte subie, celui qu'on a mis à genoux.
+Pas « se sentir petit ». Pas « s'effacer ». ==Courber== — ce qu'on fait subir à
+un dos, et qui se voit.
 
-La seconde : ==répondre, témoigner==. C'est le verbe du tribunal et de
-l'engagement. Au [[Sinai]], quand tout le peuple répond d'une seule voix —
+Regarde ce que la même racine donne ailleurs dans la langue, parce que c'est là
+qu'on la surprend à dire ce qu'elle dit vraiment.
+
+Le **ʿoni** (*ʿoni* / עֳנִי) est ==la courbure elle-même==, la charge sous
+laquelle on ploie. Le **ʿani** (*ʿani* / עָנִי) est ==celui que l'on a courbé== —
+et le français le rend par « le pauvre », « l'affligé », c'est-à-dire par une
+condition. Les **ʿanavim** (*ʿanavim* / עֲנָוִים) sont ==ceux qui sont courbés== —
+et le français le rend par « les humbles », c'est-à-dire par une vertu.
+
+==Une condition d'un côté, une vertu de l'autre : et l'hébreu n'a qu'un seul
+mot.== Ce n'est pas une pauvreté de la langue. C'est qu'elle regarde ==la
+posture==, et que la posture est la même — courbé, que la vie vous ait courbé ou
+qu'on se soit courbé soi-même.
+
+Le document de référence en tire une trajectoire qu'il faut avoir vue, parce
+qu'elle est faite des trois premiers emplois de la famille : Mitsrayim ==courbe==
+un peuple (*Genèse* 15:13) ; **YHWH** entend le **ʿoni** d'une **shifchah** en
+fuite, non celui de sa maîtresse (*Genèse* 16:11) ; et le plus courbé de tous
+est ==celui qui ira tenir devant Pharaon== (*Nombres* 12:3).
+
+Alors ceci, qui est tout le premier pas : ==un dos courbé n'est pas un dos qui
+donne la mesure==. Celui qui est sous une charge ne décide pas de ce qui est ; il
+est placé, et il s'ajuste. C'est pourquoi le **ʿanav** n'est pas un homme
+modeste : c'est un homme ==calibré sur ce qui est==. Devant une chose, sa
+question est *qu'est-ce que c'est ?* — et non *qu'est-ce que cela dit de moi ?*
+
+==Un second mot s'écrit exactement pareil, et il ne faut pas les confondre.== Le
+corpus emploie un autre *ʿanah*, qui veut dire ==répondre, témoigner== : c'est
+lui qu'on lit au [[Sinai]] quand tout le peuple répond d'une seule voix —
 *vayaʿanu khol haʿam yachdav* (*vayaʿanu khol haʿam yachdav* /
-וַיַּעֲנוּ כָל הָעָם יַחְדָּו), *Exode* 19:8 — c'est ce verbe-là. Et le témoin qui
-*ʿanah* devant les juges ne donne pas son avis : ==il dit ce qu'il a vu==.
-
-Arrête-toi sur ce que les deux ont en commun, parce que c'est là que tout se
-joue et que le français n'a aucun mot pour le tenir ensemble.
-
-Être courbé, c'est ==avoir été mis quelque part où l'on n'a pas décidé d'être==.
-Répondre, c'est ==dire ce qui est, et non ce qu'on voudrait==. Dans les deux cas,
-==ce n'est pas toi qui donnes la mesure== : la mesure vient du dehors, et tu t'y
-ajustes.
-
-Alors l'*ʿanav* (*ʿanav* / עָנָו) n'est pas un homme modeste. C'est un homme
-==calibré sur ce qui est==. Devant une chose, sa question est *qu'est-ce que
-c'est ?* — et non *qu'est-ce que cela dit de moi ?*
+וַיַּעֲנוּ כָל הָעָם יַחְדָּו), *Exode* 19:8. ==Rien ne les distingue à la
+lettre, et ce sont deux racines== : le §2.5 le déclare. La ressemblance est
+belle, et elle ne démontre rien — cette chuqqah ==ne s'appuie pas dessus==, et le
+joint faible dit ce qu'elle y perd.
 
 ### Le mot est dit de **YHWH**, et cela tranche
 
-Voici le fait qui rend impossible de lire *ʿanavah* comme une petitesse.
+Voici le fait qui rend impossible de lire **ʿanavah** comme une petitesse.
 
 Un chant royal remercie **YHWH** de trois choses, et la troisième est celle-ci :
 *veʿanvatkha tarbeni* (*veʿanvatkha tarbeni* / וְעַנְוַתְךָ תַרְבֵּנִי) — ==et ta
-*ʿanavah* me fait grandir== (*Psaumes* 18:36).
+**ʿanavah** me fait grandir== (*Psaumes* 18:36).
 
 Si le mot nommait un manque de puissance, il ne pourrait pas être dit de celui à
 qui rien ne manque. ==Il nomme donc autre chose== : une manière de tenir ce qu'on
 a, et non une mesure de ce qu'on a.
 
-Et le même chant nous est parvenu ==deux fois==. Le second témoin, en
-*2 Samuel* 22:36, écrit au même endroit *vaʿanotkha* (*vaʿanotkha* /
-וַעֲנֹתְךָ) — ==l'autre branche de la racine==, celle du courbement. Une main a
-écrit la posture, l'autre a écrit l'abaissement, ==au même mot du même vers==. Les
-deux branches ne sont pas deux mots voisins : ==elles se remplacent l'une
-l'autre==.
+Et le même chant nous est parvenu ==deux fois==, ce qui est rare et précieux. Le
+second témoin, en *2 Samuel* 22:36, écrit au même endroit *vaʿanotkha*
+(*vaʿanotkha* / וַעֲנֹתְךָ) — non plus le nom **ʿanavah**, mais ==le verbe
+**ʿanah** lui-même==, à l'infinitif, avec le suffixe de la deuxième personne.
+
+Une main a donc écrit ==l'état==, l'autre ==le geste==, au même mot du même vers.
+Et ni l'un ni l'autre ne dit une petitesse : les deux disent ==quelque chose que
+**YHWH** fait==, et qui fait grandir celui qui le reçoit.
 
 ### La **gevurah** n'a jamais été une nature
 
@@ -143,7 +163,7 @@ parce qu'il n'arrive rien à soutenir.
 
 ### La *gavhut* est une position des yeux
 
-Le mot de l'autre côté est *gavah* (*gavah* / גָּבַהּ) — ==être haut, s'élever==.
+Le mot de l'autre côté est **gavah** (*gavah* / גָּבַהּ) — ==être haut, s'élever==.
 De lui vient *gavhut lev*, ==l'élévation du **lev**== : quelque chose, dans la
 chambre intérieure, s'est ==gonflé au-delà de sa taille réelle==.
 
@@ -158,9 +178,9 @@ seul sera élevé en ce jour-là.==
 Deux choses sautent aux yeux, et on les manque toutes les deux quand on lit
 « orgueil ».
 
-==Le verset nomme les yeux.== Pas seulement le **lev**, pas seulement la conduite :
-*les yeux de la hauteur de l'**ʾadam***. Ce que le texte décrit est ==une manière
-de regarder==. Et une manière de regarder est exactement ce dont l'**ʿolam** est
+==Le verset nomme les yeux.== Pas seulement le **lev**, pas seulement la
+conduite : ==les yeux de la hauteur de l'**ʾadam**==. Ce que le texte décrit est
+==une manière de regarder==. Et une manière de regarder est exactement ce dont l'**ʿolam** est
 fonction.
 
 ==Et la hauteur n'est pas condamnée.== Lis la fin : ==**YHWH** seul sera élevé==.
@@ -173,19 +193,21 @@ Le corpus dit d'ailleurs ce que cette position produit : *lifnei shever gaʾon,
 velifnei khishalon govah ruach* (*govah ruach* / גֹּבַהּ רוּחַ) — ==avant la
 brisure, l'exaltation ; avant la chute, la hauteur de **Ruach**== (*Proverbes*
 16:18). Et le verset suivant met la balance à l'endroit : mieux vaut être ==bas de
-**Ruach**== avec les *ʿanavim* que partager le butin avec les hautains.
+**Ruach**== avec les **ʿanavim** que partager le butin avec les hautains.
 
 ### Le coupeur, et l'honnêteté qu'on lui doit
 
 Il y a une seconde figure, et elle n'est pas la même.
 
-*Gazaz* (*gazaz* / גָּזַז) veut dire ==tondre==. C'est le mot du troupeau : Lavan
-s'en va *ligzoz* son bétail (*Genèse* 31:19), c'est-à-dire ==prendre ce qui a
-poussé sur le dos d'un autre==.
+Le mot est **gazaz**, et le §2.5 le déclare pour ce qu'il fait : ==retrancher
+d'un vivant ce qu'il a produit==. C'est le mot du troupeau — Lavan s'en va
+*ligzoz* (*ligzoz* / לִגְזֹז) son bétail (*Genèse* 31:19) —, et c'est aussi celui
+de l'herbe fauchée : ==prendre ce qui a poussé sur le dos d'un autre==.
 
-Ce n'est ==pas== un mot hébreu de l'orgueil, et il faut le dire tout de suite. Il
-est employé ici ==par transport==, pour nommer une chose que le corpus connaît
-très bien sans lui donner ce nom-là : ==celui qui prélève parce qu'il le peut==.
+Ce n'est ==pas== un mot de l'orgueil, et il faut le dire tout de suite. Le corpus
+ne l'emploie jamais pour qualifier un homme. Il est employé ici ==par transport==,
+pour nommer une figure que le corpus connaît très bien sans lui donner ce nom-là :
+==celui qui prélève parce qu'il le peut==.
 
 Les deux figures ne sont donc pas une seule :
 
@@ -197,29 +219,35 @@ Celui qui ==tond== tient sa **gevurah** pour un droit. Il la déploie pour prend
 L'un a besoin de témoins, l'autre non. Mais ==ni l'un ni l'autre ne peut poser
 l'outil==, et c'est par là qu'ils se rejoignent.
 
-### Le témoin lui-même n'arrive pas à séparer les deux branches
+### Le témoin lui-même n'a pas séparé les deux mots
 
 Voici le fait le plus surprenant, et il n'est pas une conjecture : ==il est dans
 les manuscrits==, et on peut le compter.
 
-Il existe deux mots très proches. *ʿani* (*ʿani* / עָנִי) — ==l'affligé, le
-pauvre==, de la première branche. *ʿanav* (*ʿanav* / עָנָו) — ==celui qui
-répond==, de la seconde. Une lettre les sépare.
+Le §2.5 pose que **ʿani** et **ʿanav** sont un seul mot pour une seule posture.
+==Le témoin le montre==, et c'est autre chose que de le poser.
 
-Or, en ==huit endroits== du témoin hébreu, ce qui est écrit et ce qui est lu ne
-sont pas le même mot. Les consonnes portent *ʿaniyim*, ==les affligés==, et la
-voix qui lit dit *ʿanavim* — ou l'inverse. ==Et cela va dans les deux sens== : les
-scribes lisent tantôt l'un sous l'autre, tantôt l'autre sous l'un.
+Au pluriel, les deux ne diffèrent que d'une lettre : **ʿaniyim** (*ʿaniyim* /
+עֲנִיִּים), ==un yod== ; **ʿanavim** (*ʿanavim* / עֲנָוִים), ==un vav==.
 
-Vois la scène. Un homme recopie une colonne ; il a devant lui ==les affligés==, et
-sa tradition lui fait prononcer ==les courbés qui répondent==. Il ne corrige pas,
-et il ne choisit pas : ==il garde les deux==, l'un pour l'œil et l'autre pour la
-bouche.
+Or, en ==sept endroits== du témoin hébreu, ce qui est écrit et ce qui est lu ne
+sont pas le même mot. Cinq fois, les consonnes portent **ʿaniyim** et la voix qui
+lit dit **ʿanavim** ; ==deux fois, c'est l'inverse==. Les scribes lisent tantôt
+l'un sous l'autre, tantôt l'autre sous l'un.
 
-Ce n'est pas un flottement d'inattention. C'est que, dans ce monde-là, ==les deux
-ne se séparent pas== : celui que la vie a courbé est celui qui a cessé de
-présumer, et celui qui a cessé de présumer est celui qui peut répondre de ce qui
-est. ==La langue le sait avant nous, et son hésitation est sa réponse.==
+Vois la scène. Un homme recopie une colonne ; il a sous les yeux ==ceux que l'on
+a courbés==, et sa tradition lui fait prononcer ==ceux qui sont courbés==. Il ne
+corrige pas, et il ne choisit pas : ==il garde les deux==, l'un pour l'œil et
+l'autre pour la bouche.
+
+Ce n'est pas un flottement d'inattention. C'est qu'il n'y avait ==rien à
+choisir== : le dos est dans la même position, et ce qui l'y a mis ne change pas
+la position. Là où le français doit trancher entre une condition subie et une
+disposition tenue, ==l'hébreu n'a pas la question==.
+
+Et cela vaut jusque dans le nôtre : traduire l'un par « pauvre » et l'autre par
+« humble » dans le même corpus, c'est ==fabriquer deux personnages== là où le
+texte en avait un.
 
 ## Les conséquences
 
@@ -246,30 +274,30 @@ ce qui lui est prêté de ce qu'il est. Le jour où on le lui reprend, il n'y a
 personne pour le remarquer.
 
 Et le verbe de cette phrase est *yadaʿ* — ==le verbe de la **daʿat**==, celui-là
-même que *Jérémie* oppose à la glorification de sa propre **gevurah**. Je ne dis
-pas que l'un cite l'autre ; je dis qu'==ils emploient le même mot pour la même
-perte==.
+même que *Jérémie* oppose à la glorification de sa propre **gevurah**. Ce n'est
+pas dire que l'un cite l'autre : c'est constater qu'==ils emploient le même mot
+pour la même perte==.
 
 ### Se faire voir coûte de voir
 
 Ce qui précède se retourne, et c'est ici que la chuqqah rejoint son objet.
 
-Le *gavhut* ==se fait voir== : il monte, il s'exalte, il occupe un rang. Toute sa
-position consiste à ==être regardé==.
+Celui qui est dans la *gavhut* ==se fait voir== : il monte, il s'exalte, il
+occupe un rang. Toute sa position consiste à ==être regardé==.
 
-L'*ʿanav* fait l'inverse, et le corpus dit ==ce qu'il y gagne== — regarde bien le
+L'**ʿanav** fait l'inverse, et le corpus dit ==ce qu'il y gagne== — regarde bien le
 dernier mot (*Sophonie* 2:3) :
 
 *baqshu tsedeq, baqshu ʿanavah, ʾulai tissateru beyom ʾaf YHWH* (*baqshu
 ʿanavah ʾulai tissateru* / בַּקְּשׁוּ עֲנָוָה אוּלַי תִּסָּתְרוּ) — ==cherchez le
-**tsedeq**, cherchez la *ʿanavah* ; peut-être serez-vous mis à couvert au jour de
+**tsedeq**, cherchez la **ʿanavah** ; peut-être serez-vous mis à couvert au jour de
 la colère de **YHWH**.==
 
 *Tissateru* vient de *satar* — la racine du **seter**, ==l'endroit d'où l'on n'est
 pas vu==, et celle du **nistar**, ==ce qui se dérobe de soi-même==. C'est-à-dire
 ==le vocabulaire même de l'**ʿolam**==.
 
-Donc la *ʿanavah* n'est pas seulement une façon de regarder : ==elle est aussi une
+Donc la **ʿanavah** n'est pas seulement une façon de regarder : ==elle est aussi une
 façon d'être placé==. Celui qui ne se met pas en hauteur ==entre dans le couvert==.
 Il voit sans être vu ; l'autre est vu sans plus rien voir.
 
@@ -279,7 +307,7 @@ faire voir coûte de voir.==
 
 ### La retenue est un acte, non une absence
 
-Reste la conséquence qu'on attend le moins : ==l'*ʿanav* est plus libre de sa
+Reste la conséquence qu'on attend le moins : ==l'**ʿanav** est plus libre de sa
 **gevurah** que celui qui s'en glorifie==, et il l'est ==dans les deux sens==.
 
 Il peut prendre l'outil, parce que rien en lui ne redoute de paraître fort.
@@ -304,9 +332,10 @@ C'est mot pour mot la question du **kli** tourné vers soi : ==qu'est-ce que cel
 dit de moi ?==
 
 L'attaqué ne répond rien. Et le texte, à ce moment précis, glisse la phrase qui
-lui vaut son nom dans tout le corpus : *vehaʾish Mosheh ʿanav meʾod* (*vehaʾish
-Mosheh ʿanav meʾod* / וְהָאִישׁ מֹשֶׁה עָנָיו מְאֹד) — ==et l'**ʾish** [[Mosheh]]
-était très *ʿanav*, plus que tout **ʾadam** sur la face du sol.==
+lui vaut son nom dans tout le corpus : *vehaʾish Mosheh ʿanayv meʾod*
+(*vehaʾish Mosheh ʿanayv meʾod* / וְהָאִישׁ מֹשֶׁה עָנָיו מְאֹד) — ==et l'**ʾish**
+[[Mosheh]]
+était très **ʿanav**, plus que tout **ʾadam** sur la face du sol.==
 
 Puis, cinq versets plus loin, **YHWH** décrit ce que cet homme-là reçoit : *peh ʾel
 peh ʾadaber bo ... utemunat YHWH yabit* (*peh ʾel peh ʾadaber bo* / פֶּה אֶל פֶּה
@@ -314,7 +343,7 @@ peh ʾadaber bo ... utemunat YHWH yabit* (*peh ʾel peh ʾadaber bo* / פֶּה 
 **YHWH**==.
 
 Mets les deux phrases côte à côte, elles sont dans le même paragraphe : ==l'homme
-le plus *ʿanav* est celui à qui il est donné de voir le plus==. Le texte ne
+le plus **ʿanav** est celui à qui il est donné de voir le plus==. Le texte ne
 commente pas ce rapprochement ; ==il se contente de le poser==.
 
 Et ce n'est pas un privilège dont il soit jaloux. Un chapitre plus tôt, on vient
@@ -336,28 +365,37 @@ Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 ## Le joint faible
 
-==La chuqqah lit une racine comme une unité, et les dictionnaires en font deux
-entrées.==
+==La chuqqah a renoncé à la parenté sur laquelle sa matière reposait.==
 
-Il est possible que *ʿanah*-courber et *ʿanah*-répondre soient deux racines
-distinctes, tombées par accident dans les mêmes consonnes. Les huit
-ketiv/qere montrent que la tradition les a ==vécues== comme une seule ; ils ne
-montrent pas qu'elles le ==sont== à l'origine. La chuqqah s'appuie donc sur
-==l'usage== — sur ce que les textes font du mot —, non sur l'étymologie seule.
-C'est la réserve exacte que la première chuqqah a posée pour l'**ʿolam**, et elle
-vaut ici mot pour mot.
+L'échange dont elle est tirée tenait **ʿanah** pour ==une racine bifurquée== :
+courber d'un côté, répondre de l'autre, et les deux se recoupant — d'où le trait
+qui fait tout le sel de la matière, *l'**ʿanav** est celui qui répond au réel tel
+qu'il est*. Le §2.5 a déclaré le 12 septembre 2026 que ==ce sont deux racines==,
+que rien ne distingue à la lettre. La chuqqah a donc été rebâtie sur *courber*
+seul.
 
-==Et le *gazaz* est un emprunt, non un terme du corpus.==
+==Ce qu'elle y perd== est la dérivation, qui était élégante. ==Ce qu'elle
+garde== est la chose même, qui n'en dépendait pas : un dos courbé ne donne pas la
+mesure, et cela se lit dans *courber* sans avoir besoin de l'autre racine.
 
-Le mot dit ==tondre==, et rien d'autre. La chose qu'il sert à nommer — prendre
-parce qu'on peut — est bien dans le corpus, mais elle y porte d'autres mots. Un
-lecteur a le droit de demander pourquoi celui-là. La réponse honnête est :
-==parce que l'image est juste==, non parce que la langue l'a fixée.
+Et il faut dire ce qui reste indécidable. Une langue qui joue constamment sur les
+homographes ==peut très bien avoir entendu les deux== sans qu'aucun lexicographe
+le concède. Mais une résonance n'est pas une dérivation — c'est la règle que le
+§2.9 pose ailleurs sous une autre forme, ==une racine partagée n'est pas une
+intention==, et cette chuqqah se l'applique à elle-même.
+
+==Et le **gazaz** est un transport, non un mot de l'orgueil.==
+
+Le mot dit ==retrancher d'un vivant ce qu'il a produit==, et il est désormais
+déclaré pour cela. Mais ==l'hébreu ne l'emploie jamais pour nommer un homme== qui
+prélève par force : la figure est réelle et le corpus la connaît, il la nomme
+autrement. L'image vient de l'auteur, et elle est juste ; ==la langue ne l'a pas
+fixée==, et un lecteur a le droit de le savoir.
 
 ==Une troisième chose, que la chuqqah refuse de faire.==
 
 Le même [[Mosheh]] frappe le rocher en *Nombres* 20, après avoir dit *est-ce de ce
-rocher que **nous** ferons sortir de l'eau ?* — alors qu'il lui avait été dit de
+rocher que ==nous== ferons sortir de l'eau ?* — alors qu'il lui avait été dit de
 ==parler== au rocher. C'est ==la seule fois où il dit « nous »==, et c'est la fois
 où il prend le bâton sans qu'on le lui demande. Cela, le texte le porte.
 
@@ -375,9 +413,15 @@ Le §4.9 demande de laisser le texte muet là où il l'est ; il l'est ici.
 
 - *==Ce que la chuqqah a écarté, et au nom de quelle règle.== La matière expose la structure en termes de ==cause principale et cause instrumentale==, et nomme les deux pathologies ==narcissisme ontologique== et ==prédation ontologique==. Les premiers sont du vocabulaire scolastique d'origine grecque, les seconds de la psychologie moderne : le §4.7 les interdit tous les quatre. La même chose se dit en hébreu fonctionnel — ==qui est le sujet, qui est l'instrument== —, et c'est ce qui est écrit ici. Le mot « ego », présent dans la matière, est écarté pour la même raison.*
 
-- *==Le rang n'est pas écrit dans ce fichier, délibérément.== La feuille d'introduction pose que le rang se déclare là et nulle part ailleurs, ==parce que deux déclarations du même fait finissent par diverger==. Elles ont déjà divergé : sa table donne *le-gradient-de-kavod* au rang 7, et l'en-tête de ce fichier-là dit « sixième du corpus ». Cette chuqqah ne rouvre pas la plaie. ==Le rang que je propose est après la cinquième== — celle du **naviʾ** —, parce qu'elle généralise à tout porteur d'un **kli** ce que la cinquième a établi pour un seul ; et la sixième, qui « ne tient que sur la cinquième », tient aussi bien sur celle-ci.*
+- *==Le rang n'est pas écrit dans ce fichier==, conformément à la feuille d'introduction, qui le déclare et le déclare seule. ==Celui que je propose est après la cinquième== — celle du **naviʾ** : elle a établi pour un seul homme, le porteur du **davar**, ce que celle-ci généralise à tout porteur d'un **kli**, et la sixième, qui « ne tient que sur la cinquième », tient aussi bien sur celle-ci. Placée à la fin, elle irait tout autant : chacune se lit seule.*
 
-- *==Cinq termes travaillent ici sans être déclarés== : *ʿanavah* et *ʿanav*, *gavhut* et *gavah*, *gazaz*, *ʿani*, et *temunah*. ==Le premier est un candidat intraduisible sérieux==, et l'argument est déjà écrit ailleurs : le §2.5 a soustrait **yirah** à « crainte » parce que ce n'est pas un affect mais une posture. *ʿanavah* tombe sous le même couperet, et plus durement encore — « humilité » ne peut pas être dit de **YHWH**, quand *ʿanavah* l'est en *Psaumes* 18:36. ==À trancher par l'auteur==, ainsi que la fiche qui irait avec.*
+- *==Elle recoupe la huitième sur un paragraphe, et il faut le dire avant que quelqu'un le découvre.== *La force répond à ce qui se dérobe* porte une section — *le **kli** bas est celui qu'on peut traverser* — qui tient déjà *Nombres* 12:3, le **kli** plein de lui-même qui n'a pas de place, et le critère : *celui dont la prise n'est pas l'identité peut poser la prise*. Les deux chuqqot ont été écrites le même jour, de deux matières différentes, sans se lire. ==Qu'elles tombent sur le même invariant vaut mieux qu'un accord négocié== ; il reste que la duplication est réelle. Elles ne portent pourtant pas le même mot — celle-là travaille *chazaq*, la prise qui cesse avec la brèche ; celle-ci travaille **gevurah** et **ʿanav**, et ce que l'orientation d'un **kli** fait à son **ʿolam**. ==À trancher par l'auteur== si le paragraphe commun doit être retiré d'un côté.*
+
+- *==Les termes centraux ont été déclarés pendant que cette chuqqah s'écrivait.== Elle les tenait en italique et les proposait comme candidats ; le §2.5 a déclaré le 12 septembre 2026 **ʿanav**, **ʿanavah**, **ʿani**, **ʿoni**, **ʿanah**, **gavah** et **gazaz** — les sept, en deux familles prises entières. Le balisage a été repris en conséquence. ==Aucune de ces fiches n'existe encore dans `lexique/`== : le lecteur touchera sept mots d'or sans feuille au bout. ==À écrire==, et la matière de cette chuqqah en fournit une bonne part.*
+
+- *==Deux termes travaillent encore sans déclaration== : *gavhut*, la hauteur du **lev**, qui est une forme de **gavah** et pourrait retomber sur sa fiche ; et *temunah*, la forme que contemple celui de *Nombres* 12:8. ==À trancher par l'auteur.==*
+
+- *==Une précision sur le mot de *Nombres* 12:3.== Les consonnes y sont écrites sans le yod, et la tradition de lecture supplée *ʿanayv* — d'où la translittération employée ici, qui suit ==la forme lue==. Ce n'est pas l'un des sept échanges **ʿani** / **ʿanav** relevés plus haut : c'est une graphie défective du même mot, et rien de plus.*
 
 - *==Un **Shem** manque à l'appel.== Le **gibbor** de *Shoftim* n'est pas nommé dans le corps, parce que sa fiche n'existe pas encore dans `lexique/` et qu'un nom propre sans fiche est un mot que le lecteur touchera pour rien. La scène se tient sans lui. ==À reprendre quand *Shoftim* sera écrit.==*
 
@@ -385,7 +429,9 @@ Le §4.9 demande de laisser le texte muet là où il l'est ; il l'est ici.
 
 ### Ce que la chuqqah engage dans le corpus
 
-- *Nombres* 12:1-8 (à écrire) — l'attaque, le mot *ʿanav*, et ce que cet homme reçoit : les deux dans le même paragraphe.
+- *Nombres* 12:1-8 (à écrire) — l'attaque, le mot **ʿanav**, et ce que cet homme reçoit : les deux dans le même paragraphe.
+- *Genèse* 15:13 et 16:11 (verrouillés) — les deux premiers emplois de la famille : celui qui courbe, et le **ʿoni** que **YHWH** entend.
+- *Proverbes* 14:21, *Psaumes* 9:13, 9:19, 10:12, *Ésaïe* 32:7, *Amos* 8:4 (à écrire) — les sept endroits où le témoin écrit l'un et lit l'autre.
 - *Nombres* 11:29 (à écrire) — *si seulement tout le peuple était **neviʾim***.
 - *Nombres* 12:13 (à écrire) — le cri pour celle qui l'avait attaqué.
 - *Nombres* 20:8-11 (à écrire) — le « nous », et le bâton pris sans qu'on le demande.
@@ -393,9 +439,9 @@ Le §4.9 demande de laisser le texte muet là où il l'est ; il l'est ici.
 - *Jérémie* 9:22-23 (à écrire) — ce dont on se glorifie et ce qu'on connaît, sur un même axe.
 - *Ésaïe* 2:11-17 (à écrire) — les yeux de la *gavhut*, et la hauteur rendue à qui elle revient.
 - *Sophonie* 2:3 (à écrire) — *cherchez la ʿanavah, peut-être serez-vous mis à couvert*.
-- *Psaumes* 18:36 et *2 Samuel* 22:36 (à écrire) — le mot dit de **YHWH**, et les deux branches de la racine dans les deux témoins.
+- *Psaumes* 18:36 et *2 Samuel* 22:36 (à écrire) — le mot dit de **YHWH** : le nom dans un témoin, le verbe dans l'autre, au même endroit du même vers.
 - *Proverbes* 16:18-19 (à écrire) — la hauteur de **Ruach** avant la chute.
-- *Exode* 19:8 (à écrire) — le peuple qui *ʿanah* au [[Sinai]] : répondre, et non subir.
+- *Exode* 19:8 (à écrire) — l'homographe *ʿanah*-répondre, au [[Sinai]] : à ne pas confondre avec **ʿanah**, et c'est le §2.5 qui le dit.
 - Les fiches *lexique/kli.md*, *lexique/gevurah.md*, *lexique/gibbor.md* et *lexique/maqom.md* portent les quatre termes sur lesquels la chuqqah repose.
 
 ---
