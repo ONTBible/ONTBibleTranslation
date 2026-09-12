@@ -1,6 +1,6 @@
 # **YHWH** n'est pas *dans* un lieu — il *est* le lieu
 
-*(chuqqah — deuxième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

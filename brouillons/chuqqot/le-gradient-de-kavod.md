@@ -1,6 +1,6 @@
 # On ne compte pas les Cieux — on les traverse
 
-*(chuqqah — sixième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

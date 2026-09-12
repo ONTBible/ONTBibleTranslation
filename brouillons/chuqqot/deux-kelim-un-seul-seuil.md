@@ -1,6 +1,6 @@
 # Deux qui deviennent **basar** **ʾechad** n'ont plus qu'un seuil
 
-*(chuqqah — sixième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

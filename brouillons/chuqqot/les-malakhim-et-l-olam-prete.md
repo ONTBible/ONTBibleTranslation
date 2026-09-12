@@ -1,6 +1,6 @@
 # Les **malʾakhim** n'ont pas d'**ʿolam** à eux
 
-*(chuqqah — deuxième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

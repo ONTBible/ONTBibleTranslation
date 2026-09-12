@@ -1,6 +1,6 @@
 # L'**ʿolam** est un regard, non un lieu
 
-*(chuqqah — la première du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 

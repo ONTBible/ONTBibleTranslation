@@ -36,6 +36,7 @@ a guère d'autres.
 | 5 | *le-navi-et-l-olam-d-argile* | le **kli** humain — et le **basar** comme puissance, non comme prison |
 | 6 | *deux-kelim-un-seul-seuil* | deux **kelim** humains joints : ce que l'union fait au seuil de chacun |
 | 7 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
+| 8 | *la-force-repond-a-ce-qui-se-derobe* | ce que coûte un **kli** qui tient à ce qui ne se montre pas — et pourquoi ce coût a un bord |
 
 ==Le rang est déclaré ici, et nulle part ailleurs.== Les fichiers ne portent
 aucun numéro, délibérément : un ordre inscrit à la fois dans un nom de fichier et
