@@ -401,12 +401,14 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
   C'est la forme construite qui vit dans [[Malki-tsedeq]], *melekh* de Shalem et
   **kohen** d'**ʾEl ʿElyon** : ==le seul du corpus à cumuler les deux offices==,
   et c'est ce cumul qui fait tout *Bereshit* 14.
-- `**malakh**` — intraduisible : ==régner, et devenir celui qui règne== (מָלַךְ),
-  347 emplois. ⚠️ ==À ne pas confondre avec **malʾakh**==, l'envoyé, qui porte un
-  alef que celui-ci n'a pas — deux mots que la translittération française
-  rapproche et que l'hébreu sépare par une lettre. Le verbe dit souvent
-  ==l'accession== plus que l'exercice : *vayimlokh tachtav*, il régna à sa place,
-  est la formule des listes royales.
+  ==Le verbe `**malakh**` est déclaré ici et non à part==, et c'est une
+  contrainte d'outil, non un choix de sens. Le slug du pipeline ôte les
+  demi-anneaux : `malakh` le verbe et `**malʾakh**` l'envoyé — deux mots que
+  l'hébreu sépare par un alef — retombent sur ==la même clé==. Une fiche propre
+  au verbe volerait celle du messager. Il est donc une forme de **melekh**, dont
+  la fiche le porte. 347 emplois, et il dit souvent ==l'accession== plus que
+  l'exercice : *vayimlokh tachtav*, il régna à sa place, est la formule des
+  listes royales.
 - `**malkhut**` / `**mamlakhah**` / `**melukhah**` — intraduisible : ==l'exercice
   et le domaine de la royauté== (מַלְכוּת · מַמְלָכָה · מְלוּכָה). Trois mots
   pour ce que le français dit par « royaume » et « royauté ». La **mamlakhah**
