@@ -59,3 +59,7 @@ commettre, mais qu'il rend inutile.
 d'accord — l'hébreu fait ailleurs le même geste grammatical. Et la chuqqah des
 quatre modes de présence, où ce mot porte la réponse à la question « plusieurs
 **ʾElohim** ? ».
+
+## Source
+
+259 · אֶחָד
