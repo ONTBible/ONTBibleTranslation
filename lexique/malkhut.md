@@ -12,7 +12,7 @@ Le *ou* est celui de « loup ». Il n'y a rien d'autre à surveiller : le *m* et
 
 ## Une charge se compte en années
 
-Ouvre n'importe quel rouleau de l'époque perse et regarde comment une phrase commence. *En l'an trois de sa **malkhut***, *en l'an deux de la **malkhut** du roi de Paras*. C'est ainsi qu'on date un acte, une lettre, une déportation : ==on compte depuis le jour où un homme a pris sa charge==.
+Ouvre n'importe quel rouleau de l'époque perse et regarde comment une phrase commence. *En l'an trois de sa **malkhut***, *en l'an deux de la **malkhut** du grand roi*. C'est ainsi qu'on date un acte, une lettre, une déportation : ==on compte depuis le jour où un homme a pris sa charge==.
 
 Voilà ce que le mot nomme. Pas un pays — ==une tenure==. Ce qu'un homme tient, et pendant combien de temps il le tient.
 
@@ -24,7 +24,7 @@ Prends les quatre-vingt-onze emplois et regarde la fin du mot. ==Quarante-quatre
 
 Additionne : sur quatre-vingt-onze emplois, ==les deux tiers rattachent la chose à quelqu'un==. Ce n'est pas un détail de grammaire, c'est la définition du mot rendue visible. ==Une **malkhut** est toujours la **malkhut** de quelqu'un==, parce qu'une charge est ce qui pèse sur des épaules nommées.
 
-Le siège le dit aussi. Le roi de Paras est assis *sur le trône de sa **malkhut*** (*kisse malkhuto* / כִּסֵּא מַלְכוּתוֹ), et le trône n'est pas la **malkhut** : il est ==le meuble d'où on l'exerce==.
+Le siège le dit aussi. Le grand roi est assis *sur le trône de sa **malkhut*** (*kisse malkhuto* / כִּסֵּא מַלְכוּתוֹ), et le trône n'est pas la **malkhut** : il est ==le meuble d'où on l'exerce==.
 
 ## Ce qu'on pose sur une tête, et ce qu'on offre à un banquet
 

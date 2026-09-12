@@ -101,7 +101,7 @@ avec celle-ci. *mashal* et *radah*, les deux verbes de la gouvernance délégué
 
 ## Formes
 
-melekh · melakhim · malkhei · melakhim ʿamim · mamlakhah · mamlakhto
+melekh · melakhim · malkhei · melakhim ʿamim
 
 ## Source
 

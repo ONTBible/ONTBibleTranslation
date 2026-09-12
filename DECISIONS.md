@@ -9,10 +9,10 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 557 | réservé à l'auteur. |
-| `CLAUDE.md` | 1190 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1393 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
-| `CLAUDE.md` | 1487 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 576 | réservé à l'auteur. |
+| `CLAUDE.md` | 1209 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1412 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `CLAUDE.md` | 1506 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
@@ -44,22 +44,22 @@ désigné, et cet index n'en est qu'une table.*
 |---|---:|---|
 | `CLAUDE.md` | 102 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
 | `CLAUDE.md` | 311 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 1087 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1276 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
-| `CLAUDE.md` | 1309 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
-| `CLAUDE.md` | 1492 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 1713 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 1868 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 1986 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 2136 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2363 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2429 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 1106 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1295 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
+| `CLAUDE.md` | 1328 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
+| `CLAUDE.md` | 1511 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 1732 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 1887 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 2005 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 2155 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2382 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2448 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 
-## Les 101 intraduisibles déclarés au §2.5
+## Les 100 intraduisibles déclarés au §2.5
 
 Le lemme d'abord, ses formes dérivées ensuite — c'est l'ordre que le
 pipeline lit, et les dérivées retombent sur la fiche du lemme.
@@ -87,7 +87,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **ʾEl ʿElyon** | — | *Bereshit* 14 | ✓ |
 | **ʾEl Roï** | — | *Genèse* 16:13 | ✓ |
 | **Kohen** | kohen, kohanim, kohen gadol | *Genèse* 14:18 | ✓ |
-| **malʾakh** | malʾakhim | *Genèse* 16:7 | · |
+| **malʾakh** | malʾakhim | *Genèse* 16:7 | ✓ |
 | **shaliach** | shlichim | — | ✓ |
 | **shifchah** | shefachot | — | ✓ |
 | **ʾemunah** | ʾEmunah, ʾemuna | *Genèse* 15:6 | ✓ |
@@ -135,7 +135,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **mishpat** | mishpatim | *Bereshit* 18 | ✓ |
 | **shofet** | shoftim | — | ✓ |
 | **ʿolam** | berith-olam, ʾachuzat-ʿolam, ledorot-olam, ʿad-ʿolam, leʿolam, meʿolam | *Genèse* 3:22 (*vechai leʿolam*) | ✓ |
-| **Sheʾol** | — | *Toledot Adam ve-Chavah* | · |
+| **Sheʾol** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **teshuvah** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **ha-satan** | — | *Toledot Adam ve-Chavah* | ✓ |
 | **tevilah** | — | *Toledot Adam ve-Chavah* | ✓ |
@@ -149,7 +149,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **binah** | — | — | ✓ |
 | **ʿetsah** | — | — | ✓ |
 | **gevurah** | gevurot, gevurot | — | ✓ |
-| **daʿat** | — | — | · |
+| **daʿat** | — | — | ✓ |
 | **yirah** | yirat YHWH | — | ✓ |
 | **ʿanav** | ʿanavim | — | ✓ |
 | **ʿanavah** | — | — | ✓ |
@@ -160,9 +160,8 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **gavar** | gever | — | ✓ |
 | **geveret** | — | — | ✓ |
 | **melekh** | melakhim | — | ✓ |
-| **malakh** | — | — | ✓ |
-| **malkhut** | mamlakhah, melukhah | — | · |
-| **malkah** | — | — | · |
+| **malkhut** | mamlakhah, melukhah | — | ✓ |
+| **malkah** | — | — | ✓ |
 | **gazaz** | gez, gizzah | — | ✓ |
 | **qum** | — | — | ✓ |
 | **qomah** | — | — | ✓ |
@@ -330,4 +329,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*508 fichiers parcourus · 434 fiches dans `lexique/`.*
+*512 fichiers parcourus · 438 fiches dans `lexique/`.*
