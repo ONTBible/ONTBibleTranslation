@@ -335,7 +335,7 @@ L'attaqué ne répond rien. Et le texte, à ce moment précis, glisse la phrase 
 lui vaut son nom dans tout le corpus : *vehaʾish Mosheh ʿanayv meʾod*
 (*vehaʾish Mosheh ʿanayv meʾod* / וְהָאִישׁ מֹשֶׁה עָנָיו מְאֹד) — ==et l'**ʾish**
 [[Mosheh]]
-était très **ʿanav**, plus que tout **ʾadam** sur la face du sol.==
+était très **ʿanav**, plus que tout **ʾadam** sur la face de l'**ʾadamah**.==
 
 Puis, cinq versets plus loin, **YHWH** décrit ce que cet homme-là reçoit : *peh ʾel
 peh ʾadaber bo ... utemunat YHWH yabit* (*peh ʾel peh ʾadaber bo* / פֶּה אֶל פֶּה

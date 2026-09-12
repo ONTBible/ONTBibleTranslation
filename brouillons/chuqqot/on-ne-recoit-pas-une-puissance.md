@@ -300,7 +300,7 @@ Alors relis la première phrase de [[Bavel]] :
 
 וַיְהִי כָל הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים
 
-et toute la Terre était une seule *safah* et des **devarim** unifiés —
+et toute l'**ʾeretz** était une seule *safah* et des **devarim** unifiés —
 (*Genèse* 11:1)
 
 Ce qui est brouillé ensuite n'est pas un lexique. ==C'est un bord qui se

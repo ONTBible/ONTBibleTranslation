@@ -210,13 +210,13 @@ Au verset 9, le texte donne sa raison, et il la donne avec un *ki* — ==parce
 que== :
 
 > *« Ils ne feront pas de **raʿ** et ne détruiront pas sur toute ma montagne de
-> **qodesh** — ==car la Terre est remplie== du connaître de **YHWH**, comme les
+> **qodesh** — ==car l'**ʾeretz** est remplie== du connaître de **YHWH**, comme les
 > eaux couvrent le fond de la mer. »*
 
 Trois choses sont dans cette phrase, et il faut les prendre une à une.
 
 ==Le verbe est *maleʾ*== — remplir. C'est le verbe même de *Ésaïe* 6:3, *toute
-la Terre est remplie de son **kavod***, sur lequel la chuqqah de **YHWH**
+l'**ʾeretz** est remplie de son **kavod***, sur lequel la chuqqah de **YHWH**
 **ha-Maqom** s'appuie déjà. Remplir ne veut pas dire « être présent en beaucoup
 d'endroits » : cela veut dire ==qu'il ne reste nulle part de vide==.
 
