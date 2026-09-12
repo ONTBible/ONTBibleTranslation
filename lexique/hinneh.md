@@ -49,7 +49,7 @@ récit ==dans les yeux de celui qui voit==.
 
 Regardez la mécanique dans quatre scènes du corpus.
 
-[[Noach]] ôte le couvercle de la **tevah**, *vayarʾ vehinneh* — il examine, et
+[[Noach]] ôte le couvercle de l'arche (*tevah*), *vayarʾ vehinneh* — il examine, et
 voilà, la face du sol est sèche. Quelques versets plus tôt, la colombe revient
 au soir, *vehinneh* — et voilà, une feuille d'olivier arrachée dans son bec.
 

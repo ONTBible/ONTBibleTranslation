@@ -1109,7 +1109,40 @@ un het écrit `kh` — `akhuzat` (7), `akhoranit` (2) —, corrigées avec cette
 passe. Une troisième, `beiqekha` pour `בְּחֵיקֶךָ`, ==ne rend pas le het du
 tout== : ce n'est pas une graphie fautive mais une omission. ==À reprendre.==
 
-#### La gémination s'écrit — `yamim` les jours, `yammim` les mers
+#### Les deux graphies vivent ensemble, et la fiche dit pourquoi
+
+**Décision de l'auteur du 12 septembre 2026, prise sur la mesure.** Le corpus
+écrit la gémination ==86 fois== et ne l'écrit pas ==453 fois== — cinq contre un.
+`mabbul`, `vayiqqach`, `Tsillah`, `miqqedem` la portent ; `**ʾishah**`,
+`vayomer`, `vayarʾ`, `**ruach**` ne la portent pas.
+
+==On ne tranche pas.== Les deux graphies restent, elles retombent sur la même
+fiche, et ==la fiche explique pourquoi il y en a deux==.
+
+**Le motif, dans les mots de l'auteur** : *« autant garder les deux, ça permet
+de comprendre, et de relever une subtilité du texte, de faire voyager encore. »*
+
+C'est le critère des six ==ruachim== appliqué à un cas où l'on attendait une
+règle d'orthographe. Normaliser aurait été commode et ==aurait effacé un fait de
+la langue== : le dagesh fort est une consonne redoublée, il s'entend chez qui le
+prononce bien, et le lecteur qui rencontre `vayiqach` d'un côté et `vayiqqach` de
+l'autre ==a quelque chose à apprendre==, pas une coquille à subir.
+
+**Ce que ça demande, et c'est une obligation, non une tolérance :**
+
+- ==les deux graphies se déclarent aux `## Formes`== de la fiche, pour que le
+  mot reste touchable quelle que soit celle que le corpus porte ;
+- ==la fiche explique le dagesh fort== là où le mot en a un : ce qu'il est, ce
+  qu'il redouble, et pourquoi les deux écritures sont justes. Sans cette
+  explication, la décision se dégrade en négligence — et ==deux graphies non
+  expliquées sont exactement ce que le §2.9 existe pour fermer==.
+
+**Ce que la décision ne couvre pas.** Elle vaut pour ==une même forme écrite de
+deux façons==. Elle ne vaut pas quand la gémination ==sépare deux mots== : là,
+l'écrire n'est plus un choix de rendu mais la condition pour que le lecteur ne
+soit pas envoyé ailleurs. C'est le cas ci-dessous, et il reste tranché.
+
+#### La gémination s'écrit quand elle sépare — `yamim` les jours, `yammim` les mers
 
 **Décision de l'auteur du 12 septembre 2026.** Le corpus écrivait ==la même
 graphie pour deux mots différents==, et il le faisait ==dans la même parashah== :
