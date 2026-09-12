@@ -10,7 +10,7 @@ Un potier à son tour. Il prend la motte, il la centre, il l'ouvre avec les pouc
 
 Le corpus l'emploie pour l'artisan, et il l'emploie pour ce que **YHWH** **ʾElohim** fait de l'adam. Ce n'est pas une image pieuse : c'est ==le même mot==, avec la même matière nommée — la poussière du sol.
 
-Ce qui fait toute la distance avec le chapitre précédent. Là, **ʾElohim** **amar** et cela est ; il ordonne un monde depuis une souveraineté sans visage, sans jamais toucher quoi que ce soit. Ici, il ==se met à genoux dans la terre==. Il pétrit. Il approche son visage. Il souffle dans des narines. Le même, dans une tout autre proximité — et le texte accole alors les deux noms, **YHWH** **ʾElohim**, pour qu'on ne croie pas à deux dieux.
+Ce qui fait toute la distance avec le chapitre précédent. Là, **ʾElohim** **ʾamar** et cela est ; il ordonne un monde depuis une souveraineté sans visage, sans jamais toucher quoi que ce soit. Ici, il ==se met à genoux dans la terre==. Il pétrit. Il approche son visage. Il souffle dans des narines. Le même, dans une tout autre proximité — et le texte accole alors les deux noms, **YHWH** **ʾElohim**, pour qu'on ne croie pas à deux dieux.
 
 Le verbe suppose toujours ==une matière première==, et c'est ce qui l'oppose exactement à **baraʾ**, dont le corpus ne dit jamais avec quoi. On ==yatsar== *de* quelque chose. On **baraʾ** sans que la question se pose.
 

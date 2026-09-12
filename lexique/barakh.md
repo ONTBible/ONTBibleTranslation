@@ -14,7 +14,7 @@ D'où la faiblesse de « bénir » en français. Notre bénédiction est devenue
 
 Regarde comment le mot travaille dans la première page. **ʾElohim** ==barakh== les vivants des eaux et leur dit : croissez et multipliez. Ce n'est pas une permission, ni un vœu — c'est ==la capacité de le faire==, déposée en eux. Puis il le fait pour l'adam, en y ajoutant la charge de gouverner. Et il le fait enfin pour un jour, le septième, qui n'a pourtant rien à faire croître : ce jour-là est doté d'une capacité propre.
 
-Son contraire éclaire encore mieux. **Arur** n'est pas l'absence de dotation — c'est ==sa perversion== : la capacité demeure, et fonctionne de travers. L'*adamah* frappée continue de produire, mais des ronces avec le pain. Rien n'a été retiré. Tout est devenu pénible.
+Son contraire éclaire encore mieux. **ʾarur** n'est pas l'absence de dotation — c'est ==sa perversion== : la capacité demeure, et fonctionne de travers. L'*adamah* frappée continue de produire, mais des ronces avec le pain. Rien n'a été retiré. Tout est devenu pénible.
 
 Le mot est apparenté à *berekh*, le genou. Fléchir le genou et transmettre une capacité viennent du même geste — celui qui se met plus bas pour donner.
 

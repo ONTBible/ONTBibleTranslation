@@ -8,7 +8,7 @@ Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une v
 
 ## Le Shem
 
-(*Chovah* / חוֹבָה) — localisation incertaine, au septentrion de [[Dammesek]].
+(*Chovah* / חוֹבָה) — localisation incertaine, au septentrion de [[Dammeseq]].
 
 ## Ce que le corpus en fait
 
@@ -24,7 +24,7 @@ Et ce qu'[[ʾAvraham]] fait ensuite compte davantage que la victoire : il refuse
 
 Ce qu'il termine : la poursuite d'[[ʾAvraham]] pour délivrer [[Lot]].
 
-Où il se trouve : au septentrion de [[Dammesek]].
+Où il se trouve : au septentrion de [[Dammeseq]].
 
 ## Source
 

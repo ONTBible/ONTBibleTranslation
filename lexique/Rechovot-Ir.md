@@ -1,4 +1,4 @@
-# Rehovot-Ir
+# Rechovot-Ir
 
 ## Prononciation
 
@@ -6,7 +6,7 @@
 
 ## Le Shem
 
-(*Rehovot-Ir* / רְחֹבֹת עִיר). Littéralement ==les larges rues de la ville== — *rehovot* étant les places, les espaces ouverts où l'on se rassemble.
+(*Rechovot-Ir* / רְחֹבֹת עִיר). Littéralement ==les larges rues de la ville== — *rehovot* étant les places, les espaces ouverts où l'on se rassemble.
 
 Ce n'est peut-être pas un nom propre au sens strict : ==peut-être un quartier ou un faubourg de [[Ninveh]]==, désigné par ce qu'il est.
 
