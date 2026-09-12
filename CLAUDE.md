@@ -391,6 +391,34 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
   1404== — le profil exact de la faute qui a fondu [[Haran]] et [[Charan]] le
   8 septembre. Relevé et corrigé le 12 septembre 2026 par l'agent qui écrivait la
   fiche.
+- `**melekh**` / `**melakhim**` — intraduisible depuis le 12 septembre 2026 :
+  ==celui qui règne sur un domaine== (מֶלֶךְ). ==2522 emplois== — l'un des mots
+  les plus fréquents du corpus. Non « roi » au sens que le français a pris : le
+  **melekh** du Proche-Orient ancien n'est pas Charlemagne, c'est ==le chef d'une
+  ville ceinte d'un mur==. *Bereshit* 14 en aligne neuf dans une vallée, et
+  ==trois cent dix-huit hommes les défont== — le mot ne dit pas l'étendue, il dit
+  ==l'autorité sur un dedans==.
+  C'est la forme construite qui vit dans [[Malki-tsedeq]], *melekh* de Shalem et
+  **kohen** d'**ʾEl ʿElyon** : ==le seul du corpus à cumuler les deux offices==,
+  et c'est ce cumul qui fait tout *Bereshit* 14.
+- `**malakh**` — intraduisible : ==régner, et devenir celui qui règne== (מָלַךְ),
+  347 emplois. ⚠️ ==À ne pas confondre avec **malʾakh**==, l'envoyé, qui porte un
+  alef que celui-ci n'a pas — deux mots que la translittération française
+  rapproche et que l'hébreu sépare par une lettre. Le verbe dit souvent
+  ==l'accession== plus que l'exercice : *vayimlokh tachtav*, il régna à sa place,
+  est la formule des listes royales.
+- `**malkhut**` / `**mamlakhah**` / `**melukhah**` — intraduisible : ==l'exercice
+  et le domaine de la royauté== (מַלְכוּת · מַמְלָכָה · מְלוּכָה). Trois mots
+  pour ce que le français dit par « royaume » et « royauté ». La **mamlakhah**
+  (117 emplois) paraît plutôt pour ==le territoire==, la **malkhut** (91) pour
+  ==la charge==, la **melukhah** (24) pour ==la fonction en tant qu'elle se
+  transmet==. ==Cette répartition est une impression de lecture, non une mesure==
+  — elle demande à être vérifiée livre par livre avant d'être posée en règle, et
+  elle est écrite ici pour qu'on sache quoi éprouver.
+- `**malkah**` — intraduisible : ==celle qui règne== (מַלְכָּה), 35 emplois.
+  À distinguer de `**geveret**`, qui l'emporte ==dans sa maison==, et de
+  *gevirah*, qui est ==la mère du roi== : trois positions féminines que le
+  français range toutes sous « reine », et que l'hébreu tient séparées.
 
 - `**gazaz**` / `**gez**` / `**gizzah**` — intraduisible : ==tondre, retrancher
   ce qui a poussé== (גָּזַז). Non « tondre » au sens du métier : le mot dit
