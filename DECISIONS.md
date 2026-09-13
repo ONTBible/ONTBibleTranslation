@@ -100,7 +100,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **rashaʿ** | reshaʿim | *Genèse* 18:23 | ✓ |
 | **chesed** | — | *Genèse* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Exode* 34:6-7 et *Ruth* | ✓ |
 | **tov** | — | *Genèse* 1:4 | ✓ |
-| **tov meʾod** | — | — | · |
+| **tov meʾod** | — | — | ✓ |
 | **tov varaʿ** | Tov varaʿ | — | ✓ |
 | **raʿ** | raʿat, raʿim | — | ✓ |
 | **chataʾ** | — | — | ✓ |
