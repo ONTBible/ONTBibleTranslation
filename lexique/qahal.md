@@ -63,8 +63,54 @@ on croit lire deux choses différentes. Garde le mot, et tu vois ce qui a bougé
 
 ==Le peuple est devenu la montagne.==
 
+## Le verbe s'écrit comme le nom, et c'est le mot lui-même qui l'explique
+
+Le témoin compte ==deux entrées sous les mêmes lettres== :
+
+    6951   qahal    le nom      123 emplois    l'assemblée convoquée
+    6950   qahal    le verbe     38 emplois    convoquer, se rassembler
+
+==Ce n'est pas une coïncidence de graphie== — c'est ce que la fiche dit
+depuis le début, rendu visible dans la grammaire. Le **qahal** n'existe
+pas avant qu'on l'ait convoqué : il n'y a pas d'assemblée qui attendrait
+quelque part qu'on la réunisse. ==L'acte et la chose portent le même
+mot parce qu'ils arrivent ensemble.==
+
+Regarde les formes que le verbe prend. Le hiphil — *vayaqhel*, « et il
+fit s'assembler » — a presque toujours pour sujet ==celui qui a
+autorité== : Mosheh, un roi, **YHWH**. Le niphal — *vayiqahalu*, « et
+ils s'assemblèrent » — a pour sujet ==le peuple==. La langue distingue
+donc ce que le français fond : ==on convoque, ou l'on est convoqué==,
+et ce n'est jamais le même qui fait les deux.
+
+Une seule fois le niphal tourne mal, et il vaut d'être noté : quand le
+peuple s'assemble ==de lui-même contre== Mosheh et Aharon. Le mot est le
+même ; ce qui manque est ==celui qui appelle==. Un **qahal** sans
+convocateur, c'est une foule.
+
+==Le verbe n'a pas de fiche à lui==, et cette fois ce n'est pas une
+contrainte d'outil mais un fait de la langue : il s'écrit exactement
+comme le nom, sans une lettre de différence. Les deux vivent ici.
+
+## Un mot de plus, et il n'est presque pas employé
+
+`qehillah` (קְהִלָּה) — ==deux occurrences dans tout le témoin==, et
+c'est tout ce qu'on peut en dire honnêtement. Il sort de la même racine
+et nomme lui aussi une assemblée. ==On ne bâtit pas une distinction sur
+deux emplois== : la fiche le signale, elle ne l'explique pas.
+
 ## Voir aussi
 
 [[Sinai]], où le mot est posé. **kavod** et **Ruach ha-Qodesh**, pour ce qui
 descend et pour ce qui demeure. **ʿolam**, pour ce que la nuée cache. Et la
 chuqqah des quatre modes de présence, dont ce mot porte la quatrième strate.
+
+## Formes
+
+qahal · Qahal · haqahal · qehal · biqhal · qehalim · yom ha-qahal · kol ha-qahal ·
+vayaqhel · vayiqahel · vayiqahalu · niqhalu · yaqhel · hiqhil · nuqhal ·
+qehillah · qehillat
+
+## Source
+
+6951 + 6950 · קָהָל

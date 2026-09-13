@@ -17,3 +17,7 @@ Voilà pourquoi « pur » et « impur » désorientent à ce point. Ces mots con
 La catégorie est là bien avant qu'aucune loi ne soit donnée. Au moment d'entrer dans l'arche, ==Noach== prend sept paires des bêtes ==tahor== et une paire des autres — et personne n'a encore reçu la moindre prescription. Le texte suppose que la distinction va de soi : elle est ==déjà opératoire== dans le monde, comme le sont le jour et la nuit.
 
 Celui dont la charge est de tenir ce passage ouvert est le **Kohen**, et son travail le plus constant n'est pas d'offrir : c'est ==d'enseigner la distinction== — quel état permet quel contact. Un geste de **binah**, appliqué au seuil.
+
+## Source
+
+2889 · טָהוֹר

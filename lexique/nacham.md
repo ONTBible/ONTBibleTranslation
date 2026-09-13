@@ -17,3 +17,7 @@ Le mot travaille aussi dans l'autre sens, et c'est le même mouvement. Quand ==L
 Et c'est encore lui qui reviendra chez les **neviʾim**, dans ces passages qu'on lit comme des consolations : *nachamou, nachamou ami* — non pas « prenez courage », mais ==quelque chose va se retourner pour vous==.
 
 Un même mot pour ce qui remue le ventre de **YHWH** avant les eaux et pour ce qui relèvera un peuple : la langue ne sépare pas ces deux mouvements, parce que c'est le même.
+
+## Source
+
+5162 · נָחַם

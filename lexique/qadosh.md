@@ -19,3 +19,7 @@ Et cela éclaire l'exigence adressée à un peuple : *soyez ==qadosh==, car je s
 Le mot est aussi l'un des rares que le corpus applique à **YHWH** lui-même. Il ne dit pas alors qu'il serait très vertueux — il dit qu'il est ==d'un autre ordre==, non disponible, non manipulable, séparé de tout ce à quoi on voudrait le rabattre.
 
 Le verbe **qadash** est l'opération, le **qodesh** est l'état, ==qadosh== est ce qui le qualifie. Trois formes d'un seul geste : mettre à part.
+
+## Source
+
+6918 · קָדוֹשׁ

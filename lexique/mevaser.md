@@ -54,3 +54,7 @@ vers l'extérieur ce qui est déjà tenu pour acquis à l'intérieur.
 
 > Il n'apporte pas une opinion à examiner. ==Il apporte une nouvelle à
 > recevoir.==
+
+## Source
+
+1319 · מְבַשֵּׂר

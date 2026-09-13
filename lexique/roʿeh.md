@@ -56,3 +56,22 @@ les deux dans un seul mot.
 Un texte ancien signale d'ailleurs que l'usage a bougé : ==celui qu'on appelle
 aujourd'hui **naviʾ** s'appelait autrefois **roʿeh**==. Le corpus le note
 lui-même, et l'ONT s'en tient à ce qu'il porte.
+
+## Les deux racines, et leurs numéros
+
+Le témoin les compte à part, et l'ONT les garde à part :
+
+    7200    רָאָה    voir            1305 emplois
+    7462 b  רָעָה    paître           156 emplois
+
+==La Source ci-dessous ne porte que la première==, parce qu'elle n'a qu'une
+forme absolue à donner et que ce sont deux graphies. Le **roʿeh** de l'ONT est
+le ==point où les deux se rejoignent== — et ce point est dans la langue, pas
+dans le dictionnaire : ==7203==, le voyant, que Strong distingue, ==n'est
+attesté nulle part dans le témoin==. Ce que le français appelle « le voyant »
+n'a pas de mot à lui en hébreu. Il n'a qu'un participe, et il faut choisir de
+quel verbe.
+
+## Source
+
+7200 · רֹאֶה

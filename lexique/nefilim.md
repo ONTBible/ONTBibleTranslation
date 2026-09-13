@@ -21,3 +21,7 @@ Le même verset les appelle aussi **gibborim**, les puissants, et ajoute *anshei
 Leur ombre ne s'arrête pas là. *Genèse* 10:8 dit de ==Nimrod== qu'il fut « l'inauguration du **gibbor** » — la démesure d'avant les eaux, revenue en habit politique. *Bereshit* 14 croise les ==Refaim==, vestige des peuples d'avant l'ordre actuel des nations.
 
 Et le texte ne dit jamais qu'ils ont été détruits. Il dit qu'ils étaient là en ces jours-là — ==et aussi après==. La brèche ne se referme pas avec les eaux.
+
+## Source
+
+5303 · נְפִלִים

@@ -19,3 +19,7 @@ Le récit tranche là-dessus sans jamais commenter. Les **gibborim** de *Genèse
 Son pluriel, ==gevurot==, nomme les actes où elle s'est manifestée — et ce pluriel porte déjà une décision du projet. L'ONT appelle le n° 44 *Gevurot ha-Neviʾim* : « les ==gevurot== de **YHWH** accomplies ==à travers== ses ==neviʾim== ». Dire *Maʿasim ha-Shlichim*, « les actes des envoyés », aurait fait des hommes les sujets de leurs propres exploits — la grammaire des héros. *Gevurot* remet **YHWH** en position de sujet et les hommes en position d'instrument. La phrase porte l'ontologie avant que personne n'ait rien expliqué.
 
 Dans *Ésaïe* 11:2, la ==gevurah== est appariée à **ʿetsah** : le dessein arrêté, et le pouvoir de le tenir. C'est précisément ce qui manque à l'homme qui entre dans le village en faisant baisser les voix — et c'est pourquoi le roi qu'annonce le passage n'est pas un **gibbor** de plus.
+
+## Source
+
+1369 · גְּבוּרָה

@@ -17,3 +17,7 @@ Le même verbe reparaît alors dans une phrase beaucoup plus sombre, et c'est le
 C'est aussi ce verbe qu'entend ==Chavah== dans ce qui lui est dit après la fracture : l'**ʾIsh** ==mashal== sur elle. Le mot est le même que pour les luminaires et pour ==Qayin== — une gouvernance. Le texte constate ce qui vient de se défaire dans le vis-à-vis : ce qui était *kenegdo*, en face, devient un rapport de domaine.
 
 Un mot voisin, *mashal* avec une autre vocalisation, donne le proverbe — la parole qui gouverne une situation en la nommant juste. La langue n'y voit pas deux racines distinctes par hasard.
+
+## Source
+
+4910 · מָשַׁל

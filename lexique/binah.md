@@ -17,3 +17,7 @@ Ce geste, tu l'as déjà vu avant qu'il porte un nom. La première page du corpu
 Ce qui éclaire, en retour, ce qui se perd au Jardin. L'arbre n'est pas celui de la connaissance en général : c'est celui de la **daʿat** de **tov** et de **raʿ**, la capacité de ==trancher soi-même où passe la limite== au lieu de la recevoir. Ce n'est pas de savoir qu'il s'agit. C'est de savoir ==qui trace==.
 
 Dans *Ésaïe* 11:2, la ==binah== est appariée à **chokhmah**. Les traductions donnent « sagesse et intelligence » et la paire de synonymes efface tout : la **chokhmah** fait aboutir, la ==binah== sépare entre. On peut mener un ouvrage à terme sans savoir distinguer deux situations ; on peut distinguer finement sans rien achever. La **ruach** de **YHWH** porte les deux, et le texte prend soin de les nommer l'une après l'autre.
+
+## Source
+
+998 · בִּינָה

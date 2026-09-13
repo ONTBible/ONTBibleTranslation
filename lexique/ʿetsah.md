@@ -19,3 +19,7 @@ D'où sa place dans le vocabulaire du Conseil Divin, cette assemblée où le gou
 C'est ce qui rend exact l'appariement de *Ésaïe* 11:2, où l'==etsah== va avec **gevurah** : ==le dessein, et le pouvoir de le mener à terme.== Séparés, chacun manque de l'autre — un plan sans capacité reste un vœu, une capacité sans plan n'est qu'une force qui s'exerce au hasard. Et c'est très exactement le défaut des puissants du corpus : les **gibborim** ont la contrainte et n'ont aucun dessein. La **Ruach ha-Qodesh** porte les deux ensemble, et c'est cet assemblage-là qui sépare le roi promis du **gibbor**.
 
 Rendre le couple par « conseil et force » perd donc deux fois : « conseil » affaiblit ce qui engage, « force » réduit à la vigueur ce qui est capacité d'aboutir.
+
+## Source
+
+6098 · עֵצָה

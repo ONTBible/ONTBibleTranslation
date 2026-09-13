@@ -59,3 +59,7 @@ Le pluriel : **ʾElohim**, et l'écart qui les sépare.
 Les porteurs : [[Mikhaʾel]], [[Rafaʾel]], [[Yishmaʿel]], [[Baraqel]], [[Bet-El]] — et tous ceux dont le nom finit par cette syllabe.
 
 Ce qu'il n'est pas : *elilim*, les riens — le mot que *Yeshayahu* fera sonner contre lui.
+
+## Source
+
+410 · אֵל

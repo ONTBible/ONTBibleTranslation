@@ -56,3 +56,7 @@ Les trois portent le même habit.
 On écrit parfois « hozeh ». C'est faux, et la faute est la même que « Hénoch »
 pour *Chanokh* : חֹזֶה commence par un ==het==, que la translittération de
 l'ONT rend `ch`. Le `kh` et le `h` appartiennent à ==d'autres lettres==.
+
+## Source
+
+2374 · חֹזֶה
