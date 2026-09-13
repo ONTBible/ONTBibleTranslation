@@ -58,7 +58,7 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
-| `lexique/malakh.md` | 103 | qu'il est. Décision de l'auteur du 12 septembre 2026. |
+| `context/malakh-en-attente.md` | 103 | qu'il est. Décision de l'auteur du 12 septembre 2026. |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 
 ## Les 100 intraduisibles déclarés au §2.5
@@ -331,4 +331,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*513 fichiers parcourus · 439 fiches dans `lexique/`.*
+*513 fichiers parcourus · 438 fiches dans `lexique/`.*
