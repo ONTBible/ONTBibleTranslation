@@ -17,3 +17,7 @@ Le texte ajoute d'ailleurs une expression qu'on remarque rarement : *toute leur 
 Le verbe reviendra, très exactement, pour le Tabernacle : ==Mosheh== ==kalah== l'ouvrage, et alors la **kavod** de **YHWH** remplit la demeure. Les mêmes mots, dans le même ordre, que pour le monde — d'abord la complétude, puis la prise de résidence. Le corpus construit le sanctuaire comme il a construit le cosmos, et le vocabulaire le dit avant qu'aucun commentaire ne l'explique.
 
 Un mot voisin, *kilayon*, dit l'épuisement, ce qui se consume jusqu'au bout. La racine tient les deux : ce qui est mené à son terme, pour le meilleur ou pour l'usure.
+
+## Source
+
+3615 + 3617 · כָּלָה

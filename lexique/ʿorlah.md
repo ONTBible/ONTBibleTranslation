@@ -17,3 +17,7 @@ Regarde ce que ces quatre emplois ont en commun, parce que c'est tout le mot : =
 Et regarde ce que le français en fait. « Prépuce » ne retient que la chair et rend absurde le cœur ; « incirconcis » importe une catégorie d'appartenance religieuse et fait du mot une frontière entre les peuples. Le corpus, lui, l'emploie ==contre== ceux qui portent le signe dans la chair sans l'avoir dans le cœur — l'inverse exact d'une frontière ethnique.
 
 Le retrait de l'==orlah== est donc une ==ouverture==, jamais une amputation symbolique. Ce qui était couvert devient disponible : la chair pour la descendance, le cœur pour l'écoute, les lèvres pour la parole, le fruit pour la table.
+
+## Source
+
+6190 · עָרְלָה

@@ -15,3 +15,7 @@ Le mot le confirme. Il ne dit rien du fait de prédire : il dit qu'on est ==appe
 C'est pourquoi le vault le tient pour la même réalité que le **shaliach**, l'envoyé. Tout ==navi== authentique est structurellement mandaté ; tout mandaté accomplit la fonction du ==navi==. Le grec a décomposé cela en offices distincts — prophète, apôtre, évangéliste, pasteur —, et le corpus refuse ce découpage : c'est ==une seule fonction==, vue sous des angles.
 
 Et c'est ce qui donne son nom au n° 44 : *Gevurot ha-==Neviʾim==*, les **gevurot** de **YHWH** accomplies ==à travers== ses ==neviʾim==. Non pas les actes des envoyés — le sujet grammatical est celui qui envoie, et l'envoyé est l'instrument. La phrase porte l'ontologie avant qu'on ait rien expliqué.
+
+## Source
+
+5030 · נָבִיא

@@ -78,3 +78,7 @@ regard, donc ==du **kli**==.
 Le locus définitif est *Shemot*, qui n'est pas écrit. La fiche sera reprise quand
 il le sera : le mot y reçoit son traitement complet, avec la **chokhmah** de
 Betsalel, qui est la compétence de faire un **kli** qui aboutisse.
+
+## Source
+
+3627 · כְּלִי

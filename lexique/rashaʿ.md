@@ -17,3 +17,7 @@ Ce qui donne son vrai sens au plaidoyer d'==Avraham== devant ==Sedom==. Il ne de
 C'est aussi pourquoi le corpus peut dire d'une ville entière qu'elle est ==rasha==. Une ville n'a pas d'intentions. Elle a une manière de fonctionner — ce qu'on y fait des étrangers, des faibles, de la parole donnée. Quand cette manière est déviée, la ville l'est.
 
 Le **mishpat** est la décision qui redresse ; le ==rasha== est ce qui doit l'être.
+
+## Source
+
+7563 · רָשָׁע

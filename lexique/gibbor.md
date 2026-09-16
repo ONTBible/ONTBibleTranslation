@@ -15,3 +15,7 @@ Et il le constate avec méfiance. Les ==gibborim== de *Genèse* 6:4 sont nommés
 Tiens maintenant le ==gibbor== à côté de la **gevurah**, qui vient de la même racine, et la distinction porte tout : ==le gibbor est celui qui pèse, la gevurah est ce qui fait aboutir.== Le premier fait baisser les voix, la seconde laisse un puits où l'on vient boire trente ans plus tard. C'est pourquoi *Ésaïe* 11:2 place la **gevurah** parmi les six capacités de la **Ruach ha-Qodesh**, appariée à **ʿetsah** — le dessein et le pouvoir de le tenir : le roi qu'annonce le passage n'est pas un ==gibbor== de plus.
 
 L'orthographe varie dans le corpus — *gibor*, *gibbor*, pluriel *gibborim*. Une seule entrée les couvre.
+
+## Source
+
+1368 · גִּבּוֹר

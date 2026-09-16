@@ -19,3 +19,7 @@ Ce qui devient saisissant à la première occurrence du corpus. Ce qui est mis �
 Tout un vocabulaire se range alors derrière celui-là. **Qadosh** qualifie ce qui a été mis à part ; le **Kohen** tient l'interface entre ce domaine et l'usage courant ; le **tahor** est l'état qui permet le contact ; le **badal** du premier chapitre est le même geste, à l'échelle du cosmos. Une seule opération — ==séparer== —, déclinée du septième jour jusqu'au seuil du sanctuaire.
 
 Et c'est de cette racine que vient la **Ruach ha-Qodesh** : non pas la Ruach douée d'une qualité, mais la Ruach ==en tant qu'elle met à part==.
+
+## Source
+
+6944 · קֹדֶשׁ

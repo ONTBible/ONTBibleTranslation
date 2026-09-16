@@ -186,3 +186,7 @@ Quand ces livres seront écrits, ==cette fiche devra être reprise== : le mot ne
 changera pas, mais ce que le corpus en montre, oui. La reprise de *Yoel* est
 celle qui pèse le plus — c'est là que la pluie et l'enseignement se tiennent
 dans la même ligne.
+
+## Source
+
+4175 · מוֹרֶה

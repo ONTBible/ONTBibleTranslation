@@ -19,3 +19,7 @@ Le mot vaut d'ailleurs dans les deux sens, et c'est ce que « foi » perd entiè
 Elle appartient à la même famille que la **teshuvah**, qui n'est pas un remords mais un demi-tour effectif, et que la **yirah**, qui n'est pas une frayeur mais une place occupée. Aucune des trois ne décrit un état intérieur. Toutes décrivent ==une manière de se tenir== — et une traduction qui les rend par des sentiments déplace le corpus entier vers l'intériorité, là où il parlait de postures.
 
 C'est aussi pourquoi son inscription au registre de la **tsedaqah** n'est ni un salaire ni un cadeau : on ne récompense pas un appui, on le constate.
+
+## Source
+
+530 · אֱמוּנָה

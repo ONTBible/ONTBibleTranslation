@@ -19,3 +19,7 @@ Le verbe sert par ailleurs pour les affaires les plus ordinaires : acheter un ch
 Et c'est le premier mot que prononce ==Chavah== après le Jardin, en nommant son fils : ==j'ai qanah un ish avec YHWH==. Traduire par « j'ai acquis » la fait sonner comme une propriétaire ; par « j'ai produit », comme une fabricante. Le mot dit les deux, et davantage : ==quelque chose a été fondé, et il est à moi==. Le nom de ==Qayin== vient de là.
 
 Le corpus place ainsi, à quelques versets d'écart, la fondation du monde et la naissance d'un enfant sous le même verbe. Il ne commente pas.
+
+## Source
+
+7069 · קָנָה

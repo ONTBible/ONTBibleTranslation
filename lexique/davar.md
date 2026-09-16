@@ -13,3 +13,7 @@ Suis alors la première page avec cette clé. **ʾElohim** dit *que la lumière 
 De là, une expression que les traductions rendent en la vidant : *devar YHWH*. « La parole de **YHWH** » suggère un message reçu, un contenu transmis, quelque chose qu'on pourrait noter. Le ==davar== de **YHWH**, c'est ==la parole et ce qu'elle fait advenir== — et c'est pourquoi le corpus dit qu'il *tombe* sur un **naviʾ**, qu'il *arrive*, qu'il *s'accomplit*. Une parole ne s'accomplit pas, chez nous. Un ==davar==, si.
 
 Le pluriel **devarim** donne son nom au cinquième livre — que le grec a appelé *Deutéronome*, « seconde loi », en le rangeant du côté du texte juridique. En hébreu, ce sont ==les devarim== : les paroles-événements, ce qui a été dit et ce qui s'est passé, sans qu'on ait à choisir.
+
+## Source
+
+1697 · דָּבָר

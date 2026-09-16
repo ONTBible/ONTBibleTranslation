@@ -15,3 +15,7 @@ Le livre relève précisément ce que la Torah avait laissé serré. Il leur don
 Et il fait une chose que personne n'attend. Parmi les ==gibbaraya== soumis au jugement, il place ==Gilgamesh== — le héros de l'épopée que tout le Proche-Orient chantait, celui dont les rois se réclamaient. Ce n'est pas une curiosité d'érudit : c'est un ==reclassement==. Ce que les **goyim** élèvent en **kavod** guerrière, le texte le range parmi la démesure d'avant les eaux. Leur renom est un **Shem**, oui — mais un ==Shem== de démesure, non d'ordre.
 
 Le livre n'est pas une invention tardive : 1Q23, 4Q203, 4Q530-533 — de vrais fragments antiques, et non une tradition reçue de seconde main. Il fut même si vivant qu'au troisième siècle de notre ère, Mani l'a repris ; des recensions en moyen-perse, en sogdien, en ouïghour en témoignent encore.
+
+## Source
+
+1400 · גֻּבְרַיָּא

@@ -15,3 +15,7 @@ Le corpus le confirme par ceux qui la portent. La ==yirah== n'écrase pas ==Avra
 C'est pourquoi elle appartient à la même famille qu'**ʾemunah** et **teshuvah**. Aucune des trois n'est un état intérieur. L'**ʾemunah** n'est pas une conviction mais une fidélité qui tient dans la durée ; la **teshuvah** n'est pas un remords mais un demi-tour effectif ; la ==yirah== n'est pas une frayeur mais une place occupée. La langue hébraïque décrit des postures, là où la nôtre cherche des sentiments — et une traduction qui rend l'une par l'autre déplace tout le corpus vers l'intériorité.
 
 Sa forme construite, ==yirat YHWH==, ferme les six capacités de *Ésaïe* 11:2. Et le verset suivant les scelle par un jeu que la traduction perd toujours : *vaharicho be-yirat YHWH* — « il ==respirera== dans la ==yirat YHWH== ». Le verbe vient de רו״ח, ==les consonnes mêmes de Ruach==. Après **chokhmah**, **binah**, **ʿetsah**, **gevurah** et **daʿat**, le texte revient à son premier mot : le souffle. Les six ne sont pas six dons posés côte à côte — elles sont ce que fait ==la Ruach ha-Qodesh== quand elle repose sur quelqu'un.
+
+## Source
+
+3374 · יִרְאָה

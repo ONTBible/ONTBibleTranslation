@@ -18,3 +18,7 @@ Le ==chesed== ne se comprend donc jamais tout seul. Hors d'une **berith**, il ne
 Et il se dit dans les deux sens, ce qui surprend toujours. **YHWH** a du ==chesed== envers les siens — c'est même sa qualité la plus répétée dans les *Tehilim*, où le refrain revient que son ==chesed== dure *leʿolam*, plus loin que le regard ne porte. Mais ==Ruth== en a envers ==Naomi==, une belle-mère sans ressources qu'elle n'était plus tenue de suivre. La même loyauté, du haut vers le bas et de l'homme vers l'homme.
 
 Son premier emploi dans le corpus tient en une phrase de fuyard. ==Lot== sort de ==Sedom== et dit que le ==chesed== qu'on lui a fait a ==gardé sa Nefesh== — sa vie même, au sens concret. Ce n'est pas une politesse : quelqu'un a tenu, et il est vivant.
+
+## Source
+
+2617 a · חֶסֶד

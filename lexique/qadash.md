@@ -19,3 +19,7 @@ Ce qui rend saisissant le premier emploi du corpus. Ce qui est mis à part avant
 Suit tout un vocabulaire qui devient lisible d'un coup. Le **qodesh** est l'état de ce qui a été mis à part ; **qadosh** le qualifie ; le **Kohen** tient l'interface entre ce domaine et l'usage ordinaire ; le **tahor** est l'état qui permet le contact. Une seule opération, déclinée du septième jour jusqu'au seuil du sanctuaire.
 
 Et c'est la même racine qui donne la **Ruach ha-Qodesh** — la **Ruach** en tant qu'elle met à part.
+
+## Source
+
+6942 · קָדַשׁ

@@ -17,3 +17,7 @@ Rapproche les deux emplois et le récit se lit d'un coup. Ce dont **ʾElohim** c
 Ce qui donne aussi son sens à ce dont on cesse chaque septième jour. L'interdiction ne porte pas sur la fatigue ni sur l'utile : elle porte sur la ==melakhah==. On ne s'abstient pas de se dépenser — ==on s'abstient de faire œuvre==. Ce qui est infiniment plus exigeant, et infiniment plus clair.
 
 La racine est celle de *malʾakh*, l'envoyé — ce qui est confié, la mission. Une ==melakhah== est un ouvrage ==qu'on a reçu à faire==.
+
+## Source
+
+4399 · מְלָאכָה
