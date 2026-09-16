@@ -336,4 +336,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*518 fichiers parcourus · 437 fiches dans `lexique/`.*
+*519 fichiers parcourus · 438 fiches dans `lexique/`.*

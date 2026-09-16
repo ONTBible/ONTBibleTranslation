@@ -113,58 +113,6 @@ D'où l'invariant :
 Ce qu'il transmet n'est pas de l'information. C'est ==une capacité à tenir== ce
 qu'il a lui-même reçu — il forme des **kelim**, des vases aptes à recevoir.
 
-## Le chêne de Moreh
-
-Le même mot nomme ==un lieu==, et le lecteur qui touche l'un arrive donc ici.
-Ce n'est pas une collision de graphies : ==le lieu porte le nom du concept==.
-
-Imagine l'arrivée. Un homme a quitté sa maison, sa parenté, la ville de son
-père. Il avance dans un pays qu'il n'a jamais vu et où il ne possède ==rien== —
-pas un champ, pas un puits, pas une tombe. Il n'a aucun droit sur ce sol. Le corpus prend la peine de le
-préciser dans la même phrase : ==le [[Kenaʿani]] était alors dans le pays==.
-
-Il traverse jusqu'au ==lieu== de [[Shekhem]] — et le verset dit littéralement
-*meqom Shekhem* (*meqom Shekhem* / מְקוֹם שְׁכֶם), le **maqom**, ce qui fait
-tenir debout ce qui s'y trouve. Puis il s'arrête sous un arbre :
-*ʾelon Moreh* (*ʾelon Moreh* / אֵלוֹן מוֹרֶה).
-
-Un grand arbre isolé, dans ce monde, n'est pas un décor. C'est ==ce qu'on voit
-de loin== quand tout le reste est plat et sec, le seul endroit d'ombre à des
-heures de marche, le repère qu'on donne à qui doit vous retrouver. On s'assied
-là parce que c'est là qu'on s'assied. Les gens du pays le savent aussi : c'est
-sous cet arbre-ci qu'on tranche les affaires et qu'on prête serment.
-
-Donc [[ʾAvram]] n'est pas dans un désert. Il est ==au point le plus visible du
-pays d'un autre==, sans rien pour l'y tenir.
-
-Et c'est là, sous cet arbre-là, que **YHWH** ==se laisse voir de lui== et lui
-dit : *à ta semence je donnerai cette terre*. Première halte, première fois
-qu'il se laisse voir dans le pays, première parole de la promesse — ==toutes au
-même endroit==.
-
-## Ce que le nom du lieu fait
-
-Reprends alors le nom de l'arbre.
-
-[[ʾAvram]] reçoit sa direction ==à l'endroit qui s'appelle « celui qui montre la
-direction »==.
-
-Le corpus pose le fait et n'en dit pas un mot de plus. La fiche non plus.
-
-## Ce que le corpus fait du lieu ailleurs
-
-Le nom revient deux fois, et jamais comme un simple point sur une carte.
-
-*Devarim* le rappelle ==au pluriel== — *ʾelonei Moreh*
-(*ʾelonei Moreh* / אֵלוֹנֵי מֹרֶה), les chênes de Moreh — pour situer les
-montagnes de la parole donnée et de la parole retirée, du côté de Gilgal.
-
-*Shoftim* nomme une ==colline== : *Givʿat ha-Moreh*
-(*Givʿat ha-Moreh* / גִּבְעַת הַמּוֹרֶה). Gidʿon campe en face, à la source de
-Charod ; le camp de Midyan s'étend au septentrion, dans la vallée, ==depuis
-cette colline-là==. Le lieu qui montre la direction est cette fois du côté de
-ce qu'il faut affronter.
-
 ## Sa place parmi les cinq
 
 C'est une des cinq dimensions du **naviʾ**, et elle est ==celle qui reste après
@@ -174,18 +122,29 @@ Le **mevaser** porte au dehors, le **chozeh** pénètre ce qui est voilé, le
 **roʿeh** conduit. Le **moreh** ==construit ce qui durera== : des gens capables
 de recevoir, et donc de transmettre à leur tour.
 
+## Le lieu porte ce nom, et il a sa fiche
+
+Un chêne de *Bereshit* 12 s'appelle Moreh, et [[Moreh-le-chene|Moreh]] porte ce
+que le corpus en fait. ==Ce n'est pas une collision de graphies== : le lieu
+porte le nom du concept, et c'est précisément ce qui donne son poids à la scène
+— [[ʾAvram]] reçoit sa direction à l'endroit qui s'appelle « celui qui montre la
+direction ».
+
+Le témoin les compte pourtant à part, et l'ONT suit le témoin :
+
+    4175   מוֹרֶה   le mot — celui qui montre la direction
+    4176   מוֹרֶה   le lieu — le chêne, la colline, nom propre
+
 ## Sur quoi cette fiche repose
 
-Un seul texte de l'ONT est écrit à ce jour : *Genèse* 12:6, verrouillé, où
-[[ʾAvram]] s'arrête sous le chêne. Tout le reste a été ==lu dans l'hébreu, non
-encore traduit== — *Deutéronome* 11:30 et *Juges* 7:1 pour le lieu, *Joël* 2:23
-pour la pluie, *Exode* 15:4, *1 Samuel* 20:36 et *Proverbes* 6:13 pour le geste
-de *yarah*.
+Le mot n'est pas encore employé dans un texte traduit de l'ONT : ses quatre
+emplois en gras vivent dans une **chuqqah**, que le pipeline n'émet pas encore.
+Tout a été ==lu dans l'hébreu, non encore traduit== — *Joël* 2:23 pour la pluie,
+*Exode* 15:4, *1 Samuel* 20:36 et *Proverbes* 6:13 pour le geste de *yarah*.
 
-Quand ces livres seront écrits, ==cette fiche devra être reprise== : le mot ne
-changera pas, mais ce que le corpus en montre, oui. La reprise de *Yoel* est
-celle qui pèse le plus — c'est là que la pluie et l'enseignement se tiennent
-dans la même ligne.
+Quand ces livres seront écrits, ==cette fiche devra être reprise==. La reprise
+de *Yoel* est celle qui pèse le plus : c'est là que la pluie et l'enseignement
+se tiennent dans la même ligne.
 
 ## Source
 
