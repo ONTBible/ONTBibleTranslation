@@ -739,6 +739,45 @@ dans un brouillon. Une jointure par squelette ==ne verra jamais cette
 divergence== : les voyelles ôtées, les deux donnent ויקח. Le Strong la voit,
 avec une donnée que le témoin porte déjà.
 
+**Quand le témoin ne porte pas le mot.** Décision de l'auteur du 16 septembre
+2026. Certains intraduisibles de l'ONT sont ==du Second Temple ou rabbiniques== :
+`**milah**`, `**tevilah**`, `**shaliach**`. Le témoin porte leur racine et pas
+leur nom — il a *mul*, *taval*, *shalach*, et aucun des trois substantifs.
+
+La Source le ==déclare== au lieu de se taire :
+
+    ## Source
+
+    — · טְבִילָה
+
+    Le témoin porte le verbe — *taval* (2881) — et aucun nom.
+
+    Racine : 2881 · *taval*.
+
+Le tiret dit ==le mot n'a pas de numéro==, la racine dit ==d'où il vient==, et
+la note dit ==pourquoi==. Trois choses vraies, et aucune fausse jointure : le
+pipeline ne lit aucun numéro sur cette ligne, donc il n'en affirme aucun.
+
+==L'absence cesse d'être un silence.== Sans cette forme, rien ne distingue « le
+témoin ne l'a pas » de « personne n'a cherché », et c'est exactement l'écart que
+le contrôle doit pouvoir voir.
+
+**Le cas est plus rare qu'il n'y paraît, et je m'y suis trompé.** Trois mots que
+j'avais rangés ici ==ont bel et bien leur numéro== :
+
+    YHWH Elohim   3068 + 430   deux mots, deux numéros — un composé
+    teshuvah      8666         8 emplois, tous au construit ou préfixés
+    parashah      6575         2 emplois dans Esther, « l'exposé exact »
+
+Ma recherche cherchait ==la forme absolue vocalisée==, que le témoin n'écrit pas
+toujours : `תְּשׁוּבָה` n'y paraît jamais nue, mais `לִתְשׁוּבַת` porte le lemme
+8666. ==Chercher une forme n'est pas chercher un mot.==
+
+Et pour les deux derniers, le §2.5 ter tranche seul : ==le numéro dit quel mot
+c'est, il ne dit pas ce qu'il veut dire==. *Esther* emploie `parashah` pour
+l'exposé d'une somme et l'ONT pour la division du texte — ==même lemme, autre
+emploi==, et le numéro identifie sans arbitrer.
+
 **Garder la lettre des homographes.** Strong avait fondu des mots que l'érudition
 a séparés depuis, et les éditions modernes les distinguent par une lettre :
 `1254 a` n'est pas `1254 b`. ==C'est une distinction réelle, elle se garde.==

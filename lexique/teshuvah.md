@@ -21,3 +21,13 @@ Elle appartient à la même famille que l'**ʾemunah** et la **yirah**, et les t
 C'est pourquoi la **tevilah** peut en être le geste : passer par les eaux, c'est faire avec le corps le demi-tour que le mot décrit. Le mouvement rendu visible.
 
 Et c'est pourquoi les **neviʾim** ne demandent presque jamais aux hommes de se sentir coupables. Ils leur disent : *revenez*. Le verbe est à l'impératif, et il s'adresse aux pieds.
+
+## Source
+
+8666 · תְּשׁוּבָה
+
+Huit emplois du témoin, tous au construit ou préfixés — *litshuvat*,
+*utshuvato*. ==La forme absolue n'est pas attestée==, ce qui n'ôte rien au
+lemme : le corpus y dit le retour d'une année ou d'une armée, l'ONT le
+retour vers la présence. ==Le numéro dit quel mot c'est, non ce qu'il
+veut dire== (§2.5 ter).

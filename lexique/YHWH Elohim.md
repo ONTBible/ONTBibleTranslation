@@ -53,3 +53,10 @@ Le nom propre : **YHWH**, dont le traitement définitif attend *Shemot* 3.
 Le titre de maîtrise : **ʾAdonai** — *mon seigneur*, de *adon*. C'est lui qu'on prononce à la place des quatre lettres, et il paraît pour la première fois dans la bouche d'[[ʾAvram]], en *Genèse* 15:2, quand il demande à quoi bon tout cela s'il reste sans descendance. Le premier homme qui appelle **YHWH** *Adonai* le fait ==pour se plaindre==.
 
 Le nom d'ordonnance : **ʾElohim**, et le pluriel à accord singulier qu'il porte.
+
+## Source
+
+3068 + 430 · יְהוָה אֱלֹהִים
+
+Deux mots, deux numéros, comme **basar ʾechad** : la formule de
+*Bereshit* 2-3 est un composé, non un lemme.

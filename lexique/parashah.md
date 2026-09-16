@@ -27,3 +27,12 @@ Ces découpes-là sont ==posées sur== le texte, ==par-dessus== les blancs ancie
 L'ONT écrit ses unités selon le premier principe et non le second. Une unité se ferme quand une fonction s'accomplit, exactement comme un blanc de scribe. C'est pourquoi la septième de *Bereshit* recouvre ce que Langton appelle les chapitres 7 et 8 : entre les deux, rien ne s'était achevé.
 
 Le renvoi classique reste affiché à côté, parce qu'il faut bien retrouver « Genèse 9 » quand on le cherche. Mais il est là comme une ==béquille==, pas comme une charpente.
+
+## Source
+
+6575 · פָּרָשָׁה
+
+Deux emplois seulement, tous deux dans *Esther*, où le mot dit
+==l'exposé exact== d'une somme ou d'une grandeur. L'ONT l'emploie pour la
+division native du texte — ==même lemme, autre emploi==, et le numéro
+identifie le mot sans trancher son sens.
