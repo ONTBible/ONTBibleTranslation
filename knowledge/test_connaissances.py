@@ -199,6 +199,43 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stderr)
         self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
 
+    def test_controles_voient_deux_fiches_qui_se_percutent(self):
+        # Le cas du 12 septembre : malakh le verbe et malʾakh l'envoyé, deux mots
+        # que l'hébreu sépare par un alef, une seule clé tant que le slug pardonne.
+        self.ecrire("lexique/malakh.md", "# malakh\n\nRégner.\n")
+        self.ecrire("lexique/malʾakh.md", "# malʾakh\n\nL'envoyé.\n")
+        r = kb.controles(self.vault)
+        collisions = [c for c in r["constats"] if c["controle"] == "collision_de_cle"]
+        self.assertTrue(collisions, "la collision doit être vue")
+        self.assertEqual(r["bloquants"], len(collisions))
+        self.assertEqual(sorted(collisions[0]["fiches"]), ["malakh", "malʾakh"])
+        self.assertEqual(collisions[0]["regle"], "slug actuel")
+        # Sous le demi-anneau signifiant elles cessent de se percuter.
+        self.assertNotIn("demi-anneau signifiant", [c["regle"] for c in collisions])
+
+    def test_controles_voient_un_terme_que_sa_fiche_n_atteint_pas(self):
+        # Le cas de « l'Être façonné du sol » : déclaré, donc invisible à tout
+        # contrôle qui vérifie « déclaré » ; inatteignable, ce que nul ne testait.
+        self.ecrire("locked/unite.md", "¹ Et **l'Être façonné du sol** fut posé.\n")
+        self.ecrire("lexique/letre-faconne-du-sol.md", "# letre\n\nLa périphrase.\n")
+        r = kb.controles(self.vault)
+        manquants = [c["terme"] for c in r["constats"] if c["controle"] == "terme_inatteignable"]
+        self.assertIn("l'Être façonné du sol", manquants)
+        # Renommée selon le slug, elle est atteinte et le contrôle se tait.
+        (self.vault / "lexique/letre-faconne-du-sol.md").rename(
+            self.vault / "lexique/l-etre-faconne-du-sol.md")
+        self.assertEqual(kb.controles(self.vault)["bloquants"], 0)
+
+    def test_un_numero_partage_est_un_signal_et_non_un_verdict(self):
+        # Un construit se déclare à part et partage son numéro : c'est voulu.
+        self.ecrire("lexique/basar.md", "# basar\n\nLa chair.\n\n## Source\n\n1320 · בשר\n")
+        self.ecrire("lexique/basar-echad.md", "# basar echad\n\nLe construit.\n\n## Source\n\n1320 + 259 · בשר אחד\n")
+        r = kb.controles(self.vault)
+        partages = [c for c in r["constats"] if c["controle"] == "numero_partage"]
+        self.assertTrue(partages)
+        self.assertTrue(all(c["gravite"] == "signal" for c in partages))
+        self.assertEqual(r["bloquants"], 0, "un signal ne barre pas")
+
 
 if __name__ == "__main__":
     unittest.main()

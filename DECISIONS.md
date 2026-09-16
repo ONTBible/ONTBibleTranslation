@@ -79,7 +79,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **kavod** | Kavod | — | ✓ |
 | **Tahor** | tahor, lo tahor | — | ✓ |
 | **ʿOlah** | ʿolah, ʿOlot, ʿolot | — | ✓ |
-| **L'Être façonné du sol** | l'Être façonné du sol, ʾAdam ◆ | — | ✓ |
+| **L'Être façonné du sol** | l'Être façonné du sol, ʾAdam ◆ | — | · |
 | **ʾAdam** | ha-ʾAdam | — | ✓ |
 | **mabbul** | — | — | ✓ |
 | **nacham** | — | *Genèse* 5:29 | ✓ |
@@ -195,7 +195,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 129 leçons du journal
+## Les 134 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -328,6 +328,11 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Le témoin faisait déjà la distinction, avec une donnée que le dépôt contenait
 - Un artefact engendré n'a pas de date visible dans sa mesure
 - Ce que ça change pour chaque dépôt
+- Le graphe porte maintenant le corpus, et il dit comment il sait
+- La classe de défaut, et c'est le fait de la journée
+- Ce que la coordination a payé, et ce qu'elle a rendu
+- Ce que ça change pour chaque dépôt
+- Une leçon de coordination, payée sans dégât
 
 ---
 

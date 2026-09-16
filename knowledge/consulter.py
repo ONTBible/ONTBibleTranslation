@@ -335,7 +335,7 @@ def pont(vault, ident, limite=10):
             "portee": "Agrégat d'alignements provisoires hébreu vers grec ; aucun texte grec reconstitué. Ne prouve pas le sens d'une occurrence isolée."}
 
 
-def graphe(vault, ident=None, inclure_lexique=False):
+def graphe(vault, ident=None, inclure_lexique=False, inclure_corpus=False):
     data = charger(vault)
     notices = data["notices"] if ident is None else [n for n in data["notices"] if n["id"] == ident]
     if ident and not notices:
@@ -356,12 +356,12 @@ def graphe(vault, ident=None, inclure_lexique=False):
             cible = next(x for x in data["notices"] if x["id"] == r["objet"])
             noeud(cible["id"], "Notice", titre=cible["titre"], statut=cible["statut"])
             relations.append({"sujet": n["id"], **r, "source": "knowledge/contenus.json"})
+    fiches = sorted((vault / "lexique").glob("*.md")) if inclure_lexique or inclure_corpus else []
+    index, formes_declarees = {}, {}
+    for p in fiches:
+        index.setdefault(p.stem.casefold(), []).append(p)
+        noeud(p.relative_to(vault).as_posix(), "Fiche", titre=p.stem)
     if inclure_lexique:
-        fiches = sorted((vault / "lexique").glob("*.md"))
-        index = {}
-        for p in fiches:
-            index.setdefault(p.stem.casefold(), []).append(p)
-            noeud(p.relative_to(vault).as_posix(), "Fiche", titre=p.stem)
         for p in fiches:
             doc = documents.lire(vault, p, "explication_ONT")
             for a, b, titre in documents.sections(doc):
@@ -393,8 +393,144 @@ def graphe(vault, ident=None, inclure_lexique=False):
                         relations.append({"sujet": doc["fichier"], "predicat": predicat, "objet": objet,
                                           "source": doc["fichier"], "ligne": i + 1, "sha256": doc["sha256"],
                                           "texte_source": ligne, "statut": "extraction_documentaire"})
+    if inclure_corpus:
+        # Le corpus emploie des termes et nomme des Shemot : ce sont des faits du
+        # vault, pas des relations éditoriales. Ils se résolvent par ce que la fiche
+        # déclare — son nom, puis ses Formes — et jamais par une devinette
+        # morphologique : le §2.5 ter rappelle qu'une résolution fausse ne rend pas
+        # le mot inerte, elle l'envoie vers la mauvaise fiche sans le dire.
+        for p in fiches:
+            doc = documents.lire(vault, p, "explication_ONT")
+            for a, b, titre in documents.sections(doc):
+                if titre.rsplit(" / ", 1)[-1] != "Formes":
+                    continue
+                for i in range(a + 1, b):
+                    for forme in (f.strip() for f in doc["lignes"][i].split("·")):
+                        if forme:
+                            formes_declarees.setdefault(forme.casefold(), set()).add(
+                                p.relative_to(vault).as_posix())
+        # Le groupe capturant exclut « [ » : le corpus écrit ses gloses « *[[[Nom]] »,
+        # et un motif plus large y capturerait le crochet ouvrant avec le nom.
+        # Le §2.5 déclare les formes d'un intraduisible entre accents graves : la
+        # première citée est le lemme, les suivantes y retombent. Le graphe lit donc
+        # la même déclaration que le pipeline, au lieu d'ignorer un pluriel déclaré.
+        lemme_du_2_5 = {}
+        conventions = (vault / "CLAUDE.md").read_text(encoding="utf-8")
+        if "### 2.5 Marquage" in conventions and "### 2.5 bis" in conventions:
+            bloc = conventions[conventions.index("### 2.5 Marquage"):conventions.index("### 2.5 bis")]
+            for puce in re.findall(r"^- (.+?)(?=\n- `|\Z)", bloc, re.M | re.S):
+                declares = re.findall(r"`\*\*([^`*]+)\*\*`", puce)
+                for graphie in declares:
+                    lemme_du_2_5.setdefault(documents.normaliser(graphie), declares[0])
+        # L'espace et le trait d'union ne distinguent rien : le slug du pipeline les
+        # ramène au même séparateur. « ʾEl ʿElyon » et « ʾel-ʿelyon » sont un seul nom.
+        def aplati(texte):
+            # Le slug du pipeline ramène toute suite de non-alphanumériques à un seul
+            # séparateur : l'apostrophe, l'espace et le trait d'union ne distinguent
+            # rien. Les demi-anneaux sont gardés — eux distinguent, et les confondre
+            # referait la collision malakh / malʾakh.
+            return re.sub(r"[^a-z0-9\u02be\u02bf]+", " ", documents.normaliser(texte)).strip()
+        par_graphie = {}
+        for p in fiches:
+            par_graphie.setdefault(aplati(p.stem), set()).add(p.relative_to(vault).as_posix())
+
+        def resoudre(mot):
+            exactes = [x for x in index.get(mot.casefold(), []) if x.stem == mot]
+            if exactes:
+                return exactes[0].relative_to(vault).as_posix(), "nom_de_fiche"
+            proches = index.get(mot.casefold(), [])
+            if len(proches) == 1:
+                return proches[0].relative_to(vault).as_posix(), "nom_de_fiche"
+            portees = formes_declarees.get(mot.casefold(), set())
+            if len(portees) == 1:
+                return next(iter(portees)), "forme_declaree"
+            graphies = par_graphie.get(aplati(mot), set())
+            if len(graphies) == 1:
+                return next(iter(graphies)), "graphie_normalisee"
+            lemme = lemme_du_2_5.get(documents.normaliser(mot))
+            if lemme:
+                vers = par_graphie.get(aplati(lemme), set())
+                if len(vers) == 1:
+                    return next(iter(vers)), "puce_du_2_5"
+                return noeud("lemme-sans-fiche:" + lemme, "LemmeSansFiche", titre=lemme), "puce_du_2_5"
+            return noeud("terme-sans-fiche:" + mot, "TermeSansFiche", titre=mot), "irresolu"
+
+        wikilien = re.compile(r"\[\[([^\[\]\n|]{2,40})\]\]")
+        terme = re.compile(r"\*\*([^*\n]{2,34})\*\*")
+        for doc in documents.documents(vault):
+            if doc["nature"] not in ("traduction_verrouillee", "brouillon"):
+                continue
+            noeud(doc["fichier"], "Unite", titre=Path(doc["fichier"]).stem,
+                  nature=doc["nature"])
+            vus = set()
+            for i, ligne in enumerate(doc["lignes"]):
+                trouves = [("emploie", m[1].strip()) for m in terme.finditer(ligne)]
+                trouves += [("nomme", m[1].split("|", 1)[0].split("#", 1)[0].strip())
+                            for m in wikilien.finditer(ligne)]
+                for predicat, mot in trouves:
+                    if not mot or (predicat, mot) in vus:
+                        continue
+                    vus.add((predicat, mot))
+                    dest, voie = resoudre(mot)
+                    relations.append({"sujet": doc["fichier"], "predicat": predicat,
+                                      "objet": dest, "resolution": voie,
+                                      "source": doc["fichier"], "ligne": i + 1,
+                                      "sha256": doc["sha256"], "texte_source": ligne,
+                                      "statut": "extraction_documentaire"})
     return {"noeuds": list(noeuds.values()), "relations": relations,
             "portee": "Graphe documentaire. Une fiche n'est pas un lexème ; un numéro déclaré n'identifie pas une personne. Les relations éditoriales ne sont pas des faits bibliques."}
+
+
+def controles(vault):
+    """Ce que seul un graphe voit : deux entrées qui se percutent, et une
+    déclaration qui n'atteint rien. Les contrôles existants comparent chaque
+    élément à l'ensemble ; aucun ne compare les éléments entre eux."""
+    def cle(texte, demi_anneaux_signifiants):
+        t = texte if demi_anneaux_signifiants else texte.replace("\u02be", "").replace("\u02bf", "")
+        garde = "a-z0-9\u02be\u02bf" if demi_anneaux_signifiants else "a-z0-9"
+        return re.sub("[^" + garde + "]+", "-", documents.normaliser(t)).strip("-")
+
+    fiches = sorted((vault / "lexique").glob("*.md"))
+    constats = []
+    for signifiants, regle in ((False, "slug actuel"), (True, "demi-anneau signifiant")):
+        groupes = {}
+        for f in fiches:
+            groupes.setdefault(cle(f.stem, signifiants), []).append(f.stem)
+        for k, v in sorted(groupes.items()):
+            if len(v) > 1:
+                constats.append({"controle": "collision_de_cle", "gravite": "bloquant",
+                                 "regle": regle, "cle": k, "fiches": sorted(v),
+                                 "explication": "Deux fiches se recouvriraient : un mot d'or "
+                                                "ouvrirait l'autre, et rien ne le dirait."})
+    g = graphe(vault, None, False, True)
+    orphelins = sorted({n["titre"] for n in g["noeuds"]
+                        if n["type"] in ("TermeSansFiche", "LemmeSansFiche")})
+    for t in orphelins:
+        constats.append({"controle": "terme_inatteignable", "gravite": "bloquant", "terme": t,
+                         "explication": "Le corpus l'écrit en gras, mais aucune fiche, forme "
+                                        "ni puce du §2.5 ne mène à une fiche existante."})
+    numeros = {}
+    for f in fiches:
+        doc = documents.lire(vault, f, "explication_ONT")
+        for a_, b_, titre in documents.sections(doc):
+            if titre.rsplit(" / ", 1)[-1] != "Source":
+                continue
+            for i in range(a_ + 1, b_):
+                declaree = documents.source_declaree(doc["lignes"][i])
+                if declaree:
+                    for numero in declaree[0]:
+                        numeros.setdefault(numero, []).append(f.stem)
+    for numero, porteuses in sorted(numeros.items()):
+        if len(porteuses) > 1:
+            constats.append({"controle": "numero_partage", "gravite": "signal", "numero": numero,
+                             "fiches": sorted(porteuses),
+                             "explication": "Un numéro partagé ne prouve ni racine commune ni "
+                                            "doublon : un construit se déclare à part. À lire, "
+                                            "pas à corriger."})
+    bloquants = [c for c in constats if c["gravite"] == "bloquant"]
+    return {"constats": constats, "bloquants": len(bloquants),
+            "signaux": len(constats) - len(bloquants), "fiches_examinees": len(fiches),
+            "portee": "Contrôles de graphe. Un signal demande une lecture, pas une correction."}
 
 
 def main(argv=None):
@@ -404,6 +540,7 @@ def main(argv=None):
     sub.add_parser("verifier")
     sub.add_parser("catalogue")
     sub.add_parser("inventaire")
+    sub.add_parser("controles")
     d = sub.add_parser("dossier")
     d.add_argument("tache", nargs="?")
     d.add_argument("--stdin", action="store_true")
@@ -414,6 +551,7 @@ def main(argv=None):
     g = sub.add_parser("graphe")
     g.add_argument("id", nargs="?")
     g.add_argument("--lexique", action="store_true")
+    g.add_argument("--corpus", action="store_true")
     for nom in ("fiche", "liens"):
         sub.add_parser(nom).add_argument("nom")
     c = sub.add_parser("chercher")
@@ -438,6 +576,8 @@ def main(argv=None):
     try:
         if a.commande == "verifier":
             out = verifier(vault)
+        elif a.commande == "controles":
+            out = controles(vault)
         elif a.commande == "catalogue":
             out = [{k: n[k] for k in ("id", "domaine", "titre", "statut", "aliases")} for n in charger(vault)["notices"]]
         elif a.commande == "dossier":
@@ -448,7 +588,7 @@ def main(argv=None):
         elif a.commande == "notion":
             out = notion(vault, a.id)
         elif a.commande == "graphe":
-            out = graphe(vault, a.id, a.lexique)
+            out = graphe(vault, a.id, a.lexique, a.corpus)
         elif a.commande == "occurrences":
             out = occurrences(vault, a.strong, a.livre, a.limite)
         elif a.commande == "pont":
@@ -472,7 +612,13 @@ def main(argv=None):
             print(en_markdown(out))
         else:
             print(json.dumps(out, ensure_ascii=False, indent=None if a.commande == "dossier" else 2))
-        return 1 if a.commande == "verifier" and not out["valide"] else 0
+        if a.commande == "verifier" and not out["valide"]:
+            return 1
+        # Un constat bloquant doit barrer : une collision de clé n'ouvre pas une
+        # page vide, elle en ouvre une autre, et ça se lit comme la vérité.
+        if a.commande == "controles" and out["bloquants"]:
+            return 1
+        return 0
     except (ValueError, KeyError, OSError, sqlite3.Error) as exc:
         print(json.dumps({"erreur": str(exc)}, ensure_ascii=False), file=sys.stderr)
         return 1
