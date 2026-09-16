@@ -2,9 +2,30 @@
 
 ## Prononciation
 
-*YHWH* — une syllabe.
+Quatre lettres, et ==aucun accord sur la façon de les dire==. Ce que la fiche peut donner n'est donc pas une prononciation : c'est ==ce que fait chaque lettre==, et ce que le français fait de travers devant chacune.
 
-Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+    י   yod    le y de « yeux »
+    ה   he     un vrai souffle
+    ו   vav    ici, une voyelle
+    ה   he     muet
+
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==. C'est la première faute, et la plus coûteuse : un francophone qui lit « Yahvé » ne fait sonner ni l'un ni l'autre des deux *h*.
+
+==Le *W* n'est pas un *v*==, et ce n'est pas un détail. La troisième lettre est un ==waw== : le *w* de l'anglais *water*, les lèvres arrondies. L'hébreu moderne le prononce *v*, et c'est ce *v* tardif qui a donné « Yahvé » — ==une lettre remplacée par une autre==, vingt-cinq siècles après coup.
+
+==Mais le waw fait ici quelque chose de plus== : dans les **Shemot** qui portent le Nom, il ne sonne pas comme une consonne du tout. Il porte ==une voyelle==.
+
+    173 fois   ו + shuruq   →  ou    ʾAvihuʾ · viYhudah
+     84 fois   ו + holam    →  o     viYhoshafat · viYhoshuaʿ
+
+C'est cela, le *o* de *Yeho-* et le *ou* de *-yahu* : ==ce n'est pas une voyelle ajoutée aux consonnes, c'est la troisième lettre elle-même==. Ce qu'on prend pour un squelette de quatre consonnes en compte en réalité ==deux qui sonnent==, le yod et le premier he ; ==une qui est devenue voyelle==, le waw ; et ==une qui se tait==, le he final — celui que le §2.9 écrit `h` parce qu'il est une lettre, non parce qu'il fait un son.
+
+==Voilà pourquoi le Nom résiste.== La moitié de ce qui est écrit est déjà de la voyelle déguisée, et les voyelles sont précisément ce que l'hébreu ancien n'écrivait pas.
+
+==L'accent tombe sur la dernière syllabe==, comme presque partout — *ya-HU*, *ye-ho-SHUA*. Le réflexe français, qui tire vers l'avant du mot, donne *YA-hou* et se trompe.
+
+==Les trois fautes, rassemblées== : le *h* rendu muet ; le *w* prononcé *v* ; et l'accent porté sur la première syllabe. ==Aucune des trois ne vient d'une hésitation sur les voyelles== — elles portent toutes sur des lettres dont la valeur est connue, et elles sont donc évitables même sans savoir dire le Nom.
+
 
 Tu es devant un buisson qui brûle sans se consumer, dans un désert où tu gardes les bêtes d'un autre. Une voix t'envoie devant un roi. Tu poses la question qu'un homme de ce temps-là pose forcément : *si l'on me demande quel est ton nom, que dirai-je ?* — parce qu'un dieu sans nom n'est l'interlocuteur de personne, et qu'on ne se présente pas devant Pharaon au nom d'une puissance anonyme.
 
@@ -55,6 +76,18 @@ Quant à « Jéhovah », il n'est pas une reconstruction ratée : c'est ==l'appa
 Reste ce que l'ONT refuse de faire : rendre ==YHWH== par « le Seigneur ». Le procédé est ancien et respectable, et il a un coût que le lecteur ne peut pas voir — il ==efface la différence entre un nom propre et un titre==, et rend illisibles les pages qui jouent précisément sur cet écart, où le texte dit **ʾElohim** à un verset et ==YHWH== au suivant parce que la relation vient de changer de registre.
 
 Le nom se combine, et chaque combinaison ouvre une dimension : ==YHWH== **ʾEl ʿElyon**, quand ==Avram== reconnaît dans le dieu très-haut de ==Malki-tsedeq== son propre **ʾElohim** ; **ʾEl Shaddai**, aux moments où l'impossible humain est accompli ; **ʾAdonai** ==YHWH==, quand la maîtrise souveraine est en cause ; **ʾEl Roï**, « **ʾEl** qui me voit » — le seul nom divin de toute la Bible donné par une femme, ==Hagar==, esclave égyptienne sans droits, seule dans un désert.
+
+## Formes
+
+la-YHWH · ba-YHWH · va-YHWH · me-YHWH · ka-YHWH · u-me-YHWH · u-va-YHWH · ve-la-YHWH · ha-YHWH · she-YHWH · laYHWH · vaYHWH
+
+Le témoin porte ==820 emplois préfixés== du Nom, sur 6521. Une particule s'y colle — *vers*, *dans*, *comme*, *de*, *et* — et redouble parfois : `u-me-YHWH` est *et de*, `ve-la-YHWH` est *et vers*.
+
+==Le trait d'union sépare la particule du Nom==, décision de l'auteur du 16 septembre 2026, et c'est la règle du §2.6 appliquée ici : l'article et la préposition ne sont pas des parties du nom, ils s'y attachent. Sans lui, `laYHWH` fait lire une syllabe `la` collée au Nom comme si elle lui appartenait.
+
+Les deux dernières formes de la liste sont écrites ==sans le trait d'union==, et elles y figurent parce que le corpus les porte déjà — *Bereshit* 13 et *Bereshit* 19, écrits avant que la règle existe. Elles restent déclarées pour que le lecteur puisse les toucher ; ==elles ne sont pas un second usage permis==.
+
+==Deux graphies à une occurrence ne sont pas déclarées== : un dagesh dans le yod (*Vayiqra* 23:38) et un mappiq sous le he final (*Zekharyah* 6:12). Ce sont des accidents de scribe, non des formes.
 
 ## Source
 
