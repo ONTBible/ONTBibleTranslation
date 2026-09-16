@@ -15,3 +15,14 @@ Rien de magique ni de purificateur au sens où nous l'entendons. C'est un passag
 Voilà pourquoi « baptême » ne convient pas. Le mot est grec, et il désigne dans l'usage chrétien un rite d'initiation qui fait entrer dans une communauté, souvent une fois pour toutes, souvent sur un enfant. La ==tevilah== du Second Temple est autre chose : un geste ==répété==, que l'on fait quand il faut — avant de monter au Temple, après un état qui ne permettait pas le contact, quand on revient. Des bassins taillés dans la roche, les *mikvaot*, sont partout dans les maisons de cette époque.
 
 C'est dans ce monde-là qu'il faut entendre l'immersion que ==Yohanan== pratique au ==Yarden==, et que les textes disent faite ==pour la teshuvah==. Ce n'est pas l'invention d'un rite nouveau : c'est un geste que tout le monde connaît, appliqué à un demi-tour qu'on demande à tout un peuple.
+
+## Source
+
+— · טְבִילָה
+
+Le témoin porte le verbe — *taval* (2881), seize emplois, tremper et
+plonger — et ==aucun nom==. טְבִילָה est du Second Temple : c'est le mot du
+mikveh, non celui du corpus.
+
+Racine : 2881 · *taval*. ==Le tiret n'est pas un oubli== : le témoin ne
+porte pas ce nom, et la fiche le déclare plutôt que de se taire.
