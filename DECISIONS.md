@@ -79,7 +79,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **kavod** | Kavod | — | ✓ |
 | **Tahor** | tahor, lo tahor | — | ✓ |
 | **ʿOlah** | ʿolah, ʿOlot, ʿolot | — | ✓ |
-| **L'Être façonné du sol** | l'Être façonné du sol, ʾAdam ◆ | — | ✓ |
+| **L'Être façonné du sol** | l'Être façonné du sol, ʾAdam ◆ | — | · |
 | **ʾAdam** | ha-ʾAdam | — | ✓ |
 | **mabbul** | — | — | ✓ |
 | **nacham** | — | *Genèse* 5:29 | ✓ |
