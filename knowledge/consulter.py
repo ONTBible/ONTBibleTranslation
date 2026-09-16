@@ -481,6 +481,58 @@ def graphe(vault, ident=None, inclure_lexique=False, inclure_corpus=False):
             "portee": "Graphe documentaire. Une fiche n'est pas un lexème ; un numéro déclaré n'identifie pas une personne. Les relations éditoriales ne sont pas des faits bibliques."}
 
 
+def controles(vault):
+    """Ce que seul un graphe voit : deux entrées qui se percutent, et une
+    déclaration qui n'atteint rien. Les contrôles existants comparent chaque
+    élément à l'ensemble ; aucun ne compare les éléments entre eux."""
+    def cle(texte, demi_anneaux_signifiants):
+        t = texte if demi_anneaux_signifiants else texte.replace("\u02be", "").replace("\u02bf", "")
+        garde = "a-z0-9\u02be\u02bf" if demi_anneaux_signifiants else "a-z0-9"
+        return re.sub("[^" + garde + "]+", "-", documents.normaliser(t)).strip("-")
+
+    fiches = sorted((vault / "lexique").glob("*.md"))
+    constats = []
+    for signifiants, regle in ((False, "slug actuel"), (True, "demi-anneau signifiant")):
+        groupes = {}
+        for f in fiches:
+            groupes.setdefault(cle(f.stem, signifiants), []).append(f.stem)
+        for k, v in sorted(groupes.items()):
+            if len(v) > 1:
+                constats.append({"controle": "collision_de_cle", "gravite": "bloquant",
+                                 "regle": regle, "cle": k, "fiches": sorted(v),
+                                 "explication": "Deux fiches se recouvriraient : un mot d'or "
+                                                "ouvrirait l'autre, et rien ne le dirait."})
+    g = graphe(vault, None, False, True)
+    orphelins = sorted({n["titre"] for n in g["noeuds"]
+                        if n["type"] in ("TermeSansFiche", "LemmeSansFiche")})
+    for t in orphelins:
+        constats.append({"controle": "terme_inatteignable", "gravite": "bloquant", "terme": t,
+                         "explication": "Le corpus l'écrit en gras, mais aucune fiche, forme "
+                                        "ni puce du §2.5 ne mène à une fiche existante."})
+    numeros = {}
+    for f in fiches:
+        doc = documents.lire(vault, f, "explication_ONT")
+        for a_, b_, titre in documents.sections(doc):
+            if titre.rsplit(" / ", 1)[-1] != "Source":
+                continue
+            for i in range(a_ + 1, b_):
+                declaree = documents.source_declaree(doc["lignes"][i])
+                if declaree:
+                    for numero in declaree[0]:
+                        numeros.setdefault(numero, []).append(f.stem)
+    for numero, porteuses in sorted(numeros.items()):
+        if len(porteuses) > 1:
+            constats.append({"controle": "numero_partage", "gravite": "signal", "numero": numero,
+                             "fiches": sorted(porteuses),
+                             "explication": "Un numéro partagé ne prouve ni racine commune ni "
+                                            "doublon : un construit se déclare à part. À lire, "
+                                            "pas à corriger."})
+    bloquants = [c for c in constats if c["gravite"] == "bloquant"]
+    return {"constats": constats, "bloquants": len(bloquants),
+            "signaux": len(constats) - len(bloquants), "fiches_examinees": len(fiches),
+            "portee": "Contrôles de graphe. Un signal demande une lecture, pas une correction."}
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--vault", type=Path, default=RACINE)
@@ -488,6 +540,7 @@ def main(argv=None):
     sub.add_parser("verifier")
     sub.add_parser("catalogue")
     sub.add_parser("inventaire")
+    sub.add_parser("controles")
     d = sub.add_parser("dossier")
     d.add_argument("tache", nargs="?")
     d.add_argument("--stdin", action="store_true")
@@ -523,6 +576,8 @@ def main(argv=None):
     try:
         if a.commande == "verifier":
             out = verifier(vault)
+        elif a.commande == "controles":
+            out = controles(vault)
         elif a.commande == "catalogue":
             out = [{k: n[k] for k in ("id", "domaine", "titre", "statut", "aliases")} for n in charger(vault)["notices"]]
         elif a.commande == "dossier":
@@ -557,7 +612,13 @@ def main(argv=None):
             print(en_markdown(out))
         else:
             print(json.dumps(out, ensure_ascii=False, indent=None if a.commande == "dossier" else 2))
-        return 1 if a.commande == "verifier" and not out["valide"] else 0
+        if a.commande == "verifier" and not out["valide"]:
+            return 1
+        # Un constat bloquant doit barrer : une collision de clé n'ouvre pas une
+        # page vide, elle en ouvre une autre, et ça se lit comme la vérité.
+        if a.commande == "controles" and out["bloquants"]:
+            return 1
+        return 0
     except (ValueError, KeyError, OSError, sqlite3.Error) as exc:
         print(json.dumps({"erreur": str(exc)}, ensure_ascii=False), file=sys.stderr)
         return 1
