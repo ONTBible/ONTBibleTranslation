@@ -195,7 +195,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 148 leçons du journal
+## Les 160 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -325,6 +325,18 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Deux défauts trouvés en chemin, et ils se ressemblent
 - Addendum du 8 septembre au soir — `## Formes`, et l'endroit où l'on déclare
 - Ce que ça change pour les trois clients — vérifié, pas supposé
+- Le checkout qui choisit sa branche tout seul
+- Ce qu'une ligne absente coûte de plus qu'une ligne fausse
+- La garde de concurrence qui ne pouvait pas garder
+- Le filtre qui n'a vu que la bonne nouvelle
+- Le journal a failli se faire écraser par la fin de son propre fichier
+- Ce que la promotion ne fait pas, contrairement à ce que son nom dit
+- Le site avait le même défaut, trois fois — et l'a trouvé parce qu'on l'a nommé
+- Et la même journée leur avait déjà appris la version haute
+- Un compte de titres conservé ne dit rien de leur structure
+- Mais la convention qu'on invoquait pour le corriger n'existe pas
+- Ce que ça change pour chaque dépôt
+- La règle
 - 8 septembre 2026 — une PR peut porter une condition que sa branche ne connaît pas
 - Ce que ça change pour chaque dépôt
 - 9 septembre 2026 — les chuqqot doivent paraître sans build, et se signaler
