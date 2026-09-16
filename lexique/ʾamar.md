@@ -22,4 +22,4 @@ vayomer · vayomeru · vayomru · vaʾomar · amarti · vayomer ʾelav · vayome
 
 ## Source
 
-559 · וַיֹּאמֶר
+559 · אָמַר

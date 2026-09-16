@@ -36,4 +36,4 @@ sim · vayasem · sam · lasim · yasim
 
 ## Source
 
-7760 a · וַיָּשֶׂם
+7760 a · שָׂם

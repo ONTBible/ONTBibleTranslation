@@ -24,4 +24,4 @@ vayevarekh · uverakhti · mevarakhekhah · vayevarakhehu
 
 ## Source
 
-1288 · וַיְבָרֶךְ
+1288 · בֵּרַךְ
