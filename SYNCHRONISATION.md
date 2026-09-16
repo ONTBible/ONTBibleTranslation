@@ -4474,3 +4474,150 @@ du 21 août, évité de justesse.
 une branche jetable. Et `git worktree` reste la seule garde qui rende le
 conflit impossible au lieu de le rendre déconseillé.
 
+### Mesurer au lieu de refuser — et le protocole qui fait passer 70 % à 98 %
+
+**Proposé par l'auteur**, contre une prudence de cette session. Huit fiches
+portaient un nom de peuple avec son article là où le §2.5 ter veut la forme de
+dictionnaire, et j'avais refusé de la dériver : *« écrire une forme nue
+reviendrait à inventer une vocalisation »*.
+
+La question posée était meilleure que mon refus : ==est-ce vraiment
+indéductible, et à combien de pour cent ?==
+
+**Le témoin fournissait l'échantillon**, et personne ne l'avait regardé : 1482
+paires de mots qu'il écrit ==à la fois avec et sans article==, de même
+morphologie. On dérive l'un depuis l'autre comme si l'on ne savait pas, et on
+compte.
+
+    ôter le point systématiquement            70,0 %
+    garder le point sur ב ג ד כ פ ת          82,3 %   ← le plafond
+    sur les seuls gentilés                    70,3 %
+
+**Trois leçons, et la troisième est la moins évidente.**
+
+==La cause dominante se cherche, elle ne se suppose pas.== Deux hypothèses ont
+été formées sur le vu des erreurs et réfutées par la mesure : les gutturales
+feraient chuter le taux — elles font mieux ; les gentilés seraient réguliers —
+ils étaient la pire catégorie. Les exemples qu'on a sous les yeux ne sont pas un
+échantillon.
+
+==Une variation d'orthographe n'est pas une erreur de règle== — mais la
+séparer demande un instrument juste. 7,4 % des cas sont le même mot écrit
+autrement, une voyelle notée par une lettre-support ou par un point seul.
+
+==Et un 98,1 % a été publié une heure sur une comparaison trop indulgente.==
+Elle ôtait tous les points-voyelles pour juger de l'identité, si bien que `עָם`
+et `עַם` — deux sons — passaient pour le même mot. ==Un instrument trop
+permissif ne rend pas un chiffre approximatif : il rend un chiffre faux, et
+toujours dans le sens qui arrange.== Le plafond réel est 82,3 %.
+
+==Le taux se calcule sur la population qui importe, et elle peut être la pire.==
+82,3 % en général, ==70,3 % sur les gentilés==. On espérait l'inverse.
+
+==Et la limite est structurelle.== L'auteur l'a nommée en rappelant que l'hébreu
+est d'abord une langue orale : quand l'article allonge la voyelle d'un mot,
+l'écrit garde le résultat et perd l'opération. `הָעָם` et `הֶעָשׂוּי` portent le
+même signe — l'un l'a reçu, l'autre l'avait. Trois règles phonétiques ont été
+essayées sur ce résidu ; elles ont gagné ==trois cas sur 1482==.
+
+**Et le défaut que ça nomme**, parce qu'il est le symétrique de celui que ce
+journal traque depuis le 30 août : on connaissait ==l'affirmation sans mesure==.
+Voici ==l'abstention sans mesure==, qui a la même racine et se déguise en
+prudence. Refuser de dériver sans avoir mesuré si l'on pouvait n'est pas plus
+rigoureux qu'affirmer sans avoir compté.
+
+**Pour les trois dépôts** — la même question vaut partout où l'on décline une
+déduction : *combien de cas connus donneraient la réponse, et quel taux
+atteint-on ?* Le vault avait 1482 paires sous la main.
+
+#### L'audit indépendant, le jour même — trois questions confondues en une
+
+**Astra (Codex) a repris le jeu de validation en lecture seule**, avec son
+propre collecteur, et le rapport est à `/private/tmp/ont-astra-audit-derivation/`.
+
+Ce qu'il confirme : le découpage morphologique `mo[4:]` / `mo[1:]` est correct,
+et les 1491 paires se retrouvent.
+
+**Ce qu'il casse, et c'est le principal :**
+
+    la dérivation égale la forme nue LA PLUS FRÉQUENTE      82,3 %
+    elle égale AU MOINS UNE forme nue attestée              89,5 %
+    elle est LA FORME DE CITATION                           jamais mesuré
+
+==La troisième était la question posée.== Les deux premières y ont été prises
+l'une pour l'autre, et aucune ne l'approche.
+
+**Cent six fois**, la dérivation produit une forme que le témoin écrit —
+comptée fausse parce qu'une autre était plus fréquente. Deux exemples avec leur
+verset : `כּוּשִׁי` est exactement attesté en *Jérémie* 13:23, `נְטֹפָתִי` en
+*Néhémie* 12:28. Et sur ==soixante clés la cible était ex æquo== : ==c'est
+l'ordre des livres qui a tranché, pas la langue==.
+
+**Deux bogues de catégorisation**, tous deux avec leur contre-exemple :
+`חִתִּי` / `חִתִּית` reçoit « lettre-support » alors que le caractère ajouté est
+un ת ; `כֻּשִׁית` / `כֻשִׁית` reçoit « voyelle différente » alors que l'écart est
+un dagesh — que les deux fonctions de comparaison retirent, si bien qu'il ne
+peut jamais être la cause nommée.
+
+**Et deux réserves de langue**, qu'il faut garder telles quelles. Le dagesh
+initial dépend du mot précédent et des accents (Gesenius §21) : ôter les accents
+puis juger l'égalité confond le contexte avec une erreur du lemme. Et ce que
+décrit UHG est le changement de voyelle ==de l'article==, ce qui n'établit pas
+que toute voyelle du nom ait été allongée par lui.
+
+#### Ce que ça apprend, au-delà du cas
+
+==Un taux ne devient une certitude que si l'on a nommé sa cible.== Trois
+questions ont ici la même forme mesurable, et la plus facile à calculer n'est
+pas celle qu'on pose. Le chiffre sortait juste ; il portait sur autre chose.
+
+C'est le motif du 30 août — *un instrument qui répond à une autre question* —
+appliqué non plus à une garde ou à un compte de balises, mais ==à une
+validation statistique==. Un échantillon de mille quatre cents cas et un
+pourcentage à la décimale ne protègent de rien : ils rendent l'erreur plus
+crédible.
+
+==Et la contradiction entre deux sessions reste le seul instrument qui attrape
+une erreur de méthode.== Ni mes six passes ni mes trois itérations ne l'ont
+vue ; un second collecteur, écrit ailleurs, l'a montrée en une fois.
+
+#### Et l'écart entre nos deux mesures n'était pas ce que j'avais dit
+
+J'avais expliqué les deux unités d'écart — 1220 contre 1218, 1326 contre 1328 —
+par ==le traitement des refus au dénominateur==. Astra l'a réfuté en une phrase
+d'arithmétique : ==les refus déplacent un dénominateur, jamais un numérateur==.
+
+La cause qu'il a proposée est ailleurs, et elle se vérifie :
+
+    ordre de lecture              paires  refus  majoritaire  au moins une
+    glob.glob (ordre du disque)     1482      9         1220          1326
+    sorted(glob.glob)               1483      8         1218          1328
+
+==Un `sorted` sur la liste des fichiers, et rien d'autre.== `Counter.most_common`
+départage les ex æquo par ==ordre de première rencontre== ; changer l'ordre de
+lecture change la forme retenue, donc le résultat. Les soixante cibles ex æquo
+suffisent à produire l'écart.
+
+Et le nombre de refus bouge avec : le départage change aussi la forme ==à
+article== retenue, et certaines ne sont plus dérivables.
+
+> ==Un pourcentage qui se déplace quand on trie un `glob` ne mesure pas ce qu'on
+> croit qu'il mesure.==
+
+**La leçon générale, et c'est la dernière de la journée :** partout où une
+mesure repose sur « la valeur la plus fréquente », il faut ==déclarer comment
+les ex æquo sont départagés==. Sans cette ligne, le résultat dépend du système
+de fichiers, et deux sessions de bonne foi obtiennent deux chiffres sans pouvoir
+dire lequel est juste — ==parce qu'aucun ne l'est==.
+
+Ce que la journée a produit, en tout : ==neuf instruments== qui rendaient une
+sortie bien formée pour une question qu'ils ne posaient pas, dont un qui a cassé
+le corpus deux heures. ==Aucun n'a été attrapé par plus de rigueur dans la
+mesure.== Six l'ont été par une seconde mesure d'une autre nature, deux par une
+session voisine, un par l'auteur.
+
+**Pour les trois dépôts** : avant de publier un taux, écrire ==ce que la cible
+est==, ==ce qu'on fait des ex æquo==, et ==dans quel ordre on lit les entrées==.
+Sans ces trois lignes, un pourcentage mesure le système de fichiers autant que
+la règle éprouvée.
+

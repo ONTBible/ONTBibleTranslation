@@ -778,6 +778,99 @@ c'est, il ne dit pas ce qu'il veut dire==. *Esther* emploie `parashah` pour
 l'exposé d'une somme et l'ONT pour la division du texte — ==même lemme, autre
 emploi==, et le numéro identifie sans arbitrer.
 
+**Avant de refuser une dérivation, la mesurer.** Décision de l'auteur du
+16 septembre 2026, et c'est une règle de méthode plutôt qu'une convention
+d'écriture.
+
+Ce document interdit les devinettes, et à bon droit : le §2.5 ter pose qu'une
+résolution fausse ==n'éteint pas le mot, elle l'envoie ailleurs sans le dire==.
+Mais s'abstenir sans mesure est ==le même défaut par l'autre bout== — on affirme
+sans chiffre dans un cas, on renonce sans chiffre dans l'autre.
+
+==Le témoin fournit presque toujours l'échantillon de contrôle.== Pour savoir si
+l'on peut ôter l'article d'un nom, il suffit de prendre ==tous les mots qu'il
+écrit des deux façons==, de dériver l'un depuis l'autre comme si l'on ne savait
+pas, et de compter. Mille quatre cent quatre-vingt-deux paires étaient
+disponibles ; personne ne les avait regardées.
+
+**Le protocole, et il faut les trois étapes :**
+
+1. ==dériver sur les cas dont le témoin donne la réponse==, et compter ;
+2. ==regarder ce qui reste faux==, et chercher sa cause dominante — pas la
+   supposer. Deux hypothèses ont été formées puis réfutées avant la bonne ;
+3. ==séparer l'erreur de la variation d'orthographe==. Un scribe note une
+   voyelle par une lettre-support ou par un point seul, et les deux graphies
+   sont le même mot. Sans cette distinction on mesure le manuscrit, pas la règle.
+
+    ôter le point systématiquement            70,0 %
+    garder le point sur ב ג ד כ פ ת          82,3 %   ← le plafond
+
+**Aucun de ces chiffres n'est une certitude, et un audit indépendant l'a
+établi le jour même.** Ils répondent à ==trois questions distinctes==, que la
+mesure confondait :
+
+    la forme dérivée égale-t-elle la forme nue LA PLUS FRÉQUENTE ?     82,3 %
+    égale-t-elle UNE forme nue attestée ?                              89,5 %
+    est-elle LA FORME DE CITATION ?                                    non mesuré
+
+==C'est la troisième qui était posée==, et aucune mesure ne l'a approchée. Cent
+six fois, la dérivation produit une forme que le témoin écrit bel et bien —
+comptée fausse parce qu'elle n'était pas la majoritaire. Et sur ==soixante
+clés la cible était ex æquo== : c'est l'ordre des livres qui tranchait, non la
+langue.
+
+==Une occurrence n'est pas une forme de citation.== Le dagesh initial d'un mot
+dépend de ce qui le précède et des accents (Gesenius §21) ; le choisir comme
+cible fait juger du contexte pour une propriété du lexique.
+
+**Ce qu'il faut fixer avant de remesurer** : quelle forme est la cible, comment
+traiter le kétiv/qeré, que faire des ex æquo, et ==dans quel ordre on lit les
+fichiers==. Le dernier point n'est pas une précaution de style — mesuré le même
+jour, un simple `sorted` sur la liste des fichiers déplace le résultat :
+
+    glob.glob (ordre du disque)    1220 majoritaires · 1326 attestées
+    sorted(glob.glob)              1218              · 1328
+
+`Counter.most_common` départage les ex æquo par ordre de première rencontre.
+==Un pourcentage qui bouge quand on trie un `glob` ne mesure pas ce qu'on croit.==
+
+**Et les huit restent une recherche lexicographique**, pas un arbitrage qu'un
+programme puisse rendre.
+
+**Ce que les chiffres disaient — et il faut lire la clause ci-dessus avant.**
+==82,3 % sur l'ensemble, 70,3 % sur les gentilés==, la population qui importait.
+Un taux se calcule sur ==la bonne population== ; ici elle se trouve être la
+moins bonne, et c'est le contraire de ce qu'on attendait.
+
+==Un 98,1 % a été publié une heure, et il était faux.== La comparaison ôtait
+==tous== les points-voyelles pour juger si deux graphies étaient le même mot :
+`עָם` et `עַם` y passaient pour identiques alors que ce sont deux sons. Un
+instrument trop indulgent ne rend pas un chiffre approximatif — il rend ==un
+chiffre faux, et toujours dans le sens qui arrange==.
+
+Le résidu honnête se répartit ainsi, et seule la troisième ligne est du bruit :
+
+    82,3 %   exact au caractère près
+     7,4 %   voyelle différente      l'écrit ne dit pas si elle a été allongée
+     7,4 %   lettre-support seule    le scribe note la voyelle autrement
+     2,9 %   autre forme             deux pluriels, deux lieux
+
+**Et la limite est structurelle**, non un défaut de la règle. L'auteur l'a
+nommée en rappelant que ==l'hébreu est d'abord une langue orale== : les
+points-voyelles sont une notation tardive, posée sur un texte qui se
+transmettait par la voix. Quand l'article allonge la voyelle d'un mot, ==l'écrit
+garde le résultat et perd l'opération== — `הָעָם` et `הֶעָשׂוּי` portent le même
+signe, l'un l'a reçu de l'article et l'autre l'avait déjà. Un lecteur qui savait
+la langue entendait la différence ; la page ne la porte pas. Trois règles
+phonétiques ont été essayées sur ce résidu : elles ont gagné ==trois cas sur
+1482==.
+
+==Il ne dispense pas de regarder.== Un taux dit ce qu'une méthode vaut en
+moyenne ; il ne dit pas si ce cas-ci est le mauvais. La forme dérivée se lit
+avant d'être écrite, et la fiche déclare qu'elle est ==dérivée et non
+attestée== — le précédent est celui de **chuqqah**, dont la forme de base n'est
+portée par aucun verset.
+
 **Garder la lettre des homographes.** Strong avait fondu des mots que l'érudition
 a séparés depuis, et les éditions modernes les distinguent par une lettre :
 `1254 a` n'est pas `1254 b`. ==C'est une distinction réelle, elle se garde.==
@@ -2154,7 +2247,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | שִׁפְחָה | *shifchah* | **shifchah** | Intraduisible. La servante attachée à la sphère d'une **ʾishah** — non « servante » au sens d'un emploi qu'on occupe, mais une ==position dans une maison==. La **shifchah** appartient à la sphère de sa maîtresse, et c'est ce qui la rend disponible pour un acte qu'aucun contrat de travail ne prévoit : être donnée en **ʾishah** seconde afin d'engendrer au nom de la maîtresse — le droit familial proche-oriental le prévoit expressément (contrats de Nuzi). Distincte de l'*amah*, servante d'un **ʾish**, qui relève d'une autre sphère : les deux mots ne disent pas un rang mais ==à qui l'on est attaché==. Traduire « servante » efface cette appartenance, et avec elle ce que le récit met en mouvement — ==Hagar== ne change pas d'emploi, elle change de sphère. Premier emploi *Genèse* 16:1. Laissée en hébreu. |
 | דָּבָר | *davar* | **davar** | Intraduisible. La parole ET la chose simultanément — en hébreu antique, la parole et la réalité qu'elle désigne sont le même mot. La distinction française parole/chose n'existe pas : **davar** est à la fois l'événement et la parole qui le nomme. Pluriel : **devarim**. *Devar YHWH* = le **davar** de **YHWH**. Premier emploi en *Genèse* 11:1 (*devarim achadim*). |
 | מִילָה | *milah* | **milah** | Intraduisible. De *mul* (מוּל) : circoncire. L'acte par lequel le signe de la **berith** est incisé dans la chair. Non pas "circoncision" — le terme latin réduit l'acte à sa dimension physique et perd la dimension covenantale de l'inscription. Premier emploi en *Bereshit* 17. |
-| גּוֹי / גּוֹיִם | *goy* / *goyim* | **goy** / **goyim** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Genèse* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
+| גּוֹי / גּוֹיִם | *goy* | **goy** | Intraduisible. Le peuple-nation dans sa réalité territoriale, ethnique et politique constituée. Non pas "les nations" (abstraction) ni "les gentils" (catégorie religieuse tardive). Présent dès *Bereshit* 10 dans la table des nations ; terme actif de la promesse à Avraham en *Genèse* 17:4 (*av hamon goyim* : père d'une multitude de **goyim**). |
 | עָרְלָה / עָרֵל | *ʿorlah* / *ʿarel* | **ʿorlah** / **ʿarel** | Intraduisible. De *aral* (עָרַל) : être couvert, non ouvert. La chair de l'**ʿorlah** est le lieu du signe de la **berith** ; mais le terme s'étend métaphoriquement : **ʿorlah** du cœur (*Deutéronome* 10:16), **ʿorlah** des lèvres (*Exode* 6:12), **ʿorlah** du fruit (*Lévitique* 19:23). **ʿarel** : celui qui a encore son **ʿorlah**, dont la chair n'a pas reçu le signe. Premier emploi en *Genèse* 17:11. |
 | מִשְׁפָּט | *mishpat* | **mishpat** | Intraduisible. De *shafat* (שָׁפַט) : juger, rendre une décision. L'acte de jugement rendu dans l'ordre cosmique — la décision qui discerne et ordonne correctement les parties. Non pas "justice" au sens abstrait grec (*dikaiosyne*) : le **mishpat** est concret, situationnel. Inséparable de **tsedaqah** dans tout le corpus : *tsedaqah umishpat* — l'ordre-juste et le jugement-juste sont le couple constitutif du droit divin hébraïque. Pluriel : **mishpatim**. Premier emploi en *Bereshit* 18. |
 | נָחַם | *nacham* | **nacham** | Intraduisible. Deux dimensions indissociables : être saisi au fond des entrailles — une émotion viscérale qui ébranle la totalité de l'être — ET reconsidérer depuis cet endroit affecté. Non pas un simple chagrin ni un simple changement d'avis. Même racine : le **shem** de Noach (*Genèse* 5:29 — *yenachameinu* : "il nous **nacham**era") et la consolation prophétique (*Ésaïe* 40:1 — *nachamu nachamu ami*). Appliqué à **YHWH** en *Genèse* 6:6 — le texte ne l'atténue pas. Premier emploi *Genèse* 5:29. |
