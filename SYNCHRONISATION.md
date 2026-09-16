@@ -4490,9 +4490,8 @@ morphologie. On dérive l'un depuis l'autre comme si l'on ne savait pas, et on
 compte.
 
     ôter le point systématiquement            70,0 %
-    garder le point sur ב ג ד כ פ ת          82,3 %
-    l'orthographe comptée à part              98,1 %
-    sur les seuls gentilés                    97,3 %
+    garder le point sur ב ג ד כ פ ת          82,3 %   ← le plafond
+    sur les seuls gentilés                    70,3 %
 
 **Trois leçons, et la troisième est la moins évidente.**
 
@@ -4502,13 +4501,24 @@ feraient chuter le taux — elles font mieux ; les gentilés seraient réguliers
 ils étaient la pire catégorie. Les exemples qu'on a sous les yeux ne sont pas un
 échantillon.
 
-==Une variation d'orthographe n'est pas une erreur de règle.== 15,8 % des cas
-étaient le même mot écrit autrement — une voyelle notée par une lettre-support
-ou par un point seul. Sans les séparer, on mesure le manuscrit et non
-l'opération.
+==Une variation d'orthographe n'est pas une erreur de règle== — mais la
+séparer demande un instrument juste. 7,4 % des cas sont le même mot écrit
+autrement, une voyelle notée par une lettre-support ou par un point seul.
 
-==Le taux se calcule sur la population qui importe.== 82,3 % en général, 97,3 %
-sur les gentilés. Les deux coûtent la même commande.
+==Et un 98,1 % a été publié une heure sur une comparaison trop indulgente.==
+Elle ôtait tous les points-voyelles pour juger de l'identité, si bien que `עָם`
+et `עַם` — deux sons — passaient pour le même mot. ==Un instrument trop
+permissif ne rend pas un chiffre approximatif : il rend un chiffre faux, et
+toujours dans le sens qui arrange.== Le plafond réel est 82,3 %.
+
+==Le taux se calcule sur la population qui importe, et elle peut être la pire.==
+82,3 % en général, ==70,3 % sur les gentilés==. On espérait l'inverse.
+
+==Et la limite est structurelle.== L'auteur l'a nommée en rappelant que l'hébreu
+est d'abord une langue orale : quand l'article allonge la voyelle d'un mot,
+l'écrit garde le résultat et perd l'opération. `הָעָם` et `הֶעָשׂוּי` portent le
+même signe — l'un l'a reçu, l'autre l'avait. Trois règles phonétiques ont été
+essayées sur ce résidu ; elles ont gagné ==trois cas sur 1482==.
 
 **Et le défaut que ça nomme**, parce qu'il est le symétrique de celui que ce
 journal traque depuis le 30 août : on connaissait ==l'affirmation sans mesure==.
