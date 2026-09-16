@@ -425,11 +425,15 @@ def graphe(vault, ident=None, inclure_lexique=False, inclure_corpus=False):
         # L'espace et le trait d'union ne distinguent rien : le slug du pipeline les
         # ramène au même séparateur. « ʾEl ʿElyon » et « ʾel-ʿelyon » sont un seul nom.
         def aplati(texte):
-            # Le slug du pipeline ramène toute suite de non-alphanumériques à un seul
-            # séparateur : l'apostrophe, l'espace et le trait d'union ne distinguent
-            # rien. Les demi-anneaux sont gardés — eux distinguent, et les confondre
-            # referait la collision malakh / malʾakh.
-            return re.sub(r"[^a-z0-9\u02be\u02bf]+", " ", documents.normaliser(texte)).strip()
+            # La sémantique du slug du pipeline, et non une approximation : les
+            # apostrophes et les demi-anneaux TOMBENT (inline.rs:123), ils ne
+            # deviennent pas des séparateurs. Le reste devient un tiret.
+            # Une approximation avait fait rendre « l-etre-faconne-du-sol » là où
+            # le pipeline écrit « letre-faconne-du-sol » — et sur la foi de cette
+            # mesure une fiche juste a été renommée, coupant soixante mots d'or
+            # de leur définition.
+            sans = re.sub(r"['\u2019\u02bc\u02be\u02bf]", "", documents.normaliser(texte))
+            return re.sub(r"[^a-z0-9]+", " ", sans).strip()
         par_graphie = {}
         for p in fiches:
             par_graphie.setdefault(aplati(p.stem), set()).add(p.relative_to(vault).as_posix())
@@ -486,9 +490,14 @@ def controles(vault):
     déclaration qui n'atteint rien. Les contrôles existants comparent chaque
     élément à l'ensemble ; aucun ne compare les éléments entre eux."""
     def cle(texte, demi_anneaux_signifiants):
-        t = texte if demi_anneaux_signifiants else texte.replace("\u02be", "").replace("\u02bf", "")
-        garde = "a-z0-9\u02be\u02bf" if demi_anneaux_signifiants else "a-z0-9"
-        return re.sub("[^" + garde + "]+", "-", documents.normaliser(t)).strip("-")
+        # inline.rs:123 — l'apostrophe tombe toujours ; le demi-anneau tombe sous
+        # la règle d'aujourd'hui et compte sous celle qui vient. Ce qui reste
+        # devient un tiret. Écrire une approximation d'ici coûte cher : c'est
+        # ainsi qu'une fiche juste a été renommée le 16 septembre.
+        t = re.sub(r"['\u2019\u02bc]", "", documents.normaliser(texte))
+        if demi_anneaux_signifiants:
+            return re.sub(r"[^a-z0-9\u02be\u02bf]+", "-", t).strip("-")
+        return re.sub(r"[^a-z0-9]+", "-", re.sub(r"[\u02be\u02bf]", "", t)).strip("-")
 
     fiches = sorted((vault / "lexique").glob("*.md"))
     constats = []
