@@ -24,4 +24,4 @@ vayitser · yatsar
 
 ## Source
 
-3335 · וַיִּיצֶר
+3335 · יָצַר

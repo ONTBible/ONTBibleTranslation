@@ -26,4 +26,4 @@ vayar · vayirʾu · raʾah · vayarʾ · marʾeh · vayera · raʾiti · ureʾi
 
 ## Source
 
-7200 · וַיַּרְא
+7200 · רָאָה

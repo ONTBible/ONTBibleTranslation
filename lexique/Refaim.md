@@ -26,4 +26,4 @@ Ce dont ils sont le vestige : les **Nefilim** et les **gibborim** de *Bereshit* 
 
 ## Source
 
-7497 b · הָרְפָאִים
+7497 b · רְפָאִים

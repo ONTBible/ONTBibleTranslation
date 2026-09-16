@@ -20,4 +20,4 @@ Son opposé exact est **barakh**, doter d'une capacité active — alourdir de p
 
 ## Source
 
-7043 · לְקַלֵּל
+7043 · קִלֵּל

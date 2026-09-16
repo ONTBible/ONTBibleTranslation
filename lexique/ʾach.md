@@ -119,4 +119,4 @@ deux dont l'un est l'oncle de l'autre.
 
 ## Source
 
-251 · אָחִיו
+251 · אָח

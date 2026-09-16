@@ -38,4 +38,4 @@ yada · vayeda · nedaʿ · yodeʿa · lada'at · ladaʿat
 
 ## Source
 
-3045 · וַיֵּדַע
+3045 · יָדַע

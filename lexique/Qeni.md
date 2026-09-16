@@ -42,4 +42,4 @@ Le son que le **Shem** partage : [[Qayin]], dont le corpus tire le nom d'un autr
 
 ## Source
 
-7017 · הַקֵּינִי
+7017 · קֵינִי

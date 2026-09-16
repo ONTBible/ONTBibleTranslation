@@ -36,4 +36,4 @@ mut · mot · vayamot · tamut · temutun · mot tamut · lo mot temutun · met 
 
 ## Source
 
-4191 · וַיָּמֹת
+4191 · מֵת

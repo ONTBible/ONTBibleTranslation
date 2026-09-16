@@ -20,4 +20,4 @@ vayavdel · lehavdil · ulehavdil
 
 ## Source
 
-914 · וַיַּבְדֵּל
+914 · הִבְדִּיל

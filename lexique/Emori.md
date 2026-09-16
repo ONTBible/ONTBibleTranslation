@@ -28,4 +28,4 @@ Où le corpus les reprend : *Bereshit* 14 comme alliés, *Bereshit* 15 pour la m
 
 ## Source
 
-567 · הָאֱמֹרִי
+567 · אֱמֹרִי
