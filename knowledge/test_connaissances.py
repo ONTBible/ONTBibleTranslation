@@ -213,17 +213,29 @@ class BaseDeConnaissances(unittest.TestCase):
         # Sous le demi-anneau signifiant elles cessent de se percuter.
         self.assertNotIn("demi-anneau signifiant", [c["regle"] for c in collisions])
 
-    def test_controles_voient_un_terme_que_sa_fiche_n_atteint_pas(self):
-        # Le cas de « l'Être façonné du sol » : déclaré, donc invisible à tout
-        # contrôle qui vérifie « déclaré » ; inatteignable, ce que nul ne testait.
+    def test_l_apostrophe_tombe_et_ne_devient_pas_un_separateur(self):
+        # Épreuve de régression, écrite sur une faute commise. Le slug du pipeline
+        # SUPPRIME l'apostrophe (inline.rs:123) : « L'Être façonné du sol » donne
+        # « letre-faconne-du-sol », sans tiret après le l. Une approximation qui la
+        # rendait par un tiret a fait renommer une fiche juste, et coupé soixante
+        # mots d'or de leur définition.
         self.ecrire("locked/unite.md", "¹ Et **l'Être façonné du sol** fut posé.\n")
         self.ecrire("lexique/letre-faconne-du-sol.md", "# letre\n\nLa périphrase.\n")
-        r = kb.controles(self.vault)
-        manquants = [c["terme"] for c in r["constats"] if c["controle"] == "terme_inatteignable"]
-        self.assertIn("l'Être façonné du sol", manquants)
-        # Renommée selon le slug, elle est atteinte et le contrôle se tait.
+        self.assertEqual(kb.controles(self.vault)["bloquants"], 0,
+                         "le nom sans tiret est celui que le pipeline engendre")
         (self.vault / "lexique/letre-faconne-du-sol.md").rename(
             self.vault / "lexique/l-etre-faconne-du-sol.md")
+        r = kb.controles(self.vault)
+        manquants = [c["terme"] for c in r["constats"] if c["controle"] == "terme_inatteignable"]
+        self.assertIn("l'Être façonné du sol", manquants,
+                      "avec un tiret, la fiche n'est plus celle du terme")
+
+    def test_controles_voient_un_terme_qu_aucune_fiche_ne_sert(self):
+        self.ecrire("locked/unite.md", "¹ Et **termeorphelin** fut posé.\n")
+        r = kb.controles(self.vault)
+        manquants = [c["terme"] for c in r["constats"] if c["controle"] == "terme_inatteignable"]
+        self.assertIn("termeorphelin", manquants)
+        self.ecrire("lexique/termeorphelin.md", "# terme\n\nUne définition.\n")
         self.assertEqual(kb.controles(self.vault)["bloquants"], 0)
 
     def test_un_numero_partage_est_un_signal_et_non_un_verdict(self):

@@ -4359,8 +4359,37 @@ Deux défauts ont été trouvés cette semaine, tous deux **par accident** :
     l'Être façonné du sol     déclaré au §2.5, fiche inatteignable
 
 Le premier aurait fait ouvrir la fiche d'un verbe à 180 mots d'or du messager.
-Le second laissait soixante occurrences pointer vers une fiche que le slug
-n'atteint pas — `l-etre-faconne-du-sol` contre `letre-faconne-du-sol`.
+
+**Le second n'existait pas, et c'est la faute de la journée.** Le contrôle a
+signalé `l'Être façonné du sol` comme inatteignable ; la fiche a été renommée
+sur la foi de ce signal ; et le renommage a **coupé soixante mots d'or de leur
+définition**, qu'ils atteignaient très bien avant.
+
+La cause est dans l'instrument, pas dans le vault. Mon approximation du slug
+rendait l'apostrophe par un tiret — `l-etre-faconne-du-sol`. `inline.rs:123`
+dit l'inverse : l'apostrophe **tombe**, elle ne sépare pas. Le vrai slug donne
+`letre-faconne-du-sol`, qui était le nom de la fiche depuis toujours.
+
+C'est la leçon du 11 septembre, commise à nouveau par celui qui l'avait écrite :
+**un contrôle qui n'emploie pas la fonction du système mesure un système
+voisin.** Et elle a coûté plus cher cette fois, parce qu'un contrôle qui se
+trompe ne se contente pas de mentir — on agit dessus.
+
+Rattrapé par la session du site, qui l'a mesuré **par expérience dans les deux
+sens** — remettre l'ancien nom, régénérer, retirer le fichier — au lieu de
+raisonner sur une corrélation. Son épreuve
+`chaque_fiche_du_lexique_porte_une_definition` est ce qui a rougi ; aucune garde
+du vault ne l'a vu.
+
+**Et le désaccord entre les deux gardes était le vrai signal.** La mienne
+demandait *ce mot d'or ouvre-t-il quelque chose* — oui, une page. Le pipeline
+comptait `0 mot d'or sans fiche` dans les deux états, parce qu'une entrée
+existait toujours, avec son titre et ses soixante occurrences. Ce qui manquait
+était sa **définition**. Trois propriétés, non deux :
+
+    déclaré      le §2.5 le nomme
+    atteignable  un slug mène à une fiche
+    renseigné    cette fiche dit quelque chose
 
 **Aucun des six contrôles du vault ne pouvait les voir**, et la raison est
 structurelle, non un oubli :
@@ -4405,9 +4434,11 @@ Deux corrections de méthode, prises et gardées :
 ### Ce que ça change pour chaque dépôt
 
 **ONTBibleTranslation** — `knowledge/` et `kb-prototype/` entrent par PR ; le
-contrôle est branché à `eprouver`. Une fiche a été renommée :
-`letre-faconne-du-sol.md` devient `l-etre-faconne-du-sol.md`, pour que le slug
-du corpus l'atteigne. Correction de fait, pas arbitrage.
+contrôle est branché à `eprouver`. ==Le renommage de `letre-faconne-du-sol.md`
+a été fait puis défait le jour même== : il reposait sur une approximation du
+slug, et il cassait ce qu'il prétendait réparer. Les deux fonctions de slug de
+`knowledge/consulter.py` sont désormais alignées sur `inline.rs`, et une épreuve
+de régression fixe le cas.
 
 `.claude/settings.json` déclare un hook `UserPromptSubmit` qui injecte un
 dossier dans **chaque message de chaque session Claude ouverte ici**. Ce n'est
@@ -4420,12 +4451,17 @@ le renommage **change une clé de lemme**, et dans le bon sens : soixante mots
 d'or qui n'ouvraient rien ouvrent maintenant leur fiche. À remesurer après
 fusion.
 
-**ONTBibleWebapp** — le site engendre ses chemins depuis `entree.lemme`
-(`src/main.rs`), donc le renommage **change une URL publique** :
-`/fr/lexique/letre-faconne-du-sol` devient `/fr/lexique/l-etre-faconne-du-sol`.
-C'est une redirection de plus, à ajouter à la table des 44. Sa règle
-l'attrapera seule si elle est bien engendrée depuis `glossary.json` — c'est ce
-que sa méthode a de meilleur sur une table tenue à la main.
+**ONTBibleWebapp** — ==rien à faire, et c'est le renommage défait qui le veut==.
+Une 45ᵉ redirection avait été annoncée ; elle n'a pas lieu d'être, l'URL
+`/fr/lexique/letre-faconne-du-sol` n'a jamais cessé d'être la bonne.
+
+Deux choses restent de cet échange, et elles valent mieux que l'alerte. La
+première est du site : sa règle de redirection se déduisait d'**une** seule
+transformation — la perte des demi-anneaux — et se présentait comme générale.
+*Une règle déduite qui ne couvre pas un cas ne rougit pas : elle engendre une
+entrée de moins, silencieusement.* La seconde est que son épreuve sur les
+définitions a rattrapé une régression du vault pour la troisième fois cette
+semaine. ==L'équivalent manque ici==, où quelqu'un peut y répondre.
 
 ### Une leçon de coordination, payée sans dégât
 
