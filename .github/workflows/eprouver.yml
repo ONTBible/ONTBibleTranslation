@@ -108,6 +108,16 @@ jobs:
       # Le contrôle ne le régénère pas à la place de l'auteur : il **échoue**,
       # et dit la commande. Régénérer en silence dans la CI ferait diverger le
       # dépôt de ce qui a été relu.
+      - name: La base de connaissances retrouve ses preuves
+        run: |
+          cd ONTBibleTranslation
+          python3 knowledge/consulter.py verifier
+          python3 -m unittest discover -s kb-prototype -p 'test_*.py'
+          python3 -m unittest discover -s knowledge -p 'test_*.py'
+          python3 knowledge/evaluer.py
+          python3 knowledge/evaluer.py --hook
+          python3 knowledge/evaluer.py --hook --hook-config knowledge/codex-hooks.proposition.json
+
       - name: L'index des décisions est à jour
         run: |
           cd ONTBibleTranslation

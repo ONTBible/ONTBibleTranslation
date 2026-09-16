@@ -1,0 +1,18 @@
+{
+  "description": "Proposition de hook KB ONT pour .codex/hooks.json du vault ; non installée.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/knowledge/claude-hook.py\"",
+            "timeout": 10,
+            "statusMessage": "Consultation de la KB ONT",
+            "additionalContextLimit": 12000
+          }
+        ]
+      }
+    ]
+  }
+}
