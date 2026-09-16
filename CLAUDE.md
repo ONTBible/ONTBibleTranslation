@@ -805,7 +805,32 @@ disponibles ; personne ne les avait regardées.
     ôter le point systématiquement            70,0 %
     garder le point sur ב ג ד כ פ ת          82,3 %   ← le plafond
 
-**Ce que le chiffre autorise — et il est plus bas qu'annoncé d'abord.**
+**Aucun de ces chiffres n'est une certitude, et un audit indépendant l'a
+établi le jour même.** Ils répondent à ==trois questions distinctes==, que la
+mesure confondait :
+
+    la forme dérivée égale-t-elle la forme nue LA PLUS FRÉQUENTE ?     82,3 %
+    égale-t-elle UNE forme nue attestée ?                              89,5 %
+    est-elle LA FORME DE CITATION ?                                    non mesuré
+
+==C'est la troisième qui était posée==, et aucune mesure ne l'a approchée. Cent
+six fois, la dérivation produit une forme que le témoin écrit bel et bien —
+comptée fausse parce qu'elle n'était pas la majoritaire. Et sur ==soixante
+clés la cible était ex æquo== : c'est l'ordre des livres qui tranchait, non la
+langue.
+
+==Une occurrence n'est pas une forme de citation.== Le dagesh initial d'un mot
+dépend de ce qui le précède et des accents (Gesenius §21) ; le choisir comme
+cible fait juger du contexte pour une propriété du lexique.
+
+**Ce qu'il faut fixer avant de remesurer** : quelle forme est la cible, comment
+traiter le kétiv/qeré, et que faire des ex æquo. Tant que ces trois-là ne sont
+pas arrêtés, ==un taux mesure l'ordre des livres autant que la règle==.
+
+**Et les huit restent une recherche lexicographique**, pas un arbitrage qu'un
+programme puisse rendre.
+
+**Ce que les chiffres disaient — et il faut lire la clause ci-dessus avant.**
 ==82,3 % sur l'ensemble, 70,3 % sur les gentilés==, la population qui importait.
 Un taux se calcule sur ==la bonne population== ; ici elle se trouve être la
 moins bonne, et c'est le contraire de ce qu'on attendait.

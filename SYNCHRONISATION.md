@@ -4530,3 +4530,58 @@ rigoureux qu'affirmer sans avoir compté.
 déduction : *combien de cas connus donneraient la réponse, et quel taux
 atteint-on ?* Le vault avait 1482 paires sous la main.
 
+#### L'audit indépendant, le jour même — trois questions confondues en une
+
+**Astra (Codex) a repris le jeu de validation en lecture seule**, avec son
+propre collecteur, et le rapport est à `/private/tmp/ont-astra-audit-derivation/`.
+
+Ce qu'il confirme : le découpage morphologique `mo[4:]` / `mo[1:]` est correct,
+et les 1491 paires se retrouvent.
+
+**Ce qu'il casse, et c'est le principal :**
+
+    la dérivation égale la forme nue LA PLUS FRÉQUENTE      82,3 %
+    elle égale AU MOINS UNE forme nue attestée              89,5 %
+    elle est LA FORME DE CITATION                           jamais mesuré
+
+==La troisième était la question posée.== Les deux premières y ont été prises
+l'une pour l'autre, et aucune ne l'approche.
+
+**Cent six fois**, la dérivation produit une forme que le témoin écrit —
+comptée fausse parce qu'une autre était plus fréquente. Deux exemples avec leur
+verset : `כּוּשִׁי` est exactement attesté en *Jérémie* 13:23, `נְטֹפָתִי` en
+*Néhémie* 12:28. Et sur ==soixante clés la cible était ex æquo== : ==c'est
+l'ordre des livres qui a tranché, pas la langue==.
+
+**Deux bogues de catégorisation**, tous deux avec leur contre-exemple :
+`חִתִּי` / `חִתִּית` reçoit « lettre-support » alors que le caractère ajouté est
+un ת ; `כֻּשִׁית` / `כֻשִׁית` reçoit « voyelle différente » alors que l'écart est
+un dagesh — que les deux fonctions de comparaison retirent, si bien qu'il ne
+peut jamais être la cause nommée.
+
+**Et deux réserves de langue**, qu'il faut garder telles quelles. Le dagesh
+initial dépend du mot précédent et des accents (Gesenius §21) : ôter les accents
+puis juger l'égalité confond le contexte avec une erreur du lemme. Et ce que
+décrit UHG est le changement de voyelle ==de l'article==, ce qui n'établit pas
+que toute voyelle du nom ait été allongée par lui.
+
+#### Ce que ça apprend, au-delà du cas
+
+==Un taux ne devient une certitude que si l'on a nommé sa cible.== Trois
+questions ont ici la même forme mesurable, et la plus facile à calculer n'est
+pas celle qu'on pose. Le chiffre sortait juste ; il portait sur autre chose.
+
+C'est le motif du 30 août — *un instrument qui répond à une autre question* —
+appliqué non plus à une garde ou à un compte de balises, mais ==à une
+validation statistique==. Un échantillon de mille quatre cents cas et un
+pourcentage à la décimale ne protègent de rien : ils rendent l'erreur plus
+crédible.
+
+==Et la contradiction entre deux sessions reste le seul instrument qui attrape
+une erreur de méthode.== Ni mes six passes ni mes trois itérations ne l'ont
+vue ; un second collecteur, écrit ailleurs, l'a montrée en une fois.
+
+**Pour les trois dépôts** : avant de publier un taux, écrire ==ce que la cible
+est== et ==ce qu'on fait des ex æquo==. Sans ces deux lignes, un pourcentage
+mesure l'ordre de lecture des fichiers autant que la règle éprouvée.
+
