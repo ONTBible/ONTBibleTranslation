@@ -4581,7 +4581,43 @@ crédible.
 une erreur de méthode.== Ni mes six passes ni mes trois itérations ne l'ont
 vue ; un second collecteur, écrit ailleurs, l'a montrée en une fois.
 
+#### Et l'écart entre nos deux mesures n'était pas ce que j'avais dit
+
+J'avais expliqué les deux unités d'écart — 1220 contre 1218, 1326 contre 1328 —
+par ==le traitement des refus au dénominateur==. Astra l'a réfuté en une phrase
+d'arithmétique : ==les refus déplacent un dénominateur, jamais un numérateur==.
+
+La cause qu'il a proposée est ailleurs, et elle se vérifie :
+
+    ordre de lecture              paires  refus  majoritaire  au moins une
+    glob.glob (ordre du disque)     1482      9         1220          1326
+    sorted(glob.glob)               1483      8         1218          1328
+
+==Un `sorted` sur la liste des fichiers, et rien d'autre.== `Counter.most_common`
+départage les ex æquo par ==ordre de première rencontre== ; changer l'ordre de
+lecture change la forme retenue, donc le résultat. Les soixante cibles ex æquo
+suffisent à produire l'écart.
+
+Et le nombre de refus bouge avec : le départage change aussi la forme ==à
+article== retenue, et certaines ne sont plus dérivables.
+
+> ==Un pourcentage qui se déplace quand on trie un `glob` ne mesure pas ce qu'on
+> croit qu'il mesure.==
+
+**La leçon générale, et c'est la dernière de la journée :** partout où une
+mesure repose sur « la valeur la plus fréquente », il faut ==déclarer comment
+les ex æquo sont départagés==. Sans cette ligne, le résultat dépend du système
+de fichiers, et deux sessions de bonne foi obtiennent deux chiffres sans pouvoir
+dire lequel est juste — ==parce qu'aucun ne l'est==.
+
+Ce que la journée a produit, en tout : ==neuf instruments== qui rendaient une
+sortie bien formée pour une question qu'ils ne posaient pas, dont un qui a cassé
+le corpus deux heures. ==Aucun n'a été attrapé par plus de rigueur dans la
+mesure.== Six l'ont été par une seconde mesure d'une autre nature, deux par une
+session voisine, un par l'auteur.
+
 **Pour les trois dépôts** : avant de publier un taux, écrire ==ce que la cible
-est== et ==ce qu'on fait des ex æquo==. Sans ces deux lignes, un pourcentage
-mesure l'ordre de lecture des fichiers autant que la règle éprouvée.
+est==, ==ce qu'on fait des ex æquo==, et ==dans quel ordre on lit les entrées==.
+Sans ces trois lignes, un pourcentage mesure le système de fichiers autant que
+la règle éprouvée.
 

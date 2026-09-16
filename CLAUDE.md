@@ -824,8 +824,15 @@ dépend de ce qui le précède et des accents (Gesenius §21) ; le choisir comme
 cible fait juger du contexte pour une propriété du lexique.
 
 **Ce qu'il faut fixer avant de remesurer** : quelle forme est la cible, comment
-traiter le kétiv/qeré, et que faire des ex æquo. Tant que ces trois-là ne sont
-pas arrêtés, ==un taux mesure l'ordre des livres autant que la règle==.
+traiter le kétiv/qeré, que faire des ex æquo, et ==dans quel ordre on lit les
+fichiers==. Le dernier point n'est pas une précaution de style — mesuré le même
+jour, un simple `sorted` sur la liste des fichiers déplace le résultat :
+
+    glob.glob (ordre du disque)    1220 majoritaires · 1326 attestées
+    sorted(glob.glob)              1218              · 1328
+
+`Counter.most_common` départage les ex æquo par ordre de première rencontre.
+==Un pourcentage qui bouge quand on trie un `glob` ne mesure pas ce qu'on croit.==
 
 **Et les huit restent une recherche lexicographique**, pas un arbitrage qu'un
 programme puisse rendre.
