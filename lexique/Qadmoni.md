@@ -1,5 +1,11 @@
 # Qadmoni
 
+## Prononciation
+
+*Qad-mo-NI* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
 ## Le Shem
 
 Tournez-vous pour vous orienter. Dans ce monde, on ne se tourne pas vers le septentrion — ==on fait face au levant==.
@@ -17,26 +23,30 @@ Qadmoni dit donc ==celui de devant== — l'Oriental, et par la même syllabe l'A
 
 Elle traverse le corpus, et à chaque fois elle emporte les deux sens avec elle.
 
-Le Jardin est planté (*miqqedem* / מִקֶּדֶם) — à l'orient, ou depuis l'origine ; les deux lectures tiennent, et l'ONT ne les sépare pas. Les [[Kheruvim]] sont postés à l'orient du Jardin, du côté d'où l'on regarde. Et quand [[Lot]] choisit le bassin du [[Yarden]], le texte dit qu'il part *miqqedem* — un déplacement vers l'orient qui est, dans ce récit, ==un éloignement fonctionnel==.
+Le Jardin est planté (*miqqedem* / מִקֶּדֶם) — à l'orient, ou depuis l'origine ; les deux lectures tiennent, et l'ONT ne les sépare pas. Les [[Keruvim]] sont postés à l'orient du Jardin, du côté d'où l'on regarde. Et quand [[Lot]] choisit le bassin du [[Yarden]], le texte dit qu'il part *miqqedem* — un déplacement vers l'orient qui est, dans ce récit, ==un éloignement fonctionnel==.
 
 C'est pourquoi un peuple nommé « ceux de devant » n'est pas seulement situé sur une carte. Le **Shem** le place ==du côté de l'origine==, dans la direction d'où l'on vient.
 
 ## Ce que le texte en dit, et pas davantage
 
-Une ligne. Ils sont le troisième nom de la liste des dix peuples que **YHWH** énumère à [[Avraham|Avram]] après la **berith** coupée entre les morceaux, entre le Qenizi et le [[Hitti]].
+Une ligne. Ils sont le troisième nom de la liste des dix peuples que **YHWH** énumère à [[ʾAvram]] après la **berith** coupée entre les morceaux, entre le Qenizi et le [[Chitti]].
 
-Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **neviim**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
+Aucune ville ne leur est donnée, aucun territoire précisé, aucun acte. ==Ils n'apparaissent nulle part ailleurs dans tout le corpus== — ni dans la table des nations, ni dans les récits de conquête, ni chez les **neviʾim**. C'est le seul peuple de cette liste dont on ne saura jamais rien de plus.
 
 Le silence est ici l'information, et il faut le laisser tel quel. Un nom qui ne dit que « ceux de l'orient » et qui ne revient jamais tient peut-être une population que le narrateur ne savait plus nommer autrement — ==un peuple d'avant, désigné par le fait même qu'il était là avant==. Le texte ne le dit pas ; il se contente de l'inscrire dans ce que la promesse recouvre.
 
 ## Ce que la fiche porte
 
-Elle repose sur *Bereshit* 15:19, unique mention, et sur la racine *qedem* telle que le corpus l'emploie déjà ailleurs. Contrairement aux autres *Shemot* de cette liste, ==il n'y a rien à attendre== : aucun livre à venir ne les reprendra. La fiche est complète parce que le corpus l'est.
+Elle repose sur *Genèse* 15:19, unique mention, et sur la racine *qedem* telle que le corpus l'emploie déjà ailleurs. Contrairement aux autres *Shemot* de cette liste, ==il n'y a rien à attendre== : aucun livre à venir ne les reprendra. La fiche est complète parce que le corpus l'est.
 
 ## Voir aussi
 
-La racine ailleurs : le Jardin planté *miqqedem*, les [[Kheruvim]] postés à l'orient, et [[Lot]] qui s'en va *miqqedem* vers le bassin du [[Yarden]].
+La racine ailleurs : le Jardin planté *miqqedem*, les [[Keruvim]] postés à l'orient, et [[Lot]] qui s'en va *miqqedem* vers le bassin du [[Yarden]].
 
-Les neuf autres de la liste : [[Qeni]], [[Hitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kena'ani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
+Les neuf autres de la liste : [[Qeni]], [[Chitti]], [[Perizi]], [[Refaim]], [[Emori]], [[Kenaʿani]], [[Girgashi]], [[Yevousi]], et le Qenizi.
 
-Les autres peuples que le corpus nomme sans les raconter : [[Horim]], [[Zouzim]], [[Emim]] — tous des peuples d'avant.
+Les autres peuples que le corpus nomme sans les raconter : [[Chorim]], [[Zouzim]], [[ʾEmim]] — tous des peuples d'avant.
+
+## Source
+
+6935 · הַקַּדְמֹנִי

@@ -1,5 +1,9 @@
 # Ben-Ammi
 
+## Prononciation
+
+*Ben Am-MI* — 2 mots, chacun accentué sur sa dernière syllabe, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Ben-Ammi* / בֶּן־עַמִּי) — ==fils de mon parent==, ou *fils de mon peuple*. ==Le **Shem** dit la parenté proche==.
@@ -12,7 +16,7 @@ Là où l'aînée avait dit ==du père== sans détour, la cadette dit ==fils de 
 
 On peut relever ce qu'il y a de cohérent là-dedans : le **Shem** du père, [[Lot]], vient de *lut*, ==s'envelopper, voiler==. La ==dernière scène== de son récit produit un nom qui ==enveloppe ce qu'il dit==.
 
-De lui viendront les Ammonites, voisins et adversaires. Et *Devarim* 2:19 dira de ne pas les attaquer : ==leur pays est donné aux fils de [[Lot]]== en possession.
+De lui viendront les Ammonites, voisins et adversaires. Et *Deutéronome* 2:19 dira de ne pas les attaquer : ==leur pays est donné aux fils de [[Lot]]== en possession.
 
 Même après la grotte, ==le corpus leur reconnaît une terre==.
 

@@ -1,5 +1,13 @@
 # qadosh
 
+## Prononciation
+
+*qa-DOSH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 La forme adjectivale de ce que le **qodesh** nomme : ce qui ==a été mis à part pour un office==. Un ustensile, un jour, un lieu, un homme — le mot dit toujours la même chose, et jamais une qualité intrinsèque.
 
 Il faut y insister parce que le mot français rend l'inverse. « Saint » désigne chez nous quelqu'un de moralement supérieur : on est saint par ce qu'on est devenu, par vertu accumulée, et l'Église en dresse des listes. Rien de tel ici. Est ==qadosh== (*qadosh* / קָדוֹשׁ) ce qui a été ==retiré de l'usage ordinaire== — ni meilleur, ni plus pur : ==assigné ailleurs==.
@@ -11,3 +19,7 @@ Et cela éclaire l'exigence adressée à un peuple : *soyez ==qadosh==, car je s
 Le mot est aussi l'un des rares que le corpus applique à **YHWH** lui-même. Il ne dit pas alors qu'il serait très vertueux — il dit qu'il est ==d'un autre ordre==, non disponible, non manipulable, séparé de tout ce à quoi on voudrait le rabattre.
 
 Le verbe **qadash** est l'opération, le **qodesh** est l'état, ==qadosh== est ce qui le qualifie. Trois formes d'un seul geste : mettre à part.
+
+## Source
+
+6918 · קָדוֹשׁ

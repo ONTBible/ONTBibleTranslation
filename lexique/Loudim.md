@@ -1,5 +1,9 @@
 # Loudim
 
+## Prononciation
+
+*Lou-DIM* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Loudim* / לוּדִים) — un ==peuple d'Afrique du Nord==, dans la sphère de [[Mitsrayim]].
@@ -14,6 +18,10 @@ Le corpus ne les reprend pas ailleurs sous cette forme. Ce qu'ils tiennent dans 
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[Anamim]], [[Lehabim]], [[Naftuhim]], [[Patrusim]], [[Kasluhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; ses frères [[ʿAnamim]], [[Lehabim]], [[Naftuchim]], [[Patrusim]], [[Kasluchim]].
 
 Le **Shem** voisin, dans l'autre lignée : [[Loud]].
+
+## Source
+
+3866 · לוּדִים

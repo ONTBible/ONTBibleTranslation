@@ -1,5 +1,11 @@
 # Arqi
 
+## Prononciation
+
+*Ar-QI* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *q* est un ==qof== : un *k* produit ==tout au fond, contre la luette==.
+
 ## Le Shem
 
 (*Arqi* / הָעַרְקִי) — un peuple de la ==côte phénicienne==, peut-être la ville d'Arqa au septentrion du Liban.
@@ -14,4 +20,4 @@ Ce n'est pas une généalogie de familles, c'est ==une carte du littoral== écri
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].

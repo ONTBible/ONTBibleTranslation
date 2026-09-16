@@ -1,21 +1,31 @@
 # Patrusim
 
+## Prononciation
+
+*Pat-rou-SIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *u* se dit ==« ou »==, comme dans « loup » — jamais le *u* français de « lune ».
+
 ## Le Shem
 
 (*Patrusim* / פַּתְרֻסִים) — ==Patros==, la Haute [[Mitsrayim]] : le pays du midi, en amont du fleuve.
 
-Avec [[Naftuhim]], il forme l'autre moitié du duel que porte le **Shem** de son père.
+Avec [[Naftuchim]], il forme l'autre moitié du duel que porte le **Shem** de son père.
 
 ## Ce que le corpus en fait
 
 Il revient dans un texte qui change tout à son statut.
 
-*Yeshayahu* 11:11 place ==Patros== parmi ==les lieux depuis lesquels **YHWH** rassemblera les restes de son peuple==. Une région d'Égypte, rangée dans la lignée de [[Cham]], devient ==un point d'où l'on revient==.
+*Ésaïe* 11:11 place ==Patros== parmi ==les lieux depuis lesquels **YHWH** rassemblera les restes de son peuple==. Une région d'Égypte, rangée dans la lignée de [[Cham]], devient ==un point d'où l'on revient==.
 
 C'est un motif que la table des nations rend possible et qu'il faut savoir lire : ==les peuples nommés ici ne sont pas rangés pour être écartés==. Ils sont rangés, et le corpus les reprend ensuite — les uns comme instruments, les autres comme lieux de dispersion, quelques-uns comme sources de présents.
 
 ## Voir aussi
 
-Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; son pendant du septentrion, [[Naftuhim]].
+Sa maison : [[Mitsrayim]] son père, [[Cham]] son grand-père ; son pendant du septentrion, [[Naftuchim]].
 
 Où le corpus le reprend : *Yeshayahu* 11, le rassemblement des restes.
+
+## Source
+
+6625 · פַּתְרֻסִים

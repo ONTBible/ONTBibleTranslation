@@ -1,5 +1,13 @@
 # sherets
 
+## Prononciation
+
+*she-RETS* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 Le cinquième jour, les eaux ==sherets== (*sherets* / שֶׁרֶץ) — et le verbe ne dit pas qu'elles se remplissent : il dit qu'elles ==fourmillent==. Une eau vue de près, en été, où l'on ne distingue plus les individus mais un mouvement continu.
 
 Le ==sherets== est cette catégorie-là : ==le grouillement dense et foisonnant==, propre au milieu aquatique. Ce n'est pas une espèce, pas même un groupe d'espèces — c'est ==une façon d'occuper un domaine==, par le nombre plutôt que par la taille.
@@ -11,3 +19,7 @@ Le mot est d'ailleurs employé avec la bénédiction qui va avec : les vivants d
 Le corpus emploiera plus tard le même mot pour des bêtes rampantes de la terre, dans les listes du service, et l'usage se resserrera. Mais l'idée reste : ce qui se compte par masses, non par têtes.
 
 Traduire par « reptiles » ou « petits animaux » manque tout. Ce sont des mots de zoologie, et le ==sherets== n'est pas une classe d'êtres : c'est ==une densité==.
+
+## Source
+
+8318 · שֶׁרֶץ

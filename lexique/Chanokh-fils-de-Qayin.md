@@ -1,5 +1,13 @@
 # Chanokh, fils de Qayin
 
+## Prononciation
+
+*Cha-NOKH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+Le *kh* est un ==khaf== : frottement contre le palais mou — le *ch* de l'allemand *Bach*. ==Ni un *k*, ni un « ch » de « chat »==.
+
 ## Le Shem
 
 Une maison est finie. Les murs tiennent, le toit est posé, et pourtant on n'y habite pas encore — il manque le jour où l'on y entre pour la première fois, où elle cesse d'être un chantier pour devenir un lieu où l'on vit. Ce jour-là s'appelle *chanakh* (*chanakh* / חָנַךְ).
@@ -16,7 +24,7 @@ Un **Shem** bâti là-dessus dit donc de son porteur qu'il est ==un commencement
 
 Regardez où le texte le pose.
 
-Son père vient d'être chassé de la face de **YHWH**. Le sol lui refuse sa force, il est (*na va-nad* / נָע וָנָד), mouvant et errant, et il s'établit — le mot est déjà un paradoxe — au pays de [[Nod]], l'errance faite pays.
+Son père vient d'être chassé de la face de **YHWH**. Le sol lui refuse sa force, il est (*naʿ va-nad* / נָע וָנָד), mouvant et errant, et il s'établit — le mot est déjà un paradoxe — au pays de [[Nod]], l'errance faite pays.
 
 Et là, cet homme sans prise ==bâtit une ville==. La première du monde. Puis il lui donne le **Shem** de son fils (*Chanokh* / חֲנוֹךְ) : ==Inauguration==.
 
@@ -26,7 +34,7 @@ Le texte ne juge pas ce geste. Il le rapporte, et passe à la génération suiva
 
 ## Ce que le corpus ne dit pas de lui
 
-Presque tout. Il engendre [[Irad]], et la généalogie continue.
+Presque tout. Il engendre [[ʿIrad]], et la généalogie continue.
 
 Aucune parole ne lui est prêtée, aucun acte, aucune fin. Il est ==un nom et une ville==, et c'est la règle de l'ONT de ne pas combler ce que le texte laisse vide.
 
@@ -34,8 +42,8 @@ Ce qu'on peut dire sans inventer : il est le premier être humain dont le **Shem
 
 ## Voir aussi
 
-Le même **Shem**, porté par un autre : [[Chanokh-qui-marche-avec-Elohim]] — sept générations après l'**adam** dans l'autre lignée, celui qui ne meurt pas. Le corpus le note lui-même : deux ==Chanokh== dans les deux lignées, et *l'humanité reste une, même divisée*.
+Le même **Shem**, porté par un autre : [[Chanokh-qui-marche-avec-Elohim]] — sept générations après l'**ʾadam** dans l'autre lignée, celui qui ne meurt pas. Le corpus le note lui-même : deux ==Chanokh== dans les deux lignées, et *l'humanité reste une, même divisée*.
 
-Son père et sa maison : [[Qayin]], [[Nod]], [[Irad]].
+Son père et sa maison : [[Qayin]], [[Nod]], [[ʿIrad]].
 
 Ce que sa lignée donnera : [[Yaval]], [[Youval]], [[Tuval-Qayin]], [[Lamekh-fils-de-Metoushael]].

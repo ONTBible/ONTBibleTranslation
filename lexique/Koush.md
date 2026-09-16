@@ -1,5 +1,11 @@
 # Koush
 
+## Prononciation
+
+*KOUSH* — une syllabe.
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 ## Le Shem
 
 (*Koush* / כּוּשׁ) désigne ==les terres au midi de Mitsrayim== — la Nubie, le haut Nil, ce que les anciens appelaient l'Éthiopie sans que ce soit le pays qui porte ce nom aujourd'hui.
@@ -8,7 +14,7 @@ L'étymologie n'est pas donnée par le corpus, et l'ONT ne la fabrique pas.
 
 ## Le frère de Mitsrayim
 
-Fils de [[Cham]], avec [[Mitsrayim]] et [[Kena'an]].
+Fils de [[Cham]], avec [[Mitsrayim]] et [[Kenaʿan]].
 
 Le corpus le range dans ce qu'il appelle ==les grandes puissances de civilisation matérielle== — celles qui bâtissent, organisent et fécondent le monde physique. Ce n'est pas un jugement : c'est ==une assignation de fonction== dans la table des nations, et le corpus la donne sans hiérarchie.
 
@@ -22,8 +28,12 @@ Le corpus construit donc, par cette filiation, ==le pont entre la démesure d'av
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kena'an]] ses frères.
+Sa maison : [[Cham]] son père, [[Mitsrayim]] et [[Kenaʿan]] ses frères.
 
 Ce qui sort de lui : ==Nimrod==, les **gibborim**, ==Bavel== et ==Ninveh==.
 
 Ce qui reste à écrire : la table des nations de *Bereshit* 10 est écrite ; cette fiche s'enrichira quand la couche y sera portée.
+
+## Source
+
+3568 a · כּוּשׁ

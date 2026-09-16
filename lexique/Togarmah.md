@@ -1,5 +1,11 @@
 # Togarmah
 
+## Prononciation
+
+*To-gar-MA* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* final est un ==he==, et il ==ne se prononce pas== : c'est une lettre-support, qui porte la voyelle sans ajouter de son. On dit *To-gar-MA*. ==Ne pas l'aspirer== — et ne pas le confondre avec le he initial de *hineni*, qui s'entend, lui.
+
 ## Le Shem
 
 (*Togarmah* / תֹּגַרְמָה) désigne ==les peuples d'Anatolie orientale==, que les traditions rabbiniques identifieront aux Arméniens.
@@ -8,7 +14,7 @@
 
 Ce que le corpus en retient est très concret, et c'est ce qui rend le portrait vivant.
 
-*Yehezqel* 27:14 le montre commerçant avec Tyr — et la marchandise est nommée : ==des chevaux, des cavaliers et des mulets==. Les hautes terres du Caucase fournissaient les montures du Proche-Orient, et le prophète le sait.
+*Ézéchiel* 27:14 le montre commerçant avec Tyr — et la marchandise est nommée : ==des chevaux, des cavaliers et des mulets==. Les hautes terres du Caucase fournissaient les montures du Proche-Orient, et le prophète le sait.
 
 Puis 38:6 le fait venir ==du fin fond du septentrion== dans l'assemblée de Gog.
 
@@ -16,6 +22,6 @@ Les deux passages disent la même chose sous deux angles : ==la mobilité==. Ce 
 
 ## Voir aussi
 
-Sa maison : [[Gomer]] son père, [[Yaphet]] son grand-père ; ses frères [[Ashkenaz]] et [[Rifat]].
+Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[ʾAshkenaz]] et [[Rifat]].
 
 Où le corpus le reprend : *Yehezqel* 27 pour le commerce, 38 pour l'assemblée de Gog — avec [[Gomer]] et [[Magog]].

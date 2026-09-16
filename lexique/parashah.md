@@ -1,5 +1,11 @@
 # parashah
 
+## Prononciation
+
+*pa-ra-SHAH* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 Un scribe est assis devant un rouleau. Il vient d'écrire la fin d'une chose — un récit s'est accompli, une instruction a été donnée jusqu'au bout. Il ne trace pas de numéro. Il ne dessine pas de trait. Il ==laisse le reste de la ligne blanc==, et recommence à la ligne suivante.
 
 Ce vide est la division. Rien d'autre.
@@ -21,3 +27,12 @@ Ces découpes-là sont ==posées sur== le texte, ==par-dessus== les blancs ancie
 L'ONT écrit ses unités selon le premier principe et non le second. Une unité se ferme quand une fonction s'accomplit, exactement comme un blanc de scribe. C'est pourquoi la septième de *Bereshit* recouvre ce que Langton appelle les chapitres 7 et 8 : entre les deux, rien ne s'était achevé.
 
 Le renvoi classique reste affiché à côté, parce qu'il faut bien retrouver « Genèse 9 » quand on le cherche. Mais il est là comme une ==béquille==, pas comme une charpente.
+
+## Source
+
+6575 · פָּרָשָׁה
+
+Deux emplois seulement, tous deux dans *Esther*, où le mot dit
+==l'exposé exact== d'une somme ou d'une grandeur. L'ONT l'emploie pour la
+division native du texte — ==même lemme, autre emploi==, et le numéro
+identifie le mot sans trancher son sens.
