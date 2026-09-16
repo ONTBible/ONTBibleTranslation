@@ -195,7 +195,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 135 leçons du journal
+## Les 148 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -306,6 +306,19 @@ se découvre pas le jour où l'ordre de lecture changera.
 - 7 septembre 2026 — `...` et `..` ne répondent pas à la même question
 - 31 août 2026 — Android avait la moitié du remède
 - 7 septembre 2026 — le journal a deux régimes, et le contrôle mesurait le mauvais
+- Ce qui a été monté
+- Ce que seul l'auteur peut faire, et qui bloque le premier tir
+- Deux exceptions assumées, écrites pour être relevées
+- Le canal bêta du cask, sur le motif de firefox@beta
+- Le premier tir du cask — vert, et deux leçons de secret au passage
+- Le contrat, validé par iOS « tel quel »
+- Les arbitrages d'écran rendus par iOS
+- `SourcesUpdater` — à cette session, sous trois conditions d'iOS
+- En attente
+- 2 septembre 2026 — faire taire le `fetch` dont dépend toute la conclusion
+- 7 septembre 2026 — `...` et `..` ne répondent pas à la même question
+- 7 septembre 2026 — le journal a deux régimes, et le contrôle mesurait le mauvais
+- 8 septembre 2026 — le secret de diffusion voyage dans Authorization, parce que la télémétrie ne filtre que ce qu'elle connaît
 - 8 septembre 2026 — une règle que son porteur viole n'est pas violée, elle a un périmètre non écrit
 - 8 septembre 2026 — le secret de diffusion voyage dans Authorization, parce que la télémétrie ne filtre que ce qu'elle connaît
 - Ce que ça change pour chaque dépôt
