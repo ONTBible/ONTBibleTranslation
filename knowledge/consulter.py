@@ -193,8 +193,53 @@ def dossier(vault, tache, limite=8, budget=24000):
             utilises += taille
         else:
             sortie["omissions"].append({"reference": ref, "raison": "budget", "consulter": "reference " + ref})
-    for ident in re.findall(r"\b[HG]\d+[a-z]?\b", tache):
+    # **Une question de corpus reçoit un compte, non une piste.**
+    #
+    # Le dossier cherchait par pertinence lexicale dans les documents, et ne
+    # descendait jamais au témoin : « combien d'occurrences de H2617 » rendait
+    # une note de convention sur l'endroit où vivent les fiches — la donnée
+    # était là, le chemin n'y menait pas. Mesuré le 16 septembre 2026.
+    #
+    # Trois gardes, parce que ce dossier est injecté à chaque message :
+    #
+    # - **un seul comptage**, le premier. Un comptage coûte 0,6 s là où un
+    #   dossier ordinaire coûte 0,3 : on ne double pas le prix de chaque tour
+    #   pour une liste d'identifiants ;
+    # - **il faut une demande**, non une mention. Un Strong nommé en passant
+    #   reste une piste ; c'est un mot de dénombrement qui déclenche le compte ;
+    # - **l'échec ne se propage pas.** Une fiche sans numéro, un identifiant mal
+    #   formé : la piste demeure, le dossier sort quand même. Un outil de
+    #   consultation qui tombe emporterait le tour avec lui.
+    demande_un_compte = re.search(
+        r"\b(combien|occurrences?|fréquences?|frequences?|attest\w+|compte[rz]?|dénombr\w+)\b",
+        tache, re.I)
+    idents = list(dict.fromkeys(re.findall(r"\b[HG]\d+[a-z]?\b", tache)))
+    # Un lemme ne se cherche que si la question le demande : sans mot de
+    # dénombrement, on n'a aucune raison de croire qu'un mot du message est un
+    # lemme du vault plutôt qu'un mot de la phrase.
+    if demande_un_compte and not idents:
+        for mot in re.findall(r"[\wʾʿ'-]{3,}", tache):
+            try:
+                documents.resoudre_fiche(vault, mot)
+            except ValueError:
+                continue
+            idents = [mot]
+            break
+    for ident in idents:
         sortie["pistes"].append("occurrences " + ident)
+    if demande_un_compte and idents:
+        try:
+            compte = occurrences(vault, idents[0], limite=1)
+            taille = len(json.dumps(compte, ensure_ascii=False))
+            if utilises + taille < budget:
+                sortie["temoins"].append(compte)
+                utilises += taille
+            else:
+                sortie["omissions"].append({"reference": idents[0], "raison": "budget",
+                                            "consulter": "occurrences " + idents[0]})
+        except (ValueError, KeyError, OSError) as e:
+            sortie["omissions"].append({"reference": idents[0], "raison": str(e),
+                                        "consulter": "occurrences " + idents[0]})
     if not sortie["notices"] and not sortie["extraits_du_vault"] and not sortie["temoins"]:
         sortie["omissions"].append({"raison": "aucun résultat ; préciser les termes ou consulter une source extérieure"})
     # Garantir un budget de sortie réel, métadonnées comprises.
@@ -228,7 +273,18 @@ def en_markdown(d):
         if s.get("extrait_partiel"):
             lignes.append("[Extrait partiel : ouvrir la section complète.]")
     for t in d["temoins"]:
-        lignes += ["", "## Témoins : " + t["reference"], json.dumps(t, ensure_ascii=False)]
+        # Deux espèces de témoins : un verset cité par sa référence, et le
+        # compte d'un numéro dans le corpus. Le second porte « strong » et non
+        # « reference » — les nommer d'un seul champ ferait planter le rendu
+        # sur celui qui n'a pas l'autre.
+        if "reference" in t:
+            lignes += ["", "## Témoins : " + t["reference"], json.dumps(t, ensure_ascii=False)]
+        else:
+            titre = t["strong"] + (f" ({t['lemme_demande']})" if t.get("lemme_demande") else "")
+            lignes += ["", "## Témoin du corpus : " + titre,
+                       f"{t['occurrences_mots']} mots · {t['versets']} versets · "
+                       + ", ".join(f"{livre} {n}" for livre, n in t["par_livre"].items()),
+                       "", t["portee"]]
     if d["omissions"]:
         lignes += ["", "Éléments non fournis : " + json.dumps(d["omissions"], ensure_ascii=False)]
     lignes += ["", d["limites"]]
@@ -254,7 +310,48 @@ def num_hebreux(lemme):
     return out
 
 
+def strong_du_lemme(vault, nom):
+    """Le numéro qu'une fiche déclare, lu dans sa rubrique « Source ».
+
+    ==Aucune inférence.== On lit ce que la fiche écrit — la même ligne que le
+    graphe lit déjà —, et rien d'autre : le §2.5 ter pose qu'une résolution
+    fausse n'éteint pas le mot, elle l'envoie ailleurs sans le dire. Une fiche
+    qui ne déclare rien fait donc échouer la résolution, elle ne la devine pas.
+
+    Un tiret déclaré — le cas des mots du Second Temple, que le témoin ne porte
+    pas — n'est pas un numéro : `source_declaree` ne le lit pas, et l'absence
+    remonte telle quelle.
+    """
+    doc = documents.resoudre_fiche(vault, nom)
+    rubrique = None
+    for ligne in doc["lignes"]:
+        titre = re.fullmatch(r"#{2,6}\s+(.*)", ligne.strip())
+        if titre:
+            rubrique = titre[1].rsplit(" / ", 1)[-1]
+            continue
+        if rubrique != "Source":
+            continue
+        source = documents.source_declaree(ligne)
+        if source:
+            # « 2617 a » → « H2617a » : la lettre d'homonyme appartient à la
+            # référence, et les éditions modernes séparent par elle des mots que
+            # Strong avait fondus.
+            return "H" + source[0][0].replace(" ", "")
+    raise ValueError(
+        f"La fiche « {nom} » ne déclare aucun numéro dans sa rubrique « Source ». "
+        "Donner l'identifiant directement, par exemple H6951."
+    )
+
+
 def occurrences(vault, ident, livre=None, limite=10):
+    # **Un lemme est accepté à la place du numéro**, et résolu par la fiche.
+    # Sans ce repli, il fallait déjà savoir que *chesed* est le 2617 pour
+    # demander ses occurrences — c'est-à-dire connaître la réponse pour poser
+    # la question. Le pont lemme → numéro existait dans le vault ; rien ne le
+    # traversait.
+    lemme_demande = None
+    if not re.fullmatch(r"[HG]\d+[a-z]?", ident):
+        lemme_demande, ident = ident, strong_du_lemme(vault, ident)
     langue, numero, homonyme = ident_strong(ident)
     cle = "he-wlc" if langue == "H" else "grc-byz"
     meta = json.loads((vault / "sources/MANIFEST.json").read_text())["sources"][cle]
@@ -283,7 +380,9 @@ def occurrences(vault, ident, livre=None, limite=10):
                         resultats.append({"fichier": p.relative_to(vault).as_posix(), "ligne": ligne,
                                           "reference": v["ref"], "appariements": appariements, "verset": v})
         lus.append({"fichier": p.relative_to(vault).as_posix(), "sha256": empreinte.hexdigest()})
-    return {"strong": ident, "source": cle, "occurrences_mots": total, "versets": versets,
+    return {"strong": ident, **({"lemme_demande": lemme_demande, "resolu_par": "rubrique Source de la fiche"}
+                                if lemme_demande else {}),
+            "source": cle, "occurrences_mots": total, "versets": versets,
             "par_livre": dict(par_livre), "exemples": resultats, "exemples_limites": versets > len(resultats),
             "fichiers_mesures": lus, "attribution": meta["attribution"],
             "portee": "Compte des annotations de cette édition, pas des sens. Sans suffixe, les homonymes annotés sous le même numéro restent inclus.",
