@@ -66,11 +66,25 @@ Le témoin les compte à part, et l'ONT les garde à part :
 
 ==La Source ci-dessous ne porte que la première==, parce qu'elle n'a qu'une
 forme absolue à donner et que ce sont deux graphies. Le **roʿeh** de l'ONT est
-le ==point où les deux se rejoignent== — et ce point est dans la langue, pas
-dans le dictionnaire : ==7203==, le voyant, que Strong distingue, ==n'est
-attesté nulle part dans le témoin==. Ce que le français appelle « le voyant »
-n'a pas de mot à lui en hébreu. Il n'a qu'un participe, et il faut choisir de
-quel verbe.
+le ==point où les deux se rejoignent==.
+
+==Cette fiche affirmait que 7203 « n'est attesté nulle part dans le témoin ».
+C'était faux==, et corrigé le 16 septembre 2026. Le témoin en porte ==six
+occurrences en cinq versets==, dont *1 Samuel* 9:9 — ==le verset que cette
+fiche cite elle-même== quelques lignes plus haut :
+
+    7203 a   הָרֹאֶה    1 Samuel 9:9 (×2), 9:11, 9:18, 9:19   HTd/Vqrmsa
+    7203 b   בָּרֹאֶה   Ésaïe 28:7                              HRd/Ncmsa
+
+Et la morphologie dit ce que l'affirmation fausse empêchait de voir :
+==les cinq emplois de 1 Samuel sont étiquetés participe== — `Vqrmsa`, qal
+participe masculin singulier — et non nom. Le témoin traite donc « le voyant »
+comme ==un participe pourvu d'un article==, ce que cette fiche soutenait. Il
+lui donne simplement un numéro, là où elle croyait qu'il n'en avait aucun.
+
+==Ce que le français appelle « le voyant » n'a toujours pas de mot à lui en
+hébreu.== Il a un participe, et il faut choisir de quel verbe. La conclusion
+tenait ; c'est la preuve qui était fausse.
 
 ## Source
 
