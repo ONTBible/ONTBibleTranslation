@@ -4313,3 +4313,128 @@ session iOS le prend, dans le même lot que sa jointure par `forms`.
 l'app : le jour où `glossary.json` porte une Source, il la recevra sans qu'on l'ait
 prévenu. C'est la même remarque que le 10 septembre sur `prononciation.json`, et
 elle vaut deux jours de suite.
+
+
+---
+
+## 16 septembre 2026 — une base de connaissances, et la classe de défaut qu'aucun contrôle ne voyait
+
+**Le vault a une KB.** Elle est de la session Astra (Codex), écrite les 15 et
+16 septembre : soixante-dix notices attribuées sur sept domaines, consultables
+**sans réseau ni clé d'API**, plus l'accès au vault lui-même — fiches,
+occurrences Strong exactes, apparat SBLGNT, pont Septante.
+
+Elle est admissible au regard du §2.5 ter parce qu'elle **ne copie rien** : les
+renvois documentaires relisent leur source et en citent la ligne avec son
+empreinte ; seules les synthèses nouvelles vivent dans `contenus.json`,
+attribuées et datées. Une base rédigée à la main aurait été une sixième source
+de vérité, et elle aurait divergé.
+
+### Le graphe porte maintenant le corpus, et il dit comment il sait
+
+Il ne portait que les fiches et sa propre bibliographie. Ce que chaque
+**parashah** emploie et nomme n'était nulle part, donc aucune question sur le
+texte lui-même ne pouvait se poser. Cinquante-sept unités, 933 emplois de
+termes, 540 mentions de **Shemot** — 1473 arêtes.
+
+Chaque arête **déclare sa voie de résolution**, et c'est ce qui la rend
+opposable :
+
+    1338  nom_de_fiche          le nom du fichier
+      88  puce_du_2_5           un pluriel que le §2.5 déclare
+      33  graphie_normalisee    espace, tiret, apostrophe ne distinguent rien
+      14  forme_declaree        une forme que la section Formes revendique
+       0  irrésolu
+
+Aucune étape ne devine : chacune lit une déclaration. Le §2.5 ter interdit la
+résolution morphologique pour une raison de **mode d'échec** — une règle qui se
+trompe ne rend pas le mot inerte, elle l'envoie vers la mauvaise fiche sans que
+rien ne le dise. Une cascade de déclarations n'a pas ce défaut.
+
+### La classe de défaut, et c'est le fait de la journée
+
+Deux défauts ont été trouvés cette semaine, tous deux **par accident** :
+
+    malakh / malʾakh          deux fiches, une seule clé sous le slug
+    l'Être façonné du sol     déclaré au §2.5, fiche inatteignable
+
+Le premier aurait fait ouvrir la fiche d'un verbe à 180 mots d'or du messager.
+Le second laissait soixante occurrences pointer vers une fiche que le slug
+n'atteint pas — `l-etre-faconne-du-sol` contre `letre-faconne-du-sol`.
+
+**Aucun des six contrôles du vault ne pouvait les voir**, et la raison est
+structurelle, non un oubli :
+
+> Un contrôle qui vérifie chaque élément contre l'ensemble ne voit jamais deux
+> éléments qui se percutent entre eux.
+
+Ils demandaient *ce terme a-t-il une fiche*, *ce Strong est-il attesté*. Jamais
+*ces deux fiches se recouvrent-elles*, ni *cette déclaration atteint-elle
+quelque chose*. Déclaré et atteignable ne sont pas la même propriété, et rien
+ne testait la seconde.
+
+`knowledge/consulter.py controles` pose les trois questions manquantes, et rend
+`1` sur un constat bloquant. Un lien mort fait une page vide ; une collision de
+clé fait une page **qui ouvre autre chose**, et ça se lit comme la vérité. Les
+deux ne méritent pas le même traitement.
+
+Les collisions sont mesurées **sous les deux règles de slug** — celle qui tourne
+sur `app-store`, et celle qui rend le demi-anneau signifiant. Pendant une
+promotion, les deux comptent.
+
+### Ce que la coordination a payé, et ce qu'elle a rendu
+
+Le correctif des numéros suffixés a été fait par Astra et **validé en lecture
+seule** ici, avec un extracteur écrit séparément. Les deux instruments tombent
+au même endroit sans partager une ligne de code : 365 relations sur 354 fiches,
+zéro écart, zéro preuve fausse.
+
+Cinquante relations manquaient. Quarante-sept portaient un suffixe OSHB refusé —
+et **trois étaient parfaitement bien formées**, tombées parce qu'elles
+partageaient une ligne avec une suffixée. Le rejet était au niveau de la ligne,
+pas de l'élément, et rien dans leur écriture ne les signalait.
+
+Deux corrections de méthode, prises et gardées :
+
+- **un numéro partagé ne prouve ni racine commune ni doublon.** Un construit se
+  déclare à part et partage son numéro ; le corpus le fait huit fois. Le
+  contrôle le rend donc en **signal**, jamais en verdict ;
+- **le suffixe OSHB est signifiant.** `2771 a` n'est pas `2771 b`. Le
+  normaliser referait la faute Haran/Charan du 8 septembre.
+
+### Ce que ça change pour chaque dépôt
+
+**ONTBibleTranslation** — `knowledge/` et `kb-prototype/` entrent par PR ; le
+contrôle est branché à `eprouver`. Une fiche a été renommée :
+`letre-faconne-du-sol.md` devient `l-etre-faconne-du-sol.md`, pour que le slug
+du corpus l'atteigne. Correction de fait, pas arbitrage.
+
+`.claude/settings.json` déclare un hook `UserPromptSubmit` qui injecte un
+dossier dans **chaque message de chaque session Claude ouverte ici**. Ce n'est
+pas une permission, mais ça change le comportement du dépôt — d'où la PR plutôt
+que la fusion directe. Réserve connue : il se déclenche aussi sur un message qui
+n'est pas une tâche.
+
+**ONTBibleApp** — rien à porter : `knowledge/` ne voyage pas dans `dist/`. Mais
+le renommage **change une clé de lemme**, et dans le bon sens : soixante mots
+d'or qui n'ouvraient rien ouvrent maintenant leur fiche. À remesurer après
+fusion.
+
+**ONTBibleWebapp** — le site engendre ses chemins depuis `entree.lemme`
+(`src/main.rs`), donc le renommage **change une URL publique** :
+`/fr/lexique/letre-faconne-du-sol` devient `/fr/lexique/l-etre-faconne-du-sol`.
+C'est une redirection de plus, à ajouter à la table des 44. Sa règle
+l'attrapera seule si elle est bien engendrée depuis `glossary.json` — c'est ce
+que sa méthode a de meilleur sur une table tenue à la main.
+
+### Une leçon de coordination, payée sans dégât
+
+Le travail d'Astra a vécu **non committé dans l'arbre d'une autre branche**
+pendant plusieurs heures, et Codex a épuisé ses jetons avant de pouvoir le
+sauver. Vingt et un fichiers qu'un `git switch` effaçait sans retour — le motif
+du 21 août, évité de justesse.
+
+**Une session qui écrit dans l'arbre d'une autre doit committer tôt**, même sur
+une branche jetable. Et `git worktree` reste la seule garde qui rende le
+conflit impossible au lieu de le rendre déconseillé.
+
