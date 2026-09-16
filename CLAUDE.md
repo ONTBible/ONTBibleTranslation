@@ -1,6 +1,8 @@
 # ONT — ONTOLOGIE NOUVELLE TRADUCTION
 ## DOCUMENT DE RÉFÉRENCE COMPLET POUR LA TRADUCTION AUTONOME
 
+@knowledge/ASSISTANTS.md
+
 > ## À faire à la fin de **chaque** travail, sans exception
 >
 > Ce dépôt est l'un de ceux d'un même projet, rangés côte à côte sous

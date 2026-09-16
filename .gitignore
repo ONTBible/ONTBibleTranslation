@@ -28,3 +28,6 @@ af/
 
 # Le cache de bytecode Python du script de balisage.
 __pycache__/
+
+# Propositions locales avec préimages, à régénérer avant leur application.
+knowledge/preparation/
