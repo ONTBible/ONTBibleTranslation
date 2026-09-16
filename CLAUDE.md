@@ -778,6 +778,45 @@ c'est, il ne dit pas ce qu'il veut dire==. *Esther* emploie `parashah` pour
 l'exposé d'une somme et l'ONT pour la division du texte — ==même lemme, autre
 emploi==, et le numéro identifie sans arbitrer.
 
+**Avant de refuser une dérivation, la mesurer.** Décision de l'auteur du
+16 septembre 2026, et c'est une règle de méthode plutôt qu'une convention
+d'écriture.
+
+Ce document interdit les devinettes, et à bon droit : le §2.5 ter pose qu'une
+résolution fausse ==n'éteint pas le mot, elle l'envoie ailleurs sans le dire==.
+Mais s'abstenir sans mesure est ==le même défaut par l'autre bout== — on affirme
+sans chiffre dans un cas, on renonce sans chiffre dans l'autre.
+
+==Le témoin fournit presque toujours l'échantillon de contrôle.== Pour savoir si
+l'on peut ôter l'article d'un nom, il suffit de prendre ==tous les mots qu'il
+écrit des deux façons==, de dériver l'un depuis l'autre comme si l'on ne savait
+pas, et de compter. Mille quatre cent quatre-vingt-deux paires étaient
+disponibles ; personne ne les avait regardées.
+
+**Le protocole, et il faut les trois étapes :**
+
+1. ==dériver sur les cas dont le témoin donne la réponse==, et compter ;
+2. ==regarder ce qui reste faux==, et chercher sa cause dominante — pas la
+   supposer. Deux hypothèses ont été formées puis réfutées avant la bonne ;
+3. ==séparer l'erreur de la variation d'orthographe==. Un scribe note une
+   voyelle par une lettre-support ou par un point seul, et les deux graphies
+   sont le même mot. Sans cette distinction on mesure le manuscrit, pas la règle.
+
+    ôter le point systématiquement            70,0 %
+    garder le point sur ב ג ד כ פ ת          82,3 %
+    et l'orthographe comptée à part           98,1 %
+
+**Ce que le chiffre autorise.** 98,1 % sur l'ensemble, ==97,3 % sur les
+gentilés== — la population qui importait. Un taux mesuré sur ==la bonne
+population== vaut mieux qu'un taux global, et les deux se calculent aussi
+facilement.
+
+==Il ne dispense pas de regarder.== Un taux dit ce qu'une méthode vaut en
+moyenne ; il ne dit pas si ce cas-ci est le mauvais. La forme dérivée se lit
+avant d'être écrite, et la fiche déclare qu'elle est ==dérivée et non
+attestée== — le précédent est celui de **chuqqah**, dont la forme de base n'est
+portée par aucun verset.
+
 **Garder la lettre des homographes.** Strong avait fondu des mots que l'érudition
 a séparés depuis, et les éditions modernes les distinguent par une lettre :
 `1254 a` n'est pas `1254 b`. ==C'est une distinction réelle, elle se garde.==

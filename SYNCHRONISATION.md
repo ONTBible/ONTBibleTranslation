@@ -4474,3 +4474,49 @@ du 21 août, évité de justesse.
 une branche jetable. Et `git worktree` reste la seule garde qui rende le
 conflit impossible au lieu de le rendre déconseillé.
 
+### Mesurer au lieu de refuser — et le protocole qui fait passer 70 % à 98 %
+
+**Proposé par l'auteur**, contre une prudence de cette session. Huit fiches
+portaient un nom de peuple avec son article là où le §2.5 ter veut la forme de
+dictionnaire, et j'avais refusé de la dériver : *« écrire une forme nue
+reviendrait à inventer une vocalisation »*.
+
+La question posée était meilleure que mon refus : ==est-ce vraiment
+indéductible, et à combien de pour cent ?==
+
+**Le témoin fournissait l'échantillon**, et personne ne l'avait regardé : 1482
+paires de mots qu'il écrit ==à la fois avec et sans article==, de même
+morphologie. On dérive l'un depuis l'autre comme si l'on ne savait pas, et on
+compte.
+
+    ôter le point systématiquement            70,0 %
+    garder le point sur ב ג ד כ פ ת          82,3 %
+    l'orthographe comptée à part              98,1 %
+    sur les seuls gentilés                    97,3 %
+
+**Trois leçons, et la troisième est la moins évidente.**
+
+==La cause dominante se cherche, elle ne se suppose pas.== Deux hypothèses ont
+été formées sur le vu des erreurs et réfutées par la mesure : les gutturales
+feraient chuter le taux — elles font mieux ; les gentilés seraient réguliers —
+ils étaient la pire catégorie. Les exemples qu'on a sous les yeux ne sont pas un
+échantillon.
+
+==Une variation d'orthographe n'est pas une erreur de règle.== 15,8 % des cas
+étaient le même mot écrit autrement — une voyelle notée par une lettre-support
+ou par un point seul. Sans les séparer, on mesure le manuscrit et non
+l'opération.
+
+==Le taux se calcule sur la population qui importe.== 82,3 % en général, 97,3 %
+sur les gentilés. Les deux coûtent la même commande.
+
+**Et le défaut que ça nomme**, parce qu'il est le symétrique de celui que ce
+journal traque depuis le 30 août : on connaissait ==l'affirmation sans mesure==.
+Voici ==l'abstention sans mesure==, qui a la même racine et se déguise en
+prudence. Refuser de dériver sans avoir mesuré si l'on pouvait n'est pas plus
+rigoureux qu'affirmer sans avoir compté.
+
+**Pour les trois dépôts** — la même question vaut partout où l'on décline une
+déduction : *combien de cas connus donneraient la réponse, et quel taux
+atteint-on ?* Le vault avait 1482 paires sous la main.
+
