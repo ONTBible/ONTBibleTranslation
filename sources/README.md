@@ -197,7 +197,7 @@ dire ce que sa numérotation en fait.
 aucun témoin exploitable et librement réutilisable n'a encore été obtenu :
 
     06  Yovelim                    39  Chazon Avraham
-    36  Toledot Adam ve-Chavah     40  Tsava'at Levi
+    36  Toledot Adam ve-Chavah     40  Tsavaʾat Levi
     37  Sefar Gibbaraya            43  Chazon Barukh
 
 Ils survivent en guèze, en slavon, en syriaque ou par fragments araméens. Pour

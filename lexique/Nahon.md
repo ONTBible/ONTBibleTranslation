@@ -1,10 +1,18 @@
 # Nahon
 
+## Prononciation
+
+*Na-HON* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *h* est un ==he== : un vrai souffle, comme le *h* de l'anglais *house*. ==Il se prononce — il n'est pas muet comme en français==.
+
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 ## Le dieu de fer, et ce qu'on trouve à ses pieds
 
 Il ne parle pas, il n'agit pas, et le récit ne dit rien de lui — sauf une chose, qui suffit : ==c'est à ses pieds qu'on trouve [[Merumath]] tombé==.
 
-Un dieu de pierre gisant face contre terre devant un dieu de fer. La position est exactement celle que l'homme prend devant **YHWH**, et que prendra [[Avraham]] lui-même en *Bereshit* 17:3. Personne ne l'y a mis. La scène est là quand l'enfant entre, et c'est par elle que le livre commence.
+Un dieu de pierre gisant face contre terre devant un dieu de fer. La position est exactement celle que l'homme prend devant **YHWH**, et que prendra [[ʾAvraham]] lui-même en *Genèse* 17:3. Personne ne l'y a mis. La scène est là quand l'enfant entre, et c'est par elle que le livre commence.
 
 ## Trois manuscrits, trois noms
 

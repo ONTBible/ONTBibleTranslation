@@ -1,5 +1,11 @@
 # Shelef
 
+## Prononciation
+
+*She-LEF* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
 ## Le Shem
 
 De *shalaf* (*shalaf* / שָׁלַף) — ==tirer, extraire==, comme on tire une épée de son fourreau.
@@ -14,4 +20,8 @@ Dans une liste où les noms disent la mesure, la lune, le palmier et la splendeu
 
 ## Voir aussi
 
-Sa maison : [[Yoqtan]] son père, [[Ever]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+Sa maison : [[Yoqtan]] son père, [[ʿEver]] son grand-père ; ses douze frères peuplent la péninsule arabique.
+
+## Source
+
+8026 · שָׁלֶף

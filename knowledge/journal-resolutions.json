@@ -1,0 +1,96 @@
+{
+  "type": "resolutions_pour_proposition_non_appliquee",
+  "date_revue": "2026-09-15",
+  "reference_historique": {
+    "depot": "ONTBibleApp",
+    "ref_locale": "origin/dev",
+    "commit": "bf100b40f7502ead968dc40e9cafda6ed402c940"
+  },
+  "entrees": {
+    "20 août 2026 — le lexique du lecteur sort de `CLAUDE.md`": {
+      "sha256_corps_normalise": "9fa985b5100e97bd00369fed7580e391ae6c0c73a08915617b35448125757c6f",
+      "variantes_examinees": [
+        "8b94b2019ef256c22b9473d6aab5eafec719472556d90d6767e693b39e11c7e6",
+        "9fa985b5100e97bd00369fed7580e391ae6c0c73a08915617b35448125757c6f"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "20 août 2026 — le relevé des noms propres avait trois trous": {
+      "sha256_corps_normalise": "df30965f2cac2c7f9035c6e7509249b134cd5ed098b18ee5426f8648fc988477",
+      "variantes_examinees": [
+        "1c0d9d2f9960a1b650651d60fd96afa1e45d8b9bf5b30d2fe83c9569a15d68b1",
+        "df30965f2cac2c7f9035c6e7509249b134cd5ed098b18ee5426f8648fc988477"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "25 août 2026 — trois compteurs au vert, et une forme mal rangée dessous": {
+      "sha256_corps_normalise": "c5b035c0055b89467c3388bcad71e34d41ff8b2a5dcfd421524e68ff94b01671",
+      "variantes_examinees": [
+        "47441c677237a8c8f5c74ee19eac68e081031a8ee2a43cf68c4da81c62ef630a",
+        "c5b035c0055b89467c3388bcad71e34d41ff8b2a5dcfd421524e68ff94b01671"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "26 août 2026 — le rattrapage d'Android sur iOS, et ce qu'il a appris": {
+      "sha256_corps_normalise": "e62412818d0fccad3abc641027c5fff6e6628516ab1bb600ca8ca3b896f9101f",
+      "variantes_examinees": [
+        "15c47c82dcbcdb83b6d9f03d3fed518c23314624e9756679d7c0fbd2c8c98709",
+        "e62412818d0fccad3abc641027c5fff6e6628516ab1bb600ca8ca3b896f9101f"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "30 août 2026 — la troisième couche du texte, et ce qu'un type fait qu'un lien ne fait pas": {
+      "sha256_corps_normalise": "227c87ea0992fd3405ece9105ecc1d7823a431d691f465af719f80cb0251abd6",
+      "variantes_examinees": [
+        "227c87ea0992fd3405ece9105ecc1d7823a431d691f465af719f80cb0251abd6",
+        "eddb6216c3e526a3f81a789a51fc07b7936b2362a427761d4a5a88b865f29fe7"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "26 août 2026 — la glose des livres n'arrivait pas jusqu'à l'app": {
+      "sha256_corps_normalise": "82a49bf8aaad269089cb93bab0f1994c5c4f6acd2c19e3ece14518bbfa80778a",
+      "variantes_examinees": [
+        "7d3b589724a11495ad15107053a532b41a1190ee19fb2a1a2ff8f6aab0d4f914",
+        "82a49bf8aaad269089cb93bab0f1994c5c4f6acd2c19e3ece14518bbfa80778a"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "1ᵉʳ septembre 2026 — une stratigraphie écrite sans son apparat": {
+      "sha256_corps_normalise": "3787d71a96a8bc7c4da60f30c14df0f9a3de1689d15fe8546c407dda40a691c2",
+      "variantes_examinees": [
+        "3787d71a96a8bc7c4da60f30c14df0f9a3de1689d15fe8546c407dda40a691c2",
+        "9c289c76e1cb0927be3bb36a3d5731200feb21cad2e15ce3dba55086f8969cfb"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "2 septembre 2026 — le pipeline d'un arbre périmé rend un rapport faux": {
+      "sha256_corps_normalise": "cce987b9be11bcac3038f6880cb8b614b3ae5f9e7ffeec4033efa0280bfaef08",
+      "variantes_examinees": [
+        "588aa75835d46b3cbe6c85cd3e678c88038673cc7d37dab91cde683ab0dce8ab",
+        "5a92ab78b69745cac8e6afa5c3df6ce520affe88bc85ecfab8dce12431f2ebce",
+        "cce987b9be11bcac3038f6880cb8b614b3ae5f9e7ffeec4033efa0280bfaef08"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    },
+    "8 septembre 2026 — une règle que son porteur viole n'est pas violée, elle a un périmètre non écrit": {
+      "sha256_corps_normalise": "2b97f0a8b36d2f61381ee6f752d213b945ec19d49c06ba48c5386fd7d0a927c6",
+      "variantes_examinees": [
+        "2b97f0a8b36d2f61381ee6f752d213b945ec19d49c06ba48c5386fd7d0a927c6",
+        "55f5b9f2762782e537395128e75c91e2bf63af54becb1b231bdf7c74d5eda905"
+      ],
+      "motif": "Conserver la graphie de cette entrée historique attestée dans la référence locale origin/dev de l’app ; les exemples techniques gardent leurs caractères originaux."
+    }
+  },
+  "preambules": {
+    "base": "ba3f2a9c28d14932060130bcdcf98d056e77067b2b5f673a7c64026c8a56f16a",
+    "vault": "0c9e2524449e54c86cb0ee4513ec2d8c20f986314beb0d0828fb3fbbdc65189b",
+    "complement": "f5e03170b7819afef2f6cd07c5f7a30db0b66e124223070d036bae4055642070"
+  },
+  "preambules_examines": [
+    "0c9e2524449e54c86cb0ee4513ec2d8c20f986314beb0d0828fb3fbbdc65189b",
+    "ba3f2a9c28d14932060130bcdcf98d056e77067b2b5f673a7c64026c8a56f16a",
+    "ba83dc0f7b848f1f296aecaaf83412ef5eeebff07e19549e6265dbe975e2d97a",
+    "f5e03170b7819afef2f6cd07c5f7a30db0b66e124223070d036bae4055642070"
+  ],
+  "motif_preambule": "Fusion des ajouts non concurrents : migration du journal local et translittération du nom interne depuis le vault ; règle de placement des worktrees et correction quatre/toutes depuis le complément. Le préambule de base sert uniquement d’ancêtre textuel."
+}

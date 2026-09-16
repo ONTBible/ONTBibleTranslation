@@ -63,10 +63,21 @@ jobs:
         with:
           path: ONTBibleTranslation
 
+      # La branche est nommée, et elle doit l'être. Sans `ref:`, `checkout`
+      # prend la branche par défaut du dépôt — aujourd'hui `app-store`, mais
+      # rien ici ne le dit et rien ne préviendrait si elle changeait. Le vault
+      # changerait de juge sans qu'une ligne de ce fichier ne bouge.
+      #
+      # `app-store` est le bon juge, et c'est un choix : le vault s'éprouve
+      # contre le pipeline **livré**, non contre celui qu'on est en train
+      # d'écrire. Éprouver contre `device` rendrait le vault vert grâce à du
+      # code que personne n'a reçu — on échangerait un faux rouge contre un
+      # faux vert.
       - name: Le pipeline
         uses: actions/checkout@v4
         with:
           repository: ONTBible/ONTBibleApp
+          ref: app-store
           path: ONTBibleApp
 
       # Ce que le pipeline lit, et ce que la propagation surveille.
@@ -97,6 +108,17 @@ jobs:
       # Le contrôle ne le régénère pas à la place de l'auteur : il **échoue**,
       # et dit la commande. Régénérer en silence dans la CI ferait diverger le
       # dépôt de ce qui a été relu.
+      - name: La base de connaissances retrouve ses preuves
+        run: |
+          cd ONTBibleTranslation
+          python3 knowledge/consulter.py verifier
+          python3 knowledge/consulter.py controles
+          python3 -m unittest discover -s kb-prototype -p 'test_*.py'
+          python3 -m unittest discover -s knowledge -p 'test_*.py'
+          python3 knowledge/evaluer.py
+          python3 knowledge/evaluer.py --hook
+          python3 knowledge/evaluer.py --hook --hook-config knowledge/codex-hooks.proposition.json
+
       - name: L'index des décisions est à jour
         run: |
           cd ONTBibleTranslation

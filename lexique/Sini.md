@@ -1,5 +1,9 @@
 # Sini
 
+## Prononciation
+
+*Si-NI* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 (*Sini* / הַסִּינִי) — probablement un peuple de la ==côte libanaise==, peut-être le site de Sin, entre Arqa et Tripoli.
@@ -14,4 +18,8 @@ La règle de l'ONT est de ne pas fabriquer une histoire à qui n'en a pas. ==Il 
 
 ## Voir aussi
 
-Sa maison : [[Kena'an]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Het]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Hivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Hamati]].
+Sa maison : [[Kenaʿan]] son père, [[Cham]] son grand-père ; ses frères [[Tsidon]], [[Chet]], [[Yevousi]], [[Emori]], [[Girgashi]], [[Chivi]], [[Arqi]], [[Sini]], [[Arvadi]], [[Tsemari]], [[Chamati]].
+
+## Source
+
+5513 · הַסִּינִי

@@ -1,5 +1,11 @@
 # Tsevoyim
 
+## Prononciation
+
+*Tse-vo-YIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 (*Tsevoyim* / צְבֹיִים) — l'une des cinq villes de la plaine, dont le roi est [[Shemever]].
@@ -12,10 +18,10 @@ Elle appartient aux cinq villes soumises à [[Kedorlaomer]] et révoltées aprè
 
 Et elle sera anéantie avec [[Sedom]] — mais ==pour une autre raison et bien plus tard==. Le corpus ne confond pas les deux événements, et l'ONT non plus : ==la guerre des rois n'est pas le **mishpat**==.
 
-*Hoshea* 11:8 la reprendra dans la bouche de **YHWH**, avec [[Adma]], pour dire ==ce qu'il ne veut pas faire== à son propre peuple.
+*Osée* 11:8 la reprendra dans la bouche de **YHWH**, avec [[ʾAdmah]], pour dire ==ce qu'il ne veut pas faire== à son propre peuple.
 
 ## Voir aussi
 
-Son roi : [[Shemever]] ; ses jumelles [[Sedom]], [[Amorah]], [[Adma]], [[Bela]].
+Son roi : [[Shemever]] ; ses jumelles [[Sedom]], [[ʿAmorah]], [[ʾAdmah]], [[Belaʿ]].
 
 Sa graphie voisine : [[Tsevoim]].
