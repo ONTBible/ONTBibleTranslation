@@ -175,6 +175,15 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
   où elle paraît vingt fois de suite puis presque plus jamais dans la Torah : celui
   qui a ordonné le cosmos est celui qui parle à cet homme-là. ==Ne pas anticiper le
   traitement de **YHWH**==, que le §7 réserve à *Exode* 3:1-15.
+- `**ʾAdonai YHWH**` — deux mots, les deux en gras, et ==un lemme à part== comme
+  `**YHWH Elohim**`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit
+  le Nom ==avec d'autres voyelles que partout ailleurs== — יְהוִה et non יְהוָה —, et
+  les lexiques lui donnent pour cela ==un numéro distinct==, 3069. Ce n'est pas un
+  second Nom : c'est ==une seconde consigne de lecture==, pour le cas où la
+  première se répéterait. Mesuré sur le témoin : ==306 emplois sur 306== ont
+  **ʾAdonai** adjacent, devant ou derrière, sans une exception. Le niveau 3 du
+  corps la rend touchable ==sans qu'aucun verset change==. Premier emploi
+  *Genèse* 15:2.
 - `**ʾEl ʿElyon**` — deux mots, les deux en gras. Combiné : `**YHWH** **ʾEl ʿElyon**`. Premier emploi *Bereshit* 14.
 - `**ʾEl Roï**` — deux mots, les deux en gras. Premier emploi *Genèse* 16:13.
 - `**Kohen**` / `**kohen**` / `**kohanim**` / `**kohen gadol**`. Premier emploi *Genèse* 14:18.
