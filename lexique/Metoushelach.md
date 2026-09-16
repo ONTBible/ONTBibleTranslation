@@ -1,5 +1,13 @@
 # Metoushelach
 
+## Prononciation
+
+*Me-tou-she-LACH* — quatre syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'est *sh* qui porte ce son, jamais *ch*==.
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
 ## Le Shem
 
 Le nom s'écrit (*Metoushelach* / מְתוּשֶׁלַח), et son étymologie est débattue — les deux lectures disponibles sont très différentes.
@@ -25,3 +33,7 @@ Sa maison : [[Chanokh-qui-marche-avec-Elohim]] son père, [[Lamekh-fils-de-Metou
 Le **Shem** voisin qu'il ne faut pas confondre : [[Metoushael]], de la ligne de [[Qayin]] — un nom proche, une autre lignée.
 
 Ce que son **Shem** touche : le **mabbul** dont le chapitre laisse calculer la date, et la mort à laquelle son père a échappé.
+
+## Source
+
+4968 · מְתוּשֶׁלַח

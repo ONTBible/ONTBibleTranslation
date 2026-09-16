@@ -1,5 +1,9 @@
 # Nimrod
 
+## Prononciation
+
+*Nim-ROD* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
 ## Le Shem
 
 L'étymologie est incertaine, et le corpus ne la propose pas. On y entend peut-être *marad* (*marad* / מָרַד) — ==se rebeller, résister== — mais rien dans le texte ne le confirme.
@@ -22,7 +26,7 @@ Un homme est donc le point où ==la force brute devient un État==.
 
 Elles ne sont pas choisies au hasard, et le corpus les nomme avec soin.
 
-De [[Shin'ar]] : [[Bavel]], [[Erekh]], [[Akkad]] — les plus vieilles cités du monde. Puis il sort vers Assur et bâtit [[Ninveh]].
+De [[Shinʿar]] : [[Bavel]], [[ʾErekh]], [[ʾAkkad]] — les plus vieilles cités du monde. Puis il sort vers Assur et bâtit [[Ninveh]].
 
 ==Ce sont les deux capitales qui broieront Israël==. Le lecteur du corpus prophétique les connaît comme les puissances de la déportation, et la table des nations les inscrit ici, à leur fondation, ==sans une once de polémique==.
 
@@ -32,6 +36,10 @@ C'est la manière du texte : il pose, et il attend. La charge s'accumulera aille
 
 Sa maison : [[Koush]] son père, [[Cham]] son grand-père, [[Noach]] son arrière-grand-père.
 
-Ce qu'il fonde : [[Bavel]], [[Erekh]], [[Akkad]], [[Ninveh]].
+Ce qu'il fonde : [[Bavel]], [[ʾErekh]], [[ʾAkkad]], [[Ninveh]].
 
-Ce que son **Shem** touche : les **gibborim** et les **Nephilim** d'avant le **mabbul**, et le *mamlakhah* dont il est le premier.
+Ce que son **Shem** touche : les **gibborim** et les **Nefilim** d'avant le **mabbul**, et le *mamlakhah* dont il est le premier.
+
+## Source
+
+5248 · נִמְרֹד

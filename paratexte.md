@@ -28,7 +28,7 @@ L'hébreu a deux marques du pluriel — et elles ne fonctionnent pas comme le pl
   - *Elohim* — grammaticalement pluriel, fonctionnellement singulier : la totalité de la puissance divine
   - *shamayim* (Cieux) — toujours pluriel, jamais *shama*
   - *mayim* (eaux) — toujours pluriel : l'eau comme réalité cosmique totale
-  - *goyim*, *devarim*, *anashim*, *mal'akhim*
+  - *goyim*, *devarim*, *anashim*, *malʾakhim*
 
 - **-ot** — *là où le mot porte le mouvement inverse* : un pluriel **borné**, une multiplicité délimitée.
   - *toledot*, *olot*, *berakot*

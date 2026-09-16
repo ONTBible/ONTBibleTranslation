@@ -28,6 +28,11 @@ from pathlib import Path
 RACINE = Path(__file__).resolve().parent.parent
 SOURCES = RACINE / "sources"
 
+# Les dossiers de `sources/` qui ne sont **pas** des témoins et qu'on ne
+# déclare pas : le manifeste est le seul interrupteur, et ce qui n'y figure
+# pas n'atteint jamais le lecteur.
+OUTILS = {"pont-septante"}
+
 # Ce qu'un mot a le droit de porter, par source. Un champ inattendu est une
 # fuite : soit une donnée amont non déclarée, soit de la couche ONT qui
 # descend dans un espace sous licence étrangère.
@@ -60,9 +65,24 @@ def main() -> int:
 
     declarees = set(doc.get("sources", {}))
     sur_disque = {d.name for d in SOURCES.iterdir() if d.is_dir()}
-    if declarees != sur_disque:
+    # **Nommer, plutôt qu'exempter.** Un dossier non déclaré est presque
+    # toujours un oubli : la donnée est là, le manifeste l'ignore, le pipeline
+    # n'émet rien, et rien ne le dit. Le contrôle doit donc rester dur.
+    #
+    # Mais un dossier peut être non déclaré **par décision** — c'est le cas du
+    # pont, outil de travail que l'auteur a voulu invisible au lecteur le
+    # 9 septembre 2026. Une liste d'exceptions vieillirait ; un nom tient. On
+    # énumère donc ceux dont la non-déclaration est *l'intention*, et toute
+    # autre absence reste une plainte.
+    manquants = sur_disque - declarees - OUTILS
+    fantomes = declarees - sur_disque
+    if manquants or fantomes:
         plainte(f"le manifeste déclare {sorted(declarees)} ; "
                 f"le disque porte {sorted(sur_disque)}")
+    for outil in OUTILS & sur_disque:
+        if outil in declarees:
+            plainte(f"{outil} : déclaré au manifeste alors qu'il est un outil "
+                    "de travail — il deviendrait visible au lecteur")
 
     for cle, meta in doc.get("sources", {}).items():
         # -- l'attribution voyage avec la source, jamais dans un écran à part --

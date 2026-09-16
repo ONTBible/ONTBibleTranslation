@@ -1,5 +1,11 @@
 # Mitsrayim
 
+## Prononciation
+
+*Mits-ra-YIM* — trois syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ts* est un ==tsade== : d'un seul geste, comme dans « tsar ».
+
 ## Le Shem
 
 La forme du mot est ==un duel== — (*Mitsrayim* / מִצְרַיִם), la terminaison *-ayim* de ce qui va par deux, comme les mains ou les yeux. On y a lu ==les deux pays== : la Haute et la Basse vallée, réunies sous une couronne.
@@ -24,8 +30,12 @@ Et c'est là que le peuple sera un jour ==affligé== — le même verbe, *anah*,
 
 ## Voir aussi
 
-Sa maison : [[Cham]] son père, [[Koush]] son frère, [[Kena'an]] son frère.
+Sa maison : [[Cham]] son père, [[Koush]] son frère, [[Kenaʿan]] son frère.
 
 Ce que son **Shem** touche : [[Hagar]] la Mitsrit, la descente d'Avram, et l'affliction qui répond à l'affliction.
 
 Ce qui reste à écrire : le pays traverse *Bereshit* 12, 16, 37-50 et tout *Shemot* ; cette fiche s'enrichira à mesure.
+
+## Source
+
+4714 · מִצְרַיִם

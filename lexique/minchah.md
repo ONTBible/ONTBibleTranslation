@@ -1,5 +1,13 @@
 # minchah
 
+## Prononciation
+
+*min-CHAH* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
+
+Le *ch* est un ==het== : serre le fond de la gorge comme pour souffler sur une vitre, et souffle. ==Jamais le « ch » de « chat »==, qui se fait avec la langue à l'avant.
+
+La voyelle devant le *n* ==n'est pas nasale== : on détache, jamais le « on » de « bon » ni le « an » de « banc ».
+
 Un petit roi apporte des présents à un roi plus grand. Ce n'est pas un cadeau — c'est ==la reconnaissance d'une autorité supérieure==, et tout le monde le comprend ainsi : celui qui apporte reconnaît celui qui reçoit. Le mot pour ce geste est ==minchah== (*minchah* / מִנְחָה).
 
 C'est le vocabulaire du ==vassal envers son suzerain==, et il est courant dans tout le Proche-Orient. On envoie une ==minchah== quand on veut dire qu'on ne conteste pas le rang de l'autre. La refuser, ou refuser de l'apporter, est une déclaration.
@@ -11,3 +19,7 @@ Et le texte dit alors une chose que les traductions rendent d'ordinaire trop vit
 Ce qui suit le confirme : **YHWH** parle à ==Qayin== avant qu'il ait rien fait, et ne discute pas de son offrande. Il lui parle de ce qui est tapi à sa porte, et de ce qu'il a charge de gouverner.
 
 Le mot deviendra plus tard, dans les textes du service, le nom d'une offrande précise — végétale, de farine et d'huile. Mais la logique du vassal reste dessous : apporter, c'est ==reconnaître un rang==.
+
+## Source
+
+4503 · מִנְחָה

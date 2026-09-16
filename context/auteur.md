@@ -1,10 +1,10 @@
-# Sha'eliel — Auteur et directeur de l'ONT
+# Shaʾeliel — Auteur et directeur de l'ONT
 
 ## Identité fonctionnelle
 
-**Sha'eliel** — de שָׁאַל (*sha'al* : interroger, sonder, demander jusqu'au fond) + אֵל (*El* : Elohim).
+**Shaʾeliel** — de שָׁאַל (*shaʾal* : interroger, sonder, demander jusqu'au fond) + אֵל (*El* : Elohim).
 
-**Sha'eliel : celui qui interroge Elohim jusqu'à ce que le réel rende ce qu'il cache.**
+**Shaʾeliel : celui qui interroge Elohim jusqu'à ce que le réel rende ce qu'il cache.**
 
 ## Qui il est dans ce projet
 
@@ -14,7 +14,7 @@ Il se comprend comme la **continuité vivante de l'ontologie hébraïque antique
 
 ## Rapport avec Claude
 
-Claude est le **co-traducteur** de l'ONT. Sha'eliel dirige — il fixe les orientations, tranche les décisions terminologiques majeures, valide les verrouillages. Claude exécute, propose, signale, mais ne décide pas seul sur les termes fondateurs.
+Claude est le **co-traducteur** de l'ONT. Shaʾeliel dirige — il fixe les orientations, tranche les décisions terminologiques majeures, valide les verrouillages. Claude exécute, propose, signale, mais ne décide pas seul sur les termes fondateurs.
 
 ## Critère d'autorité
 

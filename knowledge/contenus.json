@@ -1,0 +1,2061 @@
+{
+  "version": 1,
+  "description": "Notices de référence et parcours de lecture pour le travail ONT. Les renvois locaux restituent la source à chaque consultation ; les synthèses externes sont attribuées.",
+  "sources": {
+    "oshb": {
+      "titre": "Open Scriptures Hebrew Bible — Hebrew Morphology Codes",
+      "url": "https://hb.openscriptures.org/parsing/HebrewMorphologyCodes.html",
+      "consulte_le": "2026-09-14",
+      "attribution": "Open Scriptures Hebrew Bible, CC BY 4.0",
+      "limite": "Nomenclature d'analyse ; ne fournit pas à elle seule une traduction."
+    },
+    "gkc89": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §89",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/89._The_Genitive_and_the_Construct_State",
+      "consulte_le": "2026-09-14",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Référence historique : confronter les analyses aux attestations et aux travaux ultérieurs."
+    },
+    "gkc52": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §52",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/52._Pi%CA%BF%C4%93l_and_Pu%CA%BFal",
+      "consulte_le": "2026-09-14",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "La terminologie grammaticale est celle de cette édition."
+    },
+    "gkc113": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §113",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/113._The_Infinitive_Absolute",
+      "consulte_le": "2026-09-14",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Les valeurs doivent être déterminées en contexte."
+    },
+    "ontolex": {
+      "titre": "Lexicon Model for Ontologies — Community Report, 10 May 2016",
+      "url": "https://www.w3.org/2016/05/ontolex/",
+      "consulte_le": "2026-09-14",
+      "attribution": "W3C Ontology-Lexica Community Group",
+      "limite": "Rapport de groupe communautaire, pas une recommandation W3C."
+    },
+    "iaa_histoire": {
+      "titre": "Israel Antiquities Authority — Historical Timeline",
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/historical-timeline?locale=en_US",
+      "consulte_le": "2026-09-14",
+      "attribution": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library",
+      "limite": "Repères chronologiques ; ne datent pas individuellement chaque composition."
+    },
+    "iaa_decouverte": {
+      "titre": "Israel Antiquities Authority — Discovery and Publication",
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication",
+      "consulte_le": "2026-09-14",
+      "attribution": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library",
+      "limite": "Présentation institutionnelle générale ; consulter la notice du manuscrit pour un cas précis."
+    },
+    "rdf11": {
+      "titre": "RDF 1.1 Primer — §§3–5",
+      "url": "https://www.w3.org/TR/rdf11-primer/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, note du groupe RDF, 2014",
+      "limite": "Introduction au modèle RDF 1.1 ; la KB locale ne constitue pas un moteur RDF."
+    },
+    "skos": {
+      "titre": "SKOS Primer — §§2.1–2.3",
+      "url": "https://www.w3.org/TR/skos-primer/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, note du groupe Semantic Web Deployment, 2009",
+      "limite": "Organisation documentaire des concepts ; ne garantit pas une équivalence lexicale entre langues."
+    },
+    "shacl": {
+      "titre": "Shapes Constraint Language — validation et cardinalités",
+      "url": "https://www.w3.org/TR/shacl/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, recommandation du 20 juillet 2017",
+      "limite": "La conformité porte sur les contraintes déclarées, pas sur la vérité historique du contenu."
+    },
+    "prov": {
+      "titre": "PROV-O — §3.1 et propriétés de dérivation",
+      "url": "https://www.w3.org/TR/prov-o/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, recommandation du 30 avril 2013",
+      "limite": "Vocabulaire de provenance ; aucune attribution ne constitue à elle seule une preuve de fiabilité."
+    },
+    "owl2": {
+      "titre": "OWL 2 Primer, deuxième édition — §§2–4",
+      "url": "https://www.w3.org/TR/owl2-primer/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, recommandation du 11 décembre 2012",
+      "limite": "Présentation informative ; aucun raisonneur OWL n’est installé par ces notices."
+    },
+    "sparql11": {
+      "titre": "SPARQL 1.1 Query Language",
+      "url": "https://www.w3.org/TR/sparql11-query/",
+      "consulte_le": "2026-09-15",
+      "attribution": "W3C, recommandation du 21 mars 2013",
+      "limite": "Langage de requêtes sur RDF ; les commandes locales ne sont pas une interface SPARQL."
+    },
+    "gkc114": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §114",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/114._The_Infinitive_Construct",
+      "consulte_le": "2026-09-15",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Analyse historique explicitement attribuée ; comparer les attestations et les travaux ultérieurs avant de conclure."
+    },
+    "gkc116": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §116",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/116._The_Participles",
+      "consulte_le": "2026-09-15",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Analyse historique explicitement attribuée ; comparer les attestations et les travaux ultérieurs avant de conclure."
+    },
+    "gkc152": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §152",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/152._Negative_Sentences",
+      "consulte_le": "2026-09-15",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Analyse historique explicitement attribuée ; comparer les attestations et les travaux ultérieurs avant de conclure."
+    },
+    "uhg_perfect": {
+      "titre": "unfoldingWord Hebrew Grammar — Verb Perfect",
+      "url": "https://uhg.readthedocs.io/en/latest/verb_perfect.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_imperfect": {
+      "titre": "unfoldingWord Hebrew Grammar — Verb Imperfect",
+      "url": "https://uhg.readthedocs.io/en/latest/verb_imperfect.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_niphal": {
+      "titre": "unfoldingWord Hebrew Grammar — Stem Niphal",
+      "url": "https://uhg.readthedocs.io/en/latest/stem_niphal.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_hiphil": {
+      "titre": "unfoldingWord Hebrew Grammar — Stem Hiphil",
+      "url": "https://uhg.readthedocs.io/en/latest/stem_hiphil.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_objet": {
+      "titre": "unfoldingWord Hebrew Grammar — Particle Direct Object Marker",
+      "url": "https://uhg.readthedocs.io/en/latest/particle_direct_object_marker.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_jussive": {
+      "titre": "unfoldingWord Hebrew Grammar — Verb Jussive",
+      "url": "https://uhg.readthedocs.io/en/latest/verb_jussive.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_cohortative": {
+      "titre": "unfoldingWord Hebrew Grammar — Verb Cohortative",
+      "url": "https://uhg.readthedocs.io/en/latest/verb_cohortative.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "uhg_ordre": {
+      "titre": "unfoldingWord Hebrew Grammar — Word Order",
+      "url": "https://uhg.readthedocs.io/en/latest/word_order.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "unfoldingWord, grammaire de référence, copyright 2019 ; original sous CC BY-SA 4.0",
+      "limite": "Présentation pédagogique ; les valeurs sont à vérifier pour le lexème et le passage. Les notices résument des distinctions grammaticales sans reproduire les tableaux ni les traductions de la grammaire."
+    },
+    "iaa_contenu": {
+      "titre": "Israel Antiquities Authority — Scrolls Content",
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/scrolls-content",
+      "consulte_le": "2026-09-15",
+      "attribution": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library",
+      "limite": "Présentation institutionnelle d’une collection de plusieurs sites et périodes ; consulter la notice individuelle avant d’attribuer une propriété à un manuscrit."
+    },
+    "iaa_langues": {
+      "titre": "Israel Antiquities Authority — Languages and Scripts",
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/languages-and-scripts",
+      "consulte_le": "2026-09-15",
+      "attribution": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library",
+      "limite": "Présentation institutionnelle d’une collection de plusieurs sites et périodes ; consulter la notice individuelle avant d’attribuer une propriété à un manuscrit."
+    },
+    "tei_ph": {
+      "titre": "TEI P5 — Representation of Primary Sources, §§12.3.1–12.3.3",
+      "url": "https://tei-c.org/release/doc/tei-p5-doc/en/html/PH.html",
+      "consulte_le": "2026-09-15",
+      "attribution": "TEI Consortium, Guidelines P5, version en ligne consultée",
+      "limite": "Vocabulaire d’édition documentaire ; le vault n’adopte pas implicitement ces balises XML ni un nouvel apparat."
+    }
+  },
+  "notices": [
+    {
+      "id": "KB-0001",
+      "domaine": "grammaire",
+      "titre": "Lire une analyse OSHB",
+      "aliases": [
+        "morphologie",
+        "morph",
+        "parsing",
+        "code",
+        "HR/Ncfsa"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Une analyse OSHB commence par H pour l’hébreu ou A pour l’araméen. Les segments séparés par / correspondent aux composantes analysées. HR/Ncfsa indique une préposition puis un nom commun féminin singulier à l’état absolu.",
+      "sources": [
+        {
+          "source": "oshb"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0002",
+      "domaine": "grammaire",
+      "titre": "Binyan : forme verbale et langue",
+      "aliases": [
+        "binyanim",
+        "qal",
+        "niphal",
+        "piel",
+        "pual",
+        "hiphil",
+        "hophal",
+        "hitpael"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Dans OSHB, V signale un verbe ; le caractère suivant code son thème. Les tables hébraïque et araméenne diffèrent : q désigne qal dans la première, peal dans la seconde. La langue doit donc être conservée.",
+      "sources": [
+        {
+          "source": "oshb"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0008",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0003",
+      "domaine": "grammaire",
+      "titre": "Analyse nominale : genre, nombre, état",
+      "aliases": [
+        "nom",
+        "singulier",
+        "pluriel",
+        "duel",
+        "absolu",
+        "construit",
+        "déterminé"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "OSHB distingue singulier, pluriel et duel, ainsi que les états absolu, construit et déterminé. Ces traits décrivent une forme attestée. La présence d’un pluriel morphologique ne suffit pas à choisir son interprétation dans le passage.",
+      "sources": [
+        {
+          "source": "oshb"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0004",
+      "domaine": "grammaire",
+      "titre": "Séquences verbales dans OSHB",
+      "aliases": [
+        "wayyiqtol",
+        "weqatal",
+        "imparfait",
+        "parfait",
+        "vav",
+        "waw"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "OSHB distingue les formes séquentielles du parfait et de l’imparfait. Sa documentation souligne que l’identification du parfait séquentiel utilise aussi le contexte et l’accentuation. Conserver le code original plutôt que le remplacer immédiatement par un temps français.",
+      "sources": [
+        {
+          "source": "oshb"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0005",
+      "domaine": "grammaire",
+      "titre": "État construit et groupe nominal",
+      "aliases": [
+        "construct",
+        "état construit",
+        "smikhout",
+        "smikhut",
+        "génitif",
+        "devar",
+        "divrei"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Un nom à l’état construit est lié au terme qui le détermine. Cette dépendance peut modifier ses voyelles et certaines terminaisons : le pluriel masculin en -im présente notamment une forme construite en -ei. Le maqqef peut unir les termes, mais sa présence n’est pas nécessaire. Lire le groupe entier avant d’attribuer un sens à son premier mot.",
+      "sources": [
+        {
+          "source": "gkc89"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0006",
+      "domaine": "grammaire",
+      "titre": "Piel : examiner le sens du lexème",
+      "aliases": [
+        "piel",
+        "intensif",
+        "causatif",
+        "dénominatif",
+        "pual"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §52 de Gesenius décrit plusieurs emplois du piel : intensif ou itératif, causatif, déclaratif et dénominatif, y compris des valeurs privatives. L’étiquette « intensif » ne permet donc pas de traduire mécaniquement toute forme piel par une action plus forte. Identifier le lexème et comparer ses emplois.",
+      "sources": [
+        {
+          "source": "gkc52"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0007",
+      "domaine": "grammaire",
+      "titre": "Infinitif absolu : fonction avant rendu",
+      "aliases": [
+        "infinitif absolu",
+        "mot tamut",
+        "akhol tokhel",
+        "répétition",
+        "emphase"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §113 décrit différents emplois de l’infinitif absolu, notamment avec une forme verbale apparentée. L’accent peut porter sur une affirmation, une condition ou une opposition ; certaines occurrences sont moins emphatiques. La répétition morphologique et la règle de restitution choisie par l’ONT sont deux niveaux d’analyse à consulter ensemble.",
+      "sources": [
+        {
+          "source": "gkc113"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0029",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0008",
+      "domaine": "grammaire",
+      "titre": "Table des binyanim dans la convention ONT",
+      "aliases": [
+        "binyan",
+        "binyanim",
+        "hiphil",
+        "niphal",
+        "glose"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "3.4 Les formes verbales hébraïques (*binyanim*)"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0009",
+      "domaine": "concepts",
+      "titre": "Entrée lexicale et forme écrite",
+      "aliases": [
+        "lexème",
+        "lemme",
+        "mot",
+        "forme",
+        "flexion",
+        "identité"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "OntoLex distingue une entrée lexicale des formes qui la réalisent. Une même entrée peut posséder une forme canonique et d’autres formes. Une chaîne écrite ne suffit donc pas à identifier l’entrée lexicale à laquelle elle appartient.",
+      "sources": [
+        {
+          "source": "ontolex"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0011",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0010",
+      "domaine": "concepts",
+      "titre": "Sens lexical et référent",
+      "aliases": [
+        "sens",
+        "concept",
+        "référent",
+        "polysémie",
+        "homonymie"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "OntoLex distingue le sens lexical, qui relie une entrée à une référence, du concept lexical qui organise des sens. Une fiche, une entrée lexicale et une personne désignée par un nom doivent pouvoir être représentées séparément.",
+      "sources": [
+        {
+          "source": "ontolex"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0012",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0011",
+      "domaine": "concepts",
+      "titre": "Qahal : une fiche, plusieurs éléments lexicaux",
+      "aliases": [
+        "qahal",
+        "6950",
+        "6951",
+        "nom",
+        "verbe"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "lexique/qahal.md",
+          "ancre": "Le verbe s'écrit comme le nom, et c'est le mot lui-même qui l'explique"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0012",
+      "domaine": "concepts",
+      "titre": "Les deux Chanokh : désambiguïser les personnes",
+      "aliases": [
+        "Chanokh",
+        "Hénoch",
+        "homonyme",
+        "Qayin",
+        "Noach"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "lexique/Chanokh-qui-marche-avec-Elohim.md",
+          "ancre": "Voir aussi"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0013",
+      "domaine": "concepts",
+      "titre": "Cosmologie fonctionnelle : portée de la lecture ONT",
+      "aliases": [
+        "ontologie",
+        "cosmos",
+        "Temple",
+        "fonction",
+        "cosmologie"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "6.1 Ce que décrit cette section — et ce qu'elle ne décrit pas"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0014",
+      "domaine": "histoire",
+      "titre": "Repères du Second Temple",
+      "aliases": [
+        "Second Temple",
+        "perse",
+        "hellénistique",
+        "romain",
+        "539",
+        "332",
+        "63",
+        "70"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "La chronologie de l’IAA situe la période perse en 539–332 avant notre ère, la période hellénistique en 332–63 avant notre ère, puis la domination romaine. Elle repère la destruction du Second Temple en 70 de notre ère. Ces bornes donnent un cadre historique ; elles ne constituent pas la date de composition d’un livre.",
+      "sources": [
+        {
+          "source": "iaa_histoire"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0016",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0015",
+      "domaine": "histoire",
+      "titre": "Découverte et diversité des manuscrits de la mer Morte",
+      "aliases": [
+        "Qumrân",
+        "Qumran",
+        "manuscrit",
+        "fragment",
+        "découverte",
+        "1947",
+        "araméen"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’IAA présente la découverte commencée en 1947 comme un ensemble de quelques rouleaux presque complets et de très nombreux fragments, représentant plus de 900 textes en hébreu, araméen et grec. Une connaissance sur une œuvre doit préciser le manuscrit ou l’édition qui la soutient.",
+      "sources": [
+        {
+          "source": "iaa_decouverte"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0016",
+      "domaine": "histoire",
+      "titre": "Les trois dates dans le modèle ONT",
+      "aliases": [
+        "datation",
+        "émergence",
+        "transmission",
+        "consignation",
+        "manuscrit"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "4.14 La datation à plusieurs niveaux"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0017",
+      "domaine": "sources",
+      "titre": "Éditions disponibles et langues",
+      "aliases": [
+        "témoin",
+        "édition",
+        "WLC",
+        "SBLGNT",
+        "Robinson",
+        "Dillmann",
+        "Vulgate"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "Les cinq témoins"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0018",
+      "domaine": "sources",
+      "titre": "Apparat SBLGNT : comparaison d’éditions",
+      "aliases": [
+        "apparat",
+        "variante",
+        "WH",
+        "Treg",
+        "NA28",
+        "RP",
+        "manuscrit"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "L'apparat du SBLGNT — et ce qu'il n'est pas"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0022",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0019",
+      "domaine": "sources",
+      "titre": "Guèze : la chaîne de transmission de Chanokh",
+      "aliases": [
+        "guèze",
+        "gez",
+        "Chanokh",
+        "Dillmann",
+        "Qumrân"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "Le guèze, et pourquoi il est à part"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0020",
+      "domaine": "sources",
+      "titre": "Chazon Ezra : lacune et numérotation latine",
+      "aliases": [
+        "Ezra",
+        "latin",
+        "lacune",
+        "7:36",
+        "7:105",
+        "7:106",
+        "Clémentine"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "Le latin, et une censure médiévale qu'on ne masque pas"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0033",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0021",
+      "domaine": "sources",
+      "titre": "Pont Septante : portée et limites de l’alignement",
+      "aliases": [
+        "Septante",
+        "LXX",
+        "MACULA",
+        "alignement",
+        "grec",
+        "agrégat"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "`pont-septante/` — un outil de travail, jamais un témoin"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0022",
+      "domaine": "sources",
+      "titre": "Attribution des textes et des analyses",
+      "aliases": [
+        "attribution",
+        "licence",
+        "MANIFEST",
+        "source"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "L'attribution voyage avec la source"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0023",
+      "domaine": "interpretations",
+      "titre": "Préserver les lectures ouvertes",
+      "aliases": [
+        "ambiguïté",
+        "interprétation",
+        "lectures",
+        "haggadol",
+        "Yafet"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "4.11 Restituer les ambiguïtés — ne pas résoudre ce que le texte ne résout pas"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0024",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0024",
+      "domaine": "interpretations",
+      "titre": "Distinguer reconstruction et syntaxe attestée",
+      "aliases": [
+        "reconstruction",
+        "expansion",
+        "syntaxe",
+        "attesté",
+        "glose",
+        "Gibbaraya"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "4.14 La datation à plusieurs niveaux"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0025",
+      "domaine": "interpretations",
+      "titre": "Régime d’auteur : modèle interprétatif ONT",
+      "aliases": [
+        "auteur",
+        "pseudépigraphie",
+        "autorité",
+        "scribe",
+        "attribution"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "4.15 Le régime d'auteur"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0026",
+      "domaine": "interpretations",
+      "titre": "Chanokh : fonction et réception dans les livres",
+      "aliases": [
+        "Chanokh",
+        "Yehudah",
+        "hénochien",
+        "intertexte"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "lexique/Chanokh-qui-marche-avec-Elohim.md",
+          "ancre": "Ce que la Berit Hadashah en fait"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0027",
+      "domaine": "decisions",
+      "titre": "Intraduisibles : déclarations de référence",
+      "aliases": [
+        "intraduisible",
+        "balisage",
+        "gras",
+        "rendu",
+        "traduction"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "2.5 Marquage des termes intraduisibles — convention Affinity Publisher"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0028",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0028",
+      "domaine": "decisions",
+      "titre": "Geveret et gevirah : arbitrage documenté",
+      "aliases": [
+        "geveret",
+        "gevirah",
+        "1404",
+        "maîtresse",
+        "reine",
+        "arbitrage"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "lexique/geveret.md",
+          "ancre": "Ce que cette fiche doit déclarer, et qui reste à trancher"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0029",
+      "domaine": "decisions",
+      "titre": "Infinitif absolu : choix de restitution ONT",
+      "aliases": [
+        "infinitif",
+        "absolu",
+        "mot",
+        "tamut",
+        "répétition"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "4.16 L'infinitif absolu — l'hébreu double le verbe, le français aussi"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0030",
+      "domaine": "decisions",
+      "titre": "Passages qui demandent le travail avec l’auteur",
+      "aliases": [
+        "auteur",
+        "fondation",
+        "réservé",
+        "priorité",
+        "traduire"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "7. PASSAGES À TRAITER OBLIGATOIREMENT AVEC L'AUTEUR"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0031",
+      "domaine": "methodes",
+      "titre": "Préparer et vérifier chaque verset",
+      "aliases": [
+        "traduire",
+        "traduction",
+        "verset",
+        "méthode",
+        "contexte",
+        "cohérence"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "9. MARCHE À SUIVRE POUR CHAQUE VERSET"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0030",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0032",
+      "domaine": "methodes",
+      "titre": "Une source par fait et déclarations des fiches",
+      "aliases": [
+        "source",
+        "fiche",
+        "forme",
+        "Strong",
+        "lexique",
+        "maintenance"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "CLAUDE.md",
+          "ancre": "2.5 ter Les fiches de lexique — `lexique/<lemme>.md`"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0033",
+      "domaine": "methodes",
+      "titre": "Références bibliques et unités ONT",
+      "aliases": [
+        "référence",
+        "numérotation",
+        "verset",
+        "unité",
+        "parashah"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "sources/README.md",
+          "ancre": "La forme, et ce qu'elle ne décide pas"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0034",
+      "domaine": "methodes",
+      "titre": "Vérifier que l’instrument répond à la question",
+      "aliases": [
+        "audit",
+        "compte",
+        "test",
+        "instrument",
+        "vérification",
+        "mesure"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "SYNCHRONISATION.md",
+          "ancre": "30 août 2026 — l'instrument qui répond à une autre question"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0035",
+      "domaine": "methodes",
+      "titre": "Relire le témoin derrière un plan de rédaction",
+      "aliases": [
+        "rédaction",
+        "plan",
+        "source",
+        "preuve",
+        "apparat"
+      ],
+      "statut": "renvoi_au_document",
+      "texte": null,
+      "sources": [
+        {
+          "fichier": "SYNCHRONISATION.md",
+          "ancre": "2 septembre 2026 — un texte écrit sur son plan, et non sur sa source"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "KB-0036",
+      "domaine": "concepts",
+      "titre": "Triplet RDF : sujet, prédicat, objet",
+      "aliases": [
+        "triplet",
+        "sujet",
+        "prédicat",
+        "objet",
+        "RDF",
+        "assertion",
+        "knowledge",
+        "graph"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Un triplet RDF exprime une relation orientée : le sujet est ce dont on parle, le prédicat nomme la relation, l’objet en est la cible ou la valeur. Sa mise en triplet structure une assertion ; elle ne prouve pas cette assertion.",
+      "sources": [
+        {
+          "source": "rdf11"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0037",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0043",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0037",
+      "domaine": "concepts",
+      "titre": "IRI : identifier une ressource",
+      "aliases": [
+        "IRI",
+        "URI",
+        "identifiant",
+        "identité",
+        "nom",
+        "renommage"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Un IRI peut identifier un document, une personne ou un concept. RDF n’exige pas que cet identifiant soit opaque. Distinguer la ressource et son nom affiché permet de corriger un libellé sans changer l’identité visée.",
+      "sources": [
+        {
+          "source": "rdf11"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0009",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0040",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0038",
+      "domaine": "concepts",
+      "titre": "Littéral : valeur, type et langue",
+      "aliases": [
+        "littéral",
+        "chaîne",
+        "nombre",
+        "datatype",
+        "langue",
+        "fr",
+        "hébreu",
+        "valeur"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "En RDF 1.1, un littéral occupe la position objet : texte, nombre ou autre valeur typée. Un texte peut porter une étiquette de langue. Une chaîne contenant un nom ne désigne pas automatiquement la personne qui le porte.",
+      "sources": [
+        {
+          "source": "rdf11"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0010",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0039",
+      "domaine": "concepts",
+      "titre": "Graphe RDF et graphes nommés",
+      "aliases": [
+        "graphe",
+        "nœud",
+        "arête",
+        "graphes",
+        "nommés",
+        "dataset",
+        "knowledge",
+        "base",
+        "KB"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Les sujets et objets deviennent les nœuds du graphe, les prédicats ses arêtes. Un jeu de données peut regrouper des graphes nommés. Le nom d’un graphe n’établit pas automatiquement sa provenance : la convention doit être explicitée.",
+      "sources": [
+        {
+          "source": "rdf11"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0036",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0043",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0040",
+      "domaine": "concepts",
+      "titre": "Concept SKOS et libellés de recherche",
+      "aliases": [
+        "SKOS",
+        "concept",
+        "libellé",
+        "alias",
+        "synonymes",
+        "prefLabel",
+        "altLabel",
+        "hiddenLabel"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "SKOS distingue le concept de ses libellés. prefLabel porte le libellé préféré, altLabel une variante et hiddenLabel une aide de recherche non destinée à l’affichage. Un concept ne possède qu’un libellé préféré par étiquette de langue.",
+      "sources": [
+        {
+          "source": "skos"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0009",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0041",
+      "domaine": "concepts",
+      "titre": "Relations hiérarchiques et associatives SKOS",
+      "aliases": [
+        "SKOS",
+        "broader",
+        "narrower",
+        "related",
+        "hiérarchie",
+        "taxonomie",
+        "association"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Dans SKOS, broader pointe du concept spécifique vers un concept plus général ; narrower exprime la relation inverse. related indique une association sans hiérarchie. Un concept peut avoir plusieurs parents. Un simple renvoi documentaire ne suffit pas à choisir une de ces relations.",
+      "sources": [
+        {
+          "source": "skos"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0039",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0042",
+      "domaine": "methodes",
+      "titre": "SHACL : vérifier la forme des données du graphe",
+      "aliases": [
+        "SHACL",
+        "validation",
+        "schéma",
+        "contrainte",
+        "obligatoire",
+        "cardinalité",
+        "minCount",
+        "maxCount"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "SHACL valide un graphe de données contre des formes déclarées. Les contraintes peuvent porter sur les types, les propriétés et leur cardinalité : minCount impose un minimum de valeurs, maxCount un maximum. Un graphe peut donc avoir des exigences de structure. Le résultat indique les violations des contraintes effectivement vérifiées.",
+      "sources": [
+        {
+          "source": "shacl"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0046",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0043",
+      "domaine": "methodes",
+      "titre": "Provenance : entité, activité, agent",
+      "aliases": [
+        "PROV",
+        "provenance",
+        "entité",
+        "activité",
+        "agent",
+        "auteur",
+        "extraction",
+        "preuve"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "PROV distingue l’entité produite, l’activité qui utilise ou transforme des entités et l’agent responsable. Exemple de modélisation pour l’ONT : l’extrait est une entité, son extraction une activité, son outil ou responsable un agent. Conserver ces rôles évite d’attribuer au manuscrit une décision du traducteur.",
+      "sources": [
+        {
+          "source": "prov"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0044",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0044",
+      "domaine": "methodes",
+      "titre": "Dérivation, citation et révision",
+      "aliases": [
+        "PROV",
+        "dérivation",
+        "citation",
+        "révision",
+        "source",
+        "primaire",
+        "wasDerivedFrom",
+        "historique"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "PROV-O relie une entité dérivée à celle dont elle provient avec wasDerivedFrom. Des relations plus précises distinguent citation, révision et source primaire. Pour une synthèse de lecture, déclarer sa dérivation ne dispense pas de conserver le passage utilisé et la version consultée.",
+      "sources": [
+        {
+          "source": "prov"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0032",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0045",
+      "domaine": "concepts",
+      "titre": "Ontologie informatique : vocabulaire et assertions",
+      "aliases": [
+        "ontologie",
+        "OWL",
+        "classe",
+        "propriété",
+        "individu",
+        "axiome",
+        "vocabulaire",
+        "instance"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Une ontologie OWL décrit un domaine avec des classes, propriétés, individus et assertions. Elle peut porter à la fois les notions générales et des informations sur des objets particuliers. Des outils de raisonnement exploitent les axiomes déclarés ; cette définition technique ne désigne pas à elle seule la philosophie interprétative de l’ONT.",
+      "sources": [
+        {
+          "source": "owl2"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0013",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0046",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0046",
+      "domaine": "methodes",
+      "titre": "Monde ouvert : absence et inférence",
+      "aliases": [
+        "OWL",
+        "monde",
+        "ouvert",
+        "absence",
+        "faux",
+        "inférence",
+        "raisonnement",
+        "contradiction",
+        "inconnu"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Dans OWL, une information manquante peut être inconnue plutôt que fausse. Les axiomes permettent des inférences, mais ne servent pas à exiger qu’un champ soit explicitement présent dans un document. Pour contrôler cette présence, une validation distincte est nécessaire. Une recherche vide ne tranche donc pas une question historique.",
+      "sources": [
+        {
+          "source": "owl2"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0042",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0047",
+      "domaine": "methodes",
+      "titre": "SPARQL : interroger des motifs de graphe",
+      "aliases": [
+        "SPARQL",
+        "requête",
+        "SELECT",
+        "ASK",
+        "motif",
+        "graphe",
+        "interrogation"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "SPARQL interroge des données RDF par des motifs de graphe et des variables. SELECT restitue des solutions ; ASK indique si un motif possède une solution. Le résultat dépend des données interrogées. Cette notice décrit le langage : le moteur local de la KB reste une recherche lexicale.",
+      "sources": [
+        {
+          "source": "sparql11"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0039",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0048",
+      "domaine": "grammaire",
+      "titre": "Infinitif construit : lire sa fonction dans la proposition",
+      "aliases": [
+        "infinitif",
+        "construit",
+        "nom",
+        "verbal",
+        "sujet",
+        "complément",
+        "syntaxe"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §114 de Gesenius décrit l’infinitif construit comme un nom verbal pouvant notamment servir de sujet ou de complément. Il peut dépendre d’une préposition. Identifier cette fonction avant de choisir une construction française ; ne pas le confondre avec l’infinitif absolu.",
+      "sources": [
+        {
+          "source": "gkc114"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0007",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0049",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0049",
+      "domaine": "grammaire",
+      "titre": "Prépositions et infinitif construit : temps et but",
+      "aliases": [
+        "infinitif",
+        "préposition",
+        "construit",
+        "temporel",
+        "final",
+        "but",
+        "be",
+        "ke",
+        "le"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Selon le §114, בְּ et כְּ avec un infinitif construit introduisent fréquemment une circonstance temporelle. לְ peut marquer un but, mais aussi introduire le complément d’une action. Une même préposition n’impose donc pas un seul rendu : examiner le verbe principal et la proposition entière.",
+      "sources": [
+        {
+          "source": "gkc114"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0048",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0050",
+      "domaine": "grammaire",
+      "titre": "Négation de l’infinitif construit",
+      "aliases": [
+        "infinitif",
+        "construit",
+        "négation",
+        "levilti",
+        "bilti",
+        "לבלתי"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §114s décrit בִּלְתִּי, notamment précédé de לְ, pour nier un infinitif construit. Il distingue cette construction de la négation verbale par לֹא et mentionne בְּלֹא comme préposition signifiant « sans ». Examiner l’ensemble préposition, négation et infinitif.",
+      "sources": [
+        {
+          "source": "gkc114"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0052",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0051",
+      "domaine": "grammaire",
+      "titre": "Participe hébreu : déterminer le temps par le contexte",
+      "aliases": [
+        "participe",
+        "présent",
+        "passé",
+        "futur",
+        "actif",
+        "passif",
+        "adjectif"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §116 présente le participe entre nom et verbe, proche de l’adjectif par sa forme. Il ne fixe pas à lui seul un temps ou un mode. Le repérage temporel vient du contexte ; traduire systématiquement un participe hébreu par un présent français effacerait cette variation.",
+      "sources": [
+        {
+          "source": "gkc116"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0053",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0052",
+      "domaine": "grammaire",
+      "titre": "Lo et al : négation et défense",
+      "aliases": [
+        "négation",
+        "lo",
+        "al",
+        "לא",
+        "אל",
+        "défense",
+        "prohibition",
+        "jussif"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Au §152, Gesenius décrit לֹא comme négation usuelle des propositions verbales, également employée pour certaines interdictions. אַל accompagne notamment le jussif dans des défenses, avertissements ou souhaits négatifs. La différence ne se réduit donc pas à « affirmation contre interdiction ».",
+      "sources": [
+        {
+          "source": "gkc152"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0050",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0053",
+      "domaine": "grammaire",
+      "titre": "Ein : absence, proposition nominale et participe",
+      "aliases": [
+        "ein",
+        "ayin",
+        "אין",
+        "négation",
+        "existence",
+        "proposition",
+        "nominale",
+        "participe"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §152 distingue אֵין, négation de l’existence exprimée par יֵשׁ, de la négation verbale usuelle. אֵין peut précéder un nom ou un participe et recevoir un suffixe personnel. Le temps français dépend du contexte : la forme ne signifie pas exclusivement « il n’y a pas » au présent.",
+      "sources": [
+        {
+          "source": "gkc152"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0051",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0054",
+      "domaine": "grammaire",
+      "titre": "Portée de la négation avec kol",
+      "aliases": [
+        "kol",
+        "כל",
+        "tout",
+        "tous",
+        "aucun",
+        "négation",
+        "portée",
+        "quantification"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le §152b distingue la négation totale avec לֹא et כֹּל de la négation portant sur une totalité déterminée. « Aucun » et « pas tous » ne sont pas équivalents. Examiner la détermination, la construction et le contexte avant de choisir la portée française.",
+      "sources": [
+        {
+          "source": "gkc152"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0023",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0055",
+      "domaine": "grammaire",
+      "titre": "Qatal : le parfait ne fixe pas seul un passé français",
+      "aliases": [
+        "qatal",
+        "parfait",
+        "accompli",
+        "passé",
+        "présent",
+        "futur"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "La grammaire UHG présente le parfait comme souvent associé à une action achevée, mais répertorie aussi des emplois rendus au présent ou au futur selon le contexte. Pour une forme qatal, relever le cadre temporel du passage avant de choisir le temps français.",
+      "sources": [
+        {
+          "source": "uhg_perfect"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0004",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0056",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0056",
+      "domaine": "grammaire",
+      "titre": "Yiqtol : distinguer temps et modalité",
+      "aliases": [
+        "yiqtol",
+        "imparfait",
+        "inaccompli",
+        "modalité",
+        "potentiel",
+        "habituel",
+        "futur"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "UHG distingue plusieurs emplois de l’imparfait : présent, futur, habitude, possibilité et prescription négative. Yiqtol n’est donc pas un code de futur français. La présence d’un waw ordinaire ne suffit pas non plus à identifier un imparfait séquentiel.",
+      "sources": [
+        {
+          "source": "uhg_imperfect"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0004",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0060",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0057",
+      "domaine": "grammaire",
+      "titre": "Niphal : passif, réfléchi et autres valeurs",
+      "aliases": [
+        "niphal",
+        "nifal",
+        "passif",
+        "réfléchi",
+        "réciproque",
+        "moyen",
+        "binyan"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’analyse du niphal demande de distinguer qui agit, qui subit et si l’action est réciproque. UHG décrit des valeurs passives, réfléchies, moyennes et réciproques, ainsi que des emplois simples ou statifs. La seule étiquette du binyan ne décide pas de l’intention du sujet.",
+      "sources": [
+        {
+          "source": "uhg_niphal"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0008",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0058",
+      "domaine": "grammaire",
+      "titre": "Hiphil : causation et sens du verbe",
+      "aliases": [
+        "hiphil",
+        "hifil",
+        "causatif",
+        "causation",
+        "binyan",
+        "lexème"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Un hiphil peut exprimer une causation, mais le sens précis dépend du verbe : UHG distingue aussi des valeurs lexicalisées et des verbes attestés seulement dans certains thèmes. Vérifier l’entrée lexicale évite de fabriquer un qal supposé puis d’en déduire mécaniquement une traduction causative.",
+      "sources": [
+        {
+          "source": "uhg_hiphil"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0008",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0009",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0059",
+      "domaine": "grammaire",
+      "titre": "Et : marqueur d’objet ou préposition avec",
+      "aliases": [
+        "et",
+        "eth",
+        "אֵת",
+        "אֶת",
+        "את",
+        "objet",
+        "COD",
+        "préposition",
+        "avec"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le marqueur אֵת peut annoncer le complément d’objet direct, sans apparaître devant tous les objets. Il est distinct de la préposition אֵת, « avec ». UHG donne la vocalisation des formes suffixées comme indice de distinction. Identifier la fonction dans la proposition avant de traduire cette chaîne.",
+      "sources": [
+        {
+          "source": "uhg_objet"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0009",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0060",
+      "domaine": "grammaire",
+      "titre": "Jussif : souhait, demande et défense",
+      "aliases": [
+        "jussif",
+        "jussive",
+        "souhait",
+        "demande",
+        "défense",
+        "permission",
+        "yehi"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le jussif ne se réduit pas à un futur : il peut exprimer un souhait, une demande ou une prescription. UHG le présente généralement à la troisième personne, avec des formes de deuxième personne dans les défenses. Sa proximité formelle avec l’imparfait impose une lecture contextuelle.",
+      "sources": [
+        {
+          "source": "uhg_jussive"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0052",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0061",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0061",
+      "domaine": "grammaire",
+      "titre": "Cohortatif : intention à la première personne",
+      "aliases": [
+        "cohortatif",
+        "cohortative",
+        "intention",
+        "volitif",
+        "exhortation",
+        "première personne"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Le cohortatif concerne la première personne, au singulier ou au pluriel. Il peut exprimer une intention ou une exhortation ; UHG demande de déterminer en contexte la force de la volonté exprimée. Une forme volitive ne s’assimile pas automatiquement à une prédiction.",
+      "sources": [
+        {
+          "source": "uhg_cohortative"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0060",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0062",
+      "domaine": "grammaire",
+      "titre": "Ordre des mots : observer le discours avant de conclure",
+      "aliases": [
+        "ordre des mots",
+        "antéposition",
+        "sujet",
+        "verbe",
+        "récit",
+        "discours",
+        "poésie"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "UHG présente un ordre verbal usuel et plusieurs fonctions possibles de l’antéposition : mise en relief, nouvelle section ou interruption du récit. Les constructions poétiques varient également. Le déplacement d’un mot est un indice à interpréter dans le passage, pas une preuve autonome d’une intention théologique.",
+      "sources": [
+        {
+          "source": "uhg_ordre"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0024",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0063",
+      "domaine": "sources",
+      "titre": "Cote de manuscrit et composition ne coïncident pas toujours",
+      "aliases": [
+        "cote",
+        "sigle",
+        "fragment",
+        "composition",
+        "palimpseste",
+        "recto",
+        "verso"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’IAA distingue composition et étiquette de manuscrit : une cote peut regrouper plusieurs textes, notamment sur un support réutilisé ou sur son recto et son verso. Des regroupements modernes de fragments ont aussi été corrigés. Nommer la cote ne suffit donc pas toujours à identifier une œuvre.",
+      "sources": [
+        {
+          "source": "iaa_contenu"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0012",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0064",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0064",
+      "domaine": "histoire",
+      "titre": "Pesher et classement des textes de Qumrân",
+      "aliases": [
+        "pesher",
+        "pesharim",
+        "exégèse",
+        "Yahad",
+        "genre",
+        "Qumran",
+        "Qumrân"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’IAA décrit le pesher comme une lecture de prophéties appliquée à l’histoire et à l’expérience du Yahad. Ses catégories de textes servent au classement et peuvent se recouper. Une catégorie documentaire ne constitue pas à elle seule un consensus sur l’origine ou l’autorité d’une composition.",
+      "sources": [
+        {
+          "source": "iaa_contenu"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0023",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0065",
+      "domaine": "histoire",
+      "titre": "Langue et écriture : deux observations distinctes",
+      "aliases": [
+        "langue",
+        "écriture",
+        "paléo-hébreu",
+        "carrée",
+        "araméen",
+        "Qumran",
+        "Qumrân"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "La collection décrite par l’IAA comprend de l’hébreu et de l’araméen écrits en caractères carrés. Certains manuscrits utilisent une autre écriture pour le nom divin. La forme des lettres ne suffit donc pas à identifier la langue ; pour de petits fragments, celle-ci peut rester indéterminée.",
+      "sources": [
+        {
+          "source": "iaa_langues"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0002",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0066",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0066",
+      "domaine": "histoire",
+      "titre": "Paléographie et datation du support",
+      "aliases": [
+        "paléographie",
+        "carbone",
+        "carbone-14",
+        "datation",
+        "support",
+        "copie",
+        "manuscrit"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’IAA mentionne la paléographie et, parfois, le carbone-14 pour dater des manuscrits. Application méthodologique : conserver la méthode et l’objet daté, puis distinguer cet indice matériel d’une hypothèse sur la composition du texte. La datation d’une copie ne résout pas toute l’histoire de l’œuvre.",
+      "sources": [
+        {
+          "source": "iaa_langues"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0016",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0067",
+      "domaine": "sources",
+      "titre": "Lacune et lecture incertaine",
+      "aliases": [
+        "TEI",
+        "lacune",
+        "gap",
+        "unclear",
+        "illisible",
+        "lecture incertaine"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "La TEI distingue gap, portion omise dans la transcription, et unclear, texte proposé malgré une lecture difficile. Une lecture hésitante et une lacune sans restitution sont donc deux états documentaires différents, à conserver séparément.",
+      "sources": [
+        {
+          "source": "tei_ph"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0068",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0068",
+      "domaine": "sources",
+      "titre": "Texte restitué : nommer le responsable et l’appui",
+      "aliases": [
+        "TEI",
+        "supplied",
+        "restitution",
+        "conjecture",
+        "reconstruction",
+        "responsable"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "Dans la TEI, supplied signale un texte fourni par l’éditeur ; source et resp peuvent identifier son appui documentaire et son responsable. Une restitution conjecturale ne devient pas une lecture directement attestée parce qu’elle paraît plausible.",
+      "sources": [
+        {
+          "source": "tei_ph"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0024",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0043",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0069",
+      "domaine": "sources",
+      "titre": "Correction éditoriale et intervention du scribe",
+      "aliases": [
+        "TEI",
+        "sic",
+        "corr",
+        "correction",
+        "scribe",
+        "éditeur",
+        "add",
+        "del"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "La TEI distingue une correction éditoriale, corr, d’une modification visible dans le témoin, décrite notamment avec add ou del. sic permet de conserver la forme jugée fautive. Préciser qui a corrigé évite d’attribuer au scribe une décision moderne.",
+      "sources": [
+        {
+          "source": "tei_ph"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0044",
+          "statut": "parcours_editorial"
+        }
+      ]
+    },
+    {
+      "id": "KB-0070",
+      "domaine": "methodes",
+      "titre": "Degré de confiance d’une lecture",
+      "aliases": [
+        "TEI",
+        "cert",
+        "confiance",
+        "certitude",
+        "lecture",
+        "incertitude"
+      ],
+      "statut": "synthese_documentaire",
+      "texte": "L’attribut TEI cert exprime la confiance éditoriale dans une lecture ou une correction. Cette appréciation accompagne l’attribution au responsable ; elle ne transforme pas une hypothèse en constat matériel. Conserver le motif d’incertitude avec le résultat proposé.",
+      "sources": [
+        {
+          "source": "tei_ph"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0067",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0068",
+          "statut": "parcours_editorial"
+        }
+      ]
+    }
+  ]
+}
