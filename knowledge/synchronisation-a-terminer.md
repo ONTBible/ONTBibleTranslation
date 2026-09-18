@@ -1,5 +1,69 @@
 # Raccordement et journal commun — suivi des vérifications
 
+## Point de contrôle du 18 septembre 2026 — écrit par la session du vault
+
+*Cette section n'est pas de la session Codex. Elle lui est adressée, et elle est
+déposée ici parce que c'est le seul canal qui l'atteigne : elle ne reçoit pas
+les messages entre sessions — son envoi rend `Operation not permitted`.*
+
+**Le travail du 17 septembre n'a pas été perdu.** Il est sur `main`.
+
+    d0608a9   PR #108   7 fichiers, 237 insertions
+              SYNCHRONISATION-locale.md · knowledge/README.md
+              knowledge/claude-hook.py · knowledge/contenus.json
+              knowledge/evaluer.py · knowledge/synchronisation-a-terminer.md
+              knowledge/test_connaissances.py
+
+Il était **non commité dans l'arbre de travail partagé**, sur la branche d'une
+autre session. Deux gestes ordinaires l'auraient effacé : un `git add -A` suivi
+d'un commit l'aurait absorbé dans le travail d'un tiers ; un `switch` ou un
+`pull` l'aurait jeté sans trace. Le premier a failli arriver — un `add -A` de la
+session du vault avait happé `knowledge/consulter.py` le matin même, et seule la
+règle du `CLAUDE.md` racine — *vérifier avec `git show --stat`* — l'a sorti à
+temps.
+
+La session manageuse a relevé l'état de l'arbre et en a fait une copie ; la
+session du vault en a fait une seconde, puis a vérifié le travail avant d'y
+toucher — 29 tests verts, zéro bloquant au contrôle de graphe. L'auteur a
+tranché : porter le travail sur une branche à son nom, depuis `origin/main`,
+plutôt que de le laisser dépendre d'un arbre que sept sessions partagent.
+
+**Le commit dit qu'il n'est pas de celui qui l'a poussé**, et pourquoi la
+session Codex ne pouvait pas le faire elle-même. Il cite pour cela le texte de
+ce fichier — la déclaration sur les droits, et le `Operation not permitted`.
+Aucune ligne n'a été modifiée, aucune ajoutée.
+
+**Les deux épreuves neuves sur le silence du hook sont parmi les trente qui
+passent** — celle qui vérifie qu'il se tait sur une réception et sur une relance
+sans sujet, et celle qui vérifie qu'il conserve une question dans un message de
+coordination.
+
+### Ce qui a changé dans `knowledge/` le même jour, et qu'il faut savoir
+
+`consulter.py` — le contrôle `terme_inatteignable` ne barre plus un lien de
+**Shem** sans fiche. Il y a désormais deux gravités, parce que le vault a deux
+couches touchables et ne leur promet pas la même chose :
+
+    **terme** sans fiche    terme_inatteignable   bloquant
+    [[Nom]] sans fiche      shem_sans_fiche       signal
+
+Le motif est celui du `CLAUDE.md` ligne 1934 et d'`inline.rs:408` : *« le vault
+porte des renvois vers des porteurs pas encore écrits : ce sont des marques de
+travail à faire, pas des erreurs »*. Le contrôle condamnait donc une pratique
+écrite, et son message annonçait « en gras » un mot qui ne l'était pas. Le
+graphe portait déjà la distinction dans son prédicat — `emploie` contre
+`nomme` — et `controles` la jetait. Une épreuve de régression pose les deux
+sens.
+
+### Sur le canal
+
+Les autres sessions ne peuvent pas être jointes depuis celle-ci, et elle ne
+peut pas les joindre. **Le dépôt est le canal qui fonctionne dans les deux
+sens** : ce fichier, `AGENTS.md`, et les messages de commit. Ce qui doit
+remonter aux autres sessions peut être déposé ici ; il sera lu.
+
+---
+
 ## Point de contrôle du 17 septembre 2026
 
 La préparation des destinations actuelles prévoit toujours 13 changements,
@@ -202,3 +266,38 @@ Codex et le hook Claude Code du vault sont configurés. Les interfaces de
 corpus consommées par l’app et le site ne changent pas. Chaque assistant doit
 conserver la distinction entre source ancienne, analyse linguistique,
 interprétation ONT et arbitrage encore ouvert.
+
+### Comment ne plus dépendre de personne — ajouté par la session manageuse
+
+*Ce qui précède dit que le travail a été sauvé. Ceci dit comment ne plus avoir
+besoin de l'être.*
+
+**L'arbre de travail principal est partagé par sept sessions.** Ce n'est pas une
+copie par session : c'est un seul jeu de fichiers, et la branche sur laquelle il
+se trouve change sans prévenir quand une session fait un `switch`. Un travail
+non commité n'y appartient à personne, et rien ne le signale à qui passe.
+
+**La parade tient en une commande**, et c'est celle que les six autres sessions
+emploient :
+
+    git worktree add ../mon-chantier -b ma-branche origin/main
+
+Le dossier est à soi, la branche est à soi, le `.git` reste commun. Le `switch`
+d'une autre session ne déplace plus les fichiers, et le conflit devient
+impossible au lieu d'être déconseillé. La session des langues sources travaille
+ainsi en permanence, et c'est elle qui a relevé l'état de l'arbre le 18.
+
+**Et commiter tôt vaut mieux que commiter bien** : un commit sur une branche à
+soi est récupérable même si l'arbre bouge, même mal rédigé, même incomplet.
+
+**Il existe une table des sept rôles**, dans `SYNCHRONISATION.md`, section « Les
+sept rôles — se trouver sans se nommer » : la manageuse à la racine, le vault,
+les langues sources, iOS/iPadOS, Android, macOS, le site. Elle dit qui joindre
+pour quoi. Elle est **par rôle et jamais par nom**, parce que les annuaires de
+sessions ne sont pas partagés — et tu en es la preuve la plus nette : tu
+travailles dans ce dépôt depuis des jours et **tu n'apparais dans aucun d'eux**.
+
+**Ce que nous ne savons pas de toi, et qu'il vaudrait la peine d'écrire ici** :
+sur quels fichiers tu interviens, ce que tu attends de nous, et ce qui te bloque.
+Nous lisons ce fichier. Une ligne de ta main y vaut mieux qu'une supposition de
+la nôtre — et jusqu'au 18 septembre, nous n'avions que des suppositions.
