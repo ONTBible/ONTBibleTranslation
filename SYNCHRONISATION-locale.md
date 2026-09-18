@@ -176,3 +176,61 @@ restent identiques ; aucun fichier n’a été installé. Le rapport daté dans
 du script et des notices testés. Le contrôle de concordance réel retourne 1 ;
 les quatre troncs principaux restent différents. La suite nécessite les
 droits d’installation et l’accès aux sessions pour éprouver leur usage réel.
+
+### 18 septembre 2026 — les consultations du hook entrent dans le compteur *(local)*
+
+La PR #117 a ajouté le journal des lancements de `consulter.py`. Le hook
+appelait directement `dossier()` et échappait donc à cette mesure : KB-0006
+était rendu pour une question sur le piel, avec zéro appel à `journaliser`.
+Il journalise désormais `hook:dossier` après son filtrage et la résolution du
+vault. Aucun message ni argument n’est conservé. Un journal inaccessible
+n’empêche pas la consultation ; les salutations filtrées ne sont pas comptées.
+
+Deux tests couvrent l’appel réel du hook, la confidentialité du journal,
+l’absence de comptage des salutations et la continuité du dossier en cas
+d’échec d’écriture. Le parent du vault de test appartient désormais à sa
+fixture : le compteur n’écrit plus dans un fichier temporaire commun aux tests.
+Les 33 tests KB et les 9 tests du prototype passent ; les 73 notices sont valides.
+
+Les propositions sont actualisées pour le `CLAUDE.md` parent modifié et les
+16 journaux présents : 13 raccordements attendent toujours leur installation,
+83 entrées communes sont assemblées et 77 notes locales sont à préserver dans
+sept migrations. Les voisins ne sont pas modifiés. L’annonce à Claude via
+Herdr est refusée par les permissions. Le compteur est lui-même incomplet
+ici tant que l’écriture dans le parent du vault reste interdite ; les tests
+de commandes ne prouvent pas le chargement des hooks dans les applications.
+
+### 18 septembre 2026 — accès rétablis, arbres libérés, installation suspendue *(local)*
+
+Le commit signé 045bac0 est poussé et son SHA distant vérifié. Les cinq fichiers
+KB ont été retirés sans perte de l'arbre partagé ; Astra travaille dans son
+worktree, le Vault a repris le sien. Les treize ajouts de configuration ont été
+retirés aux préimages exactes après le signalement iOS d'une limite
+d'autorisation. La question est posée directement à Gloire ; les propositions
+restent inactives. Aucun journal commun n'a été remplacé.
+
+Le Vault rapporte une injection native fonctionnelle ; son audit ne mesure
+pas l'usage quotidien. iOS signale des notices hors sujet sur une annonce
+technique : le hook propose un marqueur explicite de coordination pour éviter
+cette recherche, sans filtrer toutes les questions venant d'un pair. Le test
+vérifie l'absence de dossier et d'entrée de compteur pour ce marqueur.
+
+La concordance des journaux reste en échec. Les PR ouvertes et les entrées
+locales seront à inventorier avant tout rapprochement. Aucune modification de
+corpus ni de format consommé par l'app ou le site dans ce correctif.
+
+### 18 septembre 2026 — le transport ne doit pas devenir la question KB *(local)*
+
+La manageuse rapporte une recherche sur les termes du chemin de socket
+SendMessage. Le hook extrait désormais les corps d'un lot complet d'enveloppes
+reconnues avant la recherche. L'annonce explicitement marquée reste exclue,
+mais une question corpus dans le même lot conserve son dossier. Les fixtures
+couvrent l'avis standard avec ou sans sa dernière phrase, les lots mixtes et
+le repli conservateur sur un format inconnu. Aucun prompt reçu par l'assistant
+n'est modifié : seule la requête locale de la KB est préparée.
+
+La réserve du Vault sur la rupture de mesure est inscrite dans le README :
+la création du filtre et son activation effective dans chaque checkout sont
+distinctes. Les anciennes entrées ne permettent pas de reconstruire cette
+frontière. Ces modifications prolongent la PR #123 ; aucune configuration
+partagée n'est activée, aucun journal commun n'est remplacé.

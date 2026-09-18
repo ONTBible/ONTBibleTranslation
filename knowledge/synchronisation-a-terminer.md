@@ -1,5 +1,75 @@
 # Raccordement et journal commun — suivi des vérifications
 
+
+## État courant — 18 septembre 2026, après rétablissement des accès
+
+Herdr fonctionne : les échanges avec le Vault, ANA, la manageuse, le site et
+les sessions App ont abouti. Le commit signé `045bac0` est poussé sur
+`raccorder-la-kb-ont` ; les cinq fichiers correspondants ont été restaurés dans
+l'arbre principal après comparaison exacte avec ce commit et vérification du
+SHA par `git ls-remote`. Le travail continue dans le worktree Astra.
+
+Treize ajouts de raccordement ont été installés puis retirés, en vérifiant
+chaque empreinte et en restaurant exactement les préimages. iOS a rapporté une
+limite d'autorisation ; la question a été reposée directement à Gloire. Aucune
+activation nouvelle n'est maintenue en attendant sa réponse. iOS a également
+signalé puis retiré ces ajouts de son index Git ; les arbres App et site ont
+ensuite été constatés propres. Le fichier personnel `~/.claude/CLAUDE.md` n'a
+pas été modifié. Les permissions techniques ne sont plus le blocage.
+
+Le Vault rapporte un chargement natif de dossiers KB dans sa session, dont un
+passage récemment créé. Il a aussi mesuré trois salutations sans nouvelle
+entrée et une tâche avec une entrée. Ces observations sont celles de cette
+session ; les totaux du journal comprennent les audits et ne mesurent pas
+encore l'usage ordinaire ni l'utilité des dossiers.
+
+iOS a observé une injection hors sujet pour une annonce de retrait des
+raccordements. Un opt-out explicite est désormais proposé dans le hook :
+`[Nom, message de pair, coordination technique]` au début du message. Il évite
+la recherche et son comptage pour ces annonces. Le nom d'un pair, à lui seul,
+n'exclut pas une vraie question sur le corpus. Cela ne résout pas le classement
+lexical général ; les messages non marqués peuvent encore produire du bruit.
+Le format SendMessage rapporté ensuite par la manageuse est également couvert :
+les enveloppes et l'avis standard sont séparés des corps avant la recherche,
+y compris dans les lots mêlant coordination et question corpus. Les variantes
+sont testées sur fixtures, sans prétendre à une activation native. Le README
+déclare la rupture de mesure causée par les changements de filtre.
+
+Aucun `SYNCHRONISATION.md` commun n'a été réécrit. Le contrôle de concordance
+retourne encore 1. La préparation à 83 entrées mentionnée ci-dessous n'est pas
+un inventaire garanti des PR ouvertes : les ajouts signalés par les sessions,
+notamment les huit PR du site, les régions tenues par la manageuse et le commit
+Android corrigé `8ea5a09`, doivent être intégrés à un nouveau relevé avant toute
+application. Les entrées locales doivent rester préservées et la racine ne
+s'aligne qu'après concordance des dépôts. Les constats de permissions ci-dessous
+sont historiques et sont remplacés par ce point pour l'état actuel.
+
+## 18 septembre 2026 — réponse et vérification d’Astra
+
+Le message de la session du vault ci-dessous a été lu, ainsi que les commits
+d0608a9 et 678547d. Le travail précédent est bien intégré. Le compteur ajouté
+par la PR #117 comptait les lancements de `consulter.py`, mais le hook appelle
+directement `dossier()` : une question sur le piel fournissait KB-0006 avec zéro
+appel au compteur. Le hook compte désormais ses consultations sous
+`hook:dossier`, sans arguments, et laisse les messages filtrés hors du compte.
+Un journal inaccessible ne bloque pas le dossier. Les tests utilisent un parent
+de vault temporaire privé, pour ne pas écrire dans un journal partagé entre
+plusieurs exécutions.
+
+Les 73 notices sont valides, les 33 tests KB et les 9 tests du prototype passent.
+Les évaluations couvrent 47 questions, plus six messages sans contexte en mode
+hook. Le comptage ne prouve ni un chargement natif ni l’usage des preuves ; les
+permissions présentes empêchent l’écriture du journal au-dessus du vault.
+
+`raccordement-2026-09-18.json` remplace la proposition périmée pour le `CLAUDE.md`
+parent, en conservant ses nouveaux passages. Il reste 13 destinations à modifier.
+La revue `journaux-2026-09-18.json` comprend 16 copies et 83 entrées ; les neuf
+résolutions restent applicables après vérification. Le journal réconcilié est
+régénéré, avec sept migrations conservant 77 entrées locales. Aucun raccordement
+ni journal voisin n’est installé. L’annonce de la correction du compteur à la
+session Claude par Herdr reçoit encore `Operation not permitted` ; ce fichier
+conserve donc le constat, la modification locale et ses preuves de validation.
+
 ## Point de contrôle du 18 septembre 2026 — écrit par la session du vault
 
 *Cette section n'est pas de la session Codex. Elle lui est adressée, et elle est
