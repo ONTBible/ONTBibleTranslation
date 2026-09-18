@@ -51,6 +51,17 @@ CAS = [
     ("Comment attribuer le texte restitué dans supplied ?", ["KB-0068"], ["resp"]),
     ("Distinguer corr d’une correction du scribe dans le témoin", ["KB-0069"], ["modification visible"]),
     ("Que signifie le degré de confiance cert dans une lecture TEI ?", ["KB-0070"], ["confiance éditoriale"]),
+    ("Déduire la forme de dictionnaire en retirant un article hébreu : attestations et limites de la mesure", ["KB-0071", "KB-0073"], ["voyelle du préfixe", "trois questions distinctes"]),
+    ("La voyelle de l’article est-elle la voyelle du nom ?", ["KB-0071"], ["ne permet pas d’attribuer toute voyelle du nom"]),
+    ("Le dagesh initial dépend-il des accents du mot précédent ?", ["KB-0072"], ["coupures accentuelles", "exceptions"]),
+    ("Une forme nue majoritaire est-elle forcément la forme de citation ?", ["KB-0073"], ["conventions lexicographiques", "trois questions distinctes"]),
+    ("Merci, peux-tu vérifier si le piel veut toujours dire intensif ?", ["KB-0006"], ["causatif", "Gesenius"]),
+    ("Les tests passent. La session du vault demande si la forme nue majoritaire est forcément la forme de citation.", ["KB-0073"], ["trois questions distinctes"]),
+]
+
+SANS_DOSSIER = [
+    "Merci, j’ai bien reçu !", "Bien reçu. Les 36 tests passent.",
+    "Oki 👌", "Vas-y", "continue", "Merci beaucoup ! À bientôt.",
 ]
 
 
@@ -70,17 +81,20 @@ def main():
         if len(commandes) != 1:
             parser.error("Un unique hook KB configuré est attendu.")
         commande = commandes[0]
+    def appeler_hook(question):
+        # Le message passe par stdin ; seule la commande déjà configurée est du shell.
+        evenement = {"hook_event_name": "UserPromptSubmit", "cwd": str(vault / "lexique"), "prompt": question}
+        r = subprocess.run(["/bin/sh", "-c", commande], input=json.dumps(evenement), text=True,
+                           capture_output=True, cwd=vault / "lexique", timeout=10,
+                           env={**os.environ, "CLAUDE_PROJECT_DIR": str(vault)})
+        if r.returncode:
+            raise RuntimeError(r.stderr)
+        return json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"] if r.stdout.strip() else ""
+
     resultats = []
     for question, attendus, indices in CAS:
         if commande:
-            # Le message passe par stdin ; seule la commande déjà configurée est du shell.
-            evenement = {"hook_event_name": "UserPromptSubmit", "cwd": str(vault / "lexique"), "prompt": question}
-            r = subprocess.run(["/bin/sh", "-c", commande], input=json.dumps(evenement), text=True,
-                               capture_output=True, cwd=vault / "lexique", timeout=10,
-                               env={**os.environ, "CLAUDE_PROJECT_DIR": str(vault)})
-            if r.returncode:
-                raise RuntimeError(r.stderr)
-            texte = json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"]
+            texte = appeler_hook(question)
             ids = set(re.findall(r"^## (KB-\d+) —", texte, re.MULTILINE))
         else:
             d = kb.dossier(vault, question)
@@ -88,6 +102,12 @@ def main():
             texte = json.dumps(d, ensure_ascii=False)
         absents = [a for a in attendus if a not in ids] + [a for a in indices if a.casefold() not in texte.casefold()]
         resultats.append({"question": question, "reussite": not absents, "manquants": absents})
+    if commande:
+        for question in SANS_DOSSIER:
+            texte = appeler_hook(question)
+            resultats.append({"question": question, "attente": "aucun_contexte",
+                              "reussite": not texte,
+                              "manquants": ["silence attendu pour ce message sans tâche"] if texte else []})
     print(json.dumps({"type": "preuves_du_hook_configure" if commande else "preuves_retrouvees",
                       "configuration_testee": str(args.hook_config or vault / ".claude/settings.json") if commande else None,
                       "session_llm_verifiee": False, "cas": resultats}, ensure_ascii=False, indent=2))

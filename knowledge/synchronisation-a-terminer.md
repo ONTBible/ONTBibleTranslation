@@ -1,4 +1,49 @@
-# Raccordement et journal commun — état du 15 septembre 2026
+# Raccordement et journal commun — suivi des vérifications
+
+## Point de contrôle du 17 septembre 2026
+
+La préparation des destinations actuelles prévoit toujours 13 changements,
+dont la création de `.codex/hooks.json` dans le vault. Elle est conservée dans
+`knowledge/preparation/raccordement-2026-09-17.json`, avec les préimages et les
+différences à relire. Aucun de ces changements n’a été installé par cette
+session, dont les droits ne permettent pas l’écriture chez les voisins ni
+dans `.codex`.
+
+La revue actuelle, `knowledge/preparation/journaux-2026-09-17.json`, lit
+11 copies : 82 entrées distinctes, 20 divergences dont 11 limitées au séparateur
+final, et quatre préambules. Les neuf résolutions de contenu restent applicables
+après comparaison des empreintes. `journal-reconcilie.txt` et son JSON sont
+régénérés avec les 82 entrées, sans installation. Les mesures du 15 septembre ci-dessous
+restent historiques ; elles ne décrivent plus l’ensemble actuel à synchroniser.
+
+La KB contient 73 notices valides. Les 38 tests unitaires et les 47 questions
+dans chacun des trois modes d’évaluation passent. Les deux modes hook vérifient
+aussi six messages sans tâche : aucun contexte n’est injecté pour ces cas,
+soit 53 cas réussis par commande de hook. La commande proposée pour
+Codex fonctionne ; son installation et son chargement natif restent non
+vérifiés. La confirmation reçue de Claude le 16 concerne uniquement la session
+du vault. Le 17, la lecture de cette session via Herdr fonctionne, mais l’envoi
+d’un message reçoit `Operation not permitted`.
+
+Les sept commandes de hook préparées pour la racine, l’app, le site et Codex
+dans le vault ont été exécutées depuis leur destination et un sous-dossier.
+Les 28 cas passent : question de dérivation avec preuves et réserves attendues,
+puis accusé de réception sans contexte. Les 13 préimages sont inchangées après
+cette épreuve. Le rapport `knowledge/preparation/raccordement-verifie-2026-09-17.json`
+conserve les chemins, résultats et empreintes du code et des notices.
+Cette exécution ne charge pas de configuration dans une application.
+
+Le contrôle réel `scripts/concorder-la-synchronisation.py` retourne encore 1 :
+les troncs des trois dépôts principaux et de la racine ont quatre empreintes
+différentes. L’objectif reste incomplet : installation des raccordements,
+préservation puis synchronisation effective des journaux, et vérification du
+chargement et de l’usage des connaissances dans les assistants concernés.
+Ces étapes demandent un environnement autorisé à écrire aux destinations et
+à communiquer avec les sessions ; les permissions actuelles ne le permettent
+pas. La couverture documentaire reste extensible, sans prétention de répondre
+à toute question du projet.
+
+## État historique du 15 septembre 2026
 
 L’objectif conserve le raccordement des assistants et la synchronisation du
 journal entre dépôts. Les fichiers de configuration créés ici concernent le

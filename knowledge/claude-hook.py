@@ -2,10 +2,31 @@
 """UserPromptSubmit : joint un dossier local, sans bloquer le message utilisateur."""
 import json
 from pathlib import Path
+import re
 import sqlite3
 import sys
 
 import consulter
+
+
+def message_sans_tache(prompt):
+    """Reconnaître uniquement un message entier de réception ou de relance.
+
+    Ne pas exclure un message parce qu'il commence par « merci » ou vient
+    d'un pair : il peut aussi contenir une vraie question sur le corpus.
+    """
+    mots = re.findall(r"[^\W_]+", consulter.documents.normaliser(prompt))
+    texte = " ".join(mots)
+    if not texte:
+        return True
+    formules = (
+        r"salut|bonjour|bonsoir|merci(?: beaucoup)?|ok(?:ay|i)?|oui|non|go",
+        r"vas ?y|continue|bien recu|c ?est recu|j ?ai bien recu|entendu",
+        r"d accord|parfait|a bientot",
+        r"(?:les )?(?:\d+ )?tests (?:passent|sont passes)",
+    )
+    formule = "(?:" + "|".join(formules) + ")"
+    return re.fullmatch(formule + "(?: " + formule + ")*", texte) is not None
 
 
 def contexte(evenement):
@@ -14,8 +35,7 @@ def contexte(evenement):
     prompt = evenement.get("prompt", "")
     if not isinstance(prompt, str) or not prompt.strip():
         return None
-    salutation = consulter.documents.normaliser(prompt).strip(" \n.!?🙂👋")
-    if salutation in {"salut", "bonjour", "bonsoir", "merci", "ok", "oui", "non", "go"}:
+    if message_sans_tache(prompt):
         return None
     # Lire le checkout actif, y compris après un déplacement dans un worktree.
     courant = Path(evenement.get("cwd") or consulter.RACINE).resolve()

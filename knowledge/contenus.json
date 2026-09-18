@@ -2,6 +2,27 @@
   "version": 1,
   "description": "Notices de référence et parcours de lecture pour le travail ONT. Les renvois locaux restituent la source à chaque consultation ; les synthèses externes sont attribuées.",
   "sources": {
+    "uhg_article": {
+      "titre": "unfoldingWord Hebrew Grammar — Particle Definite Article",
+      "url": "https://uhg.readthedocs.io/en/latest/particle_definite_article.html",
+      "consulte_le": "2026-09-17",
+      "attribution": "unfoldingWord, grammaire de référence ; original sous CC BY-SA 4.0",
+      "limite": "Description des formes et fonctions de l’article ; ne fournit ni une table de lemmes ni un algorithme inverse validé pour tous les noms."
+    },
+    "gkc21": {
+      "titre": "Gesenius–Kautzsch–Cowley, Hebrew Grammar, §21 a–d",
+      "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar/21._The_Aspiration_of_the_Tenues",
+      "consulte_le": "2026-09-17",
+      "attribution": "Grammaire, édition anglaise de 1910 ; transcription Wikisource",
+      "limite": "Description historique de la tradition massorétique, avec exceptions ; consulter le contexte accentuel et les analyses ultérieures. Ce passage ne valide pas une règle universelle de suppression du dagesh."
+    },
+    "ontolex_forme_canonique": {
+      "titre": "Lexicon Model for Ontologies — §3.2 Forms et Canonical Form",
+      "url": "https://www.w3.org/2016/05/ontolex/#canonical-form",
+      "consulte_le": "2026-09-17",
+      "attribution": "W3C Ontology-Lexica Community Group, rapport du 10 mai 2016",
+      "limite": "Modèle lexicographique, pas une recommandation W3C ni un dictionnaire hébreu. Les exemples généraux de lemmatisation ne fixent pas les conventions de citation de l’hébreu."
+    },
     "oshb": {
       "titre": "Open Scriptures Hebrew Bible — Hebrew Morphology Codes",
       "url": "https://hb.openscriptures.org/parsing/HebrewMorphologyCodes.html",
@@ -2056,6 +2077,39 @@
           "statut": "parcours_editorial"
         }
       ]
+    },
+    {
+      "id": "KB-0071",
+      "domaine": "grammaire",
+      "titre": "Article défini hébreu : préfixe, voyelle et dagesh",
+      "aliases": ["article", "défini", "hébreu", "ha", "retirer", "ôter", "déduire", "dérivation", "forme nue", "gutturale", "vocalisation"],
+      "statut": "synthese_documentaire",
+      "texte": "UHG décrit l’article défini comme un préfixe הַ, généralement accompagné d’un dagesh dans la consonne suivante. La voyelle de l’article peut varier selon les gutturales et l’accentuation. Il s’agit ici de la voyelle du préfixe : cette description ne permet pas d’attribuer toute voyelle du nom à l’article. Application à une dérivation : repérer les morphèmes avant de retirer des caractères, puis contrôler séparément la forme nue proposée dans une source lexicale.",
+      "sources": [{"source": "uhg_article"}],
+      "relations": [
+        {"predicat": "consulter_avec", "objet": "KB-0072", "statut": "parcours_editorial"},
+        {"predicat": "consulter_avec", "objet": "KB-0073", "statut": "parcours_editorial"}
+      ]
+    },
+    {
+      "id": "KB-0072",
+      "domaine": "grammaire",
+      "titre": "Dagesh initial : conserver le contexte d’une occurrence",
+      "aliases": ["dagesh", "begadkefat", "begadkephat", "initial", "consonne", "accent", "accents", "article", "dérivation", "forme nue"],
+      "statut": "synthese_documentaire",
+      "texte": "Le §21 de Gesenius–Kautzsch–Cowley décrit le dagesh lene initial des lettres ב ג ד כ פ ת en fonction notamment de la fin du mot précédent et des coupures accentuelles ; il présente aussi des exceptions. Conséquence pour l’audit ONT : une forme sans article rencontrée dans un verset garde des propriétés de son contexte. La choisir comme cible ne mesure pas automatiquement une forme de dictionnaire. Conserver la référence, le mot précédent et les accents originaux avant toute normalisation destinée à la comparaison.",
+      "sources": [{"source": "gkc21"}],
+      "relations": [{"predicat": "consulter_avec", "objet": "KB-0073", "statut": "parcours_editorial"}]
+    },
+    {
+      "id": "KB-0073",
+      "domaine": "methodes",
+      "titre": "Forme de dictionnaire : la citation ne se choisit pas par fréquence",
+      "aliases": ["forme canonique", "forme de citation", "dictionnaire", "lexicographie", "lexicographique", "déduire", "dérivation", "attestation", "attestations", "majoritaire", "fréquence", "lemme"],
+      "statut": "synthese_documentaire",
+      "texte": "OntoLex définit la forme canonique comme celle qui identifie principalement une entrée ; son choix dépend des conventions lexicographiques de la langue. Le modèle ne la définit pas comme l’occurrence la plus fréquente. Application à l’audit ONT : comparer une forme dérivée à la forme nue majoritaire, à au moins une forme attestée, ou à une forme de citation documentée répond à trois questions distinctes. Nommer la cible avant de calculer un taux ; un résultat sur les deux premières ne prouve pas la troisième.",
+      "sources": [{"source": "ontolex_forme_canonique"}],
+      "relations": [{"predicat": "consulter_avec", "objet": "KB-0009", "statut": "parcours_editorial"}]
     }
   ]
 }
