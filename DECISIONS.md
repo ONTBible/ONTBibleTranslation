@@ -199,7 +199,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 160 leçons du journal
+## Les 161 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -362,6 +362,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Le même défaut ne se reconnaît pas quand il change d'échelle
 - Un énoncé coupe dans les deux sens — en appliquer la moitié, c'est croire le tenir
 - Un tube avale le code de sortie — et fabrique une réussite
+- La forme négative : « je ne vois pas » devenu « il n'y a pas »
 - Le motif de fond
 
 ---
