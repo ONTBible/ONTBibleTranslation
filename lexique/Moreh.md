@@ -189,4 +189,19 @@ dans la même ligne.
 
 ## Source
 
-4175 · מוֹרֶה
+4175 + 4176 · מוֹרֶה
+
+Deux numéros, et ==le témoin les sépare parfaitement== — non par le sens, mais
+par la catégorie grammaticale :
+
+    4176   nom propre    Bereshit 12:6 · Devarim 11:30 · Shoftim 7:1
+    4175   nom commun    Yoel 2:23 (×2) · Tehilim 84:7
+
+Trois et trois, sans une exception. ==C'est le lieu qui porte le numéro à
+part==, et cette fiche les déclare tous deux plutôt que de se scinder : ce
+qu'elle enseigne est précisément que ==le lieu porte le nom du concept==, et
+deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026.
+
+Cette ligne ne portait que `4175`, et *Bereshit* 12:6 — le seul emploi du
+corpus écrit — est `4176`. ==La fiche était donc atteinte par un mot qu'elle ne
+déclarait pas.==
