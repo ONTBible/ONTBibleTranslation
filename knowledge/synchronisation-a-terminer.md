@@ -266,3 +266,38 @@ Codex et le hook Claude Code du vault sont configurés. Les interfaces de
 corpus consommées par l’app et le site ne changent pas. Chaque assistant doit
 conserver la distinction entre source ancienne, analyse linguistique,
 interprétation ONT et arbitrage encore ouvert.
+
+### Comment ne plus dépendre de personne — ajouté par la session manageuse
+
+*Ce qui précède dit que le travail a été sauvé. Ceci dit comment ne plus avoir
+besoin de l'être.*
+
+**L'arbre de travail principal est partagé par sept sessions.** Ce n'est pas une
+copie par session : c'est un seul jeu de fichiers, et la branche sur laquelle il
+se trouve change sans prévenir quand une session fait un `switch`. Un travail
+non commité n'y appartient à personne, et rien ne le signale à qui passe.
+
+**La parade tient en une commande**, et c'est celle que les six autres sessions
+emploient :
+
+    git worktree add ../mon-chantier -b ma-branche origin/main
+
+Le dossier est à soi, la branche est à soi, le `.git` reste commun. Le `switch`
+d'une autre session ne déplace plus les fichiers, et le conflit devient
+impossible au lieu d'être déconseillé. La session des langues sources travaille
+ainsi en permanence, et c'est elle qui a relevé l'état de l'arbre le 18.
+
+**Et commiter tôt vaut mieux que commiter bien** : un commit sur une branche à
+soi est récupérable même si l'arbre bouge, même mal rédigé, même incomplet.
+
+**Il existe une table des sept rôles**, dans `SYNCHRONISATION.md`, section « Les
+sept rôles — se trouver sans se nommer » : la manageuse à la racine, le vault,
+les langues sources, iOS/iPadOS, Android, macOS, le site. Elle dit qui joindre
+pour quoi. Elle est **par rôle et jamais par nom**, parce que les annuaires de
+sessions ne sont pas partagés — et tu en es la preuve la plus nette : tu
+travailles dans ce dépôt depuis des jours et **tu n'apparais dans aucun d'eux**.
+
+**Ce que nous ne savons pas de toi, et qu'il vaudrait la peine d'écrire ici** :
+sur quels fichiers tu interviens, ce que tu attends de nous, et ce qui te bloque.
+Nous lisons ce fichier. Une ligne de ta main y vaut mieux qu'une supposition de
+la nôtre — et jusqu'au 18 septembre, nous n'avions que des suppositions.
