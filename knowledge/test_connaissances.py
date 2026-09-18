@@ -230,6 +230,33 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertIn("l'Être façonné du sol", manquants,
                       "avec un tiret, la fiche n'est plus celle du terme")
 
+    def test_un_lien_de_shem_sans_fiche_est_un_signal_un_gras_sans_fiche_est_bloquant(self):
+        # Épreuve de régression, écrite sur une faute de ce contrôle lui-même.
+        # Il rendait BLOQUANTS les deux, et condamnait donc ce que le CLAUDE.md
+        # autorise en toutes lettres : « le vault porte des renvois vers des
+        # porteurs pas encore écrits : ce sont des marques de travail à faire,
+        # pas des erreurs » (ligne 1934, et inline.rs:408 dit le même).
+        #
+        # La distinction n'est pas de goût, elle est de conséquence. Un gras
+        # sans fiche s'affiche EN OR ET TOUCHABLE : le lecteur l'ouvre et ne
+        # trouve rien — une promesse rompue. Un lien de Shem sans fiche est la
+        # liste de ce qui reste à écrire, et le pipeline l'émet exprès pour
+        # qu'elle reste visible.
+        self.ecrire("locked/unite.md", "¹ Et [[Yosef]] formula devant **chesed**.\n")
+        self.ecrire("lexique/chesed.md", "# chesed\n\nLa fidélité loyale.\n")
+        r = kb.controles(self.vault)
+        self.assertEqual(r["bloquants"], 0,
+                         "un Shem sans fiche ne barre pas : c'est du travail annoncé")
+        shemot = [c["terme"] for c in r["constats"] if c["controle"] == "shem_sans_fiche"]
+        self.assertIn("Yosef", shemot, "le Shem sans fiche se signale quand même")
+        (self.vault / "lexique/chesed.md").unlink()
+        r = kb.controles(self.vault)
+        self.assertEqual(r["bloquants"], 1,
+                         "un gras sans fiche barre : l'app le rend en or et il n'ouvre rien")
+        gras = [c["terme"] for c in r["constats"] if c["controle"] == "terme_inatteignable"]
+        self.assertIn("chesed", gras)
+        self.assertNotIn("Yosef", gras, "un lien de Shem n'est pas un gras")
+
     def test_controles_voient_un_terme_qu_aucune_fiche_ne_sert(self):
         self.ecrire("locked/unite.md", "¹ Et **termeorphelin** fut posé.\n")
         r = kb.controles(self.vault)

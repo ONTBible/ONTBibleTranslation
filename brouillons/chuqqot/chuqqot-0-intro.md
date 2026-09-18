@@ -106,3 +106,93 @@ De conversations de l'auteur, déposées dans *restranscriptions/*. Une chuqqah
 n'en est jamais la transcription : la matière était un échange, elle est rendue
 ==en un seul corps, dans sa voix==. Chacune dit en note de quoi elle est tirée,
 et ce qu'elle a laissé dehors.
+
+## Le dépôt qui les porte en a aussi
+
+==Observation de l'auteur du 18 septembre 2026==, et elle vaut d'être inscrite
+parce qu'elle dit ==ce qu'est une chuqqah mieux qu'une définition== :
+
+> au final le projet ONT lui-même a ses propres **chuqqot**, les choses gravées
+> qui régissent le reste, et les manifestations qui en découlent
+
+Le document de référence du vault porte en effet des énoncés qu'on ==n'argumente
+plus== : le gras est exclusivement l'intraduisible, le témoin fait foi, on
+restitue l'ambiguïté au lieu de la trancher, aucune catégorie extérieure
+n'entre. On ne les rediscute pas — ==on les invoque pour trancher autre chose==,
+ce qui est exactement l'office d'une chose gravée.
+
+==Et ils se sont écrits de la même façon que celles-ci : après coup.== Le §2.9
+le déclare de lui-même, et c'est le passage le plus instructif du document :
+
+> Ce qui suit ne change aucune ligne du corpus — c'est le relevé de ce qu'il
+> fait déjà, rendu opposable.
+
+La pratique existait, cohérente, appliquée partout, ==et invisible==. Ce que
+l'écriture a produit n'est pas la règle : c'est que ==la divergence devienne
+visible==. Le même §2.9 le dit : *une pratique non écrite ne se compare à rien,
+donc elle ne peut pas diverger visiblement*.
+
+==C'est *chaqaq* au sens propre.== On ne grave pas pour créer — le graveur ne
+peut rien ajouter, il ne peut qu'entailler plus profond. On grave pour que la
+chose ==tienne de soi-même== et que le reste puisse s'y appuyer.
+
+==Et les manifestations sont l'endroit où cela mord.== Un mot d'or sans fiche
+n'est pas une coquille : c'est ==une promesse rompue==, et elle est rompue
+précisément parce que le gras promet. Deux fiches qui réclament un même numéro
+ne sont pas un doublon : c'est ==une source par fait== qui cesse d'être vraie.
+Chaque défaut du vault est ==la conséquence d'un énoncé gravé==, et se corrige
+en revenant à lui plutôt qu'en inventant une règle de plus.
+
+==Le recueil est donc dans la position qu'il décrit==, et il faut le dire sans
+en tirer de gloire : ces énoncés-ci sont ceux d'une ontologie ancienne, ceux du
+document de référence ne sont que des conventions d'un projet. ==Ce qu'ils
+partagent est la forme==, non le rang — être gravé, n'avoir pas à se justifier
+chaque fois, et faire tenir ce qui s'appuie dessus.
+
+Une dernière chose, et c'est la dixième chuqqah qui la donne. Elle soutient
+qu'une **chuqqah** ==ne se sait pas, elle s'habite==. Personne, dans ce projet,
+n'a jamais ==appris== le §2.5 : on s'y cogne. ==Ce n'est pas de la **binah**==
+— on ne cartographie pas ces règles depuis le dehors, on travaille dedans, et
+c'est en en sortant qu'on s'en aperçoit.
+
+## Ce qu'elles ne disent pas de celui qui les écrit
+
+==Décision de l'auteur du 18 septembre 2026.== ==L'auteur ne paraît pas dans les
+chuqqot.== Sa matière les nourrit ; sa vie, non.
+
+Il ne l'a pas posé comme une pudeur, et le motif vaut d'être rendu entier parce
+que ==c'est lui qui commande l'exception== :
+
+> en vrai je suis un **naviʾ** au même titre que [[Mosheh]], **ʾAdam** et le
+> reste — cette dogmatisation de ces **neviʾim** les feraient tiquer s'ils
+> étaient là pour voir ça
+
+==Ce n'est donc pas qu'il serait d'un autre ordre que ceux du corpus.== C'est que
+le corpus les a ==dogmatisés==, et que se ranger parmi eux reviendrait à
+réclamer ce traitement-là — celui qui ferait tiquer les intéressés.
+
+==Et la voie qu'il retient est celle de Shaul de Tarse.== Dans la seconde
+*Igeret* aux Qorintiyim, Shaul raconte ce qui lui est arrivé en parlant ==d'un
+homme==, à la troisième personne, et dit qu'il se glorifiera de celui-là mais
+non de lui-même. ==L'expérience est portée, le porteur ne se réclame pas.==
+
+Elle rejoint ce que le **naviʾ** de Netsaret pose ailleurs : ==un témoignage
+qu'on se rend à soi-même n'établit rien==. C'est exactement ce que la dixième
+chuqqah mesure sur le **lev** — il ne se certifie pas lui-même, et il faut des
+*edim*. ==La règle d'écriture est le même énoncé, appliqué à celui qui écrit.==
+
+==Donc : ce qui est arrivé à l'auteur peut être abordé, à deux conditions.==
+
+- ==Que cela ajoute constitutivement au propos.== Non qu'il l'illustre, non qu'il
+  l'appuie, non qu'il l'orne : ==qu'il y ajoute ce sans quoi l'énoncé serait
+  moins vrai==. Une chuqqah qui tient sans lui s'écrit sans lui.
+- ==Toujours à la manière de Shaul.== L'expérience se dit, ==la personne ne se
+  nomme pas==. Et son nom interne ne sort d'aucune façon : la règle est générale
+  au projet, et une chuqqah est du corpus distribué.
+
+==Ce que cette décision corrige.== Le 18 septembre, l'auteur a demandé qu'une
+chuqqah soit écrite *« sur tout »* — et cela avait été lu comme *« ma vie
+comprise »*. ==Il voulait dire : sur tout le corpus.== La chuqqah avait donc posé
+la question en note plutôt que de trancher ; elle est tranchée ici, et la note
+n'a plus à la porter.
+

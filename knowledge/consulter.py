@@ -611,12 +611,42 @@ def controles(vault):
                                  "explication": "Deux fiches se recouvriraient : un mot d'or "
                                                 "ouvrirait l'autre, et rien ne le dirait."})
     g = graphe(vault, None, False, True)
-    orphelins = sorted({n["titre"] for n in g["noeuds"]
-                        if n["type"] in ("TermeSansFiche", "LemmeSansFiche")})
-    for t in orphelins:
-        constats.append({"controle": "terme_inatteignable", "gravite": "bloquant", "terme": t,
-                         "explication": "Le corpus l'écrit en gras, mais aucune fiche, forme "
-                                        "ni puce du §2.5 ne mène à une fiche existante."})
+    # Deux couches, deux gravités — et le graphe porte déjà la distinction dans
+    # son prédicat : « emploie » vient d'un `**terme**`, « nomme » d'un `[[Nom]]`.
+    #
+    # Un gras sans fiche est une PROMESSE ROMPUE : l'app le rend en or et
+    # touchable, le lecteur l'ouvre, il n'y a rien. Bloquant.
+    #
+    # Un lien de Shem sans fiche est ce que le §2.10 et `inline.rs:408` appellent
+    # « des marques de travail à faire, pas des erreurs » — le corpus nomme des
+    # porteurs avant que leurs fiches soient écrites, et le pipeline les émet
+    # délibérément plutôt que de les dégrader en texte nu, précisément pour que
+    # la liste de ce qui manque reste visible. Signal.
+    #
+    # Ce contrôle les confondait et rendait les deux bloquants. Il condamnait
+    # donc ce que le CLAUDE.md autorise en toutes lettres (ligne 1934), et son
+    # explication disait « le corpus l'écrit en gras » d'un mot qui ne l'était
+    # pas. Relevé le 18 septembre 2026 par la chuqqah « Connaître n'est pas
+    # savoir », première du vault à nommer [[Yosef]] et [[Yehudah]].
+    par_titre = {n["id"]: n.get("titre", n["id"]) for n in g["noeuds"]}
+    types = {n["id"]: n["type"] for n in g["noeuds"]}
+    sans_fiche = {}
+    for r in g["relations"]:
+        objet = r.get("objet")
+        if types.get(objet) in ("TermeSansFiche", "LemmeSansFiche"):
+            sans_fiche.setdefault(par_titre[objet], set()).add(r.get("predicat"))
+    for t, predicats in sorted(sans_fiche.items()):
+        en_gras = "emploie" in predicats
+        constats.append({
+            "controle": "terme_inatteignable" if en_gras else "shem_sans_fiche",
+            "gravite": "bloquant" if en_gras else "signal",
+            "terme": t,
+            "explication": ("Le corpus l'écrit en gras, mais aucune fiche, forme ni puce "
+                            "du §2.5 ne mène à une fiche existante.") if en_gras else
+                           ("Le corpus le nomme par [[…]] sans que sa fiche existe. Le §2.10 "
+                            "le permet — un renvoi vers un porteur pas encore écrit est une "
+                            "marque de travail à faire. À écrire, pas à corriger."),
+        })
     numeros = {}
     for f in fiches:
         doc = documents.lire(vault, f, "explication_ONT")
