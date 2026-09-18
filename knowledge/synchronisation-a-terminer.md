@@ -29,6 +29,11 @@ raccordements. Un opt-out explicite est désormais proposé dans le hook :
 la recherche et son comptage pour ces annonces. Le nom d'un pair, à lui seul,
 n'exclut pas une vraie question sur le corpus. Cela ne résout pas le classement
 lexical général ; les messages non marqués peuvent encore produire du bruit.
+Le format SendMessage rapporté ensuite par la manageuse est également couvert :
+les enveloppes et l'avis standard sont séparés des corps avant la recherche,
+y compris dans les lots mêlant coordination et question corpus. Les variantes
+sont testées sur fixtures, sans prétendre à une activation native. Le README
+déclare la rupture de mesure causée par les changements de filtre.
 
 Aucun `SYNCHRONISATION.md` commun n'a été réécrit. Le contrôle de concordance
 retourne encore 1. La préparation à 83 entrées mentionnée ci-dessous n'est pas

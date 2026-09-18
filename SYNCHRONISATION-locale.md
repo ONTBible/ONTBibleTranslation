@@ -218,3 +218,19 @@ vérifie l'absence de dossier et d'entrée de compteur pour ce marqueur.
 La concordance des journaux reste en échec. Les PR ouvertes et les entrées
 locales seront à inventorier avant tout rapprochement. Aucune modification de
 corpus ni de format consommé par l'app ou le site dans ce correctif.
+
+### 18 septembre 2026 — le transport ne doit pas devenir la question KB *(local)*
+
+La manageuse rapporte une recherche sur les termes du chemin de socket
+SendMessage. Le hook extrait désormais les corps d'un lot complet d'enveloppes
+reconnues avant la recherche. L'annonce explicitement marquée reste exclue,
+mais une question corpus dans le même lot conserve son dossier. Les fixtures
+couvrent l'avis standard avec ou sans sa dernière phrase, les lots mixtes et
+le repli conservateur sur un format inconnu. Aucun prompt reçu par l'assistant
+n'est modifié : seule la requête locale de la KB est préparée.
+
+La réserve du Vault sur la rupture de mesure est inscrite dans le README :
+la création du filtre et son activation effective dans chaque checkout sont
+distinctes. Les anciennes entrées ne permettent pas de reconstruire cette
+frontière. Ces modifications prolongent la PR #123 ; aucune configuration
+partagée n'est activée, aucun journal commun n'est remplacé.
