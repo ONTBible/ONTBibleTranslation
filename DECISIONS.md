@@ -199,7 +199,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 162 leçons du journal
+## Les 163 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -364,6 +364,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Un tube avale le code de sortie — et fabrique une réussite
 - La forme négative : « je ne vois pas » devenu « il n'y a pas »
 - Un contrôle vert est une affirmation sur l'instant où il a tourné
+- Deux instruments justes peuvent couvrir le même angle
 - Le motif de fond
 
 ---
