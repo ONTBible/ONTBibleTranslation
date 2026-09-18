@@ -2,9 +2,11 @@
 """KB ONT : connaissances attribuées, dossiers de tâche et corpus consultable."""
 import argparse
 from collections import Counter
+import datetime
 import hashlib
 import importlib.util
 import json
+import os
 from pathlib import Path
 import re
 import sqlite3
@@ -671,6 +673,87 @@ def controles(vault):
             "portee": "Contrôles de graphe. Un signal demande une lecture, pas une correction."}
 
 
+JOURNAL_USAGE = ".kb-usage.jsonl"
+
+
+def journaliser(vault, commande):
+    """Compte un lancement, et rien de plus.
+
+    ==Trois champs, décidés par l'auteur le 18 septembre 2026== : quand, quelle
+    sous-commande, quelle session. ==Jamais les arguments== — une tâche passée à
+    `dossier` peut contenir du texte du vault, et un journal d'usage n'a pas à
+    le recopier.
+
+    ==Il ne fait jamais échouer l'outil.== S'il ne peut pas écrire — disque
+    plein, dossier en lecture seule, chemin absent —, il se tait et l'outil
+    continue. Un compteur qui casse la chose qu'il compte est pire que pas de
+    compteur.
+
+    ## Pourquoi il existe
+
+    Le 16 septembre, l'auteur a demandé si la base avait servi. ==La question
+    n'était pas mesurable== : rien n'enregistrait les lancements, et les sessions
+    ont répondu par impression — « pas encore » chez l'une, « de façon décisive »
+    chez une autre, sans qu'on puisse additionner les deux. Dans une semaine, on
+    saura.
+
+    ## Où il écrit, et pourquoi pas dans le dépôt
+
+    À côté de `.espace-disque`, au-dessus du dépôt : un journal d'usage est un
+    fait de machine, non un fait du vault. Le versionner ferait diverger les
+    exemplaires et salirait chaque `git status`.
+
+    La session est identifiée par le numéro de sa socket — ==celui-là même que le
+    registre des sept rôles emploie== dans `SYNCHRONISATION.md`. On ne forge pas
+    un second identifiant quand le projet en a déjà un.
+    """
+    try:
+        socket = os.environ.get("CLAUDE_CODE_MESSAGING_SOCKET", "")
+        session = Path(socket).stem if socket else "—"
+        ligne = json.dumps({
+            "q": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+            "c": commande,
+            "s": session,
+        }, ensure_ascii=False)
+        with open(Path(vault).parent / JOURNAL_USAGE, "a", encoding="utf-8") as f:
+            f.write(ligne + "\n")
+    except Exception:
+        pass
+
+
+def usage(vault):
+    """Ce que le journal d'usage dit — et ce qu'il ne dit pas.
+
+    ==Il compte des lancements, pas des services rendus.== Une commande lancée
+    dix fois pour rien pèse autant qu'une qui a tranché un arbitrage. Le chiffre
+    dit si l'outil ==vit== ; il ne dit pas s'il ==sert==, et cette seconde
+    question reste à qui s'en sert de la rapporter.
+    """
+    chemin = Path(vault).parent / JOURNAL_USAGE
+    if not chemin.exists():
+        return {"lancements": 0, "portee": "Aucun journal — le compteur n'a jamais écrit ici."}
+    par_commande, par_session, par_jour = Counter(), Counter(), Counter()
+    total = 0
+    for ligne in chemin.read_text(encoding="utf-8").splitlines():
+        try:
+            e = json.loads(ligne)
+        except Exception:
+            continue
+        total += 1
+        par_commande[e.get("c", "?")] += 1
+        par_session[e.get("s", "—")] += 1
+        par_jour[e.get("q", "")[:10]] += 1
+    return {
+        "lancements": total,
+        "par_commande": dict(par_commande.most_common()),
+        "par_session": dict(par_session.most_common()),
+        "par_jour": dict(sorted(par_jour.items())),
+        "journal": str(chemin),
+        "portee": "Des lancements, non des services rendus. Le compte dit si "
+                  "l'outil vit ; il ne dit pas s'il sert.",
+    }
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--vault", type=Path, default=RACINE)
@@ -679,6 +762,7 @@ def main(argv=None):
     sub.add_parser("catalogue")
     sub.add_parser("inventaire")
     sub.add_parser("controles")
+    sub.add_parser("usage")
     d = sub.add_parser("dossier")
     d.add_argument("tache", nargs="?")
     d.add_argument("--stdin", action="store_true")
@@ -709,6 +793,7 @@ def main(argv=None):
             c.add_argument("--livre")
     a = p.parse_args(argv)
     vault = a.vault.resolve()
+    journaliser(vault, a.commande)
     if hasattr(a, "limite") and not 1 <= a.limite <= 50:
         p.error("--limite doit être compris entre 1 et 50.")
     try:
@@ -716,6 +801,8 @@ def main(argv=None):
             out = verifier(vault)
         elif a.commande == "controles":
             out = controles(vault)
+        elif a.commande == "usage":
+            out = usage(vault)
         elif a.commande == "catalogue":
             out = [{k: n[k] for k in ("id", "domaine", "titre", "statut", "aliases")} for n in charger(vault)["notices"]]
         elif a.commande == "dossier":
