@@ -134,6 +134,24 @@ pas été fait.
   la forme, la provenance et désormais la fraîcheur ; il ne lit pas ;
 - **les 2 nœuds `TermeSansFiche` et les 2 résolutions irrésolues** de la
   cascade — signalés, non traités ;
+- **cinq occurrences du Voyant sont hors d'atteinte, et la cause est dans le
+  témoin.** L'OSHB annote `d/7200` les cinq des Chroniques — *2 Chr* 16:7 et
+  16:10, *1 Chr* 9:22, 26:28 et 29:29 — là où il annote `d/7203 a` les cinq de
+  *1 Samuel* 9. Même mot, même office, analyse morphologique différente : les
+  cinq `7203 a` sont tous des participes (`Vqrmsa`), et les cinq seuls emplois
+  de 7200 étiquetés `Ncmsa` sont précisément les cinq Voyants. La table prend
+  donc les deux colonnes à l'envers — le numéro du nom là où elle lit un
+  participe, celui du verbe là où elle lit un nom —, alors qu'un numéro de
+  Strong indexe un lexème et non une analyse de forme.
+  Ni la fiche ni la liseuse ne peuvent les atteindre : le hé de l'article est
+  une consonne, donc `הָרֹאֶה` ne vaut jamais `רֹאֶה` à aucun étage de
+  normalisation. **Le témoin n'est pas retouché** — le `MANIFEST.json` déclare
+  l'OSHB avec son commit amont, et modifier un lemme ferait de notre copie
+  autre chose que ce qu'elle annonce : ce ne serait plus une inexactitude, ce
+  serait une attribution fausse. Déclaré en limite dans `sources/README.md`,
+  question portée en amont. Mécanisme établi par épreuve côté liseuse
+  (`ce_que_la_garde_fait_des_trois_graphies_de_roeh`), relevé du témoin
+  contre-vérifié ici ;
 - **le compteur d'usage ne dit encore rien.** `2 lancements · 1 démarrage`. Il a
   été posé le jour même : c'est une mesure de lui-même, pas de l'usage. À relire
   dans une semaine, et à ne citer d'ici là dans aucun arbitrage.
