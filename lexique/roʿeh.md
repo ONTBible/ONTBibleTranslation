@@ -88,4 +88,31 @@ tenait ; c'est la preuve qui était fausse.
 
 ## Source
 
-7200 · רֹאֶה
+7203 a + 7203 b · רֹאֶה
+
+==Le numéro du Voyant, non celui du verbe voir.== Décision de l'auteur du
+18 septembre 2026. La fiche déclarait `7200`, qui est le numéro de *raʾah* et
+celui de `lexique/raʾah.md` — ==deux fiches réclamaient donc la même clé==, et
+la liseuse, ne pouvant départager, n'en ouvrait aucune.
+
+Le témoin sépare, et il le fait ==par l'article== :
+
+    7203 a   הָרֹאֶה    1 Shemuel 9:9 (×2), 9:11, 9:18, 9:19   Td/Vqrmsa
+    7203 b   בָּרֹאֶה   Yeshayahu 28:7                          Rd/Ncmsa
+    7200     רֹאֶה      Bereshit 13:15, 31:5, 31:43, 39:23…     Vqrmsa, nu
+
+Sous `7203`, le mot est ==une charge== : on se déplace pour trouver le Voyant,
+il a une maison, il se présente comme tel. Sous `7200`, quelqu'un ==est en train
+de voir==, et cela finira. ==La lettre augmentée compte== (§2.5 ter) : `7203 a`
+est le participe de Shemuel, `7203 b` le nom de Yeshayahu, et une fiche qui
+déclarerait `7203` nu ne joindrait rien du tout.
+
+==Ce que cette Source n'atteint pas, et il faut le dire.== Cinq emplois portent
+le mot comme titre — *Hanani le **roʿeh***, *Shemuel le **roʿeh*** — et le
+témoin les range sous `7200` en les étiquetant ==noms== (`1 Divrei Hayamim` 9:22,
+26:28, 29:29 ; `2 Divrei Hayamim` 16:7, 16:10). ==L'étiquette morphologique y dit
+l'inverse du numéro.== Ils sont inatteignables aujourd'hui et le restent : les
+départager demanderait une règle morphologique que le §2.5 ter interdit.
+
+Et `1 Divrei Hayamim` 2:52 porte la même graphie sous `7204` — ==Haroeh, un
+**Shem**==, qui relève du §2.10 et ne doit jamais ouvrir cette fiche.
