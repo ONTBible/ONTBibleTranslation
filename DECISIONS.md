@@ -16,7 +16,7 @@ désigné, et cet index n'en est qu'une table.*
 | `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
-| `brouillons/chuqqot/connaitre-n-est-pas-savoir.md` | 338 | chaqaq, tardemah et edut. À trancher par l'auteur : tardemah et |
+| `brouillons/chuqqot/connaitre-n-est-pas-savoir.md` | 368 | chaqaq, tardemah et edut. À trancher par l'auteur : tardemah et |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 474 | ==Candidats intraduisibles, à trancher par l'auteur.== ==Le construit `basar ʾechad`== d'abord :… |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 478 | …on précédente ne faisait pas. ==À trancher par l'auteur== s'il veut l'y faire rentrer. |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 482 | … à passer par soma et pneuma. ==À trancher par l'auteur== si le passage doit y entrer le jour où… |
@@ -24,11 +24,11 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/chuqqot/la-force-repond-a-ce-qui-se-derobe.md` | 385 | …ucun couple français ne rend. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 179 | …au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 181 | … shamayim, également traduit. ==À trancher par l'auteur== le jour où Shemot fera paraître le par… |
-| `brouillons/chuqqot/le-navi-et-l-olam-d-argile.md` | 230 | …ode de constitution du naviʾ. ==À trancher par l'auteur== : au moins chozeh me semble en être, p… |
+| `brouillons/chuqqot/le-navi-et-l-olam-d-argile.md` | 239 | …ode de constitution du naviʾ. ==À trancher par l'auteur== : au moins chozeh me semble en être, p… |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 271 | …sente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrem… |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 275 | …l'aigle en Deutéronome 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
-| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 524 | …é pire qu'un ordre imparfait. ==À trancher par l'auteur== : celle-ci pose ce que les deux autres… |
-| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 528 | ==Candidats intraduisibles, à trancher par l'auteur.== ==safah== d'abord, et c'est le plus série… |
+| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 543 | …é pire qu'un ordre imparfait. ==À trancher par l'auteur== : celle-ci pose ce que les deux autres… |
+| `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 547 | ==Candidats intraduisibles, à trancher par l'auteur.== ==safah== d'abord, et c'est le plus série… |
 | `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 418 | …on d'un kli fait à son ʿolam. ==À trancher par l'auteur== si le paragraphe commun doit être reti… |
 | `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 422 | …temple celui de Nombres 12:8. ==À trancher par l'auteur.== |
 | `brouillons/chuqqot/yhwh-ha-maqom.md` | 201 | … qum est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
@@ -60,7 +60,8 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
-| `brouillons/chuqqot/chuqqot-0-intro.md` | 160 | Décision de l'auteur du 18 septembre 2026. ==L'auteur ne paraît pas dans les |
+| `brouillons/chuqqot/chuqqot-0-intro.md` | 129 | Décision de l'auteur du 18 septembre 2026. Quand une chuqqah est écrite, |
+| `brouillons/chuqqot/chuqqot-0-intro.md` | 215 | Décision de l'auteur du 18 septembre 2026. ==L'auteur ne paraît pas dans les |
 | `context/malakh-en-attente.md` | 103 | qu'il est. Décision de l'auteur du 12 septembre 2026. |
 | `lexique/Moreh.md` | 203 | deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026. |
 | `lexique/YHWH.md` | 86 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |

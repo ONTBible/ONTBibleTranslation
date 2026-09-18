@@ -138,6 +138,15 @@ C'est exactement ce que la **chuqqah** demande et qu'elle ne peut pas donner.
 Gravée dehors, la **chuqqah** attend ==un écho au-dedans== — et un écho ne se
 dessine pas, il se produit ou il ne se produit pas.
 
+==Une précaution, parce que la neuvième chuqqah dit ce qui paraît l'inverse.==
+Elle pose que les six capacités de *Yeshayahu* 11:2 sont ==six directions d'une
+seule aptitude==, et qu'on ne saurait tenir l'une sans les autres — elle prend
+d'ailleurs pour exemple ==la **daʿat** sans la **binah**==. C'est vrai, et cela
+ne contredit rien ici : ==on ne les possède pas séparément, et elles ne font pas
+la même chose==. Un homme qui a l'une a l'autre ; mais quand il cartographie, ce
+n'est pas par elles deux qu'il cartographie. ==Inséparables en possession,
+distinctes en opération.==
+
 ### Le **lev** n'est pas le siège du sentiment
 
 Il faut poser cela ici, parce que sans lui la suite se lit de travers.
@@ -155,6 +164,12 @@ entrailles==, se sont échauffés, et il sort de la salle pour pleurer.
 Donc quand un texte dit que quelque chose s'inscrit sur le **lev**, il ne parle
 pas d'émotion. Il parle de ==la couche où les décisions se prennent==, c'est-à-
 dire de ce qu'un être est avant d'agir.
+
+==La sixième chuqqah l'avait déjà posé==, et il faut le dire plutôt que de le
+redire comme si c'était neuf : elle y montre un homme dont le mouvement ==ne
+revient pas vers lui== mais va vers le **lev** d'un autre, et elle y lit ce que
+le français perd. On redit ici le peu qu'il faut pour que celle-ci se tienne
+seule ; ==le reste est là-bas==, avec la chose prise comme une main se referme.
 
 ## Les conséquences
 
@@ -292,6 +307,21 @@ seulement ensuite, que **YHWH** ordonne de poser la main sur lui — *samakh*,
 ==Le geste ne verse rien.== Il ne pourrait pas : ce qui devait être là y est
 déjà. Il ==engage celui qui le fait== — il met son propre poids sur la réalité
 de ce que l'autre porte. C'est pourquoi on ne pose pas les mains légèrement.
+
+==La cinquième chuqqah arrive au même énoncé par l'autre bout==, et aucune des
+deux ne le savait. Elle parle du **naviʾ**, non du **lev**, et elle conclut :
+*l'être est invariant, les actes sont contrôlables*. C'est mot pour mot ce qui
+précède — ==ce qu'on est ne s'atteste pas soi-même, ce qu'on fait se vérifie==.
+Deux entrées, un seul énoncé ; qu'il se retrouve depuis le **naviʾ** et depuis le
+**lev** est ce qui lui donne son poids.
+
+==Et la dixième y ajoute ce qui manque ici.== Elle montre que celui qui se met en
+hauteur ==cesse de voir== : *tissateru*, dans *Tsefanyah* 2:3, vient de *satar*
+— la racine du **seter**, l'endroit d'où l'on n'est pas vu, et du **nistar**, ce
+qui se dérobe de soi-même. ==Le vocabulaire même de l'**ʿolam**.== Donc un
+regard tourné vers soi ne perd pas seulement son crédit : ==il perd son
+champ==. Le **lev** qui se certifie lui-même ne se trompe pas par orgueil, il se
+trompe ==parce qu'il s'est placé là où l'on ne voit plus==.
 
 ## Le joint faible
 

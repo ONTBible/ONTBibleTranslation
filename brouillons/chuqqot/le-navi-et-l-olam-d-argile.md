@@ -197,6 +197,15 @@ sévère : ce qui a été dit, on regarde si ça vient.
 aux deux erreurs symétriques : disqualifier un homme pour une parole, ou avaler
 n'importe quelle parole au nom de l'homme.
 
+==La onzième chuqqah arrive au même énoncé depuis un autre terrain==, et aucune
+des deux ne le savait en s'écrivant. Elle ne parle pas du **naviʾ** mais du
+**lev**, et elle y trouve qu'il ==ne se certifie pas lui-même== : un **lev** très
+avancé peut produire la sensation d'une reconnaissance qui n'en est pas une, et
+de l'intérieur les deux sont indiscernables. D'où les *edim* du droit — ==un
+seul témoin ne se lève pas==. Le même énoncé donc, une fois depuis celui qui est
+saisi, une fois depuis le lieu où la saisie s'inscrit. ==Qu'il se retrouve par
+deux chemins est ce qui lui donne son poids.==
+
 Voici la vérité, au regard de l'ontologie hébraïque antique.
 
 ## Le joint faible
