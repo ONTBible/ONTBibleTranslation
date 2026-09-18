@@ -279,6 +279,16 @@ disparu.== Personne dans ce corpus ne cesse d'avoir un **ʿolam**. Un seul n'en 
 pas, et la deuxième chuqqah dit pourquoi : il est le **maqom** où tout **ʿolam**
 se tient.
 
+==Reste ce que cette chuqqah ne dit pas : par quoi le seuil bouge.== Elle
+constate le déplacement — chez [[ʾEliyahu]], chez [[ʾElisha]], chez l'orfèvre —
+et n'en donne aucun mécanisme. La onzième en nomme un, et le témoin ne l'emploie
+que sept fois : la *tardemah*, cette torpeur qui tombe et dont nul ne décide.
+L'**ʾishah** est édifiée pendant que l'**ʾAdam** dort ; la **berith** des
+morceaux se passe sans que [[ʾAvram]] marche entre eux. ==L'acte constitutif a
+lieu pendant que le sujet ne peut pas intervenir== — ce qui s'accorde exactement
+avec ce que cette chuqqah soutient depuis le début : ==aucune puissance ne se
+reçoit, et l'on ne se rend pas apte à soi-même==.
+
 ### Une langue est un seuil, elle aussi
 
 Il faut monter d'un cran, parce que le seuil d'un homme n'est pas seulement dans
@@ -386,7 +396,16 @@ Et voici pourquoi cela décide de toute la question. Si c'étaient six choses, o
 pourrait en avoir trois et pas les autres — on pourrait avoir la **gevurah**
 sans la **yirah**, la **daʿat** sans la **binah**. ==Mais ce sont six directions
 d'une seule aptitude==, et une direction ne se détache pas de ce dont elle est
-la direction. C'est d'ailleurs ce que l'orfèvre montrait déjà : trois d'entre
+la direction.
+
+==Cela dit qu'on ne les possède pas séparément. Cela ne dit pas qu'elles font la
+même chose.== La onzième chuqqah le montre sur le couple qui vient d'être cité
+comme exemple : la **binah** voit ce qui se tient ==entre== les choses — elle en
+dresse la carte, et elle peut la dresser d'un pays où elle n'a jamais marché ;
+la **daʿat** entre ==dedans==. Deux opérations distinctes, et une **chuqqah**
+n'est pas accessible à la première. ==Inséparables en possession, distinctes en
+opération== : les deux énoncés tiennent ensemble, et il faut les deux pour ne pas
+lire l'un contre l'autre. C'est d'ailleurs ce que l'orfèvre montrait déjà : trois d'entre
 elles, nommées ensemble, ==pour un seul métier==.
 
 Le verset le scelle par un jeu de racines que toute traduction perd. וַהֲרִיחוֹ

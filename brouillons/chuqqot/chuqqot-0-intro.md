@@ -38,6 +38,8 @@ a guère d'autres.
 | 7 | *le-gradient-de-kavod* | pourquoi il faut une médiation : les zones ne se comptent pas, elles se traversent |
 | 8 | *la-force-repond-a-ce-qui-se-derobe* | ce que coûte un **kli** qui tient à ce qui ne se montre pas — et pourquoi ce coût a un bord |
 | 9 | *on-ne-recoit-pas-une-puissance* | ce qu'un **kli** est, et comment il se constitue : aucune puissance ne se reçoit, un seuil se déplace |
+| 10 | *un-kli-tourne-vers-soi* | ce qu'un **kli** perd quand il se retourne sur lui-même : se faire voir coûte de voir |
+| 11 | *connaitre-n-est-pas-savoir* | ==comment on connaît l'une quelconque des dix autres== — et pourquoi une **chuqqah** ne se sait pas |
 
 ==Le rang est déclaré ici, et nulle part ailleurs.== Les fichiers ne portent
 aucun numéro, délibérément : un ordre inscrit à la fois dans un nom de fichier et
@@ -58,6 +60,21 @@ heure, par deux sessions différentes==, et celle-ci a été inscrite à la suit
 plutôt que glissée devant : ==un ordre imparfait coûte moins cher qu'une
 renumérotation qui écrase la décision d'un voisin==. ==À trancher par
 l'auteur== : sa place de raison serait juste après la sixième.
+
+==La onzième est à sa place de raison, elle.== Elle ne fonde pas ==ce que les
+autres disent== — c'est l'office de la première — mais ==la façon dont on les
+reçoit==. On aurait donc pu la mettre en tête, et ==ce serait la contredire== :
+elle soutient qu'une **chuqqah** ne se sait pas mais s'habite, et la placer
+devant demanderait au lecteur de la savoir ==avant de l'avoir habitée==. À la
+fin, elle nomme ce qu'il vient de faire dix fois. C'est le même raisonnement que
+le §2.9 tient sur lui-même : ==la règle vient après la pratique, pour la rendre
+opposable==.
+
+==Les deux ont été inscrites le 18 septembre 2026, et elles ne l'étaient pas.==
+La dixième vivait dans le dossier sans rang depuis son écriture, la onzième
+depuis le jour même. Sans rang, l'ordre eût été l'alphabet : la onzième serait
+arrivée ==première== et la première ==troisième==. C'est précisément ce que cette
+table existe pour empêcher, et elle ne l'empêche que si l'on pense à l'écrire.
 
 La sixième est placée là parce qu'elle ==ne tient que sur la cinquième== : il
 faut avoir posé que le **basar** est le **kli** de l'homme, et qu'il est une
@@ -106,6 +123,44 @@ De conversations de l'auteur, déposées dans *restranscriptions/*. Une chuqqah
 n'en est jamais la transcription : la matière était un échange, elle est rendue
 ==en un seul corps, dans sa voix==. Chacune dit en note de quoi elle est tirée,
 et ce qu'elle a laissé dehors.
+
+## Une chuqqah neuve oblige à relire les anciennes
+
+==Décision de l'auteur du 18 septembre 2026.== Quand une **chuqqah** est écrite,
+==on relit tout le recueil à sa lumière== — et l'on demande, pour chacune des
+autres, s'il faut la densifier, la détailler, ou la corriger.
+
+Ce n'est pas une politesse envers le recueil. C'est ==la conséquence de ce que
+le recueil dit de lui-même== : chacune se tient seule, et pourtant toutes disent
+==une facette d'une même chose==. Une facette de plus change ce que les autres
+montrent — parfois en les confirmant, parfois en les contredisant, et le plus
+souvent en rendant visible ==ce qu'elles avaient dit sans le savoir==.
+
+==Ce que la relecture cherche, et dans cet ordre :==
+
+- ==une contradiction apparente==. Deux chuqqot peuvent être vraies ensemble et
+  se lire comme opposées. C'est le cas le plus coûteux, parce que ==le lecteur
+  tranchera à notre place== s'il ne trouve nulle part la clause qui les accorde ;
+- ==un énoncé déjà porté par l'autre bout==. Deux chuqqot arrivent parfois à la
+  même chose depuis deux terrains, sans se nommer. Chacune gagne à ==dire que
+  l'autre y arrive autrement== ;
+- ==un mécanisme neuf qui manquait ailleurs==. Une chuqqah décrit souvent ce
+  qu'une autre avait seulement constaté ;
+- ==une redite non déclarée==. Redire est permis — ==une chuqqah qui exige
+  d'avoir lu les cinq précédentes n'est pas un énoncé permanent, c'est un
+  chapitre== — mais redire sans renvoyer prive le lecteur du reste ;
+- ==le rang==. Une chuqqah neuve ne s'inscrit pas seule à la table d'ordre, et
+  ==sans rang elle n'en a aucun== : l'ordre deviendrait celui de l'alphabet.
+
+==Ce que la relecture ne fait pas.== Elle ==n'uniformise pas==. Les chuqqot vont
+du simple au triple en longueur, et rien ici ne fixe de mesure : une facette
+demande ce qu'elle demande. ==Un écart de densité se relève, il ne se condamne
+pas== — le juger sans critère déclaré serait publier un taux sans dire sa cible.
+
+==Et elle se consigne.== Ce que la relecture a changé se dit dans les notes de
+la chuqqah touchée, avec ==laquelle l'a provoqué==. Sans cela, personne ne peut
+savoir si une chuqqah a été relue depuis la dernière — ==et une relecture qu'on
+ne peut pas dater vaut une relecture qu'on n'a pas faite==.
 
 ## Le dépôt qui les porte en a aussi
 
