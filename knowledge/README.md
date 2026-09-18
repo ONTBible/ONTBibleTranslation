@@ -208,6 +208,7 @@ résoudre une tâche avec des éléments vérifiables.
 
 ```sh
 python3 knowledge/consulter.py verifier
+python3 knowledge/consulter.py empreinter
 python3 -m unittest discover -s kb-prototype -p 'test_*.py'
 python3 -m unittest discover -s knowledge -p 'test_*.py'
 python3 knowledge/evaluer.py
@@ -229,6 +230,29 @@ de session LLM et ne démontre pas que l’application a chargé ou autorisé le
 L’évaluation ajoute six messages sans tâche en mode hook et exige qu’ils ne
 produisent aucun contexte ; deux questions précédées d’une formule de
 coordination contrôlent que le filtrage conserve le besoin documentaire.
+
+### La fraîcheur d’une source locale
+
+Une source locale déclare l’empreinte de la section citée, la date où elle a
+été prise et le commit du vault correspondant. La vérification recalcule
+l’empreinte : quand elle diffère, la section a changé depuis que la notice a
+été écrite, et la notice est signalée périmée.
+
+Le contrôle est un signal, non un bloquant : une notice périmée n’est pas
+cassée, elle est à relire. Le signal imprime la commande de diff quand le
+commit est connu, afin de montrer le changement au lieu de l’annoncer.
+
+Le titre d’une section reste stable quand son contenu ne l’est pas ; sans
+empreinte, une réécriture complète sous un titre inchangé ne produisait aucune
+erreur. Les sources externes déclaraient déjà leur date de consultation, et ce
+sont elles qui ne bougent pas.
+
+`empreinter` pose les empreintes manquantes et n’en rafraîchit aucune qui
+diverge : effacer un signal n’est pas le traiter. Après avoir relu la notice
+concernée, la nommer — `empreinter --relue KB-0008`.
+
+Poser une empreinte n’affirme pas que la notice est juste. Elle fixe le point à
+partir duquel une dérive devient visible.
 
 L’apparat SBLGNT compare des éditions imprimées. Le pont Septante est un
 alignement provisoire et ne restitue aucun texte grec. Une source absente ne

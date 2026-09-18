@@ -45,12 +45,33 @@ def section_source(vault, fichier, ancre):
     return documents.extrait(doc, debut, fin, ancre)
 
 
+def empreinte_section(ex):
+    """L'empreinte du texte de la section citée, telle qu'elle était à la rédaction.
+
+    Le titre d'une section est stable quand son contenu ne l'est pas : on peut
+    réécrire entièrement un paragraphe sous un « ## » inchangé, et l'ancre se
+    retrouve toujours. Sans cette empreinte, la notice continue d'affirmer ce
+    que la section ne dit plus, et rien ne le signale.
+
+    Le témoin de la dette : les sources externes déclarent leur `consulte_le`,
+    et ce sont elles qui ne bougent pas ; les sources locales n'en déclaraient
+    aucune, et ce sont elles qu'on réécrit tous les jours.
+
+    On empreinte le texte exact, sans normaliser. Un instrument indulgent ne
+    rend pas un verdict approximatif — il rend un verdict faux, et toujours
+    dans le sens qui arrange. Le prix est qu'une simple remise en forme fait
+    rougir : c'est le bon sens de l'erreur, et la relecture qu'elle coûte est
+    précisément ce que le contrôle existe pour demander.
+    """
+    return hashlib.sha256(ex["texte"].encode("utf-8")).hexdigest()[:16]
+
+
 def charger(vault):
     return json.loads(chemin_sur(vault, "knowledge/contenus.json").read_text(encoding="utf-8"))
 
 
 def verifier(vault):
-    data, erreurs = charger(vault), []
+    data, erreurs, perimees, non_horodatees = charger(vault), [], [], []
     if data.get("version") != 1:
         erreurs.append("Version de contenus non prise en charge.")
     ids = [n.get("id") for n in data.get("notices", [])]
@@ -80,14 +101,25 @@ def verifier(vault):
                     if not meta["url"].startswith("https://"):
                         raise ValueError("URL de source invalide.")
                 else:
-                    section_source(vault, s["fichier"], s["ancre"])
+                    ex = section_source(vault, s["fichier"], s["ancre"])
+                    ou = f"{s['fichier']} § {s['ancre']}"
+                    if not s.get("empreinte"):
+                        non_horodatees.append(f"{ident} : {ou}")
+                    elif s["empreinte"] != empreinte_section(ex):
+                        quoi = (f"git diff {s['commit']}..HEAD -- {s['fichier']}"
+                                if s.get("commit") else f"empreinte du {s.get('empreinte_le', '—')}")
+                        perimees.append(f"{ident} : {ou} — {quoi}")
             except (KeyError, ValueError, OSError) as exc:
                 erreurs.append(f"{ident} : {exc}")
         for r in n.get("relations", []):
             if r.get("predicat") != "consulter_avec" or r.get("objet") not in ids or r.get("statut") != "parcours_editorial":
                 erreurs.append(f"Relation invalide : {ident}")
+    # Une notice périmée n'est pas cassée, elle est à relire : c'est un signal,
+    # non un bloquant — les deux gravités de controles(). Un contrôle qui barre
+    # sur une remise en forme se fait contourner, et cesse alors de servir.
     return {"valide": not erreurs, "notices": len(ids),
-            "domaines": dict(Counter(n.get("domaine") for n in data.get("notices", []))), "erreurs": erreurs}
+            "domaines": dict(Counter(n.get("domaine") for n in data.get("notices", []))),
+            "erreurs": erreurs, "perimees": perimees, "non_horodatees": non_horodatees}
 
 
 def notion(vault, ident, data=None):
@@ -673,6 +705,78 @@ def controles(vault):
             "portee": "Contrôles de graphe. Un signal demande une lecture, pas une correction."}
 
 
+def commit_du_vault(vault):
+    """Le commit du vault au moment où l'empreinte est prise, quand il est lisible.
+
+    Une date dit QUAND on a regardé, une empreinte dit QUE ça a changé — le
+    commit dit CE QUI a changé, parce qu'il rend le diff calculable :
+
+        git diff <commit>..HEAD -- <fichier>
+
+    « KB-0027 cite une section qui a bougé » est vrai et inexploitable ;
+    « voici ce que le §2.5 a gagné depuis » se traite en trente secondes.
+    Forme reprise du MANIFEST.json des témoins, qui stampe le commit amont de
+    chaque import pour la même raison.
+
+    Illisible — pas un dépôt, git absent, arbre neuf — ne vaut pas échec : on
+    rend une chaîne vide et l'empreinte seule fait son office.
+    """
+    try:
+        import subprocess
+        r = subprocess.run(["git", "-C", str(vault), "rev-parse", "HEAD"],
+                           capture_output=True, text=True, timeout=5)
+        return r.stdout.strip()[:12] if r.returncode == 0 else ""
+    except Exception:
+        return ""
+
+
+def empreinter(vault, relues=()):
+    """Poser l'empreinte des sources locales qui n'en ont pas.
+
+    Deux gestes, et ils ne se confondent pas :
+
+    - une source SANS empreinte en reçoit une. C'est la migration, et elle
+      n'affirme rien : elle fixe un point de départ à partir duquel une
+      dérive devient visible. Elle ne dit pas que la notice est juste
+      aujourd'hui — seulement qu'on saura demain que la section a bougé ;
+    - une source PÉRIMÉE n'est jamais re-empreintée toute seule. Le faire
+      effacerait le signal au lieu de le traiter, ce qui est la façon la
+      plus sûre de rendre un contrôle inutile. Il faut nommer la notice
+      dans `relues`, après avoir relu ce qu'elle affirme.
+
+    C'est la règle de poser.py sur les crochets : on pose ce qui manque, on
+    ne remplace jamais ce qui diverge sans qu'on l'ait demandé.
+    """
+    chemin = chemin_sur(vault, "knowledge/contenus.json")
+    data = json.loads(chemin.read_text(encoding="utf-8"))
+    aujourdhui, commit = datetime.date.today().isoformat(), commit_du_vault(vault)
+    posees, rafraichies, laissees = [], [], []
+    for n in data["notices"]:
+        for s in n.get("sources", []):
+            if "source" in s:
+                continue
+            ou = f"{n['id']} : {s['fichier']} § {s['ancre']}"
+            trouvee = empreinte_section(section_source(vault, s["fichier"], s["ancre"]))
+            if not s.get("empreinte"):
+                s["empreinte"], s["empreinte_le"] = trouvee, aujourdhui
+                if commit:
+                    s["commit"] = commit
+                posees.append(ou)
+            elif s["empreinte"] == trouvee:
+                continue
+            elif n["id"] in relues:
+                s["empreinte"], s["empreinte_le"] = trouvee, aujourdhui
+                if commit:
+                    s["commit"] = commit
+                rafraichies.append(ou)
+            else:
+                laissees.append(ou)
+    if posees or rafraichies:
+        chemin.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return {"posees": posees, "rafraichies": rafraichies,
+            "perimees_laissees": laissees, "ecrit": bool(posees or rafraichies)}
+
+
 JOURNAL_USAGE = ".kb-usage.jsonl"
 
 
@@ -816,6 +920,9 @@ def main(argv=None):
     sub.add_parser("inventaire")
     sub.add_parser("controles")
     sub.add_parser("usage")
+    e = sub.add_parser("empreinter")
+    e.add_argument("--relue", action="append", default=[],
+                   help="notice dont on vient de relire la source : son empreinte est refaite")
     d = sub.add_parser("dossier")
     d.add_argument("tache", nargs="?")
     d.add_argument("--stdin", action="store_true")
@@ -856,6 +963,8 @@ def main(argv=None):
             out = controles(vault)
         elif a.commande == "usage":
             out = usage(vault)
+        elif a.commande == "empreinter":
+            out = empreinter(vault, set(a.relue))
         elif a.commande == "catalogue":
             out = [{k: n[k] for k in ("id", "domaine", "titre", "statut", "aliases")} for n in charger(vault)["notices"]]
         elif a.commande == "dossier":

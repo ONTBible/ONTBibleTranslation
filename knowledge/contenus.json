@@ -390,7 +390,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "3.4 Les formes verbales hébraïques (*binyanim*)"
+          "ancre": "3.4 Les formes verbales hébraïques (*binyanim*)",
+          "empreinte": "6901e3afb45e8090",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -464,7 +467,10 @@
       "sources": [
         {
           "fichier": "lexique/qahal.md",
-          "ancre": "Le verbe s'écrit comme le nom, et c'est le mot lui-même qui l'explique"
+          "ancre": "Le verbe s'écrit comme le nom, et c'est le mot lui-même qui l'explique",
+          "empreinte": "98f66db2d92b3848",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -485,7 +491,10 @@
       "sources": [
         {
           "fichier": "lexique/Chanokh-qui-marche-avec-Elohim.md",
-          "ancre": "Voir aussi"
+          "ancre": "Voir aussi",
+          "empreinte": "7c28332677356dab",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -506,7 +515,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "6.1 Ce que décrit cette section — et ce qu'elle ne décrit pas"
+          "ancre": "6.1 Ce que décrit cette section — et ce qu'elle ne décrit pas",
+          "empreinte": "8131eeb4e1213ae0",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -578,7 +590,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "4.14 La datation à plusieurs niveaux"
+          "ancre": "4.14 La datation à plusieurs niveaux",
+          "empreinte": "17430d9862e497fc",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -601,7 +616,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "Les cinq témoins"
+          "ancre": "Les cinq témoins",
+          "empreinte": "fed90020faedf8a9",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -624,7 +642,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "L'apparat du SBLGNT — et ce qu'il n'est pas"
+          "ancre": "L'apparat du SBLGNT — et ce qu'il n'est pas",
+          "empreinte": "81da31fb7cadd8a3",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": [
@@ -651,7 +672,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "Le guèze, et pourquoi il est à part"
+          "ancre": "Le guèze, et pourquoi il est à part",
+          "empreinte": "dae7cf23f0dd8373",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -674,7 +698,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "Le latin, et une censure médiévale qu'on ne masque pas"
+          "ancre": "Le latin, et une censure médiévale qu'on ne masque pas",
+          "empreinte": "a7051a3dc6520692",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": [
@@ -702,7 +729,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "`pont-septante/` — un outil de travail, jamais un témoin"
+          "ancre": "`pont-septante/` — un outil de travail, jamais un témoin",
+          "empreinte": "05fce2adde31b881",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -722,7 +752,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "L'attribution voyage avec la source"
+          "ancre": "L'attribution voyage avec la source",
+          "empreinte": "4cb58180538e8996",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -743,7 +776,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "4.11 Restituer les ambiguïtés — ne pas résoudre ce que le texte ne résout pas"
+          "ancre": "4.11 Restituer les ambiguïtés — ne pas résoudre ce que le texte ne résout pas",
+          "empreinte": "f938bdc0008597ae",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": [
@@ -771,7 +807,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "4.14 La datation à plusieurs niveaux"
+          "ancre": "4.14 La datation à plusieurs niveaux",
+          "empreinte": "17430d9862e497fc",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -792,7 +831,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "4.15 Le régime d'auteur"
+          "ancre": "4.15 Le régime d'auteur",
+          "empreinte": "5ee4be7f780ce176",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -812,7 +854,10 @@
       "sources": [
         {
           "fichier": "lexique/Chanokh-qui-marche-avec-Elohim.md",
-          "ancre": "Ce que la Berit Hadashah en fait"
+          "ancre": "Ce que la Berit Hadashah en fait",
+          "empreinte": "29bde72a567ec5cd",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -833,7 +878,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "2.5 Marquage des termes intraduisibles — convention Affinity Publisher"
+          "ancre": "2.5 Marquage des termes intraduisibles — convention Affinity Publisher",
+          "empreinte": "ab83c0a805f0b778",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": [
@@ -861,7 +909,10 @@
       "sources": [
         {
           "fichier": "lexique/geveret.md",
-          "ancre": "Ce que cette fiche doit déclarer, et qui reste à trancher"
+          "ancre": "Ce que cette fiche doit déclarer, et qui reste à trancher",
+          "empreinte": "447f9958eb2fb834",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -882,7 +933,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "4.16 L'infinitif absolu — l'hébreu double le verbe, le français aussi"
+          "ancre": "4.16 L'infinitif absolu — l'hébreu double le verbe, le français aussi",
+          "empreinte": "7648db4a77342534",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -903,7 +957,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "7. PASSAGES À TRAITER OBLIGATOIREMENT AVEC L'AUTEUR"
+          "ancre": "7. PASSAGES À TRAITER OBLIGATOIREMENT AVEC L'AUTEUR",
+          "empreinte": "7e55c75d950328d2",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -925,7 +982,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "9. MARCHE À SUIVRE POUR CHAQUE VERSET"
+          "ancre": "9. MARCHE À SUIVRE POUR CHAQUE VERSET",
+          "empreinte": "02d50b491c81b662",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": [
@@ -953,7 +1013,10 @@
       "sources": [
         {
           "fichier": "CLAUDE.md",
-          "ancre": "2.5 ter Les fiches de lexique — `lexique/<lemme>.md`"
+          "ancre": "2.5 ter Les fiches de lexique — `lexique/<lemme>.md`",
+          "empreinte": "a8e22b3c16f394d7",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -974,7 +1037,10 @@
       "sources": [
         {
           "fichier": "sources/README.md",
-          "ancre": "La forme, et ce qu'elle ne décide pas"
+          "ancre": "La forme, et ce qu'elle ne décide pas",
+          "empreinte": "dd405fcb9c5acce3",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -996,7 +1062,10 @@
       "sources": [
         {
           "fichier": "SYNCHRONISATION.md",
-          "ancre": "30 août 2026 — l'instrument qui répond à une autre question"
+          "ancre": "30 août 2026 — l'instrument qui répond à une autre question",
+          "empreinte": "6fd64442bb69108d",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -1017,7 +1086,10 @@
       "sources": [
         {
           "fichier": "SYNCHRONISATION.md",
-          "ancre": "2 septembre 2026 — un texte écrit sur son plan, et non sur sa source"
+          "ancre": "2 septembre 2026 — un texte écrit sur son plan, et non sur sa source",
+          "empreinte": "19620dfc305f8475",
+          "empreinte_le": "2026-09-18",
+          "commit": "68c78491f357"
         }
       ],
       "relations": []
@@ -2082,34 +2154,102 @@
       "id": "KB-0071",
       "domaine": "grammaire",
       "titre": "Article défini hébreu : préfixe, voyelle et dagesh",
-      "aliases": ["article", "défini", "hébreu", "ha", "retirer", "ôter", "déduire", "dérivation", "forme nue", "gutturale", "vocalisation"],
+      "aliases": [
+        "article",
+        "défini",
+        "hébreu",
+        "ha",
+        "retirer",
+        "ôter",
+        "déduire",
+        "dérivation",
+        "forme nue",
+        "gutturale",
+        "vocalisation"
+      ],
       "statut": "synthese_documentaire",
       "texte": "UHG décrit l’article défini comme un préfixe הַ, généralement accompagné d’un dagesh dans la consonne suivante. La voyelle de l’article peut varier selon les gutturales et l’accentuation. Il s’agit ici de la voyelle du préfixe : cette description ne permet pas d’attribuer toute voyelle du nom à l’article. Application à une dérivation : repérer les morphèmes avant de retirer des caractères, puis contrôler séparément la forme nue proposée dans une source lexicale.",
-      "sources": [{"source": "uhg_article"}],
+      "sources": [
+        {
+          "source": "uhg_article"
+        }
+      ],
       "relations": [
-        {"predicat": "consulter_avec", "objet": "KB-0072", "statut": "parcours_editorial"},
-        {"predicat": "consulter_avec", "objet": "KB-0073", "statut": "parcours_editorial"}
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0072",
+          "statut": "parcours_editorial"
+        },
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0073",
+          "statut": "parcours_editorial"
+        }
       ]
     },
     {
       "id": "KB-0072",
       "domaine": "grammaire",
       "titre": "Dagesh initial : conserver le contexte d’une occurrence",
-      "aliases": ["dagesh", "begadkefat", "begadkephat", "initial", "consonne", "accent", "accents", "article", "dérivation", "forme nue"],
+      "aliases": [
+        "dagesh",
+        "begadkefat",
+        "begadkephat",
+        "initial",
+        "consonne",
+        "accent",
+        "accents",
+        "article",
+        "dérivation",
+        "forme nue"
+      ],
       "statut": "synthese_documentaire",
       "texte": "Le §21 de Gesenius–Kautzsch–Cowley décrit le dagesh lene initial des lettres ב ג ד כ פ ת en fonction notamment de la fin du mot précédent et des coupures accentuelles ; il présente aussi des exceptions. Conséquence pour l’audit ONT : une forme sans article rencontrée dans un verset garde des propriétés de son contexte. La choisir comme cible ne mesure pas automatiquement une forme de dictionnaire. Conserver la référence, le mot précédent et les accents originaux avant toute normalisation destinée à la comparaison.",
-      "sources": [{"source": "gkc21"}],
-      "relations": [{"predicat": "consulter_avec", "objet": "KB-0073", "statut": "parcours_editorial"}]
+      "sources": [
+        {
+          "source": "gkc21"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0073",
+          "statut": "parcours_editorial"
+        }
+      ]
     },
     {
       "id": "KB-0073",
       "domaine": "methodes",
       "titre": "Forme de dictionnaire : la citation ne se choisit pas par fréquence",
-      "aliases": ["forme canonique", "forme de citation", "dictionnaire", "lexicographie", "lexicographique", "déduire", "dérivation", "attestation", "attestations", "majoritaire", "fréquence", "lemme"],
+      "aliases": [
+        "forme canonique",
+        "forme de citation",
+        "dictionnaire",
+        "lexicographie",
+        "lexicographique",
+        "déduire",
+        "dérivation",
+        "attestation",
+        "attestations",
+        "majoritaire",
+        "fréquence",
+        "lemme"
+      ],
       "statut": "synthese_documentaire",
       "texte": "OntoLex définit la forme canonique comme celle qui identifie principalement une entrée ; son choix dépend des conventions lexicographiques de la langue. Le modèle ne la définit pas comme l’occurrence la plus fréquente. Application à l’audit ONT : comparer une forme dérivée à la forme nue majoritaire, à au moins une forme attestée, ou à une forme de citation documentée répond à trois questions distinctes. Nommer la cible avant de calculer un taux ; un résultat sur les deux premières ne prouve pas la troisième.",
-      "sources": [{"source": "ontolex_forme_canonique"}],
-      "relations": [{"predicat": "consulter_avec", "objet": "KB-0009", "statut": "parcours_editorial"}]
+      "sources": [
+        {
+          "source": "ontolex_forme_canonique"
+        }
+      ],
+      "relations": [
+        {
+          "predicat": "consulter_avec",
+          "objet": "KB-0009",
+          "statut": "parcours_editorial"
+        }
+      ]
     }
   ]
 }

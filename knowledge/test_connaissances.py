@@ -85,6 +85,38 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertFalse(r["valide"])
         self.assertIn("Disparue", " ".join(r["erreurs"]))
 
+    def test_une_section_reecrite_sous_un_titre_inchange_est_signalee_perimee(self):
+        # Le défaut que l'audit du 18 septembre 2026 a établi : l'ancre se
+        # retrouve toujours, donc le contrôle ne voyait rien — on pouvait
+        # réécrire ENTIÈREMENT une section sous son titre et garder 0 erreur.
+        kb.empreinter(self.vault)
+        self.assertEqual(kb.verifier(self.vault)["non_horodatees"], [])
+        self.ecrire("CLAUDE.md", "# Règles\n\n## Prudence\n\nTout autre chose.\n\n### Exception\n\nAutre encore.\n\n## Suite\n\nAutre règle.\n")
+        r = kb.verifier(self.vault)
+        self.assertIn("KB-0001", " ".join(r["perimees"]))
+        # Périmée n'est pas cassée : c'est un signal, il ne barre pas.
+        self.assertTrue(r["valide"])
+        self.assertEqual(r["erreurs"], [])
+
+    def test_empreinter_pose_ce_qui_manque_et_ne_rafraichit_une_perimee_que_nommee(self):
+        pose = kb.empreinter(self.vault)
+        self.assertEqual(len(pose["posees"]), 1)
+        self.assertTrue(pose["ecrit"])
+        # Reposer sans rien changer n'écrit pas : une empreinte juste se tait.
+        self.assertFalse(kb.empreinter(self.vault)["ecrit"])
+        self.ecrire("CLAUDE.md", "# Règles\n\n## Prudence\n\nTout autre chose.\n\n### Exception\n\nAutre encore.\n\n## Suite\n\nAutre règle.\n")
+        # Re-empreinter en aveugle effacerait le signal au lieu de le traiter :
+        # c'est la façon la plus sûre de rendre un contrôle inutile.
+        aveugle = kb.empreinter(self.vault)
+        self.assertEqual(aveugle["rafraichies"], [])
+        self.assertEqual(len(aveugle["perimees_laissees"]), 1)
+        self.assertFalse(aveugle["ecrit"])
+        self.assertIn("KB-0001", " ".join(kb.verifier(self.vault)["perimees"]))
+        # Nommer la notice est l'acte de celui qui vient de la relire.
+        nomme = kb.empreinter(self.vault, {"KB-0001"})
+        self.assertEqual(len(nomme["rafraichies"]), 1)
+        self.assertEqual(kb.verifier(self.vault)["perimees"], [])
+
     def test_relation_inconnue_et_id_duplique_refuses(self):
         self.data["notices"].append(copy.deepcopy(self.data["notices"][0]))
         self.data["notices"][0]["relations"][0]["objet"] = "KB-9999"
