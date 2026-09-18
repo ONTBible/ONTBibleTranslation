@@ -101,9 +101,15 @@ chaque import pour cette raison exacte.
   rend pas un verdict approximatif, il rend un verdict faux et toujours dans le
   sens qui arrange — c'est le 98,1 % du §2.5 ter. Le prix est qu'un reflow fait
   rougir ; c'est le bon sens de l'erreur. L'empreinte et la vérification sortent
-  du **même `extrait()`**, donc du même tampon : la mise en garde de la session
-  des langues sources sur `ONT_PRETTY` — un fichier indenté publié sous une
-  empreinte compacte — ne mord pas ici.
+  du **même `extrait()`**, donc du même tampon : le piège d'`ONT_PRETTY` — un
+  fichier indenté publié sous une empreinte calculée en compact — ne mord pas
+  ici.
+
+  *(Ce piège était crédité ci-dessus à la session des langues sources, et
+  c'était faux : elle me l'avait relayé, non trouvé. Relevé par la session
+  macOS, qui a refusé le crédit que je lui prêtais au passage. Le journal de
+  l'app tranche sans nous deux — « la mesure vient du vault ». Une attribution
+  fausse voyage comme une preuve fausse : elle se relit comme vérifiée.)*
 - **`empreinte_le`, et non `revu_le`.** Le champ dit l'acte réellement accompli.
   Personne n'a relu ces vingt-quatre sections aujourd'hui ; on en a pris
   l'empreinte. Nommer autrement ferait exactement ce que cet audit reproche.
