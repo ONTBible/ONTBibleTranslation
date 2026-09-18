@@ -341,16 +341,16 @@ les entendre.
   ne dit pas qu'elle part du dedans. *Yadaʿ* et *bin* sont déjà là par leurs
   noms, **daʿat** et **binah**, comme *qahal* l'est par le sien.*
 
-- *==Ce que la chuqqah laisse dehors, et c'est une question ouverte.== La matière
-  porte une application à la constitution propre de l'auteur — son nom interne,
-  les deux cornes, la période qu'il nomme la Torpeur, le **qahal** qu'il prépare
-  — et c'est une part considérable des 1495 lignes. Le précédent de la cinquième
-  chuqqah range cela dans son archive personnelle, hors du corpus. ==L'auteur a
-  demandé « tout ».== Je n'ai pas tranché à sa place, pour une raison précise et
-  pas par prudence : ==son nom interne ne sort jamais==, et une chuqqah est du
-  corpus distribué. ==À trancher par l'auteur== — et s'il maintient, la question
-  n'est pas de savoir si on l'écrit mais ==sous quelle forme ce qui est à lui
-  peut être dit sans le nommer==.*
+- *==Ce que la chuqqah laisse dehors, et c'est désormais une règle.== La matière
+  porte une application à la constitution propre de l'auteur — les deux cornes,
+  la période qu'il nomme la Torpeur, le **qahal** qu'il prépare —, et c'est une
+  part considérable des 1495 lignes. ==Elle n'entre pas.== L'auteur avait demandé
+  « tout » ; il l'a précisé le jour même : il voulait dire ==sur tout le
+  corpus==, non sa vie comprise. La feuille d'introduction porte désormais la
+  règle et son motif — ==la manière de Shaul de Tarse==, qui dit l'expérience
+  sans réclamer le porteur. Et rien de cette matière n'aurait ==ajouté
+  constitutivement== à l'énoncé : elle l'aurait illustré, ce qui n'est pas le
+  même geste.*
 
 ### Ce que la chuqqah engage dans le corpus
 

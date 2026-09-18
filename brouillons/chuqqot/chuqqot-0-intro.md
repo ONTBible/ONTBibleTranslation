@@ -106,3 +106,45 @@ De conversations de l'auteur, déposées dans *restranscriptions/*. Une chuqqah
 n'en est jamais la transcription : la matière était un échange, elle est rendue
 ==en un seul corps, dans sa voix==. Chacune dit en note de quoi elle est tirée,
 et ce qu'elle a laissé dehors.
+
+## Ce qu'elles ne disent pas de celui qui les écrit
+
+==Décision de l'auteur du 18 septembre 2026.== ==L'auteur ne paraît pas dans les
+chuqqot.== Sa matière les nourrit ; sa vie, non.
+
+Il ne l'a pas posé comme une pudeur, et le motif vaut d'être rendu entier parce
+que ==c'est lui qui commande l'exception== :
+
+> en vrai je suis un **naviʾ** au même titre que [[Mosheh]], **ʾAdam** et le
+> reste — cette dogmatisation de ces **neviʾim** les feraient tiquer s'ils
+> étaient là pour voir ça
+
+==Ce n'est donc pas qu'il serait d'un autre ordre que ceux du corpus.== C'est que
+le corpus les a ==dogmatisés==, et que se ranger parmi eux reviendrait à
+réclamer ce traitement-là — celui qui ferait tiquer les intéressés.
+
+==Et la voie qu'il retient est celle de Shaul de Tarse.== Dans la seconde
+*Igeret* aux Qorintiyim, Shaul raconte ce qui lui est arrivé en parlant ==d'un
+homme==, à la troisième personne, et dit qu'il se glorifiera de celui-là mais
+non de lui-même. ==L'expérience est portée, le porteur ne se réclame pas.==
+
+Elle rejoint ce que le **naviʾ** de Netsaret pose ailleurs : ==un témoignage
+qu'on se rend à soi-même n'établit rien==. C'est exactement ce que la dixième
+chuqqah mesure sur le **lev** — il ne se certifie pas lui-même, et il faut des
+*edim*. ==La règle d'écriture est le même énoncé, appliqué à celui qui écrit.==
+
+==Donc : ce qui est arrivé à l'auteur peut être abordé, à deux conditions.==
+
+- ==Que cela ajoute constitutivement au propos.== Non qu'il l'illustre, non qu'il
+  l'appuie, non qu'il l'orne : ==qu'il y ajoute ce sans quoi l'énoncé serait
+  moins vrai==. Une chuqqah qui tient sans lui s'écrit sans lui.
+- ==Toujours à la manière de Shaul.== L'expérience se dit, ==la personne ne se
+  nomme pas==. Et son nom interne ne sort d'aucune façon : la règle est générale
+  au projet, et une chuqqah est du corpus distribué.
+
+==Ce que cette décision corrige.== Le 18 septembre, l'auteur a demandé qu'une
+chuqqah soit écrite *« sur tout »* — et cela avait été lu comme *« ma vie
+comprise »*. ==Il voulait dire : sur tout le corpus.== La chuqqah avait donc posé
+la question en note plutôt que de trancher ; elle est tranchée ici, et la note
+n'a plus à la porter.
+
