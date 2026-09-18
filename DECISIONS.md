@@ -9,10 +9,10 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 619 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
-| `CLAUDE.md` | 1389 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1592 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
-| `CLAUDE.md` | 1686 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 652 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
+| `CLAUDE.md` | 1422 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1625 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `CLAUDE.md` | 1719 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
@@ -43,20 +43,20 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | La décision |
 |---|---:|---|
-| `CLAUDE.md` | 104 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
-| `CLAUDE.md` | 179 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
-| `CLAUDE.md` | 356 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 1286 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1475 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
-| `CLAUDE.md` | 1508 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
-| `CLAUDE.md` | 1691 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 1913 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 2068 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 2186 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 2207 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
-| `CLAUDE.md` | 2336 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2628 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2694 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 137 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
+| `CLAUDE.md` | 212 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `CLAUDE.md` | 389 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `CLAUDE.md` | 1319 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1508 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
+| `CLAUDE.md` | 1541 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
+| `CLAUDE.md` | 1724 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 1946 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 2101 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 2219 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 2240 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
+| `CLAUDE.md` | 2369 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2661 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2727 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |

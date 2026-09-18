@@ -21,6 +21,39 @@
 > Renommer un livre, changer une structure de fichier ou une convention de
 > balisage se répercute donc jusqu'à l'App Store — et rien ici ne le signale.
 
+> ## Deux crochets git tournent ici, et la garde n'est pas eux
+>
+> `scripts/crochets/` porte deux crochets, versionnés pour être relus et
+> corrigés comme le reste. **Git ne les installe jamais tout seul** — un dépôt
+> cloné ne doit pas pouvoir exécuter du code à l'insu de qui le clone, et
+> `.git/hooks` n'est donc pas versionnable. La pose est une commande :
+>
+>     python3 scripts/crochets/poser.py --dire    l'état, sans rien écrire
+>     python3 scripts/crochets/poser.py           pose ce qui manque
+>
+> | crochet | ce qu'il refuse |
+> |---|---|
+> | `commit-msg` | un trailer Claude dans le message — consigne de l'auteur du 7 septembre 2026 |
+> | `pre-commit` | un commit qui périmerait `DECISIONS.md` |
+>
+> **La garde est la CI, pas eux.** Elle tourne sur chaque pull request, chez
+> tout le monde, et c'est elle qui décide. Ces crochets ne font qu'annoncer à la
+> seconde ce qu'elle dirait vingt minutes après la poussée. **Un crochet absent
+> ne crée donc aucun trou** — il coûte un aller-retour de PR rouge, pas de la
+> sûreté. Le jour où quelque chose reposerait sur l'un d'eux, ce serait un défaut
+> de conception.
+>
+> **Une pose couvre toutes les sessions**, les worktrees partageant le même
+> dossier git. C'est commode, et ça demande d'être dit : poser un crochet change
+> le comportement du commit de six voisins qui ne l'ont pas installé.
+>
+> **Et `DECISIONS.md` se réengendre, il ne se recopie pas.** Il compte aussi les
+> fichiers du vault et les fiches — donc **ajouter une fiche suffit à le
+> périmer**, sans qu'aucune ligne datée soit en cause. Trois pull requests de
+> deux sessions ont rougi là-dessus le 18 septembre 2026, et le premier
+> diagnostic — « une ligne datée » — était trop étroit : il couvrait les trois
+> cas par coïncidence et laissait dehors le plus fréquent.
+
 ---
 
 ## 1. QU'EST-CE QUE L'ONT ?

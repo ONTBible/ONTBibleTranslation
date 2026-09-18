@@ -1,0 +1,12 @@
+#!/bin/sh
+# Aucun trailer Claude dans les commits — consigne de l'auteur.
+#
+# Le harnais des sessions propose ces lignes d'office, et ~130 commits les ont
+# portées avant le 7 septembre 2026 malgré la consigne écrite. Un garde-fou
+# mécanique vaut mieux qu'une discipline : décision de Gloire du même jour.
+# Les hooks vivant dans le .git partagé, une pose couvre tous les worktrees.
+if grep -qiE '^(Co-Authored-By:.*Claude|Claude-Session:)' "$1"; then
+  echo "✗ Trailer Claude détecté dans le message de commit." >&2
+  echo "  Consigne de l'auteur : sujet + corps, point. Retirer la ligne, recommiter." >&2
+  exit 1
+fi
