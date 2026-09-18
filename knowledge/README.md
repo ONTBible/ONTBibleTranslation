@@ -13,6 +13,7 @@ python3 knowledge/consulter.py dossier 'Distinguer geveret et gevirah et retrouv
 python3 knowledge/consulter.py dossier 'Le piel implique-t-il toujours une intensité ?' --format markdown
 python3 knowledge/consulter.py dossier 'Un participe se traduit-il toujours au présent ?' --format markdown
 python3 knowledge/consulter.py dossier 'Que désignent sujet prédicat et objet dans un triplet RDF ?' --format markdown
+python3 knowledge/consulter.py dossier 'Déduire la forme de dictionnaire en retirant un article hébreu : attestations et limites de la mesure' --format markdown
 ```
 
 Le dossier contient les notices sélectionnées, les extraits originaux avec
@@ -118,7 +119,8 @@ Dans les sessions ouvertes dans ce dépôt :
   dossier pour le message reçu et le fournit en contexte supplémentaire.
 
 Le hook est local, sans réseau ni génération payante. Il ne bloque pas les
-messages, ignore les salutations simples, annonce une erreur de consultation
+messages, ignore les salutations, accusés de réception et relances sans sujet
+reconnus comme messages entiers, annonce une erreur de consultation
 et ne modifie aucun texte. Les réglages privés de l’utilisateur sont conservés.
 Il utilise le checkout actif lorsqu’un worktree est reconnu.
 
@@ -133,7 +135,10 @@ Le 16 septembre 2026, la session Claude du vault a confirmé recevoir les
 dossiers injectés pendant une revue coordonnée via Herdr. Cette observation
 concerne cette session ; elle ne valide pas le chargement dans Codex ni dans
 les sessions des autres dépôts. La revue a aussi relevé du contexte peu
-pertinent sur des messages de coordination : le filtrage du hook reste à améliorer.
+pertinent sur des messages de coordination. Le filtrage du 17 septembre écarte
+les formules courtes comme « bien reçu, les tests passent ». Un message qui
+contient aussi une question de corpus reste consulté. Les comptes rendus longs
+passent toujours par le moteur lexical ; leur pertinence reste à améliorer.
 
 Les sessions ouvertes dans `ONTBibleApp`, `ONTBibleWebapp` ou leur dossier
 parent ne sont pas configurées par ces seuls fichiers. Leur raccordement
@@ -180,6 +185,13 @@ documentaires distinguent cote et composition, langue et écriture, lacune,
 lecture incertaine, restitution et correction éditoriale. Leurs sources et
 leurs limites sont conservées avec chaque synthèse.
 
+Les notices KB-0071 à KB-0073 traitent la dérivation d’une forme sans article :
+formes de l’article selon UHG, dagesh initial en contexte selon GKC §21,
+et choix lexicographique d’une forme de citation selon OntoLex. Elles
+distinguent les descriptions des sources de leur application à l’audit ONT.
+Les questions d’évaluation vérifient aussi la présence des réserves : retrouver
+une forme attestée ou majoritaire ne prouve pas sa qualité de forme de citation.
+
 Ajouter une notice au domaine concerné, avec un nouvel identifiant. Quand le
 fait existe déjà, déclarer son ancre. Pour un apport extérieur, rédiger une
 synthèse attribuée après consultation du passage pertinent ; ne pas recopier
@@ -214,6 +226,9 @@ standard. Utiliser uniquement un fichier de configuration relu : cette option
 exécute ses commandes. Elle contrôle les notices effectivement restituées,
 leurs preuves et leurs attributions avec le budget du hook. Elle n’ouvre pas
 de session LLM et ne démontre pas que l’application a chargé ou autorisé le hook.
+L’évaluation ajoute six messages sans tâche en mode hook et exige qu’ils ne
+produisent aucun contexte ; deux questions précédées d’une formule de
+coordination contrôlent que le filtrage conserve le besoin documentaire.
 
 L’apparat SBLGNT compare des éditions imprimées. Le pont Septante est un
 alignement provisoire et ne restitue aucun texte grec. Une source absente ne

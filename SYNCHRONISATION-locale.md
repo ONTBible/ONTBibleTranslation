@@ -126,3 +126,53 @@ pas. Le journal commun et les raccordements voisins ne sont pas installés par
 ce travail. Claude confirme la réception du contexte du hook dans sa session,
 tout en relevant du bruit sur les messages de coordination. Ce point reste
 distinct de la correction Strong et du raccordement Codex encore proposé.
+
+### 17 septembre 2026 — trois repères pour vérifier une dérivation *(local)*
+
+La KB passe de 70 à 73 notices. KB-0071 distingue la voyelle de l’article de
+celle du nom, KB-0072 conserve le contexte accentuel du dagesh initial,
+KB-0073 distingue forme majoritaire, forme attestée et forme de citation.
+Sources relues : UHG sur l’article, GKC §21 a–d et OntoLex §3.2. Les applications
+à l’audit sont signalées comme telles ; aucun taux historique n’est consacré
+par ces notices. Aucun texte de traduction ni déclaration Strong n’est modifié.
+
+Validation : 73 notices valides, 27 tests KB et préparation, 9 tests du
+prototype. Les 45 questions de récupération passent en consultation directe,
+par la commande Claude configurée et par la proposition Codex. Ce dernier
+contrôle ne prouve pas un chargement natif dans Codex.
+
+Les préparations datées du jour dans `knowledge/preparation/` constatent encore
+13 changements de raccordement à appliquer. La revue des journaux lit 11
+copies, 82 entrées distinctes et 20 divergences, dont 11 limitées au séparateur
+final. Les neuf résolutions de contenu restent applicables après contrôle des
+empreintes ; la proposition du journal est régénérée pour les 82 entrées.
+Aucune destination voisine n’a été écrite.
+Herdr permet de lire la session Claude du vault, mais l’envoi d’un message
+est refusé par les permissions présentes. La concertation et l’installation
+restent à reprendre dans un environnement autorisé.
+
+### 17 septembre 2026 — le hook distingue une réception d’une question *(local)*
+
+`knowledge/claude-hook.py` n’ajoute plus de dossier pour les formules entières
+de réception ou de relance reconnues, par exemple « merci, j’ai bien reçu »
+et « bien reçu, les 36 tests passent ». Une question ONT ajoutée à ces formules
+déclenche toujours la recherche. Aucun expéditeur n’est exclu ; le filtrage
+ne prétend pas classer les comptes rendus longs par leur sens.
+
+Validation : 29 tests KB et préparation, 9 tests du prototype, 73 notices
+valides. Les 47 questions documentaires passent en direct et dans les deux
+commandes de hook ; six messages supplémentaires exigent leur silence, soit
+53 cas par hook. La validation native dans les autres sessions reste ouverte.
+
+Ce changement concerne les assistants qui exécutent ce script partagé, sans
+modifier le corpus ni ses interfaces. Les configurations voisines et le
+journal commun restent à installer avec les droits requis. La proposition
+de migration des journaux locaux est régénérée pour conserver cette entrée.
+
+Contrôle complémentaire des raccordements : les sept commandes proposées
+passent 28 cas depuis leurs destinations et sous-dossiers. Les 13 préimages
+restent identiques ; aucun fichier n’a été installé. Le rapport daté dans
+`knowledge/preparation/raccordement-verifie-2026-09-17.json` garde les empreintes
+du script et des notices testés. Le contrôle de concordance réel retourne 1 ;
+les quatre troncs principaux restent différents. La suite nécessite les
+droits d’installation et l’accès aux sessions pour éprouver leur usage réel.

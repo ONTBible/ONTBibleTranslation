@@ -199,6 +199,26 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stderr)
         self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
 
+    def test_hook_silencieux_pour_reception_et_relance_sans_sujet(self):
+        for prompt in ("Merci, j’ai bien reçu !", "Bien reçu. Les 36 tests passent.",
+                       "Oki 👌", "Vas-y", "continue", "Merci beaucoup ! À bientôt."):
+            with self.subTest(prompt=prompt):
+                r = subprocess.run([sys.executable, str(Path(__file__).with_name("claude-hook.py"))],
+                    input=json.dumps({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault), "prompt": prompt}),
+                    capture_output=True, text=True)
+                self.assertEqual(r.returncode, 0, r.stderr)
+                self.assertEqual(r.stdout, "")
+
+    def test_hook_conserve_une_question_dans_un_message_de_coordination(self):
+        for prompt in ("Merci, explique qahal", "Les tests passent. Vérifie qahal et son état construit.",
+                       "Message de la session du vault : explique qahal", "Continue sur qahal"):
+            with self.subTest(prompt=prompt):
+                r = subprocess.run([sys.executable, str(Path(__file__).with_name("claude-hook.py"))],
+                    input=json.dumps({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault), "prompt": prompt}),
+                    capture_output=True, text=True)
+                self.assertEqual(r.returncode, 0, r.stderr)
+                self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
+
     def test_controles_voient_deux_fiches_qui_se_percutent(self):
         # Le cas du 12 septembre : malakh le verbe et malʾakh l'envoyé, deux mots
         # que l'hébreu sépare par un alef, une seule clé tant que le slug pardonne.
