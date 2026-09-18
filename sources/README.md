@@ -232,7 +232,7 @@ d'*asah* sur 2 269 tombent sur ποιέω, aucune poignée d'appariements faux n
 fabrique ce chiffre. ==Faible au mot, fort à l'agrégat== — et l'ONT ne lui
 demande que l'agrégat.
 
-**Trois limites à connaître avant de s'en servir :**
+**Quatre limites à connaître avant de s'en servir :**
 
 - ==un seul sens==. Il n'existe aucun identifiant de mot grec : on va de
   l'hébreu vers le grec, jamais l'inverse. Les *plus* de la Septante — ce
@@ -243,7 +243,71 @@ demande que l'agrégat.
 - ==l'édition grecque n'est nommée nulle part==. Ni le dépôt ni sa
   documentation ne disent si le grec vient de Rahlfs ou de Göttingen. On ne le
   devine pas : le pont n'énonce que des **numéros de Strong**, qui sont de 1890
-  et libres de droits.
+  et libres de droits ;
+- ==la lettre augmentée est perdue une fois sur sept==. Le témoin distingue
+  `2617 a` de `2617 b` — deux entrées lexicales —, le pont écrit souvent le
+  numéro nu. La section ci-dessous mesure ce que ça coûte. ==Ne jamais se servir
+  du champ `he` comme d'un numéro de Strong== : c'est une clé de jointure
+  interne au pont, pas une identité lexicale.
+
+### La lettre augmentée — mesurée, déclarée, et non réparée
+
+Le §2.5 ter du `CLAUDE.md` pose la règle : *« Strong avait fondu des mots que
+l'érudition a séparés depuis, et les éditions modernes les distinguent par une
+lettre : `1254 a` n'est pas `1254 b`. C'est une distinction réelle, elle se
+garde. »* ==Le pont ne la garde pas partout==, et il faut dire exactement où.
+
+**Ce n'est pas un aplatissement systématique — c'est une inconstance**, et elle
+vient de la donnée d'amont : MACULA écrit tantôt la lettre collée au numéro
+(`0871a`, `1886a`), tantôt rien du tout. Relevé sur les 319 772 appariements :
+
+    écrits AVEC la lettre                        124 260    38,9 %
+    écrits nus                                   195 512    61,1 %
+      dont le témoin augmente ce numéro-là        45 515    14,2 %   ← la lettre est perdue
+        et le nu recouvre plusieurs lemmes         8 741     2,7 %   ← deux mots tombent l'un sur l'autre
+
+==Seule la dernière ligne est un défaut de sens.== Les 45 515 disent qu'une
+information a disparu ; les 8 741, répartis sur ==38 numéros==, disent qu'elle
+manquait pour distinguer. Les plus lourds :
+
+    4480    5 113    a·b    מִן  ·  מִקְוֶה  ·  מִיצִיאִים
+    5892      973    a·b    עִיר  ·  עַיִר
+    1419      443    a·b    גָּדוֹל  ·  גדל
+    7760      404    a·b    שׂים  ·  יָשַׂם  ·  סמם
+    7451      299    a·b·c  רַע  ·  רָעָה  ·  רָעַע
+
+**Le cas qui a ouvert le dossier, et qui s'est révélé bénin.** `2617` —
+**chesed** — a été trouvé par un écart d'une unité entre le pont et la base de
+connaissances, 158 contre 159. Le pont écrit `2617` 158 fois et `2617a` une
+fois, ==les deux sous le lemme חֶסֶד== ; le témoin écrit `2617 a` 245 fois et
+`2617 b` — l'opprobre — deux fois. La perte de la lettre n'y fond donc rien :
+le `2617 b` n'entre pas dans le pont. ==Le cas qui alerte n'est pas toujours le
+cas qui coûte.==
+
+**Deux chiffres ont été publiés avant celui-ci, et ils étaient faux.** J'avais
+annoncé 104 mélanges réels et 108 059 appariements touchés, soit 33,8 %. Cette
+mesure comptait ==les numéros que le pont lui-même écrit de plusieurs façons==,
+sans demander si le témoin, lui, les distinguait — et elle embarquait les
+proclitiques que MACULA invente pour les préfixes (`2050` le waw, `1886`
+l'article, `3807` le lamed), sur lesquels le pont ne s'appuie jamais. ==Un
+chiffre bien formé sur une question voisine de celle qu'on posait.==
+
+**Pourquoi on ne réimporte pas.** Trois raisons, dans cet ordre :
+
+- ==le défaut est en amont==. MACULA écrit le numéro nu ; un réimport ne
+  fabriquerait pas la lettre qu'elle n'a pas écrite. Il faudrait la rétablir
+  depuis le témoin, c'est-à-dire ==décider à la place de la source== ;
+- ==le pont ne promet pas le mot==. Cette page déclare déjà *faible au mot,
+  fort à l'agrégat*, et porte l'aveu de MACULA elle-même — *tentative
+  alignment, never manually checked*. Un défaut de 2,7 % au mot ne change pas
+  ce que l'agrégat sait faire ;
+- ==un import refait est un import dont personne ne sait ce qu'il a changé==.
+  Le défaut mesuré et écrit vaut mieux, et il est ici.
+
+**Ce qu'il faut en faire, en pratique.** Pour compter les équivalences grecques
+d'une racine, le pont suffit. Pour ==identifier un lemme==, passer par le témoin
+(`sources/he-wlc/`), qui porte la lettre. Et toute fiche de `lexique/` qui
+déclare sa `## Source` la tire du témoin, jamais du pont.
 
 ### L'interversion χ / ξ — et pourquoi les formes ne sont pas reprises du tout
 
