@@ -117,6 +117,39 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertEqual(len(nomme["rafraichies"]), 1)
         self.assertEqual(kb.verifier(self.vault)["perimees"], [])
 
+    def test_les_passages_sont_engendres_et_le_controle_voit_leur_derive(self):
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            "ont_decouper", Path(kb.__file__).parent / "decouper.py")
+        dec = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(dec)
+
+        # Une section plus grosse que le seuil, sans sous-titre pour la couper :
+        # c'est le cas réel du §2.5, que le CLAUDE.md interdit de fractionner.
+        gros = "\n\n".join(f"Paragraphe {i} d'une section qui dépasse le seuil." * 12
+                            for i in range(40))
+        self.ecrire("CLAUDE.md", f"# Règles\n\n## Prudence\n\nUne décision reste ouverte.\n\n### Exception\n\nCette réserve compte.\n\n## Massive\n\n{gros}\n")
+        r = dec.engendrer(self.vault)
+        self.assertGreater(r["passages"], 1)
+        self.assertTrue((self.vault / "passages").is_dir())
+        self.assertEqual(dec.verifier(self.vault)["perimes"], [])
+
+        # Un passage retouché à la main est une seconde source qui diverge :
+        # le contrôle doit le voir, sinon le découpage recrée le défaut qu'il
+        # est censé éviter.
+        cible = sorted((self.vault / "passages").glob("*.md"))[0]
+        cible.write_text(cible.read_text(encoding="utf-8") + "\najout\n", encoding="utf-8")
+        self.assertIn(cible.name, dec.verifier(self.vault)["perimes"])
+
+        cible.unlink()
+        self.assertIn(cible.name, dec.verifier(self.vault)["absents"])
+
+        # Et la source qui bouge périme les passages, pas l'inverse.
+        dec.engendrer(self.vault)
+        self.ecrire("CLAUDE.md", f"# Règles\n\n## Prudence\n\nUne décision reste ouverte.\n\n### Exception\n\nCette réserve compte.\n\n## Massive\n\nTout autre chose.\n")
+        v = dec.verifier(self.vault)
+        self.assertTrue(v["en_trop"], "les passages d'une section disparue doivent être signalés")
+
     def test_relation_inconnue_et_id_duplique_refuses(self):
         self.data["notices"].append(copy.deepcopy(self.data["notices"][0]))
         self.data["notices"][0]["relations"][0]["objet"] = "KB-9999"

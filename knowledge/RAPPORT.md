@@ -177,3 +177,74 @@ La parade appliquée au §3 est celle que le journal donne déjà : **un instrum
 se valide sur un cas dont on connaît la réponse**, jamais sur celui qu'on
 étudie. Le témoin propre a été exigé *avant* la réécriture, et c'est lui qui
 rend le second chiffre lisible.
+
+---
+
+## 9. Ce que la recherche rate — mesuré, puis corrigé
+
+*Ajouté le 18 septembre 2026, sur demande de l'auteur.*
+
+La KB ne compose pas de phrases : elle retrouve des passages écrits par
+quelqu'un. Son README le déclare — *« recherche lexicale dans les documents et
+notices ; aucun modèle d'embeddings »*. Restait à savoir ce que ça coûte.
+
+**Le banc.** `knowledge/banc-recherche.py` — douze questions en français, et
+pour chacune la source qui y répond, **relevée dans les documents avant tout
+lancement**. C'est ce qui le rend utile : une amélioration jugée à l'impression
+n'est pas une amélioration.
+
+    départ                          5 trouvées sur 12
+    rang moyen quand trouvé         1,2 sur 8 rendus
+
+**Les deux causes des sept ratées, mesurées et non supposées.**
+
+| cause | mesure |
+|---|---|
+| la **taille de la section** | médiane des ratées **16 094** caractères, des trouvées **3 500** — cinq pour un |
+| une **population homogène** | « Prononciation » paraît dans **437** fiches : la source qui fait autorité concourt contre 437 quasi-jumelles |
+
+Les trois plus grosses sections du `CLAUDE.md` — §2.5 (47 605), §3.2 (32 817),
+§2.5 ter (16 094) — étaient trois des cibles ratées. Le classement BM25 pénalise
+la longueur : **la section qui fait autorité est celle qui perd**.
+
+**Ce que la mesure a corrigé dans la recommandation.** J'allais conseiller des
+embeddings. Ils n'auraient pas réparé la cause 1 — ils l'auraient aggravée :
+encoder 47 605 caractères en un vecteur produit un vecteur qui ne dit rien. Le
+remède est mécanique, non sémantique. *Le gros levier proposé avant mesure,
+une fois de plus.*
+
+**Le correctif.** `knowledge/decouper.py` engendre des passages à partir des
+sections au-delà de 4 000 caractères — 14 sections, 65 passages, médiane
+2 482 caractères. Les sources ne sont pas touchées, et c'est nécessaire : le
+`CLAUDE.md` **interdit** de poser un sous-titre dans son §2.5, qui fermerait la
+section et rendrait invisibles les formes déclarées dessous. Les sections les
+plus grosses sont exactement celles qu'on ne peut pas couper sur place.
+
+    5/12  →  11/12
+
+**Et la mesure a été contrôlée, parce qu'un +6 qui suit une retouche de
+l'instrument a la forme suspecte.** Le critère du banc a dû changer — il
+exigeait `CLAUDE.md` comme fichier porteur, donc il aurait compté ✗ une bonne
+réponse remontée depuis un passage, c'est-à-dire qu'il aurait mesuré
+l'emplacement au lieu de la trouvaille. Le contrôle sépare les deux causes :
+
+    nouveau critère, SANS les passages     5/12   ← identique au départ
+    nouveau critère, AVEC les passages    11/12
+
+Le changement de critère apporte **zéro**. Le gain vient entièrement du
+découpage.
+
+**Un passage n'est pas une seconde source.** Il est engendré, jamais édité, et
+il déclare l'empreinte de la section dont il sort. `decouper.py --verifier`
+refuse la dérive — éprouvé sur quatre cas dont on connaît la réponse : intact 0,
+retouché 1, supprimé 1, régénéré 0. Le pas est dans la CI, et il **échoue** au
+lieu de régénérer, comme celui de l'index des décisions : régénérer en silence
+ferait diverger le dépôt de ce qui a été relu.
+
+C'est ce qui répond à la crainte de l'auteur — *« il faudra maintenir les
+découpes et le CLAUDE en même temps »*. Non : on édite la source, on relance une
+commande, et le contrôle se souvient à notre place.
+
+**La ratée qui reste** est la question du qof — la cause 2, que le découpage ne
+traite pas. Une pondération par autorité (`CLAUDE.md` est la norme, une fiche en
+est une illustration) est le levier suivant, et il se mesurera sur le même banc.

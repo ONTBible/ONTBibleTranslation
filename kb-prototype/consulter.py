@@ -11,7 +11,11 @@ import sys
 import unicodedata
 
 DOSSIERS = {"lexique": "explication_ONT", "locked": "traduction_verrouillee",
-            "brouillons": "brouillon", "context": "note_de_travail"}
+            "brouillons": "brouillon", "context": "note_de_travail",
+            # Engendré par knowledge/decouper.py, jamais édité à la main : les
+            # sections trop grosses des documents de référence, recoupées pour
+            # que le classement par BM25 cesse de les diluer.
+            "passages": "passage_derive"}
 FICHIERS = {"CLAUDE.md": "conventions_et_historique_ONT",
             "SYNCHRONISATION.md": "methode_et_journal_historique",
             "corpus-order.md": "ordre_du_corpus",

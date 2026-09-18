@@ -1,0 +1,10 @@
+# 3.2 Noms et concepts fondamentaux
+
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 3.2 Noms et concepts fondamentaux », partie 10. Empreinte de la section : `be19300021846aa8`. Régénérer : `python3 knowledge/decouper.py`.*
+
+| Terme hébreu | Translittération | Traduction ONT | Ce qu'il signifie |
+|---|---|---|---|
+| כֹּהֵן | *kohen* | Kohen | Intraduisible. Non pas "prêtre" (catégorie romaine/catholique anachronique qui réduit le terme à la fonction sacrificielle). Le **kohen** hébreu est l'intermédiaire fonctionnel qui maintient l'interface entre le domaine humain et le domaine divin — il tient les deux côtés ouverts l'un à l'autre. Pluriel : **kohanim**. Forme construite : *kohen* de/de l'alliance. Premier emploi en *Genèse* 14:18 — Malki-tsedeq, **kohen** de **ʾEl ʿElyon**. Central dans tout Vayiqra. Laissé en hébreu. |
+| צֶדֶק | *tsedeq* | tsedeq | Intraduisible. L'ordre juste cosmique, la conformité structurelle au bon fonctionnement de la réalité. Non pas "justice" au sens moral grec (*dikaiosyne*). Trois formes intraduisibles issues de cette racine : **tsedeq** (le concept), **tsadiq** (l'adjectif : celui qui est dans l'ordre juste — premier emploi Genèse 6:9), **tsedaqah** (la forme nominale : l'état ou l'acte de juste-ordre — premier emploi Genèse 15:6). |
+| רָשָׁע | *rashaʿ* | **rashaʿ** | Intraduisible. L'opposé fonctionnel de **tsadiq** : celui dont l'existence est structurellement déviée de l'ordre cosmique. Non pas "méchant" au sens moral subjectif — celui qui est de travers dans l'ordre fonctionnel. La paire **tsadiq**/**rashaʿ** est constitutive du droit divin hébraïque et de tout le corpus des Neviʾim. Pluriel : **reshaʿim**. Premier emploi en *Genèse* 18:23. |
+| אֲדֹנָי | *ʾAdonai* | Adonai | Intraduisible. De *adon* (אָדוֹן) : le maître, le seigneur — *Adonai* = "mon seigneur/maître". Titre de maîtrise souveraine absolue adressé à **YHWH**. Distinct d'**ʾElohim** et de **YHWH**. Dans l'usage liturgique hébreu, *Adonai* deviendra la substitution prononcée pour **YHWH**. S'écrit seul ou combiné : **ʾAdonai** **YHWH**. Premier emploi en *Genèse* 15:2. |
