@@ -296,5 +296,36 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertEqual(r["bloquants"], 0, "un signal ne barre pas")
 
 
-if __name__ == "__main__":
-    unittest.main()
+    def test_le_compteur_ne_fait_jamais_echouer_l_outil_et_ne_note_aucun_argument(self):
+        # Épreuve de régression sur les deux promesses du compteur d'usage,
+        # posées par l'auteur le 18 septembre 2026.
+        #
+        # La première : il NE FAIT JAMAIS ÉCHOUER L'OUTIL. Un compteur qui casse
+        # la chose qu'il compte est pire que pas de compteur — et il écrit hors
+        # du dépôt, donc sur un chemin que rien ne garantit.
+        #
+        # La seconde : il NE NOTE AUCUN ARGUMENT. Une tâche passée à `dossier`
+        # peut contenir du texte du vault ; un journal d'usage n'a pas à le
+        # recopier.
+        reel = kb.JOURNAL_USAGE
+        try:
+            kb.JOURNAL_USAGE = "/racine-qui-n-existe-pas/impossible/x.jsonl"
+            kb.journaliser(self.vault, "controles")  # ne doit rien lever
+        finally:
+            kb.JOURNAL_USAGE = reel
+
+        kb.journaliser(self.vault, "dossier")
+        journal = self.vault.parent / kb.JOURNAL_USAGE
+        self.assertTrue(journal.exists(), "le compteur écrit quand il le peut")
+        entree = json.loads(journal.read_text(encoding="utf-8").splitlines()[-1])
+        self.assertEqual(sorted(entree), ["b", "c", "q", "s"],
+                         "quatre champs et pas un de plus : démarrage, commande, "
+                         "quand, session — aucun argument")
+        self.assertEqual(entree["c"], "dossier")
+        # Le socket est un PID : il se réattribue au redémarrage. Sans le champ
+        # `b`, une fenêtre d'une semaine fondrait deux sessions sous un numéro
+        # et couperait une session en deux, SANS QUE RIEN NE LE DISE. Relevé par
+        # la session manageuse avant que le compteur ait produit une journée.
+        self.assertIsInstance(entree["b"], int)
+        journal.unlink()
+
