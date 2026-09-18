@@ -15,6 +15,10 @@ def message_sans_tache(prompt):
     Ne pas exclure un message parce qu'il commence par « merci » ou vient
     d'un pair : il peut aussi contenir une vraie question sur le corpus.
     """
+    # Opt-out explicite pour les annonces techniques entre sessions. Ne pas
+    # tenter de déduire le sujet à partir du seul nom de l'expéditeur.
+    if re.match(r"\A\s*\[[^\]\r\n]+, message de pair, coordination technique\](?:\s|$)", prompt):
+        return True
     mots = re.findall(r"[^\W_]+", consulter.documents.normaliser(prompt))
     texte = " ".join(mots)
     if not texte:

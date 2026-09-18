@@ -1,5 +1,44 @@
 # Raccordement et journal commun — suivi des vérifications
 
+
+## État courant — 18 septembre 2026, après rétablissement des accès
+
+Herdr fonctionne : les échanges avec le Vault, ANA, la manageuse, le site et
+les sessions App ont abouti. Le commit signé `045bac0` est poussé sur
+`raccorder-la-kb-ont` ; les cinq fichiers correspondants ont été restaurés dans
+l'arbre principal après comparaison exacte avec ce commit et vérification du
+SHA par `git ls-remote`. Le travail continue dans le worktree Astra.
+
+Treize ajouts de raccordement ont été installés puis retirés, en vérifiant
+chaque empreinte et en restaurant exactement les préimages. iOS a rapporté une
+limite d'autorisation ; la question a été reposée directement à Gloire. Aucune
+activation nouvelle n'est maintenue en attendant sa réponse. iOS a également
+signalé puis retiré ces ajouts de son index Git ; les arbres App et site ont
+ensuite été constatés propres. Le fichier personnel `~/.claude/CLAUDE.md` n'a
+pas été modifié. Les permissions techniques ne sont plus le blocage.
+
+Le Vault rapporte un chargement natif de dossiers KB dans sa session, dont un
+passage récemment créé. Il a aussi mesuré trois salutations sans nouvelle
+entrée et une tâche avec une entrée. Ces observations sont celles de cette
+session ; les totaux du journal comprennent les audits et ne mesurent pas
+encore l'usage ordinaire ni l'utilité des dossiers.
+
+iOS a observé une injection hors sujet pour une annonce de retrait des
+raccordements. Un opt-out explicite est désormais proposé dans le hook :
+`[Nom, message de pair, coordination technique]` au début du message. Il évite
+la recherche et son comptage pour ces annonces. Le nom d'un pair, à lui seul,
+n'exclut pas une vraie question sur le corpus. Cela ne résout pas le classement
+lexical général ; les messages non marqués peuvent encore produire du bruit.
+
+Aucun `SYNCHRONISATION.md` commun n'a été réécrit. Le contrôle de concordance
+retourne encore 1. La préparation à 83 entrées mentionnée ci-dessous n'est pas
+un inventaire garanti des PR ouvertes : les ajouts signalés par les sessions,
+notamment les huit PR du site, les régions tenues par la manageuse et le commit
+Android corrigé `8ea5a09`, doivent être intégrés à un nouveau relevé avant toute
+application. Les entrées locales doivent rester préservées et la racine ne
+s'aligne qu'après concordance des dépôts. Les constats de permissions ci-dessous
+sont historiques et sont remplacés par ce point pour l'état actuel.
+
 ## 18 septembre 2026 — réponse et vérification d’Astra
 
 Le message de la session du vault ci-dessous a été lu, ainsi que les commits

@@ -199,3 +199,22 @@ sept migrations. Les voisins ne sont pas modifiés. L’annonce à Claude via
 Herdr est refusée par les permissions. Le compteur est lui-même incomplet
 ici tant que l’écriture dans le parent du vault reste interdite ; les tests
 de commandes ne prouvent pas le chargement des hooks dans les applications.
+
+### 18 septembre 2026 — accès rétablis, arbres libérés, installation suspendue *(local)*
+
+Le commit signé 045bac0 est poussé et son SHA distant vérifié. Les cinq fichiers
+KB ont été retirés sans perte de l'arbre partagé ; Astra travaille dans son
+worktree, le Vault a repris le sien. Les treize ajouts de configuration ont été
+retirés aux préimages exactes après le signalement iOS d'une limite
+d'autorisation. La question est posée directement à Gloire ; les propositions
+restent inactives. Aucun journal commun n'a été remplacé.
+
+Le Vault rapporte une injection native fonctionnelle ; son audit ne mesure
+pas l'usage quotidien. iOS signale des notices hors sujet sur une annonce
+technique : le hook propose un marqueur explicite de coordination pour éviter
+cette recherche, sans filtrer toutes les questions venant d'un pair. Le test
+vérifie l'absence de dossier et d'entrée de compteur pour ce marqueur.
+
+La concordance des journaux reste en échec. Les PR ouvertes et les entrées
+locales seront à inventorier avant tout rapprochement. Aucune modification de
+corpus ni de format consommé par l'app ou le site dans ce correctif.

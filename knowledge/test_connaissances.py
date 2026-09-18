@@ -215,13 +215,25 @@ class BaseDeConnaissances(unittest.TestCase):
 
     def test_hook_conserve_une_question_dans_un_message_de_coordination(self):
         for prompt in ("Merci, explique qahal", "Les tests passent. Vérifie qahal et son état construit.",
-                       "Message de la session du vault : explique qahal", "Continue sur qahal"):
+                       "Message de la session du vault : explique qahal", "Continue sur qahal",
+                       "[Astra/Codex, message de pair] Explique qahal"):
             with self.subTest(prompt=prompt):
                 r = subprocess.run([sys.executable, str(Path(__file__).with_name("claude-hook.py"))],
                     input=json.dumps({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault), "prompt": prompt}),
                     capture_output=True, text=True)
                 self.assertEqual(r.returncode, 0, r.stderr)
                 self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
+
+    def test_hook_ignore_une_coordination_technique_explicitement_marquee(self):
+        prompt = ("[Astra/Codex, message de pair, coordination technique] "
+                  "Je retire les 13 raccordements et restaure les préimages. "
+                  "Les tests de qahal sont sauvegardés dans mon worktree.")
+        r = subprocess.run([sys.executable, str(Path(__file__).with_name("claude-hook.py"))],
+            input=json.dumps({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault), "prompt": prompt}),
+            capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertEqual(r.stdout, "")
+        self.assertFalse((self.vault.parent / kb.JOURNAL_USAGE).exists())
 
     def test_hook_compte_la_consultation_sans_le_message_ni_les_salutations(self):
         script = Path(__file__).with_name("claude-hook.py")

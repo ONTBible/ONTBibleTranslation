@@ -190,13 +190,21 @@ disponible et le démarrage de la machine.
 
 Le journal `.kb-usage.jsonl` se trouve dans le dossier parent du vault. Si ce
 dossier est inaccessible en écriture, la consultation fonctionne mais n’est
-pas comptée. C’est notamment une limite des permissions de cette session Codex.
+pas comptée.
 Un zéro ne suffit donc pas à conclure à une absence de consultation.
 
 Un lancement de test est également un lancement : `hook:dossier` ne prouve pas
 à lui seul qu’une application a chargé son hook, ni qu’un LLM a utilisé les
 preuves rendues. Il faut rapprocher le relevé de l’observation dans la session.
 Une socket absente est notée `—` ; elle ne distingue pas les sessions concernées.
+
+Pour une annonce uniquement technique entre sessions, commencer par
+`[Nom, message de pair, coordination technique]` désactive explicitement le
+dossier automatique et son comptage. Ne pas employer ce marqueur pour une
+question sur le corpus ; un simple `[Nom, message de pair]` conserve la recherche.
+Le hook ne sait pas déduire de façon fiable la pertinence d'un message de
+coordination : sans ce marqueur, des mots communs peuvent ramener des notices
+hors sujet. La commande `dossier` reste utilisable explicitement.
 
 ### Compléter les notices
 
