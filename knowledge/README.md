@@ -179,6 +179,27 @@ Le mécanisme Codex et sa validation sont décrits dans les
 
 ## Enrichir sans perdre la provenance
 
+### Mesurer les consultations
+
+`python3 knowledge/consulter.py usage` restitue le compteur de lancements.
+Les appels directs portent leur sous-commande ; les consultations automatiques
+du hook portent `hook:dossier`. Les salutations et confirmations filtrées ne
+comptent pas comme consultations. Le compteur ne conserve ni le message ni les
+arguments : seulement la date à la minute, la commande, l’identifiant de socket
+disponible et le démarrage de la machine.
+
+Le journal `.kb-usage.jsonl` se trouve dans le dossier parent du vault. Si ce
+dossier est inaccessible en écriture, la consultation fonctionne mais n’est
+pas comptée. C’est notamment une limite des permissions de cette session Codex.
+Un zéro ne suffit donc pas à conclure à une absence de consultation.
+
+Un lancement de test est également un lancement : `hook:dossier` ne prouve pas
+à lui seul qu’une application a chargé son hook, ni qu’un LLM a utilisé les
+preuves rendues. Il faut rapprocher le relevé de l’observation dans la session.
+Une socket absente est notée `—` ; elle ne distingue pas les sessions concernées.
+
+### Compléter les notices
+
 La grammaire comprend aussi des repères UHG sur qatal, yiqtol, niphal, hiphil,
 le marqueur d’objet, les formes volitives et l’ordre des mots. Les notices
 documentaires distinguent cote et composition, langue et écriture, lacune,

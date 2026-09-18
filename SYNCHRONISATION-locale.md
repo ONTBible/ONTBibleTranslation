@@ -176,3 +176,26 @@ restent identiques ; aucun fichier n’a été installé. Le rapport daté dans
 du script et des notices testés. Le contrôle de concordance réel retourne 1 ;
 les quatre troncs principaux restent différents. La suite nécessite les
 droits d’installation et l’accès aux sessions pour éprouver leur usage réel.
+
+### 18 septembre 2026 — les consultations du hook entrent dans le compteur *(local)*
+
+La PR #117 a ajouté le journal des lancements de `consulter.py`. Le hook
+appelait directement `dossier()` et échappait donc à cette mesure : KB-0006
+était rendu pour une question sur le piel, avec zéro appel à `journaliser`.
+Il journalise désormais `hook:dossier` après son filtrage et la résolution du
+vault. Aucun message ni argument n’est conservé. Un journal inaccessible
+n’empêche pas la consultation ; les salutations filtrées ne sont pas comptées.
+
+Deux tests couvrent l’appel réel du hook, la confidentialité du journal,
+l’absence de comptage des salutations et la continuité du dossier en cas
+d’échec d’écriture. Le parent du vault de test appartient désormais à sa
+fixture : le compteur n’écrit plus dans un fichier temporaire commun aux tests.
+Les 33 tests KB et les 9 tests du prototype passent ; les 73 notices sont valides.
+
+Les propositions sont actualisées pour le `CLAUDE.md` parent modifié et les
+16 journaux présents : 13 raccordements attendent toujours leur installation,
+83 entrées communes sont assemblées et 77 notes locales sont à préserver dans
+sept migrations. Les voisins ne sont pas modifiés. L’annonce à Claude via
+Herdr est refusée par les permissions. Le compteur est lui-même incomplet
+ici tant que l’écriture dans le parent du vault reste interdite ; les tests
+de commandes ne prouvent pas le chargement des hooks dans les applications.

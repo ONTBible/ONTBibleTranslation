@@ -49,6 +49,9 @@ def contexte(evenement):
                       and (p / "ONTBibleTranslation/lexique").is_dir()), None)
     if vault is None:
         return "KB ONT : aucun vault trouvé dans le dossier actif ; consulter la KB explicitement si la tâche concerne l’ONT."
+    # Le hook appelle dossier() directement : le compteur de main() ne le voit
+    # pas. Distinguer cet appel automatique, sans journaliser son message.
+    consulter.journaliser(vault, "hook:dossier")
     dossier = consulter.dossier(vault, prompt[:16000], limite=5, budget=12000)
     if not dossier["notices"] and not dossier["extraits_du_vault"] and not dossier["temoins"]:
         return "KB ONT : aucun passage pertinent retrouvé pour ce message. Une recherche vide ne prouve pas une absence ; préciser les termes si nécessaire."

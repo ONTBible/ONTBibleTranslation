@@ -6,6 +6,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 import consulter as kb
 
@@ -14,7 +15,10 @@ class BaseDeConnaissances(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.addCleanup(self.tmp.cleanup)
-        self.vault = Path(self.tmp.name).resolve()
+        # Le compteur écrit chez le parent du vault : celui-ci doit lui aussi
+        # appartenir à la fixture, pas au dossier temporaire commun à tous.
+        self.vault = (Path(self.tmp.name) / "vault").resolve()
+        self.vault.mkdir()
         for dossier in ("knowledge", "lexique", "sources/he-wlc", "sources/grc-byz",
                         "sources/grc-sblgnt", "sources/pont-septante", "brouillons", "locked"):
             (self.vault / dossier).mkdir(parents=True)
@@ -219,6 +223,31 @@ class BaseDeConnaissances(unittest.TestCase):
                 self.assertEqual(r.returncode, 0, r.stderr)
                 self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
 
+    def test_hook_compte_la_consultation_sans_le_message_ni_les_salutations(self):
+        script = Path(__file__).with_name("claude-hook.py")
+        for prompt in ("Merci, bien reçu", "Explique qahal, note privée à ne pas journaliser"):
+            r = subprocess.run([sys.executable, str(script)],
+                input=json.dumps({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault), "prompt": prompt}),
+                capture_output=True, text=True)
+            self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("KB-0001", json.loads(r.stdout)["hookSpecificOutput"]["additionalContext"])
+        lignes = (self.vault.parent / kb.JOURNAL_USAGE).read_text().splitlines()
+        self.assertEqual(len(lignes), 1)
+        entree = json.loads(lignes[0])
+        self.assertEqual(entree["c"], "hook:dossier")
+        self.assertEqual(sorted(entree), ["b", "c", "q", "s"])
+        self.assertNotIn("qahal", lignes[0])
+        self.assertNotIn("note privée", lignes[0])
+
+    def test_hook_fournit_le_dossier_meme_si_son_journal_est_inaccessible(self):
+        spec = importlib.util.spec_from_file_location("hook_pour_test", Path(__file__).with_name("claude-hook.py"))
+        hook = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(hook)
+        with patch.object(kb, "JOURNAL_USAGE", str(self.vault / "absent" / "usage.jsonl")):
+            texte = hook.contexte({"hook_event_name": "UserPromptSubmit", "cwd": str(self.vault),
+                                   "prompt": "Explique qahal"})
+        self.assertIn("KB-0001", texte)
+
     def test_controles_voient_deux_fiches_qui_se_percutent(self):
         # Le cas du 12 septembre : malakh le verbe et malʾakh l'envoyé, deux mots
         # que l'hébreu sépare par un alef, une seule clé tant que le slug pardonne.
@@ -328,4 +357,3 @@ class BaseDeConnaissances(unittest.TestCase):
         # la session manageuse avant que le compteur ait produit une journée.
         self.assertIsInstance(entree["b"], int)
         journal.unlink()
-
