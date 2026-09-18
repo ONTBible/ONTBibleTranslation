@@ -13,7 +13,7 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 1422 | À trancher par l'auteur ; |
 | `CLAUDE.md` | 1625 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
 | `CLAUDE.md` | 1719 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
-| `SYNCHRONISATION.md` | 2827 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 2909 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
 | `brouillons/chuqqot/connaitre-n-est-pas-savoir.md` | 368 | chaqaq, tardemah et edut. À trancher par l'auteur : tardemah et |
@@ -202,7 +202,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 153 leçons du journal
+## Les 154 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -212,6 +212,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Vérifier ce que l'autre affirme
 - Commiter tôt, sur une branche à soi
 - Les sept rôles — se trouver sans se nommer
+- Où chaque rôle se tient — la carte Herdr
 - La marque
 - Ce que ça change pour le contrôle
 - La racine
