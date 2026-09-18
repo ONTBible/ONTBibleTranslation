@@ -27,3 +27,10 @@ La règle de l'ONT est de ne pas fabriquer ce lien. On relève que ==le même mo
 Ses compagnons : [[Shemichazah]] leur chef, [[Baraqel]], et les autres **ʿirin**.
 
 Où le **Shem** revient : *Vayiqra* 16, le bouc envoyé au désert.
+
+## Source
+
+5799 · עֲזָאזֵל
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Vayiqra 16:8*.

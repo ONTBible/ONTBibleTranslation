@@ -17,3 +17,10 @@ Sa présence maintient la liste complète des fils d'[[ʾAram]]. C'est ce que fa
 ## Voir aussi
 
 Sa maison : [[ʾAram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[ʿOust]], [[Choul]], [[Mash]].
+
+## Source
+
+1666 · גֶּתֶר
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:23*.

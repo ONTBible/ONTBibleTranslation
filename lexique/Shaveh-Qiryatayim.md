@@ -25,3 +25,13 @@ Le corpus ne dit pas lesquelles. ==Le nom garde le nombre et perd les noms.==
 Ce qui s'y passe : la défaite des [[ʾEmim]].
 
 Les autres étapes : [[ʿAshterot-Qarnayim]], [[Ham]], [[Seir]], [[ʾEl-Paran]].
+
+## Source
+
+7740 + 7156 · שָׁוֵה קִרְיָתַיִם
+
+==Deux mots, deux numéros== — un composé, comme **YHWH Elohim** et
+**basar ʾechad**. Le témoin ne les unit pas : chacun porte le sien, sans
+la marque `+` qui dirait qu'un nom se continue. *Bereshit 14:5* :
+
+    בְּשָׁוֵה[7740] קִרְיָתָיִם[7156]

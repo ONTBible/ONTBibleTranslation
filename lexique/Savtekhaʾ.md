@@ -23,3 +23,10 @@ Dans un corpus où nommer c'est faire entrer dans l'ordre, ==un peuple nommé un
 ## Voir aussi
 
 Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Sevaʾ]], [[Chavilah]], [[Savtaʾ]], [[Raʿamah]].
+
+## Source
+
+5455 · סַבְתְּכָא
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:7*.

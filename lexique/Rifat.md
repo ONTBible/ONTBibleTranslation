@@ -21,3 +21,10 @@ Aucun *navi* ne le reprend. Il est ==un maillon de la carte==, et la règle de l
 ## Voir aussi
 
 Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[ʾAshkenaz]] et [[Togarmah]].
+
+## Source
+
+7384 b · רִיפַת
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:3*.

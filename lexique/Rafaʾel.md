@@ -25,3 +25,10 @@ Dans la tradition de 1 *Chanokh*, il est ==l'un des quatre **malʾakhim** du Con
 Les autres envoyés nommés : [[Mikhaʾel]], [[Yahoʾel]].
 
 Où il paraît : la lettre de [[Chanokh-qui-marche-avec-Elohim]] à [[Shemichazah]].
+
+## Source
+
+7501 · רָפָאֵל
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *1 Divrei Hayamim 26:7*.

@@ -23,3 +23,15 @@ Ici, il ferme l'itinéraire. Après lui, les deux coalitions se rangent en batai
 Ce qui s'y passe : la dernière étape avant la bataille.
 
 Où l'on arrive ensuite : la vallée de [[Siddim]].
+
+## Source
+
+2688 · חַצְצֹן תָּמָר
+
+==Un seul numéro, pour un nom que le témoin écrit en plusieurs mots.== Il
+marque le premier segment d'un `+` et donne le numéro au dernier —
+*Bereshit 14:7* :
+
+    בְּחַצְצֹן[2688+] תָּמָר[2688]
+
+Le `+` dit ==« ce mot continue »==, non un autre lemme.
