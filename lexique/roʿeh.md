@@ -69,12 +69,15 @@ forme absolue à donner et que ce sont deux graphies. Le **roʿeh** de l'ONT est
 le ==point où les deux se rejoignent==.
 
 ==Cette fiche affirmait que 7203 « n'est attesté nulle part dans le témoin ».
-C'était faux==, et corrigé le 16 septembre 2026. Le témoin en porte ==six
-occurrences en cinq versets==, dont *1 Samuel* 9:9 — ==le verset que cette
+C'était faux==, et corrigé le 16 septembre 2026. Le témoin en porte ==cinq
+occurrences en quatre versets==, dont *1 Shemuel* 9:9 — ==le verset que cette
 fiche cite elle-même== quelques lignes plus haut :
 
-    7203 a   הָרֹאֶה    1 Samuel 9:9 (×2), 9:11, 9:18, 9:19   HTd/Vqrmsa
-    7203 b   בָּרֹאֶה   Ésaïe 28:7                              HRd/Ncmsa
+    7203 a   הָרֹאֶה    1 Shemuel 9:9 (×2), 9:11, 9:18, 9:19   HTd/Vqrmsa
+
+*(Le témoin porte aussi un `7203 b`, une fois, en* Yeshayahu *28:7 — mais
+==c'est un autre mot==, et la Source ci-dessous dit pourquoi il n'est pas
+revendiqué.)*
 
 Et la morphologie dit ce que l'affirmation fausse empêchait de voir :
 ==les cinq emplois de 1 Samuel sont étiquetés participe== — `Vqrmsa`, qal
@@ -88,7 +91,7 @@ tenait ; c'est la preuve qui était fausse.
 
 ## Source
 
-7203 a + 7203 b · רֹאֶה
+7203 a · רֹאֶה
 
 ==Le numéro du Voyant, non celui du verbe voir.== Décision de l'auteur du
 18 septembre 2026. La fiche déclarait `7200`, qui est le numéro de *raʾah* et
@@ -98,14 +101,17 @@ la liseuse, ne pouvant départager, n'en ouvrait aucune.
 Le témoin sépare, et il le fait ==par l'article== :
 
     7203 a   הָרֹאֶה    1 Shemuel 9:9 (×2), 9:11, 9:18, 9:19   Td/Vqrmsa
-    7203 b   בָּרֹאֶה   Yeshayahu 28:7                          Rd/Ncmsa
     7200     רֹאֶה      Bereshit 13:15, 31:5, 31:43, 39:23…     Vqrmsa, nu
 
 Sous `7203`, le mot est ==une charge== : on se déplace pour trouver le Voyant,
 il a une maison, il se présente comme tel. Sous `7200`, quelqu'un ==est en train
-de voir==, et cela finira. ==La lettre augmentée compte== (§2.5 ter) : `7203 a`
-est le participe de Shemuel, `7203 b` le nom de Yeshayahu, et une fiche qui
-déclarerait `7203` nu ne joindrait rien du tout.
+de voir==, et cela finira. ==La lettre augmentée compte, et dans les deux sens== (§2.5 ter). Une fiche qui
+déclarerait `7203` nu ==ne joindrait rien== : le témoin n'écrit jamais ce numéro
+sans lettre. Et `7203 b` ==n'est pas ce mot-ci== : *Yeshayahu* 28:7 écrit
+`בָּרֹאֶה`, rangé par la préposition `b/` dans la même série que *dans le vin* et
+*dans la boisson forte* — ==la chose vue, non celui qui voit==, et le **kohen**
+et le **naviʾ** y sont ceux qui chancellent. La revendiquer enverrait le lecteur
+du Voyant vers l'égarement des ivrognes.
 
 ==Ce que cette Source n'atteint pas, et il faut le dire.== Cinq emplois portent
 le mot comme titre — *Hanani le **roʿeh***, *Shemuel le **roʿeh*** — et le
