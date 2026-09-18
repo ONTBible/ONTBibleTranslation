@@ -25,3 +25,10 @@ C'est le même motif que pour [[Madai]] : ==une lignée de [[Yafet]] exécute un
 Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[Rifat]] et [[Togarmah]].
 
 Ceux avec qui il monte : [[ʾArarat]], contre [[Bavel]].
+
+## Source
+
+813 · אַשְׁכְּנַז
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:3*.

@@ -21,3 +21,10 @@ C'est à peu près tout ce que le corpus en fait, et l'ONT ne lui fabriquera pas
 Sa maison : [[Shem-fils-de-Noach]] son père ; ses frères [[ʿElam]], [[ʾAssur]], [[ʾArpakhshad]], [[ʾAram]].
 
 Le **Shem** voisin, dans l'autre lignée : [[Loudim]].
+
+## Source
+
+3865 · לוּד
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:22*.

@@ -23,3 +23,10 @@ C'est un bon rappel de ce qu'est la table des nations. Elle n'est pas un arbre b
 Sa maison : [[Yavan]] son père, [[Yafet]] son grand-père ; ses frères [[ʾElisha]], [[Tarshish]], [[Kitim]].
 
 Le nom qui lui fait écho dans l'autre lignée : [[Dedan]].
+
+## Source
+
+1721 · דֹּדָנִים
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:4*.

@@ -23,3 +23,10 @@ C'est une des raisons pour lesquelles il faut se garder de lire ce chapitre comm
 Son domaine : [[Nimrod]] qui la tient, avec [[Bavel]] et [[ʾErekh]], dans [[Shinʿar]].
 
 La lignée qui la range : [[Koush]], [[Cham]] — et celle que son empire portera : [[Shem-fils-de-Noach]].
+
+## Source
+
+390 · אַכַּד
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:10*.

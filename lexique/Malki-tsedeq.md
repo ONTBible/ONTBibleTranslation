@@ -33,3 +33,15 @@ Ce qu'il porte : **ʾEl ʿElyon**, **kohen**, *tsedeq* — trois premiers emploi
 Qui le rencontre : [[ʾAvraham]], au retour de la guerre des rois.
 
 Sa ville : Shalem, qui deviendra Yeroushalayim.
+
+## Source
+
+4442 · מַלְכִּי־צֶדֶק
+
+==Un seul numéro, pour un nom que le témoin écrit en plusieurs mots.== Il
+marque le premier segment d'un `+` et donne le numéro au dernier —
+*Bereshit 14:18* :
+
+    וּמַלְכִּי[4442+] צֶדֶק[4442]
+
+Le `+` dit ==« ce mot continue »==, non un autre lemme.

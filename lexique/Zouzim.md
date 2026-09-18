@@ -23,3 +23,10 @@ On ne le retrouvera pas. ==C'est un nom qui ne sert qu'une fois==, et qui attest
 Ceux qu'on frappe avec lui : [[Refaim]], [[ʾEmim]], Horiens.
 
 Où : à [[Ham]].
+
+## Source
+
+2104 · זוּזִים
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 14:5*.

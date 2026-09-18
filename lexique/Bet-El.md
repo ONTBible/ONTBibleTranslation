@@ -21,3 +21,15 @@ Le **Shem** est donc ==donné avant d'être mérité==. [[ʾAvraham]] passe dans
 Qui y campe : [[ʾAvraham]], entre Bet-El et [[Ai]] ; puis Yaʿaqov.
 
 Ce que son **Shem** touche : la porte des Cieux, et les **malʾakhim** de l'échelle.
+
+## Source
+
+1008 · בֵּית־אֵל
+
+==Un seul numéro, pour un nom que le témoin écrit en plusieurs mots.== Il
+marque le premier segment d'un `+` et donne le numéro au dernier —
+*Bereshit 12:8* :
+
+    לְבֵית[1008+] אֵל[1008]
+
+Le `+` dit ==« ce mot continue »==, non un autre lemme.

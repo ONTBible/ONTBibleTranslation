@@ -27,3 +27,15 @@ Et le corpus y revient : c'est près de ce puits que [[Yitschaq]] habitera, bien
 Qui le nomme : [[Hagar]], après **ʾEl Roï**.
 
 Où il se trouve : entre [[Qadesh]] et [[Bared]], sur le chemin de [[Shur]].
+
+## Source
+
+883 · בְּאֵר לַחַי רֹאִי
+
+==Un seul numéro, pour un nom que le témoin écrit en plusieurs mots.== Il
+marque le premier segment d'un `+` et donne le numéro au dernier —
+*Bereshit 16:14* :
+
+    בְּאֵר[883+] לַחַי[883+] רֹאִי[883]
+
+Le `+` dit ==« ce mot continue »==, non un autre lemme.

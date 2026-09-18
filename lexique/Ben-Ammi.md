@@ -25,3 +25,12 @@ Même après la grotte, ==le corpus leur reconnaît une terre==.
 Sa maison : [[Lot]] son père et grand-père, [[Moav]] son demi-frère.
 
 Ce qui en sortira : les Ammonites, à qui *Devarim* reconnaît un pays.
+
+## Source
+
+1151 · בֶּן־עַמִּי
+
+Dérivé du témoin, non tapé. ==Le témoin scinde le nom== — *Bereshit* 19:38
+écrit `בֶּן[1121 a] עַמִּי[1151]` — et `1151` est le numéro du **Shem** entier,
+non de son second mot. La Source porte donc la forme de dictionnaire,
+comme le §2.5 ter l'exige.

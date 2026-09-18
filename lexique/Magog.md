@@ -25,3 +25,10 @@ Il faut résister à la tentation de lire *Bereshit* 10 à travers *Yehezqel* 38
 Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Madai]], [[Yavan]], [[Tuval]], [[Meshekh]], [[Tiras]].
 
 Où le corpus le reprend : *Yehezqel* 38-39, avec [[Gomer]] et [[Togarmah]].
+
+## Source
+
+4031 · מָגוֹג
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:2*.

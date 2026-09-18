@@ -21,3 +21,10 @@ L'ONT garde ce que *Bereshit* écrit, et signale la variante sans trancher. C'es
 Sa maison : [[ʾAram]] son père, [[Shem-fils-de-Noach]] son grand-père ; ses frères [[ʿOust]], [[Choul]], [[Geter]].
 
 La forme voisine dans l'autre lignée : [[Meshekh]].
+
+## Source
+
+4851 · מַשׁ
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:23*.

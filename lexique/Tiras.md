@@ -23,3 +23,10 @@ Le corpus ne le reprend nulle part ailleurs. Il est ==un nom de frontière==, et
 Sa maison : [[Yafet]] son père ; ses frères [[Gomer]], [[Magog]], [[Madai]], [[Yavan]], [[Tuval]], [[Meshekh]].
 
 La direction qu'il ferme : celle de [[Tarshish]] et de [[Kitim]], les lointains de la mer.
+
+## Source
+
+8494 · תִּירָס
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:2*.

@@ -45,3 +45,10 @@ Leur pays et ses bornes : [[Kenaʿan]] au septentrion, [[Mitsrayim]] à l'occide
 L'autre nom donné trop tôt : [[Ur Kasdim]], où le narrateur emploie de la même façon une désignation postérieure de mille ans.
 
 Ceux qui les frappent : [[Kedorlaomer]], [[ʾAmrafel]], [[ʾAryokh]], [[Tidʿal]], et les peuples anciens balayés dans la même descente — [[Refaim]], [[Zouzim]], [[ʾEmim]], [[Chorim]].
+
+## Source
+
+6003 · עֲמָלֵקִי
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 14:7*.

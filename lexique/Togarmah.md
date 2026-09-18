@@ -25,3 +25,10 @@ Les deux passages disent la même chose sous deux angles : ==la mobilité==. Ce 
 Sa maison : [[Gomer]] son père, [[Yafet]] son grand-père ; ses frères [[ʾAshkenaz]] et [[Rifat]].
 
 Où le corpus le reprend : *Yehezqel* 27 pour le commerce, 38 pour l'assemblée de Gog — avec [[Gomer]] et [[Magog]].
+
+## Source
+
+8425 · תֹּגַרְמָה
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:3*.

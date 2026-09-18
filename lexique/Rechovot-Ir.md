@@ -21,3 +21,13 @@ Le premier *mamlakhah* du corpus a donc ==des faubourgs==. C'est un détail, et 
 ## Voir aussi
 
 Ce qu'il complète : [[Ninveh]], [[Kelach]], dans [[ʾAssur]] — fondées par [[Nimrod]].
+
+## Source
+
+7344 + 5892 b · רְחֹבֹת עִיר
+
+==Deux mots, deux numéros== — un composé, comme **YHWH Elohim** et
+**basar ʾechad**. Le témoin ne les unit pas : chacun porte le sien, sans
+la marque `+` qui dirait qu'un nom se continue. *Bereshit 10:11* :
+
+    רְחֹבֹת[7344] עִיר[5892 b]

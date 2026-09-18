@@ -21,3 +21,10 @@ Le corpus construit donc, par ces noms, ==une couche de peuples d'avant==. On ne
 Ceux qu'on frappe avec eux : [[Refaim]], [[Zouzim]], Horiens.
 
 Où : à [[Shaveh-Qiryatayim]].
+
+## Source
+
+368 · אֵימִים
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 14:5*.

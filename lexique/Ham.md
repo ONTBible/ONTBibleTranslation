@@ -23,3 +23,10 @@ Le corpus ne le reprend pas. Il fait partie de ==l'itinéraire== que ce chapitre
 Ce qui s'y passe : la défaite des [[Zouzim]].
 
 À ne pas confondre avec : [[Cham]], fils de [[Noach]].
+
+## Source
+
+1990 · הָם
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 14:5*.

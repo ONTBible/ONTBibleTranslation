@@ -19,3 +19,10 @@ Le corpus ne le reprend nulle part ailleurs. Il est ==un port dans une liste de 
 ## Voir aussi
 
 Sa maison : [[Koush]] son père, [[Cham]] son grand-père ; ses frères [[Sevaʾ]], [[Chavilah]], [[Raʿamah]], [[Savtekhaʾ]].
+
+## Source
+
+5454 · סַבְתָּא
+
+Dérivé du témoin, non tapé : l'hébreu que le corpus lui apparie,
+retrouvé à *Bereshit 10:7*.
