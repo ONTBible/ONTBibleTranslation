@@ -208,6 +208,55 @@ c'est précisément le livre en cours d'écriture.
 Ce n'est pas un manque de l'import : c'est l'état du corpus. Le dire ici vaut
 mieux que de le laisser découvrir à l'usage.
 
+### Le témoin ne se corrige pas — le cas des cinq Voyants des Chroniques
+
+**Relevé le 18 septembre 2026, et déclaré plutôt que réparé.** L'OSHB range
+sous deux numéros différents ==un seul et même titre== :
+
+    1Sam 9:9 ×2, 9:11, 9:18, 9:19    d/7203 a    Td/Vqrmsa    le Voyant
+    2Chr 16:7, 16:10                 d/7200      Td/Ncmsa     le Voyant
+    1Chr 9:22, 26:28, 29:29          d/7200      Td/Ncmsa     le Voyant
+
+Même graphie `הָרֹאֶה`, même office, même personnage parfois — Shemuel est dit
+le Voyant dans les deux colonnes. ==Ce qui les sépare est l'analyse
+morphologique, non le sens== : là où l'OSHB lit un ==participe==, il donne le
+numéro du ==nom== (7203 a) ; là où il lit un ==nom==, il donne celui du
+==verbe== (7200).
+
+La mesure est exhaustive et symétrique, ce qui est ce qui la rend rapportable :
+
+    7200 étiqueté nom commun      5 occurrences   toutes « le Voyant »   sans exception
+    7203 a                        5 occurrences   toutes en participe    sans exception
+
+**Ce que ça coûte au lecteur.** Cinq occurrences du Voyant restent inertes dans
+la liseuse, et ==aucune écriture de fiche ne peut les atteindre== : la jointure
+passe par le numéro, et ces cinq-là portent celui du verbe. Établi par la
+session iOS sur son propre code, par une épreuve et non par une relecture.
+
+**Ce qu'on ne fait pas, et c'est la règle qui compte.** ==On ne récrit pas
+l'annotation du témoin pour que notre liseuse s'allume.== Trois raisons, et la
+première suffirait :
+
+- `MANIFEST.json` déclare `he-wlc/` comme étant l'OSHB, avec ==le commit amont
+  d'où l'import a été tiré==. Modifier un lemme ferait de notre copie autre
+  chose que ce qu'elle annonce — ce n'est plus une question d'exactitude, c'est
+  ==une attribution fausse== ;
+- le projet tient que ==le témoin fait foi==. Le corriger pour obtenir l'effet
+  qu'on souhaite est l'inversion exacte de ce principe : on ne mesurerait plus
+  le témoin, on mesurerait notre attente ;
+- c'est ==le même cas que la quatrième limite du pont==, un étage plus bas. Là,
+  un défaut d'amont a été déclaré plutôt que réparé, au motif qu'un import
+  refait est un import dont personne ne sait ce qu'il a changé. Le faire ici
+  après l'avoir refusé là serait incohérent.
+
+**Ce qu'on fait à la place.** On le déclare — c'est cette section — et la
+question se porte ==en amont, chez l'OSHB==, à qui l'arbitrage appartient : ils
+sont l'éditeur de cette annotation, et l'incohérence est dans leur table, non
+dans notre lecture. Une écriture publique à un projet tiers engage le nom du
+projet : elle relève de l'auteur, non d'une session.
+
+==Une limite mesurée et déclarée vaut mieux qu'un témoin retouché.==
+
 ## `pont-septante/` — un outil de travail, jamais un témoin
 
 Décision de l'auteur du 9 septembre 2026 : **le pont n'est pas déclaré au
