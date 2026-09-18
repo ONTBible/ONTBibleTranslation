@@ -676,6 +676,23 @@ def controles(vault):
 JOURNAL_USAGE = ".kb-usage.jsonl"
 
 
+def demarrage():
+    """L'instant du dernier démarrage, ou 0 si la machine ne sait pas le dire.
+
+    `kern.boottime` est un sysctl BSD, donc macOS et les BSD. Ailleurs on rend 0,
+    ce qui range tous les lancements sous un seul boot — ==moins précis, jamais
+    faux== : le compte total reste juste, et la répartition par session redevient
+    ce qu'elle était sans ce champ.
+    """
+    try:
+        import subprocess
+        sortie = subprocess.run(["sysctl", "-n", "kern.boottime"],
+                                capture_output=True, text=True, timeout=2).stdout
+        return int(re.search(r"sec\s*=\s*(\d+)", sortie).group(1))
+    except Exception:
+        return 0
+
+
 def journaliser(vault, commande):
     """Compte un lancement, et rien de plus.
 
@@ -703,9 +720,27 @@ def journaliser(vault, commande):
     fait de machine, non un fait du vault. Le versionner ferait diverger les
     exemplaires et salirait chaque `git status`.
 
-    La session est identifiée par le numéro de sa socket — ==celui-là même que le
-    registre des sept rôles emploie== dans `SYNCHRONISATION.md`. On ne forge pas
-    un second identifiant quand le projet en a déjà un.
+    ## Comment une session est nommée, et pourquoi il faut deux champs
+
+    Par le numéro de sa socket — ==celui-là même que le registre des sept rôles
+    emploie==. On ne forge pas un second identifiant quand le projet en a déjà
+    un.
+
+    Mais ce numéro est ==un PID==, et un PID se réattribue au redémarrage. Il est
+    donc unique ==pendant un boot== et ambigu au-delà : sur une fenêtre d'une
+    semaine, le journal fondrait deux sessions sous un même numéro et couperait
+    une même session en deux. ==Le total resterait juste, la répartition serait
+    fausse, et rien ne le dirait== — un chiffre bien formé sur une question
+    voisine de celle qu'on pose.
+
+    D'où le second champ : l'instant du démarrage. ==Le couple (boot, socket) est
+    stable pour toujours==, et le nombre de boots distincts est lui-même une
+    information — *cette semaine, la machine a redémarré trois fois*.
+
+    Relevé par la session manageuse le 18 septembre 2026, avant que le compteur
+    ait produit une seule journée de données. Sa formule : ==un socket est
+    l'adresse du jour, il se remesure, il ne se mémorise pas== — et un journal
+    mémorise par construction.
     """
     try:
         socket = os.environ.get("CLAUDE_CODE_MESSAGING_SOCKET", "")
@@ -714,6 +749,7 @@ def journaliser(vault, commande):
             "q": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
             "c": commande,
             "s": session,
+            "b": demarrage(),
         }, ensure_ascii=False)
         with open(Path(vault).parent / JOURNAL_USAGE, "a", encoding="utf-8") as f:
             f.write(ligne + "\n")
@@ -733,24 +769,41 @@ def usage(vault):
     if not chemin.exists():
         return {"lancements": 0, "portee": "Aucun journal — le compteur n'a jamais écrit ici."}
     par_commande, par_session, par_jour = Counter(), Counter(), Counter()
-    total = 0
+    boots, total = set(), 0
     for ligne in chemin.read_text(encoding="utf-8").splitlines():
         try:
             e = json.loads(ligne)
         except Exception:
             continue
         total += 1
+        boot = e.get("b", 0)
+        boots.add(boot)
         par_commande[e.get("c", "?")] += 1
+        # Le socket est un PID : il ne distingue deux sessions que DANS un boot.
+        # Tant que la fenêtre n'en porte qu'un, le numéro nu suffit et se lit
+        # mieux ; dès qu'il y en a deux, il faut le couple ou le compte ment.
         par_session[e.get("s", "—")] += 1
         par_jour[e.get("q", "")[:10]] += 1
+    if len(boots) > 1:
+        par_session = Counter()
+        for ligne in chemin.read_text(encoding="utf-8").splitlines():
+            try:
+                e = json.loads(ligne)
+            except Exception:
+                continue
+            par_session[f"{e.get('b', 0)}:{e.get('s', '—')}"] += 1
     return {
         "lancements": total,
+        "demarrages_dans_la_fenetre": len(boots),
         "par_commande": dict(par_commande.most_common()),
         "par_session": dict(par_session.most_common()),
         "par_jour": dict(sorted(par_jour.items())),
         "journal": str(chemin),
         "portee": "Des lancements, non des services rendus. Le compte dit si "
-                  "l'outil vit ; il ne dit pas s'il sert.",
+                  "l'outil vit ; il ne dit pas s'il sert. Une session est "
+                  "nommée par sa socket, qui est un PID : au-delà d'un "
+                  "démarrage, le couple (boot, socket) fait foi et la clé le "
+                  "porte.",
     }
 
 

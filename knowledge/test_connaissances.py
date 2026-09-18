@@ -318,8 +318,14 @@ class BaseDeConnaissances(unittest.TestCase):
         journal = self.vault.parent / kb.JOURNAL_USAGE
         self.assertTrue(journal.exists(), "le compteur écrit quand il le peut")
         entree = json.loads(journal.read_text(encoding="utf-8").splitlines()[-1])
-        self.assertEqual(sorted(entree), ["c", "q", "s"],
-                         "trois champs et pas un de plus : quand, commande, session")
+        self.assertEqual(sorted(entree), ["b", "c", "q", "s"],
+                         "quatre champs et pas un de plus : démarrage, commande, "
+                         "quand, session — aucun argument")
         self.assertEqual(entree["c"], "dossier")
+        # Le socket est un PID : il se réattribue au redémarrage. Sans le champ
+        # `b`, une fenêtre d'une semaine fondrait deux sessions sous un numéro
+        # et couperait une session en deux, SANS QUE RIEN NE LE DISE. Relevé par
+        # la session manageuse avant que le compteur ait produit une journée.
+        self.assertIsInstance(entree["b"], int)
         journal.unlink()
 
