@@ -1,0 +1,75 @@
+#!/bin/sh
+#
+# Refuse un commit qui périme DECISIONS.md — au moment où on le périme.
+#
+# ## Pourquoi il existe
+#
+# Le 18 septembre 2026, trois PR de deux sessions différentes ont rougi sur le
+# même contrôle, en une seule journée :
+#
+#     #102   le vault      rougie, corrigée, fusionnée
+#     #109   le vault      rougie, corrigée, fusionnée
+#     #111   la manageuse  rouge deux heures
+#
+# Le contrôle de CI est juste : il compare l'index commité à celui que le vault
+# produit, et il refuse tant que les deux diffèrent. C'est **son moment** qui
+# est mauvais. Rien, à l'écriture, ne dit qu'on vient de créer une entrée
+# d'index : on l'apprend de la CI, après la poussée, sur une PR déjà ouverte.
+#
+# Entre l'énoncé — « l'index correspond au vault » — et sa manifestation — une
+# CI rouge vingt minutes plus tard —, il n'y avait rien. Ce fichier est ce rien.
+#
+# ## Ce qu'il ne fait pas, délibérément
+#
+# **Il ne réengendre pas l'index à votre place.** Un crochet qui écrit dans un
+# arbre que sept sessions partagent est un autre genre de risque : on committe
+# alors un fichier qu'on n'a pas regardé. Il mesure, il restaure ce qu'il a
+# touché, et il refuse — la commande à lancer est dans son message.
+#
+# Coût mesuré : 0,21 s.
+
+racine=$(git rev-parse --show-toplevel)
+index="$racine/DECISIONS.md"
+script="$racine/scripts/decisions.py"
+
+[ -f "$index" ] && [ -f "$script" ] || exit 0
+
+# On ne juge que ce qui est mis en scène : `git stash` toucherait au travail des
+# autres sessions (la pile est partagée), donc on compare l'index engendré à ce
+# que le commit va contenir, et non à ce qui traîne dans l'arbre.
+temoin=$(mktemp) || exit 0
+cp "$index" "$temoin"
+
+python3 "$script" --ecrire >/dev/null 2>&1 || { cp "$temoin" "$index"; rm -f "$temoin"; exit 0; }
+
+engendre=$(mktemp)
+cp "$index" "$engendre"
+cp "$temoin" "$index"          # l'arbre est rendu tel qu'il était, toujours
+rm -f "$temoin"
+
+# Ce que le commit contiendra : la version mise en scène si elle l'est, sinon
+# celle de l'arbre — que l'on vient de restaurer.
+mis_en_scene=$(mktemp)
+if git show ":DECISIONS.md" > "$mis_en_scene" 2>/dev/null; then :; else cp "$index" "$mis_en_scene"; fi
+
+if ! cmp -s "$engendre" "$mis_en_scene"; then
+    echo ""
+    echo "  ✗ DECISIONS.md ne correspondrait plus au vault."
+    echo ""
+    echo "    L'index est un fichier produit : il se réengendre, il ne se"
+    echo "    recopie pas. Il suit plus que les lignes datées — il compte"
+    echo "    aussi les fichiers du vault et les fiches, donc AJOUTER UN"
+    echo "    FICHIER suffit à le périmer. Le diff ci-dessous dit quoi."
+    echo ""
+    echo "      python3 scripts/decisions.py --ecrire"
+    echo "      git add DECISIONS.md"
+    echo ""
+    echo "    Ce que la CI verrait, sinon :"
+    diff "$mis_en_scene" "$engendre" | head -12 | sed 's/^/      /'
+    echo ""
+    rm -f "$engendre" "$mis_en_scene"
+    exit 1
+fi
+
+rm -f "$engendre" "$mis_en_scene"
+exit 0
