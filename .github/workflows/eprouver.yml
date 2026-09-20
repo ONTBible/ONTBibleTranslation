@@ -132,6 +132,27 @@ jobs:
           fi
           echo "index à jour"
 
+      # Les passages sont engendrés des sections trop grosses des documents de
+      # référence, et le pipeline BM25 cesse ainsi de les diluer. Ils ne sont
+      # PAS une seconde source : une copie qu'aucun contrôle ne rapproche de
+      # son origine diverge toujours. Ce pas la rapproche — et il échoue au
+      # lieu de régénérer, pour la même raison que l'index des décisions.
+      - name: Les passages disent encore ce que leur source dit
+        run: |
+          cd ONTBibleTranslation
+          if ! python3 knowledge/decouper.py --verifier > /tmp/passages.json; then
+            echo "::error::passages/ ne correspond plus aux documents de référence."
+            echo "Relancer : python3 knowledge/decouper.py, puis commiter."
+            cat /tmp/passages.json
+            exit 1
+          fi
+          echo "passages à jour"
+
+      - name: La recherche de la KB ne régresse pas
+        run: |
+          cd ONTBibleTranslation
+          python3 knowledge/banc-recherche.py
+
       # Une valeur recopiée qu'aucun contrôle ne rapproche de sa source finit
       # toujours par diverger. Ce pas la rapproche.
       - name: La propagation suit ce que le pipeline lit

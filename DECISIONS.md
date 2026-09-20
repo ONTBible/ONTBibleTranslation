@@ -38,6 +38,9 @@ désigné, et cet index n'en est qu'une table.*
 | `lexique/Shem-fils-de-Noach.md` | 13 | …un arbitrage verset par verset, réservé à l'auteur. |
 | `lexique/geveret.md` | 57 | …us de l'ONT ait déjà rencontré. À trancher par l'auteur : ou bien une fiche pour chacun, ou bien… |
 | `lexique/shem.md` | 21 | …un arbitrage verset par verset, réservé à l'auteur, au lieu d'être posé en masse par une machine… |
+| `passages/2-septembre-2026-le-pipeline-d-un-arbre-perime-rend-un-rappo-03.md` | 20 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `passages/la-gemination-s-ecrit-quand-elle-separe-yamim-les-jours-yamm-02.md` | 41 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `passages/le-het-se-rend-ch-partout-finale-comprise-02.md` | 11 | À trancher par l'auteur ; |
 
 ## Décisions datées
 
@@ -66,6 +69,12 @@ désigné, et cet index n'en est qu'une table.*
 | `lexique/Moreh.md` | 203 | deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026. |
 | `lexique/YHWH.md` | 86 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-05.md` | 17 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `passages/3-1-verbes-fondamentaux-02.md` | 9 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `passages/3-2-noms-et-concepts-fondamentaux-02.md` | 7 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
+| `passages/4-1-les-gloses-01.md` | 25 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `passages/la-gemination-s-ecrit-quand-elle-separe-yamim-les-jours-yamm-01.md` | 5 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
 
 ## Les 103 intraduisibles déclarés au §2.5
 
@@ -364,4 +373,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*522 fichiers parcourus · 440 fiches dans `lexique/`.*
+*588 fichiers parcourus · 440 fiches dans `lexique/`.*

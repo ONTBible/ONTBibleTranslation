@@ -85,6 +85,71 @@ class BaseDeConnaissances(unittest.TestCase):
         self.assertFalse(r["valide"])
         self.assertIn("Disparue", " ".join(r["erreurs"]))
 
+    def test_une_section_reecrite_sous_un_titre_inchange_est_signalee_perimee(self):
+        # Le défaut que l'audit du 18 septembre 2026 a établi : l'ancre se
+        # retrouve toujours, donc le contrôle ne voyait rien — on pouvait
+        # réécrire ENTIÈREMENT une section sous son titre et garder 0 erreur.
+        kb.empreinter(self.vault)
+        self.assertEqual(kb.verifier(self.vault)["non_horodatees"], [])
+        self.ecrire("CLAUDE.md", "# Règles\n\n## Prudence\n\nTout autre chose.\n\n### Exception\n\nAutre encore.\n\n## Suite\n\nAutre règle.\n")
+        r = kb.verifier(self.vault)
+        self.assertIn("KB-0001", " ".join(r["perimees"]))
+        # Périmée n'est pas cassée : c'est un signal, il ne barre pas.
+        self.assertTrue(r["valide"])
+        self.assertEqual(r["erreurs"], [])
+
+    def test_empreinter_pose_ce_qui_manque_et_ne_rafraichit_une_perimee_que_nommee(self):
+        pose = kb.empreinter(self.vault)
+        self.assertEqual(len(pose["posees"]), 1)
+        self.assertTrue(pose["ecrit"])
+        # Reposer sans rien changer n'écrit pas : une empreinte juste se tait.
+        self.assertFalse(kb.empreinter(self.vault)["ecrit"])
+        self.ecrire("CLAUDE.md", "# Règles\n\n## Prudence\n\nTout autre chose.\n\n### Exception\n\nAutre encore.\n\n## Suite\n\nAutre règle.\n")
+        # Re-empreinter en aveugle effacerait le signal au lieu de le traiter :
+        # c'est la façon la plus sûre de rendre un contrôle inutile.
+        aveugle = kb.empreinter(self.vault)
+        self.assertEqual(aveugle["rafraichies"], [])
+        self.assertEqual(len(aveugle["perimees_laissees"]), 1)
+        self.assertFalse(aveugle["ecrit"])
+        self.assertIn("KB-0001", " ".join(kb.verifier(self.vault)["perimees"]))
+        # Nommer la notice est l'acte de celui qui vient de la relire.
+        nomme = kb.empreinter(self.vault, {"KB-0001"})
+        self.assertEqual(len(nomme["rafraichies"]), 1)
+        self.assertEqual(kb.verifier(self.vault)["perimees"], [])
+
+    def test_les_passages_sont_engendres_et_le_controle_voit_leur_derive(self):
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            "ont_decouper", Path(kb.__file__).parent / "decouper.py")
+        dec = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(dec)
+
+        # Une section plus grosse que le seuil, sans sous-titre pour la couper :
+        # c'est le cas réel du §2.5, que le CLAUDE.md interdit de fractionner.
+        gros = "\n\n".join(f"Paragraphe {i} d'une section qui dépasse le seuil." * 12
+                            for i in range(40))
+        self.ecrire("CLAUDE.md", f"# Règles\n\n## Prudence\n\nUne décision reste ouverte.\n\n### Exception\n\nCette réserve compte.\n\n## Massive\n\n{gros}\n")
+        r = dec.engendrer(self.vault)
+        self.assertGreater(r["passages"], 1)
+        self.assertTrue((self.vault / "passages").is_dir())
+        self.assertEqual(dec.verifier(self.vault)["perimes"], [])
+
+        # Un passage retouché à la main est une seconde source qui diverge :
+        # le contrôle doit le voir, sinon le découpage recrée le défaut qu'il
+        # est censé éviter.
+        cible = sorted((self.vault / "passages").glob("*.md"))[0]
+        cible.write_text(cible.read_text(encoding="utf-8") + "\najout\n", encoding="utf-8")
+        self.assertIn(cible.name, dec.verifier(self.vault)["perimes"])
+
+        cible.unlink()
+        self.assertIn(cible.name, dec.verifier(self.vault)["absents"])
+
+        # Et la source qui bouge périme les passages, pas l'inverse.
+        dec.engendrer(self.vault)
+        self.ecrire("CLAUDE.md", f"# Règles\n\n## Prudence\n\nUne décision reste ouverte.\n\n### Exception\n\nCette réserve compte.\n\n## Massive\n\nTout autre chose.\n")
+        v = dec.verifier(self.vault)
+        self.assertTrue(v["en_trop"], "les passages d'une section disparue doivent être signalés")
+
     def test_relation_inconnue_et_id_duplique_refuses(self):
         self.data["notices"].append(copy.deepcopy(self.data["notices"][0]))
         self.data["notices"][0]["relations"][0]["objet"] = "KB-9999"
