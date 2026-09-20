@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 10. Empreinte de la section : `ab83c0a805f0b778`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 10. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
 
 **Pourquoi il fallait l'écrire.** Le document portait 337 gras d'insistance, et
 ==la phrase qui interdit le gras d'insistance en emploie trois==, dont un sur le

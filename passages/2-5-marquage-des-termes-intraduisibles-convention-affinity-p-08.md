@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 8. Empreinte de la section : `ab83c0a805f0b778`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 8. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
 
 - `**gazaz**` / `**gez**` / `**gizzah**` — intraduisible : ==tondre, retrancher
   ce qui a poussé== (גָּזַז). Non « tondre » au sens du métier : le mot dit

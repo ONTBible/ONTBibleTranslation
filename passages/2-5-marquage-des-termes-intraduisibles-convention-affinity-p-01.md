@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 1. Empreinte de la section : `ab83c0a805f0b778`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 1. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
 
 **Règle absolue :** Tout terme intraduisible doit être entouré de `**...**` dans les fichiers .md. Ces marqueurs permettent à Affinity Publisher de détecter automatiquement ces termes et d'appliquer le style typographique "Transliteration" lors du copier-coller.
 
