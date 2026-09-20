@@ -126,10 +126,24 @@ def main() -> int:
         print()
         return 0
 
-    # **Un volet sans agent n'est pas un rôle.** Le shell de l'auteur en occupe
-    # un ; la carte porte les agents, et le déclarer ici vaut mieux que de le
-    # soustraire en silence dans la table.
-    vivants = {v["volet"] for v in releve if v["moteur"] != "—"}
+    # **Le critère est le dossier, non la présence d'un agent.**
+    #
+    # Il a d'abord été « un volet sans agent n'est pas un rôle », pour écarter
+    # le shell de l'auteur. C'était faux, et la première utilisation réelle l'a
+    # montré : quand un espace vient d'être ouvert, son volet **n'a pas encore
+    # d'agent attaché** — et il disparaissait donc de la comparaison, au moment
+    # précis où il fallait le voir.
+    #
+    # Une garde qui se tait sur le cas neuf est une garde qui se tait quand on
+    # a besoin d'elle. Le dossier, lui, dit tout de suite si le volet appartient
+    # au projet.
+    racine = Path.home() / "ONTBible"
+    vivants = {
+        v["volet"]
+        for v in releve
+        if v["dossier"] != "—" and Path(v["dossier"]) == racine
+        or v["dossier"] != "—" and racine in Path(v["dossier"]).parents
+    }
     ecrits = du_journal()
     if not ecrits:
         print("\n  Le journal ne porte aucune carte — rien à comparer.\n")
