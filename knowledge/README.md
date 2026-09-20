@@ -179,6 +179,57 @@ Le mécanisme Codex et sa validation sont décrits dans les
 
 ## Enrichir sans perdre la provenance
 
+### Mesurer les consultations
+
+`python3 knowledge/consulter.py usage` restitue le compteur de lancements.
+Les appels directs portent leur sous-commande ; les consultations automatiques
+du hook portent `hook:dossier`. Les salutations et confirmations filtrées ne
+comptent pas comme consultations. Le compteur ne conserve ni le message ni les
+arguments : seulement la date à la minute, la commande, l’identifiant de socket
+disponible et le démarrage de la machine.
+
+Le journal `.kb-usage.jsonl` se trouve dans le dossier parent du vault. Si ce
+dossier est inaccessible en écriture, la consultation fonctionne mais n’est
+pas comptée.
+Un zéro ne suffit donc pas à conclure à une absence de consultation.
+
+Un lancement de test est également un lancement : `hook:dossier` ne prouve pas
+à lui seul qu’une application a chargé son hook, ni qu’un LLM a utilisé les
+preuves rendues. Il faut rapprocher le relevé de l’observation dans la session.
+Une socket absente est notée `—` ; elle ne distingue pas les sessions concernées.
+
+Pour une annonce uniquement technique entre sessions, commencer par
+`[Nom, message de pair, coordination technique]` désactive explicitement le
+dossier automatique et son comptage. Ne pas employer ce marqueur pour une
+question sur le corpus ; un simple `[Nom, message de pair]` conserve la recherche.
+Le hook ne sait pas déduire de façon fiable la pertinence d'un message de
+coordination : sans ce marqueur, des mots communs peuvent ramener des notices
+hors sujet. La commande `dossier` reste utilisable explicitement.
+
+**Rupture de mesure :** le filtre de coordination a été introduit dans le
+commit `e724cc5` (PR #123, 18 septembre 2026). Sa date de création n'est pas
+sa date d'activation : chaque session utilise le script de son checkout.
+Avant son activation, une annonce marquée pouvait produire `hook:dossier` ;
+après, elle est exclue. Les anciennes entrées ne portent pas de version du
+filtre et ne permettent pas de retrouver cette frontière. Ne pas interpréter
+une baisse de ce compteur comme une baisse d'usage, ni comparer des périodes
+qui traversent un changement de script sans relever sa version et son
+activation dans les sessions concernées.
+
+Le préfixe se place au début du message envoyé. Herdr le transmet directement.
+Pour SendMessage, le hook extrait les corps des enveloppes
+`cross-session-message` avant la recherche : les chemins de socket, noms
+d'agents et l'avis standard du transport ne deviennent plus des mots-clés.
+Dans un lot, seules les annonces explicitement marquées sont exclues ; une
+question de corpus dans une autre enveloppe conserve son dossier. Cela change
+uniquement l'entrée de recherche, pas le prompt ni les règles reçus par
+l'assistant. Un format inconnu ou du texte extérieur au lot reste intact pour
+ne pas supprimer une question. Les variantes rapportées par la manageuse le
+18 septembre sont éprouvées par des fixtures ; leur activation native reste à
+constater après installation.
+
+### Compléter les notices
+
 La grammaire comprend aussi des repères UHG sur qatal, yiqtol, niphal, hiphil,
 le marqueur d’objet, les formes volitives et l’ordre des mots. Les notices
 documentaires distinguent cote et composition, langue et écriture, lacune,
