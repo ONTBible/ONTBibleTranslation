@@ -517,6 +517,37 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
   *gevirah*, qui est ==la mère du roi== : trois positions féminines que le
   français range toutes sous « reine », et que l'hébreu tient séparées.
 
+- `**tardemah**` — intraduisible depuis le 20 septembre 2026 : ==la torpeur qui
+  tombe== (תַּרְדֵּמָה). Non « sommeil profond », qui est un sommeil qu'on a, ni
+  « torpeur », qui dit l'engourdissement sans dire ==d'où il vient==. ==Le témoin
+  ne la met jamais avec un verbe de faire== : six de ses sept emplois portent
+  *napal* — tomber, faire tomber — et le septième, *Yeshayahu* 29:10, la fait
+  ==verser==. Le sujet est toujours ==celui sur qui==, jamais celui qui.
+  ==Deux emplois portent des actes constitutifs== : l'**ʾishah** édifiée pendant
+  que l'**ʾAdam** dort (*Genèse* 2:21), et la **berith** des morceaux qui se
+  passe sans Avram (*Genèse* 15:12) — il ne marche pas entre les moitiés, il
+  regarde après coup. ==Elle n'est pas toujours une faveur== : *Yeshayahu* 29 en
+  fait un jugement, *Mishlei* 19:15 la fait tomber par la paresse. Le mot dit
+  ==une chose subie==, et le récit décide de ce qu'elle vaut — même neutralité
+  que le **seter**.
+  ==Ne pas confondre avec *radam*==, le verbe de la même racine : il a ses sept
+  emplois à lui et aucun ne recoupe les sept du nom. *Daniel* 8:18 est
+  régulièrement cité comme une **tardemah** — ==le nom n'y est pas==.
+- `**nakar**` — intraduisible depuis le 20 septembre 2026 : ==ranger quelqu'un
+  du dedans ou du dehors== (נָכַר). Non « reconnaître », qui n'en dit que la
+  moitié : ==la même racine fait l'inverse==. *Genèse* 42:7 le montre dans un
+  seul verset — [[Yosef]] *hikir* ses frères et se *vayitnaker*, « il se rendit
+  étranger à eux ». C'est pourquoi la racine donne aussi ==l'étranger== :
+  *nokhri* 45 emplois, *nekhar* 36. ==Le français coupe en deux ce que l'hébreu
+  tient d'un seul geste.==
+  ==L'impératif ne paraît que trois fois, toutes dans *Bereshit*== — *hakker na*,
+  « reconnais donc » : [[Yehudah]] devant son sceau, [[Yaʿaqov]] devant la
+  tunique, et [[Yaʿaqov]] encore devant [[Lavan]], ==sans savoir que sa propre
+  parole condamne [[Rachel]]==. Les trois fois, celui qui reconnaît est
+  ==rattrapé par ce qu'il portait déjà==.
+  38 des 49 emplois sont ==au hiphil== : on ne reconnaît pas passivement, ==on
+  fait la reconnaissance==. C'est ce qui le sépare de la **binah** — elle va du
+  dehors vers le dedans, lui ==du dedans vers le dehors==.
 - `**gazaz**` / `**gez**` / `**gizzah**` — intraduisible : ==tondre, retrancher
   ce qui a poussé== (גָּזַז). Non « tondre » au sens du métier : le mot dit
   ==l'acte de séparer d'un vivant ce qu'il a produit==, et il sert pour la laine

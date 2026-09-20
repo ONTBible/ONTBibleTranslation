@@ -55,6 +55,18 @@ avoir bougé==.
 Les deux derniers sont autre chose, et ils ne sont pas non plus la même chose
 l'un que l'autre. C'est là que tout se joue.
 
+==Et il faut dire tout de suite que ce partage n'est pas celui de l'énoncé.==
+L'ouverture oppose ==la paroi== à ==l'intérieur== ; or la **binah**, on le verra,
+==cartographie depuis le dehors== — elle est donc du côté de la paroi. Les deux
+découpes sont justes et ne tombent pas au même endroit :
+
+    par le MODE D'ACQUISITION    shamaʿ · zakhar    ·    bin · yadaʿ
+    par la POSITION DE CELUI     shamaʿ · zakhar · bin   ·    yadaʿ
+    QUI CONNAÎT
+
+==C'est la seconde qui commande la suite==, et l'énoncé parlait d'elle. On les
+distingue ici pour que le lecteur n'ait pas à trancher à notre place.
+
 ## La stratigraphie
 
 ### Ce qui est gravé ne s'explique pas
@@ -183,7 +195,7 @@ Le corpus répond par un mot qu'il emploie ==sept fois==, et jamais à la légè
     tardemah   7 emplois   Bereshit 2:21 · Bereshit 15:12 · 1 Shemuel 26:12
                            Yeshayahu 29:10 · Iyov 4:13 · Iyov 33:15 · Mishlei 19:15
 
-*Tardemah* (תַּרְדֵּמָה) — ==une torpeur qui tombe==, et dont on ne décide pas.
+La **tardemah** (*tardemah* / תַּרְדֵּמָה) — ==ce qui tombe sur quelqu'un==, et dont on ne décide pas.
 Regarde les deux premières : dans l'une, **YHWH** **ʾElohim** fait tomber la
 *tardemah* sur l'**ʾAdam** et ==l'**ʾishah** est édifiée pendant qu'il dort== ;
 dans l'autre, elle tombe sur [[ʾAvram]] et ==la **berith** des morceaux se passe
@@ -192,10 +204,15 @@ sans lui== — il ne marche pas entre les moitiés, il regarde après coup.
 ==Le point commun n'est pas le sommeil. C'est que l'acte constitutif a lieu
 pendant que le sujet ne peut pas intervenir.==
 
-Et l'on comprend pourquoi. Tant qu'un homme est éveillé et actif, il est en
-**binah** : il analyse, il cartographie, il cherche à comprendre — ==et c'est
-précisément le mode qui empêche l'autre==. Ce qui se grave sur le **lev** se
-grave à une profondeur où la conscience ne fait qu'interférer.
+==Et l'on peut en proposer la raison, à condition de la donner pour ce qu'elle
+est.== Tant qu'un homme est éveillé et actif, il analyse, il cartographie, il
+cherche à comprendre — et ce mode-là occupe la place.
+
+==Le témoin ne dit pas cela.== Il montre que l'acte constitutif a lieu pendant
+que le sujet est hors d'état d'intervenir ; il ne dit nulle part que la veille
+serait la **binah**, ni que la conscience interférerait. ==C'est une lecture, et
+elle appartient au joint faible== — on la pose parce qu'elle éclaire, non parce
+qu'un verset la porte.
 
 > On ne sort pas d'une formation en ayant mieux compris. On en sort quand le
 > **lev** porte l'empreinte — et l'empreinte ne se pose pas soi-même.
@@ -205,7 +222,7 @@ grave à une profondeur où la conscience ne fait qu'interférer.
 D'où la question suivante : à quoi voit-on que c'est fait ?
 
 Pas à une compréhension plus claire. ==À une reconnaissance== — et le corpus a
-un mot pour cela, employé ==quarante-neuf fois== : *nakar* (נָכַר).
+un mot pour cela, employé ==quarante-neuf fois== : **nakar** (*nakar* / נָכַר).
 
 La scène est dans *Bereshit* 42, et elle porte ==les deux sens dans un seul
 verset== :
@@ -218,7 +235,7 @@ méconnaissable ». Puis le verset suivant referme la boucle : *il les reconnut,
 et eux ne le reconnurent pas.*
 
 ==Regarde ce que la scène sépare.== Les frères ont devant eux toutes les données
-— un visage, une voix, un âge, un homme de leur âge en Mitsrayim. Aucune analyse
+— un visage, une voix, un âge, un homme de leur âge en [[Mitsrayim]]. Aucune analyse
 ne leur manque. Ce qui leur manque est ==ce qu'il faut porter au-dedans pour
 qu'une chose du dehors y réponde==.
 
@@ -264,14 +281,22 @@ qui doit se la donner.
 *J'ai donné ma *Torah* en leur dedans, et sur leur **lev** ==je l'écrirai==.*
 
 Et il faut regarder le verbe, parce qu'il n'est pas celui qu'on attend. Ce n'est
-pas *chaqaq*, graver. ==C'est *katav*, écrire.== La symétrie qu'on croit lire
-n'y est pas : la **chuqqah** est ==gravée dans la pierre du réel==, et ce qui
-répond au-dedans est ==écrit==, d'une main, sur une matière vivante.
+pas *chaqaq*, graver. ==C'est *katav*, écrire.==
 
-L'écart n'est pas une élégance de style. Graver suppose une résistance qu'on
-vainc ; écrire suppose ==une surface qui reçoit==. Ce que le verset promet n'est
-donc pas une seconde entaille — c'est ==que le **lev** cesse d'être de la
-pierre==.
+==Mais l'opposition n'est pas là où l'on croit, et le témoin le dit lui-même.==
+Les tables aussi sont ==écrites== — *Shemot* 31:18 et 34:1, *Devarim* 9:10
+emploient tous *katav*. Et *Shemot* 32:16 tient les deux mots dans un seul
+verset : *le mikhtav — l'écrit d'**ʾElohim** — était* ==charut== *sur les
+tables*, ==un écrit qui est gravé==.
+
+Ce qui sépare donc *Yirmeyahu* 31:33 des tables n'est pas le verbe : ==c'est le
+support==. Même main, même acte d'écrire, et la pierre d'un côté, ==le **lev**
+de l'autre==.
+
+Et c'est plus fort ainsi. Si le verbe changeait, on pourrait croire à deux
+opérations différentes. Il ne change pas : ==l'opération est la même, et ce qui
+est promis est un changement de matière==. Le verset n'annonce pas une seconde
+entaille — il annonce ==que le **lev** cesse d'être de la pierre==.
 
 ### Le **lev** ne se certifie pas lui-même
 
@@ -364,12 +389,38 @@ les entendre.
   Elle lit *Yirmeyahu* 31:33 comme une gravure répondant à une gravure : ==le
   verset écrit *katav*, écrire==, non *chaqaq*.*
 
-- *==Six termes travaillent ici sans être déclarés== : *yadaʿ*, *bin*, *nakar*,
-  *chaqaq*, *tardemah* et *edut*. ==À trancher par l'auteur== : *tardemah* et
-  *nakar* me paraissent en être — le premier nomme un régime que le français n'a
-  pas, le second une opération que « reconnaître » ne rend qu'à moitié, puisqu'il
-  ne dit pas qu'elle part du dedans. *Yadaʿ* et *bin* sont déjà là par leurs
-  noms, **daʿat** et **binah**, comme *qahal* l'est par le sien.*
+- *==Relue avec l'auteur le 20 septembre 2026, et quatre choses ont changé.==
+  ==L'énoncé et la stratigraphie ne coupaient pas au même endroit== : l'ouverture
+  oppose la paroi à l'intérieur, la stratigraphie range les quatre verbes deux
+  contre deux, et la **binah** tombe des deux côtés selon la découpe qu'on suit.
+  Les deux sont dites maintenant. ==Une phrase affirmait ce que le témoin ne
+  porte pas== — « tant qu'un homme est éveillé, il est en **binah** » — et elle
+  est rendue à ce qu'elle est, une lecture. ==L'opposition graver / écrire était
+  fausse==, et c'est le témoin qui l'a dite : les tables sont écrites elles aussi
+  (*Shemot* 31:18, 34:1, *Devarim* 9:10), et *Shemot* 32:16 tient les deux mots
+  dans un verset. Ce qui sépare est le support, non le verbe — et la conclusion
+  y gagne. ==Et [[Mitsrayim]] était nu==, relevé par l'auteur ; le corpus le
+  balise 165 fois sur 257.*
+
+- *==Un arbitrage que cette relecture a rendu visible, et qui dépasse cette
+  chuqqah.== [[Pharaon]] paraît ==37 fois== dans le dépôt et n'est ==jamais==
+  balisé ; *Shaul* ==101 fois==, jamais non plus. Ce n'est donc pas un oubli
+  d'ici : c'est une pratique constante que rien n'a écrite, et le §2.9 dit ce
+  qu'il faut en penser — ==une pratique non écrite ne se compare à rien, donc
+  elle ne peut pas diverger visiblement==. ==À trancher par l'auteur== : ces noms
+  relèvent-ils de la couche des **Shemot** ? La question n'appartient pas à cette
+  chuqqah, mais c'est elle qui l'a fait voir.*
+
+- *==Six termes travaillaient ici sans être déclarés== : *yadaʿ*, *bin*,
+  **nakar**, *chaqaq*, **tardemah** et *edut*. ==Deux sont tranchés le
+  20 septembre 2026== — **tardemah** et **nakar** sont intraduisibles, ont leur
+  puce au §2.5 et leur fiche. Ce qui a emporté la décision n'était pas le sens
+  mais ==ce que le témoin fait de chacun== : six des sept **tardemah** portent
+  *napal*, tomber, et le septième se verse — ==aucune ne va avec un verbe de
+  faire== ; et la racine de **nakar** donne aussi ==l'étranger==, 81 emplois, si
+  bien que le français coupe en deux ce que l'hébreu tient d'un geste.
+  *Yadaʿ* et *bin* restent là par leurs noms, **daʿat** et **binah**, comme
+  *qahal* l'est par le sien. *Chaqaq* et *edut* ==ne sont pas tranchés==.*
 
 - *==Ce que la chuqqah laisse dehors, et c'est désormais une règle.== La matière
   porte une application à la constitution propre de l'auteur — les deux cornes,
