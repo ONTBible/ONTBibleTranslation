@@ -100,50 +100,9 @@ def slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
 
 
-def md_du_depot(sous=None):
-    """Les `.md` que git connaît, et non ceux que le disque montre.
-
-    La nuance décide de la justesse de l'index. `rglob` énumère ce qui est
-    **présent** ; un `sparse-checkout` laisse des fichiers suivis hors du
-    disque, et l'index se raccourcirait sans que rien ne le dise — pire, le
-    crochet serait vert sur un index faux pendant que la CI rougirait, parce
-    que la garde et la chose mesurée dériveraient ensemble.
-
-    Relevé par la session des langues sources le 18 septembre 2026, mesuré à
-    deux `.md` d'écart sur 586. Les trois façons de compter rendent aujourd'hui
-    le même nombre : ce correctif ne change rien maintenant, il empêche.
-
-    On prend le SUIVI SEUL, et c'est un choix corrigé plutôt que d'origine.
-    La première version ajoutait `-o`, les non-suivis, pour garder la parité
-    avec `rglob` sur une fiche neuve pas encore ajoutée. Le crochet pre-commit
-    l'a refusée : il compte 1027 fiches là où la ligne de commande en compte
-    438, parce qu'il déplace l'arbre avant de mesurer et que les non-suivis
-    dépendent de cet état. Une énumération qui change avec le contexte est
-    précisément ce qu'on vient de retirer.
-
-    `-c` suffit et ne coûte rien : au moment du commit, une fiche neuve est
-    dans l'index, donc suivie. Et les trois comptes tombaient déjà au même
-    endroit — 589 par le disque, 589 par `-c`, 589 par `-c -o`.
-
-    La commande est ancrée à la racine et non au sous-dossier : le résultat ne
-    doit pas dépendre d'où on se trouve.
-    """
-    motif = f"{sous}/*.md" if sous else "*.md"
-    try:
-        import subprocess
-        r = subprocess.run(["git", "-C", str(RACINE), "ls-files", "-c", "--", motif],
-                           capture_output=True, text=True, timeout=20)
-        if r.returncode == 0:
-            return sorted(RACINE / l for l in r.stdout.splitlines() if l)
-    except Exception:
-        pass
-    base = RACINE / sous if sous else RACINE
-    return sorted(base.rglob("*.md"))   # hors dépôt : le disque fait foi
-
-
 def fichiers():
     """Tous les `.md` du vault, sauf ce qui ne porte pas de décision."""
-    for p in md_du_depot():
+    for p in sorted(RACINE.rglob("*.md")):
         rel = p.relative_to(RACINE)
         if any(part in IGNORES for part in rel.parts) or str(rel) == SORTIE:
             continue
@@ -297,7 +256,7 @@ def index() -> str:
     ]
     # Une fiche peut porter le lemme slugifié ou son nom d'origine : le vault
     # écrit `lexique/Avraham.md` autant que `lexique/chesed.md`.
-    fiches_connues = {slug(f.stem) for f in md_du_depot("lexique")}
+    fiches_connues = {slug(f.stem) for f in (RACINE / "lexique").glob("*.md")}
     lemmes_propres = {slug(x[0]) for x in intr}
     partagees = False
     for lemme, formes, emploi in intr:
@@ -353,7 +312,7 @@ def index() -> str:
         "---",
         "",
         f"*{len(list(fichiers()))} fichiers parcourus · "
-        f"{len(md_du_depot('lexique'))} fiches dans `lexique/`.*",
+        f"{len(list((RACINE / 'lexique').glob('*.md')))} fiches dans `lexique/`.*",
     ]
     return "\n".join(l) + "\n"
 
