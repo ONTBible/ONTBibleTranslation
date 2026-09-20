@@ -169,7 +169,7 @@ cœur du français. Le français en a fait le lieu du ressenti ; l'hébreu en fa
 à lui-même, qu'il arrête un dessein, qu'il se raidit. Le **lev** de Pharaon ne
 s'attendrit pas : ==il cesse de pouvoir changer d'avis==.
 
-Le sentiment, lui, est ==plus bas==. Quand [[Yosef]] revoit ses frères, le
+Le sentiment, lui, est ==plus bas==. Quand Yosef revoit ses frères, le
 corpus ne dit pas que son **lev** se serre — il dit que ses *rachamim*, ==les
 entrailles==, se sont échauffés, et il sort de la salle pour pleurer.
 
@@ -229,7 +229,7 @@ verset== :
 
     וַיַּרְא יוֹסֵף אֶת אֶחָיו וַיַּכִּרֵם וַיִּתְנַכֵּר אֲלֵיהֶם
 
-[[Yosef]] voit ses frères. Il les *hikir* — il les reconnaît. Et aussitôt il se
+Yosef voit ses frères. Il les *hikir* — il les reconnaît. Et aussitôt il se
 *vayitnaker* : ==la même racine retournée sur soi==, « il se rendit
 méconnaissable ». Puis le verset suivant referme la boucle : *il les reconnut,
 et eux ne le reconnurent pas.*
@@ -247,7 +247,7 @@ C'est là toute la différence avec la **binah** :
 Et le témoin ajoute un détail qui vaut d'être vu : *nakar* paraît presque
 toujours ==au hiphil==, la forme causative. On ne reconnaît pas passivement —
 ==on fait la reconnaissance==. [[Yaʿaqov]] devant la tunique de son fils,
-[[Yehudah]] devant son propre sceau — *hakker na*, ==« reconnais donc »==, et ce
+Yehudah devant son propre sceau — *hakker na*, ==« reconnais donc »==, et ce
 qui suit n'est jamais une information : c'est un homme rattrapé par ce qu'il
 portait déjà.
 
@@ -403,7 +403,7 @@ les entendre.
   balise 165 fois sur 257.*
 
 - *==Un arbitrage que cette relecture a rendu visible, et qui dépasse cette
-  chuqqah.== [[Pharaon]] paraît ==37 fois== dans le dépôt et n'est ==jamais==
+  chuqqah.== Pharaon paraît ==37 fois== dans le dépôt et n'est ==jamais==
   balisé ; *Shaul* ==101 fois==, jamais non plus. Ce n'est donc pas un oubli
   d'ici : c'est une pratique constante que rien n'a écrite, et le §2.9 dit ce
   qu'il faut en penser — ==une pratique non écrite ne se compare à rien, donc

@@ -536,14 +536,14 @@ opérations distinctes, et les synonymes français les écrasent en une seule.
 - `**nakar**` — intraduisible depuis le 20 septembre 2026 : ==ranger quelqu'un
   du dedans ou du dehors== (נָכַר). Non « reconnaître », qui n'en dit que la
   moitié : ==la même racine fait l'inverse==. *Genèse* 42:7 le montre dans un
-  seul verset — [[Yosef]] *hikir* ses frères et se *vayitnaker*, « il se rendit
+  seul verset — Yosef *hikir* ses frères et se *vayitnaker*, « il se rendit
   étranger à eux ». C'est pourquoi la racine donne aussi ==l'étranger== :
   *nokhri* 45 emplois, *nekhar* 36. ==Le français coupe en deux ce que l'hébreu
   tient d'un seul geste.==
   ==L'impératif ne paraît que trois fois, toutes dans *Bereshit*== — *hakker na*,
-  « reconnais donc » : [[Yehudah]] devant son sceau, [[Yaʿaqov]] devant la
-  tunique, et [[Yaʿaqov]] encore devant [[Lavan]], ==sans savoir que sa propre
-  parole condamne [[Rachel]]==. Les trois fois, celui qui reconnaît est
+  « reconnais donc » : Yehudah devant son sceau, [[Yaʿaqov]] devant la
+  tunique, et [[Yaʿaqov]] encore devant Lavan, ==sans savoir que sa propre
+  parole condamne Rachel==. Les trois fois, celui qui reconnaît est
   ==rattrapé par ce qu'il portait déjà==.
   38 des 49 emplois sont ==au hiphil== : on ne reconnaît pas passivement, ==on
   fait la reconnaissance==. C'est ce qui le sépare de la **binah** — elle va du
