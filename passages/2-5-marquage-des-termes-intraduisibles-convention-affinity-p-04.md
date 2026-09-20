@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 4. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 4. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
 
 - `**ʾEl Shaddai**` — deux mots, les deux en gras. Même traitement qu'**ʾEl ʿElyon** et **ʾEl Roï**. Premier emploi *Genèse* 17:1.
 - `**milah**`. Premier emploi *Bereshit* 17.

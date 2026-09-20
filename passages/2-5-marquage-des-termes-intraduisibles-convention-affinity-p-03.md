@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 3. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 3. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
 
 ==Passe du 12 septembre 2026== : 45 en forme nue, 29 avec l'article français,
   15 avec le `ha-`. Le personnage de *Toledot Adam ve-Chavah* s'écrivait jusque-là

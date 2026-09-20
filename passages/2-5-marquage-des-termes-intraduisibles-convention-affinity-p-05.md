@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 5. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 5. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
 
 - `**naviʾ**` / `**neviʾim**` / `**Neviʾim**` — intraduisible : celui que **YHWH** envoie porter son **davar** dans le temps visible (נָבִיא). Jamais « prophète » au sens courant — devin, annonceur d'avenir : le **naviʾ** ne prédit pas d'abord, il ==lit l'alliance dans l'histoire== et prononce le **mishpat** sur ce qu'il y voit. Sa fonction est celle du **shaliach** (§2.6, note terminologique) : une seule réalité, que le grec a décomposée. Pluriel **neviʾim** ; forme construite dans *Gevurot ha-Neviʾim*, nom ONT du n° 44.
 - `**qodesh**` — intraduisible : l'état d'être mis à part pour un office (קֹדֶשׁ). Jamais « sainteté » — l'hébreu ne nomme pas une perfection morale mais une ==assignation==. Forme adjectivale déjà fixée au §3 : **qadosh**.

@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 6. Empreinte de la section : `0d61da19ae2530b5`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 6. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
 
 - `**chokhmah**` — intraduisible : la compétence qui fait aboutir (חָכְמָה). Non « sagesse » (contemplation, catégorie grecque) : la **chokhmah** est ==opératoire==. C'est elle dont Betsalel est rempli pour bâtir le Mishkan, elle qu'ont le tisserand, le marin, le forgeron. Elle ajuste une chose à sa destination — l'opération dont **tov** est le résultat. Locus définitif *Ésaïe* 11:2.
 - `**binah**` — intraduisible : le discernement qui ==sépare entre== (בִּינָה). De *bin*, apparenté à *bein* (בֵּין) — « entre ». Non « intelligence » ni « compréhension » : la **binah** ne saisit pas un contenu, elle trace une frontière — le geste même par lequel **ʾElohim** sépare en *Bereshit* 1. Elle est à la **chokhmah** ce que distinguer est à réussir. Locus définitif *Ésaïe* 11:2.

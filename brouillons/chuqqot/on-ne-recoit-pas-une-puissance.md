@@ -282,7 +282,7 @@ se tient.
 ==Reste ce que cette chuqqah ne dit pas : par quoi le seuil bouge.== Elle
 constate le déplacement — chez [[ʾEliyahu]], chez [[ʾElisha]], chez l'orfèvre —
 et n'en donne aucun mécanisme. La onzième en nomme un, et le témoin ne l'emploie
-que sept fois : la *tardemah*, cette torpeur qui tombe et dont nul ne décide.
+que sept fois : la **tardemah**, ce qui tombe et dont nul ne décide.
 L'**ʾishah** est édifiée pendant que l'**ʾAdam** dort ; la **berith** des
 morceaux se passe sans que [[ʾAvram]] marche entre eux. ==L'acte constitutif a
 lieu pendant que le sujet ne peut pas intervenir== — ce qui s'accorde exactement
