@@ -213,7 +213,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 163 leçons du journal
+## Les 164 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -373,6 +373,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Les deux gestes
 - La preuve, sur une seule journée
 - La nuance sans laquelle la consigne devient un dogme
+- On ne le sait qu'après — et c'est ce qui rend la consigne difficile
 - Le même défaut ne se reconnaît pas quand il change d'échelle
 - Un énoncé coupe dans les deux sens — en appliquer la moitié, c'est croire le tenir
 - Un tube avale le code de sortie — et fabrique une réussite
