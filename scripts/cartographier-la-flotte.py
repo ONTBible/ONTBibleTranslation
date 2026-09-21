@@ -104,15 +104,101 @@ def du_journal() -> set[str]:
     return set(re.findall(r"`(w[0-9A-Za-z]+:p\d+)`", texte[debut : fin if fin > 0 else len(texte)]))
 
 
+
+def worktrees_reels() -> dict[str, str]:
+    """Ce que `git worktree list` rend, pour les trois dépôts, chemin → branche."""
+    import subprocess
+    reels = {}
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["git", "-C", str(racine), "worktree", "list", "--porcelain"],
+            capture_output=True, text=True, check=False,
+        )
+        chemin = None
+        for ligne in r.stdout.splitlines():
+            if ligne.startswith("worktree "):
+                chemin = ligne.split(" ", 1)[1]
+            elif ligne.startswith("branch ") and chemin:
+                reels[chemin] = ligne.split("/")[-1]
+                chemin = None
+            elif ligne.startswith("detached") and chemin:
+                reels[chemin] = "(détaché)"
+                chemin = None
+    return reels
+
+
+def worktrees_declares() -> dict[str, str]:
+    """Ce que la table du journal déclare — sa première et sa deuxième colonne."""
+    if not JOURNAL.exists():
+        return {}
+    texte = JOURNAL.read_text(encoding="utf-8")
+    debut = texte.find("### Déclarer son worktree")
+    if debut < 0:
+        return {}
+    fin = texte.find("\n#### Le contrôle", debut)
+    zone = texte[debut : fin if fin > 0 else len(texte)]
+    declares = {}
+    for m in re.finditer(r"^\| `([^`]+)` \| `([^`]+)` \|", zone, re.M):
+        declares[m.group(1)] = m.group(2)
+    return declares
+
+
+def comparer_les_worktrees() -> int:
+    """Dit ce que la table ignore, et ce qu'elle déclare de trop.
+
+    **Le rapprochement se fait sur le nom de dossier, non sur le chemin
+    complet.** La table est lisible par un humain et porte des chemins
+    abrégés — `.herdr/worktrees/…/astra` ; un rapprochement littéral
+    signalerait à tort tout ce qui ne vit pas sous `~/ONTBible`.
+    """
+    reels = {Path(k).name: v for k, v in worktrees_reels().items()}
+    dec = {Path(k).name: v for k, v in worktrees_declares().items()}
+    if not dec:
+        print("\n  Le journal ne porte aucune table de worktrees.\n")
+        return 1
+
+    muets = sorted(set(reels) - set(dec))
+    fantomes = sorted(set(dec) - set(reels))
+    derive = sorted(n for n in set(reels) & set(dec) if reels[n] != dec[n])
+
+    if not (muets or fantomes or derive):
+        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees.\n")
+        return 0
+
+    print("\n  La table des worktrees a pris du retard.\n")
+    for n in muets:
+        print(f"    + {n:<34} existe, personne ne l'a déclaré  [{reels[n]}]")
+    for n in fantomes:
+        print(f"    − {n:<34} déclaré, n'existe plus")
+    for n in derive:
+        print(f"    ≠ {n:<34} déclaré sur {dec[n]}, réellement sur {reels[n]}")
+    print(
+        "\n  Le porter à la main : la colonne « pourquoi » est la seule chose\n"
+        "  qu'aucun relevé ne peut produire.\n"
+    )
+    return 1
+
+
 def main() -> int:
     parseur = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parseur.add_argument("--session", default="ont", help="la session Herdr à relever")
+    parseur.add_argument(
+        "--worktrees",
+        action="store_true",
+        help="comparer la table des worktrees du journal à la réalité",
+    )
     parseur.add_argument(
         "--comparer",
         action="store_true",
         help="dire ce qui a bougé depuis la table du journal",
     )
     args = parseur.parse_args()
+
+    if args.worktrees:
+        return comparer_les_worktrees()
 
     releve = volets(args.session)
     if not args.comparer:
