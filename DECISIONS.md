@@ -213,7 +213,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 163 leçons du journal
+## Les 166 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -380,6 +380,9 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Un contrôle vert est une affirmation sur l'instant où il a tourné
 - Deux instruments justes peuvent couvrir le même angle
 - Le motif de fond
+- L'épreuve existait, et elle était juste
+- Trois bancs ont mesuré leur propre attente
+- Ce que la jointure des Shemot change chez les voisins — vérifié, pas supposé
 
 ---
 
