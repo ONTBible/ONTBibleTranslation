@@ -500,6 +500,41 @@ causes, et ne tranche pas.==
 Il ne réécrit rien — ==une table qui se met à jour seule perd le « pourquoi »,
 qui est la seule chose qu'aucun relevé ne peut produire==.
 
+
+### Inscrire sa proposition — 21 septembre 2026
+
+**Décision de l'auteur.** Toute PR s'inscrit dans **`PROPOSITIONS.md`**, par
+celle qui l'ouvre, avec ==ce qu'aucun tableau GitHub ne montre== : qui l'a
+ouverte, pourquoi, et ==ce qu'elle engage chez les voisins==.
+
+**Le nom est le pendant de `DECISIONS.md`** — celui-ci porte ce qui est
+==tranché==, celui-là ce qui est ==proposé et attend==. Une PR *est* une
+proposition.
+
+**Les trois trous qu'il comble :**
+
+    qui l'a ouverte    les huit sessions poussent sous le compte `gloiiire` ;
+                       `--author @me` rend TOUTES les PR du dépôt, et trois
+                       sessions y sont tombées le même jour
+    pourquoi           le titre dit ce que la PR fait, jamais le défaut qu'elle
+                       répare ni la mesure qui l'a rendue nécessaire
+    ce que ça engage   la règle du `CLAUDE.md` racine — *demander ce que ce
+                       travail change pour les autres dépôts* — que rien ne
+                       portait
+
+**Et ça ne coûte rien**, contrairement à la déclaration d'un worktree :
+==l'entrée voyage dans la PR qu'elle décrit==. On l'écrit sur la branche qu'on
+vient de pousser, avant d'ouvrir la PR. Pas un commit de plus, pas une CI de
+plus.
+
+==On ne retire pas une entrée fusionnée== : on change son état et on date. Une
+proposition abandonnée reste avec son motif — c'est souvent elle qui a le plus à
+apprendre.
+
+Le contrôle : `scripts/cartographier-la-flotte.py --propositions` nomme les PR
+ouvertes sans entrée. Il ne juge pas le contenu — ==personne ne peut écrire le
+« pourquoi » d'une PR qu'il n'a pas ouverte==, et une entrée peut légitimement
+porter *« à écrire par qui l'a ouverte »*.
 ---
 
 ## Tronc commun et entrées locales

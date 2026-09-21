@@ -47,6 +47,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -215,9 +216,62 @@ def comparer_les_worktrees() -> int:
     return 1
 
 
+def comparer_les_propositions() -> int:
+    """Nomme les PR ouvertes qu'aucune entrée de `PROPOSITIONS.md` ne porte.
+
+    **Il ne juge pas le contenu**, et c'est délibéré : personne ne peut écrire
+    le « pourquoi » d'une PR qu'il n'a pas ouverte. Une entrée qui porte
+    *« à écrire par qui l'a ouverte »* est donc complète au sens de ce
+    contrôle — le trou y est déclaré, ce qui est déjà une information.
+    """
+    import subprocess
+
+    manques: list[str] = []
+    total = 0
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        registre = racine / "PROPOSITIONS.md"
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["gh", "pr", "list", "--state", "open", "--json", "number,title", "--limit", "60"],
+            capture_output=True, text=True, check=False, timeout=60,
+            env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
+        )
+        try:
+            ouvertes = json.loads(r.stdout or "[]")
+        except json.JSONDecodeError:
+            print(f"  {depot} : impossible d'interroger les PR — ignoré")
+            continue
+        texte = registre.read_text(encoding="utf-8") if registre.exists() else ""
+        inscrites = set(re.findall(r"^## #(\d+) ", texte, re.M))
+        for pr in ouvertes:
+            total += 1
+            if str(pr["number"]) not in inscrites:
+                manques.append(f"{depot} #{pr['number']} — {pr['title'][:46]}")
+
+    if not manques:
+        print(f"\n  ✓ Les {total} propositions ouvertes sont toutes inscrites.\n")
+        return 0
+
+    print(f"\n  {len(manques)} proposition(s) sur {total} sans entrée :\n")
+    for m in manques:
+        print(f"    · {m}")
+    print(
+        "\n  À écrire par celle qui l'a ouverte — le « pourquoi » et le « ce que\n"
+        "  ça engage » ne se devinent pas de l'extérieur.\n"
+    )
+    return 1
+
+
 def main() -> int:
     parseur = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parseur.add_argument("--session", default="ont", help="la session Herdr à relever")
+    parseur.add_argument(
+        "--propositions",
+        action="store_true",
+        help="nommer les PR ouvertes sans entrée dans PROPOSITIONS.md",
+    )
     parseur.add_argument(
         "--worktrees",
         action="store_true",
@@ -229,6 +283,9 @@ def main() -> int:
         help="dire ce qui a bougé depuis la table du journal",
     )
     args = parseur.parse_args()
+
+    if args.propositions:
+        return comparer_les_propositions()
 
     if args.worktrees:
         return comparer_les_worktrees()
