@@ -456,7 +456,6 @@ qui vivait en fichier non suivi, dont les deux « exemplaires de réserve »
 | `ONTBibleApp-index` | ==non réclamé== | commits du 11 septembre |
 | `ONTBibleApp-journal13` | ==non réclamé== | PR #302, commits des 13-14 |
 | `ONTBibleWebapp` | **le site** | arbre principal — leadeuse du dépôt |
-| `ONTBibleWebapp-android` | la manageuse | PR #153 |
 | `ONTBibleWebapp-worktrees` | la manageuse | PR #155 |
 | `ONTBibleWebapp-appuilong` | ==non réclamé== | le site travaille cette branche depuis son arbre principal, pas d'ici |
 

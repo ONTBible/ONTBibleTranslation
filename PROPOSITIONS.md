@@ -106,14 +106,58 @@ volontairement** : un tronc commun plus des entrées marquées `*(local)*`. Un
 
 *À écrire par qui l'a ouverte.*
 
-## #123 · Compter les consultations KB sans confondre coordination et corpus
+## #123 · Compter les consultations KB sans confondre coordination et questions
 
-    ouverte le   18 septembre 2026, par **Astra**
+    ouverte le   18 septembre 2026, par la session chargée de la KB et de ses raccordements (Codex)
     vers         main
     état         ouverte, en brouillon
 
-*À écrire par qui l'a ouverte.* Ce qu'on en sait de l'extérieur : le hook
-injectait un dossier KB sur **chaque** message, y compris les messages de
-coordination entre sessions — il a tokenisé un chemin de socket comme termes de
-recherche. Le compteur d'usage en était faussé, et le bilan lirait le trafic
-inter-sessions comme de l'emploi de la base.
+**Pourquoi.** Le hook appelle `dossier()` directement : ses consultations
+échappaient au compteur des commandes de `consulter.py`. Un essai sur le piel
+rendait KB-0006 sans entrée au compteur. La PR ajoute `hook:dossier` après le
+filtrage, sans conserver le message ni ses arguments ; l'impossibilité d'écrire
+le journal ne bloque pas le dossier. Les fixtures isolent aussi le parent du
+vault temporaire pour ne pas partager leur journal entre tests.
+
+Un second défaut est apparu depuis les consommateurs : iOS a reçu des notices
+de grammaire sur une annonce technique, et la manageuse a relevé les termes
+`uds`, `socks` et un identifiant de socket dans la recherche. Le hook cherchait
+aussi dans l'enveloppe SendMessage. Il ne traitait pas littéralement chaque
+message : les salutations et confirmations simples étaient déjà filtrées.
+La PR sépare désormais les corps des enveloppes reconnues et permet d'exclure
+explicitement les annonces techniques.
+
+**Ce que ça engage.** Pour les sessions du Vault et celles des dépôts voisins
+qui utilisent ce script, les consultations automatiques deviennent visibles
+dans le compteur. Pour exclure une annonce sans tâche corpus, l'expéditeur
+doit commencer son message par
+`[Nom, message de pair, coordination technique]`. Un message de pair ordinaire
+reste traité, y compris une vraie question corpus dans un lot mêlé à une
+annonce technique. Sans marqueur, une annonce peut encore produire du bruit.
+La convention doit donc être connue des expéditeurs ; cette PR ne modifie pas
+leurs fichiers d'instructions et n'installe aucun hook chez les voisins.
+
+Le compteur mesure des lancements, essais compris, pas des services rendus.
+L'ajout du comptage automatique puis l'exclusion des annonces marquées changent
+la série. Il faut relire les anciens bilans en distinguant commandes, essais
+et consultations automatiques, sans comparer une baisse ou une hausse à
+travers ces changements comme un fait d'usage. Les anciennes entrées ne portent
+ni version du filtre ni contenu permettant de les reclasser : on ne peut pas
+reconstituer la frontière après coup. La date du commit ne donne pas la date
+d'activation dans chaque checkout. Aucun corpus, format consommé par l'app ou
+le site, réglage partagé ni journal historique d'usage n'est modifié.
+
+**Pour la relire.** Le code est dans `knowledge/claude-hook.py`, les limites
+dans `knowledge/README.md`, et le suivi d'installation dans
+`knowledge/synchronisation-a-terminer.md`. Les essais du 18 septembre sur
+`323fa0d` donnent 73 notices valides, 36 tests KB et 9 tests du prototype
+réussis. Ils couvrent les deux transports, l'avis SendMessage avec ou sans sa
+dernière phrase, les lots mixtes et la conservation intégrale d'un format
+inconnu ou d'une question extérieure au lot. Le prompt reçu par l'assistant
+reste intact : seule la requête KB est préparée.
+
+Le chargement natif de dossiers a été rapporté par le Vault avant ce dernier
+correctif ; il ne prouve pas l'activation du nouveau filtre. Les raccordements
+supplémentaires restent retirés en attendant une réponse directe de l'auteur
+sur leur activation. La fusion de cette PR, l'activation dans les sessions et
+la vérification native sur les deux transports sont trois étapes distinctes.
