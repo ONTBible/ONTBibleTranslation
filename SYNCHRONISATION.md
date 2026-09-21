@@ -453,7 +453,6 @@ qui vivait en fichier non suivi, dont les deux « exemplaires de réserve »
 | `ONTBibleApp-android` | **Android** | poste actif |
 | `ONTBibleApp-mac` | **macOS** | poste actif |
 | `ONTBibleApp-chuqqot` | la manageuse | PR #313 |
-| `ONTBibleApp-worktrees` | la manageuse | PR #326 |
 | `ONTBibleApp-index` | ==non réclamé== | commits du 11 septembre |
 | `ONTBibleApp-journal13` | ==non réclamé== | PR #302, commits des 13-14 |
 | `ONTBibleWebapp` | **le site** | arbre principal — leadeuse du dépôt |
@@ -531,10 +530,31 @@ plus.
 proposition abandonnée reste avec son motif — c'est souvent elle qui a le plus à
 apprendre.
 
-Le contrôle : `scripts/cartographier-la-flotte.py --propositions` nomme les PR
-ouvertes sans entrée. Il ne juge pas le contenu — ==personne ne peut écrire le
-« pourquoi » d'une PR qu'il n'a pas ouverte==, et une entrée peut légitimement
-porter *« à écrire par qui l'a ouverte »*.
+#### La même asymétrie, et ce qui la rend ici plus facile
+
+Relevée par les langues sources dans l'heure qui a suivi, contre ce registre-ci :
+**qui met la ligne à jour quand la PR fusionne ?** ==Une PR ne se ferme pas par
+un commit — elle se ferme chez GitHub.== Rien ne passe par l'arbre, donc rien ne
+peut corriger la ligne au moment où elle cesse d'être vraie. Leurs deux PR ont
+été fusionnées un samedi pendant leur absence ; elles l'ont appris le lundi.
+
+**Mais ici l'état se mesure sans ambiguïté**, et c'est la différence avec les
+worktrees : là-bas une ligne orpheline peut vouloir dire un démontage à l'insu
+de son tenant, donc on demande. ==Ici GitHub le dit, donc le contrôle conclut.==
+
+    au registre, PR ouverte          rien à dire
+    au registre, PR fusionnée        METTRE À JOUR l'état et la date — il conclut
+    PR ouverte, rien au registre     RAPPELER — à écrire par qui l'a ouverte
+
+`scripts/cartographier-la-flotte.py --propositions`. Il ne juge **jamais le
+contenu** — ==personne ne peut écrire le « pourquoi » d'une PR qu'il n'a pas
+ouverte==, et une entrée qui porte *« à écrire par qui l'a ouverte »* est
+complète à ses yeux : le trou y est déclaré.
+
+**Et il lit `origin/<base>`, jamais un chemin nu.** Un chemin nu lit l'arbre
+courant, qui est sur la branche où il se trouve — et ==là où l'on se tient n'est
+jamais la branche d'intégration==. La faute a été commise sur cet outil-ci, le
+lendemain du jour où elle a été nommée.
 ---
 
 ## Tronc commun et entrées locales

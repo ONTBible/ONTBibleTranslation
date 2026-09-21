@@ -230,11 +230,11 @@ def comparer_les_propositions() -> int:
     total = 0
     for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
         racine = Path.home() / "ONTBible" / depot
-        registre = racine / "PROPOSITIONS.md"
         if not racine.exists():
             continue
         r = subprocess.run(
-            ["gh", "pr", "list", "--state", "open", "--json", "number,title", "--limit", "60"],
+            ["gh", "pr", "list", "--state", "all", "--json",
+             "number,title,state,mergedAt", "--limit", "120"],
             capture_output=True, text=True, check=False, timeout=60,
             env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
         )
@@ -243,23 +243,63 @@ def comparer_les_propositions() -> int:
         except json.JSONDecodeError:
             print(f"  {depot} : impossible d'interroger les PR — ignoré")
             continue
-        texte = registre.read_text(encoding="utf-8") if registre.exists() else ""
-        inscrites = set(re.findall(r"^## #(\d+) ", texte, re.M))
+        # **On lit la branche d'intégration, jamais le chemin nu.**
+        #
+        # Un chemin nu lit l'arbre courant, qui est sur la branche où il se
+        # trouve — et là où l'on se tient n'est jamais la branche
+        # d'intégration. Relevé par la session des langues sources après
+        # qu'elle eut lu sa propre branche en croyant lire `main` ; je viens
+        # de commettre la même faute sur cet outil-ci.
+        base = "device" if depot == "ONTBibleApp" else "main"
+        g = subprocess.run(
+            ["git", "-C", str(racine), "show", f"origin/{base}:PROPOSITIONS.md"],
+            capture_output=True, text=True, check=False, timeout=30,
+        )
+        texte = g.stdout if g.returncode == 0 else ""
+        # Chaque entrée, avec l'état qu'elle déclare : `## #NNN` puis, dans son
+        # bloc, une ligne `état  …`.
+        entrees: dict[str, str] = {}
+        for bloc in re.split(r"^## #", texte, flags=re.M)[1:]:
+            num = re.match(r"(\d+)", bloc)
+            etat = re.search(r"^ *état +(.+)$", bloc, re.M)
+            if num:
+                entrees[num.group(1)] = (etat.group(1).strip() if etat else "—")
+
         for pr in ouvertes:
-            total += 1
-            if str(pr["number"]) not in inscrites:
-                manques.append(f"{depot} #{pr['number']} — {pr['title'][:46]}")
+            n = str(pr["number"])
+            declare = entrees.get(n)
+            if pr["state"] == "OPEN":
+                total += 1
+                if declare is None:
+                    manques.append(f"+ {depot} #{n} — ouverte, aucune entrée · {pr['title'][:40]}")
+            elif declare is not None and declare.startswith("ouverte"):
+                # **Ici le contrôle conclut au lieu de demander**, et c'est ce
+                # qui sépare ce registre de celui des worktrees : l'état d'une
+                # PR se mesure sans ambiguïté — GitHub le dit. Là-bas une ligne
+                # orpheline peut vouloir dire un démontage à l'insu de son
+                # tenant ; ici non.
+                #
+                # Et le trou est le même des deux côtés : une PR se ferme CHEZ
+                # GITHUB, rien ne passe par l'arbre, donc rien ne peut mettre à
+                # jour la ligne au moment où elle cesse d'être vraie. Relevé
+                # par la session des langues sources, dont deux PR ont été
+                # fusionnées un samedi pendant son absence.
+                quand = (pr.get("mergedAt") or "")[:10]
+                etat = "fusionnée le " + quand if quand else pr["state"].lower()
+                manques.append(f"≠ {depot} #{n} — dit « ouverte », elle est {etat}")
 
     if not manques:
-        print(f"\n  ✓ Les {total} propositions ouvertes sont toutes inscrites.\n")
+        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites et à jour.\n")
         return 0
 
-    print(f"\n  {len(manques)} proposition(s) sur {total} sans entrée :\n")
+    print(f"\n  {len(manques)} écart(s), sur {total} propositions ouvertes :\n")
     for m in manques:
-        print(f"    · {m}")
+        print(f"    {m}")
     print(
-        "\n  À écrire par celle qui l'a ouverte — le « pourquoi » et le « ce que\n"
-        "  ça engage » ne se devinent pas de l'extérieur.\n"
+        "\n  +  RAPPELER : le « pourquoi » et le « ce que ça engage » ne se\n"
+        "     devinent pas — à écrire par celle qui l'a ouverte.\n"
+        "  ≠  METTRE À JOUR l'état et la date. On ne retire pas une entrée\n"
+        "     fusionnée : c'est l'histoire, et elle sert.\n"
     )
     return 1
 
