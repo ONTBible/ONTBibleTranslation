@@ -141,9 +141,31 @@ def worktrees_declares() -> dict[str, str]:
     fin = texte.find("\n#### Le contrôle", debut)
     zone = texte[debut : fin if fin > 0 else len(texte)]
     declares = {}
-    for m in re.finditer(r"^\| `([^`]+)` \| `([^`]+)` \|", zone, re.M):
-        declares[m.group(1)] = m.group(2)
+    # **La table ne déclare plus de branche, et le contrôle ne la compare pas.**
+    # Trois sessions l'ont demandé le même jour : une table de branches serait
+    # fausse dans l'heure, et un avertissement qu'on apprend à ne plus lire
+    # abîme tous les autres. On lit donc la première colonne, et le « qui ».
+    for m in re.finditer(r"^\| `([^`]+)` \| ([^|]+) \|", zone, re.M):
+        declares[m.group(1)] = m.group(2).strip()
     return declares
+
+
+def existe_au_distant(branche: str) -> bool:
+    """Vrai si la branche vit encore au distant, dans l'un des trois dépôts."""
+    import subprocess
+    if branche in ("(détaché)", "—"):
+        return True  # on ne juge pas ce qu'on ne peut pas interroger
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["git", "-C", str(racine), "ls-remote", "--heads", "origin", branche],
+            capture_output=True, text=True, check=False, timeout=30,
+        )
+        if r.stdout.strip():
+            return True
+    return False
 
 
 def comparer_les_worktrees() -> int:
@@ -164,17 +186,28 @@ def comparer_les_worktrees() -> int:
     fantomes = sorted(set(dec) - set(reels))
     derive = sorted(n for n in set(reels) & set(dec) if reels[n] != dec[n])
 
-    if not (muets or fantomes or derive):
+    muets = sorted(set(reels) - set(dec))
+    fantomes = sorted(set(dec) - set(reels))
+
+    if not (muets or fantomes):
         print(f"\n  ✓ La table est à jour — {len(reels)} worktrees.\n")
         return 0
 
     print("\n  La table des worktrees a pris du retard.\n")
+
+    # **Les deux écarts ne se lisent pas de la même façon**, et c'est la
+    # trouvaille des langues sources : on déclare une naissance, on ne déclare
+    # pas une disparition. Celui qui devrait retirer la ligne est précisément
+    # celui qui ignore que son worktree a disparu — le sien a été emporté par
+    # un nettoyage, sans acte de sa part.
     for n in muets:
         print(f"    + {n:<34} existe, personne ne l'a déclaré  [{reels[n]}]")
+        print(f"      → RAPPELER : quelqu'un a oublié sa ligne")
     for n in fantomes:
-        print(f"    − {n:<34} déclaré, n'existe plus")
-    for n in derive:
-        print(f"    ≠ {n:<34} déclaré sur {dec[n]}, réellement sur {reels[n]}")
+        print(f"    − {n:<34} déclaré par « {dec[n]} », absent de git")
+        print(f"      → DEMANDER, ne pas conclure : démonté à son insu, ou jamais")
+        print(f"        vu de `git worktree list`")
+
     print(
         "\n  Le porter à la main : la colonne « pourquoi » est la seule chose\n"
         "  qu'aucun relevé ne peut produire.\n"
