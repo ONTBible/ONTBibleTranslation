@@ -57,6 +57,7 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 2369 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
 | `CLAUDE.md` | 2661 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
 | `CLAUDE.md` | 2727 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `PROPOSITIONS.md` | 3 | Décision de l'auteur du 21 septembre 2026. Toute PR s'inscrit ici, **par |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
@@ -362,4 +363,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*520 fichiers parcourus · 438 fiches dans `lexique/`.*
+*521 fichiers parcourus · 438 fiches dans `lexique/`.*
