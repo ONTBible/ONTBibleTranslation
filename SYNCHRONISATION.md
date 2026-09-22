@@ -333,6 +333,292 @@ La table porte les rôles, qui durent — pas les chantiers ni les arbitrages en
 attente, qui périment : ceux-là voyagent par message, et par `DECISIONS.md`
 pour ce qui attend l'auteur.
 
+### Où chaque rôle se tient — la carte Herdr
+
+**Posée le 18 septembre 2026**, à la demande de l'auteur. La table ci-dessus dit
+==ce que chaque rôle tient== ; celle-ci dit ==où il se tient==, et elle règle le
+problème que la première contournait.
+
+**L'auteur pilote depuis Herdr** ([herdr.dev](https://herdr.dev)), un
+gestionnaire d'espaces de terminal fait pour les agents. Trois étages :
+
+    SESSION      un projet        `ont`
+      ESPACE     un dépôt         « ONT App », « ONT Trad », « ONT MANAGER »
+        ONGLET   un agent         « iOS/iPadOS », « Vault », « ANA »
+          VOLET  le processus
+
+| rôle | espace | onglet | volet | moteur |
+|---|---|---|---|---|
+| la manageuse | ONT MANAGER | — | `w7:p1` | claude |
+| le vault | ONT Trad | Vault | `w1:p3` | claude |
+| les langues sources | ONT Trad | ANA | `w1:p6` | claude |
+| ==Astra== | ONT Trad | Astra | `w1:p7` | ==codex== |
+| iOS / iPadOS | ONT App | iOS/iPadOS | `wE:p3` | claude |
+| macOS | ONT App | MacOS | `wE:p2` | claude |
+| Android | ONT App | Android | `wE:p1` | claude |
+| le site | ONT WebApp | — | `w6:p1` | claude |
+
+==Ils sont huit et non sept==, et la huitième est **Astra**, sur codex. Elle
+n'apparaît dans **aucun `ListAgents`** et son envoi de message échoue en
+`Operation not permitted` : elle ==reçoit par le dépôt== —
+`knowledge/synchronisation-a-terminer.md`, `AGENTS.md` — ou par l'auteur, qui
+la lit. Sa place ci-dessus a été établie ==sans qu'elle puisse la dire==.
+
+#### Chaque agent connaît sa place, et doit la lancer
+
+    env | grep HERDR
+
+    HERDR_SESSION=ont · HERDR_WORKSPACE_ID · HERDR_TAB_ID · HERDR_PANE_ID
+
+==Lancer la commande, ne pas répondre de mémoire.== Deux sessions ont affirmé
+ne pas voir leur place sans avoir cherché ; leurs réponses étaient argumentées
+et fausses. *Une absence dans ce qu'on voit n'est pas une absence.*
+
+**C'est le premier identifiant stable de la flotte**, et il fallait quatre
+péremptions pour le trouver :
+
+    le nom d'agent          change à un /rename
+    le socket               un PID, rebattu à chaque redémarrage
+    la référence [abc123]   change à une reconnexion
+    l'auteur d'une PR       ne distingue personne — un seul compte GitHub
+    le volet Herdr          ne bouge pas : c'est une place, pas un processus
+
+==Le filtre juste, pour attribuer une PR, est la branche== — jamais
+`--author @me`. Trois sessions y sont tombées dans la même heure.
+
+#### Deux pièges de la disposition, et ils ont coûté
+
+**Les agents d'un même espace démarrent dans le même dossier**, donc dans le
+==même arbre de travail git==. Le 18 septembre, 237 lignes non commitées
+d'Astra se sont retrouvées sur la branche du vault — ==ce n'était la faute de
+personne, c'était la disposition==. La parade est `git worktree`, et c'est ce
+que font les langues sources, macOS et Android.
+
+**La branche affichée sous un espace est celle du dossier de lancement**, donc
+celle du seul agent qui y est resté. ==Les agents partis en worktree
+travaillent sur des branches qu'aucun écran ne montre.==
+
+#### Ce que l'auteur voit, et ce que ça engage
+
+Un ==point de couleur par agent== dans sa barre latérale : qui attend, qui
+travaille. Une session qui pose une question ==en prose== y paraît donc
+**finie**. C'est la raison de la règle du sélecteur — sans elle, il ne peut pas
+voir qu'on l'attend, et il ne relit pas huit écrans pour le découvrir.
+
+==L'état complet est un fichier lisible==,
+`~/.config/herdr/sessions/ont/session.json` : pour chaque volet, son dossier de
+lancement, son moteur, et l'identifiant de session de l'agent. ⚠️ ==L'ordre
+d'affichage n'y est pas l'ordre des numéros== — dans « ONT App », l'onglet
+affiché en premier est `t3`. Ne jamais déduire un identifiant d'une position à
+l'écran.
+
+**Cette table se relève, elle ne se recopie pas.** Les volets durent, les
+branches et les PR non — celles-ci sont des mesures, pas une identité.
+
+### Déclarer son worktree — 21 septembre 2026
+
+**Décision de l'auteur.** Une session qui crée un `git worktree` ==l'inscrit
+ici==, dans le même tour. Une session qui le démonte ==retire sa ligne==.
+
+**Pourquoi une déclaration, et non un relevé.** Parce que ==rien ne prouve
+qu'une session tient un worktree==. Trois pistes ont été éprouvées le
+21 septembre, les trois échouent :
+
+    herdr agent list      rend le dossier de LANCEMENT du volet, jamais le worktree
+    lsof                  ne voit rien entre deux tours — un agent qui réfléchit
+                          n'a aucun fichier ouvert
+    date de l'index git   vieillit sur un poste où l'on lit sans commiter
+
+==Vu du dehors, une session ne se prouve que par sa réponse.== Et une réponse
+n'est pas consultable quand la session est occupée, partie, ou — comme Astra
+pendant deux jours — incapable d'écrire. D'où la déclaration : ==ce qu'aucun
+instrument ne mesure, on l'écrit==.
+
+**Ce que ça a coûté de ne pas l'avoir.** Le 21 septembre, un démontage de cinq
+worktrees a failli emporter ==un commit qui ne tenait que par un worktree== —
+`HEAD` détaché, sur une branche que son propre auteur avait supprimée le matin
+même sans voir qu'un worktree y pendait. Et ==un banc de mesure de 229 lignes==
+qui vivait en fichier non suivi, dont les deux « exemplaires de réserve »
+étaient la version d'avant.
+
+#### La table — elle déclare un poste, non une branche
+
+| worktree | qui | pourquoi |
+|---|---|---|
+| `ONTBibleTranslation` | **le vault** | arbre principal — leadeuse du dépôt |
+| `.herdr/worktrees/…/astra` | **Astra** | la KB et ses raccordements |
+| `ONTBibleTranslation-carte` | la manageuse | la carte et le registre, PR #122 |
+| `ONTBibleTranslation-android` | la manageuse | PR #125 |
+| `ONTBibleApp` | **iOS** | arbre principal — leadeuse du dépôt |
+| `ONTBibleApp-android` | **Android** | poste actif |
+| `ONTBibleApp-mac` | **macOS** | poste actif |
+| `ONTBibleApp-chuqqot` | la manageuse | PR #313 |
+| `ONTBibleApp-index` | ==non réclamé== | commits du 11 septembre |
+| `ONTBibleApp-journal13` | ==non réclamé== | PR #302, commits des 13-14 |
+| `ONTBibleWebapp` | **le site** | arbre principal — leadeuse du dépôt |
+| `ONTBibleWebapp-worktrees` | la manageuse | PR #155 |
+| `ONTBibleWebapp-appuilong` | ==non réclamé== | le site travaille cette branche depuis son arbre principal, pas d'ici |
+
+==Il n'y a pas de colonne « branche », et c'est une décision.== Trois sessions
+l'ont demandée le même jour, chacune par son chemin :
+
+- **macOS** : *« une table de branches serait fausse dans l'heure et personne
+  ne la croirait plus — une table de postes reste vraie des semaines »* ;
+- **Android** : quatre chantiers en trois jours sur un seul worktree ; le
+  contrôle aurait crié trois fois par semaine sur sa seule ligne, ==et un
+  avertissement qu'on apprend à ne plus lire abîme tous les autres== ;
+- **iOS** : l'arbre principal du site a porté ==trois branches en une matinée==.
+
+==La branche est un état, le poste est un fait.== Et le « pourquoi » — la seule
+colonne qu'aucun relevé ne produira jamais — est un fait de poste, pas de
+branche.
+
+**Une contrainte de git qui rend l'état « branche fusionnée » normal**, nommée
+par Android : ==deux worktrees ne peuvent pas porter la même branche==. Un poste
+sans chantier en cours ne peut donc pas se mettre « au neutre » sur la branche
+d'intégration, déjà tenue par un autre — il **reste** sur sa dernière branche,
+fusionnée. Ça ressemble à un worktree oublié et ce n'en est pas un.
+
+#### Ce que la table interdit à qui range
+
+**On ne démonte pas un worktree dont la ligne est encore dans la table — y
+compris par soi-même.** La règle tient. ==Son motif a été inventé deux fois==,
+et il faut que les deux erreurs restent lisibles, parce qu'elles ne sont pas la
+même.
+
+**Le fait, et il est toujours sans coupable.** Les 21 et 22 septembre, trois
+worktrees d'une même session ont disparu — ==dossier et enregistrement git==,
+donc un `remove` suivi d'un `prune` — dans la minute suivant la fusion de leur
+PR, pendant qu'elle y travaillait encore. Il lui restait à écrire le journal et
+le registre ; elle a dû en remonter un.
+
+**Première explication, fausse : un tiers qui range au mauvais moment.** Écrite
+sans preuve, sur la seule vraisemblance du motif.
+
+**Seconde explication, fausse aussi : elle se démontait elle-même.** Son
+transcript porte bien les commandes —
+
+    W=…/ONTBibleApp-vous   136 assignations
+    git worktree remove --force $W && git worktree prune
+
+— et ==j'ai lu les commandes sans lire leurs résultats==. Appariés, ils disent
+l'inverse :
+
+    (eval):cd:1: no such file or directory: …/ONTBibleApp-or    ← AVANT le bloc
+    fatal: '…/ONTBibleApp-or' is not a working tree             ← son remove ÉCHOUE
+
+Pour les deux autres, ==sa garde `cd "$W" || exit 1` a coupé le bloc== : le
+`remove` n'a jamais été atteint. **Et son `remove` qui rend `not a working
+tree` prouve que l'enregistrement était déjà supprimé** — donc qu'un autre était
+passé avant. ==Ce que je prenais pour la preuve de sa responsabilité était la
+preuve du contraire.==
+
+**Ce qui est à elle, et qu'elle a déclaré seule** : son script affichait
+« worktree démonté » ==juste après un `remove` qui venait d'échouer== — un
+`echo` inconditionnel derrière une commande faillible. Son instrument lui a dit
+qu'elle avait réussi ce qu'elle venait de rater, et c'est lui qui m'a induite en
+erreur autant qu'elle.
+
+**Les deux énoncés que la séquence a produits, et il faut les deux :**
+
+> ==On cherche la cause au-dehors quand on ne s'est pas compté parmi les
+> causes.== Elle avait mesuré l'agent de veille, le journal de Herdr, le motif
+> de sélection — tout sauf ses propres actes.
+
+> ==Se compter parmi les causes ne dispense pas de vérifier qu'on en est une.==
+> Je l'ai comptée, j'ai trouvé ses commandes, et j'ai conclu sans regarder si
+> elles avaient abouti. **Une mesure exacte qui répond à une autre question que
+> la sienne** : la mienne portait sur l'intention du geste, il fallait son effet.
+
+**Pourquoi la règle reste, alors que son motif est tombé deux fois.** Parce que
+la distinction qu'elle porte ne dépend d'aucun coupable :
+
+> ==Qui lit la fusion mesure l'état de GitHub. Qui lit la table mesure l'état du
+> travail.== Après la fusion il reste le journal, le registre et le rangement —
+> ==précisément ce qu'on oublie le plus==.
+
+**Ce qui reste ouvert, et qui est écrit comme ouvert.** Trois worktrees ont été
+démontés, `prune` compris, et ==aucun transcript de la flotte ne les nomme== —
+ni les huit sessions Claude, ni les quatre-vingt-dix-neuf de Codex. Pas
+d'automate, pas de `cron`, rien au journal de Herdr. ==On ne sait pas.== Et une
+question ouverte écrite comme telle vaut mieux qu'un coupable vraisemblable :
+c'est le second qu'on relit comme vérifié.
+
+#### Le contrôle qui la tient
+
+    scripts/cartographier-la-flotte.py --worktrees
+
+Il compare ==les chemins== que la table déclare à ceux que `git worktree list`
+rend — ==jamais les branches==, pour la raison ci-dessus. Deux écarts, et ils ne
+se lisent pas de la même façon :
+
+    présent dans git, absent du journal   RAPPELER — quelqu'un a oublié
+    présent au journal, absent de git     DEMANDER, ne pas conclure
+
+La seconde asymétrie est celle des langues sources, expliquée plus haut : une
+ligne orpheline peut vouloir dire ==un worktree démonté à l'insu de son
+tenant==, et non un mensonge. ==Le contrôle nomme l'écart, propose les deux
+causes, et ne tranche pas.==
+
+Il ne réécrit rien — ==une table qui se met à jour seule perd le « pourquoi »,
+qui est la seule chose qu'aucun relevé ne peut produire==.
+
+
+### Inscrire sa proposition — 21 septembre 2026
+
+**Décision de l'auteur.** Toute PR s'inscrit dans **`PROPOSITIONS.md`**, par
+celle qui l'ouvre, avec ==ce qu'aucun tableau GitHub ne montre== : qui l'a
+ouverte, pourquoi, et ==ce qu'elle engage chez les voisins==.
+
+**Le nom est le pendant de `DECISIONS.md`** — celui-ci porte ce qui est
+==tranché==, celui-là ce qui est ==proposé et attend==. Une PR *est* une
+proposition.
+
+**Les trois trous qu'il comble :**
+
+    qui l'a ouverte    les huit sessions poussent sous le compte `gloiiire` ;
+                       `--author @me` rend TOUTES les PR du dépôt, et trois
+                       sessions y sont tombées le même jour
+    pourquoi           le titre dit ce que la PR fait, jamais le défaut qu'elle
+                       répare ni la mesure qui l'a rendue nécessaire
+    ce que ça engage   la règle du `CLAUDE.md` racine — *demander ce que ce
+                       travail change pour les autres dépôts* — que rien ne
+                       portait
+
+**Et ça ne coûte rien**, contrairement à la déclaration d'un worktree :
+==l'entrée voyage dans la PR qu'elle décrit==. On l'écrit sur la branche qu'on
+vient de pousser, avant d'ouvrir la PR. Pas un commit de plus, pas une CI de
+plus.
+
+==On ne retire pas une entrée fusionnée== : on change son état et on date. Une
+proposition abandonnée reste avec son motif — c'est souvent elle qui a le plus à
+apprendre.
+
+#### La même asymétrie, et ce qui la rend ici plus facile
+
+Relevée par les langues sources dans l'heure qui a suivi, contre ce registre-ci :
+**qui met la ligne à jour quand la PR fusionne ?** ==Une PR ne se ferme pas par
+un commit — elle se ferme chez GitHub.== Rien ne passe par l'arbre, donc rien ne
+peut corriger la ligne au moment où elle cesse d'être vraie. Leurs deux PR ont
+été fusionnées un samedi pendant leur absence ; elles l'ont appris le lundi.
+
+**Mais ici l'état se mesure sans ambiguïté**, et c'est la différence avec les
+worktrees : là-bas une ligne orpheline peut vouloir dire un démontage à l'insu
+de son tenant, donc on demande. ==Ici GitHub le dit, donc le contrôle conclut.==
+
+    au registre, PR ouverte          rien à dire
+    au registre, PR fusionnée        METTRE À JOUR l'état et la date — il conclut
+    PR ouverte, rien au registre     RAPPELER — à écrire par qui l'a ouverte
+
+`scripts/cartographier-la-flotte.py --propositions`. Il ne juge **jamais le
+contenu** — ==personne ne peut écrire le « pourquoi » d'une PR qu'il n'a pas
+ouverte==, et une entrée qui porte *« à écrire par qui l'a ouverte »* est
+complète à ses yeux : le trou y est déclaré.
+
+**Et il lit `origin/<base>`, jamais un chemin nu.** Un chemin nu lit l'arbre
+courant, qui est sur la branche où il se trouve — et ==là où l'on se tient n'est
+jamais la branche d'intégration==. La faute a été commise sur cet outil-ci, le
+lendemain du jour où elle a été nommée.
 ---
 
 ## Tronc commun et entrées locales
