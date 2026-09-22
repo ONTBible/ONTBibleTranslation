@@ -482,40 +482,62 @@ fusionnée. Ça ressemble à un worktree oublié et ce n'en est pas un.
 #### Ce que la table interdit à qui range
 
 **On ne démonte pas un worktree dont la ligne est encore dans la table.**
-Posé le 22 septembre, après que trois worktrees d'une même session eurent
+La règle tient ; ==le récit qui l'a fait écrire était faux==, et il faut les
+séparer.
+
+**Ce qui a été cru le 22 septembre.** Trois worktrees d'une même session ont
 disparu ==dans la minute suivant la fusion de leur PR==, pendant qu'elle y
-travaillait encore.
+travaillait encore. Elle a mesuré l'agent de veille, le journal de Herdr, les
+PR restantes, le motif de sélection — ==tout, sauf ses propres actes==. Et j'ai
+cherché un automate, un `cron`, une session en boucle.
 
-    ONTBibleApp-or     PR #327 fusionnée  →  disparu dans la minute
-    ONTBibleApp-cd     PR #328 fusionnée  →  disparu dans la minute
-    ONTBibleApp-vous   PR #330 fusionnée  →  disparu dans la minute
+**Ce qui était vrai.** Son propre enchaînement de rangement, dans le même bloc
+que la poussée :
 
-Le geste est juste — c'est la tâche de ménage que l'auteur avait donnée — et
-==le moment est faux==. Il lui restait deux fichiers à écrire dans le dernier :
-la table des worktrees, et le registre des propositions. Elle a dû remonter un
-worktree pour les poser.
+    W=/Users/gloiiire_/ONTBible/ONTBibleApp-vous       136 assignations
+    W=/Users/gloiiire_/ONTBible/ONTBibleApp-cd           8
+    W=/Users/gloiiire_/ONTBible/ONTBibleApp-or           2
+
+    git push -q origin <branche>:device
+    git worktree remove --force $W && git worktree prune
+
+==La variable de sa garde et celle de son rangement sont la même.== D'où
+« disparu dans la minute suivant la fusion » — ==la suppression *est* l'étape
+de fusion== ; d'où « seuls les fusionnés partent » ; d'où l'enregistrement git
+absent, puisque `prune` suit. Et ==sa garde la protégeait de son propre
+geste== : `cd "$W" || exit 1` s'arrêtait net, au bloc suivant, sur ce qu'elle
+venait de démonter.
+
+**Ce que ça apprend, et c'est la huitième forme de la série :**
+
+> ==On cherche la cause au-dehors quand on ne s'est pas compté parmi les
+> causes.== Toutes les mesures étaient justes ; aucune ne portait sur celui qui
+> mesurait.
+
+**Et pourquoi la règle reste**, alors que son motif tombe : rien n'obligeait ce
+jour-là à séparer *la fusion d'une PR* de *la fin du travail sur sa branche*, et
+c'est une distinction réelle.
 
 > ==Qui lit la fusion mesure l'état de GitHub. Qui lit la table mesure l'état du
-> travail.== La fusion d'une PR n'est pas la fin du travail sur sa branche : il
-> reste le journal, le registre et le rangement — c'est-à-dire ==précisément ce
-> qu'on oublie le plus==.
+> travail.== Après la fusion il reste le journal, le registre et le rangement —
+> ==précisément ce qu'on oublie le plus==.
 
-**C'est à cela que la déclaration sert**, et c'est le sens qui manquait à la
-règle du 21 : le tenant retire sa ligne ==quand il a fini==, et pas avant. Tant
-qu'elle est là, le worktree ne se démonte pas — ==même si sa PR est fusionnée,
-même si son contenu est en sécurité==.
+Le tenant retire donc sa ligne ==quand il a fini==, et tant qu'elle est là, le
+worktree ne se démonte pas — ==y compris par lui-même==. C'est la clause que le
+cas rendait invisible : celui contre qui la table protège le mieux est souvent
+==celui qui l'a écrite==.
 
-**Et ce qui a rendu les trois disparitions inoffensives est une garde de deux
-lignes**, écrite à midi après le premier incident, qui a servi à 13h20 sur la
-récidive exacte :
+**Aucune donnée n'a été perdue**, vérifié par le contenu et non par
+l'ascendance : les branches étaient poussées avant chaque démontage, et la seule
+remise devenue inatteignable avait été reprise. ==Le seul dégât réel est
+ailleurs== — l'agent de veille du disque est resté mort trois jours, tué par un
+`No space left on device` sur son propre verrou, et personne ne l'a vu.
 
-    cd "$W" || exit 1
-    [ "$(git rev-parse --show-toplevel)" = "$W" ] || exit 1
-
-==La seconde ligne est celle qu'on oublie== : un `cd` réussi ne prouve pas qu'on
-est où l'on croit. Sans elle, les commandes suivantes s'exécutent dans le
-dossier courant — c'est ainsi qu'un commit a atterri dans un arbre partagé le
-18 septembre, et qu'une branche d'arbre principal a été déplacée le 22.
+**Pourquoi cette section est réécrite plutôt que retirée.** Le `CLAUDE.md`
+impose la même chose au corpus : les gloses de *Bereshit* 11 qui expliquaient
+une homonymie entre [[Haran]] et [[Charan]] ont été réécrites, parce qu'==un
+artefact d'outil relu comme un fait du texte== ne se corrige pas en silence. Une
+règle juste adossée à une cause fausse se relit comme vérifiée.
 
 #### Le contrôle qui la tient
 
