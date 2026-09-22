@@ -481,63 +481,68 @@ fusionnée. Ça ressemble à un worktree oublié et ce n'en est pas un.
 
 #### Ce que la table interdit à qui range
 
-**On ne démonte pas un worktree dont la ligne est encore dans la table.**
-La règle tient ; ==le récit qui l'a fait écrire était faux==, et il faut les
-séparer.
+**On ne démonte pas un worktree dont la ligne est encore dans la table — y
+compris par soi-même.** La règle tient. ==Son motif a été inventé deux fois==,
+et il faut que les deux erreurs restent lisibles, parce qu'elles ne sont pas la
+même.
 
-**Ce qui a été cru le 22 septembre.** Trois worktrees d'une même session ont
-disparu ==dans la minute suivant la fusion de leur PR==, pendant qu'elle y
-travaillait encore. Elle a mesuré l'agent de veille, le journal de Herdr, les
-PR restantes, le motif de sélection — ==tout, sauf ses propres actes==. Et j'ai
-cherché un automate, un `cron`, une session en boucle.
+**Le fait, et il est toujours sans coupable.** Les 21 et 22 septembre, trois
+worktrees d'une même session ont disparu — ==dossier et enregistrement git==,
+donc un `remove` suivi d'un `prune` — dans la minute suivant la fusion de leur
+PR, pendant qu'elle y travaillait encore. Il lui restait à écrire le journal et
+le registre ; elle a dû en remonter un.
 
-**Ce qui était vrai.** Son propre enchaînement de rangement, dans le même bloc
-que la poussée :
+**Première explication, fausse : un tiers qui range au mauvais moment.** Écrite
+sans preuve, sur la seule vraisemblance du motif.
 
-    W=/Users/gloiiire_/ONTBible/ONTBibleApp-vous       136 assignations
-    W=/Users/gloiiire_/ONTBible/ONTBibleApp-cd           8
-    W=/Users/gloiiire_/ONTBible/ONTBibleApp-or           2
+**Seconde explication, fausse aussi : elle se démontait elle-même.** Son
+transcript porte bien les commandes —
 
-    git push -q origin <branche>:device
+    W=…/ONTBibleApp-vous   136 assignations
     git worktree remove --force $W && git worktree prune
 
-==La variable de sa garde et celle de son rangement sont la même.== D'où
-« disparu dans la minute suivant la fusion » — ==la suppression *est* l'étape
-de fusion== ; d'où « seuls les fusionnés partent » ; d'où l'enregistrement git
-absent, puisque `prune` suit. Et ==sa garde la protégeait de son propre
-geste== : `cd "$W" || exit 1` s'arrêtait net, au bloc suivant, sur ce qu'elle
-venait de démonter.
+— et ==j'ai lu les commandes sans lire leurs résultats==. Appariés, ils disent
+l'inverse :
 
-**Ce que ça apprend, et c'est la huitième forme de la série :**
+    (eval):cd:1: no such file or directory: …/ONTBibleApp-or    ← AVANT le bloc
+    fatal: '…/ONTBibleApp-or' is not a working tree             ← son remove ÉCHOUE
+
+Pour les deux autres, ==sa garde `cd "$W" || exit 1` a coupé le bloc== : le
+`remove` n'a jamais été atteint. **Et son `remove` qui rend `not a working
+tree` prouve que l'enregistrement était déjà supprimé** — donc qu'un autre était
+passé avant. ==Ce que je prenais pour la preuve de sa responsabilité était la
+preuve du contraire.==
+
+**Ce qui est à elle, et qu'elle a déclaré seule** : son script affichait
+« worktree démonté » ==juste après un `remove` qui venait d'échouer== — un
+`echo` inconditionnel derrière une commande faillible. Son instrument lui a dit
+qu'elle avait réussi ce qu'elle venait de rater, et c'est lui qui m'a induite en
+erreur autant qu'elle.
+
+**Les deux énoncés que la séquence a produits, et il faut les deux :**
 
 > ==On cherche la cause au-dehors quand on ne s'est pas compté parmi les
-> causes.== Toutes les mesures étaient justes ; aucune ne portait sur celui qui
-> mesurait.
+> causes.== Elle avait mesuré l'agent de veille, le journal de Herdr, le motif
+> de sélection — tout sauf ses propres actes.
 
-**Et pourquoi la règle reste**, alors que son motif tombe : rien n'obligeait ce
-jour-là à séparer *la fusion d'une PR* de *la fin du travail sur sa branche*, et
-c'est une distinction réelle.
+> ==Se compter parmi les causes ne dispense pas de vérifier qu'on en est une.==
+> Je l'ai comptée, j'ai trouvé ses commandes, et j'ai conclu sans regarder si
+> elles avaient abouti. **Une mesure exacte qui répond à une autre question que
+> la sienne** : la mienne portait sur l'intention du geste, il fallait son effet.
+
+**Pourquoi la règle reste, alors que son motif est tombé deux fois.** Parce que
+la distinction qu'elle porte ne dépend d'aucun coupable :
 
 > ==Qui lit la fusion mesure l'état de GitHub. Qui lit la table mesure l'état du
 > travail.== Après la fusion il reste le journal, le registre et le rangement —
 > ==précisément ce qu'on oublie le plus==.
 
-Le tenant retire donc sa ligne ==quand il a fini==, et tant qu'elle est là, le
-worktree ne se démonte pas — ==y compris par lui-même==. C'est la clause que le
-cas rendait invisible : celui contre qui la table protège le mieux est souvent
-==celui qui l'a écrite==.
-
-**Aucune donnée n'a été perdue**, vérifié par le contenu et non par
-l'ascendance : les branches étaient poussées avant chaque démontage, et la seule
-remise devenue inatteignable avait été reprise. ==Le seul dégât réel est
-ailleurs== — l'agent de veille du disque est resté mort trois jours, tué par un
-`No space left on device` sur son propre verrou, et personne ne l'a vu.
-
-**Pourquoi cette section est réécrite plutôt que retirée.** Le `CLAUDE.md`
-impose la même chose au corpus : les gloses de *Bereshit* 11 qui expliquaient
-une homonymie entre [[Haran]] et [[Charan]] ont été réécrites, parce qu'==un
-artefact d'outil relu comme un fait du texte== ne se corrige pas en silence. Une
-règle juste adossée à une cause fausse se relit comme vérifiée.
+**Ce qui reste ouvert, et qui est écrit comme ouvert.** Trois worktrees ont été
+démontés, `prune` compris, et ==aucun transcript de la flotte ne les nomme== —
+ni les huit sessions Claude, ni les quatre-vingt-dix-neuf de Codex. Pas
+d'automate, pas de `cron`, rien au journal de Herdr. ==On ne sait pas.== Et une
+question ouverte écrite comme telle vaut mieux qu'un coupable vraisemblable :
+c'est le second qu'on relit comme vérifié.
 
 #### Le contrôle qui la tient
 

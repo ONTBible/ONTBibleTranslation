@@ -13,7 +13,7 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 1453 | À trancher par l'auteur ; |
 | `CLAUDE.md` | 1656 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
 | `CLAUDE.md` | 1750 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
-| `SYNCHRONISATION.md` | 3108 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 3113 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
 | `brouillons/chuqqot/connaitre-n-est-pas-savoir.md` | 410 | elle ne peut pas diverger visiblement. À trancher par l'auteur== : ces noms |
