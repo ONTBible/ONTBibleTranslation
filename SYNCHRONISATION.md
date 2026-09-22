@@ -479,6 +479,44 @@ sans chantier en cours ne peut donc pas se mettre « au neutre » sur la branche
 d'intégration, déjà tenue par un autre — il **reste** sur sa dernière branche,
 fusionnée. Ça ressemble à un worktree oublié et ce n'en est pas un.
 
+#### Ce que la table interdit à qui range
+
+**On ne démonte pas un worktree dont la ligne est encore dans la table.**
+Posé le 22 septembre, après que trois worktrees d'une même session eurent
+disparu ==dans la minute suivant la fusion de leur PR==, pendant qu'elle y
+travaillait encore.
+
+    ONTBibleApp-or     PR #327 fusionnée  →  disparu dans la minute
+    ONTBibleApp-cd     PR #328 fusionnée  →  disparu dans la minute
+    ONTBibleApp-vous   PR #330 fusionnée  →  disparu dans la minute
+
+Le geste est juste — c'est la tâche de ménage que l'auteur avait donnée — et
+==le moment est faux==. Il lui restait deux fichiers à écrire dans le dernier :
+la table des worktrees, et le registre des propositions. Elle a dû remonter un
+worktree pour les poser.
+
+> ==Qui lit la fusion mesure l'état de GitHub. Qui lit la table mesure l'état du
+> travail.== La fusion d'une PR n'est pas la fin du travail sur sa branche : il
+> reste le journal, le registre et le rangement — c'est-à-dire ==précisément ce
+> qu'on oublie le plus==.
+
+**C'est à cela que la déclaration sert**, et c'est le sens qui manquait à la
+règle du 21 : le tenant retire sa ligne ==quand il a fini==, et pas avant. Tant
+qu'elle est là, le worktree ne se démonte pas — ==même si sa PR est fusionnée,
+même si son contenu est en sécurité==.
+
+**Et ce qui a rendu les trois disparitions inoffensives est une garde de deux
+lignes**, écrite à midi après le premier incident, qui a servi à 13h20 sur la
+récidive exacte :
+
+    cd "$W" || exit 1
+    [ "$(git rev-parse --show-toplevel)" = "$W" ] || exit 1
+
+==La seconde ligne est celle qu'on oublie== : un `cd` réussi ne prouve pas qu'on
+est où l'on croit. Sans elle, les commandes suivantes s'exécutent dans le
+dossier courant — c'est ainsi qu'un commit a atterri dans un arbre partagé le
+18 septembre, et qu'une branche d'arbre principal a été déplacée le 22.
+
 #### Le contrôle qui la tient
 
     scripts/cartographier-la-flotte.py --worktrees
