@@ -76,13 +76,15 @@ avant.
 **neviʾim** crient *« **shalom**, **shalom** »* quand il n'y en a pas, et où la
 question devient de savoir ==qui a le droit de déclarer le compte complet==.
 
+## Ce que les formes portent
+
+La forme la plus fréquente est ==nue== — 122 emplois sur 237. Le reste porte une
+préposition attachée : *be-* « dans », *le-* « vers, pour », ou l'article *ha-*
+de la question, celle qu'on pose à qui revient.
+
 ## Formes
 
 shalom · beshalom · leshalom · ha-shalom · veshalom · shelomi
-
-*(La forme la plus fréquente est nue — 122 emplois sur 237. Le reste porte une
-préposition attachée : *be-* « dans », *le-* « vers, pour », ou l'article
-*ha-* de la question.)*
 
 ## Ne pas confondre
 

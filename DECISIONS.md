@@ -70,7 +70,7 @@ désigné, et cet index n'en est qu'une table.*
 | `brouillons/chuqqot/chuqqot-0-intro.md` | 248 | Décision de l'auteur du 18 septembre 2026. ==L'auteur ne paraît pas dans les |
 | `context/malakh-en-attente.md` | 103 | qu'il est. Décision de l'auteur du 12 septembre 2026. |
 | `lexique/Moreh.md` | 203 | deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026. |
-| `lexique/YHWH.md` | 86 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
+| `lexique/YHWH.md` | 88 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 58 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
