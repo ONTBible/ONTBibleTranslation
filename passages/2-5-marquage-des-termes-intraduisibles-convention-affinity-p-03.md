@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 3. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 3. Empreinte de la section : `689a6eede4ccf667`. Régénérer : `python3 knowledge/decouper.py`.*
 
 ==Passe du 12 septembre 2026== : 45 en forme nue, 29 avec l'article français,
   15 avec le `ha-`. Le personnage de *Toledot Adam ve-Chavah* s'écrivait jusque-là
@@ -35,6 +35,39 @@
 - `**tsadiq**` / `**tsadiqim**`. Premier emploi *Genèse* 6:9.
 - `**rashaʿ**` / `**reshaʿim**`. Premier emploi *Genèse* 18:23.
 - `**chesed**`. Premier emploi *Genèse* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Exode* 34:6-7 et *Ruth*.
+- `**shalom**` — intraduisible depuis le 26 septembre 2026 : ==l'état d'une
+  chose à qui l'on a rendu ce qui lui manquait== (שָׁלוֹם). ==237 emplois==, sans
+  lettre augmentée. Non « la paix », qui en français dit ==ce qui ne se passe
+  pas== — pas de guerre, pas de trouble : le **shalom** dit ==ce qui est là==, le
+  compte complet, rien qui manque. ==On peut avoir la paix dans une maison vide ;
+  on ne peut pas y avoir le **shalom**.==
+  ==Ce qui décide est la morphologie, non le contexte.== La racine ש־ל־ם donne au
+  piel *shillem* — ==restituer== —, `7999 a`, 103 emplois : c'est un mot ==de
+  droit==, celui de *shalem yeshallem* en *Shemot* 22:5, l'incendiaire qui
+  rembourse. ==Le mot porte donc la réparation avant tout emploi==, et un
+  **shalom** est plus souvent un ==après== qu'un avant.
+  D'où la question qu'on pose à qui revient : *ha-**shalom** lekha ?* n'est pas
+  « vas-tu bien ? » mais ==« est-ce que tout y est ? »==. C'est une question
+  d'==inventaire==, et c'est pourquoi la Shounamite y répond *« **shalom** »*
+  avec son fils mort à l'étage (*2 Melakhim* 4:26) — elle ==refuse de déclarer un
+  manque qu'elle vient faire combler==.
+  ⚠️ ==`Avshalom` n'est pas une forme de ce mot== : c'est un **Shem**, celui du
+  fils de David — *« mon père est **shalom** »* —, et il relève du §2.10. Une
+  conversion en masse l'emporterait ; la passe du 26 septembre s'est faite par
+  ==liste blanche==, comme celles du *pe* et de l'alef.
+  ==Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026.==
+  Là où **ʿolam** translittère le construit en entier — `**leʿolam**`, `**ʿad-ʿolam**` —, **shalom** garde ==la préposition en français== et ne met en
+  or que le nom : *Bereshit* 15:15 écrit `en **shalom** (*beshalom* /
+  בְּשָׁלוֹם)`, et non la forme absorbée. ==Le lecteur touche ainsi le lemme nu== et
+  arrive sur la fiche sans passer par une forme fléchie.
+  ==Les deux règles coexistent donc, et c'est assumé.== Elles ne portent pas sur
+  la même chose : les construits d'**ʿolam** sont ==des locutions figées== que le
+  corpus emploie comme des blocs — *leʿolam* n'est pas « vers l'**ʿolam** », c'est
+  un adverbe. *Beshalom* n'est pas figé : c'est le nom avec sa préposition, et le
+  français peut la porter sans rien perdre. ==Ce qui décide n'est pas la
+  cohérence des règles entre elles, c'est ce que chaque mot fait.==
+  ==Une seule occurrence== était concernée dans tout le corpus, en fichier
+  verrouillé, et elle est reprise.
 - `**tov**` — intraduisible : ce qui est ==pleinement ajusté à sa destination== dans l'ordre cosmique. Non « beau » ni « moralement bien ». Opposé fonctionnel : **raʿ**. Premier emploi *Genèse* 1:4.
 - `**tov meʾod**` — le construit de *Genèse* 1:31, employé ==une seule fois== dans *Bereshit* 1 : non sur une œuvre, mais sur ==le cosmos entier dans sa totalité intégrée==. *Meʾod* n'y est pas un adverbe d'intensité mais la marque de la plénitude atteinte.
 - `**tov varaʿ**` / `**Tov varaʿ**` — le construit de l'arbre (*etz hadaʿat tov varaʿ*, *Genèse* 2:9) : les deux graphies, car il ouvre parfois la phrase. Ce que l'arbre propose n'est pas un contenu de plus mais ==une modalité== — juger l'ordre depuis le dehors au lieu d'y participer. Et le couple est un ==mérisme== (§4.5) : nommer les deux bouts pour dire tout ce sur quoi un verdict peut se prononcer.

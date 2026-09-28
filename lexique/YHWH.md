@@ -81,6 +81,8 @@ Le nom se combine, et chaque combinaison ouvre une dimension : ==YHWH== **ʾEl �
 
 la-YHWH · ba-YHWH · va-YHWH · me-YHWH · ka-YHWH · u-me-YHWH · u-va-YHWH · ve-la-YHWH · ha-YHWH · she-YHWH · laYHWH · vaYHWH
 
+## Ce que les formes préfixées portent
+
 Le témoin porte ==820 emplois préfixés== du Nom, sur 6521. Une particule s'y colle — *vers*, *dans*, *comme*, *de*, *et* — et redouble parfois : `u-me-YHWH` est *et de*, `ve-la-YHWH` est *et vers*.
 
 ==Le trait d'union sépare la particule du Nom==, décision de l'auteur du 16 septembre 2026, et c'est la règle du §2.6 appliquée ici : l'article et la préposition ne sont pas des parties du nom, ils s'y attachent. Sans lui, `laYHWH` fait lire une syllabe `la` collée au Nom comme si elle lui appartenait.

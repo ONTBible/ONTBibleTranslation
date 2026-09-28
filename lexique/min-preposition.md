@@ -143,6 +143,8 @@ range avec le mot qu'elles précèdent, comme dit plus haut.
 
 min · mimennu · mimennah · mimekha
 
+## Ce qui n'est pas déclaré ici, et pourquoi
+
 *(Les formes assimilées —* mikol*,* mimei*,* miledet *— ne sont pas déclarées
 ici : le* m *y appartient autant au mot qui suit, et une déclaration ferait
 mener vers cette fiche un mot dont ce n'est pas le lemme.)*

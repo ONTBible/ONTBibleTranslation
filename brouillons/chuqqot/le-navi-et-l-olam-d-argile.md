@@ -197,7 +197,7 @@ sévère : ce qui a été dit, on regarde si ça vient.
 aux deux erreurs symétriques : disqualifier un homme pour une parole, ou avaler
 n'importe quelle parole au nom de l'homme.
 
-==La onzième chuqqah arrive au même énoncé depuis un autre terrain==, et aucune
+==La treizième chuqqah arrive au même énoncé depuis un autre terrain==, et aucune
 des deux ne le savait en s'écrivant. Elle ne parle pas du **naviʾ** mais du
 **lev**, et elle y trouve qu'il ==ne se certifie pas lui-même== : un **lev** très
 avancé peut produire la sensation d'une reconnaissance qui n'en est pas une, et
@@ -239,6 +239,14 @@ développées chez chacun, et elle n'a pas de règle pour en juger.
 - *==Cinq termes travaillent ici sans être déclarés== : **roʿeh**, **chozeh**, **mevaser**, **moreh**, et **laqach** — la saisie souveraine dont l'auteur fait le mode de constitution du **naviʾ**. ==À trancher par l'auteur== : au moins **chozeh** me semble en être, puisque la distinction d'avec **roʿeh** est précisément ce que le grec a détruit, et qu'un mot français la détruirait de nouveau.*
 
 - *==Ce que la chuqqah laisse dehors.== La matière porte une application à la constitution propre de l'auteur et à la communauté qu'il prépare. Cela appartient à son archive personnelle et n'entre pas dans le corpus. Elle porte aussi une critique de l'institution ecclésiale contemporaine, réduite ici au seul constat structurel — l'ONT affirme, il ne polémique pas (§10).*
+
+- *==Relue le 26 septembre 2026==, à la lumière des deux chuqqot insérées en
+  onzième et douzième. ==Rien du fond n'a bougé== : la chuqqah ne rencontre ni le
+  désordre comme distorsion ni le **shalom** comme restitution. Un seul renvoi a
+  été repris — celui qui nommait *savoir-n-est-pas-connaitre* « la onzième »,
+  devenue ==la treizième==. ==Le renvoi était juste et il a cessé de l'être sans
+  qu'une ligne de cette chuqqah change== : c'est ce que coûte un renvoi par rang,
+  et la feuille d'introduction en a tiré sa clause.*
 
 ### Ce que la chuqqah engage dans le corpus
 

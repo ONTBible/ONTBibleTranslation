@@ -168,6 +168,8 @@ préposition devient une capacité.
 bein · vein · beini · beinkha · uveinekha · uveineikhem · uveineikha ·
 bein hagezarim
 
+## Le bet qui perd son dagesh
+
 *(Le bet perd son dagesh après un mot qui finit par une voyelle : le corpus
 écrit alors* vein *— vingt et une fois sur cinquante. C'est la même lettre.)*
 
