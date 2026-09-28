@@ -5437,3 +5437,52 @@ un Shem — relevé dans leurs sources, pas déduit :
 **Il n'y a donc rien à porter, seulement plus de mots qui portent une cible.**
 C'est la couche des Shemot décidée le 29 août qui avait déjà fait le travail
 chez eux ; ce qui manquait était en amont, dans la jointure.
+
+### Un parseur indulgent fabrique des clés qui ne mènent nulle part
+
+Découvert le 28 septembre 2026 en déclarant `shalom` intraduisible, et relevé
+**contre ma propre fiche** avant de l'être contre trois autres.
+
+`pipeline/src/reference.rs`, `formes_declarees()` : la fonction prend **toute
+ligne non vide** sous `## Formes` jusqu'au titre suivant, et la découpe sur
+`·`. Une note en prose posée dans cette section devient donc ==une « forme »
+par ligne== — des clés de jointure qui ne correspondront jamais à aucun mot.
+
+Quatre fiches le faisaient, et neuf fausses formes en sortaient :
+
+    YHWH.md              4      « Le témoin porte 820 emplois préfixés… »
+    min-preposition.md   3      « Les formes assimilées — mikol, mimei… »
+    bein.md              2      « Le bet perd son dagesh après un mot… »
+    shalom.md            2      écrite le jour même, même faute
+
+Les quatre sont corrigées côté vault (#128) : un titre `##` inséré avant la
+prose, ==aucun mot changé==, le parseur s'arrête dessus.
+
+**Mais le correctif de fiche ne ferme pas le défaut**, et c'est ce qui traverse.
+Le parseur ==ingère de la prose sans se plaindre== : la faute ne se voit ni à
+l'écriture, ni à la construction, ni en CI. Elle a vécu dans trois fiches sans
+que personne la trouve, et j'en ai ajouté une quatrième ==en connaissant la
+section==, le jour même où je l'écrivais.
+
+==Une section `Formes` qui contient une phrase est une erreur certaine== — il
+n'existe aucun cas légitime. Elle est donc relevable mécaniquement : une ligne
+sans `·` et longue, ou tout « mot » portant un espace. **À l'app de juger entre
+un contrôle qui signale et un refus franc** ; le vault ne touche pas à son
+pipeline.
+
+C'est ==le contrôle qui ne peut pas rougir==, rencontré sur un parseur au lieu
+d'un test. Et il a le profil que le journal traque depuis le 25 août : une
+sortie bien formée, complète, qui ne répond pas à la question posée — ici la
+liste des formes est *produite*, elle est juste *fausse*, et rien dans sa forme
+ne le dit.
+
+**Et ce qui ne traverse pas, vérifié plutôt que supposé.** La déclaration de
+`shalom` elle-même ne demande rien aux voisins : le pipeline lit le §2.5 et le
+§3 dynamiquement, donc aucun code ne bouge. La session iOS l'a confirmé sur ses
+propres sources — une fiche de plus voyage par la mise à jour réseau,
+`SourcesUpdater` la prend en génération complète dans un temporaire et bascule
+atomiquement, ==sans compilation ni revue Apple==.
+
+    reconstruit le 28 septembre, ONT_OUT détourné hors de l'arbre d'iOS
+    Anomalies  0 termes inconnus, 0 marqueurs déséquilibrés, 0 mots d'or sans fiche
+    Glossaire  161 entrées — 3247 occurrences indexées
