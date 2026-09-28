@@ -31,3 +31,7 @@ __pycache__/
 
 # Propositions locales avec préimages, à régénérer avant leur application.
 knowledge/preparation/
+
+# Les restranscriptions de l'auteur — présentes pour le travail, jamais publiées.
+# Le dépôt est public, et git n'oublie pas : ce qui y entre une fois y reste.
+restranscriptions/
