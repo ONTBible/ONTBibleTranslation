@@ -1,9 +1,10 @@
 # 3.2 Noms et concepts fondamentaux
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 3.2 Noms et concepts fondamentaux », partie 7. Empreinte de la section : `be19300021846aa8`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 3.2 Noms et concepts fondamentaux », partie 7. Empreinte de la section : `083f6c07434fd9ed`. Régénérer : `python3 knowledge/decouper.py`.*
 
 | Terme hébreu | Translittération | Traduction ONT | Ce qu'il signifie |
 |---|---|---|---|
+| מוֹעֵד | *moʿed* | temps fixé | Le rendez-vous sacré, l'assemblée convoquée. Non pas "saison". |
 | חַטָּאת | *chattat* | **chattat** | Intraduisible. Forme nominale de **chataʾ** — le manquement lui-même, devenu une chose qu'on peut nommer. Personnifié en *Genèse* 4:7 comme une bête tapie à l'entrée, couchée et guettant : la **chattat** n'y est pas une abstraction morale mais ==une présence qui attend==. Jamais « le péché » (catégorie morale grecque, qui déplace le mot du manquement vers la culpabilité). Formes : **chattat**, **chataʾah** (*Genèse* 18:20), **chataʾim** (le pluriel adjectival, *Genèse* 13:13). ==Attention à la finale== : חַטָּאת se termine par un ==tav==, donc **chattat** — le corpus a longtemps écrit « chattah », qui est l'habit de l'autre mot, חַטָּאָה, finale en ==he==. Les deux existent en hébreu biblique et l'ONT emploie les deux : **chattat** en *Genèse* 4:7, **chataʾah** en *Genèse* 18:20. Corrigé le 28 août 2026. Laissée en hébreu. |
 | מִנְחָה | *minchah* | tribut | Geste du vassal vers son suzerain — non pas encore un terme sacrificiel technique. Apporter un tribut c'est reconnaître une autorité supérieure. |
 | אָרוּר | *ʾarur* | frappé de dysfonctionnement | Opposé de *barakh* (doter) — non pas l'absence de dotation, mais sa perversion. La dotation demeure mais devient dysfonctionnelle. Le serpent continue de se mouvoir, l'adamah continue de produire, Qayin continue de vivre : mais tout cela est atteint dans sa fonction. |

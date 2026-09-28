@@ -73,6 +73,7 @@ désigné, et cet index n'en est qu'une table.*
 | `lexique/YHWH.md` | 86 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 58 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-05.md` | 17 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
 | `passages/3-1-verbes-fondamentaux-02.md` | 9 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
 | `passages/3-2-noms-et-concepts-fondamentaux-02.md` | 7 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
