@@ -281,7 +281,7 @@ se tient.
 
 ==Reste ce que cette chuqqah ne dit pas : par quoi le seuil bouge.== Elle
 constate le déplacement — chez [[ʾEliyahu]], chez [[ʾElisha]], chez l'orfèvre —
-et n'en donne aucun mécanisme. La onzième en nomme un, et le témoin ne l'emploie
+et n'en donne aucun mécanisme. La treizième en nomme un, et le témoin ne l'emploie
 que sept fois : la **tardemah**, ce qui tombe et dont nul ne décide.
 L'**ʾishah** est édifiée pendant que l'**ʾAdam** dort ; la **berith** des
 morceaux se passe sans que [[ʾAvram]] marche entre eux. ==L'acte constitutif a
@@ -399,7 +399,7 @@ d'une seule aptitude==, et une direction ne se détache pas de ce dont elle est
 la direction.
 
 ==Cela dit qu'on ne les possède pas séparément. Cela ne dit pas qu'elles font la
-même chose.== La onzième chuqqah le montre sur le couple qui vient d'être cité
+même chose.== La treizième chuqqah le montre sur le couple qui vient d'être cité
 comme exemple : la **binah** voit ce qui se tient ==entre== les choses — elle en
 dresse la carte, et elle peut la dresser d'un pays où elle n'a jamais marché ;
 la **daʿat** entre ==dedans==. Deux opérations distinctes, et une **chuqqah**
@@ -548,11 +548,25 @@ propre chuqqah, et il ne se traitera pas en trois paragraphes.
 
 - *==Des Shemot paraissent ici sans marque, faute de fiche== : Betsalel, Gidʿon, Shaul, Yosef, Dotan, Shunem, Eldad, Medad, le Karmel. Neuf en ont une et sont marqués : [[Mosheh]], [[Bavel]], [[Parʿoh]], [[Yaʿaqov]], [[Noach]], [[Mitsrayim]], [[ʾEliyahu]], [[ʾElisha]] et [[Sinai]]. ==Betsalel est le manque qui coûte le plus== : son **Shem** dit « à l'ombre de **ʾEl** », et la fiche `lexique/kli.md` l'attend déjà nommément pour le jour où *Shemot* sera écrit.*
 
-- *==Ce qui a été écarté, et au nom de quelle règle.== La matière raisonne presque entièrement en grec : *logos sophias*, *gnôsis*, *pistis*, *charismata iamatôn*, *energêmata dynameôn*, *diakrisis pneumatôn*, *hermêneia*. Rien de cela n'entre — non par purisme, mais parce que ==chacun de ces mots porte le découpage que la chuqqah défait==. Sont tombés avec eux : le mot ==« magie »== et ses trois termes grecs, remplacés par les *chartumim*, que le corpus met en scène lui-même ; le ==« champ ruach »== comme milieu où l'on opérerait, qui refait de la **Ruach** une substance étendue et contredit la racine ; les ==« lois de la nature »== et leur violation, qui n'ont aucun répondant hébreu ; et le ==*shalom* comme intégrité restaurée==, qui est juste mais appellerait son propre traitement. La distinction ==*avoir* / *être*== a été gardée, parce qu'elle n'est pas une catégorie mais un constat de grammaire — c'est la **Ruach** qui revêt Gidʿon, non l'inverse.*
+- *==Ce qui a été écarté, et au nom de quelle règle.== La matière raisonne presque entièrement en grec : *logos sophias*, *gnôsis*, *pistis*, *charismata iamatôn*, *energêmata dynameôn*, *diakrisis pneumatôn*, *hermêneia*. Rien de cela n'entre — non par purisme, mais parce que ==chacun de ces mots porte le découpage que la chuqqah défait==. Sont tombés avec eux : le mot ==« magie »== et ses trois termes grecs, remplacés par les *chartumim*, que le corpus met en scène lui-même ; le ==« champ ruach »== comme milieu où l'on opérerait, qui refait de la **Ruach** une substance étendue et contredit la racine ; les ==« lois de la nature »== et leur violation, qui n'ont aucun répondant hébreu ; et le ==**shalom** comme intégrité restaurée==, qui est juste mais appellerait son propre traitement. La distinction ==*avoir* / *être*== a été gardée, parce qu'elle n'est pas une catégorie mais un constat de grammaire — c'est la **Ruach** qui revêt Gidʿon, non l'inverse.*
 
 - *==Ce que la chuqqah laisse dehors, et qui devrait devenir une chuqqah.== Toute la troisième conversation porte sur ==la *safah*== : [[Bavel]] comme démultiplication des bords, les soixante-dix **goyim** de *Bereshit* 10, *Deutéronome* 32:8 et sa variante de Qumrân, la tradition du [[Sinai]] où la voix se divise, *Ésaïe* 28:11, *Sophonie* 3:9, *Joël* 3:1 — 2:28 dans les Bibles qui suivent le latin. Il y a là ==une chuqqah entière== — sur l'**ʿolam** du dicible —, et la couche écrite ici n'en retient que ce que l'énoncé exigeait. ==À décider par l'auteur== : je la tiens pour la plus nécessaire des chuqqot à venir, et elle ne peut pas être écrite dans celle-ci sans la déséquilibrer.*
 
 - *==Une réserve de numérotation.== *Exode* 8 porte deux découpages : le témoin hébreu numérote 8:11, 8:14 et 8:15 ce que plusieurs Bibles françaises numérotent 8:15, 8:18 et 8:19, d'après le latin. Les références données ici suivent ==le témoin hébreu==, comme le fait déjà la sixième chuqqah pour *Job* 40-41. Le §2.6 prévoit qu'un nom français porte un numéro reçu ; ==il ne prévoit pas que le numéro reçu diffère selon la Bible==, et le cas se présente pour la deuxième fois.*
+
+- *==Relue le 26 septembre 2026==, à la lumière des deux chuqqot insérées en
+  onzième et douzième. ==Deux renvois par rang== vers *savoir-n-est-pas-connaitre*
+  ont été portés de « la onzième » à ==la treizième==, et son titre a été
+  retourné le même jour — *Connaître n'est pas savoir* est devenu *Savoir n'est
+  pas connaître*, ==parce que la faute du lecteur est de croire que savoir
+  suffit==, non de confondre deux mots.*
+
+- *==Et une balise a changé de nature ici.== Cette chuqqah écrivait *shalom* en
+  italique, parmi les termes grecs qu'elle écartait — *« le **shalom** comme
+  intégrité restaurée, qui est juste »*. Le mot ==est devenu intraduisible le
+  26 septembre 2026== : il est maintenant en or et mène à `lexique/shalom.md`.
+  ==La phrase disait déjà ce que la fiche démontre==, et elle le disait sans
+  pouvoir y renvoyer.*
 
 ### Ce que la chuqqah engage dans le corpus
 
