@@ -75,7 +75,7 @@ c'est à cette condition qu'un monde peut être reposé après.
 Il faut dire ce qui arrive alors, et il faut le dire avec précaution.
 
 *Bereshit* 6 raconte un franchissement : des fils d'**ʾElohim** prennent des
-filles de **l'Être façonné du sol**, et de ce croisement paraît quelque chose.
+filles de l'**ʾAdam**, et de ce croisement paraît quelque chose.
 
 ==Le corpus n'emploie pas le mot *min* dans ce passage==, et c'est justement ce
 qu'il faut remarquer. Ce qui en sort n'est ==pas nommé « selon son espèce »==,

@@ -20,7 +20,7 @@ Il ne dit pas qu'une chose *est*. Il dit qu'elle ==le devient==, ou qu'elle ==l'
 
 La construction la plus fréquente le montre sans discussion : *hayah* suivi de la particule *le-*.
 
-En *Genèse* 2:7, quand le souffle entre dans les narines, le texte ne dit pas que **l'Être façonné du sol** ==est== un **Nefesh** vivant. Il dit *vayehi le-nefesh chayah* — ==il le devint==. Il y a un avant et un après, et le verbe est la charnière entre les deux.
+En *Genèse* 2:7, quand le souffle entre dans les narines, le texte ne dit pas que l'**ʾAdam** ==est== un **Nefesh** vivant. Il dit *vayehi le-nefesh chayah* — ==il le devint==. Il y a un avant et un après, et le verbe est la charnière entre les deux.
 
 Même chose en *Genèse* 2:24 : deux ne ==sont== pas un seul **basar**, ils *hayah le* — ils ==le deviennent==. L'unité n'est pas un fait constaté, c'est ==quelque chose qui arrive==.
 

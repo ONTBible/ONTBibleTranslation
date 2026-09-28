@@ -112,7 +112,7 @@ aurait laissé les deux mots se confondre.
 Et le corpus les met à quelques mots l'un de l'autre. *Bereshit* 2, la scène de
 la nomination des vivants :
 
-> **YHWH** **ʾElohim** les amena vers **l'Être façonné du sol** pour voir
+> **YHWH** **ʾElohim** les amena vers l'**ʾAdam** pour voir
 > comment il les nommerait — *mah yiqraʾ lo* —, et tout ce qu'il nommerait,
 > *nefesh chayah*, ==c'est là son **Shem**==.
 

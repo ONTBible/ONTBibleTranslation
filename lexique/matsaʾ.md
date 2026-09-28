@@ -14,7 +14,7 @@ Ce qui mérite d'être montré n'est pas le mot. C'est ==où il tombe==.
 
 Sa première occurrence est un échec.
 
-*Genèse* 2:20 : **l'Être façonné du sol** nomme les bêtes, une à une, et *ulʾadam loʾ matsaʾ ʿezer* — ==il ne trouva pas== de vis-à-vis. Le premier emploi du verbe est un ==non-trouver==, et le récit s'arrête là-dessus : il faudra édifier quelque chose que chercher ne suffisait pas à obtenir.
+*Genèse* 2:20 : l'**ʾAdam** nomme les bêtes, une à une, et *ulʾadam loʾ matsaʾ ʿezer* — ==il ne trouva pas== de vis-à-vis. Le premier emploi du verbe est un ==non-trouver==, et le récit s'arrête là-dessus : il faudra édifier quelque chose que chercher ne suffisait pas à obtenir.
 
 La deuxième scène mémorable est du même ordre. La colombe revient à l'arche parce qu'elle *loʾ matseʾah manoach* — ==elle ne trouva pas== où poser la plante de son pied (*Genèse* 8:9). L'eau couvre encore tout ; il n'y a rien à trouver.
 

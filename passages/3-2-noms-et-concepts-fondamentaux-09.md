@@ -1,6 +1,6 @@
 # 3.2 Noms et concepts fondamentaux
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 3.2 Noms et concepts fondamentaux », partie 9. Empreinte de la section : `083f6c07434fd9ed`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 3.2 Noms et concepts fondamentaux », partie 9. Empreinte de la section : `11bb1a069e45b043`. Régénérer : `python3 knowledge/decouper.py`.*
 
 | Terme hébreu | Translittération | Traduction ONT | Ce qu'il signifie |
 |---|---|---|---|

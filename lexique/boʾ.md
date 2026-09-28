@@ -37,7 +37,7 @@ C'est une carte faite de trajets. On ne peut pas la regarder d'en haut : ==il fa
 
 À la forme causative, le verbe devient *amener* — faire que quelque chose arrive là où l'on est.
 
-C'est ce que fait **YHWH** **ʾElohim** en *Genèse* 2:19, quand il ==amène== les vivants devant **l'Être façonné du sol** pour qu'il les nomme ; et au verset 22, quand il ==l'amène== vers lui. C'est aussi ce que font [[Qayin]] et [[Hevel]] en *Genèse* 4:3-4 : ils ==font venir== leur tribut. Personne n'« offre » dans le texte — ==on amène quelque chose devant quelqu'un==, et le geste est le même que celui d'un vassal devant son suzerain.
+C'est ce que fait **YHWH** **ʾElohim** en *Genèse* 2:19, quand il ==amène== les vivants devant l'**ʾAdam** pour qu'il les nomme ; et au verset 22, quand il ==l'amène== vers lui. C'est aussi ce que font [[Qayin]] et [[Hevel]] en *Genèse* 4:3-4 : ils ==font venir== leur tribut. Personne n'« offre » dans le texte — ==on amène quelque chose devant quelqu'un==, et le geste est le même que celui d'un vassal devant son suzerain.
 
 ## Ce sur quoi cette fiche repose
 

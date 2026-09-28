@@ -58,7 +58,7 @@ voit pas le bout==, et il faut lire ce composé sur sa fiche, non ici.
 
 ## Et un usage qu'on reconnaîtra
 
-**YHWH** dit à **l'Être façonné du sol** qu'il mangera son pain *ʿad-shuvekha
+**YHWH** dit à l'**ʾAdam** qu'il mangera son pain *ʿad-shuvekha
 el-ha-ʾadamah* — ==jusqu'à ton retour vers le sol concret==. La préposition n'y
 fait rien d'extraordinaire : elle pose un terme, et ce terme est la mort.
 

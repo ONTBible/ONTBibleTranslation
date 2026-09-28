@@ -38,7 +38,7 @@ nombres-là.
 Une seule fois avant les eaux, le corpus met des *benot* au centre d'une scène,
 et la scène est celle qui précède la ruine.
 
-Les fils d'**ʾElohim** ==virent== que les filles de **l'Être façonné du sol**
+Les fils d'**ʾElohim** ==virent== que les filles de l'**ʾAdam**
 étaient **tov**. Le mot qui les nomme, *benot ha-adam*, ne dit rien d'elles
 sinon ==de quel côté de la frontière elles se tiennent== : elles sont du côté du
 sol, et ceux qui regardent sont de l'autre côté. C'est le mot d'appartenance,

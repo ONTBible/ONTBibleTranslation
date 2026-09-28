@@ -20,7 +20,7 @@ Voilà tout le verbe : ==un oiseau qui rentre parce qu'il n'y a nulle part aille
 
 Le mot ne sert pas qu'aux oiseaux, et il ne s'adoucit pas quand il porte davantage.
 
-*Genèse* 3:19 — *ʿad shuvekha ʾel haʾadamah* : ==jusqu'à ton retour vers le sol==. **L'Être façonné du sol** en vient, il y retourne. Ce n'est pas une image de la mort, c'est ==le verbe du trajet==, employé à l'endroit qu'il faut : on est allé quelque part, on revient d'où l'on vient.
+*Genèse* 3:19 — *ʿad shuvekha ʾel haʾadamah* : ==jusqu'à ton retour vers le sol==. L'**ʾAdam** en vient, il y retourne. Ce n'est pas une image de la mort, c'est ==le verbe du trajet==, employé à l'endroit qu'il faut : on est allé quelque part, on revient d'où l'on vient.
 
 *Genèse* 16:9 — le **malʾakh** **YHWH** trouve [[Hagar]] près d'une source, en fuite, enceinte. Son premier mot est *shuvi* : ==retourne==. Refais le chemin à l'envers. Rentre chez celle que tu as quittée. Le verbe est le même que celui de la colombe, et il demande ici quelque chose d'énorme — mais ==le mot, lui, ne dit rien de plus que le demi-tour==.
 

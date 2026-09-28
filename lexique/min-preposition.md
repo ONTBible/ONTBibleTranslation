@@ -40,7 +40,7 @@ Non pas la provenance abstraite, mais ==l'endroit qu'on quitte==. Une chose
 
 C'est le septième de *Bereshit* 2, et il est bâti sur cette préposition.
 
-> **YHWH** **ʾElohim** façonna **l'Être façonné du sol**, poussière *min*
+> **YHWH** **ʾElohim** façonna l'**ʾAdam**, poussière *min*
 > l'*ʾadamah* — ==hors du sol==.
 
 Pesez ce que la préposition fait ici. Le §3.2 donne l'étymologie qui commande
@@ -128,7 +128,7 @@ préposition, elle, ne tranche pas.
 
 *min*, l'espèce — l'homographe, et rien d'autre en commun. *ʾachar*, avec
 laquelle elle se combine : *meʾacharav*, « de derrière lui ». *ʾadamah* et
-**l'Être façonné du sol**, que ce mot relie.
+l'**ʾAdam**, que ce mot relie.
 
 ## Ce sur quoi cette fiche repose
 

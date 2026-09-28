@@ -10,7 +10,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 Il y a plusieurs façons de dire « humain » dans cette langue, et elles ne disent pas la même chose. C'est une richesse que le français n'a pas, et qu'il faut tenir.
 
-**L'Être façonné du sol** — *ha-adam* (*ha-adam* / הָאָדָם) — nomme l'humain par ==son origine et son office== : tiré de l'*adamah*, chargé de gouverner. C'est un mot de mandat.
+L'**ʾAdam** — *ha-adam* (*ha-adam* / הָאָדָם) — nomme l'humain par ==son origine et son office== : tiré de l'*adamah*, chargé de gouverner. C'est un mot de mandat.
 
 *Enosh* (*ʾenosh* / אֱנוֹשׁ) le nomme par sa ==fragilité==. C'est l'être qui casse, qui use, qui meurt — la racine évoque la faiblesse et l'atteinte. Le mot ne décrit pas un rang dans l'ordre cosmique, il décrit ==une condition subie==.
 
@@ -38,7 +38,7 @@ Sa maison : [[Shet]] son père, [[Chavah]] sa grand-mère.
 
 Sa ligne : elle mène à [[Chanokh-qui-marche-avec-Elohim]], [[Metoushelach]] et [[Noach]].
 
-Ce que son **Shem** touche : **l'Être façonné du sol**, dont il est l'autre face — le mandat d'un côté, la fragilité de l'autre.
+Ce que son **Shem** touche : l'**ʾAdam**, dont il est l'autre face — le mandat d'un côté, la fragilité de l'autre.
 
 ## Source
 
