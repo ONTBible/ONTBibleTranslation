@@ -60,7 +60,7 @@ information, et il se voit.
 
     ouverte le   18 septembre 2026, par la manageuse
     vers         main
-    état         ouverte
+    état         fusionnée le 29 septembre 2026
 
 **Pourquoi.** La table des sept rôles disait *ce que* chacun tient, jamais *où*.
 Quatre identifiants ont péri en un jour avant qu'on trouve le bon — le nom à un

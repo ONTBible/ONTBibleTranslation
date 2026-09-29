@@ -441,6 +441,25 @@ même sans voir qu'un worktree y pendait. Et ==un banc de mesure de 229 lignes==
 qui vivait en fichier non suivi, dont les deux « exemplaires de réserve »
 étaient la version d'avant.
 
+**Une leadeuse n'a rien à créer, et sa ligne n'est pas une déclaration.** La
+décision ci-dessus vise ==celle qui crée un worktree==. La leadeuse d'un dépôt
+n'en crée pas : elle tient ==l'arbre principal==, qui existait avant elle et
+qui existera après. Sa ligne figure quand même dans la table — ==le poste est
+un fait du dépôt, pas un acte de session==.
+
+==Sans cette clause, l'absence se lit comme un manquement== : quelqu'un qui
+vérifie la table contre `git worktree list` trouve l'arbre principal, cherche
+qui l'a déclaré, et conclut que la leadeuse ne l'a pas fait. ==Elle n'avait rien
+à déclarer.== Relevé par le vault le 29 septembre 2026, le jour même où la table
+est entrée dans `main` — et c'est le bon moment pour le dire, avant que
+quelqu'un tire la mauvaise conclusion.
+
+C'est la même distinction que partout ailleurs dans ce fichier : ==ce qui se
+mesure ne se déclare pas, ce qui ne se mesure pas se déclare==. `git worktree
+list` prouve l'arbre principal ; il ne prouve pas ==à qui== est un worktree, ni
+==pourquoi== il existe. Les deux colonnes de droite sont là pour ça, et elles
+seules demandent une main.
+
 #### La table — elle déclare un poste, non une branche
 
 | worktree | qui | pourquoi |
