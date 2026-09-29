@@ -1,4 +1,4 @@
-# Connaître n'est pas savoir — et une **chuqqah** ne se sait pas
+# Savoir n'est pas connaître — et une **chuqqah** ne se sait pas
 
 *(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 

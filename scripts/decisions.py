@@ -55,7 +55,13 @@ RACINE = Path(__file__).resolve().parent.parent
 
 # Les dossiers qu'on ne parcourt pas : ni le `.git`, ni les sources bibliques —
 # quarante mille versets qui ne portent aucune décision et noieraient tout.
-IGNORES = {".git", "sources", "utilities", "node_modules", "dist", ".github"}
+IGNORES = {".git", "sources", "utilities", "node_modules", "dist", ".github",
+           # Les restranscriptions de l'auteur : présentes pour le travail,
+           # ignorées par git, et donc absentes du dépôt public. L'index
+           # décrit le DÉPÔT, pas le disque — il balaie par rglob, qui ne
+           # fait pas la différence, et il compterait seize fichiers que
+           # personne ne peut voir.
+           "restranscriptions"}
 
 # **L'index ne s'indexe pas lui-même.** Sans cette ligne il se cite, et chaque
 # exécution recopie ses propres lignes dans les suivantes : la table grossit à

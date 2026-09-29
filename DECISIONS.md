@@ -9,26 +9,28 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 683 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
-| `CLAUDE.md` | 1453 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1656 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
-| `CLAUDE.md` | 1750 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 716 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
+| `CLAUDE.md` | 1486 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1689 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `CLAUDE.md` | 1783 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 3113 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
-| `brouillons/chuqqot/connaitre-n-est-pas-savoir.md` | 410 | elle ne peut pas diverger visiblement. À trancher par l'auteur== : ces noms |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 474 | ==Candidats intraduisibles, à trancher par l'auteur.== ==Le construit `basar ʾechad`== d'abord :… |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 478 | …on précédente ne faisait pas. ==À trancher par l'auteur== s'il veut l'y faire rentrer. |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 482 | … à passer par soma et pneuma. ==À trancher par l'auteur== si le passage doit y entrer le jour où… |
 | `brouillons/chuqqot/l-olam-est-un-regard.md` | 212 | …es emploie encore nulle part. ==À trancher par l'auteur== si l'un des deux doit recevoir sa prop… |
 | `brouillons/chuqqot/la-force-repond-a-ce-qui-se-derobe.md` | 385 | …ucun couple français ne rend. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
+| `brouillons/chuqqot/le-desordre-est-une-distorsion.md` | 215 | une jonction et non une matière. À trancher par l'auteur. |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 179 | …au lecteur== et dit pourquoi. ==À trancher par l'auteur== si cette duplication doit être réduite… |
 | `brouillons/chuqqot/le-gradient-de-kavod.md` | 181 | … shamayim, également traduit. ==À trancher par l'auteur== le jour où Shemot fera paraître le par… |
 | `brouillons/chuqqot/le-navi-et-l-olam-d-argile.md` | 239 | …ode de constitution du naviʾ. ==À trancher par l'auteur== : au moins chozeh me semble en être, p… |
+| `brouillons/chuqqot/le-shalom-est-une-restitution.md` | 193 | shillem et ner. À trancher par l'auteur. Rapha me paraît en être — |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 271 | …sente chuqqah ne le cite pas. ==À trancher par l'auteur== : renvoyer, citer, ou laisser entièrem… |
 | `brouillons/chuqqot/les-quatre-modes-de-presence.md` | 275 | …l'aigle en Deutéronome 32:11. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
 | `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 543 | …é pire qu'un ordre imparfait. ==À trancher par l'auteur== : celle-ci pose ce que les deux autres… |
 | `brouillons/chuqqot/on-ne-recoit-pas-une-puissance.md` | 547 | ==Candidats intraduisibles, à trancher par l'auteur.== ==safah== d'abord, et c'est le plus série… |
+| `brouillons/chuqqot/savoir-n-est-pas-connaitre.md` | 410 | elle ne peut pas diverger visiblement. À trancher par l'auteur== : ces noms |
 | `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 418 | …on d'un kli fait à son ʿolam. ==À trancher par l'auteur== si le paragraphe commun doit être reti… |
 | `brouillons/chuqqot/un-kli-tourne-vers-soi.md` | 422 | …temple celui de Nombres 12:8. ==À trancher par l'auteur.== |
 | `brouillons/chuqqot/yhwh-ha-maqom.md` | 201 | … qum est celle du relèvement. ==À trancher par l'auteur== : la règle des termes chargés lui rése… |
@@ -48,36 +50,38 @@ désigné, et cet index n'en est qu'une table.*
 |---|---:|---|
 | `CLAUDE.md` | 137 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
 | `CLAUDE.md` | 212 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
-| `CLAUDE.md` | 389 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 1350 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1539 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
-| `CLAUDE.md` | 1572 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
-| `CLAUDE.md` | 1755 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 1977 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 2132 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 2250 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 2271 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
-| `CLAUDE.md` | 2400 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2692 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2758 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 253 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
+| `CLAUDE.md` | 422 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `CLAUDE.md` | 1383 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1572 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
+| `CLAUDE.md` | 1605 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
+| `CLAUDE.md` | 1788 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 2010 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 2165 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 2283 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 2304 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
+| `CLAUDE.md` | 2434 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2726 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2792 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `PROPOSITIONS.md` | 3 | Décision de l'auteur du 21 septembre 2026. Toute PR s'inscrit ici, **par |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
-| `brouillons/chuqqot/chuqqot-0-intro.md` | 129 | Décision de l'auteur du 18 septembre 2026. Quand une chuqqah est écrite, |
-| `brouillons/chuqqot/chuqqot-0-intro.md` | 215 | Décision de l'auteur du 18 septembre 2026. ==L'auteur ne paraît pas dans les |
+| `brouillons/chuqqot/chuqqot-0-intro.md` | 162 | Décision de l'auteur du 18 septembre 2026. Quand une chuqqah est écrite, |
+| `brouillons/chuqqot/chuqqot-0-intro.md` | 248 | Décision de l'auteur du 18 septembre 2026. ==L'auteur ne paraît pas dans les |
 | `context/malakh-en-attente.md` | 103 | qu'il est. Décision de l'auteur du 12 septembre 2026. |
 | `lexique/Moreh.md` | 203 | deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026. |
-| `lexique/YHWH.md` | 86 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
+| `lexique/YHWH.md` | 88 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 58 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
 | `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-05.md` | 17 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
 | `passages/3-1-verbes-fondamentaux-02.md` | 9 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
 | `passages/3-2-noms-et-concepts-fondamentaux-02.md` | 7 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
 | `passages/4-1-les-gloses-01.md` | 25 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
 | `passages/la-gemination-s-ecrit-quand-elle-separe-yamim-les-jours-yamm-01.md` | 5 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
 
-## Les 103 intraduisibles déclarés au §2.5
+## Les 104 intraduisibles déclarés au §2.5
 
 Le lemme d'abord, ses formes dérivées ensuite — c'est l'ordre que le
 pipeline lit, et les dérivées retombent sur la fiche du lemme.
@@ -116,6 +120,7 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **tsadiq** | tsadiqim | *Genèse* 6:9 | ✓ |
 | **rashaʿ** | reshaʿim | *Genèse* 18:23 | ✓ |
 | **chesed** | — | *Genèse* 19:19 ; traitement définitif (plus ample) réservé à son locus central — *Exode* 34:6-7 et *Ruth* | ✓ |
+| **shalom** | — | — | ✓ |
 | **tov** | — | *Genèse* 1:4 | ✓ |
 | **tov meʾod** | — | — | ✓ |
 | **tov varaʿ** | Tov varaʿ | — | ✓ |
@@ -214,7 +219,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 166 leçons du journal
+## Les 170 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -384,7 +389,11 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Un contrôle vert est une affirmation sur l'instant où il a tourné
 - Deux instruments justes peuvent couvrir le même angle
 - Le motif de fond
+- L'épreuve existait, et elle était juste
+- Trois bancs ont mesuré leur propre attente
+- Ce que la jointure des Shemot change chez les voisins — vérifié, pas supposé
+- Un parseur indulgent fabrique des clés qui ne mènent nulle part
 
 ---
 
-*589 fichiers parcourus · 440 fiches dans `lexique/`.*
+*592 fichiers parcourus · 441 fiches dans `lexique/`.*

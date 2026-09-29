@@ -5663,3 +5663,112 @@ aucune gloire de la comparaison.
 
 *Porté dans `brouillons/chuqqot/chuqqot-0-intro.md` par le vault (PR #109),
 section « Le dépôt qui les porte en a aussi ».*
+
+---
+
+## 21 septembre 2026 — une condition jamais vraie, et une épreuve qui ne tournait pas
+
+Le pointillé sous le verset désigné et le voile sur ses voisins étaient morts
+**depuis le 15 août**. Le commit qui a posé le moteur de rendu a, dans le même
+geste, fusionné les versets d'une unité en **un seul texte** : 13 960 points de
+haut, contre un plafond de tampon de 5 188 sur un téléphone.
+
+Au-dessus de ce plafond, `TextRenderer` **perd le dessin sans erreur ni trace**.
+La condition qui posait le pointillé n'a donc jamais été vraie sur un chapitre
+réel — pas une fois en cinq semaines.
+
+### L'épreuve existait, et elle était juste
+
+`EstompageTests` gardait exactement ce cas. Elle n'était branchée dans aucun
+job : `-scheme ONT` ne la bâtissait pas. **Verte un mois durant sans jamais
+tourner.**
+
+> ==Une garde qu'on n'exécute pas ne garde rien. Vérifier qu'une épreuve
+> existe n'est pas vérifier qu'elle s'exécute — ce sont deux questions, et
+> c'est la seconde qui protège.==
+
+Elle entre dans `tests.yml`, et durcie : elle mesurait l'encre de la page sans
+vérifier qu'il y en avait. Sur un écran blanc — l'autre manifestation du même
+défaut — elle passait au vert.
+
+### Trois bancs ont mesuré leur propre attente
+
+La correction a rendu la sélection lente, et trois bancs successifs ont annoncé
+**490 à 900 ms**. Les trois étaient faux, pour la même raison : `XCUITest` ne
+rend la main qu'une fois l'application **au repos**. Tout banc externe mesure
+donc la fin du mouvement, jamais le travail.
+
+Des `os_signpost` posés dans le chemin lui-même ont tranché : **54 ms** entre le
+doigt et le texte marqué. J'avais annoncé « 517 ms récupérés » ; ce chemin n'en
+a jamais fait plus de 54.
+
+Les balises restent dans le code livré — elles ne coûtent rien tant que personne
+n'écoute, et une instrumentation qu'on repose à chaque enquête est une
+instrumentation qu'on reposera de travers.
+
+### Ce que la jointure des Shemot change chez les voisins — vérifié, pas supposé
+
+562 noms propres deviennent touchables : leur fiche existait et déclarait son
+numéro de Strong, mais `LiaisonDesMots` ne chaînait que le glossaire. Les 626
+jointures passent toutes par le numéro déclaré **des deux côtés**.
+
+Aucune forme JSON ne bouge, et les deux autres plateformes savent déjà ouvrir
+un Shem — relevé dans leurs sources, pas déduit :
+
+| dépôt | ce qui reçoit un `ont://shem/<lemme>` |
+|---|---|
+| site | `interface/design/verset.rs:208` et `:238` — `CibleDuNiveauTrois::Shem` |
+| Android | `MainActivity.kt:469-473`, `:1200-1207` — `ShemSheet`, état distinct du terme |
+
+**Il n'y a donc rien à porter, seulement plus de mots qui portent une cible.**
+C'est la couche des Shemot décidée le 29 août qui avait déjà fait le travail
+chez eux ; ce qui manquait était en amont, dans la jointure.
+
+### Un parseur indulgent fabrique des clés qui ne mènent nulle part
+
+Découvert le 28 septembre 2026 en déclarant `shalom` intraduisible, et relevé
+**contre ma propre fiche** avant de l'être contre trois autres.
+
+`pipeline/src/reference.rs`, `formes_declarees()` : la fonction prend **toute
+ligne non vide** sous `## Formes` jusqu'au titre suivant, et la découpe sur
+`·`. Une note en prose posée dans cette section devient donc ==une « forme »
+par ligne== — des clés de jointure qui ne correspondront jamais à aucun mot.
+
+Quatre fiches le faisaient, et neuf fausses formes en sortaient :
+
+    YHWH.md              4      « Le témoin porte 820 emplois préfixés… »
+    min-preposition.md   3      « Les formes assimilées — mikol, mimei… »
+    bein.md              2      « Le bet perd son dagesh après un mot… »
+    shalom.md            2      écrite le jour même, même faute
+
+Les quatre sont corrigées côté vault (#128) : un titre `##` inséré avant la
+prose, ==aucun mot changé==, le parseur s'arrête dessus.
+
+**Mais le correctif de fiche ne ferme pas le défaut**, et c'est ce qui traverse.
+Le parseur ==ingère de la prose sans se plaindre== : la faute ne se voit ni à
+l'écriture, ni à la construction, ni en CI. Elle a vécu dans trois fiches sans
+que personne la trouve, et j'en ai ajouté une quatrième ==en connaissant la
+section==, le jour même où je l'écrivais.
+
+==Une section `Formes` qui contient une phrase est une erreur certaine== — il
+n'existe aucun cas légitime. Elle est donc relevable mécaniquement : une ligne
+sans `·` et longue, ou tout « mot » portant un espace. **À l'app de juger entre
+un contrôle qui signale et un refus franc** ; le vault ne touche pas à son
+pipeline.
+
+C'est ==le contrôle qui ne peut pas rougir==, rencontré sur un parseur au lieu
+d'un test. Et il a le profil que le journal traque depuis le 25 août : une
+sortie bien formée, complète, qui ne répond pas à la question posée — ici la
+liste des formes est *produite*, elle est juste *fausse*, et rien dans sa forme
+ne le dit.
+
+**Et ce qui ne traverse pas, vérifié plutôt que supposé.** La déclaration de
+`shalom` elle-même ne demande rien aux voisins : le pipeline lit le §2.5 et le
+§3 dynamiquement, donc aucun code ne bouge. La session iOS l'a confirmé sur ses
+propres sources — une fiche de plus voyage par la mise à jour réseau,
+`SourcesUpdater` la prend en génération complète dans un temporaire et bascule
+atomiquement, ==sans compilation ni revue Apple==.
+
+    reconstruit le 28 septembre, ONT_OUT détourné hors de l'arbre d'iOS
+    Anomalies  0 termes inconnus, 0 marqueurs déséquilibrés, 0 mots d'or sans fiche
+    Glossaire  161 entrées — 3247 occurrences indexées

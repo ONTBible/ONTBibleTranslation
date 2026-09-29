@@ -1,6 +1,6 @@
 # 2.5 Marquage des termes intraduisibles — convention Affinity Publisher
 
-*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 8. Empreinte de la section : `6a68e7ee8aaf675c`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `CLAUDE.md`, section « 2.5 Marquage des termes intraduisibles — convention Affinity Publisher », partie 8. Empreinte de la section : `689a6eede4ccf667`. Régénérer : `python3 knowledge/decouper.py`.*
 
 - `**tardemah**` — intraduisible depuis le 20 septembre 2026 : ==la torpeur qui
   tombe== (תַּרְדֵּמָה). Non « sommeil profond », qui est un sommeil qu'on a, ni

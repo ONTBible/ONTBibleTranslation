@@ -8,7 +8,7 @@ Le *sh* est un ==shin== : c'est le « ch » de « chat » — ==dans l'ONT, c'es
 
 ## Le Shem
 
-(*Shalem* / שָׁלֵם). De *shalom* — ==la paix, l'intégralité, la plénitude==. ==L'entier==, ce à quoi rien ne manque.
+(*Shalem* / שָׁלֵם). De **shalom** — ==l'entier, ce à quoi rien ne manque==. Non « la paix », qui nomme une absence quand l'hébreu nomme une complétude.
 
 ## Ce que le corpus en fait
 
