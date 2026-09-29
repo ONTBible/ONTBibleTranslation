@@ -9,10 +9,10 @@ désigné, et cet index n'en est qu'une table.*
 
 | Où | Ligne | Ce qui est en attente |
 |---|---:|---|
-| `CLAUDE.md` | 716 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
-| `CLAUDE.md` | 1486 | À trancher par l'auteur ; |
-| `CLAUDE.md` | 1689 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
-| `CLAUDE.md` | 1783 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
+| `CLAUDE.md` | 720 | pas : c'est un arbitrage verset par verset, réservé à l'auteur. |
+| `CLAUDE.md` | 1490 | À trancher par l'auteur ; |
+| `CLAUDE.md` | 1693 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
+| `CLAUDE.md` | 1787 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 3176 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
 | `SYNCHRONISATION.md` | 6123 | À trancher par l'auteur : la règle du 21 septembre est sa décision, et la |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
@@ -50,20 +50,19 @@ désigné, et cet index n'en est qu'une table.*
 | Où | Ligne | La décision |
 |---|---:|---|
 | `CLAUDE.md` | 137 | …ses offrent les deux registres. Décision de l'auteur du 25 août 2026 : quand une parashah ne rec… |
-| `CLAUDE.md` | 212 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
-| `CLAUDE.md` | 253 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
-| `CLAUDE.md` | 422 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
-| `CLAUDE.md` | 1383 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
-| `CLAUDE.md` | 1572 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
-| `CLAUDE.md` | 1605 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
-| `CLAUDE.md` | 1788 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
-| `CLAUDE.md` | 2010 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
-| `CLAUDE.md` | 2165 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
-| `CLAUDE.md` | 2283 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `CLAUDE.md` | 2304 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
-| `CLAUDE.md` | 2434 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
-| `CLAUDE.md` | 2726 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
-| `CLAUDE.md` | 2792 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
+| `CLAUDE.md` | 216 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `CLAUDE.md` | 257 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
+| `CLAUDE.md` | 426 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `CLAUDE.md` | 1387 | Décision de l'auteur du 8 septembre 2026. Le ה final se translittère `h` : |
+| `CLAUDE.md` | 1576 | Décision de l'auteur du 12 septembre 2026, prise sur la mesure. Le corpus |
+| `CLAUDE.md` | 1609 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
+| `CLAUDE.md` | 1792 | Décision de l'auteur du 29 août 2026. Les noms propres reçoivent leur propre |
+| `CLAUDE.md` | 2014 | Décision de l'auteur du 8 septembre 2026. Une chuqqah qui en cite une autre |
+| `CLAUDE.md` | 2169 | Décision de l'auteur du 8 septembre 2026. La translittération donne ==les |
+| `CLAUDE.md` | 2287 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
+| `CLAUDE.md` | 2438 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `CLAUDE.md` | 2730 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
+| `CLAUDE.md` | 2796 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `PROPOSITIONS.md` | 3 | Décision de l'auteur du 21 septembre 2026. Toute PR s'inscrit ici, **par |
 | `SYNCHRONISATION.md` | 445 | Décision de l'auteur du 30 septembre 2026 : ==le durable et l'immédiat |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
@@ -75,16 +74,15 @@ désigné, et cet index n'en est qu'une table.*
 | `lexique/Moreh.md` | 203 | deux fiches le déferaient. Décision de l'auteur du 17 septembre 2026. |
 | `lexique/YHWH.md` | 88 | …ion sépare la particule du Nom, décision de l'auteur du 16 septembre 2026, et c'est la règle du … |
 | `locked/1. kenesset (le Rassemblement)/1. torah (la Fondation)/01. bereshit (Genèse)/bereshit-5.md` | 89 | …t écrit et verrouillé. Décision arrêtée le 20 août 2026 : intraduisible, l'ambiguïté de napal ma… |
-| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
-| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-03.md` | 58 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
-| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-05.md` | 17 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-04.md` | 17 | `YHWH Elohim`. Décision de l'auteur du 16 septembre 2026. Le témoin y écrit |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-04.md` | 58 | Le construit ne s'absorbe pas — décision de l'auteur du 26 septembre 2026. |
+| `passages/2-5-marquage-des-termes-intraduisibles-convention-affinity-p-06.md` | 17 | intraduisibles, décision de l'auteur du 20 août 2026, et se balisent partout où |
 | `passages/3-1-verbes-fondamentaux-02.md` | 9 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
-| `passages/3-2-noms-et-concepts-fondamentaux-02.md` | 7 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
 | `passages/4-1-les-gloses-01.md` | 25 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
 | `passages/deux-artefacts-et-il-faut-les-deux-30-septembre-2026-01.md` | 24 | Décision de l'auteur du 30 septembre 2026 : ==le durable et l'immédiat |
 | `passages/la-gemination-s-ecrit-quand-elle-separe-yamim-les-jours-yamm-01.md` | 5 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
 
-## Les 104 intraduisibles déclarés au §2.5
+## Les 103 intraduisibles déclarés au §2.5
 
 Le lemme d'abord, ses formes dérivées ensuite — c'est l'ordre que le
 pipeline lit, et les dérivées retombent sur la fiche du lemme.
@@ -102,7 +100,6 @@ pipeline lit, et les dérivées retombent sur la fiche du lemme.
 | **kavod** | Kavod | — | ✓ |
 | **Tahor** | tahor, lo tahor | — | ✓ |
 | **ʿOlah** | ʿolah, ʿOlot, ʿolot | — | ✓ |
-| **L'Être façonné du sol** | l'Être façonné du sol, ʾAdam ◆ | — | ✓ |
 | **ʾAdam** | ha-ʾAdam | — | ✓ |
 | **mabbul** | — | — | ✓ |
 | **nacham** | — | *Genèse* 5:29 | ✓ |
@@ -409,4 +406,4 @@ se découvre pas le jour où l'ordre de lecture changera.
 
 ---
 
-*594 fichiers parcourus · 441 fiches dans `lexique/`.*
+*594 fichiers parcourus · 440 fiches dans `lexique/`.*
