@@ -169,6 +169,35 @@ def existe_au_distant(branche: str) -> bool:
     return False
 
 
+def _se_declare_chez_lui(chemin: str, nom: str) -> bool:
+    """Dit si un worktree porte sa propre ligne ==dans sa propre copie== du
+    journal.
+
+    ==Le même défaut que sur les propositions, sur le contrôle jumeau.== La
+    table vit dans `SYNCHRONISATION.md`, qui est versionné : une déclaration
+    écrite dans le même tour que la création du worktree voyage donc dans la
+    branche de ce worktree, et ==l'intégration ne la connaît pas avant la
+    fusion==. Le contrôle criait sur la ligne écrite au bon moment.
+
+    Quatre worktrees étaient signalés le 29 septembre 2026 : ==les quatre
+    étaient déclarés==, chacun dans sa propre copie. Trois étaient les miens —
+    j'ai écrit la règle et je ne l'avais pas tenue —, le quatrième celui des
+    langues sources, qui l'avait tenue parfaitement.
+
+    ==Ici on n'interroge aucun service :== la copie est sur le disque, à côté
+    du worktree qu'elle décrit. C'est plus sûr qu'un `gh pr diff` et ça ne
+    dépend d'aucun réseau.
+    """
+    journal = Path(chemin) / "SYNCHRONISATION.md"
+    try:
+        texte = journal.read_text()
+    except OSError:
+        # **Un doute ne se tranche pas en faveur du silence.** Illisible, on
+        # signale — une garde qui se tait quand elle ignore est pire qu'absente.
+        return False
+    return re.search(rf"^\| *`[^`]*{re.escape(nom)}` *\|", texte, re.M) is not None
+
+
 def comparer_les_worktrees() -> int:
     """Dit ce que la table ignore, et ce qu'elle déclare de trop.
 
@@ -177,24 +206,28 @@ def comparer_les_worktrees() -> int:
     abrégés — `.herdr/worktrees/…/astra` ; un rapprochement littéral
     signalerait à tort tout ce qui ne vit pas sous `~/ONTBible`.
     """
-    reels = {Path(k).name: v for k, v in worktrees_reels().items()}
+    bruts = worktrees_reels()
+    reels = {Path(k).name: v for k, v in bruts.items()}
+    chemins = {Path(k).name: k for k in bruts}
     dec = {Path(k).name: v for k, v in worktrees_declares().items()}
     if not dec:
         print("\n  Le journal ne porte aucune table de worktrees.\n")
         return 1
 
-    muets = sorted(set(reels) - set(dec))
     fantomes = sorted(set(dec) - set(reels))
-    derive = sorted(n for n in set(reels) & set(dec) if reels[n] != dec[n])
+    tous_muets = sorted(set(reels) - set(dec))
+    # Ceux qui se déclarent chez eux ont fait ==exactement== ce qu'on demande :
+    # la ligne existe, elle n'a pas encore atteint l'intégration.
+    en_vol = [n for n in tous_muets if _se_declare_chez_lui(chemins[n], n)]
+    muets = [n for n in tous_muets if n not in en_vol]
 
-    muets = sorted(set(reels) - set(dec))
-    fantomes = sorted(set(dec) - set(reels))
-
+    vol = (f" — dont {len(en_vol)} dont la ligne voyage encore dans sa branche"
+           if en_vol else "")
     if not (muets or fantomes):
-        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees.\n")
+        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees{vol}.\n")
         return 0
 
-    print("\n  La table des worktrees a pris du retard.\n")
+    print(f"\n  La table des worktrees a pris du retard{vol}.\n")
 
     # **Les deux écarts ne se lisent pas de la même façon**, et c'est la
     # trouvaille des langues sources : on déclare une naissance, on ne déclare
