@@ -216,6 +216,47 @@ def comparer_les_worktrees() -> int:
     return 1
 
 
+def _entree_dans_sa_branche(depot: str, numero: str) -> bool:
+    """Dit si une PR ouverte porte sa propre entrée **dans son diff**.
+
+    ==Les deux écarts ne se lisent pas au même endroit, et c'est structurel.==
+    Une proposition *ouverte* vit dans sa branche : son entrée y est, et la
+    branche d'intégration ne la connaît pas encore. Une proposition *fusionnée*
+    n'a plus de branche du tout — son écart ne se mesure que sur l'intégration.
+
+        ouverte, entrée manquante    se lit sur SA TÊTE
+        fusionnée, dite « ouverte »  se lit sur L'INTÉGRATION
+
+    Lire les deux au même endroit donne une mesure exacte d'un dépôt et fausse
+    d'un projet : elle répond à *« que porte la branche d'intégration ? »* quand
+    la question est *« l'autrice a-t-elle écrit son entrée ? »*.
+
+    Formulé par la session du site, qui l'a rencontré sur sa propre PR le même
+    jour qu'iOS, sur une autre. Ni l'une ni l'autre n'a pu conclure sans ouvrir
+    le diff à la main — ce que cette fonction fait désormais pour elles.
+    """
+    import subprocess
+
+    # `gh pr diff` ==n'accepte pas de pathspec== — « accepts at most 1 arg(s) ».
+    # La première écriture en passait un, gh refusait, la fonction rendait
+    # « pas d'entrée » et le correctif ne corrigeait rien. ==Un échec d'outil
+    # déguisé en réponse.== C'est pourquoi le `returncode != 0` ci-dessous
+    # signale au lieu de se taire, et c'est pourquoi ce contrôle a été éprouvé
+    # sur un cas dont on connaissait la réponse avant d'être commité.
+    r = subprocess.run(
+        ["gh", "pr", "diff", numero],
+        capture_output=True, text=True, check=False, timeout=45,
+        env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
+    )
+    if r.returncode != 0:
+        # **Un doute ne se tranche pas en faveur du silence.** Si l'on ne peut
+        # pas lire la branche, on ne sait pas — et le contrôle signale, quitte
+        # à le faire pour rien. Une garde qui se tait quand elle ignore est
+        # pire qu'absente.
+        return False
+    return re.search(rf"^\+## #{numero}\b", r.stdout, re.M) is not None
+
+
 def comparer_les_propositions() -> int:
     """Nomme les PR ouvertes qu'aucune entrée de `PROPOSITIONS.md` ne porte.
 
@@ -228,13 +269,14 @@ def comparer_les_propositions() -> int:
 
     manques: list[str] = []
     total = 0
+    portees = 0
     for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
         racine = Path.home() / "ONTBible" / depot
         if not racine.exists():
             continue
         r = subprocess.run(
             ["gh", "pr", "list", "--state", "all", "--json",
-             "number,title,state,mergedAt", "--limit", "120"],
+             "number,title,state,mergedAt,headRefName", "--limit", "120"],
             capture_output=True, text=True, check=False, timeout=60,
             env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
         )
@@ -270,7 +312,18 @@ def comparer_les_propositions() -> int:
             declare = entrees.get(n)
             if pr["state"] == "OPEN":
                 total += 1
-                if declare is None:
+                if declare is None and _entree_dans_sa_branche(depot, n):
+                    # **Le comportement prescrit, et il ressemblait au
+                    # manquement.** `PROPOSITIONS.md` demande que l'entrée
+                    # *voyage dans la PR qu'elle décrit* — c'est ce qui la rend
+                    # gratuite. Elle est donc, par construction, invisible
+                    # depuis la branche d'intégration jusqu'à la fusion.
+                    #
+                    # Ce contrôle criait dessus. Deux sessions l'ont relevé le
+                    # même jour, séparément, et chacune a dû ouvrir le diff
+                    # pour voir que l'autrice avait bien écrit son entrée.
+                    portees += 1
+                elif declare is None:
                     manques.append(f"+ {depot} #{n} — ouverte, aucune entrée · {pr['title'][:40]}")
             elif declare is not None and declare.startswith("ouverte"):
                 # **Ici le contrôle conclut au lieu de demander**, et c'est ce
@@ -288,11 +341,15 @@ def comparer_les_propositions() -> int:
                 etat = "fusionnée le " + quand if quand else pr["state"].lower()
                 manques.append(f"≠ {depot} #{n} — dit « ouverte », elle est {etat}")
 
+    porte = (f" — dont {portees} dont l'entrée voyage encore dans sa PR"
+             if portees else "")
     if not manques:
-        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites et à jour.\n")
+        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites"
+              f" et à jour{porte}.\n")
         return 0
 
-    print(f"\n  {len(manques)} écart(s), sur {total} propositions ouvertes :\n")
+    print(f"\n  {len(manques)} écart(s), sur {total} propositions"
+          f" ouvertes{porte} :\n")
     for m in manques:
         print(f"    {m}")
     print(
