@@ -417,6 +417,27 @@ def comparer_les_propositions() -> int:
         # C'est le prix de la règle qui fait voyager l'entrée avec sa PR, et
         # ==cette règle vaut mieux que ce qu'elle coûte== : elle est ce qui
         # rend l'entrée gratuite, donc ce qui fait qu'elle est écrite.
+        #
+        # ==La propriété est « la plus récemment fusionnée », pas « la dernière
+        # PR d'entretien ».== La première formulation était trop étroite : ce
+        # qui rend une entrée indatable n'est pas ==ce que sa PR faisait==,
+        # c'est que ==rien n'a fusionné après elle==. La version large couvre
+        # les deux cas, l'étroite un seul.
+        #
+        # ==Un faux positif transitoire est connu, et délibérément non
+        # corrigé.== Quand deux PR fusionnent à quelques minutes d'écart — ce
+        # qui arrive tous les jours ici —, seule la seconde est marquée point
+        # fixe, et la première paraît un écart réel ==alors que personne n'a eu
+        # l'occasion de la dater==. Il se résorbe au prochain lot.
+        #
+        # Le raffinement exact existe et se calcule sans état — *est point fixe
+        # toute PR fusionnée après le dernier lot de datation*, repérable par
+        # `git log -S "état         fusionnée" -- PROPOSITIONS.md`. ==Il n'est
+        # pas retenu== : il coûte dix lignes là où la règle actuelle en tient
+        # une, et son faux positif va ==dans le sens qu'on vient d'arbitrer== —
+        # signaler plutôt que taire. Écrit ici par iOS, qui l'a trouvé et
+        # déconseillé, ==pour qu'il ne soit pas repris pour un défaut== dans
+        # trois semaines.
         if perimees:
             perimees.sort(key=lambda x: x[0])
             points_fixes.append(perimees[-1][1] + "  ← le point fixe")
