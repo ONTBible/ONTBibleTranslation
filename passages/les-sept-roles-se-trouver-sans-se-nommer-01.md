@@ -1,6 +1,6 @@
 # Les sept rôles — se trouver sans se nommer
 
-*Passage engendré — ne pas éditer. Source : `SYNCHRONISATION.md`, section « Les sept rôles — se trouver sans se nommer », partie 1. Empreinte de la section : `9361a25990792135`. Régénérer : `python3 knowledge/decouper.py`.*
+*Passage engendré — ne pas éditer. Source : `SYNCHRONISATION.md`, section « Les sept rôles — se trouver sans se nommer », partie 1. Empreinte de la section : `41560335b94beb36`. Régénérer : `python3 knowledge/decouper.py`.*
 
 **Posé le 7 septembre 2026, à la demande de l'auteur** : « je veux que vous
 communiquiez toutes l'une à l'autre pour vous connaître ». Les sept sessions se

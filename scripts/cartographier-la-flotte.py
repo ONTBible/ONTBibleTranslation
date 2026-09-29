@@ -1,0 +1,388 @@
+#!/usr/bin/env python3
+"""Relève où chaque agent se tient, et dit si le journal a pris du retard.
+
+    ./scripts/cartographier-la-flotte.py             la carte, telle qu'elle est
+    ./scripts/cartographier-la-flotte.py --comparer  ce qui a changé depuis le journal
+
+## Pourquoi ce fichier existe
+
+La carte de `SYNCHRONISATION.md` a été établie le 18 septembre 2026 en
+interrogeant sept sessions une par une, puis en lisant l'état de Herdr pour
+placer la huitième — qui ne peut envoyer aucun message.
+
+**Ce travail ne doit pas se refaire.** Une carte recopiée à la main périme sans
+que personne le voie : c'est exactement ce que le contrôle de concordance des
+`SYNCHRONISATION.md` a été écrit pour empêcher sur un autre fichier, après que
+la dérive eut tenu deux jours.
+
+## Ce qu'il lit, et pourquoi c'est la bonne source
+
+`~/.config/herdr/sessions/<session>/session.json` — la disposition que Herdr
+persiste. Elle donne, pour chaque volet, son **dossier de lancement**, son
+**moteur** et l'**identifiant de session de l'agent**.
+
+C'est mieux que d'interroger les agents, pour trois raisons :
+
+- **elle n'oublie personne.** Astra tourne sur codex et ne peut pas répondre ;
+  elle est pourtant dans ce fichier ;
+- **elle ne se trompe pas de mémoire.** Deux sessions ont affirmé ne pas voir
+  leur place sans avoir lancé `env | grep HERDR` ; leurs réponses étaient
+  argumentées et fausses ;
+- **elle est une place, pas un processus.** Le nom change à un `/rename`, le
+  socket est un PID, la référence change à une reconnexion. Le volet, non.
+
+## Ce qu'il ne fait pas
+
+**Il ne réécrit pas le journal.** Il dit ce qui a bougé ; c'est à un humain — ou
+à la session qui tient le registre — de porter le changement, avec son récit.
+Une carte qui se met à jour toute seule perd ce qui fait sa valeur : *pourquoi*
+tel agent est là.
+
+Et il ne relève **que ce qui dure** — espace, onglet, volet, moteur. Pas les
+branches ni les PR : celles-ci bougent à l'heure, et ce sont des mesures, pas
+une identité.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+import sys
+from pathlib import Path
+
+SESSIONS = Path.home() / ".config" / "herdr" / "sessions"
+JOURNAL = Path(__file__).resolve().parent.parent / "SYNCHRONISATION.md"
+
+
+def volets(session: str) -> list[dict]:
+    """Chaque volet de la session, avec sa place et ce qui l'occupe."""
+    fichier = SESSIONS / session / "session.json"
+    if not fichier.exists():
+        raise SystemExit(
+            f"  Aucune session Herdr « {session} » sous {SESSIONS}.\n"
+            f"  Sessions présentes : {', '.join(sorted(p.name for p in SESSIONS.iterdir()))}"
+            if SESSIONS.exists()
+            else f"  {SESSIONS} n'existe pas — Herdr n'est pas installé ici."
+        )
+    etat = json.loads(fichier.read_text(encoding="utf-8"))
+    releve = []
+    for espace in etat.get("workspaces", []):
+        # Les index internes ne sont pas les numéros affichés : `public_*`
+        # traduit. Ne jamais déduire un identifiant d'une position à l'écran —
+        # dans « ONT App », l'onglet affiché en premier est `t3`.
+        num_onglets = espace.get("public_tab_numbers", [])
+        num_volets = espace.get("public_pane_numbers", {})
+        for i, onglet in enumerate(espace.get("tabs", [])):
+            for interne, volet in (onglet.get("panes") or {}).items():
+                agent = volet.get("agent_session") or {}
+                releve.append(
+                    {
+                        "espace": espace.get("custom_name") or espace["id"],
+                        "onglet": onglet.get("custom_name") or "—",
+                        "volet": f"{espace['id']}:p{num_volets.get(interne, '?')}",
+                        "onglet_id": f"{espace['id']}:t{num_onglets[i]}"
+                        if i < len(num_onglets)
+                        else "?",
+                        "moteur": agent.get("agent") or "—",
+                        "dossier": volet.get("cwd") or "—",
+                        "session": agent.get("value") or "",
+                    }
+                )
+    return releve
+
+
+def du_journal() -> set[str]:
+    """Les volets que la table du journal déclare, lus dans sa colonne."""
+    if not JOURNAL.exists():
+        return set()
+    texte = JOURNAL.read_text(encoding="utf-8")
+    debut = texte.find("### Où chaque rôle se tient")
+    if debut < 0:
+        return set()
+    fin = texte.find("\n#### ", debut)
+    return set(re.findall(r"`(w[0-9A-Za-z]+:p\d+)`", texte[debut : fin if fin > 0 else len(texte)]))
+
+
+
+def worktrees_reels() -> dict[str, str]:
+    """Ce que `git worktree list` rend, pour les trois dépôts, chemin → branche."""
+    import subprocess
+    reels = {}
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["git", "-C", str(racine), "worktree", "list", "--porcelain"],
+            capture_output=True, text=True, check=False,
+        )
+        chemin = None
+        for ligne in r.stdout.splitlines():
+            if ligne.startswith("worktree "):
+                chemin = ligne.split(" ", 1)[1]
+            elif ligne.startswith("branch ") and chemin:
+                reels[chemin] = ligne.split("/")[-1]
+                chemin = None
+            elif ligne.startswith("detached") and chemin:
+                reels[chemin] = "(détaché)"
+                chemin = None
+    return reels
+
+
+def worktrees_declares() -> dict[str, str]:
+    """Ce que la table du journal déclare — sa première et sa deuxième colonne."""
+    if not JOURNAL.exists():
+        return {}
+    texte = JOURNAL.read_text(encoding="utf-8")
+    debut = texte.find("### Déclarer son worktree")
+    if debut < 0:
+        return {}
+    fin = texte.find("\n#### Le contrôle", debut)
+    zone = texte[debut : fin if fin > 0 else len(texte)]
+    declares = {}
+    # **La table ne déclare plus de branche, et le contrôle ne la compare pas.**
+    # Trois sessions l'ont demandé le même jour : une table de branches serait
+    # fausse dans l'heure, et un avertissement qu'on apprend à ne plus lire
+    # abîme tous les autres. On lit donc la première colonne, et le « qui ».
+    for m in re.finditer(r"^\| `([^`]+)` \| ([^|]+) \|", zone, re.M):
+        declares[m.group(1)] = m.group(2).strip()
+    return declares
+
+
+def existe_au_distant(branche: str) -> bool:
+    """Vrai si la branche vit encore au distant, dans l'un des trois dépôts."""
+    import subprocess
+    if branche in ("(détaché)", "—"):
+        return True  # on ne juge pas ce qu'on ne peut pas interroger
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["git", "-C", str(racine), "ls-remote", "--heads", "origin", branche],
+            capture_output=True, text=True, check=False, timeout=30,
+        )
+        if r.stdout.strip():
+            return True
+    return False
+
+
+def comparer_les_worktrees() -> int:
+    """Dit ce que la table ignore, et ce qu'elle déclare de trop.
+
+    **Le rapprochement se fait sur le nom de dossier, non sur le chemin
+    complet.** La table est lisible par un humain et porte des chemins
+    abrégés — `.herdr/worktrees/…/astra` ; un rapprochement littéral
+    signalerait à tort tout ce qui ne vit pas sous `~/ONTBible`.
+    """
+    reels = {Path(k).name: v for k, v in worktrees_reels().items()}
+    dec = {Path(k).name: v for k, v in worktrees_declares().items()}
+    if not dec:
+        print("\n  Le journal ne porte aucune table de worktrees.\n")
+        return 1
+
+    muets = sorted(set(reels) - set(dec))
+    fantomes = sorted(set(dec) - set(reels))
+    derive = sorted(n for n in set(reels) & set(dec) if reels[n] != dec[n])
+
+    muets = sorted(set(reels) - set(dec))
+    fantomes = sorted(set(dec) - set(reels))
+
+    if not (muets or fantomes):
+        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees.\n")
+        return 0
+
+    print("\n  La table des worktrees a pris du retard.\n")
+
+    # **Les deux écarts ne se lisent pas de la même façon**, et c'est la
+    # trouvaille des langues sources : on déclare une naissance, on ne déclare
+    # pas une disparition. Celui qui devrait retirer la ligne est précisément
+    # celui qui ignore que son worktree a disparu — le sien a été emporté par
+    # un nettoyage, sans acte de sa part.
+    for n in muets:
+        print(f"    + {n:<34} existe, personne ne l'a déclaré  [{reels[n]}]")
+        print(f"      → RAPPELER : quelqu'un a oublié sa ligne")
+    for n in fantomes:
+        print(f"    − {n:<34} déclaré par « {dec[n]} », absent de git")
+        print(f"      → DEMANDER, ne pas conclure : démonté à son insu, ou jamais")
+        print(f"        vu de `git worktree list`")
+
+    print(
+        "\n  Le porter à la main : la colonne « pourquoi » est la seule chose\n"
+        "  qu'aucun relevé ne peut produire.\n"
+    )
+    return 1
+
+
+def comparer_les_propositions() -> int:
+    """Nomme les PR ouvertes qu'aucune entrée de `PROPOSITIONS.md` ne porte.
+
+    **Il ne juge pas le contenu**, et c'est délibéré : personne ne peut écrire
+    le « pourquoi » d'une PR qu'il n'a pas ouverte. Une entrée qui porte
+    *« à écrire par qui l'a ouverte »* est donc complète au sens de ce
+    contrôle — le trou y est déclaré, ce qui est déjà une information.
+    """
+    import subprocess
+
+    manques: list[str] = []
+    total = 0
+    for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
+        racine = Path.home() / "ONTBible" / depot
+        if not racine.exists():
+            continue
+        r = subprocess.run(
+            ["gh", "pr", "list", "--state", "all", "--json",
+             "number,title,state,mergedAt", "--limit", "120"],
+            capture_output=True, text=True, check=False, timeout=60,
+            env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
+        )
+        try:
+            ouvertes = json.loads(r.stdout or "[]")
+        except json.JSONDecodeError:
+            print(f"  {depot} : impossible d'interroger les PR — ignoré")
+            continue
+        # **On lit la branche d'intégration, jamais le chemin nu.**
+        #
+        # Un chemin nu lit l'arbre courant, qui est sur la branche où il se
+        # trouve — et là où l'on se tient n'est jamais la branche
+        # d'intégration. Relevé par la session des langues sources après
+        # qu'elle eut lu sa propre branche en croyant lire `main` ; je viens
+        # de commettre la même faute sur cet outil-ci.
+        base = "device" if depot == "ONTBibleApp" else "main"
+        g = subprocess.run(
+            ["git", "-C", str(racine), "show", f"origin/{base}:PROPOSITIONS.md"],
+            capture_output=True, text=True, check=False, timeout=30,
+        )
+        texte = g.stdout if g.returncode == 0 else ""
+        # Chaque entrée, avec l'état qu'elle déclare : `## #NNN` puis, dans son
+        # bloc, une ligne `état  …`.
+        entrees: dict[str, str] = {}
+        for bloc in re.split(r"^## #", texte, flags=re.M)[1:]:
+            num = re.match(r"(\d+)", bloc)
+            etat = re.search(r"^ *état +(.+)$", bloc, re.M)
+            if num:
+                entrees[num.group(1)] = (etat.group(1).strip() if etat else "—")
+
+        for pr in ouvertes:
+            n = str(pr["number"])
+            declare = entrees.get(n)
+            if pr["state"] == "OPEN":
+                total += 1
+                if declare is None:
+                    manques.append(f"+ {depot} #{n} — ouverte, aucune entrée · {pr['title'][:40]}")
+            elif declare is not None and declare.startswith("ouverte"):
+                # **Ici le contrôle conclut au lieu de demander**, et c'est ce
+                # qui sépare ce registre de celui des worktrees : l'état d'une
+                # PR se mesure sans ambiguïté — GitHub le dit. Là-bas une ligne
+                # orpheline peut vouloir dire un démontage à l'insu de son
+                # tenant ; ici non.
+                #
+                # Et le trou est le même des deux côtés : une PR se ferme CHEZ
+                # GITHUB, rien ne passe par l'arbre, donc rien ne peut mettre à
+                # jour la ligne au moment où elle cesse d'être vraie. Relevé
+                # par la session des langues sources, dont deux PR ont été
+                # fusionnées un samedi pendant son absence.
+                quand = (pr.get("mergedAt") or "")[:10]
+                etat = "fusionnée le " + quand if quand else pr["state"].lower()
+                manques.append(f"≠ {depot} #{n} — dit « ouverte », elle est {etat}")
+
+    if not manques:
+        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites et à jour.\n")
+        return 0
+
+    print(f"\n  {len(manques)} écart(s), sur {total} propositions ouvertes :\n")
+    for m in manques:
+        print(f"    {m}")
+    print(
+        "\n  +  RAPPELER : le « pourquoi » et le « ce que ça engage » ne se\n"
+        "     devinent pas — à écrire par celle qui l'a ouverte.\n"
+        "  ≠  METTRE À JOUR l'état et la date. On ne retire pas une entrée\n"
+        "     fusionnée : c'est l'histoire, et elle sert.\n"
+    )
+    return 1
+
+
+def main() -> int:
+    parseur = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parseur.add_argument("--session", default="ont", help="la session Herdr à relever")
+    parseur.add_argument(
+        "--propositions",
+        action="store_true",
+        help="nommer les PR ouvertes sans entrée dans PROPOSITIONS.md",
+    )
+    parseur.add_argument(
+        "--worktrees",
+        action="store_true",
+        help="comparer la table des worktrees du journal à la réalité",
+    )
+    parseur.add_argument(
+        "--comparer",
+        action="store_true",
+        help="dire ce qui a bougé depuis la table du journal",
+    )
+    args = parseur.parse_args()
+
+    if args.propositions:
+        return comparer_les_propositions()
+
+    if args.worktrees:
+        return comparer_les_worktrees()
+
+    releve = volets(args.session)
+    if not args.comparer:
+        print(f"\n  Session Herdr « {args.session} » — {len(releve)} volets\n")
+        largeur = max(len(v["espace"]) for v in releve)
+        for v in sorted(releve, key=lambda x: x["volet"]):
+            print(
+                f"  {v['volet']:<8} {v['espace']:<{largeur}}  {v['onglet']:<12} "
+                f"{v['moteur']:<7} {v['dossier']}"
+            )
+        print()
+        return 0
+
+    # **Le critère est le dossier, non la présence d'un agent.**
+    #
+    # Il a d'abord été « un volet sans agent n'est pas un rôle », pour écarter
+    # le shell de l'auteur. C'était faux, et la première utilisation réelle l'a
+    # montré : quand un espace vient d'être ouvert, son volet **n'a pas encore
+    # d'agent attaché** — et il disparaissait donc de la comparaison, au moment
+    # précis où il fallait le voir.
+    #
+    # Une garde qui se tait sur le cas neuf est une garde qui se tait quand on
+    # a besoin d'elle. Le dossier, lui, dit tout de suite si le volet appartient
+    # au projet.
+    racine = Path.home() / "ONTBible"
+    vivants = {
+        v["volet"]
+        for v in releve
+        if v["dossier"] != "—" and Path(v["dossier"]) == racine
+        or v["dossier"] != "—" and racine in Path(v["dossier"]).parents
+    }
+    ecrits = du_journal()
+    if not ecrits:
+        print("\n  Le journal ne porte aucune carte — rien à comparer.\n")
+        return 1
+
+    apparus = sorted(vivants - ecrits)
+    disparus = sorted(ecrits - vivants)
+    if not apparus and not disparus:
+        print(f"\n  ✓ La carte du journal est à jour — {len(vivants)} volets.\n")
+        return 0
+
+    print("\n  La carte du journal a pris du retard.\n")
+    for v in apparus:
+        d = next(x for x in releve if x["volet"] == v)
+        print(f"    + {v:<8} « {d['espace']} / {d['onglet']} »  {d['moteur']}")
+    for v in disparus:
+        print(f"    − {v:<8} déclaré au journal, absent de Herdr")
+    print(
+        "\n  Le porter à la main, avec son récit : une carte qui se met à jour\n"
+        "  seule perd ce qui fait sa valeur — pourquoi tel agent est là.\n"
+    )
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
