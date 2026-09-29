@@ -320,6 +320,7 @@ def comparer_les_propositions() -> int:
     import subprocess
 
     manques: list[str] = []
+    points_fixes: list[str] = []
     total = 0
     portees = 0
     for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
@@ -332,6 +333,7 @@ def comparer_les_propositions() -> int:
             capture_output=True, text=True, check=False, timeout=60,
             env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
         )
+        perimees: list[tuple[str, str]] = []
         try:
             ouvertes = json.loads(r.stdout or "[]")
         except json.JSONDecodeError:
@@ -391,19 +393,62 @@ def comparer_les_propositions() -> int:
                 # fusionnées un samedi pendant son absence.
                 quand = (pr.get("mergedAt") or "")[:10]
                 etat = "fusionnée le " + quand if quand else pr["state"].lower()
-                manques.append(f"≠ {depot} #{n} — dit « ouverte », elle est {etat}")
+                perimees.append((pr.get("mergedAt") or "",
+                                 f"≠ {depot} #{n} — dit « ouverte », elle est {etat}"))
+
+        # **Le registre a un point fixe, et « zéro écart » n'est pas
+        # atteignable.** Relevé par iOS le 29 septembre 2026, en datant trois
+        # entrées : sa propre PR d'entretien est née « ouverte », parce qu'une
+        # entrée qui ==voyage dans la PR qu'elle décrit== est écrite avant sa
+        # fusion et ne peut pas connaître sa date.
+        #
+        #     #345 date #343, #328, #326   →  #345 naît « ouverte »
+        #     #346 daterait #345           →  #346 naîtrait « ouverte »
+        #
+        # ==La plus récemment fusionnée est donc indatable par construction :==
+        # rien n'a fusionné après elle pour la dater. Toutes les autres, si —
+        # elles relèvent du prochain lot, et celui-là est du vrai travail.
+        #
+        # ==On nomme le cas au lieu de relever le seuil.== Ne s'alarmer qu'à
+        # partir de deux masquerait un oubli isolé ; distinguer *laquelle* est
+        # structurelle ne masque rien, et ne coûte aucun état à tenir — c'est
+        # la date de fusion, que GitHub donne déjà.
+        #
+        # C'est le prix de la règle qui fait voyager l'entrée avec sa PR, et
+        # ==cette règle vaut mieux que ce qu'elle coûte== : elle est ce qui
+        # rend l'entrée gratuite, donc ce qui fait qu'elle est écrite.
+        if perimees:
+            perimees.sort(key=lambda x: x[0])
+            points_fixes.append(perimees[-1][1] + "  ← le point fixe")
+            manques.extend(ligne for _, ligne in perimees[:-1])
 
     porte = (f" — dont {portees} dont l'entrée voyage encore dans sa PR"
              if portees else "")
+    def dire_les_points_fixes() -> None:
+        if not points_fixes:
+            return
+        print("\n  Et le plancher, qui n'est pas un écart :\n")
+        for pf in points_fixes:
+            print(f"    {pf}")
+        print(
+            "\n  ○  L'entrée voyage dans sa PR, donc elle est écrite AVANT sa\n"
+            "     fusion : la dernière fusionnée ne peut pas se dater elle-même.\n"
+            "     Le prochain lot la datera et laissera la sienne ouverte.\n"
+        )
+
     if not manques:
         print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites"
-              f" et à jour{porte}.\n")
+              f" et à jour{porte}.")
+        dire_les_points_fixes()
+        if not points_fixes:
+            print()
         return 0
 
     print(f"\n  {len(manques)} écart(s), sur {total} propositions"
           f" ouvertes{porte} :\n")
     for m in manques:
         print(f"    {m}")
+    dire_les_points_fixes()
     print(
         "\n  +  RAPPELER : le « pourquoi » et le « ce que ça engage » ne se\n"
         "     devinent pas — à écrire par celle qui l'a ouverte.\n"

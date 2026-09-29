@@ -56,6 +56,42 @@ information, et il se voit.
 
 ---
 
+## #134 · Le registre a un point fixe, et le contrôle le nomme
+
+    ouverte le   29 septembre 2026, par la manageuse
+    vers         main
+    état         ouverte
+
+**Pourquoi.** ==« Zéro écart » n'est pas atteignable==, et personne n'en est
+responsable. Relevé par iOS le 29 septembre en datant trois entrées : ==sa
+propre PR d'entretien est née « ouverte· »==, parce qu'une entrée qui *voyage
+dans la PR qu'elle décrit* est écrite ==avant sa fusion== et ne peut donc pas
+connaître sa date.
+
+    #345 date #343, #328, #326   →  #345 naît « ouverte »
+    #346 daterait #345           →  #346 naîtrait « ouverte »
+
+==La plus récemment fusionnée est indatable par construction== : rien n'a
+fusionné après elle pour la dater. Toutes les autres, si — elles relèvent du
+prochain lot, et celui-là est du vrai travail.
+
+**Ce que ça engage.** Rien d'autre que cet outil. Le relevé sépare désormais
+==le plancher== des écarts réels, et dit pourquoi il existe.
+
+==On nomme le cas au lieu de relever le seuil==, et c'est la décision de fond.
+Ne s'alarmer qu'à partir de deux aurait été plus simple et ==aurait masqué un
+oubli isolé== — c'est-à-dire le seul cas que ce contrôle existe pour attraper.
+Distinguer *laquelle* est structurelle ne masque rien, et ==ne coûte aucun état
+à tenir== : c'est la date de fusion, que GitHub donne déjà.
+
+**Mesuré :** 6 écarts avant, ==3 écarts et 3 points fixes== après — un par
+dépôt, exactement ce que le raisonnement prédisait.
+
+==C'est le prix de la règle qui fait voyager l'entrée avec sa PR, et cette
+règle vaut mieux que ce qu'elle coûte== : elle est ce qui rend l'entrée
+gratuite, donc ce qui fait qu'elle est écrite. iOS l'a formulé ainsi en me le
+signalant, et c'est le bon arbitrage.
+
 ## #133 · Une proposition ouverte se relit sur sa propre tête
 
     ouverte le   29 septembre 2026, par la manageuse
