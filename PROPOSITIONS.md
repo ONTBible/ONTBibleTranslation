@@ -56,6 +56,50 @@ information, et il se voit.
 
 ---
 
+## #133 · Une proposition ouverte se relit sur sa propre tête
+
+    ouverte le   29 septembre 2026, par la manageuse
+    vers         main
+    état         ouverte
+
+**Pourquoi.** Le contrôle `--propositions` ==criait sur le comportement qu'il
+existe pour obtenir==. Ce registre prescrit que *« l'entrée voyage dans la PR
+qu'elle décrit »* — c'est ce qui la rend gratuite —, donc elle est ==invisible
+depuis la branche d'intégration jusqu'à la fusion==. Le contrôle lisait
+l'intégration pour les deux écarts, et rendait « ouverte, aucune entrée » sur
+des PR dont l'autrice avait fait exactement ce qu'on lui demandait.
+
+==Relevé le même jour par deux sessions, séparément== — le site sur sa propre
+PR, iOS sur celle d'Android —, et chacune a dû ouvrir le diff à la main pour
+conclure. C'est le coût d'un avertissement qu'on apprend à ne plus lire, que la
+table des worktrees invoquait déjà pour refuser une colonne « branche ».
+
+==Le contrôle jumeau avait le même défaut==, et il a été corrigé dans la
+même PR. La table des worktrees vit dans `SYNCHRONISATION.md`, qui est
+versionné : une ligne écrite ==dans le même tour que la création du worktree==
+— ce que la règle exige — voyage dans la branche de ce worktree. Quatre
+worktrees étaient signalés le soir du 29 septembre, et ==les quatre étaient
+déclarés==. Trois étaient les miens — ==j'ai écrit la règle et je ne l'avais
+pas tenue== —, le quatrième celui des langues sources, ==qui l'avait tenue
+parfaitement== et se faisait rappeler à l'ordre pour ça.
+
+Là, aucun service n'est interrogé : ==la copie du journal est sur le disque==,
+à côté du worktree qu'elle décrit. 4 signalés → 1, et le dernier est juste.
+
+**Ce que ça engage.** Rien d'autre que cet outil. Un appel `gh pr diff` de plus
+par PR ouverte sans entrée à l'intégration — quelques secondes, et seulement
+sur les candidates.
+
+**Mesuré, sur les mêmes PR :** 16 écarts dont ==7 faux== avant, ==9 et aucun
+faux== après. La sortie compte désormais à part celles *dont l'entrée voyage
+encore dans sa PR* : l'état souhaité cesse de ressembler au manquement.
+
+==La première écriture du correctif ne corrigeait rien==, et c'est gardé dans
+le code : elle passait un pathspec que `gh pr diff` refuse, la fonction rendait
+« pas d'entrée », et le relevé était identique à l'ancien. ==Un échec d'outil
+déguisé en réponse==, vu parce que le contrôle a été éprouvé sur un cas dont on
+connaissait la réponse avant d'être commité.
+
 ## #122 · Où chaque rôle se tient — la carte Herdr
 
     ouverte le   18 septembre 2026, par la manageuse

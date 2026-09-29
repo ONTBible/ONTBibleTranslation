@@ -169,6 +169,35 @@ def existe_au_distant(branche: str) -> bool:
     return False
 
 
+def _se_declare_chez_lui(chemin: str, nom: str) -> bool:
+    """Dit si un worktree porte sa propre ligne ==dans sa propre copie== du
+    journal.
+
+    ==Le même défaut que sur les propositions, sur le contrôle jumeau.== La
+    table vit dans `SYNCHRONISATION.md`, qui est versionné : une déclaration
+    écrite dans le même tour que la création du worktree voyage donc dans la
+    branche de ce worktree, et ==l'intégration ne la connaît pas avant la
+    fusion==. Le contrôle criait sur la ligne écrite au bon moment.
+
+    Quatre worktrees étaient signalés le 29 septembre 2026 : ==les quatre
+    étaient déclarés==, chacun dans sa propre copie. Trois étaient les miens —
+    j'ai écrit la règle et je ne l'avais pas tenue —, le quatrième celui des
+    langues sources, qui l'avait tenue parfaitement.
+
+    ==Ici on n'interroge aucun service :== la copie est sur le disque, à côté
+    du worktree qu'elle décrit. C'est plus sûr qu'un `gh pr diff` et ça ne
+    dépend d'aucun réseau.
+    """
+    journal = Path(chemin) / "SYNCHRONISATION.md"
+    try:
+        texte = journal.read_text()
+    except OSError:
+        # **Un doute ne se tranche pas en faveur du silence.** Illisible, on
+        # signale — une garde qui se tait quand elle ignore est pire qu'absente.
+        return False
+    return re.search(rf"^\| *`[^`]*{re.escape(nom)}` *\|", texte, re.M) is not None
+
+
 def comparer_les_worktrees() -> int:
     """Dit ce que la table ignore, et ce qu'elle déclare de trop.
 
@@ -177,24 +206,28 @@ def comparer_les_worktrees() -> int:
     abrégés — `.herdr/worktrees/…/astra` ; un rapprochement littéral
     signalerait à tort tout ce qui ne vit pas sous `~/ONTBible`.
     """
-    reels = {Path(k).name: v for k, v in worktrees_reels().items()}
+    bruts = worktrees_reels()
+    reels = {Path(k).name: v for k, v in bruts.items()}
+    chemins = {Path(k).name: k for k in bruts}
     dec = {Path(k).name: v for k, v in worktrees_declares().items()}
     if not dec:
         print("\n  Le journal ne porte aucune table de worktrees.\n")
         return 1
 
-    muets = sorted(set(reels) - set(dec))
     fantomes = sorted(set(dec) - set(reels))
-    derive = sorted(n for n in set(reels) & set(dec) if reels[n] != dec[n])
+    tous_muets = sorted(set(reels) - set(dec))
+    # Ceux qui se déclarent chez eux ont fait ==exactement== ce qu'on demande :
+    # la ligne existe, elle n'a pas encore atteint l'intégration.
+    en_vol = [n for n in tous_muets if _se_declare_chez_lui(chemins[n], n)]
+    muets = [n for n in tous_muets if n not in en_vol]
 
-    muets = sorted(set(reels) - set(dec))
-    fantomes = sorted(set(dec) - set(reels))
-
+    vol = (f" — dont {len(en_vol)} dont la ligne voyage encore dans sa branche"
+           if en_vol else "")
     if not (muets or fantomes):
-        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees.\n")
+        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees{vol}.\n")
         return 0
 
-    print("\n  La table des worktrees a pris du retard.\n")
+    print(f"\n  La table des worktrees a pris du retard{vol}.\n")
 
     # **Les deux écarts ne se lisent pas de la même façon**, et c'est la
     # trouvaille des langues sources : on déclare une naissance, on ne déclare
@@ -216,6 +249,66 @@ def comparer_les_worktrees() -> int:
     return 1
 
 
+def _entree_dans_sa_branche(depot: str, numero: str) -> bool:
+    """Dit si une PR ouverte porte sa propre entrée **dans son diff**.
+
+    ==Les deux écarts ne se lisent pas au même endroit, et c'est structurel.==
+    Une proposition *ouverte* vit dans sa branche : son entrée y est, et la
+    branche d'intégration ne la connaît pas encore. Une proposition *fusionnée*
+    n'a plus de branche du tout — son écart ne se mesure que sur l'intégration.
+
+        ouverte, entrée manquante    se lit sur SA TÊTE
+        fusionnée, dite « ouverte »  se lit sur L'INTÉGRATION
+
+    Lire les deux au même endroit donne une mesure exacte d'un dépôt et fausse
+    d'un projet : elle répond à *« que porte la branche d'intégration ? »* quand
+    la question est *« l'autrice a-t-elle écrit son entrée ? »*.
+
+    Formulé par la session du site, qui l'a rencontré sur sa propre PR le même
+    jour qu'iOS, sur une autre. Ni l'une ni l'autre n'a pu conclure sans ouvrir
+    le diff à la main — ce que cette fonction fait désormais pour elles.
+    """
+    import subprocess
+
+    # `gh pr diff` ==n'accepte pas de pathspec== — « accepts at most 1 arg(s) ».
+    # La première écriture en passait un, gh refusait, la fonction rendait
+    # « pas d'entrée » et le correctif ne corrigeait rien. ==Un échec d'outil
+    # déguisé en réponse.==
+    #
+    # ==Deux sessions y sont tombées le même soir, à une heure d'écart.== iOS
+    # a lancé exactement `gh pr diff 344 -- PROPOSITIONS.md` pour savoir si
+    # Android portait son entrée, et a reçu ==une sortie vide== : pas d'erreur,
+    # pas de plainte, une réponse bien formée. Elle allait écrire à Android que
+    # son entrée manquait.
+    #
+    # ==Ce qui l'a sauvée n'était pas une garde, c'était une contradiction.==
+    # Elle avait sous les yeux un `gh pr view --json files` qui listait
+    # `PROPOSITIONS.md` en tête : *le fichier est dans la PR* et *le diff de ce
+    # fichier est vide* ne peuvent pas être vrais ensemble. D'où l'énoncé,
+    # qu'elle formule et qui vaut bien au-delà d'ici :
+    #
+    #     Un échec d'outil déguisé en réponse ne se rattrape que par une
+    #     seconde mesure qui le contredit. Seul, il est indiscernable d'un
+    #     vrai « rien ».
+    #
+    # C'est pourquoi le `returncode != 0` ci-dessous signale au lieu de se
+    # taire — mais il ne protège pas de ce cas-ci, où gh ==rend zéro== : la
+    # seule parade était d'éprouver sur une PR dont on connaissait la réponse,
+    # et c'est ce qui a été fait avant de commiter.
+    r = subprocess.run(
+        ["gh", "pr", "diff", numero],
+        capture_output=True, text=True, check=False, timeout=45,
+        env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
+    )
+    if r.returncode != 0:
+        # **Un doute ne se tranche pas en faveur du silence.** Si l'on ne peut
+        # pas lire la branche, on ne sait pas — et le contrôle signale, quitte
+        # à le faire pour rien. Une garde qui se tait quand elle ignore est
+        # pire qu'absente.
+        return False
+    return re.search(rf"^\+## #{numero}\b", r.stdout, re.M) is not None
+
+
 def comparer_les_propositions() -> int:
     """Nomme les PR ouvertes qu'aucune entrée de `PROPOSITIONS.md` ne porte.
 
@@ -228,13 +321,14 @@ def comparer_les_propositions() -> int:
 
     manques: list[str] = []
     total = 0
+    portees = 0
     for depot in ("ONTBibleTranslation", "ONTBibleApp", "ONTBibleWebapp"):
         racine = Path.home() / "ONTBible" / depot
         if not racine.exists():
             continue
         r = subprocess.run(
             ["gh", "pr", "list", "--state", "all", "--json",
-             "number,title,state,mergedAt", "--limit", "120"],
+             "number,title,state,mergedAt,headRefName", "--limit", "120"],
             capture_output=True, text=True, check=False, timeout=60,
             env={**os.environ, "GH_REPO": f"ONTBible/{depot}"},
         )
@@ -270,7 +364,18 @@ def comparer_les_propositions() -> int:
             declare = entrees.get(n)
             if pr["state"] == "OPEN":
                 total += 1
-                if declare is None:
+                if declare is None and _entree_dans_sa_branche(depot, n):
+                    # **Le comportement prescrit, et il ressemblait au
+                    # manquement.** `PROPOSITIONS.md` demande que l'entrée
+                    # *voyage dans la PR qu'elle décrit* — c'est ce qui la rend
+                    # gratuite. Elle est donc, par construction, invisible
+                    # depuis la branche d'intégration jusqu'à la fusion.
+                    #
+                    # Ce contrôle criait dessus. Deux sessions l'ont relevé le
+                    # même jour, séparément, et chacune a dû ouvrir le diff
+                    # pour voir que l'autrice avait bien écrit son entrée.
+                    portees += 1
+                elif declare is None:
                     manques.append(f"+ {depot} #{n} — ouverte, aucune entrée · {pr['title'][:40]}")
             elif declare is not None and declare.startswith("ouverte"):
                 # **Ici le contrôle conclut au lieu de demander**, et c'est ce
@@ -288,11 +393,15 @@ def comparer_les_propositions() -> int:
                 etat = "fusionnée le " + quand if quand else pr["state"].lower()
                 manques.append(f"≠ {depot} #{n} — dit « ouverte », elle est {etat}")
 
+    porte = (f" — dont {portees} dont l'entrée voyage encore dans sa PR"
+             if portees else "")
     if not manques:
-        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites et à jour.\n")
+        print(f"\n  ✓ Les {total} propositions ouvertes sont inscrites"
+              f" et à jour{porte}.\n")
         return 0
 
-    print(f"\n  {len(manques)} écart(s), sur {total} propositions ouvertes :\n")
+    print(f"\n  {len(manques)} écart(s), sur {total} propositions"
+          f" ouvertes{porte} :\n")
     for m in manques:
         print(f"    {m}")
     print(
