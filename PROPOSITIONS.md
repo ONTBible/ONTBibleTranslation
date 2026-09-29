@@ -74,6 +74,18 @@ PR, iOS sur celle d'Android —, et chacune a dû ouvrir le diff à la main pour
 conclure. C'est le coût d'un avertissement qu'on apprend à ne plus lire, que la
 table des worktrees invoquait déjà pour refuser une colonne « branche ».
 
+==Le contrôle jumeau avait le même défaut==, et il a été corrigé dans la
+même PR. La table des worktrees vit dans `SYNCHRONISATION.md`, qui est
+versionné : une ligne écrite ==dans le même tour que la création du worktree==
+— ce que la règle exige — voyage dans la branche de ce worktree. Quatre
+worktrees étaient signalés le soir du 29 septembre, et ==les quatre étaient
+déclarés==. Trois étaient les miens — ==j'ai écrit la règle et je ne l'avais
+pas tenue== —, le quatrième celui des langues sources, ==qui l'avait tenue
+parfaitement== et se faisait rappeler à l'ordre pour ça.
+
+Là, aucun service n'est interrogé : ==la copie du journal est sur le disque==,
+à côté du worktree qu'elle décrit. 4 signalés → 1, et le dernier est juste.
+
 **Ce que ça engage.** Rien d'autre que cet outil. Un appel `gh pr diff` de plus
 par PR ouverte sans entrée à l'intégration — quelques secondes, et seulement
 sur les candidates.
