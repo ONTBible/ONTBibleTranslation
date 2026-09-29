@@ -240,9 +240,28 @@ def _entree_dans_sa_branche(depot: str, numero: str) -> bool:
     # `gh pr diff` ==n'accepte pas de pathspec== — « accepts at most 1 arg(s) ».
     # La première écriture en passait un, gh refusait, la fonction rendait
     # « pas d'entrée » et le correctif ne corrigeait rien. ==Un échec d'outil
-    # déguisé en réponse.== C'est pourquoi le `returncode != 0` ci-dessous
-    # signale au lieu de se taire, et c'est pourquoi ce contrôle a été éprouvé
-    # sur un cas dont on connaissait la réponse avant d'être commité.
+    # déguisé en réponse.==
+    #
+    # ==Deux sessions y sont tombées le même soir, à une heure d'écart.== iOS
+    # a lancé exactement `gh pr diff 344 -- PROPOSITIONS.md` pour savoir si
+    # Android portait son entrée, et a reçu ==une sortie vide== : pas d'erreur,
+    # pas de plainte, une réponse bien formée. Elle allait écrire à Android que
+    # son entrée manquait.
+    #
+    # ==Ce qui l'a sauvée n'était pas une garde, c'était une contradiction.==
+    # Elle avait sous les yeux un `gh pr view --json files` qui listait
+    # `PROPOSITIONS.md` en tête : *le fichier est dans la PR* et *le diff de ce
+    # fichier est vide* ne peuvent pas être vrais ensemble. D'où l'énoncé,
+    # qu'elle formule et qui vaut bien au-delà d'ici :
+    #
+    #     Un échec d'outil déguisé en réponse ne se rattrape que par une
+    #     seconde mesure qui le contredit. Seul, il est indiscernable d'un
+    #     vrai « rien ».
+    #
+    # C'est pourquoi le `returncode != 0` ci-dessous signale au lieu de se
+    # taire — mais il ne protège pas de ce cas-ci, où gh ==rend zéro== : la
+    # seule parade était d'éprouver sur une PR dont on connaissait la réponse,
+    # et c'est ce qui a été fait avant de commiter.
     r = subprocess.run(
         ["gh", "pr", "diff", numero],
         capture_output=True, text=True, check=False, timeout=45,
