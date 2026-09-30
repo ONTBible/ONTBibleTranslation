@@ -169,82 +169,104 @@ def existe_au_distant(branche: str) -> bool:
     return False
 
 
-def _se_declare_chez_lui(chemin: str, nom: str) -> bool:
-    """Dit si un worktree porte sa propre ligne ==dans sa propre copie== du
-    journal.
+POSTES = Path.home() / "ONTBible" / ".postes"
 
-    ==Le même défaut que sur les propositions, sur le contrôle jumeau.== La
-    table vit dans `SYNCHRONISATION.md`, qui est versionné : une déclaration
-    écrite dans le même tour que la création du worktree voyage donc dans la
-    branche de ce worktree, et ==l'intégration ne la connaît pas avant la
-    fusion==. Le contrôle criait sur la ligne écrite au bon moment.
 
-    Quatre worktrees étaient signalés le 29 septembre 2026 : ==les quatre
-    étaient déclarés==, chacun dans sa propre copie. Trois étaient les miens —
-    j'ai écrit la règle et je ne l'avais pas tenue —, le quatrième celui des
-    langues sources, qui l'avait tenue parfaitement.
+def postes_immediats() -> dict[str, str]:
+    """Les postes déclarés dans `~/ONTBible/.postes` — hors de tout dépôt.
 
-    ==Ici on n'interroge aucun service :== la copie est sur le disque, à côté
-    du worktree qu'elle décrit. C'est plus sûr qu'un `gh pr diff` et ça ne
-    dépend d'aucun réseau.
+    ==Ce contrôle lisait la copie du journal DANS le worktree, et ce choix
+    portait un défaut inverse.== Mesuré le 30 septembre 2026 :
+
+        poste déclaré et fusionné      main a la ligne · contrôle muet · sûr
+        poste déclaré, PR en attente   main n'a rien   · contrôle muet · EN DANGER
+        poste jamais déclaré           main n'a rien   · contrôle crie · protégé
+
+    ==Le cas dangereux et le cas sûr rendaient le même silence==, et le seul
+    qui criait était celui où la session avait été négligente — donc celui où
+    elle savait déjà. La garde protégeait qui n'en avait pas besoin et se
+    taisait sur qui en aurait eu besoin : ==elle était rassurée par la chose
+    même qui créait le risque==.
+
+    ==Le fichier des postes n'appartient à aucune branche==, donc il sépare
+    enfin les trois cas. Décision de l'auteur du 30 septembre 2026 : *le
+    durable et l'immédiat n'ont pas à être le même artefact*.
     """
-    journal = Path(chemin) / "SYNCHRONISATION.md"
-    try:
-        texte = journal.read_text()
-    except OSError:
-        # **Un doute ne se tranche pas en faveur du silence.** Illisible, on
-        # signale — une garde qui se tait quand elle ignore est pire qu'absente.
-        return False
-    return re.search(rf"^\| *`[^`]*{re.escape(nom)}` *\|", texte, re.M) is not None
+    if not POSTES.exists():
+        return {}
+    postes = {}
+    for ligne in POSTES.read_text().splitlines():
+        if not ligne.strip() or ligne.lstrip().startswith("#"):
+            continue
+        champs = ligne.split("\t")
+        if champs:
+            postes[Path(champs[0]).name] = champs[1] if len(champs) > 1 else "—"
+    return postes
 
 
 def comparer_les_worktrees() -> int:
-    """Dit ce que la table ignore, et ce qu'elle déclare de trop.
+    """Dit ce que personne n'a déclaré, et ce qui est déclaré sans exister.
 
     **Le rapprochement se fait sur le nom de dossier, non sur le chemin
     complet.** La table est lisible par un humain et porte des chemins
-    abrégés — `.herdr/worktrees/…/astra` ; un rapprochement littéral
-    signalerait à tort tout ce qui ne vit pas sous `~/ONTBible`.
+    abrégés ; un rapprochement littéral signalerait à tort tout ce qui ne vit
+    pas sous `~/ONTBible`.
+
+    ==Deux sources, et elles ne répondent pas à la même question :==
+
+        ~/ONTBible/.postes    l'IMMÉDIAT — hors de git, donc sans délai.
+                              C'est lui qui décide si un poste est déclaré.
+        SYNCHRONISATION.md    le DURABLE — il porte le pourquoi pour la
+                              postérité, et il rattrape à la fusion.
+
+    Un poste déclaré à l'immédiat et pas encore au durable n'est ==pas un
+    manquement== : c'est l'état normal entre la création et la fusion de la PR.
+    Il est dit, pas reproché.
     """
     bruts = worktrees_reels()
     reels = {Path(k).name: v for k, v in bruts.items()}
-    chemins = {Path(k).name: k for k in bruts}
-    dec = {Path(k).name: v for k, v in worktrees_declares().items()}
-    if not dec:
-        print("\n  Le journal ne porte aucune table de worktrees.\n")
+    immediat = postes_immediats()
+    durable = {Path(k).name: v for k, v in worktrees_declares().items()}
+
+    if not immediat and not durable:
+        print("\n  Aucune déclaration, ni immédiate ni durable.\n")
         return 1
 
-    fantomes = sorted(set(dec) - set(reels))
-    tous_muets = sorted(set(reels) - set(dec))
-    # Ceux qui se déclarent chez eux ont fait ==exactement== ce qu'on demande :
-    # la ligne existe, elle n'a pas encore atteint l'intégration.
-    en_vol = [n for n in tous_muets if _se_declare_chez_lui(chemins[n], n)]
-    muets = [n for n in tous_muets if n not in en_vol]
+    muets = sorted(set(reels) - set(immediat))
+    fantomes = sorted(set(immediat) - set(reels))
+    en_retard = sorted((set(reels) & set(immediat)) - set(durable))
 
-    vol = (f" — dont {len(en_vol)} dont la ligne voyage encore dans sa branche"
-           if en_vol else "")
     if not (muets or fantomes):
-        print(f"\n  ✓ La table est à jour — {len(reels)} worktrees{vol}.\n")
+        retard = (f" — {len(en_retard)} pas encore portés au journal"
+                  if en_retard else "")
+        print(f"\n  ✓ Les {len(reels)} worktrees sont déclarés{retard}.\n")
+        if en_retard:
+            for n in en_retard:
+                print(f"    · {n:<32} {immediat[n]}")
+            print("\n  C'est l'état normal entre la création et la fusion.\n")
         return 0
 
-    print(f"\n  La table des worktrees a pris du retard{vol}.\n")
+    print("\n  La déclaration des postes a pris du retard.\n")
 
     # **Les deux écarts ne se lisent pas de la même façon**, et c'est la
     # trouvaille des langues sources : on déclare une naissance, on ne déclare
     # pas une disparition. Celui qui devrait retirer la ligne est précisément
-    # celui qui ignore que son worktree a disparu — le sien a été emporté par
-    # un nettoyage, sans acte de sa part.
+    # celui qui ignore que son worktree a disparu.
     for n in muets:
-        print(f"    + {n:<34} existe, personne ne l'a déclaré  [{reels[n]}]")
-        print(f"      → RAPPELER : quelqu'un a oublié sa ligne")
+        print(f"    + {n:<32} existe, personne ne l'a déclaré  [{reels[n]}]")
+        print("      → RAPPELER : python3 scripts/declarer-son-poste.py --poser \"…\"")
     for n in fantomes:
-        print(f"    − {n:<34} déclaré par « {dec[n]} », absent de git")
-        print(f"      → DEMANDER, ne pas conclure : démonté à son insu, ou jamais")
-        print(f"        vu de `git worktree list`")
+        print(f"    − {n:<32} déclaré par « {immediat[n]} », absent de git")
+        print("      → DEMANDER, ne pas conclure : démonté à son insu, ou jamais")
+        print("        vu de `git worktree list`")
+    if en_retard:
+        print("\n  Et ceux-ci sont déclarés, mais pas encore au journal — normal :\n")
+        for n in en_retard:
+            print(f"    · {n:<32} {immediat[n]}")
 
     print(
-        "\n  Le porter à la main : la colonne « pourquoi » est la seule chose\n"
-        "  qu'aucun relevé ne peut produire.\n"
+        "\n  Le « pourquoi » est la seule chose qu'aucun relevé ne produira\n"
+        "  jamais. C'est pour elle que la déclaration existe.\n"
     )
     return 1
 

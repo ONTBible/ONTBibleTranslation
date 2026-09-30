@@ -417,8 +417,52 @@ branches et les PR non — celles-ci sont des mesures, pas une identité.
 
 ### Déclarer son worktree — 21 septembre 2026
 
-**Décision de l'auteur.** Une session qui crée un `git worktree` ==l'inscrit
-ici==, dans le même tour. Une session qui le démonte ==retire sa ligne==.
+**Décision de l'auteur.** Une session qui crée un `git worktree` ==le
+déclare dans le même tour==. Une session qui le démonte ==retire sa
+déclaration==.
+
+#### Deux artefacts, et il faut les deux — 30 septembre 2026
+
+==« Dans le même tour » était infaisable, et c'est mesuré.== `main` est
+protégée : la déclaration n'atteignait le journal qu'à la fusion — une heure
+d'ordinaire, ==une journée entière== quand la PR attend l'auteur. Or c'est
+exactement la fenêtre que la règle existe pour fermer.
+
+**Et le défaut était pire que le délai.** Le contrôle lisait la copie du
+journal *dans le worktree*, donc il se taisait dès qu'une session avait
+déclaré — ==y compris quand sa ligne n'était que dans une branche que personne
+d'autre ne lirait== :
+
+    poste déclaré et fusionné      main a la ligne · contrôle muet · sûr
+    poste déclaré, PR en attente   main n'a rien   · contrôle muet · EN DANGER
+    poste jamais déclaré           main n'a rien   · contrôle crie · protégé
+
+==Le cas dangereux et le cas sûr rendaient le même silence==, et le seul qui
+criait était celui où la session avait été négligente — donc celui où elle
+savait déjà. ==La garde était rassurée par la chose même qui créait le
+risque.==
+
+**Décision de l'auteur du 30 septembre 2026 :** ==le durable et l'immédiat
+n'ont pas à être le même artefact==. Ce qui crée le délai est le
+versionnement ; la déclaration immédiate n'a pas besoin d'être versionnée, elle
+a besoin d'être ==lisible sur la machine, tout de suite==.
+
+    python3 scripts/declarer-son-poste.py --poser "pourquoi ce poste existe"
+    python3 scripts/declarer-son-poste.py --dire
+    python3 scripts/declarer-son-poste.py --retirer
+
+| | ce qu'il porte |
+|---|---|
+| `~/ONTBible/.postes` | ==l'immédiat== — hors de tout dépôt, donc sans PR ni délai. **C'est lui qui décide si un poste est déclaré**, et c'est lui qu'on lit ==avant tout démontage== |
+| la table ci-dessous | ==le durable== — le *pourquoi* pour la postérité, et il rattrape à la fusion |
+
+==Un poste déclaré à l'immédiat et pas encore au durable n'est pas un
+manquement== : c'est l'état normal entre la création et la fusion. Le contrôle
+le dit sans le reprocher.
+
+Précédent dans le dépôt : `~/ONTBible/.espace-disque`, que la veille écrit et
+qu'on lit ==sans rien lancer== — ce qui compte précisément quand plus rien ne
+se lance.
 
 **Pourquoi une déclaration, et non un relevé.** Parce que ==rien ne prouve
 qu'une session tient un worktree==. Trois pistes ont été éprouvées le
@@ -6022,3 +6066,62 @@ le projet reproche ailleurs.
 retranscription n'est jamais le fichier — c'est ce qu'on en tire :== une
 chuqqah, une fiche, une entrée de glossaire. La présente entrée en est
 l'application.
+
+---
+
+## 30 septembre 2026, au soir — « dans le même tour » est infaisable, et c'est ma règle
+
+Le contrôle des worktrees signale `ONTBibleTranslation-sources` comme non
+déclaré. ==Il a raison, et la session qui le tient a fait exactement ce qu'on
+lui demande== : elle a inscrit sa ligne dans le même tour que la création. Cette
+ligne voyage dans sa PR, qui attend l'auteur ==depuis le matin==.
+
+### Le trou, et il est dans la règle elle-même
+
+    la règle dit      « une session qui crée un worktree l'inscrit ici,
+                        DANS LE MÊME TOUR »
+    le dépôt impose   main protégée, passage par pull request
+    donc              la déclaration ne peut pas atteindre main
+                      avant qu'une PR soit fusionnée
+
+==« Dans le même tour » ne peut pas être tenu tant que `main` est protégée.== Au
+mieux on déclare dans une branche, et le délai est celui de la fusion — une
+heure d'ordinaire, ==une journée entière ce jour-là==.
+
+**Et c'est précisément la fenêtre que la règle existe pour fermer.** Les trois
+worktrees disparus des 21-22 septembre l'ont été ==pendant que leur session y
+travaillait encore==. Une déclaration qui arrive après la fusion arrive
+==après le danger==.
+
+### Ce que j'ai déjà corrigé, et qui ne suffit pas
+
+Le contrôle lit désormais ==la copie du journal dans le worktree lui-même==, ce
+qui le rend juste. ==Mais ça répare la mesure, pas le danger.== Celui qui
+s'apprête à démonter un worktree ne lance pas le contrôle : il lit le journal —
+et il lit celui de `main`, où la ligne n'est pas.
+
+C'est la distinction de l'entrée précédente, rencontrée un cran plus bas :
+==refaire le geste attrape ce qu'un instrument fait mal ; ici l'instrument va
+bien et c'est la règle qui ne peut pas être suivie==.
+
+### Les trois sorties, et aucune n'est évidente
+
+- ==relâcher la règle== — « dans le même tour » devient « dans la PR courante ».
+  Honnête, et la fenêtre reste ouverte ;
+- ==déclarer hors de git== — un fichier non versionné à la racine, écrit à la
+  création, lu avant tout démontage. Le journal garde la table durable, qui
+  rattrape à la fusion. ==Précédent dans le dépôt== : `~/ONTBible/.espace-disque`,
+  que la veille écrit et qu'on lit *sans rien lancer* ;
+- ==accepter l'exposition== — juger qu'une journée de délai est un risque tenable,
+  et l'écrire pour que personne ne le redécouvre.
+
+**Ma recommandation est la deuxième**, pour une raison de forme : ==ce qui crée
+le délai est le versionnement==, et la déclaration immédiate n'a pas besoin
+d'être versionnée. Elle a besoin d'être ==lisible sur la machine, tout de
+suite==. Le durable et l'immédiat n'ont pas à être le même artefact.
+
+==À trancher par l'auteur== : la règle du 21 septembre est sa décision, et la
+changer engage les huit sessions.
+
+**Relevé par la session des langues sources, qui était le cas** — et qui l'a
+été toute la journée sans le savoir.

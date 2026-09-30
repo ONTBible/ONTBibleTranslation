@@ -13,7 +13,8 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 1486 | À trancher par l'auteur ; |
 | `CLAUDE.md` | 1689 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
 | `CLAUDE.md` | 1783 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
-| `SYNCHRONISATION.md` | 3132 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 3176 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 6123 | À trancher par l'auteur : la règle du 21 septembre est sa décision, et la |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 474 | ==Candidats intraduisibles, à trancher par l'auteur.== ==Le construit `basar ʾechad`== d'abord :… |
@@ -64,6 +65,7 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 2726 | Décision de l'auteur du 8 septembre 2026. L'hébreu pose parfois le verbe |
 | `CLAUDE.md` | 2792 | Décision de l'auteur du 10 septembre 2026. L'hébreu écrit cinq fois dans |
 | `PROPOSITIONS.md` | 3 | Décision de l'auteur du 21 septembre 2026. Toute PR s'inscrit ici, **par |
+| `SYNCHRONISATION.md` | 445 | Décision de l'auteur du 30 septembre 2026 : ==le durable et l'immédiat |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 42 | … pas une instance supérieure. ==Décision de l'auteur du 7 septembre 2026== : on écrit ce qu'un h… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-2.md` | 80 | … hébreu ancien l'aurait écrit — décision de l'auteur du 7 septembre 2026.== Le témoin y porte « … |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-3.md` | 66 | …et l'ONT ne les accorde pas== — décision de l'auteur du 1ᵉʳ septembre 2026. |
@@ -79,6 +81,7 @@ désigné, et cet index n'en est qu'une table.*
 | `passages/3-1-verbes-fondamentaux-02.md` | 9 | …r verbe intraduisible de l'ONT, décision de l'auteur du 25 août 2026. L'acte de rater sa cible, … |
 | `passages/3-2-noms-et-concepts-fondamentaux-02.md` | 7 | … et l'espèce sont le même mot — décision de l'auteur du 12 septembre 2026, et le §2.5 porte la r… |
 | `passages/4-1-les-gloses-01.md` | 25 | Le sens du transport — décision de l'auteur du 30 août 2026. *La restitution |
+| `passages/deux-artefacts-et-il-faut-les-deux-30-septembre-2026-01.md` | 24 | Décision de l'auteur du 30 septembre 2026 : ==le durable et l'immédiat |
 | `passages/la-gemination-s-ecrit-quand-elle-separe-yamim-les-jours-yamm-01.md` | 5 | Décision de l'auteur du 12 septembre 2026. Le corpus écrivait ==la même |
 
 ## Les 104 intraduisibles déclarés au §2.5
@@ -219,7 +222,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 177 leçons du journal
+## Les 180 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -400,7 +403,10 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Deux remèdes, deux maladies — et les confondre coûte cher
 - Et l'énoncé qui donne son titre à l'entrée
 - Ce qui traverse
+- Le trou, et il est dans la règle elle-même
+- Ce que j'ai déjà corrigé, et qui ne suffit pas
+- Les trois sorties, et aucune n'est évidente
 
 ---
 
-*592 fichiers parcourus · 441 fiches dans `lexique/`.*
+*594 fichiers parcourus · 441 fiches dans `lexique/`.*
