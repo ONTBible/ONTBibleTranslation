@@ -148,15 +148,27 @@ def relever(lex: dict, seuil: int) -> dict:
     return {k: sorted(v, key=lambda x: (-x["n"], x["lem"])) for k, v in groupes.items()}
 
 
-def harmonisation(bloc: list) -> tuple[str, int, float]:
-    """Part des lemmes partageant un même mot de CONTENU — le défaut de Strong."""
+def harmonisation(bloc: list) -> tuple[list[str], int, float]:
+    """Part des lemmes partageant un même mot de CONTENU — le défaut de Strong.
+
+    ==Rend TOUS les mots ex æquo, jamais un seul élu.== `Counter.most_common`
+    départage par ordre de première rencontre, lequel dépend ici de l'itération
+    d'un `set` — donc du hachage, donc du processus. Mesuré : le groupe ר-ע
+    rendait « rule », « pasture » ou « tend » selon `PYTHONHASHSEED`, à compte
+    identique. Le rang et le pourcentage étaient stables, **le mot ne l'était
+    pas**, et le journal a failli en citer un.
+
+    Le §2.5 ter du `CLAUDE.md` portait déjà l'avertissement — *un pourcentage
+    qui bouge quand on trie un `glob` ne mesure pas ce qu'on croit*. Une règle
+    n'empêche que ce qu'on pense à lui soumettre.
+    """
     c = collections.Counter()
     for x in bloc:
         c.update({w for w in re.findall(r"[a-z]+", x["sens"].lower())
                   if w not in APPAREIL and len(w) > 2})
-    if not c: return ("—", 0, 0.0)
-    mot, n = c.most_common(1)[0]
-    return (mot, n, n / len(bloc))
+    if not c: return ([], 0, 0.0)
+    n = max(c.values())
+    return (sorted(w for w, k in c.items() if k == n), n, n / len(bloc))
 
 
 def main() -> int:
@@ -203,10 +215,12 @@ def main() -> int:
         if a.harmonisation:
             print("\n  harmonisation lexicale des gloses — part des lemmes partageant un mot de contenu\n")
             for lab, pr in sorted(etiquettes.items(),
-                                  key=lambda t: -harmonisation(groupes[t[1]])[2]):
-                mot, n, part = harmonisation(groupes[pr])
-                print(f"   {lab}  {unites(pr):7} « {mot} » {n}/{len(groupes[pr]):<3} "
-                      f"{part:5.0%} {'█' * round(part * 24)}")
+                                  key=lambda t: (-harmonisation(groupes[t[1]])[2], t[0])):
+                mots, n, part = harmonisation(groupes[pr])
+                if len(mots) == 1:  quoi = f"« {mots[0]} »"
+                else:               quoi = f"{len(mots)} ex æquo : " + ", ".join(mots[:4])
+                print(f"   {lab}  {unites(pr):7} {n}/{len(groupes[pr]):<3} "
+                      f"{part:5.0%} {'█' * round(part * 24)}  {quoi}")
             print("\n  Un noyau qui se lit dans les mots du glossateur est suspect ; un noyau")
             print("  qu'il faut chercher sous ses mots est un fait de langue.")
             print("  Mais le critère ÉCARTE UN TÉMOIN, il ne tranche pas la question.")
