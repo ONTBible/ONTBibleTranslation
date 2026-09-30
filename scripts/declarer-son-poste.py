@@ -50,16 +50,21 @@ lance.
     python3 scripts/declarer-son-poste.py --poser "les témoins et les licences"
     python3 scripts/declarer-son-poste.py --retirer
 
-`--poser` devine le worktree courant et le rôle par `HERDR_PANE_ID` quand il
-est là ; `--qui` et `--ou` les forcent. ==Le « pourquoi » ne se devine pas== :
-c'est la seule chose qu'aucun relevé ne produira jamais, et c'est pour elle que
-ce fichier existe.
+`--poser` devine ==le worktree courant== par git, et ==rien d'autre==. Le rôle
+se reprend de la ligne existante quand il y en a une, et ==doit être nommé== à
+la première déclaration : `--qui "macOS"`, le rôle et non le volet. `--ou`
+force le dossier — ==utile si l'on lance le script depuis ailleurs que son
+propre poste==, ce qui arrive tant qu'il n'est pas sur `main`.
+
+==Le « pourquoi » ne se devine jamais== : c'est la seule chose qu'aucun relevé
+ne produira, et c'est pour elle que ce fichier existe. Une ligne qui dit
+« poste actif » a le coût d'une déclaration sans son bénéfice — ==qui hésite à
+démonter a besoin de savoir ce que ça coupe==, pas que c'est occupé.
 """
 
 from __future__ import annotations
 
 import argparse
-import os
 import subprocess
 import sys
 from datetime import datetime
@@ -103,22 +108,41 @@ def _ecrire(postes: list[list[str]]) -> None:
 
 
 def _worktree_courant() -> str | None:
-    """Le dossier du worktree où l'on se trouve, par git lui-même."""
+    """Le CHEMIN ABSOLU du worktree où l'on se trouve, par git lui-même.
+
+    ==On stocke le chemin, jamais le seul nom de dossier.== L'amorçage du
+    30 septembre 2026 écrivait `astra` tout court, alors que ce worktree vit
+    sous `~/.herdr/worktrees/…` et non sous `~/ONTBible/`. Qui appliquait la
+    règle — *lire les postes avant de démonter* — aurait cherché
+    `~/ONTBible/astra`, n'aurait rien trouvé, et aurait pu conclure que la
+    ligne était orpheline.
+
+    ==Le fichier aurait alors rendu le contraire du service qu'il rend.== Et le
+    poste concerné était celui d'Astra, ==la seule session qui ne peut pas
+    corriger sa propre ligne== : elle n'apparaît dans aucun annuaire et son
+    envoi de message échoue. Relevé par le vault.
+    """
     r = subprocess.run(
         ["git", "rev-parse", "--show-toplevel"],
         capture_output=True, text=True, check=False, timeout=15,
     )
-    return Path(r.stdout.strip()).name if r.returncode == 0 and r.stdout.strip() else None
+    return r.stdout.strip() or None
 
 
-def _qui_par_defaut() -> str:
-    """Le volet Herdr est le seul identifiant stable d'une session.
+def _lisible(chemin: str) -> str:
+    """Le chemin abrégé par `~`, sans jamais le tronquer."""
+    try:
+        return "~/" + str(Path(chemin).relative_to(Path.home()))
+    except ValueError:
+        return chemin
 
-    Le nom d'agent change à un `/rename`, la socket est un PID rebattu au
-    redémarrage, la référence change à une reconnexion. ==Le volet est une
-    place== : il vit dans la disposition, pas dans le processus.
-    """
-    return os.environ.get("HERDR_PANE_ID", "") or "—"
+
+def _qui_deja_declare(dossier: str) -> str | None:
+    """Le rôle déjà inscrit pour ce poste, s'il y en a un."""
+    for champs in _lignes():
+        if champs[0] == dossier:
+            return champs[1] or None
+    return None
 
 
 def dire() -> int:
@@ -126,10 +150,11 @@ def dire() -> int:
     if not postes:
         print(f"\n  Aucun poste déclaré. ({POSTES})\n")
         return 0
-    large = max(len(p[0]) for p in postes)
+    chemins = [_lisible(p[0]) for p in postes]
+    large = max(len(x) for x in chemins)
     print(f"\n  {len(postes)} poste(s) déclaré(s) — {POSTES}\n")
-    for dossier, qui, pourquoi, depuis in postes:
-        print(f"    {dossier:<{large}}  {qui:<14}  {pourquoi}")
+    for (dossier, qui, pourquoi, depuis), lu in zip(postes, chemins):
+        print(f"    {lu:<{large}}  {qui:<14}  {pourquoi}")
         if depuis:
             print(f"    {'':<{large}}  depuis {depuis}")
     print()
@@ -146,12 +171,34 @@ def poser(pourquoi: str, qui: str | None, ou: str | None) -> int:
         # « pourquoi » a le coût d'une déclaration et n'en a pas le bénéfice.
         print("  ✗ le « pourquoi » est obligatoire — c'est tout l'objet du fichier")
         return 1
+    # **Le script ne devine pas le rôle, et c'est une décision.** La première
+    # version tombait sur `HERDR_PANE_ID` — donc elle écrivait `wE:p2` là où la
+    # ligne d'à côté disait `macOS`. ==Le fichier devenait moins lisible
+    # précisément là où il sert== : qui le consulte avant de démonter voit un
+    # volet et doit le traduire — or les annuaires ne sont pas partagés, donc
+    # ==il ne peut pas traduire depuis chez lui==.
+    #
+    # Relevé le 30 septembre 2026 par macOS, qui y est tombée, et par Android,
+    # qui l'a évité de justesse. La formule est de macOS et elle tranche :
+    # ==deviner à moitié est le pire des trois==. On refuse donc de deviner.
+    #
+    # ==Mais on ne redemande pas ce qui est déjà écrit :== quand la ligne
+    # existe, son rôle est repris. C'est ce qui rend `--poser "nouveau
+    # pourquoi"` sûr, et c'est le geste le plus fréquent.
+    ancien = _qui_deja_declare(dossier)
+    tenant = qui or ancien
+    if not tenant:
+        print("  ✗ ce poste n'est pas encore déclaré — nommer son tenant :")
+        print('      --qui "macOS"     le RÔLE, pas le volet')
+        print("    Un volet ne se traduit pas depuis un autre poste :")
+        print("    les annuaires ne sont pas partagés.")
+        return 1
     postes = [p for p in _lignes() if p[0] != dossier]
-    postes.append([dossier, qui or _qui_par_defaut(), pourquoi.strip(),
+    postes.append([dossier, tenant, pourquoi.strip(),
                    datetime.now().strftime("%Y-%m-%d %H:%M")])
     postes.sort(key=lambda p: p[0])
     _ecrire(postes)
-    print(f"  ✓ {dossier} déclaré — {pourquoi.strip()}")
+    print(f"  ✓ {_lisible(dossier)} déclaré — {pourquoi.strip()}")
     print("    Porter la même ligne dans la table de SYNCHRONISATION.md,")
     print("    qui est la trace durable. Celle-ci est l'immédiate.")
     return 0
@@ -165,10 +212,10 @@ def retirer(ou: str | None) -> int:
     postes = _lignes()
     restants = [p for p in postes if p[0] != dossier]
     if len(restants) == len(postes):
-        print(f"  — {dossier} n'était pas déclaré, rien à retirer")
+        print(f"  — {_lisible(dossier)} n'était pas déclaré, rien à retirer")
         return 0
     _ecrire(restants)
-    print(f"  ✓ {dossier} retiré")
+    print(f"  ✓ {_lisible(dossier)} retiré")
     print("    Retirer aussi sa ligne de SYNCHRONISATION.md.")
     return 0
 
