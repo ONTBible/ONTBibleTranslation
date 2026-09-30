@@ -193,6 +193,81 @@ puisse la dire. Elle porte aussi la table des worktrees et son contrôle.
 worktrees : les deux vivent à côté de la table des rôles, non en fin de fichier,
 pour ne pas entrer en conflit avec les entrées de journal.
 
+## #130 · Retirer « l'Être façonné du sol »
+
+    ouverte le   28 septembre 2026, par le vault
+    vers         main
+    état         ouverte — verte et CLEAN, en attente du feu vert de l'auteur
+
+**Pourquoi.** La périphrase rendait le générique *ha-adam* avant le **mabbul**,
+pour faire voir l'étymologie *ʾadamah* → *ʾadam*. Elle faisait l'inverse de ce
+qu'elle promettait, et pour deux raisons dont la seconde est la plus forte :
+elle **ferme** ce que l'hébreu laisse ouvert — « ceci est l'espèce, pas
+quelqu'un », troisième fermeture du §4.11 après la majuscule et la minuscule —
+et elle **empêchait de voir la parenté qu'elle expliquait**, puisque *ʾadamah*
+est intraduisible depuis le 12 septembre : les deux mots sont maintenant deux
+mots d'or côte à côte.
+
+**Ce que ça engage.** 62 occurrences dans 18 fichiers, **dont 15 verrouillés**.
+Le critère de l'ère disparaît : `**ʾAdam**` vaut partout, et seul l'article de
+l'hébreu départage ses trois formes. `lexique/letre-faconne-du-sol.md` est
+supprimée — ce qui tranche au passage un litige que personne n'avait vu, la
+forme `ʾAdam` étant revendiquée par deux fiches. Le glossaire passe de 161
+entrées à 160. Rien à porter chez les voisins : le pipeline lit le §2.5 et le
+§3 dynamiquement.
+
+**Pour la relire.** Aucun `sed` : le corpus écrivait déjà l'hébreu **juste
+après** chaque périphrase, donc l'article était lisible sans retourner au
+témoin. 33 tranchées par leur niveau 3, 27 gardant l'article français d'une
+prose qui commente, et **2 réécrites plutôt que substituées** — elles
+expliquaient la périphrase comme procédé, et une substitution les rendait
+circulaires. Une régression a été introduite puis fermée : la puce barrait le
+terme retiré **en le laissant entre accents graves**, et le parseur y lisait
+encore une déclaration.
+
+## #129 · Journal du 28 septembre — un parseur indulgent fabrique des clés mortes
+
+    ouverte le   28 septembre 2026, par le vault
+    vers         main
+    état         fusionnée le 28 septembre 2026
+
+**Pourquoi.** `formes_declarees()` prend toute ligne non vide sous `## Formes`
+et la découpe sur le séparateur. Une note en prose posée là devient **une forme
+par ligne** — des clés de jointure qui ne mènent nulle part. Quatre fiches le
+faisaient, neuf fausses formes en sortaient.
+
+**Ce que ça engage.** Les quatre fiches sont corrigées en #128 ; **le parseur ne
+l'est pas**, et il est chez l'app. Une section `Formes` qui contient une phrase
+est une erreur certaine, donc relevable mécaniquement — à l'app de juger entre
+un contrôle qui signale et un refus franc.
+
+**Pour la relire.** C'est le contrôle qui ne peut pas rougir, rencontré sur un
+parseur au lieu d'un test : il ingère de la prose sans se plaindre, donc la
+faute ne se voit ni à l'écriture, ni à la construction, ni en CI.
+
+## #128 · Deux chuqqot pour une seule matière, et shalom devient intraduisible
+
+    ouverte le   26 septembre 2026, par le vault
+    vers         main
+    état         fusionnée le 28 septembre 2026
+
+**Pourquoi.** Une retranscription de l'auteur portait **deux énoncés**, non un.
+Décision de l'auteur de la scinder ; la coupe s'est révélée franche — chacune a
+sa philologie porteuse et son propre joint faible.
+
+**Ce que ça engage.** `shalom` devient intraduisible — puce §2.5, ligne §3.2,
+`lexique/shalom.md`. Ce qui l'emporte est **morphologique** : la racine ש־ל־ם
+donne au piel *shillem*, restituer, mot de droit de *Shemot* 22:5. Le construit
+**ne s'absorbe pas**, contrairement au précédent d'**ʿolam** : *Bereshit* 15:15
+écrit `en **shalom**`, non `**beshalom**`. Une ligne de fichier verrouillé est
+reprise. Et *Connaître n'est pas savoir* devient *Savoir n'est pas connaître*,
+au rang 13.
+
+**Pour la relire.** Une référence a été corrigée en cours d'écriture :
+*shalem yeshallem* avait été donné pour le cas du pâturage ; le témoin le met à
+l'incendie, et 22:4 ne porte qu'un seul `7999 a`. **La règle citée était juste,
+le verset allégué était faux, et rien dans la phrase ne l'aurait signalé.**
+
 ## #125 · Deux corrections à l'entrée du 18
 
     ouverte le   20 septembre 2026, par la manageuse

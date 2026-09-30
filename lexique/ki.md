@@ -49,7 +49,7 @@ pourquoi l'ONT rend le verset par deux verbes et non par un.
 C'est aussi la forme par laquelle le corpus ==attache un **Shem** à son sens==,
 et cela vaut d'être isolé. Le **malʾakh** **YHWH** dit à [[Hagar]] : tu
 l'appelleras [[Yishmaʿel]], *ki shamaʿ* **YHWH** *ʾel ʿonyekh* — ==car **ʾEl**
-a entendu== ton affliction. Et **l'Être façonné du sol** nomme son **ʾishah**
+a entendu== ton affliction. Et l'**ʾAdam** nomme son **ʾishah**
 [[Chavah]], *ki hiʾ hayetah ʾem kol chai* — car elle a été la mère de tout
 vivant.
 
