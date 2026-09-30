@@ -5834,15 +5834,54 @@ honnête de l'établir.
 La mesure scellée donnait la part des lemmes d'un groupe partageant ==un même
 mot de contenu== dans la glose de Strong :
 
-    פ-ר   « break »          80 %   ← le candidat
-    ע-ר   « hence »          38 %
-    ק-ר   « causatively »    30 %
-    שׁ-ל   « applications »   27 %
-    שׁ-ק   « causatively »    20 %
+    פ-ר    8/10    80 %   ← le candidat    « break »
+    ע-ר    3/8     38 %                    « hence »
+    ע-ל    3/8     38 %                    « literal »
+    שׁ-ל    4/11    36 %                    « make »
+    ק-ר    3/10    30 %                    « bring »
+    שׁ-מ    2/7     29 %                    « hear »
+    ר-ע    2/9     22 %                    ══ 19 ex æquo ══
+    שׁ-ק    2/10    20 %                    2 ex æquo
 
-==Un seul groupe sur huit a un noyau lexical, et c'est celui qu'on éprouvait.==
-Les suivants partagent *hence*, *literal*, *causatively* — ==des mots de
-l'appareil de Strong, pas des mots de sens==.
+==Le bon énoncé n'est pas « 80 % contre 38 % ».== C'est celui-ci :
+
+> `פ-ר` est ==le seul groupe où une majorité de lemmes partage un mot== — huit
+> sur dix. Partout ailleurs le maximum est ==minoritaire==, et deux fois il
+> touche ==le plancher du bruit==.
+
+==Un écart de rang se discute ; un franchissement de la majorité, non.==
+
+**Et voici ce que l'élection d'un vainqueur cachait.** Sur ר-ע, ==dix-neuf mots
+atteignent le plafond de 2/9==. Ce n'est pas un signal faible, ==c'est du
+bruit== — et nommer « le mot le plus partagé » lui donnait l'apparence d'un
+signal. Le 22 % ne voulait rien dire du tout.
+
+> ==Élire un vainqueur donne au bruit l'apparence d'un signal.==
+
+**Le mot n'était pas reproductible, et il l'est devenu.** Avant correction, ר-ע
+rendait *rule*, *pasture* ou *tend* selon la graine de hachage du processus —
+==toujours à 2/9 et 22 %==. `Counter.most_common` départage les ex æquo par
+ordre de première rencontre, qui dépend de l'itération d'un ensemble.
+
+==Le §2.5 ter du `CLAUDE.md` portait l'avertissement mot pour mot, sur cette
+fonction précise== — *« un pourcentage qui bouge quand on trie un `glob` ne
+mesure pas ce qu'on croit »*. Il a été reproduit dans un script dont le
+docstring entier traite des biais d'instrument, par quelqu'un qui l'avait cité
+le jour même. ==Une règle n'empêche que ce qu'on pense à lui soumettre, et
+connaître la règle ne suffit pas à y penser.==
+
+L'outil ne choisit donc plus : à égalité, ==il dit combien de mots le sont et
+les nomme==. Vérifié déterministe sur quatre graines — sortie identique au
+caractère près.
+
+**Ce qui survit, et c'est le fait qui compte.** La première version de la mesure
+ne comptait que *hence*, *causatively*, *applications* — ==des mots de
+l'appareil de Strong==, ce qui flattait l'écart. La liste durcie fait que les
+témoins partagent de ==vrais mots de sens==, et ==le franchissement de la
+majorité tient quand même==.
+
+==Un résultat qui survit à un instrument plus dur est plus solide qu'un
+résultat obtenu avec un instrument complaisant.==
 
 > ==Un noyau qui se lit dans les mots du glossateur est suspect ; un noyau
 > qu'il faut aller chercher sous ses mots est un fait de langue.==
@@ -5853,13 +5892,24 @@ l'appareil de Strong, pas des mots de sens==.
 **Le contre-exemple qui le valide** : שׁ-ל porte le noyau sémantique le plus
 fort des huit — *envoyer au loin, jeter, arracher, dépouiller*, 86 % des
 emplois — sous des verbes anglais ==tous différents== : *send, throw, pull,
-drop, strip*. 27 % de partage lexical. La dissociation est exactement celle que
-le critère prédit.
+drop, strip*. ==36 % de partage lexical, contre 80 % au candidat== : la
+dissociation est celle que le critère prédit, et ==elle est plus étroite
+qu'au premier relevé==, qui annonçait 27 % avec l'instrument complaisant.
 
 **Et la clause sans laquelle le critère conclut trop :** 80 % ne dit pas que le
 noyau de פ-ר est faux. Strong a peut-être écrit *break* huit fois ==parce que
 ces verbes veulent dire briser==. ==Le critère écarte un témoin, il ne tranche
 pas la question.==
+
+**L'instrument est au dépôt**, et c'est ce qui distingue ce relevé d'un
+chiffre qu'on recopie :
+
+    python3 scripts/eprouver-un-noyau-consonantique.py --aveugle
+    python3 scripts/eprouver-un-noyau-consonantique.py --cle --harmonisation
+
+La graine vaut `20260930` par défaut et ==rejoue le tirage à l'identique==.
+==La clause s'imprime avec le chiffre==, à chaque exécution — un critère séparé
+de sa clause finit par circuler sans elle.
 
 ### Les quatre biais penchaient tous du même côté
 
