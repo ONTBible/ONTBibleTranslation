@@ -56,7 +56,7 @@ information, et il se voit.
 
 ---
 
-## #NNN · La garde contre un biais est elle-même un biais
+## #135 · La garde contre un biais est elle-même un biais
 
     ouverte le   30 septembre 2026, par la manageuse
     vers         main
