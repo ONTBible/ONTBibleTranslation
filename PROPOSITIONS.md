@@ -241,3 +241,40 @@ correctif ; il ne prouve pas l'activation du nouveau filtre. Les raccordements
 supplémentaires restent retirés en attendant une réponse directe de l'auteur
 sur leur activation. La fusion de cette PR, l'activation dans les sessions et
 la vérification native sur les deux transports sont trois étapes distinctes.
+
+---
+
+## #136 · Éprouver un noyau consonantique — l'instrument, pas le chiffre
+
+    ouverte le   30 septembre 2026, par les langues sources
+    vers         main
+    état         ouverte
+
+**Pourquoi.** L'entrée du journal du 30 septembre cite « 80 % contre 38 % ».
+==Le chiffre se recopie, l'instrument se relance== — et celui-ci vivait dans
+`/tmp`, qui meurt au prochain redémarrage. Quelqu'un voudra refaire la mesure ;
+sans le script, il la referait autrement, et un autre protocole rendrait un
+autre chiffre sans que personne sache lequel croire.
+
+La graine par défaut rejoue **exactement** le tirage du 30 : même clé, même
+mesure.
+
+**Ce que ça engage.** Rien — `scripts/` ne voyage pas dans `dist/`, aucune
+liseuse ne le lit. Le lexique d'OpenScriptures (CC BY 4.0) n'est pas versionné
+mais mis en cache, et `.cache/` entre au `.gitignore` : ==le lire pour écrire
+une analyse ne redistribue rien==, ce que #132 pose en règle.
+
+**Pour la relire.** Le fichier existe pour ses **quatre biais**, plus que pour
+sa mesure. Deux sont corrigés dans le code parce qu'ils ne se voient pas à
+l'usage — le préfixe mem pris pour une radicale, shin et sin fondus — et
+==les deux frappaient les témoins en épargnant le candidat==, פ n'étant ni une
+lettre préfixe ni un graphème à deux valeurs. Les deux autres sont fermés par
+`--aveugle`, et ils ont été trouvés trop tard : la forme trahit la paire, et le
+numéro de Strong aussi, ==ses plages suivant l'ordre alphabétique==.
+
+Le mode aveugle est contrôlé : 68 lignes de données sur 68 ne portent ni forme
+ni numéro.
+
+Et il déclare ce qu'il ne fait pas : ==ce n'est pas la thèse de Bohas==, dont
+l'étymon est une paire non ordonnée à n'importe quelle position. Un résultat
+négatif ne réfuterait que la version simplifiée qui circule.
