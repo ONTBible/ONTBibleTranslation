@@ -219,7 +219,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 176 leçons du journal
+## Les 177 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -397,6 +397,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Deux chiffres, deux questions, et il faut les deux
 - Le critère qui en sort, et sa clause limitative
 - Les quatre biais penchaient tous du même côté
+- Deux remèdes, deux maladies — et les confondre coûte cher
 - Et l'énoncé qui donne son titre à l'entrée
 - Ce qui traverse
 
