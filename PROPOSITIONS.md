@@ -56,6 +56,42 @@ information, et il se voit.
 
 ---
 
+## #NNN · La garde contre un biais est elle-même un biais
+
+    ouverte le   30 septembre 2026, par la manageuse
+    vers         main
+    état         ouverte
+
+**Pourquoi.** L'auteur travaille une thèse sur la motivation du langage hébreu,
+et un exemple y revient partout — la famille פ-ר, où un noyau « rupture »
+==semble== apparaître. Avant qu'il entre dans une chuqqah, on a voulu tuer ou
+confirmer ce « semble ».
+
+Test en aveugle : פ-ר mêlée à ==sept paires tirées au sort==, huit groupes
+anonymisés, clé scellée, lecture faite sans elle.
+
+**Deux résultats, et il faut les deux.** ==1 paire sur 7== a réellement un
+noyau — donc פ-ר est inhabituel, pas unique. Mais ==3 sur 7== semblent en avoir
+un à la première lecture : la méthode produit ==43 % de faux positifs==.
+==La paréidolie n'est pas dans la langue, elle est dans l'œil.==
+
+**Ce que ça engage.** Rien de technique. Mais la clause *motivé ≠ déterminant*
+engage ==la page « Le pourquoi » du site== (PR #161, en attente de l'auteur) :
+sans elle, une chuqqah sur la motivation du langage aurait l'air de contredire
+ce que la page affirme déjà.
+
+Et deux chiffres sont rectifiés avant de voyager : Blasi et al. 2016 a analysé
+==4 298 langues== et non 6 000, et Bohas se dit ==« publiée et poursuivie,
+réception non mesurée »== plutôt que « contestée ».
+
+**L'entrée porte aussi ce que le dispositif a appris sur lui-même.** Quatre
+biais ont été trouvés, ==les quatre penchant du même côté== sans que personne
+ne le cherche — et ==aucun par plus de rigueur dans la mesure== : tous en
+regardant une forme, ou en faisant lire quelqu'un d'autre.
+
+Mon propre décompte penchait aussi, ==dans la direction qui me faisait
+honneur==, ce qui est précisément ce qui le rendait invisible.
+
 ## #134 · Le registre a un point fixe, et le contrôle le nomme
 
     ouverte le   29 septembre 2026, par la manageuse
