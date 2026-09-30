@@ -14,6 +14,7 @@ désigné, et cet index n'en est qu'une table.*
 | `CLAUDE.md` | 1689 | À trancher par l'auteur : une passe générale sur les 99, ou la règle |
 | `CLAUDE.md` | 1783 | À trancher par l'auteur : ce document ne dit rien du het final, et c'est |
 | `SYNCHRONISATION.md` | 3132 | Décision réservée à l'auteur, parce que le pipeline sert les trois |
+| `SYNCHRONISATION.md` | 6079 | À trancher par l'auteur : la règle du 21 septembre est sa décision, et la |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 74 | …m sans en promettre la fiche. ==À confirmer par l'auteur== — c'est le premier cas du corpus où u… |
 | `brouillons/1. kenesset (le Rassemblement)/4. nistarot (les Réalités voilées)/39. chazon-avraham (Apocalypse d'Abraham)/chazon-avraham-1.md` | 76 | …Elohim ==celui qui assigne==. ==À confirmer par l'auteur== : c'est le premier emploi de `ʾelohim… |
 | `brouillons/chuqqot/deux-kelim-un-seul-seuil.md` | 474 | ==Candidats intraduisibles, à trancher par l'auteur.== ==Le construit `basar ʾechad`== d'abord :… |
@@ -219,7 +220,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 177 leçons du journal
+## Les 180 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -400,6 +401,9 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Deux remèdes, deux maladies — et les confondre coûte cher
 - Et l'énoncé qui donne son titre à l'entrée
 - Ce qui traverse
+- Le trou, et il est dans la règle elle-même
+- Ce que j'ai déjà corrigé, et qui ne suffit pas
+- Les trois sorties, et aucune n'est évidente
 
 ---
 

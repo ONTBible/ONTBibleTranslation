@@ -6022,3 +6022,62 @@ le projet reproche ailleurs.
 retranscription n'est jamais le fichier — c'est ce qu'on en tire :== une
 chuqqah, une fiche, une entrée de glossaire. La présente entrée en est
 l'application.
+
+---
+
+## 30 septembre 2026, au soir — « dans le même tour » est infaisable, et c'est ma règle
+
+Le contrôle des worktrees signale `ONTBibleTranslation-sources` comme non
+déclaré. ==Il a raison, et la session qui le tient a fait exactement ce qu'on
+lui demande== : elle a inscrit sa ligne dans le même tour que la création. Cette
+ligne voyage dans sa PR, qui attend l'auteur ==depuis le matin==.
+
+### Le trou, et il est dans la règle elle-même
+
+    la règle dit      « une session qui crée un worktree l'inscrit ici,
+                        DANS LE MÊME TOUR »
+    le dépôt impose   main protégée, passage par pull request
+    donc              la déclaration ne peut pas atteindre main
+                      avant qu'une PR soit fusionnée
+
+==« Dans le même tour » ne peut pas être tenu tant que `main` est protégée.== Au
+mieux on déclare dans une branche, et le délai est celui de la fusion — une
+heure d'ordinaire, ==une journée entière ce jour-là==.
+
+**Et c'est précisément la fenêtre que la règle existe pour fermer.** Les trois
+worktrees disparus des 21-22 septembre l'ont été ==pendant que leur session y
+travaillait encore==. Une déclaration qui arrive après la fusion arrive
+==après le danger==.
+
+### Ce que j'ai déjà corrigé, et qui ne suffit pas
+
+Le contrôle lit désormais ==la copie du journal dans le worktree lui-même==, ce
+qui le rend juste. ==Mais ça répare la mesure, pas le danger.== Celui qui
+s'apprête à démonter un worktree ne lance pas le contrôle : il lit le journal —
+et il lit celui de `main`, où la ligne n'est pas.
+
+C'est la distinction de l'entrée précédente, rencontrée un cran plus bas :
+==refaire le geste attrape ce qu'un instrument fait mal ; ici l'instrument va
+bien et c'est la règle qui ne peut pas être suivie==.
+
+### Les trois sorties, et aucune n'est évidente
+
+- ==relâcher la règle== — « dans le même tour » devient « dans la PR courante ».
+  Honnête, et la fenêtre reste ouverte ;
+- ==déclarer hors de git== — un fichier non versionné à la racine, écrit à la
+  création, lu avant tout démontage. Le journal garde la table durable, qui
+  rattrape à la fusion. ==Précédent dans le dépôt== : `~/ONTBible/.espace-disque`,
+  que la veille écrit et qu'on lit *sans rien lancer* ;
+- ==accepter l'exposition== — juger qu'une journée de délai est un risque tenable,
+  et l'écrire pour que personne ne le redécouvre.
+
+**Ma recommandation est la deuxième**, pour une raison de forme : ==ce qui crée
+le délai est le versionnement==, et la déclaration immédiate n'a pas besoin
+d'être versionnée. Elle a besoin d'être ==lisible sur la machine, tout de
+suite==. Le durable et l'immédiat n'ont pas à être le même artefact.
+
+==À trancher par l'auteur== : la règle du 21 septembre est sa décision, et la
+changer engage les huit sessions.
+
+**Relevé par la session des langues sources, qui était le cas** — et qui l'a
+été toute la journée sans le savoir.
