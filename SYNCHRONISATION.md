@@ -468,6 +468,7 @@ seules demandent une main.
 | `.herdr/worktrees/…/astra` | **Astra** | la KB et ses raccordements |
 | `ONTBibleTranslation-carte` | la manageuse | la carte et le registre, PR #122 |
 | `ONTBibleTranslation-android` | la manageuse | PR #125 |
+| `ONTBibleTranslation-sources` | **les langues sources** | les témoins, et les permissions avec les projets savants |
 | `ONTBibleApp` | **iOS** | arbre principal — leadeuse du dépôt |
 | `ONTBibleApp-android` | **Android** | poste actif |
 | `ONTBibleApp-mac` | **macOS** | poste actif |

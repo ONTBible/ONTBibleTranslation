@@ -241,3 +241,51 @@ correctif ; il ne prouve pas l'activation du nouveau filtre. Les raccordements
 supplémentaires restent retirés en attendant une réponse directe de l'auteur
 sur leur activation. La fusion de cette PR, l'activation dans les sessions et
 la vérification native sur les deux transports sont trois étapes distinctes.
+
+---
+
+## #132 · Consulter n'est pas redistribuer — et deux témoins atteignables
+
+    ouverte le   29 septembre 2026, par les langues sources
+    vers         main
+    état         ouverte
+
+**Pourquoi.** Trois mesures comparatistes ont été demandées ce mois-ci, et
+chaque fois la question *« a-t-on le droit ? »* a été reposée de zéro. La
+doctrine de licence du projet tenait sur deux axes — la clause de prix, réglée
+le 31 août, et la clause de contagion — et ==les deux supposent qu'on
+rediffuse==. Aucun ne dit ce qui se passe quand on lit une source pour écrire
+une fiche en français. C'est ce qui a rendu la lecture du lexique de Lane
+gratuite le 29, et personne n'aurait pu le déduire du dépôt.
+
+La seconde moitié inscrit les deux langues qui nous manquent — l'ougaritique et
+l'arabe —, toutes deux atteignables, ==avec la raison de ne pas les ouvrir
+aujourd'hui==. Le corpus de Copenhague est en CC BY 4.0 et n'a pas de lemmes :
+il ne peut pas départager deux racines sous une graphie, ce qui est exactement
+ce qu'on lui demanderait. Sans cette limite écrite, il sera rouvert dans six
+mois par quelqu'un qui croira avoir trouvé la réponse.
+
+**Ce que ça engage.** Rien de technique — `context/` ne voyage pas dans `dist/`,
+aucune liseuse ne le lit, aucun format ne change. Mais deux choses engagent les
+voisins :
+
+- ==l'axe de consultation vaut pour les trois dépôts==. Toute session qui butera
+  sur une source sous licence peut désormais lire sans rien demander, tant
+  qu'elle ne redistribue pas ;
+- ==la ligne d'état de la lettre à Ran HaCohen devient le registre de cet
+  engagement==. Elle porte *pas encore envoyée*, et la date s'y inscrira quand
+  l'auteur l'aura envoyée. Une session qui relance ce fil regarde cette ligne
+  d'abord.
+
+**Pour la relire.** Deux chiffres sont mesurés et non déduits, et chacun a
+écarté une explication concurrente : `1 582` contre `13 330` caractères sur la
+même copie de Lane, une racine de chaque côté de sa mort — sans quoi *« Lane ne
+dit rien »* et *« le site tronque »* se ressemblaient ; et `441 · 389 · 52`
+relevé sur `origin/main`, non sur un arbre de travail.
+
+Et l'entrée garde une correction contre elle-même, parce qu'elle vaut plus que
+son résultat : l'ougaritique allait être déclaré hors d'atteinte par un
+argument structurel — ==Ugarit découvert en 1929, donc toute la discipline plus
+jeune que le domaine public==. La prémisse est vraie, la conclusion est fausse,
+et la faute a la forme qu'il faut connaître : *une explication de pourquoi il
+est inutile de chercher*.

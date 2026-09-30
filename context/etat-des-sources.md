@@ -66,6 +66,26 @@ supposer. ==Et c'est aussi la réponse au silence de VanderKam.==
 très commode, et ==n'a aucune licence== (`"license": null`). Prendre la source,
 jamais le dérivé.
 
+#### Où en est la lettre — 29 septembre 2026
+
+Le texte est **écrit, vérifié auprès de chaque session qui tient un chiffre, et
+remis à l'auteur, qui l'envoie lui-même** depuis `contact@ontbible.com`. Il
+porte l'état exact du guèze chez nous — importé, attribué publiquement, ==ni
+distribué, ni lisible, ni atteignable== faute que *Chanokh* soit traduit — et il
+pose la question de licence ci-dessus.
+
+    destinataire   hacohen@tauex.tau.ac.il
+    envoyée le     ==pas encore — en attente de l'auteur==
+
+==La date d'envoi s'inscrit ici quand elle est connue==, et pas avant : c'est
+elle qui dit quand l'engagement du 1er septembre a été tenu. Une session qui
+relance ce fil doit d'abord regarder cette ligne.
+
+Deux choses ont été faites avant la remise, pour qu'il puisse vérifier au lieu
+de croire : `https://ontbible.com/sources/manifeste.json` a été déployé et rend
+**HTTP 200** avec son attribution complète, et le compte des fiches a été
+remesuré sur `origin/main` plutôt que dérivé.
+
 ### Sefar Gibbaraya et Tsavaʾat Levi — un seul dépôt, une seule lettre
 
 `github.com/ETCBC/dss` — les rouleaux de la mer Morte au format Text-Fabric,
@@ -274,13 +294,110 @@ Societies*.
 
 ---
 
+## Consulter n'est pas redistribuer — l'axe qui manquait
+
+**Relevé le 29 septembre 2026**, en ouvrant le lexique de Lane pour une question
+d'arabe. ==Aucune permission n'a été nécessaire, et il a fallu se demander
+pourquoi== — la réponse n'était écrite nulle part.
+
+La doctrine de licence du projet tenait sur deux axes, et ==les deux supposent
+qu'on rediffuse== :
+
+    clause de prix        NC, « ne peut être vendu seul »   réglée le 31 août 2026 :
+                                                            l'app est gratuite, et
+                                                            l'imprimé n'a pas de
+                                                            texte source
+    clause de contagion   GPL, CC BY-SA                     la vraie question, parce
+                                                            qu'elle force la relicence
+                                                            quel que soit le prix
+
+**Le troisième axe : lire une source pour écrire une fiche en français ne
+rediffuse rien**, donc ==ni l'une ni l'autre ne mord==, quelle que soit la
+licence. La licence redevient une question ==le jour où un témoin entre dans
+`sources/`== pour voyager dans l'app.
+
+Conséquence pratique, et elle est large : ==une question de sens se règle
+toujours sans négocier==. C'est seulement une question de *texte à distribuer*
+qui demande une permission.
+
+## Deux témoins manquent au corridor, et les deux sont atteignables
+
+**Relevé le 29 septembre 2026**, après que la racine ל־ח־ם eut buté deux fois
+sur des langues que nous n'avons pas. ==Ni l'un ni l'autre n'est ouvert
+aujourd'hui==, et la section dit pourquoi — pour que personne ne les rouvre en
+croyant avoir trouvé une réponse.
+
+### L'ougaritique — CC BY 4.0, et il ne peut pas répondre
+
+**Copenhagen Ugaritic Corpus**, Højgaard, Naaijer & Notarius, Zenodo
+`10.5281/zenodo.10695312`. ==La même licence que l'OSHB que nous portons déjà.==
+Couvre **KTU 1.1-1.6** — le cycle de Baʿal — au format text-fabric,
+translittération consonantique en caractères latins.
+
+⚠️ **Pas de lemmatisation.** Seulement `g_cons`, les consonnes. Il dirait donc
+*qu'*une forme paraît et dans quel contexte, et ==jamais s'il y a deux racines
+sous une même graphie== :
+
+    hébreu        l'OSHB porte les lemmes    3898 a ≠ 3898 b, le témoin arbitre
+    ougaritique   consonnes seules           rien ne départage
+
+==C'est précisément la question qu'on lui aurait posée.== Un témoin atteignable
+qui ne répond pas à la question n'est pas un témoin à ouvrir : il le deviendra
+si une question de *contexte* se pose, pas une question de *racines*.
+
+### L'arabe — aucun corpus n'est nécessaire
+
+Les lexiques fondateurs sont médiévaux, donc ==publics par leur âge seul==, et
+ce sont les autorités que Lane cite sous ses sigles :
+
+    Ṣiḥāḥ           Jawharī       m. ~1003     S
+    Lisān al-ʿArab  Ibn Manẓūr    m. 1311
+    Qāmūs           Fīrūzābādī    m. 1414      K
+    Tāj al-ʿArūs    Zabīdī        m. 1791      TA
+
+Servis par `arabiclexicon.hawramani.com`, filtrables par ouvrage (`?book=`).
+
+==Et Lane lui-même a une limite qu'il faut connaître avant de le citer.== Il
+meurt en 1876 arrivé à ق, la 21ᵉ lettre ; les parties VI-VIII (1877-1893) sont
+compilées par Stanley Lane-Poole sur des notes inachevées. **Toute racine en ك,
+ل, م, ن, ه, و, ي est donc dans la portion lacunaire.** Mesuré plutôt que
+supposé, sur la même copie :
+
+    لحم   partie 8, posthume         1 582 caractères
+    حرب   partie 3, écrite par Lane  13 330 caractères
+
+==Son silence sur un sens n'y est donc pas une absence dans la langue==, et le
+*Lisān* est le recours quand une datation compte.
+
+*(Pour mémoire : **OpenITI**, le grand corpus de textes islamicates, est en
+**CC BY-NC-SA 4.0** — le NC passe, le SA serait la clause à regarder. Inutile
+pour de la lexicographie.)*
+
+### Ce que cette entrée a corrigé, et qui vaut plus qu'elle
+
+J'allais répondre que l'ougaritique était ==structurellement== hors d'atteinte :
+Ugarit est découvert en 1929, donc toute la discipline est plus jeune que
+l'horizon du domaine public, et ses éditions de référence — KTU chez
+Ugarit-Verlag, DULAT chez Brill — sont sous droits.
+
+**La prémisse sur les éditions est vraie. La conclusion est fausse** : un jeu de
+données universitaire de 2024 sort en CC BY quel que soit l'âge du champ.
+==L'ancienneté d'un texte et la licence de sa saisie sont indépendantes==, et
+l'argument les avait soudées.
+
+Il avait en outre la forme la plus dangereuse — ==une explication de *pourquoi*
+il était inutile de chercher==. D'où l'énoncé, qui déborde les licences :
+
+> **Un argument qui explique pourquoi il est inutile de chercher est celui
+> qu'il faut vérifier en premier.**
+
 ## Récapitulatif — à qui écrire, dans quel ordre
 
 | livre | ressource | licence | action |
 |---|---|---|---|
 | Toledot | OCP `AdamEve.xml` | **CC BY 4.0 — accordé** | rien |
 | Chazon Barukh | OCP `2Bar-Syr.xml` | **CC BY 4.0 — accordé** | rien |
-| Yovelim | BM `LIT1697Jubilees.xml` | CC BY-SA 4.0 | **Ran HaCohen**, relance du fil |
+| Yovelim | BM `LIT1697Jubilees.xml` | CC BY-SA 4.0 | **Ran HaCohen** — lettre remise à l'auteur, ==pas encore envoyée== |
 | Sefar Gibbaraya | `ETCBC/dss` | CC BY-NC 4.0 | van Peursen → Abegg |
 | Tsavaʾat Levi | `ETCBC/dss` | CC BY-NC 4.0 | ==la même lettre== |
 | Chazon Avraham | Paleorosia 2021 | badge « CC BY » à confirmer | rédaction SPbDA |
