@@ -219,7 +219,7 @@ se découvre pas le jour où l'ordre de lecture changera.
 - *Igeret ha-Ivrim* — Lettre aux Hébreux
 - *Machazeh Yohanan* — Apocalypse
 
-## Les 170 leçons du journal
+## Les 176 leçons du journal
 
 *Dans `SYNCHRONISATION.md`, et portées à l'identique dans les trois dépôts.*
 
@@ -393,6 +393,12 @@ se découvre pas le jour où l'ordre de lecture changera.
 - Trois bancs ont mesuré leur propre attente
 - Ce que la jointure des Shemot change chez les voisins — vérifié, pas supposé
 - Un parseur indulgent fabrique des clés qui ne mènent nulle part
+- Le dispositif, et pourquoi il fallait qu'il soit aveugle
+- Deux chiffres, deux questions, et il faut les deux
+- Le critère qui en sort, et sa clause limitative
+- Les quatre biais penchaient tous du même côté
+- Et l'énoncé qui donne son titre à l'entrée
+- Ce qui traverse
 
 ---
 
