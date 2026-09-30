@@ -314,3 +314,40 @@ ni numéro.
 Et il déclare ce qu'il ne fait pas : ==ce n'est pas la thèse de Bohas==, dont
 l'étymon est une paire non ordonnée à n'importe quelle position. Un résultat
 négatif ne réfuterait que la version simplifiée qui circule.
+
+---
+
+## #138 · Départager les ex æquo — le mot partagé n'était pas reproductible
+
+    ouverte le   30 septembre 2026, par les langues sources
+    vers         main
+    état         ouverte
+
+**Pourquoi.** `--harmonisation` élisait **un** mot partagé par groupe, et ce mot
+==changeait d'une exécution à l'autre== quand plusieurs étaient à égalité :
+`Counter.most_common` départage par ordre de première rencontre, lequel dépend
+ici de l'itération d'un `set`, donc du hachage, donc du processus.
+
+    PYTHONHASHSEED=0  ר-ע « rule »      PYTHONHASHSEED=2  ר-ע « pasture »
+    PYTHONHASHSEED=4  ר-ע « tend »      — à compte et pourcentage identiques
+
+==Le §2.5 ter du `CLAUDE.md` portait déjà l'avertissement==, mot pour mot, sur
+`Counter.most_common` et les ex æquo. Je l'ai reproduit dans un script dont le
+docstring entier traite des biais d'instrument. ==Une règle n'empêche que ce
+qu'on pense à lui soumettre.==
+
+**Ce que ça engage.** Le journal du 30 septembre (#135) et sa correction (#137)
+citent ces mots. ==Deux valeurs sur huit étaient instables== — `ר-ע` (19 ex
+æquo) et `שׁ-ק` (2) ; les six autres avaient un vainqueur unique et étaient
+reproductibles depuis le début. Le rang, le compte et le pourcentage n'ont
+jamais bougé.
+
+**Pour la relire.** La correction ==ne choisit pas mieux, elle refuse de
+choisir== : à égalité, l'outil dit *combien* de mots sont ex æquo et les nomme
+tous. Et ce refus ==apprend quelque chose que l'élection cachait== : sur ר-ע,
+dix-neuf mots atteignent le plafond de 2/9, c'est-à-dire qu'==aucun mot n'est
+partagé== — le 22 % n'était pas un signal faible, c'était du bruit.
+
+Le résultat en sort plus net, pas moins : `פ-ר` est ==le seul groupe où une
+majorité de lemmes partage un mot==, 8 sur 10. Partout ailleurs le maximum est
+minoritaire, et deux fois il est au plancher.
